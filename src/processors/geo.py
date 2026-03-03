@@ -1,8 +1,8 @@
 """
 Geo Processor
 
-Checks if events are within Bangalore (50km radius) based on their geo coordinates.
-Tags events outside this radius with NOTINBLR keyword.
+Checks if events are within Delhi (50km radius) based on their geo coordinates.
+Tags events outside this radius with NOTINDEL keyword.
 """
 
 from math import radians, sin, cos, sqrt, atan2
@@ -73,8 +73,8 @@ class GeoProcessor(Processor):
             keywords = event.get("keywords", [])
             if isinstance(keywords, dict):
                 keywords = []
-            if "NOTINBLR" not in keywords:
-                keywords = keywords + ["NOTINBLR"]
+            if "NOTINDEL" not in keywords:
+                keywords = keywords + ["NOTINDEL"]
                 event["keywords"] = sorted(list(set(keywords)))
 
         return event

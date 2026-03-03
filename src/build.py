@@ -9,7 +9,7 @@ import glob
 def insert_event_json(conn, url, event_json):
     d = json.dumps(event_json)
     cursor = conn.cursor()
-    cursor.execute("INSERT INTO events (url, event_json) VALUES (?, ?)", (url, d))
+    cursor.execute("INSERT OR IGNORE INTO events (url, event_json) VALUES (?, ?)", (url, d))
 
 
 def create_events_table():
@@ -18,7 +18,7 @@ def create_events_table():
     cursor.execute(
         """
         CREATE TABLE IF NOT EXISTS events (
-            url TEXT,
+            url TEXT UNIQUE,
             event_json TEXT
         );
     """

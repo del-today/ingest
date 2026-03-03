@@ -154,7 +154,7 @@ class MyProcessor(Processor):
 
 Key processors:
 - `patch.py` - Applies patch files based on domain
-- `geo.py` - Tags events >50km from Bangalore as NOTINBLR
+- `geo.py` - Tags events >50km from Delhi as NOTINDEL
 - `schemafixer.py` - Fixes common schema issues
 
 ## Post-build SQL
