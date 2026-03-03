@@ -35,5 +35,5 @@ def scrape_cm(location):
             print("FAIL")
             pass
 
-
-scrape_cm("BLR")
+# GURGAON EVENT!!
+scrape_cm("GGM")

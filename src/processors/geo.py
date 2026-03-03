@@ -9,8 +9,8 @@ from math import radians, sin, cos, sqrt, atan2
 from .base import Processor
 
 # Bangalore center coordinates
-BLR_LAT = 12.964989402811952
-BLR_LNG = 77.58848208150272
+DEL_LAT = 28.6139
+DEL_LNG = 77.2090
 MAX_DISTANCE_KM = 50
 
 
@@ -67,7 +67,7 @@ class GeoProcessor(Processor):
                 del location["geo"]
             return event
 
-        distance = haversine_distance(lat, lng, BLR_LAT, BLR_LNG)
+        distance = haversine_distance(lat, lng, DEL_LAT, DEL_LNG)
 
         if distance > MAX_DISTANCE_KM:
             keywords = event.get("keywords", [])

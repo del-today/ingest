@@ -1,0 +1,212 @@
+curl_chrome116 --silent --cookie-jar /tmp/allevents.cookies https://allevents.in/ -o /dev/null
+curl_chrome116 --silent --cookie /tmp/allevents.cookies --request POST \
+  --url https://allevents.in/api/index.php/categorization/web/v1/list \
+  --header 'Referer: https://allevents.in/new-delhi/all' \
+  --header "Content-Type: application/json" \
+  --data-raw '{"venue": 0,"page": 1,"rows": 100,"tag_type": null,"sdate": 1772536238,"edate": 1775214638,"city": "new-delhi","keywords": 0,"category": ["all"],"formats": 0,"sort_by_score_only": true}' | \
+  jq -r '.item[] | .share_url' | sort > out/allevents.txt || 	(echo "FAIL out/allevents.txt" && git checkout -- out/allevents.txt && echo "RESTORED out/allevents.txt")
+echo "[ALLEVENTS] $(wc -l out/allevents.txt | cut -d ' ' -f 1)"
+[ALLEVENTS] 100
+python -m src.sources.highape | sort > out/highape.txt || 	(echo "FAIL out/highape.txt" && git checkout -- out/highape.txt && echo "RESTORED out/highape.txt")
+echo "[HIGHAPE] $(wc -l out/highape.txt | cut -d ' ' -f 1)"
+[HIGHAPE] 156
+curl_chrome116 --silent \
+--url 'https://api.insider.in/home?city=delhi&eventType=physical&filterBy=go-out&norm=1&select=lite&typeFilter=physical' | \
+jq -r '.list.masterList|keys[]|["https://insider.in",., "event"]|join("/")' | sort > out/district.txt ||  	(echo "FAIL out/district.txt" && git checkout -- out/district.txt && echo "RESTORED out/district.txt")
+sed -i 's|https://insider.in/|https://district.in/|g' out/district.txt
+echo "[DISTRICT] $(wc -l out/district.txt | cut -d ' ' -f 1)"
+[DISTRICT] 0
+python -m src.sources.bhaagoindia | sort > out/bhaagoindia.txt ||  	(echo "FAIL out/bhaagoindia.txt" && git checkout -- out/bhaagoindia.txt && echo "RESTORED out/bhaagoindia.txt")
+echo "[BHAAGOINDIA] $(wc -l out/bhaagoindia.txt | cut -d ' ' -f 1)"
+[BHAAGOINDIA] 1
+python -m src.sources.goethe || 	(echo "FAIL out/goethe.json" && git checkout -- out/goethe.json && echo "RESTORED out/goethe.json")
+[GOETHE] 0 events
+python -m src.sources.urbanaut || 	(echo "FAIL out/urbanaut.json" && git checkout -- out/urbanaut.json && echo "RESTORED out/urbanaut.json")
+Traceback (most recent call last):
+  File "/home/ansh/Desktop/delhi-today/ingest/.venv/lib/python3.13/site-packages/requests/models.py", line 976, in json
+    return complexjson.loads(self.text, **kwargs)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ansh/.local/share/uv/python/cpython-3.13.12-linux-x86_64-gnu/lib/python3.13/json/__init__.py", line 352, in loads
+    return _default_decoder.decode(s)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/home/ansh/.local/share/uv/python/cpython-3.13.12-linux-x86_64-gnu/lib/python3.13/json/decoder.py", line 345, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ansh/.local/share/uv/python/cpython-3.13.12-linux-x86_64-gnu/lib/python3.13/json/decoder.py", line 363, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/ansh/Desktop/delhi-today/ingest/src/sources/urbanaut.py", line 171, in <module>
+    for x in scrape_urbanaut()["hits"]:
+             ~~~~~~~~~~~~~~~^^
+  File "/home/ansh/Desktop/delhi-today/ingest/src/sources/urbanaut.py", line 48, in scrape_urbanaut
+    return session.get(SEARCH_URL, headers=headers, params=querystring).json()
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/ansh/Desktop/delhi-today/ingest/.venv/lib/python3.13/site-packages/requests/models.py", line 980, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+FAIL out/urbanaut.json
+RESTORED out/urbanaut.json
+python -m src.sources.sumukha || 	(echo "FAIL out/sumukha.json" && git checkout -- out/sumukha.json && echo "RESTORED out/sumukha.json")
+[SUMUKHA] 0 events
+python -m src.sources.sofar || 	(echo "FAIL out/sofar.json" && git checkout -- out/sofar.json && echo "RESTORED out/sofar.json")
+[SOFAR] 0 events
+python -m src.sources.bluetokai || 	(echo "FAIL out/bluetokai.json" && git checkout -- out/bluetokai.json && echo "RESTORED out/bluetokai.json")
+[BLUETOKAI] 0 events
+python -m src.sources.gullytours || 	(echo "FAIL out/gullytours.json" && git checkout -- out/gullytours.json && echo "RESTORED out/gullytours.json")
+[GULLYTOURS] 7 events
+python -m src.sources.townscript | sort -u > out/townscript.txt || 	(echo "FAIL out/townscript.txt" && git checkout -- out/townscript.txt && echo "RESTORED out/townscript.txt")
+echo "[TOWNSCRIPT] $(wc -l out/townscript.txt | cut -d ' ' -f 1)"
+[TOWNSCRIPT] 2
+python -m src.sources.tonight || 	(echo "FAIL out/tonight.json" && git checkout -- out/tonight.json && echo "RESTORED out/tonight.json")
+python -m src.sources.creativemornings | sort > out/creativemornings.txt || 	(echo "FAIL out/creativemornings.txt" && git checkout -- out/creativemornings.txt && echo "RESTORED out/creativemornings.txt")
+echo "[CREATIVEMORNINGS] $(wc -l out/creativemornings.txt | cut -d ' ' -f 1)"
+[CREATIVEMORNINGS] 0
+python -m src.sources.adidas || 	(echo "FAIL out/adidas.json" && git checkout -- out/adidas.json && echo "RESTORED out/adidas.json")
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/ansh/Desktop/delhi-today/ingest/src/sources/adidas.py", line 53, in <module>
+    main()
+    ~~~~^^
+  File "/home/ansh/Desktop/delhi-today/ingest/src/sources/adidas.py", line 47, in main
+    events = fetch_events()
+  File "/home/ansh/Desktop/delhi-today/ingest/src/sources/adidas.py", line 23, in fetch_events
+    res = json.loads(body)
+  File "/home/ansh/.local/share/uv/python/cpython-3.13.12-linux-x86_64-gnu/lib/python3.13/json/__init__.py", line 352, in loads
+    return _default_decoder.decode(s)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/home/ansh/.local/share/uv/python/cpython-3.13.12-linux-x86_64-gnu/lib/python3.13/json/decoder.py", line 345, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ansh/.local/share/uv/python/cpython-3.13.12-linux-x86_64-gnu/lib/python3.13/json/decoder.py", line 363, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+FAIL out/adidas.json
+RESTORED out/adidas.json
+python -m src.sources.pvr || (	(echo "FAIL out/pvr-cinemas.csv" && git checkout -- out/pvr-cinemas.csv && echo "RESTORED out/pvr-cinemas.csv"); 	(echo "FAIL "out/pvr-movies.csv"" && git checkout -- "out/pvr-movies.csv" && echo "RESTORED "out/pvr-movies.csv""); 	(echo "FAIL "out/pvr-sessions.csv"" && git checkout -- "out/pvr-sessions.csv" && echo "RESTORED "out/pvr-sessions.csv""))
+[PVR] 27 cinemas
+[PVR] 54 movies
+mkdir -p out/ticketnew
+python -m src.sources.ticketnew || echo "[TICKETNEW] FAILED";
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/ansh/Desktop/delhi-today/ingest/src/sources/ticketnew.py", line 269, in <module>
+    main()
+    ~~~~^^
+  File "/home/ansh/Desktop/delhi-today/ingest/src/sources/ticketnew.py", line 241, in main
+    movies = fetch_movies(movie_list)
+  File "/home/ansh/Desktop/delhi-today/ingest/src/sources/ticketnew.py", line 101, in fetch_movies
+    "lang": LANGUAGE_TO_ISO_MAP[lang["lang"]],
+            ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+KeyError: 'Portuguese'
+[TICKETNEW] FAILED
+python -m src.sources.trove || 	(echo "FAIL out/trove.json" && git checkout -- out/trove.json && echo "RESTORED out/trove.json")
+[TROVE] 1 events
+curl_chrome116 --silent --insecure 'https://api.total-environment.com/api/v1.0/getEvents.json' -X POST -H 'content-type: application/json' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhbGciOiJIUzI1NiIsInN1YiI6InRvdGFsX2Vudmlyb25tZW50IiwiaWF0IjoxNzcyNTM2MjM4LCJleHAiOjE3NzI2MjI2Mzh9.9VPhvpKnnQ0-cgmmjQoDHo8OFktWm4FJQLAsnrIEKqo' --data-raw '{"flag":"upcoming"}' --output out/te.jsonnet
+python src/jsonnet.py out/te.jsonnet || 	(echo "FAIL out/te.json" && git checkout -- out/te.json && echo "RESTORED out/te.json")
+[TE] 18 events (jsonnet.py)
+python -m src.sources.sis || 	(echo "FAIL out/sis.json" && git checkout -- out/sis.json && echo "RESTORED out/sis.json")
+python -m src.sources.eventbrite pumarun | sort > out/pumarun.txt || 	(echo "FAIL out/pumarun.txt" && git checkout -- out/pumarun.txt && echo "RESTORED out/pumarun.txt")
+[EVENTBRITE/pumarun] 0 events
+echo "[PUMARUN] $(wc -l out/pumarun.txt | cut -d ' ' -f 1)"
+[PUMARUN] 0
+python -m src.sources.skillboxes 9 1105542 || 	(echo "FAIL out/skillboxes.jsonnet" && git checkout -- out/skillboxes.jsonnet && echo "RESTORED out/skillboxes.jsonnet")
+python src/jsonnet.py out/skillboxes.jsonnet || 	(echo "FAIL out/skillboxes.json" && git checkout -- out/skillboxes.json && echo "RESTORED out/skillboxes.json")
+[SKILLBOXES] 71 events (jsonnet.py)
+python -m src.sources.thewhitebox || 	(echo "FAIL out/thewhitebox.json" && git checkout -- out/thewhitebox.json && echo "RESTORED out/thewhitebox.json")
+[THEWHITEBOX] Failed to parse timings for https://thewhiteboxco.in/products/cupids-soiree-singles-mixer-new	date_str='Early Bird - Lady's Pass / Bangalore | Bastian Garden City'
+[THEWHITEBOX] Failed to parse timings for https://thewhiteboxco.in/products/pottery-workshop	date_str='Default Title'
+[THEWHITEBOX] 0 events
+python -m src.sources.timeandspace || 	(echo "FAIL out/timeandspace.json" && git checkout -- out/timeandspace.json && echo "RESTORED out/timeandspace.json")
+[TIMEANDSPACE] 1 events
+python -m src.sources.paintbar || 	(echo "FAIL out/paintbar.json" && git checkout -- out/paintbar.json && echo "RESTORED out/paintbar.json")
+[PAINTBAR] 0 events
+python -m src.sources.artzo | sort > out/artzo.txt || 	(echo "FAIL out/artzo.txt" && git checkout -- out/artzo.txt && echo "RESTORED out/artzo.txt")
+echo "[ARTZO] $(wc -l out/artzo.txt | cut -d ' ' -f 1)"
+[ARTZO] 0
+python -m src.sources.pedalintandem || 	(echo "FAIL out/pedalintandem.json" && git checkout -- out/pedalintandem.json && echo "RESTORED out/pedalintandem.json")
+[PIT] /experiences/cycle-rides-blr/kenneth-anderson cauvery north wildlife sanctuary not in BLR
+[PIT] /experiences/thePITStop/malgudi-heritage-ride-north malleswaram, vyalikaval, sadashivanagar not in BLR
+[PIT] /experiences/cycle-tours/kodaikanal is 3 Nights / 4 Days (including transits) long, assuming MULTIDAY and ignoring
+[PIT] /experiences/cycle-tours/misty-mountain-hop is 3 Nights / 4 Days (including transit) long, assuming MULTIDAY and ignoring
+wget -q https://calendar.google.com/calendar/ical/c_0tfecbctgj9m3ei54jihee4u0c%40group.calendar.google.com/public/basic.ics -O out/cksl.ics || 	(echo "FAIL out/cksl.ics" && git checkout -- out/cksl.ics && echo "RESTORED out/cksl.ics")
+python src/ics-to-event.py out/cksl.ics out/cksl.jsonnet || 	(echo "FAIL out/cksl.jsonnet" && git checkout -- out/cksl.jsonnet && echo "RESTORED out/cksl.jsonnet")
+JSON data saved to out/cksl.jsonnet
+python src/jsonnet.py out/cksl.jsonnet || 	(echo "FAIL out/cksl.json" && git checkout -- out/cksl.json && echo "RESTORED out/cksl.json")
+[CKSL] 0 events (jsonnet.py)
+python -m src.sources.indiarunning || 	(echo "FAIL out/indiarunning.json" && git checkout -- out/indiarunning.json && echo "RESTORED out/indiarunning.json")
+[INDIARUNNING] 7 events
+python -m src.sources.penciljam || 	(echo "FAIL out/penciljam.json" && git checkout -- out/penciljam.json && echo "RESTORED out/penciljam.json")
+[PENCILJAM] 3 events
+Done
+python -m src.build
+Could not find event in https://allevents.in/new-delhi/200029612326217
+Could not find event in https://allevents.in/new-delhi/3900029664728643
+.github/sqlite.sh
+Archive:  sqlite.zip
+  inflating: sqlite/sqlite3.c        
+  inflating: sqlite/shell.c          
+  inflating: sqlite/sqlite3.h        
+  inflating: sqlite/sqlite3ext.h     
+/tmp
+Running post-build steps
+python -m src.processors
+INFO:__main__:Discovered 9 processors: ['SchemaFixer', 'GeoProcessor', 'AllEvents', 'BhaagoIndia', 'District', 'HighApe', 'IgnoredEvents', 'Koota', 'Patch']
+INFO:__main__:Processing 1071 events
+INFO:__main__:Committed 20 modifications
+INFO:__main__:Committed 40 modifications
+INFO:__main__:Committed 60 modifications
+INFO:__main__:Committed 80 modifications
+INFO:__main__:Committed 100 modifications
+INFO:__main__:Committed 120 modifications
+INFO:__main__:Committed 140 modifications
+INFO:__main__:Committed 160 modifications
+INFO:__main__:Committed 180 modifications
+INFO:__main__:Committed 200 modifications
+INFO:__main__:Committed 220 modifications
+INFO:__main__:Committed 240 modifications
+INFO:__main__:Committed 260 modifications
+INFO:__main__:Committed 280 modifications
+INFO:__main__:Committed 300 modifications
+INFO:__main__:Committed 320 modifications
+INFO:__main__:Committed 340 modifications
+INFO:__main__:Committed 360 modifications
+INFO:__main__:Committed 380 modifications
+INFO:__main__:Committed 400 modifications
+INFO:__main__:Committed 420 modifications
+INFO:__main__:Committed 440 modifications
+INFO:__main__:Committed 460 modifications
+INFO:__main__:Committed 480 modifications
+INFO:__main__:Committed 500 modifications
+INFO:__main__:Committed 520 modifications
+INFO:__main__:Committed 540 modifications
+INFO:__main__:Committed 560 modifications
+INFO:__main__:Committed 580 modifications
+INFO:__main__:Committed 600 modifications
+INFO:__main__:Committed 620 modifications
+INFO:__main__:Committed 640 modifications
+INFO:__main__:Processing complete. Modified 657 events
+[IMP] Error parsing startDate for https://bhaagoindia.com/events/world-womens-day-run-2026-5889/: Invalid isoformat string: 'March 8, 2026, 5 a.m.'
+[IMP] Error parsing endDate for https://bhaagoindia.com/events/world-womens-day-run-2026-5889/: Invalid isoformat string: 'March 8, 2026, 5 a.m.'
+LD_PRELOAD=./libsqlite.so python3 -c "import sqlite3;print(sqlite3.sqlite_version)"
+3.50.4
+LD_PRELOAD=./libsqlite.so python3 -m sqlite3 events.db < post-build.sql
+sqlite3 shell, running on SQLite version 3.50.4
+Connected to 'events.db'
+
+Each command will be run using execute() on the cursor.
+Type ".help" for more information; type ".quit" or CTRL-D to quit.
+sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite> sqlite> sqlite> sqlite> sqlite>     ...     ...     ...     ...     ... sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite> sqlite>     ...     ...     ...     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite>     ...     ...     ...     ...     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite>     ... sqlite> sqlite>     ... sqlite> sqlite>     ... sqlite> sqlite>     ... sqlite> sqlite>     ... sqlite> sqlite>     ... sqlite> sqlite>     ... sqlite> sqlite>     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> 
+python src/validator.py --output report.json
+INFO:__main__:Starting validation with PyLD + jsonschema...
+INFO:__main__:✅ Validation complete!
+INFO:__main__:📊 Total: 1071, Valid: 1071 (100.0%), Invalid: 0 (0.0%), Warnings: 24 (2.2%)
+INFO:__main__:📄 Results written to report.json
+Finished build
