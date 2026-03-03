@@ -132,6 +132,9 @@ out/cksl.jsonnet: out/cksl.ics
 out/cksl.json: out/cksl.jsonnet
 	python src/jsonnet.py out/cksl.jsonnet || $(call restore-file,$@)
 
+out/ihc.json:
+	python -m src.sources.ihc || $(call restore-file,$@)
+	
 out/lavonne.json:
 	python -m src.sources.lavonne || $(call restore-file,$@)
 
