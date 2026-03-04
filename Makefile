@@ -134,7 +134,10 @@ out/cksl.json: out/cksl.jsonnet
 
 out/ihc.json:
 	python -m src.sources.ihc || $(call restore-file,$@)
-	
+
+out/fillum.json:
+	python -m src.sources.fillum || $(call restore-file,$@)
+
 out/lavonne.json:
 	python -m src.sources.lavonne || $(call restore-file,$@)
 
@@ -158,6 +161,8 @@ fetch: out/allevents.txt \
  out/district.txt \
  out/bhaagoindia.txt \
  out/goethe.json \
+ out/ihc.json \
+ out/fillum.json \
  out/urbanaut.json \
  out/sumukha.json \
  out/sofar.json \
