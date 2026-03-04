@@ -67,7 +67,7 @@ out/bhaagoindia.txt:
 	echo "[BHAAGOINDIA] $$(wc -l $@ | cut -d ' ' -f 1)"
 
 out/goethe.json:
-	python -m src.sources.goethe || $(call restore-file,$@)
+	python -m src.sources.goethe || $(call restore-file,$@)	
 
 out/urbanaut.json:
 	python -m src.sources.urbanaut || $(call restore-file,$@)
@@ -138,6 +138,15 @@ out/ihc.json:
 out/fillum.json:
 	python -m src.sources.fillum || $(call restore-file,$@)
 
+out/iic.json:
+	python -m src.sources.iic || $(call restore-file,$@)
+
+out/khoj.json:
+	python -m src.sources.khoj || $(call restore-file,$@)
+
+out/knma.json:
+	python -m src.sources.knma || $(call restore-file,$@)
+
 out/lavonne.json:
 	python -m src.sources.lavonne || $(call restore-file,$@)
 
@@ -162,7 +171,10 @@ fetch: out/allevents.txt \
  out/bhaagoindia.txt \
  out/goethe.json \
  out/ihc.json \
+ out/iic.json \
  out/fillum.json \
+ out/khoj.json \
+ out/knma.json \
  out/urbanaut.json \
  out/sumukha.json \
  out/sofar.json \

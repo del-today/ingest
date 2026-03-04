@@ -712,7 +712,7 @@ UPDATE events SET event_json = json_replace(event_json, '$.keywords', json_inser
 WHERE event_json ->> '$.location' LIKE '%connaught place%' OR event_json ->> '$.location' LIKE '%connaught%' OR event_json ->> '$.location' LIKE '%janpath%' OR event_json ->> '$.location' LIKE '%barakhamba%' OR event_json ->> '$.location' LIKE '%kasturba gandhi%';
 
 UPDATE events SET event_json = json_replace(event_json, '$.keywords', json_insert(event_json -> '$.keywords', '$[#]', 'LODHI'))
-WHERE event_json ->> '$.location' LIKE '%lodhi colony%' OR event_json ->> '$.location' LIKE '%lodhi road%' OR event_json ->> '$.location' LIKE '%khan market%' OR event_json ->> '$.location' LIKE '%lodhi garden%';
+WHERE event_json ->> '$.location' LIKE '%lodhi colony%' OR event_json ->> '$.location' LIKE '%lodhi road%' OR event_json ->> '$.location' LIKE '%khan market%' OR event_json ->> '$.location' LIKE '%lodhi garden%' OR event_json ->> '$.location' LIKE '%lodhi%';
 
 UPDATE events SET event_json = json_replace(event_json, '$.keywords', json_insert(event_json -> '$.keywords', '$[#]', 'SAKET'))
 WHERE event_json ->> '$.location' LIKE '%saket%' OR event_json ->> '$.location' LIKE '%malviya nagar%' OR event_json ->> '$.location' LIKE '%select city%' OR event_json ->> '$.location' LIKE '%lado sarai%' OR event_json ->> '$.location' LIKE '%sainik farm%' OR event_json ->> '$.location' LIKE '%neb sarai%';

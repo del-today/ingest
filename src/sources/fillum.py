@@ -77,7 +77,7 @@ def scrape():
         description = desc_el.get_text(strip=True) if desc_el else ""
 
         events.append({
-            "@type": "Event",  # changed from ScreeningEvent for build.py compatibility
+            "@type": "ScreeningEvent",  # changed from ScreeningEvent for build.py compatibility
             "name": title,
             "url": href,
             "startDate": start_date.isoformat(),  # fixed: serialize to string for json.dump
