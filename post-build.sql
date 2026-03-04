@@ -709,13 +709,13 @@ UPDATE events SET event_json = json_replace(event_json, '$.keywords', json_inser
 WHERE event_json ->> '$.location' LIKE '%hauz khas%' OR event_json ->> '$.location' LIKE '%green park%' OR event_json ->> '$.location' LIKE '%safdarjung%';
 
 UPDATE events SET event_json = json_replace(event_json, '$.keywords', json_insert(event_json -> '$.keywords', '$[#]', 'CONNAUGHT-PLACE'))
-WHERE event_json ->> '$.location' LIKE '%connaught place%' OR event_json ->> '$.location' LIKE '%connaught%' OR event_json ->> '$.location' LIKE '%janpath%' OR event_json ->> '$.location' LIKE '%barakhamba%';
+WHERE event_json ->> '$.location' LIKE '%connaught place%' OR event_json ->> '$.location' LIKE '%connaught%' OR event_json ->> '$.location' LIKE '%janpath%' OR event_json ->> '$.location' LIKE '%barakhamba%' OR event_json ->> '$.location' LIKE '%kasturba gandhi%';
 
 UPDATE events SET event_json = json_replace(event_json, '$.keywords', json_insert(event_json -> '$.keywords', '$[#]', 'LODHI'))
 WHERE event_json ->> '$.location' LIKE '%lodhi colony%' OR event_json ->> '$.location' LIKE '%lodhi road%' OR event_json ->> '$.location' LIKE '%khan market%' OR event_json ->> '$.location' LIKE '%lodhi garden%';
 
 UPDATE events SET event_json = json_replace(event_json, '$.keywords', json_insert(event_json -> '$.keywords', '$[#]', 'SAKET'))
-WHERE event_json ->> '$.location' LIKE '%saket%' OR event_json ->> '$.location' LIKE '%malviya nagar%' OR event_json ->> '$.location' LIKE '%select city%'; OR event_json ->> '$.location' LIKE '%lado sarai%' OR event_json ->> '$.location' LIKE '%sainik farm%' OR event_json ->> '$.location' LIKE '%neb sarai%';
+WHERE event_json ->> '$.location' LIKE '%saket%' OR event_json ->> '$.location' LIKE '%malviya nagar%' OR event_json ->> '$.location' LIKE '%select city%' OR event_json ->> '$.location' LIKE '%lado sarai%' OR event_json ->> '$.location' LIKE '%sainik farm%' OR event_json ->> '$.location' LIKE '%neb sarai%';
 
 UPDATE events SET event_json = json_replace(event_json, '$.keywords', json_insert(event_json -> '$.keywords', '$[#]', 'SHAHPUR-JAT'))
 WHERE event_json ->> '$.location' LIKE '%shahpur jat%' OR event_json ->> '$.location' LIKE '%siri fort%' OR event_json ->> '$.location' LIKE '%asiad village%';

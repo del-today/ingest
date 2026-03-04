@@ -12,14 +12,16 @@ def get_event_details(session, url):
     response = session.get(url)
     soup = BeautifulSoup(response.text, "html.parser")
     txt = soup.find(class_="event-calendar-infotext-container").get_text(strip=True)
-    img_src = soup.find(class_="event-calendar-teaser-image").find("img")["src"]
-    img_src = f"https://www.goethe.de{img_src}"
+    img_el = soup.find(class_="event-calendar-teaser-image")
+    img_src = ""
+    if img_el and img_el.find("img"):
+        img_src = f"https://www.goethe.de{img_el.find('img')['src']}"
 
     location_name = (
         soup.find(class_="event-calendar-fact-list").find("span").get_text(strip=True)
     )
-    location_name = location_name.replace("Bangalore", "").replace(", ", " ").strip()
-    location_address = "716, CMH Road, Indiranagar 1st Stage, Bangalore"
+    location_name = location_name.replace("Delhi", "").replace(", ", " ").strip()
+    location_address = "3, Kasturba Gandhi Marg, New Delhi"
     if "Goethe-Institut" not in location_name:
         for line in response.text.splitlines():
             if '"event_location"' in line:
@@ -66,7 +68,7 @@ def get_event_type(type, subheading):
 
 def make_event(session, event_dict):
     startTimeText = (
-        event_dict["date_start_full"][0:10] + "T" + event_dict["time_start_txt"]
+        event_dict["date_start_full"][0:10] + "T" + event_dict.get("time_start_txt", "12:00 PM")
     )
     startTime = datetime.datetime.strptime(startTimeText, "%Y-%m-%dT%I:%M %p")
 
@@ -115,12 +117,12 @@ def fetch_events():
     events = []
     session = get_cached_session()
     payload = {
-        "configData": '{"category_ID":"178926_178927_178937_178936_178935_178934_178933_178932_178931_178930_178929_178928_178938_182013","elementsperpage":20,"frontendfilter":"adress_IDtxt,category_IDtxt,date_range","headline":"Calendar","outputtype":"standardkalender","institute_ID":"311_312_313_314_315_316_458","week_day_start":1,"timezone":48}',
+        "configData": '{"category_ID":"178926_178927_178937_178936_178935_178934_178933_178932_178931_178930_178929_178928_178938_182013","elementsperpage":20,"frontendfilter":"adress_IDtxt,category_IDtxt,date_range","headline":"Calendar","outputtype":"standardkalender","week_day_start":1,"timezone":48}',
         "langId": "1",
         "filterData": json.dumps(
             {
                 "start": 0,
-                "adress_IDtxt": "Bangalore",
+                "adress_IDtxt": "New Delhi",
                 "dateStart": datetime.datetime.now().strftime("%d-%m-%Y"),
                 "dateEnd": (
                     datetime.datetime.now() + datetime.timedelta(days=60)
