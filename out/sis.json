@@ -1,37 +1,5 @@
 [
   {
-    "name": "SIS x Nike Cricket Coaching",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Cricket-Beginner-Thurs48",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "sport": "Cricket",
-    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Cricket-Beginner-Thurs48",
-    "image": "https://sistersinsweat.com/images/event/20260102155054293.png",
-    "location": {
-      "name": "Rush Arena",
-      "address": "Rush Arena, Jaibharath Nagar, D Costa Layout, Maruthi Sevanagar",
-      "type": "Place"
-    },
-    "startDate": "2026-03-05T20:00:00+05:30",
-    "endDate": "2026-03-05T21:30:00+05:30"
-  },
-  {
     "name": "Sisters & Misters Football Game Day",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/session-detail/Sisters-Misters-Bangalore-Football-Game-Day-Fri59",
@@ -158,38 +126,6 @@
     },
     "startDate": "2026-03-07T11:00:00+05:30",
     "endDate": "2026-03-07T12:30:00+05:30"
-  },
-  {
-    "name": "Badminton Coaching-Beginner & Intermediate",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Badminton-Combined-Sat-79",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "sport": "Badminton",
-    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Badminton-Combined-Sat-79",
-    "image": "https://sistersinsweat.com/images/event/20260102171400527.jpeg",
-    "location": {
-      "name": "Game Theory, Double Road, Indiranagar",
-      "address": "Game Theory Double Road Indiranagar - Badminton Court, Pickleball, Basketball, Paramahansa Yogananda Rd, above Sree Cauvery School, Stage 1, Indiranagar",
-      "type": "Place"
-    },
-    "startDate": "2026-03-07T14:00:00+05:30",
-    "endDate": "2026-03-07T16:00:00+05:30"
   },
   {
     "name": "Sisters and Misters Yoga Mornings",
@@ -539,8 +475,8 @@
       "address": "Game Theory Double Road Indiranagar - Badminton Court, Pickleball, Basketball, Paramahansa Yogananda Rd, above Sree Cauvery School, Stage 1, Indiranagar",
       "type": "Place"
     },
-    "startDate": "2026-03-14T14:00:00+05:30",
-    "endDate": "2026-03-14T16:00:00+05:30"
+    "startDate": "2026-03-14T12:00:00+05:30",
+    "endDate": "2026-03-14T14:00:00+05:30"
   },
   {
     "name": "Run with the Sisters",
@@ -1912,6 +1848,38 @@
     },
     "startDate": "2026-04-18T06:45:00+05:30",
     "endDate": "2026-04-18T08:15:00+05:30"
+  },
+  {
+    "name": "Badminton Coaching-Beginner & Intermediate",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Badminton-Combined-Sat-79",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Badminton",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Badminton-Combined-Sat-79",
+    "image": "https://sistersinsweat.com/images/event/20260102171400527.jpeg",
+    "location": {
+      "name": "Game Theory, Double Road, Indiranagar",
+      "address": "Game Theory Double Road Indiranagar - Badminton Court, Pickleball, Basketball, Paramahansa Yogananda Rd, above Sree Cauvery School, Stage 1, Indiranagar",
+      "type": "Place"
+    },
+    "startDate": "2026-04-18T14:00:00+05:30",
+    "endDate": "2026-04-18T16:00:00+05:30"
   },
   {
     "name": "Sisters & Misters Football Game Day",

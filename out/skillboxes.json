@@ -2,6 +2,40 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Trap Culture x Social Presents Section 140 Vol 7",
+      "endDate": "2026-03-13T23:59:00",
+      "identifier": "com.skillboxes.34540",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1772727512xQaB0KV09BsEgQ3l.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Plot 37, 80 Feet Rd, Hal, HAL 3rd Stage, Hal, New Tippasandra, Bengaluru, Karnataka 560075, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9707654",
+            "longitude": "77.6476266"
+         },
+         "name": "Indiranagar Social"
+      },
+      "name": "Trap Culture x Social Presents Section 140 Vol 7",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Entry Pass",
+            "url": "https://www.skillboxes.com/events/ticket/trap-culture-x-social-presents-section-142"
+         }
+      ],
+      "startDate": "2026-03-13T19:00:00",
+      "url": "https://www.skillboxes.com/events/trap-culture-x-social-presents-section-142"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "🔥 ETERNAL DOMINION III — THE ASCENT CONTINUES 🔥\nThe Dominion rises again. The amps are louder, the riffs heavier, and the stage at The RAFT is ready to erupt.\nOn ",
       "endDate": "2026-06-20T23:00:00",
       "identifier": "com.skillboxes.34525",
@@ -33,7 +67,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Atmospheric, powerful, and emotionally charged rock that builds into explosive crescendos and unforgettable hooks.\n",
-            "inventoryLevel": 200,
+            "inventoryLevel": 199,
             "name": "B4 THE STARS - Pass",
             "url": "https://www.skillboxes.com/events/ticket/eternal-dominion-iii"
          },
@@ -624,7 +658,7 @@
       "description": "Following up on our monthly (080) IP at The Humming Tree, (080) Pulse returns with a heavy-hitting edition dedicated to all things bass.For this special night at the",
       "endDate": "2026-03-12T23:59:00",
       "identifier": "com.skillboxes.34463",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YkM5YUkzb1JFbnltd25oanVpNnR6UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1772465312vedQyuVsUNNY9Erc.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YkM5YUkzb1JFbnltd25oanVpNnR6UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1772708302tzNAPf2aHcgByIgd.jpg.webp",
       "isAccessibleForFree": true,
       "keywords": [
          "Club Gigs - Music"
@@ -726,41 +760,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Auntie Flo: Brian d’Souza is an award-winning DJ, producer and live performer, best known under his alias Auntie Flo — a tribute to his late Goan Auntie Florie.Across a decade-long career, he has earned acc",
-      "endDate": "2026-03-05T23:00:00",
-      "identifier": "com.skillboxes.34455",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YkM5YUkzb1JFbnltd25oanVpNnR6UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1772454946xm138x0rzMj4Pv6L.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": null,
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "28",
-            "longitude": "77"
-         },
-         "name": "The Humming Tree"
-      },
-      "name": "THT x Krunk presents Auntie Flo, Focus Group Sound System, Master Shifu",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable at the doors\n",
-            "inventoryLevel": 528,
-            "name": "RSVP against cover charges",
-            "url": "https://www.skillboxes.com/events/ticket/tht-x-krunk-presents-auntie-flo"
-         }
-      ],
-      "startDate": "2026-03-05T20:00:00",
-      "url": "https://www.skillboxes.com/events/tht-x-krunk-presents-auntie-flo"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "REDROOM_BLR presents CLAUDIA live at Kitty Ko, Lalit Ashok Bangalore!\nGet ready for an electrifying Friday night as Claudia takes over the decks with her signature high-energy sound and infectious beats. Joining her are",
       "endDate": "2026-03-07T01:30:00",
       "identifier": "com.skillboxes.34444",
@@ -784,25 +783,65 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "(Allows entry to one female)\n",
+            "description": "(Allows entry to one female.) Extra cover of inr 1000/- applicable post  9:30pm walk-in.\n",
             "inventoryLevel": 100,
-            "name": "EARLY BIRD FEMALE",
+            "name": "PHASE 1 FEMALE",
             "url": "https://www.skillboxes.com/events/ticket/redroom-ft-claudia-live-at-kitty-ko"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "(Allows entry to 1 male )  Extra cover charge inr 1000/- applicable post 9:30pm walk-in at the venue.\n",
+            "description": "(Allows entry to one couple.) Extra cover of inr 1000/- per person applicable post 9:30 pm walk-in.\n",
             "inventoryLevel": 100,
-            "name": "EARLY BIRD MALE",
+            "name": "PHASE 1 COUPLE",
             "url": "https://www.skillboxes.com/events/ticket/redroom-ft-claudia-live-at-kitty-ko"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "(Allows entry to 1 couple.) Extra cover charge inr 1000/- per person applicable post 9:30pm walk-in at the venue.\n",
+            "description": "(Allows entry to one male.) Extra cover of inr 1000/- applicable post 9:30pm walk-in.\n",
             "inventoryLevel": 100,
-            "name": "EARLY BIRD COUPLE",
+            "name": "PHASE 1 MALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-claudia-live-at-kitty-ko"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to three female.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 3 FEMALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-claudia-live-at-kitty-ko"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to two couple.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 2 COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-claudia-live-at-kitty-ko"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to three couple.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 3 COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-claudia-live-at-kitty-ko"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to three male.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 3 MALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-claudia-live-at-kitty-ko"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to 5 male.) Extra cover of inr 1000/- per person  applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 5 MALE",
             "url": "https://www.skillboxes.com/events/ticket/redroom-ft-claudia-live-at-kitty-ko"
          }
       ],
@@ -871,7 +910,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable at the entry\n",
-            "inventoryLevel": 404,
+            "inventoryLevel": 303,
             "name": "General Entry",
             "url": "https://www.skillboxes.com/events/ticket/tht-presents-parvaaz-album-launch"
          }
@@ -941,7 +980,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 186,
+            "inventoryLevel": 184,
             "name": "Guestlist - Couple",
             "url": "https://www.skillboxes.com/events/ticket/centigrade-club-nights-ft-brigado-crew-6th-mar-cavore"
          },
@@ -1000,7 +1039,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "• This Ticket Allows Entry to One Person on Day 2 Only • Cover & Entry Charges Applicable Post 9 pm.\nDay 2 - Sat, 7th March, 2pm Onwards Indiranagar Social [Vinyl Workshop, Meet & Greet, Sundowner + Night Party]",
-            "inventoryLevel": 10,
+            "inventoryLevel": 9,
             "name": "[Single Day Pass (Day 2 - 7th March Indiranagar Social 2pm Onwards] - Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/massive-weekender-2026-3-days-2-venues-30-artists-workshops-popups-more"
          },
@@ -1134,7 +1173,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges Applicable At The Doors\n",
-            "inventoryLevel": 451,
+            "inventoryLevel": 449,
             "name": "General Entry",
             "url": "https://www.skillboxes.com/events/ticket/tht-presents-donn-bhat"
          }
@@ -1418,7 +1457,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "A cover charge will be applicable at the doors\n",
-            "inventoryLevel": 50,
+            "inventoryLevel": 22,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/tht-presents-gauley-bhai"
          }
@@ -1527,7 +1566,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 37,
+            "inventoryLevel": 33,
             "name": "Early Bird Access",
             "url": "https://www.skillboxes.com/events/ticket/jackfruit-dance-party-feat-dj-dustin-giegling-gst-rishi-sippy-that90-skid-indiranagarsocial"
          }
@@ -1623,8 +1662,8 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Grant general access to one individual.\n",
-            "inventoryLevel": 2,
-            "name": "Phase 1 || Single Pass",
+            "inventoryLevel": 150,
+            "name": "Phase 2 || Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/bluetree-presents-jack-gardiner"
          },
          {
@@ -1633,6 +1672,14 @@
             "description": "Grant general access to one individual.\n",
             "inventoryLevel": 0,
             "name": "Early Bird || Single Pass",
+            "url": "https://www.skillboxes.com/events/ticket/bluetree-presents-jack-gardiner"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "description": "Grant general access to one individual.\n",
+            "inventoryLevel": 0,
+            "name": "Phase 1 || Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/bluetree-presents-jack-gardiner"
          }
       ],
@@ -1665,14 +1712,14 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 2606,
+            "inventoryLevel": 2600,
             "name": "Gold",
             "url": "https://www.skillboxes.com/events/ticket/navarasa-the-mahabharata-experience"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1062,
+            "inventoryLevel": 1057,
             "name": "Platinum",
             "url": "https://www.skillboxes.com/events/ticket/navarasa-the-mahabharata-experience"
          }
@@ -1706,7 +1753,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 243,
+            "inventoryLevel": 234,
             "name": "Phase 2 Pass",
             "url": "https://www.skillboxes.com/events/ticket/the-humming-tree-presents-thakara-and-autm-collective"
          },
@@ -1755,7 +1802,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entry Before 8:00 pm\nMandatory cover charge applicable at gate. Redeemable on F&B",
-            "inventoryLevel": 8,
+            "inventoryLevel": 6,
             "name": "Early Entry Pass (Entry Before 8:00 pm)",
             "url": "https://www.skillboxes.com/events/ticket/oscillate-ft-future-666"
          },
@@ -1821,7 +1868,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 484,
+            "inventoryLevel": 480,
             "name": "General",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-ksetravid-thevoidewecreate-backrooms"
          }
@@ -1855,7 +1902,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 511,
+            "inventoryLevel": 509,
             "name": "General",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-my-conscience-pxp"
          }

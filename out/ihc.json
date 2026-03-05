@@ -1,28 +1,6 @@
 [
   {
     "@type": "Event",
-    "name": "And The Alley She Whitewashed In Light Blue",
-    "url": "https://indiahabitat.org/Events_details/1087",
-    "startDate": "2026-03-05T19:00:00+05:30",
-    "endDate": "2026-03-05T19:00:00+05:30",
-    "description": "",
-    "location": {
-      "@type": "Place",
-      "name": "IHC \u2014 Gulmohar",
-      "address": "Lodhi Road, New Delhi 110003",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.5921",
-        "longitude": "77.2040"
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "India Habitat Centre"
-    }
-  },
-  {
-    "@type": "Event",
     "name": "The Tagorean Idea of Women Empowerment Through Dance and Its Role in Education Today",
     "url": "https://indiahabitat.org/Events_details/1088",
     "startDate": "2026-03-06T19:00:00+05:30",
@@ -7929,6 +7907,28 @@
     "location": {
       "@type": "Place",
       "name": "IHC \u2014 Margosa Lawn",
+      "address": "Lodhi Road, New Delhi 110003",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.5921",
+        "longitude": "77.2040"
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "India Habitat Centre"
+    }
+  },
+  {
+    "@type": "Event",
+    "name": "CANCELLED! And The Alley She Whitewashed In Light Blue",
+    "url": "https://indiahabitat.org/Events_details/1087",
+    "startDate": "2027-03-05T19:00:00+05:30",
+    "endDate": "2027-03-05T19:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "IHC \u2014 Gulmohar",
       "address": "Lodhi Road, New Delhi 110003",
       "geo": {
         "@type": "GeoCoordinates",
