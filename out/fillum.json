@@ -69,6 +69,23 @@
   },
   {
     "@type": "ScreeningEvent",
+    "name": "Short Film Package",
+    "url": "https://fillum.in/event/4995",
+    "startDate": "2026-03-07T10:30:00+05:30",
+    "endDate": "2026-03-07T10:30:00+05:30",
+    "description": "Rhythm International Queer and Gender Film Festival\u00b7 Velipadu by Jijo Jessy Kuriakose\u00b7 Amma's Pride by Shiva Krish\u00b7 Lallu's Gangster by Anmol Mahla\u00b7 Chayachithrangal by Rishik Bharath..more",
+    "location": {
+      "@type": "Place",
+      "name": "Niv Art Centre",
+      "address": "Sainik Farm, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "artbookcinema"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "Salt of the Earth(1954)",
     "url": "https://fillum.in/screening/4994",
     "startDate": "2026-03-07T12:00:00+05:30",
@@ -116,23 +133,6 @@
     "organizer": {
       "@type": "Organization",
       "name": "artbookcinema"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "A Girl Walks Home Alone at Night(2014)",
-    "url": "https://fillum.in/screening/4933",
-    "startDate": "2026-03-07T16:00:00+05:30",
-    "endDate": "2026-03-07T16:00:00+05:30",
-    "description": "",
-    "location": {
-      "@type": "Place",
-      "name": "Mool, South Ex II",
-      "address": "South Ex II, New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Out of Sequence"
     }
   }
 ]

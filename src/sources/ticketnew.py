@@ -37,6 +37,7 @@ LANGUAGE_TO_ISO_MAP = {
     "Telugu": "te",
     "Urdu": "ur",
     "Korean": "ko",
+    "French": "fr",
 }
 
 CINEMA_KEYS = [

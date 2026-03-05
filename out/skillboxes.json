@@ -1,6 +1,385 @@
 [
    {
       "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "🔥 ETERNAL DOMINION III — THE ASCENT CONTINUES 🔥\nThe Dominion rises again. The amps are louder, the riffs heavier, and the stage at The RAFT is ready to erupt.\nOn ",
+      "endDate": "2026-06-20T23:00:00",
+      "identifier": "com.skillboxes.34525",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OXpHYkRSc3lsV0t3eEIzOGFMcytZZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/17726963948eNa5b91FuK6Q8Tn.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Concerts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "1st Main Cross",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9240906",
+            "longitude": "77.6366457"
+         },
+         "name": "The Raft"
+      },
+      "name": "ETERNAL DOMINION III",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 200,
+            "name": "ETERNAL DOMINION III ~ TICKETS",
+            "url": "https://www.skillboxes.com/events/ticket/eternal-dominion-iii"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Atmospheric, powerful, and emotionally charged rock that builds into explosive crescendos and unforgettable hooks.\n",
+            "inventoryLevel": 200,
+            "name": "B4 THE STARS - Pass",
+            "url": "https://www.skillboxes.com/events/ticket/eternal-dominion-iii"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "A relentless barrage of heavy riffs, speed, and classic metal energy that hits like a storm of distortion and thunder.\n",
+            "inventoryLevel": 200,
+            "name": "CROSSFIRE Pass",
+            "url": "https://www.skillboxes.com/events/ticket/eternal-dominion-iii"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Raw, rebellious, and built for chaos. High-energy rock that ignites the pit and keeps the crowd roaring.\n",
+            "inventoryLevel": 200,
+            "name": "BLACKOUT RIOT Pass",
+            "url": "https://www.skillboxes.com/events/ticket/eternal-dominion-iii"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Unpredictable, wild, and packed with attitude — a band that blends humor, punk spirit, and heavy grooves into a set you won’t forget.\n",
+            "inventoryLevel": 200,
+            "name": "I GOT THE WRONG TATTOO Pass",
+            "url": "https://www.skillboxes.com/events/ticket/eternal-dominion-iii"
+         }
+      ],
+      "startDate": "2026-06-20T18:00:00",
+      "url": "https://www.skillboxes.com/events/eternal-dominion-iii"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Desi Hip Hop Grind Night is taking over Fandom with live rap, beatbox battles, dance showcases and open cyphers.\nAn open platform for rappers, dancers, freestylers and hip hop artists to perform, battle and connect with the community.",
+      "endDate": "2026-03-10T21:00:00",
+      "identifier": "com.skillboxes.34524",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/ZkU0aFhZR0t6M25OUlVQZ3VNKzRrZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1772697641DFM4MvsK3NMpyjEf.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "1st floor of Gillys redefined,# 413, 100 Feet Road, 4th Block, Koramangala Bangalore, India",
+         "name": "Fandom At Gilly's Redefined"
+      },
+      "name": "Desi Hip Hop Grind",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Single pass",
+            "url": "https://www.skillboxes.com/events/ticket/desi-hip-hop-grind"
+         }
+      ],
+      "startDate": "2026-03-10T13:31:00",
+      "url": "https://www.skillboxes.com/events/desi-hip-hop-grind"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Get ready for a night dedicated to music, fun, and unforgettable vibes at Ladies Night Karaoke presented by Fandom, featuring Shalin live on stage. Step into an energetic atmosphere where the spotlight is yours sing your heart out, enjoy interacti",
+      "endDate": "2026-03-11T23:00:00",
+      "identifier": "com.skillboxes.34523",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/ZkU0aFhZR0t6M25OUlVQZ3VNKzRrZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/17726973280PDpiOgUVLzaWfkG.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "1st floor of Gillys redefined,# 413, 100 Feet Road, 4th Block, Koramangala Bangalore, India",
+         "name": "Fandom At Gilly's Redefined"
+      },
+      "name": "Ladies Night Karaoke",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Single pass",
+            "url": "https://www.skillboxes.com/events/ticket/ladies-night-karaoke"
+         }
+      ],
+      "startDate": "2026-03-11T20:00:00",
+      "url": "https://www.skillboxes.com/events/ladies-night-karaoke"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "EducationEvent",
+      "description": "🌟 Bengaluru’s Own Swap Gala! 🌟Hey Bengaluru! 👋 Dive into the ultimate thrifting vibe at Swap Gala on Sunday, March 22 (3–7 PM) – a slow fashion extravaganza hosted by Na",
+      "endDate": "2026-03-22T19:00:00",
+      "identifier": "com.skillboxes.34519",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/T2VGNzJNcFgrbUtWNXFDTHl0NzJZQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/177267947809D4RSW1Vdhnm7DE.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Workshops"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Cobalt, 4th floor, 46/1, Church St, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9756255",
+            "longitude": "77.6026164"
+         },
+         "name": "Samagata Foundation"
+      },
+      "name": "SWAP GALA",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 30,
+            "name": "SWAP GALA",
+            "url": "https://www.skillboxes.com/events/ticket/swap-gala"
+         }
+      ],
+      "startDate": "2026-03-22T15:00:00",
+      "url": "https://www.skillboxes.com/events/swap-gala"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "🎤 LITMIC Volume 2 – do.with.lit’s Bengaluru Open Mic 🎤Step into the spotlight and experience the thrill of sharing your tale",
+      "endDate": "2026-03-22T20:00:00",
+      "identifier": "com.skillboxes.34516",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TGxIMWlaeG12R0I5Q2ZhUmtwRUhVQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1772634093aDLogU2HDIxyEwqw.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Open Mic Event"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "3rd Floor, Kesari, #33, 60 Feet Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9358557",
+            "longitude": "77.6216765"
+         },
+         "name": "KESARI- The Memory Studio"
+      },
+      "name": "LIT-MIC Bengaluru Open Mic | Poetry, Stories, Comedy, Music | Edition #84",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Witness the best talent from in and around Bengaluru! From music, to stories to poetry to networking, DWL Open Mics have it call for an entertaining evening! You will be provided with photographs.\n",
+            "inventoryLevel": 10,
+            "name": "AUDIENCE PASS FOR 1",
+            "url": "https://www.skillboxes.com/events/ticket/lit-mic-bengaluru-open-mic-poetry-stories-comedy-music-edition-84"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Witness the best talent from in and around Bengaluru! From music, to stories to poetry to networking, DWL Open Mics have it call for an entertaining evening! You will be provided with photographs.\n",
+            "inventoryLevel": 10,
+            "name": "AUDIENCE PASS FOR 2",
+            "url": "https://www.skillboxes.com/events/ticket/lit-mic-bengaluru-open-mic-poetry-stories-comedy-music-edition-84"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Perform at the biggest Open Mic stage in India! As a performer, you get 5-7 minutes slot to perform. Extra minutes provided upon request. You will be provided with an e-certificate + photographs + videos of your performance.\n",
+            "inventoryLevel": 10,
+            "name": "PERFORMER PASS",
+            "url": "https://www.skillboxes.com/events/ticket/lit-mic-bengaluru-open-mic-poetry-stories-comedy-music-edition-84"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "With this ticket, you can get 1 audience member with you.   Perform at the biggest Open Mic stage in India! As a performer, you get 5-7 minutes slot to perform. Extra minutes provided upon request. You will be provided with an e-certificate + photographs + videos of your performance.\n",
+            "inventoryLevel": 10,
+            "name": "PERFORMER PASS (+1 AUDIENCE)",
+            "url": "https://www.skillboxes.com/events/ticket/lit-mic-bengaluru-open-mic-poetry-stories-comedy-music-edition-84"
+         }
+      ],
+      "startDate": "2026-03-22T17:00:00",
+      "url": "https://www.skillboxes.com/events/lit-mic-bengaluru-open-mic-poetry-stories-comedy-music-edition-84"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "🎶 15+ High-Energy Musical Activities. 150+ Bollywood Hits. One Ultimate Summer Night — LITJAM: Summer Jam.✨ This edition is all about peak summer energy — pla",
+      "endDate": "2026-03-29T20:00:00",
+      "identifier": "com.skillboxes.34512",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TGxIMWlaeG12R0I5Q2ZhUmtwRUhVQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1772626679A4kGvppvNKRGV3Xn.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Concerts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "4th, Block 413, 100 Feet Rd, off Gillys redefined, KHB Block Koramangala, Koramangala 4-B Block, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.933341",
+            "longitude": "77.623648"
+         },
+         "name": "Fandom at Gilly's Redefined"
+      },
+      "name": "LITJAM Bengaluru - A Live Music Jam | Summer Edition 85",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "1. Ultimate jamming experience with a relaxed summer vibe 2. Photos and videos will be provided\n",
+            "inventoryLevel": 10,
+            "name": "Entry Pass",
+            "url": "https://www.skillboxes.com/events/ticket/litjam-bengaluru-a-live-music-jam-summer-edition-85"
+         }
+      ],
+      "startDate": "2026-03-29T17:30:00",
+      "url": "https://www.skillboxes.com/events/litjam-bengaluru-a-live-music-jam-summer-edition-85"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Sufi Night with Bikash Sunarr\nStep into an evening of soulful melodies, timeless kalaams and the magic of live Sufi music at Fandom.\nBikash-e-Mehfil brings you an immersive Sufi experience led by the powerf",
+      "endDate": "2026-03-12T22:00:00",
+      "identifier": "com.skillboxes.34510",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/ZkU0aFhZR0t6M25OUlVQZ3VNKzRrZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1772624379PBBUeUigLFR9PKFB.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "1st floor of Gillys redefined,# 413, 100 Feet Road, 4th Block, Koramangala Bangalore, India",
+         "name": "Fandom At Gilly's Redefined"
+      },
+      "name": "Bikash-e-Mehfil",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 50,
+            "name": "Single pass",
+            "url": "https://www.skillboxes.com/events/ticket/bikash-e-mehfil-1"
+         }
+      ],
+      "startDate": "2026-03-12T20:00:00",
+      "url": "https://www.skillboxes.com/events/bikash-e-mehfil-1"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Join us for The Bombay Circuit, Whitefield’s only BollyTech night at Hamilton Cocktail Bar! A weekly Saturday ritual where iconic Bollywood vocals are reimagined over driving techno and house, turning every f",
+      "endDate": "2026-03-21T23:30:00",
+      "identifier": "com.skillboxes.34506",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TFRFbjV2YklkZ1poeHlNektJOW83dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1772607457xVgXFu5t9fCcn2Ox.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Live Event"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "",
+            "longitude": ""
+         },
+         "name": "To Be Decided"
+      },
+      "name": "The Bombay Circuit ft. Purohit | Chronic | MusicMonk",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "General Admission for 1",
+            "url": "https://www.skillboxes.com/events/ticket/the-bombay-circuit-ft-purohit-chronic-musicmonk"
+         }
+      ],
+      "startDate": "2026-03-21T20:30:00",
+      "url": "https://www.skillboxes.com/events/the-bombay-circuit-ft-purohit-chronic-musicmonk"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "The singular brand of house music that Taylor Freels produces as Liquid Earth is uniquely transatlantic, infusing the rhythmic sensibilities of London and Berlin with the sun-soaked serenity of his native California.Under his most recent alias,",
+      "endDate": "2026-03-07T01:00:00",
+      "identifier": "com.skillboxes.34503",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/QU0rWHVCSTVYN01uSUwyL1ljckpWdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1772602437ebUte7kR5exE0sRl.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "",
+         "name": "To Be Decided"
+      },
+      "name": "db fridays : liquid earth",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 19,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/db-fridays-liquid-earth"
+         }
+      ],
+      "startDate": "2026-03-06T21:30:00",
+      "url": "https://www.skillboxes.com/events/db-fridays-liquid-earth"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "SOCIAL presents Sukoon Wali Qawali at Bellandur SOCIAL",
+      "endDate": "2026-03-15T23:59:00",
+      "identifier": "com.skillboxes.34502",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1772559510PLa3ErAV0kFTB6Vd.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Kaverappa Layout, Kadubeesanahalli, Bengaluru, Karnataka 560103, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9378123",
+            "longitude": "77.6947188"
+         },
+         "name": "Bellandur SOCIAL"
+      },
+      "name": "SOCIAL presents Sukoon Wali Qawali at Bellandur SOCIAL",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Mandatory Cover Charge applicable at gates\n",
+            "inventoryLevel": 1000,
+            "name": "Entry Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/social-presents-sukoon-wali-qawali-at-bellandur-social"
+         }
+      ],
+      "startDate": "2026-03-15T20:00:00",
+      "url": "https://www.skillboxes.com/events/social-presents-sukoon-wali-qawali-at-bellandur-social"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "EducationEvent",
       "description": "Rainbow Bridge Presents  a Ukulele workshop by Chintan Kalra, Chintan is one of India’s best-known Ukulelists and a legendary founding member of Parikrama. With over three decades in the music industry performing across multiple inst",
       "endDate": "2026-03-14T20:00:00",
@@ -32,73 +411,6 @@
       ],
       "startDate": "2026-03-14T18:30:00",
       "url": "https://www.skillboxes.com/events/rainbow-bridge-workshop-with-india-s-pioneering-ukulelist-chintan-kalra"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "RANG GULABI – Exclusive Holi Pool Party\r\n\r\n \r\n\r\nThis Holi, we don’t do ordinary.\r\n\r\n \r\n\r\nRang Gulabi is where color meets culture and the pool turns into a dancefloor. A carefully curated daytime-t",
-      "endDate": "2026-03-04T22:00:00",
-      "identifier": "com.skillboxes.34491",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1772202786TibGcgi985ewuYQn.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Holi 2026"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Oia, Hennur Main Road, New Airport Rd, opposite Mantri Webcity, Visthar, Bengaluru, Karnataka 560077, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.0738322",
-            "longitude": "77.6525657"
-         },
-         "name": "Oia Bangalore"
-      },
-      "name": "RANG GULABI – Exclusive Holi Pool Party | Kangkan kashyap",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Permits Anytime entry to the ticket holder all day long, This ticket includes a full cover note of INR 1000/- receivable upon arrival at gate.\n",
-            "inventoryLevel": 1000,
-            "name": "SINGLE LADY [ANYTIME ENTRY + FULL COVER]",
-            "url": "https://www.skillboxes.com/events/ticket/rang-gulabi-exclusive-holi-pool-party-kangkan-kashyap"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Permits entry to two couples till 2PM with fully redeemable cover note of INR 2000/- Upon arrival post 2PM additional cover of INR 500/- Applicable per head at gate.  Note cover is fully redeemable on purchase of Any Food or Beverages at the event.\n",
-            "inventoryLevel": 1000,
-            "name": "GIRLS DAY OUT ( Group of 4 Girls )",
-            "url": "https://www.skillboxes.com/events/ticket/rang-gulabi-exclusive-holi-pool-party-kangkan-kashyap"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Permits Anytime entry to the ticket holder all day long, This ticket includes a full cover note of INR 3000/- receivable upon arrival at gate.\n",
-            "inventoryLevel": 1000,
-            "name": "COUPLE [ANYTIME ENTRY + FULL COVER]",
-            "url": "https://www.skillboxes.com/events/ticket/rang-gulabi-exclusive-holi-pool-party-kangkan-kashyap"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Permits Anytime entry to the ticket holder all day long, This ticket includes a full cover note of INR 4000/- receivable upon arrival at gate.\n",
-            "inventoryLevel": 1000,
-            "name": "GENTLEMAN [ANYTIME ENTRY + FULL COVER]",
-            "url": "https://www.skillboxes.com/events/ticket/rang-gulabi-exclusive-holi-pool-party-kangkan-kashyap"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Permits entry till 2PM with fully redeemable cover note of INR 4000/- Upon arrival post 2PM additional cover of INR 500/- Applicable per head at gate.  Note cover is fully redeemable on purchase of Any Food or Beverages at the event.\n",
-            "inventoryLevel": 1000,
-            "name": "DOUBLE DATE ( Group of 2 Couples )",
-            "url": "https://www.skillboxes.com/events/ticket/rang-gulabi-exclusive-holi-pool-party-kangkan-kashyap"
-         }
-      ],
-      "startDate": "2026-03-04T12:00:00",
-      "url": "https://www.skillboxes.com/events/rang-gulabi-exclusive-holi-pool-party-kangkan-kashyap"
    },
    {
       "@context": "https://schema.org",
@@ -180,49 +492,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Showtime Tuesday is set to light up the night! 🔥🎧\nGet ready as Sukant takes charge of the console with high-energy beats and electrifying midweek vibes that keep the dancefloor alive.&#",
-      "endDate": "2026-03-03T23:59:00",
-      "identifier": "com.skillboxes.34471",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmNGckYxWkFNQm5STHcwSXczNWJWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1772473480ua8vxuBHGTZTHAND.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "100, 4th B Cross Rd, nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9343419",
-            "longitude": "77.6155451"
-         },
-         "name": "Yeda Republic Bengaluru"
-      },
-      "name": "SHOWTIME TUESDAY FT. SUKANT AT YEDA BANGALORE KORMANGALA",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
-            "name": "COUPLE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/showtime-tuesday-ft-sukant-at-yeda-bangalore-kormangala"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
-            "name": "FEMALE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/showtime-tuesday-ft-sukant-at-yeda-bangalore-kormangala"
-         }
-      ],
-      "startDate": "2026-03-03T23:14:00",
-      "url": "https://www.skillboxes.com/events/showtime-tuesday-ft-sukant-at-yeda-bangalore-kormangala"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "",
       "endDate": "2026-03-06T23:59:00",
       "identifier": "com.skillboxes.34470",
@@ -262,49 +531,6 @@
       ],
       "startDate": "2026-03-06T23:07:00",
       "url": "https://www.skillboxes.com/events/we-own-the-city-ft-aziz-at-yeda-bangalore-kormangala"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Midweek Madness is here to break the weekday routine! 🔥🎧\nThis Wednesday, Senleo x Sisko bring the perfect mix of high-energy beats and nonstop vibes to keep the dancefloor alive all night.\n&#1284",
-      "endDate": "2026-03-04T23:59:00",
-      "identifier": "com.skillboxes.34469",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmNGckYxWkFNQm5STHcwSXczNWJWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1772471540auV2MhppN1mNUaSP.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "100, 4th B Cross Rd, nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9343419",
-            "longitude": "77.6155451"
-         },
-         "name": "Yeda Republic Bengaluru"
-      },
-      "name": "MIDWEEK MADNESS FT. SENLEO X SISKO AT YEDA BANGALORE AT KORMANGALA",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
-            "name": "COUPLE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/midweek-madness-ft-senleo-x-sisko-at-yeda-bangalore-at-kormangala"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
-            "name": "FEMALE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/midweek-madness-ft-senleo-x-sisko-at-yeda-bangalore-at-kormangala"
-         }
-      ],
-      "startDate": "2026-03-04T20:00:00",
-      "url": "https://www.skillboxes.com/events/midweek-madness-ft-senleo-x-sisko-at-yeda-bangalore-at-kormangala"
    },
    {
       "@context": "https://schema.org",
@@ -399,7 +625,7 @@
       "endDate": "2026-03-12T23:59:00",
       "identifier": "com.skillboxes.34463",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YkM5YUkzb1JFbnltd25oanVpNnR6UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1772465312vedQyuVsUNNY9Erc.jpg.webp",
-      "isAccessibleForFree": false,
+      "isAccessibleForFree": true,
       "keywords": [
          "Club Gigs - Music"
       ],
@@ -420,7 +646,7 @@
             "availability": "InStock",
             "description": "Cover charges applicable at the doors\n",
             "inventoryLevel": 550,
-            "name": "General Entry",
+            "name": "RSVP against cover charges",
             "url": "https://www.skillboxes.com/events/ticket/080-8-pulse-with-adi-g-ebitda-daisho"
          }
       ],
@@ -454,7 +680,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "COVER CHARGES APPLICABLE\n",
-            "inventoryLevel": 10,
+            "inventoryLevel": 9,
             "name": "FAKE FRIENDS",
             "url": "https://www.skillboxes.com/events/ticket/fake-friends"
          }
@@ -524,7 +750,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable at the doors\n",
-            "inventoryLevel": 549,
+            "inventoryLevel": 528,
             "name": "RSVP against cover charges",
             "url": "https://www.skillboxes.com/events/ticket/tht-x-krunk-presents-auntie-flo"
          }
@@ -610,7 +836,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Proceeds go to a women’s wellness charity\nCover charge of Rs. 999/- fully redeemable at the venue",
-            "inventoryLevel": 200,
+            "inventoryLevel": 199,
             "name": "Front Row",
             "url": "https://www.skillboxes.com/events/ticket/sly-women-s-day"
          }
@@ -645,7 +871,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable at the entry\n",
-            "inventoryLevel": 487,
+            "inventoryLevel": 404,
             "name": "General Entry",
             "url": "https://www.skillboxes.com/events/ticket/tht-presents-parvaaz-album-launch"
          }
@@ -680,7 +906,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable at the venue\n",
-            "inventoryLevel": 500,
+            "inventoryLevel": 93,
             "name": "General Entry",
             "url": "https://www.skillboxes.com/events/ticket/tht-presents-ranj-x-clifr-stevie"
          }
@@ -691,103 +917,10 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "RANG GULABI – Exclusive Holi Pool Party\r\n\r\n \r\n\r\nThis Holi, we don’t do ordinary.\r\n\r\n \r\n\r\nRang Gulabi is where color meets culture and the pool turns into a dancefloor. A carefully curated daytime-t",
-      "endDate": "2026-03-04T22:00:00",
-      "identifier": "com.skillboxes.34406",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1772202786TibGcgi985ewuYQn.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Holi 2026"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Oia, Hennur Main Road, New Airport Rd, opposite Mantri Webcity, Visthar, Bengaluru, Karnataka 560077, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.0738322",
-            "longitude": "77.6525657"
-         },
-         "name": "Oia Bangalore"
-      },
-      "name": "RANG GULABI – Exclusive Holi Pool Party",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Permits Anytime entry to the ticket holder all day long, This ticket includes a full cover note of INR 1000/- receivable upon arrival at gate.\n",
-            "inventoryLevel": 991,
-            "name": "SINGLE LADY [ANYTIME ENTRY + FULL COVER]",
-            "url": "https://www.skillboxes.com/events/ticket/rang-gulabi-exclusive-holi-pool-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Permits entry to two couples till 2PM with fully redeemable cover note of INR 2000/- Upon arrival post 2PM additional cover of INR 500/- Applicable per head at gate.  Note cover is fully redeemable on purchase of Any Food or Beverages at the event.\n",
-            "inventoryLevel": 1000,
-            "name": "GIRLS DAY OUT ( Group of 4 Girls )",
-            "url": "https://www.skillboxes.com/events/ticket/rang-gulabi-exclusive-holi-pool-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Permits Anytime entry to the ticket holder all day long, This ticket includes a full cover note of INR 3000/- receivable upon arrival at gate.\n",
-            "inventoryLevel": 995,
-            "name": "COUPLE [ANYTIME ENTRY + FULL COVER]",
-            "url": "https://www.skillboxes.com/events/ticket/rang-gulabi-exclusive-holi-pool-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Permits Anytime entry to the ticket holder all day long, This ticket includes a full cover note of INR 4000/- receivable upon arrival at gate.\n",
-            "inventoryLevel": 997,
-            "name": "GENTLEMAN [ANYTIME ENTRY + FULL COVER]",
-            "url": "https://www.skillboxes.com/events/ticket/rang-gulabi-exclusive-holi-pool-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Permits entry till 2PM with fully redeemable cover note of INR 4000/- Upon arrival post 2PM additional cover of INR 500/- Applicable per head at gate.  Note cover is fully redeemable on purchase of Any Food or Beverages at the event.\n",
-            "inventoryLevel": 999,
-            "name": "DOUBLE DATE ( Group of 2 Couples )",
-            "url": "https://www.skillboxes.com/events/ticket/rang-gulabi-exclusive-holi-pool-party"
-         }
-      ],
-      "startDate": "2026-03-04T12:00:00",
-      "url": "https://www.skillboxes.com/events/rang-gulabi-exclusive-holi-pool-party"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Colours in the air, vibes everywhere! 🌈✨This 3rd March, celebrate Ramee Holi Fest Under The Sky at Yeda Republic, Bengaluru 💥 From organic colours & dhol tasha to rooftop fun, CO2 blasts & celebrity DJs ",
-      "endDate": "2026-03-04T17:00:00",
-      "identifier": "com.skillboxes.34403",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmNGckYxWkFNQm5STHcwSXczNWJWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1772200119KacYaEdw989n4uZL.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Holi 2026"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "100, 4th B Cross Rd, nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9343419",
-            "longitude": "77.6155451"
-         },
-         "name": "Yeda Republic Bengaluru"
-      },
-      "name": "RAMEE HOLI FEST UNDER THE SKY AT YEDA REPUBLIC KORAMANGALA",
-      "offers": [ ],
-      "startDate": "2026-03-04T09:00:00",
-      "url": "https://www.skillboxes.com/events/ramee-holi-fest-under-the-sky-at-yeda-republic-koramangala"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Experience an electrifying night of beats and rhythms as CentiGrade Club Nights presents the sensational duo BRIGADO CREW live at Cavore Bengaluru this Friday.Get ready to dance the night away to cutting-edge tunes and ",
+      "description": "Experience an electrifying night of beats and rhythms as CentiGrade Club Nights presents the sensational duo ANSWER live at Cavore Bengaluru this Friday.Get ready to dance the night away to cutting-edge tunes and unforg",
       "endDate": "2026-03-07T01:00:00",
       "identifier": "com.skillboxes.34400",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1772198466dlm4NJw9Kndijg75.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/17726071046an7EeoquEvSq3Ew.jpg.webp",
       "isAccessibleForFree": true,
       "keywords": [
          "Music Festivals"
@@ -802,13 +935,13 @@
          },
          "name": "Cavore"
       },
-      "name": "CentiGrade Club Nights ft. Brigado Crew / 6th Mar / Cavore",
+      "name": "CentiGrade Club Nights ft. Answer / 6th Mar / Cavore",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 196,
+            "inventoryLevel": 186,
             "name": "Guestlist - Couple",
             "url": "https://www.skillboxes.com/events/ticket/centigrade-club-nights-ft-brigado-crew-6th-mar-cavore"
          },
@@ -816,7 +949,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Female till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 179,
+            "inventoryLevel": 172,
             "name": "Guestlist - Female",
             "url": "https://www.skillboxes.com/events/ticket/centigrade-club-nights-ft-brigado-crew-6th-mar-cavore"
          }
@@ -827,42 +960,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": ".",
-      "endDate": "2026-03-04T18:00:00",
-      "identifier": "com.skillboxes.34388",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/anJ2NW5LakNyTXRncGVveDkwNzNTZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1772183462zptCiMRwGBKxaA1W.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Festivals"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Kumarakrupa Rd, High Grounds, Seshadripuram, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9922264",
-            "longitude": "77.5825643"
-         },
-         "name": "The LaLiT Ashok Bengaluru"
-      },
-      "name": "Holi At The LaLiT",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "This ticker grants entry to one individual Mandatory cover of rs 1500 applicable at Gate\n",
-            "inventoryLevel": 96,
-            "name": "Phase 1 - Entry Only",
-            "url": "https://www.skillboxes.com/events/ticket/holi-at-the-lalit"
-         }
-      ],
-      "startDate": "2026-03-04T12:00:00",
-      "url": "https://www.skillboxes.com/events/holi-at-the-lalit"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "MASSIVE WEEKENDER 2026Celebrating 13 years of Drum and Bass India & 4th Anniversary of #BangaloreMassive! 6th to 8th March, 20253 days, 2 Venues, 30+ arti",
+      "description": "MASSIVE WEEKENDER 2026Celebrating 13 years of Drum and Bass India & 4th Anniversary of #BangaloreMassive! 6th to 8th March, 20253 days,",
       "endDate": "2026-03-09T12:30:00",
       "identifier": "com.skillboxes.34379",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aXA1VVdoSWl3VUswV09CbnhOSlpHdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1772146948SkJZB19HjDQlsHDJ.jpg.webp",
@@ -885,8 +983,16 @@
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "Limitd Special TIckets only for women in our community to celebrate Women's Day. • This Ticket Allows Entry to One Female Only. • Cover & Entry Charges Applicable Post 6 pm.\nDay 3 - Sun, 8th March, 3pm Onwards Koramangala Social [Sundowner + Night Party]",
+            "inventoryLevel": 19,
+            "name": "[Single Day Pass (Day 3 - 8th March Koramangala Social 3pm Onwards] - Females Only",
+            "url": "https://www.skillboxes.com/events/ticket/massive-weekender-2026-3-days-2-venues-30-artists-workshops-popups-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
             "description": "• This Ticket Allows Entry to One Person on Day 1 Only • Cover & Entry Charges Applicable Post 9 pm.\nDay 1 - Fri, 6th March, 7pm Onwards Indiranagar Social [Indoor Party]",
-            "inventoryLevel": 10,
+            "inventoryLevel": 8,
             "name": "[Single Day Pass (Day 1 - 6th March Indiranagar Social 7m Onwards] - Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/massive-weekender-2026-3-days-2-venues-30-artists-workshops-popups-more"
          },
@@ -902,7 +1008,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "• This Ticket Allows Entry to One Person on Day 3 Only • Cover & Entry Charges Applicable Post 6 pm.\nDay 3 - Sun, 8th March, 3pm Onwards Koramangala Social [Sundowner + Night Party]",
-            "inventoryLevel": 9,
+            "inventoryLevel": 3,
             "name": "[Single Day Pass (Day 3 - 8th March Koramangala Social 3pm Onwards] - Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/massive-weekender-2026-3-days-2-venues-30-artists-workshops-popups-more"
          },
@@ -918,7 +1024,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "• This Ticket Allows Entry to a Group of 4 Person at the price of 2, Valid on All three days. • Cover & Entry Charges Applicable Post 6 pm.\nDay 1 - Fri, 6th March, 7pm Onwards Indiranagar Social [Indoor Party] …… Day 2 - Sat, 7th March, 2pm Onwards Indiranagar Social [Vinyl Workshop, Meet & Greet, Sundowner + Night Party] …… Day 3 - Sun, 8th March, 3pm Onwards Koramangala Social [Sundowner + Night Party]",
-            "inventoryLevel": 10,
+            "inventoryLevel": 9,
             "name": "[3-Day Weekender Pass (Fri-Sun)] - Group Of 4 (Price Of 2)",
             "url": "https://www.skillboxes.com/events/ticket/massive-weekender-2026-3-days-2-venues-30-artists-workshops-popups-more"
          },
@@ -1028,7 +1134,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges Applicable At The Doors\n",
-            "inventoryLevel": 497,
+            "inventoryLevel": 451,
             "name": "General Entry",
             "url": "https://www.skillboxes.com/events/ticket/tht-presents-donn-bhat"
          }
@@ -1277,7 +1383,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 998,
             "name": "Regular Pass",
             "url": "https://www.skillboxes.com/events/ticket/date-my-buddy"
          }
@@ -1312,7 +1418,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "A cover charge will be applicable at the doors\n",
-            "inventoryLevel": 84,
+            "inventoryLevel": 50,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/tht-presents-gauley-bhai"
          }
@@ -1417,69 +1523,17 @@
          "name": "Indiranagar Social"
       },
       "name": "Jackfruit Dance Party feat. Dj Dustin (Giegling) + GST, Rishi Sippy & That90'sKid #IndiranagarSocial",
-      "offers": [ ],
-      "startDate": "2026-03-08T08:00:00",
-      "url": "https://www.skillboxes.com/events/jackfruit-dance-party-feat-dj-dustin-giegling-gst-rishi-sippy-that90-skid-indiranagarsocial"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Step into a celebration where color meets couture and tradition blends effortlessly with modern luxury. Holi Circle 2026 invites you to experience Holi like never before — an elevated afternoon curated for those who appreciate refi",
-      "endDate": "2026-03-04T23:59:00",
-      "identifier": "com.skillboxes.34268",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1771935191SiBHctiHenLgsrPQ.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Holi 2026"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "24/1, Vittal Mallya Rd, KG Halli, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9723618",
-            "longitude": "77.5950513"
-         },
-         "name": "JW Marriott Hotel Bengaluru"
-      },
-      "name": "Holi Circle 2026 at JW Marriott Bengaluru",
-      "offers": [ ],
-      "startDate": "2026-03-04T12:00:00",
-      "url": "https://www.skillboxes.com/events/holi-circle-2026-at-jw-marriott-bengaluru"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "🎨🔥 HAWK HOLI BASH 🔥🎨  Get ready to splash into the wildest Holi celebration in town! 🌈🦅  Unlimited Buffet 🍽️ | Live DJ 🎧 | Colors 🎉 | BYOB 🍻  Vibes pow",
-      "endDate": "2026-03-04T17:00:00",
-      "identifier": "com.skillboxes.34242",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/cGR3Q0ROTjUrbXpvSVgrYmZrZVlpQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/17719050638uBQmi3TmqA8rU5I.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Holi 2026"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Chikkabanavara, Bengaluru, Karnataka 560090, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.0841027",
-            "longitude": "77.5043613"
-         },
-         "name": "Hawk High Resto - Chikkabanavara"
-      },
-      "name": "HAWK HOLI BASH - HAWK HIGH RESTO",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 200,
-            "name": "Hawk Holi",
-            "url": "https://www.skillboxes.com/events/ticket/hawk-holi-bash-hawk-high-resto"
+            "inventoryLevel": 37,
+            "name": "Early Bird Access",
+            "url": "https://www.skillboxes.com/events/ticket/jackfruit-dance-party-feat-dj-dustin-giegling-gst-rishi-sippy-that90-skid-indiranagarsocial"
          }
       ],
-      "startDate": "2026-03-03T13:00:00",
-      "url": "https://www.skillboxes.com/events/hawk-holi-bash-hawk-high-resto"
+      "startDate": "2026-03-08T20:00:00",
+      "url": "https://www.skillboxes.com/events/jackfruit-dance-party-feat-dj-dustin-giegling-gst-rishi-sippy-that90-skid-indiranagarsocial"
    },
    {
       "@context": "https://schema.org",
@@ -1538,16 +1592,7 @@
          "name": "To Be Decided"
       },
       "name": "24 Songs Festival",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "The night is limited. So are these tickets.\nSurprise Location in Central Bengaluru. Revealing soon!",
-            "inventoryLevel": 20,
-            "name": "Super Early Bird",
-            "url": "https://www.skillboxes.com/events/ticket/24-songs-festival"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2026-04-12T13:00:00",
       "url": "https://www.skillboxes.com/events/24-songs-festival"
    },
@@ -1578,7 +1623,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Grant general access to one individual.\n",
-            "inventoryLevel": 40,
+            "inventoryLevel": 2,
             "name": "Phase 1 || Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/bluetree-presents-jack-gardiner"
          },
@@ -1620,79 +1665,20 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 2614,
+            "inventoryLevel": 2606,
             "name": "Gold",
             "url": "https://www.skillboxes.com/events/ticket/navarasa-the-mahabharata-experience"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1070,
+            "inventoryLevel": 1062,
             "name": "Platinum",
             "url": "https://www.skillboxes.com/events/ticket/navarasa-the-mahabharata-experience"
          }
       ],
       "startDate": "2026-03-14T18:00:00",
       "url": "https://www.skillboxes.com/events/navarasa-the-mahabharata-experience"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "HOLI FESTIVAL 2026🌧 Bangalore’s 12-Hour Holi & Rain Dance Festival Is Here. 🌈One day. Zero pauses. Full celebration.4th March | 10 AM – 11 PMRunw",
-      "endDate": "2026-03-04T23:00:00",
-      "identifier": "com.skillboxes.34162",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dWxDOW5yT3RISVhGV1ZDaGZCMGczUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1771712225VK4bFmlWiRVbBHKP.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Holi 2026"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Yemalur Main Rd, Marathahalli Village, Marathahalli, Bengaluru, Karnataka 560037, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9501139",
-            "longitude": "77.6896658"
-         },
-         "name": "Runway 27 Taproom and Kitchen"
-      },
-      "name": "HOLI Festival 2026 & Rain Dance At Runway27, Old Airport Road",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional to the entry tickets there are cover charges that are applicable after 11:30am at the venue entrance. Cover charges means - Food & Beverage Coupons.  These coupons are 100% fully redeemable against food & drinks inside up to it's worth.\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird - Entry Only",
-            "url": "https://www.skillboxes.com/events/ticket/holi-festival-2026-rain-dance-at-runway27-old-airport-road"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "This pass is applicable for 5 people. || Cover charges apply after 11:30 am at the venue entrance.\nCover charges refer to food and beverage coupons. || These coupons are fully redeemable against food and drinks.",
-            "inventoryLevel": 100,
-            "name": "Group of 5 Pass",
-            "url": "https://www.skillboxes.com/events/ticket/holi-festival-2026-rain-dance-at-runway27-old-airport-road"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "This pass is applicable for 5 people. || Cover charges of INR 10,000 applicable at the venue entrance.\nCover charges refer to food and beverage coupons. || These coupons are fully redeemable against food and drinks.",
-            "inventoryLevel": 1,
-            "name": "Table for 5 Pass",
-            "url": "https://www.skillboxes.com/events/ticket/holi-festival-2026-rain-dance-at-runway27-old-airport-road"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "This pass is applicable for 10 people. || Cover charges apply after 11:30 am at the venue entrance.\nCover charges refer to food and beverage coupons. || These coupons are fully redeemable against food and drinks.",
-            "inventoryLevel": 100,
-            "name": "Group of 10 Pass",
-            "url": "https://www.skillboxes.com/events/ticket/holi-festival-2026-rain-dance-at-runway27-old-airport-road"
-         }
-      ],
-      "startDate": "2026-03-04T10:00:00",
-      "url": "https://www.skillboxes.com/events/holi-festival-2026-rain-dance-at-runway27-old-airport-road"
    },
    {
       "@context": "https://schema.org",
@@ -1720,7 +1706,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 278,
+            "inventoryLevel": 243,
             "name": "Phase 2 Pass",
             "url": "https://www.skillboxes.com/events/ticket/the-humming-tree-presents-thakara-and-autm-collective"
          },
@@ -1741,41 +1727,6 @@
       ],
       "startDate": "2026-03-07T20:00:00",
       "url": "https://www.skillboxes.com/events/the-humming-tree-presents-thakara-and-autm-collective"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Premium open air Holi celebration at Skygolf Club and Kitchen, Bengaluru.First of its kind curated Holi experience in Bangalore with a premium crowd and limited capacity.6 hours non stop music with a 5 DJ lineup, live dhol,",
-      "endDate": "2026-03-04T16:00:00",
-      "identifier": "com.skillboxes.34074",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/bXZlV0VXTU9FdFRIN1h5cHFRQ0g0Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1771405008tuKOh7TyP5KZDyTY.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Holi 2026"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "WQG4+898, 2nd Cross Rd, Halasahalli Thippasandra, Bengaluru, Karnataka 560087, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9264007",
-            "longitude": "77.7547244"
-         },
-         "name": "Skygolf club&kitchen"
-      },
-      "name": "Sky High Holi 2026",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Only Entry\nGeneral Entry Inclusions: \t•\tUnlimited colors \t•\tAccess to general area \t•\tFood & beverages available at base counters and food stalls",
-            "inventoryLevel": 50,
-            "name": "General Female",
-            "url": "https://www.skillboxes.com/events/ticket/sky-high-holi-2028"
-         }
-      ],
-      "startDate": "2026-03-04T10:00:00",
-      "url": "https://www.skillboxes.com/events/sky-high-holi-2028"
    },
    {
       "@context": "https://schema.org",
@@ -1804,7 +1755,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entry Before 8:00 pm\nMandatory cover charge applicable at gate. Redeemable on F&B",
-            "inventoryLevel": 15,
+            "inventoryLevel": 8,
             "name": "Early Entry Pass (Entry Before 8:00 pm)",
             "url": "https://www.skillboxes.com/events/ticket/oscillate-ft-future-666"
          },
@@ -1812,7 +1763,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory cover charge applicable at gate. Redeemable on F&B\n",
-            "inventoryLevel": 50,
+            "inventoryLevel": 46,
             "name": "Phase 1 GA Pass",
             "url": "https://www.skillboxes.com/events/ticket/oscillate-ft-future-666"
          },
@@ -1847,79 +1798,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Get ready for the biggest open air , pool party and rain dance party in this holi . With the great success of every year , we bring you back again Rang Barse 2026 , we welcome everyone to come and have fun with us and let’s m",
-      "endDate": "2026-03-04T17:00:00",
-      "identifier": "com.skillboxes.34059",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/17713423824XNSSGA0kue9dGWj.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Holi 2026"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "No.45/1, Andapura Off Huskur Road Electronics City Phase II, Anekal, Taluk, Glass Factory Layout, Electronic City, Bengaluru, Andapura, Karnataka 560099, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.8285452",
-            "longitude": "77.7020242"
-         },
-         "name": "Gold Coins Club & Resort"
-      },
-      "name": "Rang barse 2026 - Biggest pool and Rain dance party",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "Kids",
-            "url": "https://www.skillboxes.com/events/ticket/rang-barse-2026-biggest-pool-and-rain-dance-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permit one lady to the event and one colour packet\n",
-            "inventoryLevel": 1000,
-            "name": "Ladies",
-            "url": "https://www.skillboxes.com/events/ticket/rang-barse-2026-biggest-pool-and-rain-dance-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permit one male to the event and one complimentary colour packet\n",
-            "inventoryLevel": 1000,
-            "name": "Male Stag",
-            "url": "https://www.skillboxes.com/events/ticket/rang-barse-2026-biggest-pool-and-rain-dance-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "Couple",
-            "url": "https://www.skillboxes.com/events/ticket/rang-barse-2026-biggest-pool-and-rain-dance-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permit 5 individual to the event and 5 complimentary colours packets\n",
-            "inventoryLevel": 1000,
-            "name": "Group of 5",
-            "url": "https://www.skillboxes.com/events/ticket/rang-barse-2026-biggest-pool-and-rain-dance-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permit 10 individual to the event and 10 complimentary colours packets\n",
-            "inventoryLevel": 1000,
-            "name": "Group of 10",
-            "url": "https://www.skillboxes.com/events/ticket/rang-barse-2026-biggest-pool-and-rain-dance-party"
-         }
-      ],
-      "startDate": "2026-03-01T11:00:00",
-      "url": "https://www.skillboxes.com/events/rang-barse-2026-biggest-pool-and-rain-dance-party"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Ksetravid is a Modern Metal band from Bangalore, India. The band focuses onblending different genres of metal, keeping technical death metal at it’s core.Themusic delves into self introspection, challeng",
       "endDate": "2026-03-18T23:55:00",
       "identifier": "com.skillboxes.34045",
@@ -1943,7 +1821,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 498,
+            "inventoryLevel": 484,
             "name": "General",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-ksetravid-thevoidewecreate-backrooms"
          }
@@ -1977,7 +1855,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 516,
+            "inventoryLevel": 511,
             "name": "General",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-my-conscience-pxp"
          }
@@ -2041,7 +1919,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charge of INR 500 applicable at gates\n",
-            "inventoryLevel": 54,
+            "inventoryLevel": 53,
             "name": "Phase - 1",
             "url": "https://www.skillboxes.com/events/ticket/prog-encounters-4-0-bangalore-edition-day-2"
          },
@@ -2226,89 +2104,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Premium open air Holi celebration at Skygolf Club and Kitchen, Bengaluru.\r\n\r\nFirst of its kind curated Holi experience in Bangalore with a premium crowd and limited capacity.\r\n\r\n6 hours non stop music with a 5 DJ lineup, live dhol, r",
-      "endDate": "2026-03-04T16:00:00",
-      "identifier": "com.skillboxes.33896",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1770965236GjYfxsyYpD3TdiGN.png.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Holi 2026"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "WQG4+898, 2nd Cross Rd, Halasahalli Thippasandra, Bengaluru, Karnataka 560087, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9264007",
-            "longitude": "77.7547244"
-         },
-         "name": "Skygolf club&kitchen"
-      },
-      "name": "Sky High Holi 2026",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 10000,
-            "name": "Kids ( Age 5-13 Yrs)",
-            "url": "https://www.skillboxes.com/events/ticket/sky-high-holi-2026"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "Early Bird Female",
-            "url": "https://www.skillboxes.com/events/ticket/sky-high-holi-2026"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "Early Bird Male",
-            "url": "https://www.skillboxes.com/events/ticket/sky-high-holi-2026"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "Early Bird Couple",
-            "url": "https://www.skillboxes.com/events/ticket/sky-high-holi-2026"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "Group of 3",
-            "url": "https://www.skillboxes.com/events/ticket/sky-high-holi-2026"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "Group of 5",
-            "url": "https://www.skillboxes.com/events/ticket/sky-high-holi-2026"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "Group of 7",
-            "url": "https://www.skillboxes.com/events/ticket/sky-high-holi-2026"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "Group of 10",
-            "url": "https://www.skillboxes.com/events/ticket/sky-high-holi-2026"
-         }
-      ],
-      "startDate": "2026-03-04T10:00:00",
-      "url": "https://www.skillboxes.com/events/sky-high-holi-2026"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Hazmat Modine is a New York City–based band led by singe",
       "endDate": "2026-03-07T23:00:00",
       "identifier": "com.skillboxes.33892",
@@ -2450,32 +2245,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Get ready to SPLASH, DANCE, and COLOR your way into FUN at Rang Barse 4.0!\r\nParty like never before! Immerse yourself in the electrifying music\r\nRelive the success of the three seas",
-      "endDate": "2026-03-04T23:59:00",
-      "identifier": "com.skillboxes.33764",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/17705785189iJ2xyExDC8vB2pk.png.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Holi 2026"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Pashmina Waterfront, 14, Old Madras Rd, Bhattrahalli, Sannatammanahalli, KR Puram, Bengaluru, Karnataka 560049, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.0225657",
-            "longitude": "77.71217"
-         },
-         "name": "The Courtyard Restaurant"
-      },
-      "name": "BIGGEST POOL-RAIN DANCE-OPEN AIR HOLI PARTY || RANG BARSE",
-      "offers": [ ],
-      "startDate": "2026-03-01T11:00:00",
-      "url": "https://www.skillboxes.com/events/biggest-pool-rain-dance-open-air-holi-party-rang-barse"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Get Ready for the Most Premium and Luxury Biggest Holi Celebration in Bengaluru. After Back to Back Successful Holi Events at the Same Venue. We Are Back Once Again with Much Bigger and Exciting Plans.\r\n\r\nHighlights of the Event:",
       "endDate": "2026-03-07T23:59:00",
       "identifier": "com.skillboxes.33763",
@@ -2502,84 +2271,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Hello Bengaluru.\r\n\r\nWe Are Back Again after back to back successfull Holi Party at the same venue because of Your Love and Support.\r\nYet Again\r\nThis Time we came with much Bigger Plan for You All.\r\n\r\n",
-      "endDate": "2026-03-04T23:59:00",
-      "identifier": "com.skillboxes.33762",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1770577137jIxcMFR5SgV16bqG.jpeg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Holi 2026"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "57 1A, Outer Ring Rd, opp. Sakra Hospital Road, Devarabisanahalli, Bellandur, Bengaluru, Karnataka 560103, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.929969",
-            "longitude": "77.68581"
-         },
-         "name": "Publik"
-      },
-      "name": "Biggest Rain Dance-Open Air HOLI Party 2026",
-      "offers": [ ],
-      "startDate": "2026-03-01T11:00:00",
-      "url": "https://www.skillboxes.com/events/niggest-rain-dance-open-air-holi-party-2026"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "BENGALURU GET READY!\r\nWe are Back Once Again With Biggest Open Air - Rain Dance Bollywood Style Holi Celebration\r\n\r\nAfter Captivating 5000+ Attendees last Year. This time we are bringing back the Biggest Concert Experience Yet, with n",
-      "endDate": "2026-03-04T23:59:00",
-      "identifier": "com.skillboxes.33761",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1770576254fHIJ7VCQB8qQFMDS.jpeg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Holi 2026"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "53 1, 2/3, Old Madras Rd, Bhattarahalli, TC Palya, Krishnarajapuram, Bengaluru, Karnataka 560049, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.019063",
-            "longitude": "77.7073538"
-         },
-         "name": "Gold Rush Brews"
-      },
-      "name": "BIGGEST OPEN AIR-RAIN DANCE FOAM HOLI PARTY",
-      "offers": [ ],
-      "startDate": "2026-03-01T11:00:00",
-      "url": "https://www.skillboxes.com/events/biggest-open-air-rain-dance-from-holi-party"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Holiwood 4.0: Your Ticket to Unforgettable Fun!\r\nThe Biggest Pool & Rain Dance Open Air Party in Bengaluru\r\n\r\nGet ready to SPLASH, DANCE, and COLOR your way into FUN at HOLIWOOD 3.0!\r\n\r\nParty like never before! Immerse your",
-      "endDate": "2026-03-04T23:59:00",
-      "identifier": "com.skillboxes.33760",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/17705758705DUErwH7b0AmEfkg.jpeg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Holi 2026"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "K R Puram, 14, Old Madras Rd, beside Pashmina Waterfront, Sannatammanahalli, Battarahalli, Bengaluru, Karnataka 560049, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.022585",
-            "longitude": "77.712139"
-         },
-         "name": "Evoma Hotel"
-      },
-      "name": "BIGGEST POOL-RAIN DANCE-OPEN AIR HOLI CELEBRATION",
-      "offers": [ ],
-      "startDate": "2026-03-01T11:00:00",
-      "url": "https://www.skillboxes.com/events/biggest-pool-rain-dance-open-air-holi-celebration"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Nirantara Resorts\r\nPresents\r\n\r\n\r\nRANG DE 2026 - BIGGEST POOL - RAIN DANCE - OPEN AIR HOLI CELEBRATION.\r\nGet Ready for the Most Premium and Luxury Biggest Holi Celebration in Bengaluru. After Back to Back S",
       "endDate": "2026-03-07T23:59:00",
       "identifier": "com.skillboxes.33758",
@@ -2599,401 +2290,9 @@
          "name": "Nirantara Resort"
       },
       "name": "RANG DE : POOL-RAIN DANCE-OPEN AIR HOLI PARTY",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one kid + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Kids (4 - 12 Years) (Entry) [01 March]",
-            "url": "https://www.skillboxes.com/events/ticket/rang-de-pool-rain-dance-open-air-holi-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one kid + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Kids (5 - 12 Years) (Entry) [03 March]",
-            "url": "https://www.skillboxes.com/events/ticket/rang-de-pool-rain-dance-open-air-holi-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one kid + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Kids (5 - 12 Years) (Entry) [04 March]",
-            "url": "https://www.skillboxes.com/events/ticket/rang-de-pool-rain-dance-open-air-holi-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one kid + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Kids (5 - 12 Years) (Entry) [07 March]",
-            "url": "https://www.skillboxes.com/events/ticket/rang-de-pool-rain-dance-open-air-holi-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one female to the event + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Female Entry Pass [01 March]",
-            "url": "https://www.skillboxes.com/events/ticket/rang-de-pool-rain-dance-open-air-holi-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one female to the event + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Female Entry Pass [03 March]",
-            "url": "https://www.skillboxes.com/events/ticket/rang-de-pool-rain-dance-open-air-holi-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one female to the event + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Female Entry Pass [04 March]",
-            "url": "https://www.skillboxes.com/events/ticket/rang-de-pool-rain-dance-open-air-holi-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one female to the event + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Female Entry Pass [07 March]",
-            "url": "https://www.skillboxes.com/events/ticket/rang-de-pool-rain-dance-open-air-holi-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one male to the event + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Male Entry Pass [01 March]",
-            "url": "https://www.skillboxes.com/events/ticket/rang-de-pool-rain-dance-open-air-holi-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one individual to the event + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Male Entry Pass [03 March]",
-            "url": "https://www.skillboxes.com/events/ticket/rang-de-pool-rain-dance-open-air-holi-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one individual to the event + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Male Entry Pass [04 March]",
-            "url": "https://www.skillboxes.com/events/ticket/rang-de-pool-rain-dance-open-air-holi-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one individual to the event + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Male Entry Pass [07 March]",
-            "url": "https://www.skillboxes.com/events/ticket/rang-de-pool-rain-dance-open-air-holi-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one couple to the event + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Couples (Entry) [01 March]",
-            "url": "https://www.skillboxes.com/events/ticket/rang-de-pool-rain-dance-open-air-holi-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one couple to the event + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Couples (Entry) [03 March]",
-            "url": "https://www.skillboxes.com/events/ticket/rang-de-pool-rain-dance-open-air-holi-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one couple to the event + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Couples (Entry) [04 March]",
-            "url": "https://www.skillboxes.com/events/ticket/rang-de-pool-rain-dance-open-air-holi-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one couple to the event + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Couples (Entry) [07 March]",
-            "url": "https://www.skillboxes.com/events/ticket/rang-de-pool-rain-dance-open-air-holi-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits five individuals to the event + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Group Of 5 (Entry) [01 March]",
-            "url": "https://www.skillboxes.com/events/ticket/rang-de-pool-rain-dance-open-air-holi-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits five individuals to the event + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Group Of 5 (Entry) [03 March]",
-            "url": "https://www.skillboxes.com/events/ticket/rang-de-pool-rain-dance-open-air-holi-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits five individuals to the event + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Group Of 5 (Entry) [04 March]",
-            "url": "https://www.skillboxes.com/events/ticket/rang-de-pool-rain-dance-open-air-holi-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits five individuals to the event + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Group Of 5 (Entry) [07 March]",
-            "url": "https://www.skillboxes.com/events/ticket/rang-de-pool-rain-dance-open-air-holi-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits ten individuals to the event + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Group Of 10 (Entry) [01 March]",
-            "url": "https://www.skillboxes.com/events/ticket/rang-de-pool-rain-dance-open-air-holi-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits ten individuals to the event + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Group Of 10 (Entry) [03 March]",
-            "url": "https://www.skillboxes.com/events/ticket/rang-de-pool-rain-dance-open-air-holi-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits ten individuals to the event + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Group Of 10 (Entry) [04 March]",
-            "url": "https://www.skillboxes.com/events/ticket/rang-de-pool-rain-dance-open-air-holi-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits ten individuals to the event + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Group Of 10 (Entry) [07 March]",
-            "url": "https://www.skillboxes.com/events/ticket/rang-de-pool-rain-dance-open-air-holi-party"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2026-03-01T11:00:00",
       "url": "https://www.skillboxes.com/events/rang-de-pool-rain-dance-open-air-holi-party"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Highlights\r\n\r\n \r\n\r\n\r\n\tBangalore’s biggest semi open-air Holi celebration with rain dance\r\n\tMassive daytime color festival experience\r\n\tLive DJs delivering high-energy music throughout the event\r",
-      "endDate": "2026-03-04T23:59:00",
-      "identifier": "com.skillboxes.33756",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1770571179FZs2lWwAH5lLwTk4.jpeg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Holi 2026"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "56, Raj villa, 5th cross, 60 Feet Rd, KHB Colony, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9365488",
-            "longitude": "77.6211321"
-         },
-         "name": "1 Bar House Kitchen (1BHK)"
-      },
-      "name": "Biggest Rain Dance Holi Celebration In Kormangala",
-      "offers": [ ],
-      "startDate": "2026-03-01T11:00:00",
-      "url": "https://www.skillboxes.com/events/biggest-rain-dance-holi-celebration-in-koramangala"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Highlights\r\n\r\n \r\n\r\n\r\n\tBangalore’s biggest grand semi-open-air Holi celebration with rain dance\r\n\tMassive daytime colour festival experience filled with energy and joy\r\n\tLive DJs delivering high-energ",
-      "endDate": "2026-03-04T23:59:00",
-      "identifier": "com.skillboxes.33754",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1770569693kKxKwO4cvORiVf9y.png.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Holi 2026"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "60 Feet Rd, KHB Block Koramangala, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9365214",
-            "longitude": "77.6209819"
-         },
-         "name": "SAPOREII BAR HOUSE KITCHEN"
-      },
-      "name": "Kormangala Biggest Holi And Rain Dance Party 2026",
-      "offers": [ ],
-      "startDate": "2026-03-01T11:00:00",
-      "url": "https://www.skillboxes.com/events/koramangala-biggest-holi-and-rain-dance-party-2026"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "HighlightsOpen Air Holi ConcertRain Dance & Foam Party SetupCelebrity DJs Performing LiveMulti Floors & Levels ExperienceLive Food and Drinks CountersHoli Special Sweets and T",
-      "endDate": "2026-03-04T23:59:00",
-      "identifier": "com.skillboxes.33736",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1770491251qwThuJVBBy86zNAu.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Holi 2026"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "749, 10th Main road, 80 Feet Rd, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9331048",
-            "longitude": "77.6307881"
-         },
-         "name": "SOL55 - COMMUNITY BAR | KORAMANGALA"
-      },
-      "name": "Biggest Rain Dance And Foam-Open Air Holi Party 2026",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one kid + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Kids (4 - 12 Years) (Entry) [01 March]",
-            "url": "https://www.skillboxes.com/events/ticket/biggest-rain-dance-and-foam-open-air-holi-party-2026"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one kid + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Kids (4 - 12 Years) (Entry) [03 March]",
-            "url": "https://www.skillboxes.com/events/ticket/biggest-rain-dance-and-foam-open-air-holi-party-2026"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one kid + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Kids (4 - 12 Years) (Entry) [04 March]",
-            "url": "https://www.skillboxes.com/events/ticket/biggest-rain-dance-and-foam-open-air-holi-party-2026"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one individual to the event + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Solo Pass (Entry) [01 March]",
-            "url": "https://www.skillboxes.com/events/ticket/biggest-rain-dance-and-foam-open-air-holi-party-2026"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one individual to the event + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Solo Pass (Entry) [03 March]",
-            "url": "https://www.skillboxes.com/events/ticket/biggest-rain-dance-and-foam-open-air-holi-party-2026"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one individual to the event + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Solo Pass (Entry) [04 March]",
-            "url": "https://www.skillboxes.com/events/ticket/biggest-rain-dance-and-foam-open-air-holi-party-2026"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one couple to the event + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Couples (Entry) [01 March]",
-            "url": "https://www.skillboxes.com/events/ticket/biggest-rain-dance-and-foam-open-air-holi-party-2026"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one couple to the event + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Couples (Entry) [03 March]",
-            "url": "https://www.skillboxes.com/events/ticket/biggest-rain-dance-and-foam-open-air-holi-party-2026"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one couple to the event + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Couples (Entry) [04 March]",
-            "url": "https://www.skillboxes.com/events/ticket/biggest-rain-dance-and-foam-open-air-holi-party-2026"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits five individuals to the event + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Group Of 5 (Entry) [01 March]",
-            "url": "https://www.skillboxes.com/events/ticket/biggest-rain-dance-and-foam-open-air-holi-party-2026"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits five individuals to the event + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Group Of 5 (Entry) [03 March]",
-            "url": "https://www.skillboxes.com/events/ticket/biggest-rain-dance-and-foam-open-air-holi-party-2026"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits five individuals to the event + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Group Of 5 (Entry) [04 March]",
-            "url": "https://www.skillboxes.com/events/ticket/biggest-rain-dance-and-foam-open-air-holi-party-2026"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits ten individuals to the event + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Group Of 10 (Entry) [01 March]",
-            "url": "https://www.skillboxes.com/events/ticket/biggest-rain-dance-and-foam-open-air-holi-party-2026"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits ten individuals to the event + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Group Of 10 (Entry) [03 March]",
-            "url": "https://www.skillboxes.com/events/ticket/biggest-rain-dance-and-foam-open-air-holi-party-2026"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits ten individuals to the event + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
-            "name": "Group Of 10 (Entry) [04 March]",
-            "url": "https://www.skillboxes.com/events/ticket/biggest-rain-dance-and-foam-open-air-holi-party-2026"
-         }
-      ],
-      "startDate": "2026-03-01T11:00:00",
-      "url": "https://www.skillboxes.com/events/biggest-rain-dance-and-foam-open-air-holi-party-2026"
    },
    {
       "@context": "https://schema.org",
@@ -3210,182 +2509,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "About The EventPhoolon Ki Holi - a premium Holi celebration like never before at Bangalore`s premium club with a multiple DJ, this serene destination offers the perfect setting to celebrate Holi in a safe, homely, and secure envi",
-      "endDate": "2026-03-04T23:59:00",
-      "identifier": "com.skillboxes.33678",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MFBzRGZhemhWY1BlMEhORVJaNzlYdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1770307974Ei3MhlqNy1esfgjH.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Holi 2026"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "BBMP, Block 2, Village, Varthur, 2034/69, Ambalipura - Sarjapur Rd, Kaikondrahalli, Bengaluru, Karnataka 560035, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9140861",
-            "longitude": "77.6785882"
-         },
-         "name": "Hoot Craftwork 2.0 Brewery & Kitchen"
-      },
-      "name": "Phoolon Ki Holi",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 499,
-            "name": "Solo Entry",
-            "url": "https://www.skillboxes.com/events/ticket/phoolon-ki-holi"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 500,
-            "name": "Couple Entry",
-            "url": "https://www.skillboxes.com/events/ticket/phoolon-ki-holi"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 500,
-            "name": "Group Of 6 Entry",
-            "url": "https://www.skillboxes.com/events/ticket/phoolon-ki-holi"
-         }
-      ],
-      "startDate": "2026-03-03T21:43:00",
-      "url": "https://www.skillboxes.com/events/phoolon-ki-holi"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Rang-e-IshqA Qawwali HoliGet ready, Bangalore!This 3rd & 4th March 2026, experience an open-air Holi celebration like never before at ICB Indian Craft Brewery, Man",
-      "endDate": "2026-03-04T23:59:00",
-      "identifier": "com.skillboxes.33677",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1770305702RIlQVBVHEn27Xhwx.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Holi 2026"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Sy no 90/3, K, 572/90, Outer Ring Rd, beside Manhpo Convention Center, DadaMastan Layout, Manayata Tech Park, Nagawara, Bengaluru, Karnataka 560045, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.0418817",
-            "longitude": "77.6160425"
-         },
-         "name": "ICB INDIAN CRAFT BREWERY"
-      },
-      "name": "Rang e Ishq (A Qawwali Holi) at ICB Manyata 2026",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "Kids (6 - 12 years) Pass",
-            "url": "https://www.skillboxes.com/events/ticket/rang-e-ishq-a-qawwali-holi-at-icb-manyata-2026"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "Kids (5 - 12 years) Pass (7:00 PM)",
-            "url": "https://www.skillboxes.com/events/ticket/rang-e-ishq-a-qawwali-holi-at-icb-manyata-2026"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Ticket grants to all the ticket holder || Half kg of holi colours to each individual || Food and drinks available at the venue.\nValet parking available || Kids friendly || No additional charges no hidden charges.",
-            "inventoryLevel": 1000,
-            "name": "ICB Manyata (7:00 PM)",
-            "url": "https://www.skillboxes.com/events/ticket/rang-e-ishq-a-qawwali-holi-at-icb-manyata-2026"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Ticket grants to all the ticket holder || Half kg of holi colours to each individual || Food and drinks available at the venue.\nValet parking available || Kids friendly || No additional charges no hidden charges.",
-            "inventoryLevel": 1000,
-            "name": "ICB Manyata",
-            "url": "https://www.skillboxes.com/events/ticket/rang-e-ishq-a-qawwali-holi-at-icb-manyata-2026"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Ticket grants to all the ticket holder || Half kg of holi colours to each individual || Food and drinks available at the venue.\nValet parking available || Kids friendly || No additional charges no hidden charges.",
-            "inventoryLevel": 1000,
-            "name": "Group of 6 Person Pass",
-            "url": "https://www.skillboxes.com/events/ticket/rang-e-ishq-a-qawwali-holi-at-icb-manyata-2026"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Ticket grants to all the ticket holder || Half kg of holi colours to each individual || Food and drinks available at the venue.\nValet parking available || Kids friendly || No additional charges no hidden charges.",
-            "inventoryLevel": 1000,
-            "name": "Group of 10 Person Pass",
-            "url": "https://www.skillboxes.com/events/ticket/rang-e-ishq-a-qawwali-holi-at-icb-manyata-2026"
-         }
-      ],
-      "startDate": "2026-03-04T11:00:00",
-      "url": "https://www.skillboxes.com/events/rang-e-ishq-a-qawwali-holi-at-icb-manyata-2026"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "DJ PAROMA`S No 1 female Dj of IndiaWORLD OF MUSICShe started off her career as a cabin crew at the tender age of 18 a very reputable airline. That's when she flew internationally for a while an",
-      "endDate": "2026-03-03T23:59:00",
-      "identifier": "com.skillboxes.33674",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1770304423VTNBSRAabUNZJlf1.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Holi 2026"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Sy no 90/3, K, 572/90, Outer Ring Rd, beside Manhpo Convention Center, DadaMastan Layout, Manayata Tech Park, Nagawara, Bengaluru, Karnataka 560045, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.0418817",
-            "longitude": "77.6160425"
-         },
-         "name": "ICB INDIAN CRAFT BREWERY"
-      },
-      "name": "Manyata Tech Park's Biggest Holi at ICB Dj Paroma",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "Kids (5 - 12 years) Pass",
-            "url": "https://www.skillboxes.com/events/ticket/manyata-tech-park-s-biggest-holi-at-icb-dj-paroma"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "Kids (5 - 12 years) Pass (7:00 PM)",
-            "url": "https://www.skillboxes.com/events/ticket/manyata-tech-park-s-biggest-holi-at-icb-dj-paroma"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "3rd March Holi Day Pass",
-            "url": "https://www.skillboxes.com/events/ticket/manyata-tech-park-s-biggest-holi-at-icb-dj-paroma"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "3rd March Holi Night Pass",
-            "url": "https://www.skillboxes.com/events/ticket/manyata-tech-park-s-biggest-holi-at-icb-dj-paroma"
-         }
-      ],
-      "startDate": "2026-03-03T11:00:00",
-      "url": "https://www.skillboxes.com/events/manyata-tech-park-s-biggest-holi-at-icb-dj-paroma"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Bengaluru, get ready! Experience an electrifying evening as Andrea Jeremiah sets the stage on fire with her powerful vocals and high-energy performance.Known for her magnetic presence and ",
       "endDate": "2026-04-04T23:59:00",
       "identifier": "com.skillboxes.33614",
@@ -3441,32 +2564,6 @@
       ],
       "startDate": "2026-04-04T18:30:00",
       "url": "https://www.skillboxes.com/events/andria-live-concert-at-bangalore"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "If you are in Bengaluru then you cannot miss this, the most talked event of the town Bengaluru’s BIGGEST and MOST EPIC Holi celebration of all time comes with more Bigger and Better this year with SEASON 9 OF GULAAAL , presented",
-      "endDate": "2026-03-04T19:00:00",
-      "identifier": "com.skillboxes.33536",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/eXBkcDJLRGpXVjZZcklPWGh6enFrdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/17700388959IUeokliZ0Aacrtf.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Festivals"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "136/137, Rd Number 2, opposite SAP Labs, EPIP Industrial Estate, Brookefield, Whitefield, Bengaluru, Karnataka 560066, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9775039",
-            "longitude": "77.7130953"
-         },
-         "name": "Radha Hometel Bengaluru, A Sarovar Hotel"
-      },
-      "name": "WHITEFIELD'S BIGGEST HOLI FESTIVAL - GULAAAL SEASON 9",
-      "offers": [ ],
-      "startDate": "2026-03-01T11:00:00",
-      "url": "https://www.skillboxes.com/events/whitefield-s-biggest-holi-festival-gulaaal-season-9"
    },
    {
       "@context": "https://schema.org",
