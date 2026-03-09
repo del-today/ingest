@@ -71,76 +71,6 @@
   },
   {
     "@type": "EducationEvent",
-    "name": "Curator\u2019s Walkthrough by Roobina Karode",
-    "url": "https://www.knma.org/whats-on/guided-tours/curators-walkthrough",
-    "startDate": "2026-03-06T17:30:00+05:30",
-    "endDate": "2026-03-06T17:30:00+05:30",
-    "description": "",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA Saket",
-      "address": "Saket, New Delhi",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.5274",
-        "longitude": "77.2159"
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "EducationEvent",
-    "name": "Decoding Modernism 1",
-    "url": "https://www.knma.org/whats-on/workshops/decoding-modernism-1",
-    "startDate": "2026-03-07T10:00:00+05:30",
-    "endDate": "2026-03-07T10:00:00+05:30",
-    "description": "Saturday Family Workshop",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA Saket",
-      "address": "Saket, New Delhi",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.5274",
-        "longitude": "77.2159"
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "EducationEvent",
-    "name": "Wearable Memory Sculptures",
-    "url": "https://www.knma.org/whats-on/workshops/wearable-memory-sculptures",
-    "startDate": "2026-03-07T10:00:00+05:30",
-    "endDate": "2026-03-07T10:00:00+05:30",
-    "description": "Art Hours",
-    "location": {
-      "@type": "Place",
-      "name": "Humayun's Tomb Museum",
-      "address": "Humayun's Tomb, Nizamuddin, New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "EducationEvent",
     "name": "Songlines, Memory and Material Worlds",
     "url": "https://www.knma.org/whats-on/talks/songlines-memory-and-material-worlds",
     "startDate": "2026-03-10T10:00:00+05:30",
@@ -200,6 +130,66 @@
         "latitude": "28.5274",
         "longitude": "77.2159"
       }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Case of a Type",
+    "url": "https://www.knma.org/whats-on/workshops/case-of-a-type",
+    "startDate": "2026-03-21T10:00:00+05:30",
+    "endDate": "2026-03-22T18:00:00+05:30",
+    "description": "Methods",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Decoding Modernism III: Spatialism and the Extended Canvas",
+    "url": "https://www.knma.org/whats-on/workshops/decoding-modernism-iii-spatialism-and-the-extended-canvas",
+    "startDate": "2026-03-21T10:00:00+05:30",
+    "endDate": "2026-03-21T10:00:00+05:30",
+    "description": "Saturday Family Workshop",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Ustad Zakir Hussain The Way Forward",
+    "url": "https://www.knma.org/whats-on/events/ustad-zakir-hussain-the-way-forward-curated-by-mt-aditya-srinivasan-image-works-by-dayanita-singh",
+    "startDate": "2026-03-27T10:00:00+05:30",
+    "endDate": "2026-03-29T18:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "Sunder Nursery, New Delhi",
+      "address": "New Delhi"
     },
     "organizer": {
       "@type": "Organization",
