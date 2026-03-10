@@ -1,1 +1,96 @@
-python -m src.sources.ihc || 	(echo "FAIL out/ihc.json" && git checkout -- out/ihc.json && echo "RESTORED out/ihc.json")
+Done
+python -m src.build
+Request for URL https://allevents.in/new-delhi/texture-art/3900029765976805 failed; using cached response
+Traceback (most recent call last):
+  File "/home/ansh/Desktop/delhi-today/ingest/.venv/lib/python3.13/site-packages/requests_cache/session.py", line 292, in _resend
+    response = self._send_and_cache(request, actions, cached_response, **kwargs)
+  File "/home/ansh/Desktop/delhi-today/ingest/.venv/lib/python3.13/site-packages/requests_cache/session.py", line 260, in _send_and_cache
+    response = super().send(request, **kwargs)
+  File "/home/ansh/Desktop/delhi-today/ingest/.venv/lib/python3.13/site-packages/requests/sessions.py", line 724, in send
+    history = [resp for resp in gen]
+                                ^^^
+  File "/home/ansh/Desktop/delhi-today/ingest/.venv/lib/python3.13/site-packages/requests/sessions.py", line 191, in resolve_redirects
+    raise TooManyRedirects(
+        f"Exceeded {self.max_redirects} redirects.", response=resp
+    )
+requests.exceptions.TooManyRedirects: Exceeded 30 redirects.
+Could not find event in https://allevents.in/new-delhi/200027932874054
+Could not find event in https://allevents.in/new-delhi/200029612326217
+Could not find event in https://allevents.in/new-delhi/200029749782219
+Could not find event in https://allevents.in/new-delhi/200029749786236
+Could not find event in https://allevents.in/new-delhi/200029749786840
+Could not find event in https://allevents.in/new-delhi/200029749790800
+Could not find event in https://allevents.in/new-delhi/200029749793713
+Could not find event in https://allevents.in/new-delhi/3300029129057235
+Could not find event in https://allevents.in/new-delhi/3900029307500658
+Could not find event in https://allevents.in/new-delhi/3900029509580056
+Could not find event in https://allevents.in/new-delhi/3900029648350908
+Could not find event in https://allevents.in/new-delhi/3900029648386757
+Could not find event in https://allevents.in/new-delhi/3900029649745455
+Could not find event in https://allevents.in/new-delhi/3900029652596859
+Could not find event in https://allevents.in/new-delhi/3900029664728643
+Could not find event in https://allevents.in/new-delhi/3900029670623141
+Could not find event in https://allevents.in/new-delhi/3900029670640128
+Could not find event in https://allevents.in/new-delhi/3900029766834836
+Could not find event in https://allevents.in/new-delhi/80002088459063
+Could not find event in https://allevents.in/new-delhi/80002395504588
+Could not find event in https://allevents.in/new-delhi/80006859177033
+Could not find event in https://www.highape.com/bangalore/events/rang-barse-vol-5-2026-xu76v42ldr
+Could not find event in https://www.highape.com/bangalore/events/sound-of-magique-ajna-and-triad-jjisxf57b9
+Running post-build steps
+python -m src.processors
+INFO:__main__:Discovered 9 processors: ['SchemaFixer', 'GeoProcessor', 'AllEvents', 'BhaagoIndia', 'District', 'HighApe', 'IgnoredEvents', 'Koota', 'Patch']
+INFO:__main__:Processing 809 events
+INFO:__main__:Committed 20 modifications
+INFO:__main__:Committed 40 modifications
+INFO:__main__:Committed 60 modifications
+INFO:__main__:Committed 80 modifications
+INFO:__main__:Committed 100 modifications
+INFO:__main__:Committed 120 modifications
+INFO:__main__:Committed 140 modifications
+INFO:__main__:Committed 160 modifications
+INFO:__main__:Committed 180 modifications
+INFO:__main__:Committed 200 modifications
+INFO:__main__:Committed 220 modifications
+INFO:__main__:Committed 240 modifications
+INFO:__main__:Committed 260 modifications
+INFO:__main__:Committed 280 modifications
+INFO:__main__:Committed 300 modifications
+INFO:__main__:Committed 320 modifications
+INFO:__main__:Committed 340 modifications
+INFO:__main__:Committed 360 modifications
+INFO:__main__:Committed 380 modifications
+INFO:__main__:Committed 400 modifications
+INFO:__main__:Committed 420 modifications
+INFO:__main__:Committed 440 modifications
+INFO:__main__:Committed 460 modifications
+INFO:__main__:Committed 480 modifications
+INFO:__main__:Committed 500 modifications
+INFO:__main__:Committed 520 modifications
+INFO:__main__:Committed 540 modifications
+INFO:__main__:Committed 560 modifications
+INFO:__main__:Committed 580 modifications
+INFO:__main__:Committed 600 modifications
+INFO:__main__:Committed 620 modifications
+INFO:__main__:Committed 640 modifications
+INFO:__main__:Committed 660 modifications
+INFO:__main__:Committed 680 modifications
+INFO:__main__:Committed 700 modifications
+INFO:__main__:Processing complete. Modified 710 events
+[IMP] Error parsing startDate for https://bhaagoindia.com/events/world-womens-day-run-2026-5889/: Invalid isoformat string: 'March 8, 2026, 5 a.m.'
+[IMP] Error parsing endDate for https://bhaagoindia.com/events/world-womens-day-run-2026-5889/: Invalid isoformat string: 'March 8, 2026, 5 a.m.'
+LD_PRELOAD=./libsqlite.so python3 -c "import sqlite3;print(sqlite3.sqlite_version)"
+3.50.4
+LD_PRELOAD=./libsqlite.so python3 -m sqlite3 events.db < post-build.sql
+sqlite3 shell, running on SQLite version 3.50.4
+Connected to 'events.db'
+
+Each command will be run using execute() on the cursor.
+Type ".help" for more information; type ".quit" or CTRL-D to quit.
+sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite>     ...     ...     ...     ...     ... sqlite> sqlite>     ...     ...     ...     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ... sqlite> sqlite>     ...     ...     ...     ...     ... sqlite> sqlite>     ...     ... sqlite> sqlite>     ...     ...     ...     ...     ...     ... sqlite> sqlite>     ...     ...     ... sqlite> sqlite>     ...     ... sqlite> sqlite>     ...     ...     ...     ...     ...     ... sqlite> sqlite>     ...     ...     ... sqlite> sqlite>     ...     ...     ... sqlite> sqlite>     ...     ... sqlite> sqlite>     ...     ... sqlite> sqlite>     ...     ...     ... sqlite> sqlite>     ...     ... sqlite> sqlite>     ... sqlite> sqlite> sqlite>     ...     ...     ...     ...     ...     ...     ... sqlite> 
+python src/validator.py --output report.json
+INFO:__main__:Starting validation with PyLD + jsonschema...
+INFO:__main__:✅ Validation complete!
+INFO:__main__:📊 Total: 809, Valid: 809 (100.0%), Invalid: 0 (0.0%), Warnings: 12 (1.5%)
+INFO:__main__:📄 Results written to report.json
+Finished build

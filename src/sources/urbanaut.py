@@ -1,72 +1,69 @@
 import json
-from common.session import get_cached_session
+import subprocess
+import sys
+import time
 from bs4 import BeautifulSoup
 import datetime
 from common.tz import IST
-import time
 
-"""Public API Key used for searching events"""
-TYPESENSE_API_KEY = "AYJefn98eRjmkyENmOlleSaqbXXQDKG6"
-SEARCH_URL = "https://search.urbanaut.app/collections/spot_approved/documents/search?"
+SEARCH_URL = "https://search-v2.urbanaut.app/multi_search"
+TYPESENSE_API_KEY = "NSUWIvHiEDI8jvLN2GLhTfCzg3T6oYYV"
 BASE_IMAGE_URL = "https://d10y46cwh6y6x1.cloudfront.net"
-"""
-urbanaut supports hosts, which are not necessarily venues
-in case a host is also the venue
-we can use the host name as the venue name
-so we keep a list of such host slugs or names
-"""
-KNOWN_HOST_VENUES = [
-    "Bento Bento",
-    "copperandcloves",
-    "courtyard",
-    "loveooru",
-    "printingwithtypes",
-    "cafeplume",
-    "museum-of-art-and-photography-map",
-    "ksaraah",
-    "flourishclasses",  # Flourish Bakery
-]
-session = get_cached_session()
+
+DELHI_LAT = 28.6862738
+DELHI_LNG = 77.2217831
+DELHI_RADIUS = "100km"
+
+
+def make_payload():
+    ts = int(time.time())
+    return {
+        "searches": [
+            {
+                "collection": "spot_approved",
+                "query_by": "name",
+                "q": "*",
+                "per_page": 100,
+                "include_fields": "*, $account(*) as account_data, $who_is_it_for_tag(*) as who_is_it_for_tags_data, $genre_tag(*) as genre_tags_data",
+                "filter_by": (
+                    f"enable_list_view:=true && $category(slug:=events) "
+                    f"&& lat_lng:({DELHI_LAT}, {DELHI_LNG}, {DELHI_RADIUS}) "
+                    f"&& (end_timestamp:>={ts} || has_end_timestamp:false)"
+                ),
+                "sort_by": "upcoming_session_timestamp:asc",
+            }
+        ]
+    }
+
+
+def fetch_page(payload):
+    result = subprocess.run(
+        [
+            "curl_chrome116", "-s", "-X", "POST", SEARCH_URL,
+            "-H", f"x-typesense-api-key: {TYPESENSE_API_KEY}",
+            "-H", "Content-Type: application/json",
+            "-H", "Origin: https://urbanaut.app",
+            "-H", "Referer: https://urbanaut.app/",
+            "-H", "clienttz: Asia/Kolkata",
+            "-H", "X-Timezone-Offset: -330",
+            "-d", json.dumps(payload),
+        ],
+        capture_output=True,
+        text=True,
+    )
+    return json.loads(result.stdout)
 
 
 def parse_date(date_str):
     return datetime.datetime.strptime(date_str, "%Y-%m-%d %H:%M:%S").replace(tzinfo=IST)
 
 
-def scrape_urbanaut(categories="12"):
-    ts = int(time.time())
-
-    headers = {"x-typesense-api-key": TYPESENSE_API_KEY}
-    querystring = {
-        "q": "*",
-        "page": "1",
-        "per_page": "100",
-        "filter_by": f"enable_list_view:=true && city:=Bengaluru && categories:=[{categories}] && (end_timestamp:>={ts} || has_end_timestamp:false )",
-        "sort_by": "order:asc",
-    }
-
-    return session.get(SEARCH_URL, headers=headers, params=querystring).json()
-
-
-def get_slots(slug):
-    today_date = datetime.datetime.now().strftime("%Y-%m-%d")
-    one_year_later = (datetime.datetime.now() + datetime.timedelta(days=365)).strftime(
-        "%Y-%m-%d"
-    )
-    url = f"https://urbanaut.app/api/v3/spot/approved/booking/data/{slug}/?after={today_date}&before={one_year_later}"
-    data = session.get(url).json()
-    return [item for sublist in data["dates"] for item in sublist["slots"]]
-
-
 def get_age_range(x):
-    audience = " ".join([y["path"] for y in x["who_is_it_for_tags_data"]]).lower()
-    """
-    Urbanaut marks these events with 18+
-    but drinking age in BLR is 21
-    and these are typically gated because of drinks
-    """
+    tags = x.get("who_is_it_for_tags_data") or []
+    audience = " ".join([y.get("path", "") for y in tags]).lower()
+    # Drinking age in Delhi is 25
     if "adults_only" in audience:
-        return "21+"
+        return "25+"
     elif "kid_friendly" in audience:
         return "2-"
     elif "for_all_ages" in audience:
@@ -78,98 +75,92 @@ def get_age_range(x):
 
 
 def get_event_type(x):
-    tags = " ".join([y["path"] for y in x["genre_tags_data"]]).lower()
-    name = x["name"].lower()
+    tags = x.get("genre_tags_data") or []
+    tag_str = " ".join([y.get("path", "") for y in tags]).lower()
+    name = x.get("name", "").lower()
     if "screening" in name:
         return "ScreeningEvent"
-    elif "food" in tags or "araku" in name:
+    elif "food" in tag_str:
         return "FoodEvent"
-    elif "workshop" in tags:
+    elif "workshop" in tag_str:
         return "EducationEvent"
     else:
         return "Event"
 
 
 def get_keywords(x):
-    base = [y["name"] for y in x["genre_tags_data"]]
-    if x["account_data"].get("slug") == "courtyard":
-        base += ["COURTYARD"]
+    tags = x.get("genre_tags_data") or []
+    base = [y["name"] for y in tags if "name" in y]
     return base + ["URBANAUT"]
 
 
 def make_event(x):
-    desc = BeautifulSoup(x["short_description"], "html.parser").text
+    desc = BeautifulSoup(x.get("short_description", ""), "html.parser").text
 
-    slots = get_slots(x["slug"])
+    # Use upcoming_session for startDate (next scheduled session)
+    # Fall back to start if upcoming_session not present
+    start_str = x.get("upcoming_session") or x.get("start")
+    end_str = x.get("end")
 
-    available_slot_count = sum([slot["available"] > 0 for slot in slots])
-    for slot in slots:
-        if slot["available"] > 0:
-            # In case there are multiple slots, we want to put a slug at the end
-            # to differentiate between events
-            url = f"https://urbanaut.app/spot/{x['slug']}"
-            if available_slot_count > 1:
-                url += "#" + parse_date(slot["start"]).strftime("%Y-%m-%dT%H%M")
+    if not start_str:
+        return
 
-            ad = x["account_data"]
+    start_dt = parse_date(start_str)
+    end_dt = parse_date(end_str) if end_str else start_dt
 
-            yield {
-                "@context": "https://schema.org",
-                "@type": get_event_type(x),
-                "name": x["name"],
-                "description": desc,
-                "image": [y["aws_url"] for y in x["medias"]],
-                "startDate": parse_date(slot["start"]).isoformat(),
-                "endDate": parse_date(slot["end"]).isoformat(),
-                "location": {
-                    "@type": "Place",
-                    "name": (
-                        ad["company_name"]
-                        if (
-                            ad.get("slug") in KNOWN_HOST_VENUES
-                            or ad.get("company_name") in KNOWN_HOST_VENUES
-                        )
-                        else None
-                    ),
-                    "address": x["address"],
-                    "url": f"https://www.google.com/maps/search/?api=1&query=Google&query_place_id={x['google_place_id']}",
-                    "latitude": x["lat"],
-                    "longitude": x["lng"],
-                },
-                "eventAttendanceMode": "OfflineEventAttendanceMode",
-                "eventStatus": "EventScheduled",
-                "maximumAttendeeCapacity": slot["total"],
-                "remainingAttendeeCapacity": slot["available"],
-                "typicalAgeRange": get_age_range(x),
-                "offers": {
-                    "@type": "Offer",
-                    "price": x["price_starts_at"],
-                    "availability": "LimitedAvailability",
-                    "priceCurrency": x["price_starts_at_currency"],
-                },
-                "organizer": {
-                    "@type": "Organization",
-                    "name": ad["company_name"],
-                    "description": ad.get("company_description"),
-                    "url": f"https://urbanaut.app/partner/{ad['slug']}"
-                    if "slug" in ad
-                    else None,
-                    "image": BASE_IMAGE_URL + ad["logo_path"],
-                    "contactPoint": {
-                        "@type": "ContactPoint",
-                        "telephone": ad["company_phone"],
-                    },
-                },
-                "url": url,
-                "keywords": get_keywords(x),
-            }
+    # For multi-day events, endDate may be after upcoming_session
+    # Keep end_dt as-is so the event shows its full duration
+
+    ad = x.get("account_data", {})
+    url = f"https://urbanaut.app/spot/{x['slug']}"
+
+    yield {
+        "@context": "https://schema.org",
+        "@type": get_event_type(x),
+        "name": x["name"],
+        "description": desc,
+        "startDate": start_dt.isoformat(),
+        "endDate": end_dt.isoformat(),
+        "location": {
+            "@type": "Place",
+            "address": x.get("address", "Delhi"),
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": x.get("lat"),
+                "longitude": x.get("lng"),
+            },
+        },
+        "eventAttendanceMode": "OfflineEventAttendanceMode",
+        "eventStatus": "EventScheduled",
+        "typicalAgeRange": get_age_range(x),
+        "offers": {
+            "@type": "Offer",
+            "price": x.get("price_starts_at"),
+            "priceCurrency": x.get("price_starts_at_currency", "INR"),
+            "availability": "LimitedAvailability",
+        },
+        "organizer": {
+            "@type": "Organization",
+            "name": ad.get("company_name"),
+            "url": f"https://urbanaut.app/partner/{ad['slug']}" if ad.get("slug") else None,
+        },
+        "url": url,
+        "keywords": get_keywords(x),
+    }
 
 
 if __name__ == "__main__":
     events = []
-    with open("out/urbanaut.json", "w") as f:
-        for x in scrape_urbanaut()["hits"]:
-            for event in make_event(x["document"]):
+    try:
+        data = fetch_page(make_payload())
+        hits = data["results"][0]["hits"]
+        print(f"[URBANAUT] {len(hits)} spots found")
+        for hit in hits:
+            for event in make_event(hit["document"]):
                 events.append(event)
-        json.dump(events, f, indent=2)
-        print(f"[URBANAUT] {len(events)} events")
+    except Exception as e:
+        print(f"[URBANAUT] Failed: {e}", file=sys.stderr)
+    finally:
+        with open("out/urbanaut.json", "w") as f:
+            json.dump(events, f, indent=2)
+        print(f"[URBANAUT] {len(events)} events written")
