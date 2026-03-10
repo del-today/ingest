@@ -5,7 +5,7 @@ import asyncio
 from common.tz import IST
 
 BASE_URL = "https://www.adidas.co.in/adidasrunners"
-COMMUNITY_ID = "2e012594-d3fb-4185-b12b-78dead3499a3"
+COMMUNITY_ID = "9a60ba1f-dac1-47db-a6bf-2c6953c6ecd0"
 COUNTRY_CODE = "IN"
 BROWSER_CODE = "safari18_4_ios"
 HEADERS ={
@@ -35,7 +35,7 @@ def fetch_events():
                 "location": {
                     "@type": "Place",
                     "name": location,
-                    "address": location + " Bengaluru",
+                    "address": location + "New Delhi",
                 },
             }
         )
