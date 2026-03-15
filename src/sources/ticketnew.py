@@ -99,7 +99,7 @@ def fetch_movies(movie_list):
         for lang in movie_detail["languageFormatGroups"]:
             movie["formats"].append(
                 {
-                    "lang": LANGUAGE_TO_ISO_MAP[lang["lang"]],
+                    "lang": LANGUAGE_TO_ISO_MAP.get(lang["lang"], "xx"),
                     "id": lang["fmtGrpId"],
                     "screenFormats": [],
                 }
