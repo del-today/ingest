@@ -9,7 +9,7 @@ MOVIE_LIST_PATH = "/movies"
 SHOWS_PATH = "/movie"
 CINEMA_PATH = "/cinemas"
 
-QUERY_PARAMS = {"city": "bengaluru"}
+QUERY_PARAMS = {"city": "new-delhi"}
 
 # Keys for csv files
 MOVIE_KEYS = ["title", "censorRating", "runtime", "movieId", "genres", "image"]
