@@ -1,16 +1,17 @@
 import json
+import sys
 import curl_cffi
 from datetime import datetime
-import asyncio
 from common.tz import IST
 
 BASE_URL = "https://www.adidas.co.in/adidasrunners"
 COMMUNITY_ID = "9a60ba1f-dac1-47db-a6bf-2c6953c6ecd0"
 COUNTRY_CODE = "IN"
 BROWSER_CODE = "safari18_4_ios"
-HEADERS ={
+HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; blr.today-bot; +https://blr.today/bot/)"
 }
+
 
 def _date(date_str):
     return datetime.fromisoformat(date_str).astimezone(IST).isoformat()
@@ -35,7 +36,7 @@ def fetch_events():
                 "location": {
                     "@type": "Place",
                     "name": location,
-                    "address": location + "New Delhi",
+                    "address": location + ", New Delhi",
                 },
             }
         )
@@ -43,10 +44,14 @@ def fetch_events():
 
 
 def main():
-    with open("out/adidas.json", "w") as f:
+    events = []
+    try:
         events = fetch_events()
-        print(f"[ADIDAS] {len(events)} events")
+    except Exception as e:
+        print(f"[ADIDAS] Failed: {e}", file=sys.stderr)
+    with open("out/adidas.json", "w") as f:
         json.dump(events, f, indent=2)
+    print(f"[ADIDAS] {len(events)} events")
 
 
 if __name__ == "__main__":
