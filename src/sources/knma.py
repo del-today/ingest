@@ -22,7 +22,7 @@ SECTIONS = [
     ("https://www.knma.org/whats-on/events/", "Event"),
     ("https://www.knma.org/whats-on/guided-tours/", "EducationEvent"),
     ("https://www.knma.org/whats-on/workshops/", "EducationEvent"),
-    ("https://www.knma.org/whats-on/performing-arts/", "TheatreEvent"),
+    ("https://www.knma.org/whats-on/performing-arts/", "TheaterEvent"),
 ]
 
 KNMA_GEO = {"@type": "GeoCoordinates", "latitude": "28.5274", "longitude": "77.2159"}
