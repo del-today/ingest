@@ -101,7 +101,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
       run: |
-        export VERSION=$(date '+%Y.%-m.%-d-%H')
+        export VERSION=$(date '+%Y.%-m.%-d-%H%M')
         gh release create "v$VERSION" events.db --repo=del-today/dataset --notes "dilli.today dataset release. See LICENSE.txt for license information before using this dataset."
   publish:
     needs: update
