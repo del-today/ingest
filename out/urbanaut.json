@@ -2,6 +2,308 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "The Quiet Grandeur: Tales of Trees and Tombs",
+    "description": "Sunder Nursery is easily one of the most soul-soothing spots in Delhi\u2014it\u2019s that perfect mix of Mughal grandeur and lush botany. Beyond the manicured lawns of Sunder Nursery lies a 16th-century saga waiting to be told. Join us for a heritage walk through the Azim Bagh, where we swap the city noise for tales of Mughal architecture, restored grandeur, and the secrets of the trees & monuments that stood the test of time.The walk is part of the March Tree Festival organised by SeasonWatch. ",
+    "startDate": "2026-03-29T08:00:00+05:30",
+    "endDate": "2026-03-29T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Bharat Scouts and Guides Marg, opposite Humayun Tomb Park, Nizamuddin, Hazrat Nizamuddin, National Zoological Park, Sundar Nagar, New Delhi, Delhi 110013, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59564670000000000000",
+        "longitude": "77.24516910000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mera \u0936\u0939\u0930 \u2013 My City Walks",
+      "url": "https://urbanaut.app/partner/merasheharmycitywalks"
+    },
+    "url": "https://urbanaut.app/spot/the-quiet-grandeur-tales-of-trees-and-tombs",
+    "keywords": [
+      "Local",
+      "Walking Tour",
+      "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Overthinkers Anonymous",
+    "description": "OverviewEver wondered why you default to people-pleasing, perfectionism, or avoidance? This session is about connecting the dots between your past experiences and your present reactions in a safe, judgment-free environment.What is Stories of Hope?We are a community-led initiative dedicated to creating safe, mindful spaces. Through workshops and gatherings, we help individuals navigate life\u2019s complexities, from mental well-being to personal growth, with empathy and shared human connection.What to expectPattern Recognition: Explore why tendencies like overthinking or control keep showing up in your life.Guided Reflection: Use a specialized worksheet to gain context on your reactions without the weight of self-judgment.Awareness & Compassion: A gentle space to build self-awareness and understanding\u2014focused on insight, not on reliving trauma.Details\ud83d\uddd3\ufe0f Date: 22nd March (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Kanchanjunga Towers, Sector-56\ud83c\udf9f\ufe0f Contribution: Rs 700 (Includes coffee + snacks)",
+    "startDate": "2026-03-22T11:30:00+05:30",
+    "endDate": "2026-03-22T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "A-BLOCK, KANCHANJUNGA APARTMENT, G.H.18, near Post Office, Sector 56, Gurugram, Haryana 122011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.42299410000000000000",
+        "longitude": "77.10300720000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/overthinkers-anonymous",
+    "keywords": [
+      "Wellness",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Procrastireaders",
+    "description": "OverviewStuck on what to read next? \ud83d\udcda\u2615If you\u2019ve been wanting to get back into reading but don\u2019t know where to start, come by this Saturday!Find your fit: We\u2019ll help you pick a book based on how you\u2019re feeling, whether it\u2019s gripping, easy, or thoughtful.Yours to keep: Pick one, and it\u2019s yours to take home!Read & Chat: We\u2019ll read a bit together and talk about what\u2019s working (or not) over coffeeWhat is Stories of Hope?We are a community-led initiative dedicated to creating safe, mindful spaces. Through workshops and gatherings, we help individuals navigate life\u2019s complexities, from mental well-being to personal growth, with empathy and shared human connection.What to expectPersonalized Selection: We\u2019ll help you choose a book based on how you\u2019re feeling\u2014whether you need something easy, gripping, or thoughtful.A New Addition: Once you find a book that clicks, it\u2019s yours to take home and keep.Read Together: We\u2019ll spend time reading in a shared, quiet space to help you get back into the flow.Low-Pressure Chat: A chance to talk about what\u2019s working (or not) in your reading journey over coffee and snacks.Details\ud83d\uddd3\ufe0f Date: 21st March (Saturday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Kanchanjunga Towers, Sector-56\ud83c\udf9f\ufe0f Contribution: Rs 700 (Includes book + coffee + snacks)",
+    "startDate": "2026-03-21T11:30:00+05:30",
+    "endDate": "2026-03-21T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "A-BLOCK, KANCHANJUNGA APARTMENT, G.H.18, near Post Office, Sector 56, Gurugram, Haryana 122011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.42299410000000000000",
+        "longitude": "77.10300720000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/the-procrastireaders",
+    "keywords": [
+      "Leisure",
+      "Pop-up Event",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Growing a Garden",
+    "description": "Growing a Garden - Nurturing an Ecosystem in the CityMuch can be grown in small spaces, in containers, or even as a hedge. You don't necessarily need a sprawling backyard, or lots of time.It's not difficult to harness nature in the city. What we need is a change in attitude and a spot in the sun. Join Anita, a professional Landscape Architect with experience in designing Edible Landscapes, and her Mum, Bimla, who has maintained a Kitchen Garden in Delhi for over four decades.  Learn the basics principles of gardening and how to make the most of what you have. They share their experiences of creating a sustainable garden, how they leaned from their mistakes, what you need to start, what you must watch out for, to grow a garden in tune with Nature and her seasons. Even with limited \"free\" time you can have a productive garden that brings joy.The Gardening Session will be followed by Tea in the garden. Jayasri and Anita have a delicious, colourful Spring-themed menu planned for you.",
+    "startDate": "2026-03-22T16:00:00+05:30",
+    "endDate": "2026-03-22T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Sector 30, Noida, Uttar Pradesh 201303, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.57394770000000000000",
+        "longitude": "77.33890339999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "a mad tea party",
+      "url": null
+    },
+    "url": "https://urbanaut.app/spot/grow-a-garden",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Sip & Paint Workshop",
+    "description": "Welcome to our Sip & Paint Ceramic Workshop!Join us for a slow, hands-on session at our studio; an afternoon of clay, colour, and a drink on us.In this workshop, you\u2019ll get to paint a handcrafted ceramic piece. You can choose a handcrafted piece from our curated selection at the studio (mugs, sippers, travel cups, matcha bowls, dish plates, and more).We provide food-safe glazes, and once your piece is painted, we\u2019ll glaze and fire it for you, making it ready for everyday use (microwave and dishwasher safe).You can choose to pick up your finished piece from the studio or have it couriered to you (charges applicable as per actuals).We can\u2019t wait to host you \ud83e\udef6",
+    "startDate": "2026-03-22T11:00:00+05:30",
+    "endDate": "2026-03-29T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gurugram, Haryana, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.45949650000000000000",
+        "longitude": "77.02663830000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1200.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mrida Ceramique",
+      "url": "https://urbanaut.app/partner/mrida-ceramique"
+    },
+    "url": "https://urbanaut.app/spot/sip-paint-11754",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "South American Supper Club On a Farm",
+    "description": "Welcome to V\u2019s Supper Stories, Supper Club \u2014 where food is slow, stories are shared, and the table is the experience.Every edition of V\u2019s Supper Stories is rooted in a different mood \u2014 a story told through ingredients, plating, and pacing. The current theme?Tucked away from the chaos of the city, this Latin American supper club at The Farm Collective, Gurgaon invites you to slow down and savour an evening that feels both grounding and indulgent.Set against a serene farm backdrop, this sundowner experience (5:00 PM \u2013 7:30 PM) is designed as a gentle escape from the noise and rush of everyday life. As the sun dips, you\u2019ll be welcomed into a thoughtfully curated dining experience that brings together bold Latin American flavours with the simplicity of fresh, seasonal produce.Expect dishes crafted with farm-to-table ingredients, where vegetables are harvested fresh and transformed into vibrant plates that celebrate both flavour and origin. The menu reflects a balance of rustic authenticity and creative expression \u2014 rooted in Latin American traditions, yet shaped by the rhythm of the land around you.More than just a meal, this is an invitation to pause, connect, and experience food in its most honest form \u2014 shared over a table that values community, conversation, and the joy of eating well.Come for the sunset, stay for the feeling.Follow along at @vsupperstories for glimpses of the table, the food, and the people who bring it to life.",
+    "startDate": "2026-03-28T17:00:00+05:30",
+    "endDate": "2026-03-28T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "83J7+2F, Ghamroj, Haryana 122102, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.33006250000000000000",
+        "longitude": "77.06368750000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "V's Supper Stories",
+      "url": "https://urbanaut.app/partner/vsupperstories"
+    },
+    "url": "https://urbanaut.app/spot/southamericansupper",
+    "keywords": [
+      "Eco Friendly",
+      "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "FLAABH Fit: Tropical Grind",
+    "description": "Step into a tropical wellness party like no other as we celebrate GetWetFit\u2019s anniversary with FLAABH Fit: Tropical Grind. Set against vibrant beachy vibes, this immersive experience begins with our signature Fitness on Water session, followed by an energizing Spin Cycle routine and a refreshing Ice Plunge recovery to recharge your body.Beyond the workouts, unwind and soak in the celebration with curated mocktails, delicious food & beverages, skincare experiences, exclusive goodie bags, and plenty of tropical surprises throughout the evening.Think sunshine energy, beach club vibes, music, movement, and a community that celebrates wellness together.Dress Code: Beachy \ud83c\udf34",
+    "startDate": "2026-04-05T16:00:00+05:30",
+    "endDate": "2026-04-05T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "1, Mehrauli-Gurgaon Rd, Sector 29, New Delhi, Gurugram, Haryana 122009, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.47687400000000000000",
+        "longitude": "77.07058169999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "4999.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "GetWetFit",
+      "url": "https://urbanaut.app/partner/getwetfit"
+    },
+    "url": "https://urbanaut.app/spot/flaabh-fit-tropical-grind",
+    "keywords": [
+      "Adventure",
+      "Premium",
+      "Water activity",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Salad Making Workshop",
+    "description": "Join us for a hands-on Salad Making Workshop where you\u2019ll learn how to create vibrant, flavour-packed salads using fresh farm-to-table and hydroponic greens from Agama.In this interactive session, you'll guide you through the basics of building the perfect salad \u2014 balancing greens, grains, proteins, toppings and house-made dressings to create bowls that are nutritious, satisfying and delicious.Whether you\u2019re looking to eat healthier, explore plant-based cooking, or simply learn new recipes, this workshop will give you practical tips you can easily recreate at home.",
+    "startDate": "2026-03-22T16:00:00+05:30",
+    "endDate": "2026-03-22T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M-18, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53378190000000000000",
+        "longitude": "77.24240429999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1295.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "AGAMA CAFE",
+      "url": "https://urbanaut.app/partner/agama-cafe"
+    },
+    "url": "https://urbanaut.app/spot/salad-making-workshop",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "#lecture23: The Trees of Delhi",
     "description": "#lecture23: Trees of Delhi: From Empire and Ecology to the Politics of Trees in DelhiA river tamarind tree grows where it shouldn\u2019t \u2014 on the edge of Bhalswa landfill.You would imagine why and how it get there?This question opens up a much larger story about trees in the city. Far from being static parts of the landscape, trees have travelled across continents through ships, trade routes, botanical experiments, and colonial ambitions. Delhi\u2019s urban forests carry traces of these journeys.This lecture explores how trees became entangled with empire, science, and city-making. From Mughal gardens and British forestry to post-independence plantation drives and global climate targets, the trees around us reflect shifting ideas about nature, governance, and belonging.Join us for an afternoon of stories, ideas, and conversation about the hidden lives of trees in the city.About the SpeakerNirjesh Gautam is currently researching at the Centre for Urban Ecology & Sustainability. He is an independent researcher and writer interested in human\u2013nature interactions in urban areas. His work focuses on neglected green spaces, urban biodiversity, and the politics shaping city environments. Through education, storytelling, and art, he explores how nature persists within cities and convenes a collective documenting urban ecology across Delhi-NCR.\ud83d\udccc Note: Alcohol will be served only to guests aged 25 and above. Non-alcoholic options will be available. Attendance implies consent to being filmed for event documentation.",
     "startDate": "2026-03-22T15:00:00+05:30",
@@ -111,49 +413,11 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "The After Hours Listening Session with Tara Kumar",
-    "description": "Join us at Gallery XXL for a St. Patrick\u2019s Day special after-hours listening session with Tara Kumar, a London-based Irish-Indian-Malaysian DJ. Set against the ongoing exhibition In Memory of a Totem which presents Jumu's vivid world, the Listening Session will bring Tara's signature blend of house, electronic, hip-hop and R&B to a space that invites you to slow down, tune in, and feel the room.Shaped by Irish, Indian and Malaysian roots, Tara's practice has always been about more than music: gathering people, bridging worlds, and finding the common thread between cultures.This event is supported by the Embassy of Ireland and Bord Bia.About Tara Kumar Tara Kumar is an Irish-Indian-Malaysian DJ and broadcaster known for championing new music and emerging artists. She first rose to prominence in Ireland as a presenter on RT\u00c9 2FM, where she hosted a nightly new-music show spotlighting fresh sounds from Ireland and around the world.Alongside her radio career, Kumar has become a sought-after DJ, performing at major Irish festivals including Electric Picnic, Longitude Festival, and Forbidden Fruit. Her sets blend house, electronic, hip-hop and R&B, reflecting a global musical outlook shaped by her multicultural background.Now based in London, she continues to perform internationally while contributing to music broadcasting, including appearances on BBC and Radio 1.*Open to allTiming : 7:00 PM - 8:30 PMDate: Wednesday, March 18, 2026Venue: Gallery XXL, A-277, Defence Colony, New Delhi, Delhi - 110024*Please note there is limited parking available at the gallery; we recommend using public transportFor any further information, contact us at info@galleryxxl.com or +91 9324857354",
-    "startDate": "2026-03-18T19:00:00+05:30",
-    "endDate": "2026-03-18T20:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "2nd Floor, A-277, Block A, Defence Colony, New Delhi, Delhi 110024, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.57405660000000000000",
-        "longitude": "77.22903090000001000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Gallery XXL",
-      "url": "https://urbanaut.app/partner/galleryxxl"
-    },
-    "url": "https://urbanaut.app/spot/the-after-hours-listening-session-with-tara-kumar",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Tughlaqabad Heritage Walk- A forgotten city",
     "description": "Embark on a captivating 1 hour heritage walk through Tughlakabad Fort, Delhi's grand yet ghostly third medieval city, where massive grey stone ruins whisper tales of ambition, curses, and rapid decline.",
-    "startDate": "2026-03-22T08:30:00+05:30",
-    "endDate": "2026-03-22T10:00:00+05:30",
+    "startDate": "2026-03-22T15:00:00+05:30",
+    "endDate": "2026-03-22T16:30:00+05:30",
     "location": {
       "@type": "Place",
       "address": "G766+9W9, Tughlaqabad Fort, Tughlakabad, New Delhi, Delhi 110044, India",
@@ -265,8 +529,8 @@
     "@type": "EducationEvent",
     "name": "Aurora Dreams on Canvas",
     "description": "Dive into a mesmerizing evening of creativity at our Aurora Dreams on Canvas workshop! Guided by expert artists, unleash your inner painter as you recreate the ethereal dance of auroras, twinkling stars, and cosmic wonders on a fresh canvas.",
-    "startDate": "2026-04-05T16:00:00+05:30",
-    "endDate": "2026-04-05T18:00:00+05:30",
+    "startDate": "2026-04-05T10:00:00+05:30",
+    "endDate": "2026-04-05T12:00:00+05:30",
     "location": {
       "@type": "Place",
       "address": "Saket, New Delhi, Delhi, India",
@@ -339,7 +603,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Delhi Coffee Crawl at altogether experimental",
-    "description": "Step inside the ate glasshouse for an evening that traces coffee from origin to final pour.For one evening, you experience it from the inside out.The Delhi Coffee Crawl by CTRLlab brings together 10 guests inside this handpicked cafe for an intimate 1.5-2hr journey.Guided by the people who built the space, you\u2019ll move through story, process, scent, and flavor \u2014 sipping and smelling your way through a tasting flight, watching and learning, finding your chosen cup, and closing the evening over conversation and a collectible crawl archive.One space. One evening. One full lifecycle of coffee.Capacity: 10 guests \u00b7 Duration: ~2 hours",
+    "description": "An sunset coffee experience at ATE Glasshouse, designed as a part of the Delhi Coffee Crawl.This stop is built around a guided coffee session where you\u2019ll move through three different styles of coffee, each served one after the other. Along the way, we\u2019ll also share the story behind the coffees, the space, and what makes this experience unique.Set during the golden hour, the space opens up into a calm, sunlit setting that transitions beautifully as the light changes. It\u2019s designed to be slow, interactive, and easy to engage with whether you\u2019re coming alone or with someone.Your experience includes a curated coffee sequence along with a dessert pairing.We\u2019ve put this together to help you experience coffee in a more thoughtful and engaging way, beyond just ordering a cup.ATE Glasshouse | 22nd March | 5:30pm onwards",
     "startDate": "2026-03-22T17:30:00+05:30",
     "endDate": "2026-03-22T19:00:00+05:30",
     "location": {
@@ -394,7 +658,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "2650.00",
+      "price": "3150.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -416,8 +680,8 @@
     "@type": "FoodEvent",
     "name": "PAWS & PLAY AT AGAMA",
     "description": "Paws & Play at Agama is a relaxed social gathering designed for pet parents and their pets to spend a fun, easygoing afternoon together.Bring your furry companions along to meet other pets, enjoy a welcoming pet-friendly space, and take part in a few games planned for both pets and their humans.While the pets socialize, pet parents can enjoy Agama\u2019s signature plant-based farm-to-table food and drinks.We are a plant based, farm to table cafe known for our fresh ingredient-driven menu, featuring produce grown at our own farm along with mushrooms cultivated in-house and hydroponically grown greens. Our kitchen focuses on thoughtful plant-based dishes that are comforting, flavourful, and consciously sourced.",
-    "startDate": "2026-03-22T16:00:00+05:30",
-    "endDate": "2026-03-22T18:00:00+05:30",
+    "startDate": "2026-04-12T16:00:00+05:30",
+    "endDate": "2026-04-12T18:00:00+05:30",
     "location": {
       "@type": "Place",
       "address": "M-18, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
@@ -980,7 +1244,7 @@
     "name": "Curated Tour of Lodhi Art District by St+art India",
     "description": "Lodhi Art DistrictLodhi Art District is India\u2019s first ongoing art district. An open-air museum by St+art India Foundation, the pedestrian-friendly colony houses over 65+ murals by renowned local and international artists. The area serves as evidence of the possibility of reimagining public spaces, bringing us back in touch with our city, its history, and the many narratives that illuminate it. Sign up for an immersive walk guided by a St+art team member to discover the murals, consider how public spaces can be utilised, and become a part of this cultural transformation.Meeting Point: Indian Habitat Centre, Gate 3About the TourThe curated tours are a walkthrough of the vibrant public art district. They offer an interactive exploration through which St+art introduces new ways of experiencing contemporary art and the cityscape. These tours provide a complete experience, delving into the historical aspects of the location, the stories behind the project, and the murals themselves. Participants will actively witness the enhancement of the city and the reimagining of its public spaces. A tour leader from the St+art team will provide insights into the background and context of the artworks, the area, and its cultural significance in the city. (Nearby attractions include Safdarjung Tomb, Lodhi Garden, and Khan Market). About St+artSt+art India Foundation contributes to urban regeneration and community living through contemporary urban art projects. The foundation enables a vision for democratised public spaces through interdisciplinary art interventions that are rooted in the social context.Since 2014, with the support of Asian paints, the foundation has organised multiple festivals and public art projects in Delhi, Mumbai, Bengaluru, Hyderabad, Kolkata, Chandigarh and Coimbatore among others. Each public art district in the country and editions of festivals bring curated interventions to civic spaces that are embedded in urban culture, and use art as a tool to reimagine how public spaces can be utilised. For the foundation, which has been responsible for making urban art a movement in India, public art interventions are a celebration of the street as a canvas for visual creativity.",
     "startDate": "2026-03-21T10:00:00+05:30",
-    "endDate": "2026-04-25T18:00:00+05:30",
+    "endDate": "2026-04-12T18:00:00+05:30",
     "location": {
       "@type": "Place",
       "address": "India Habitat Centre Gate 3, Vardhman Marg, Block 20, Institutional Area, Lodi Colony, New Delhi, Delhi 110003, India",

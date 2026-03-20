@@ -8,13 +8,8 @@
     "description": "Painting",
     "location": {
       "@type": "Place",
-      "name": "KNMA Saket",
-      "address": "Saket, New Delhi",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.5274",
-        "longitude": "77.2159"
-      }
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
     },
     "organizer": {
       "@type": "Organization",
@@ -131,6 +126,46 @@
     "startDate": "2026-03-28T10:00:00+05:30",
     "endDate": "2026-03-28T10:00:00+05:30",
     "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Curatorial Walkthrough",
+    "url": "https://www.knma.org/whats-on/guided-tours/curatorial-walkthrough",
+    "startDate": "2026-04-04T10:00:00+05:30",
+    "endDate": "2026-04-04T10:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Atonal Abstractions",
+    "url": "https://www.knma.org/whats-on/workshops/atonal-abstractions",
+    "startDate": "2026-04-04T10:00:00+05:30",
+    "endDate": "2026-04-04T10:00:00+05:30",
+    "description": "Saturday Family Workshop",
     "location": {
       "@type": "Place",
       "name": "KNMA, New Delhi",

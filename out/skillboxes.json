@@ -2,6 +2,644 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "GOLDEN HOUR, Sundowners at Nazaara, Courtyard by Marriott. Curated by MODULES. With summer here, we have our limited weekly rituals of the week with Bunty Bavishi and Friends. House Classics until the ",
+      "endDate": "2026-03-23T01:00:00",
+      "identifier": "com.skillboxes.34926",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YytXZk9qeGwzZWtqTnptTmIrZWhTUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1773928397jWXuickenR0XJNWh.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Event"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "No. 2, Nazaara,Terrace Level, Courtyard by Marriott Bengaluru Hebbal, 55, Outer Ring Rd, Jogappa Layout, Nagavara, Bengaluru, Karnataka 560045, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0426203",
+            "longitude": "77.6096324"
+         },
+         "name": "Nazaara"
+      },
+      "name": "GOLDENHOUR, SUNSETS",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Gueslist available until 20:00, Cover charges applicable post that.\n",
+            "inventoryLevel": 100,
+            "name": "GUESTLIST",
+            "url": "https://www.skillboxes.com/events/ticket/goldenhour-sunsets"
+         }
+      ],
+      "startDate": "2026-03-22T18:00:00",
+      "url": "https://www.skillboxes.com/events/goldenhour-sunsets"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "EducationEvent",
+      "description": "We are about community and that’s exactly what we are doing at this event, curating some\r\n\r\nclean living products that enable you to imbibe the festive spirit!\r\n\r\nTons of workshops for all age groups, special mention to the one",
+      "endDate": "2026-04-04T20:00:00",
+      "identifier": "com.skillboxes.34924",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1773926089tBGqbXA2sOqIMFDA.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Workshops"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "336, Bengaluru, Karnataka 562157, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.1680622",
+            "longitude": "77.5965803"
+         },
+         "name": "Maverick & farmer coffee"
+      },
+      "name": "Mini Souk by OurBetterPlanet",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Free Entry",
+            "url": "https://www.skillboxes.com/events/ticket/mini-souk-by-ourbetterplanet"
+         }
+      ],
+      "startDate": "2026-04-04T12:00:00",
+      "url": "https://www.skillboxes.com/events/mini-souk-by-ourbetterplanet"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Y2K nostalgia hits the hottest rooftop in the city.\r\n\r\n \r\n\r\nSoMAD Y2K At The Top with DJ Prithvi, KYM, and Wayne bringing back the sounds that defined the 2000s — loud, sexy, and unforgettable.\r\n\r\n \r\n\r\nT",
+      "endDate": "2026-03-28T23:59:00",
+      "identifier": "com.skillboxes.34913",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1773909849WLS9vZqMeSw9Y01K.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Du Parc Trinity 17, Mahatma Gandhi Rd, opposite Bank of Baroda, Craig Park Layout, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9723448",
+            "longitude": "77.618884"
+         },
+         "name": "Kai Bar & Kitchen"
+      },
+      "name": "SoMAD Y2K - A Early 2000s Throwback Party Ft. Dj Prithvi, KYM & Wayne",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits free entry to one couple till 9:30PM only, Post 9:30PM a mandatory Cover charge will be applicable as per club rules and regulations.\n",
+            "inventoryLevel": 986,
+            "name": "RSVP - COUPLE [FREE ENTRY]",
+            "url": "https://www.skillboxes.com/events/ticket/somad-y2k-a-early-2000s-throwback-party-ft-dj-prithvi-kym-wayne"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits free entry to One Single Lady till 9:30PM only, Post 9:30PM a mandatory Cover charge will be applicable as per club rules and regulations.\n",
+            "inventoryLevel": 996,
+            "name": "RSVP - Single Lady [FREE ENTRY]",
+            "url": "https://www.skillboxes.com/events/ticket/somad-y2k-a-early-2000s-throwback-party-ft-dj-prithvi-kym-wayne"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits One Individual or one couple or 2 single ladies with an anytime free entry to the event With a full cover note of INR 3000/- upon arrival at gate.\nBook Now and Walk-In like a VIP!",
+            "inventoryLevel": 1000,
+            "name": "VIP - ANYTIME ENTRY + FULL COVER",
+            "url": "https://www.skillboxes.com/events/ticket/somad-y2k-a-early-2000s-throwback-party-ft-dj-prithvi-kym-wayne"
+         }
+      ],
+      "startDate": "2026-03-28T21:00:00",
+      "url": "https://www.skillboxes.com/events/somad-y2k-a-early-2000s-throwback-party-ft-dj-prithvi-kym-wayne"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Prints Party is more than a party, It’s a shared feeling. A wild, wonderful, collective, print-fuelled joy. \r\n\r\n \r\n\r\nThis one’s for all the party animals who love a good dance sesh. \r\n\r\n \r\n\r",
+      "endDate": "2026-04-26T23:59:00",
+      "identifier": "com.skillboxes.34911",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1773907629y1rSYBZxPgBe7Qns.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Open Air Event"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Oia, Hennur Main Road, New Airport Rd, opposite Mantri Webcity, Visthar, Bengaluru, Karnataka 560077, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0738322",
+            "longitude": "77.6525657"
+         },
+         "name": "Oia Mansion"
+      },
+      "name": "Prints Party | Bangalore",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Valid for entry until 5:30PM with Full cover equivalent to the ticketed amount. Post 5:30PM, an additional cover charge of INR 1000/- per head will apply.\n",
+            "inventoryLevel": 50,
+            "name": "EARLY ACCESS | FULL COVER || Female",
+            "url": "https://www.skillboxes.com/events/ticket/prints-party-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Enjoy anytime entry to the Prints Party event! Anytime, all day and night, with full cover issued at the gate. Walk in like a VIP!\n",
+            "inventoryLevel": 50,
+            "name": "VIP | FULL COVER + ANYTIME ENTRY || Female",
+            "url": "https://www.skillboxes.com/events/ticket/prints-party-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Valid for entry until 5:30PM with Full cover equivalent to the ticketed amount. Post 5:30PM, an additional cover charge of INR 1000/- per head will apply.\n",
+            "inventoryLevel": 50,
+            "name": "EARLY ACCESS | FULL COVER || Couple",
+            "url": "https://www.skillboxes.com/events/ticket/prints-party-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Valid for entry until 5:30PM with Full cover equivalent to the ticketed amount. Post 5:30PM, an additional cover charge of INR 1000/- per head will apply.\n",
+            "inventoryLevel": 50,
+            "name": "EARLY ACCESS | FULL COVER || Male",
+            "url": "https://www.skillboxes.com/events/ticket/prints-party-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Enjoy anytime entry to the Prints Party event! Anytime, all day and night, with full cover issued at the gate. Walk in like a VIP!\n",
+            "inventoryLevel": 50,
+            "name": "VIP | FULL COVER + ANYTIME ENTRY || Couple",
+            "url": "https://www.skillboxes.com/events/ticket/prints-party-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Enjoy anytime entry to the Prints Party event! Anytime, all day and night, with full cover issued at the gate. Walk in like a VIP!\n",
+            "inventoryLevel": 50,
+            "name": "VIP | FULL COVER + ANYTIME ENTRY || Male",
+            "url": "https://www.skillboxes.com/events/ticket/prints-party-bangalore"
+         }
+      ],
+      "startDate": "2026-04-26T16:00:00",
+      "url": "https://www.skillboxes.com/events/prints-party-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Vehement era presents: Entropy ritual",
+      "endDate": "2026-04-12T23:59:00",
+      "identifier": "com.skillboxes.34877",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1773825184Lvn8JgUvaRtfjDXl.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "4th, Block 413, 100 Feet Rd, off Gillys redefined, KHB Block Koramangala, Koramangala 4-B Block, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.933341",
+            "longitude": "77.623648"
+         },
+         "name": "Fandom"
+      },
+      "name": "Vehement era presents: Entropy ritual",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 994,
+            "name": "Regular Pass",
+            "url": "https://www.skillboxes.com/events/ticket/vehement-era-presents-entropy-ritual"
+         }
+      ],
+      "startDate": "2026-04-12T20:00:00",
+      "url": "https://www.skillboxes.com/events/vehement-era-presents-entropy-ritual"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "The Unplugged Stage — a new live music series at 33&Brew, Brookefield.\r\n\r\n \r\n\r\nThe series focuses on intimate performances and artists who bring depth, improvisation, and storytelling to the stage.\r\n\r\n ",
+      "endDate": "2026-03-28T23:59:00",
+      "identifier": "com.skillboxes.34876",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1773824989rNmS6ds1cF7Rh6dN.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Prestige Technostar, Doddanakundi Industrial Area 2, Phase 1, Brookefield, Bengaluru, Karnataka 560048, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9732639",
+            "longitude": "77.7103319"
+         },
+         "name": "33&Brew"
+      },
+      "name": "The Unplugged Stage ft. Jatayu at 33andbrew",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 7,
+            "name": "Early Bird Pass",
+            "url": "https://www.skillboxes.com/events/ticket/the-unplugged-stage-ft-jatayu-33-brew"
+         }
+      ],
+      "startDate": "2026-03-28T21:00:00",
+      "url": "https://www.skillboxes.com/events/the-unplugged-stage-ft-jatayu-33-brew"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Sunday gets a Punjabi upgrade! 🔥House of Punjab is taking over the night with beats by DJ Capro x Talon 🎧Get ready to dance, vibe & lose yourself at Yeda Republic! 💃🕺",
+      "endDate": "2026-03-22T23:59:00",
+      "identifier": "com.skillboxes.34875",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmNGckYxWkFNQm5STHcwSXczNWJWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17738241858WHuWVdC0odKErq7.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "100, 4th B Cross Rd, nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9343419",
+            "longitude": "77.6155451"
+         },
+         "name": "Yeda Republic Bengaluru"
+      },
+      "name": "HOUSE OF PUNJAB FT CAPRO X TALON AT YEDA REPUBLIC KORAMANGALA",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "FEMALE ENTRY",
+            "url": "https://www.skillboxes.com/events/ticket/house-of-punjab-ft-capro-x-talon-at-yeda-republic-koramangala"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 99,
+            "name": "COUPLE ENTRY",
+            "url": "https://www.skillboxes.com/events/ticket/house-of-punjab-ft-capro-x-talon-at-yeda-republic-koramangala"
+         }
+      ],
+      "startDate": "2026-03-22T20:00:00",
+      "url": "https://www.skillboxes.com/events/house-of-punjab-ft-capro-x-talon-at-yeda-republic-koramangala"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "A night of electrifying riffs, immersive soundscapes, and uncompromising guitar artistry returns—bringing together three distinct guitar voices on one stage.RHYTHM SHAW: Rhythm, a 29-year-old gui",
+      "endDate": "2026-04-30T23:59:00",
+      "identifier": "com.skillboxes.34869",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/a3doV2J1Mm5yYTM3d04wbmpWdGxaQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1773806429pyCUzQgmREGpMRZx.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Concerts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": null,
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "28",
+            "longitude": "77"
+         },
+         "name": "The Humming Tree"
+      },
+      "name": "Let There Be Guitar 2026: Rhythm Shaw, Dad N' Daughter, and Chirag Todi",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "An additional cover charge will apply at the gate.\n",
+            "inventoryLevel": 30,
+            "name": "Early Bird",
+            "url": "https://www.skillboxes.com/events/ticket/let-there-be-guitar-2026-rhythm-shaw-dad-n-daughter-and-chirag-todi"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "An additional cover charge will apply at the gate.\n",
+            "inventoryLevel": 80,
+            "name": "Phase I",
+            "url": "https://www.skillboxes.com/events/ticket/let-there-be-guitar-2026-rhythm-shaw-dad-n-daughter-and-chirag-todi"
+         }
+      ],
+      "startDate": "2026-04-30T20:00:00",
+      "url": "https://www.skillboxes.com/events/let-there-be-guitar-2026-rhythm-shaw-dad-n-daughter-and-chirag-todi"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Arsenal VS Manchester City  EFL Finals Live Screening Hardrock Cafe, Bangalore.",
+      "endDate": "2026-03-22T23:59:00",
+      "identifier": "com.skillboxes.34861",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/THJuaWlqbVNUQkVJNndwTFJzYWtxUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1773762730xegn291aa0IP8JhI.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Sports"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "40 St. Marks Road Bangalore, India",
+         "name": "Hard Rock Cafe Bengaluru"
+      },
+      "name": "Arsenal VS Manchester City | EFL Finals Live Screening | Hardrock Cafe, Bangalore.",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Live Screening pass",
+            "url": "https://www.skillboxes.com/events/ticket/arsenal-vs-manchester-city-efl-finals-live-screening-hardrock-cafe-bangalore"
+         }
+      ],
+      "startDate": "2026-03-22T22:00:00",
+      "url": "https://www.skillboxes.com/events/arsenal-vs-manchester-city-efl-finals-live-screening-hardrock-cafe-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Lakkshya is a contemporary Indian fusion ensemble that ble",
+      "endDate": "2026-04-25T23:00:00",
+      "identifier": "com.skillboxes.34834",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MWI5MXFnYUFHUFg2QitOdW8yNkl6QT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1773721942BWuiQtdCVqJAuWTl.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Concerts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "6th Floor, Craftworks, 331, 5B Rd, Shivaji Nagar, EPIP Zone, Whitefield, Bengaluru, Karnataka 560066, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9825325",
+            "longitude": "77.7217732"
+         },
+         "name": "Windmills Craftworks, Whitefield"
+      },
+      "name": "Lakkshya",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "No food and beverages are included in the ticket price.\n",
+            "inventoryLevel": 20,
+            "name": "Standing Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/lakkshya"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "No food and beverages are included in the ticket price.\n",
+            "inventoryLevel": 20,
+            "name": "Seating Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/lakkshya"
+         }
+      ],
+      "startDate": "2026-04-25T21:30:00",
+      "url": "https://www.skillboxes.com/events/lakkshya"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Lakkshya is a contemporary Indian fusion ensemble that ble",
+      "endDate": "2026-04-24T23:00:00",
+      "identifier": "com.skillboxes.34833",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MWI5MXFnYUFHUFg2QitOdW8yNkl6QT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1773721194KFG640i8Ag5KGxGE.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Concerts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "6th Floor, Craftworks, 331, 5B Rd, Shivaji Nagar, EPIP Zone, Whitefield, Bengaluru, Karnataka 560066, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9825325",
+            "longitude": "77.7217732"
+         },
+         "name": "Windmills Craftworks, Whitefield"
+      },
+      "name": "Lakkshya",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "No food and beverages are included in the ticket price.\n",
+            "inventoryLevel": 20,
+            "name": "Standing Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/sage-for-the-ages-2"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "No food and beverages are included in the ticket price.\n",
+            "inventoryLevel": 20,
+            "name": "Seating Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/sage-for-the-ages-2"
+         }
+      ],
+      "startDate": "2026-04-24T21:30:00",
+      "url": "https://www.skillboxes.com/events/sage-for-the-ages-2"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "International Afro House powerhouse Adam Trigger lands in Bengaluru for a night of deep grooves and global club energy at Cavore.\r\n\r\n \r\n\r\nFRIDAY \r\n\r\n8PM ONWARDS \r\n\r\nCAVORE BY SOURBERRY \r\n\r\nRES",
+      "endDate": "2026-03-20T23:59:00",
+      "identifier": "com.skillboxes.34828",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1773675938ijdbXr2EbErHUF0Z.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "5, Field Marshal Cariappa Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9715246",
+            "longitude": "77.6052942"
+         },
+         "name": "Cavore"
+      },
+      "name": "Cavore Presents Adam Trigger | India Tour",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits free entry to one couple till 10:30PM only, Post 10:30PM a mandatory Cover charge will be applicable as per club rules and regulations.\n",
+            "inventoryLevel": 876,
+            "name": "RSVP - COUPLE [FREE ENTRY]",
+            "url": "https://www.skillboxes.com/events/ticket/cavore-presents-adam-trigger-india-tour"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits free entry to One Single Lady till 10:30PM only, Post 10:30PM a mandatory Cover charge will be applicable as per club rules and regulations.\n",
+            "inventoryLevel": 957,
+            "name": "RSVP - Single Lady [FREE ENTRY]",
+            "url": "https://www.skillboxes.com/events/ticket/cavore-presents-adam-trigger-india-tour"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits entry to One Male Stag till 10:30PM with a mandatory Cover of INR 3000/- Upon Arrival at gate. Post 10:30PM Cover charges will be applicable upon Discretion of the venue as per club rules and regulations.\n",
+            "inventoryLevel": 926,
+            "name": "RSVP - Male Stag [FREE ENTRY]",
+            "url": "https://www.skillboxes.com/events/ticket/cavore-presents-adam-trigger-india-tour"
+         }
+      ],
+      "startDate": "2026-03-20T20:00:00",
+      "url": "https://www.skillboxes.com/events/cavore-presents-adam-trigger-india-tour"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Arsenal VS Manchester City  EFL Finals Live Screening Watson’s Indiranagar, Banga",
+      "endDate": "2026-03-22T23:59:00",
+      "identifier": "com.skillboxes.34827",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/THJuaWlqbVNUQkVJNndwTFJzYWtxUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17736754329MAIeKrizXBmsUux.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Sports"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Bengaluru, Karnataka, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9715987",
+            "longitude": "77.5945627"
+         },
+         "name": "Watson's"
+      },
+      "name": "Arsenal VS Manchester City | EFL Finals Live Screening | Watson’s Indiranagar, Bangalore",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 91,
+            "name": "Live Screening Pass",
+            "url": "https://www.skillboxes.com/events/ticket/arsenal-vs-manchester-city-efl-finals-live-screening-watson-s-indiranagar-bangalore"
+         }
+      ],
+      "startDate": "2026-03-22T22:00:00",
+      "url": "https://www.skillboxes.com/events/arsenal-vs-manchester-city-efl-finals-live-screening-watson-s-indiranagar-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "",
+      "endDate": "2026-03-21T01:00:00",
+      "identifier": "com.skillboxes.34811",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/anJ2NW5LakNyTXRncGVveDkwNzNTZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1773643332NnMurfkfymD3hIYx.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "THE LALIT ASHOK, Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9924198",
+            "longitude": "77.5824663"
+         },
+         "name": "Kitty Ko"
+      },
+      "name": "Redroom Ft. CRAVE & More",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to one female.) Extra cover of inr 1000/- applicable post  9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "PHASE 1 FEMALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-crave-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to one couple.) Extra cover of inr 1000/- per person applicable post 9:30 pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "PHASE 1 COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-crave-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to one male.) Extra cover of inr 1000/- applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "PHASE 1 MALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-crave-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to three female.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 3 FEMALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-crave-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to two couple.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 2 COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-crave-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to three couple.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 3 COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-crave-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to three male.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 3 MALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-crave-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to 5 male.) Extra cover of inr 1000/- per person  applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 5 MALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-crave-more"
+         }
+      ],
+      "startDate": "2026-03-20T19:00:00",
+      "url": "https://www.skillboxes.com/events/redroom-ft-crave-more"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Get Ready for SPECTRA 2026! 🌈✨Bangalore Group of Institutions is bringing the heat this April! Join us for a spectrum of talent, culture, and innovation. With a ₹1.5 Lakh total prize poo",
       "endDate": "2026-04-25T21:30:00",
       "identifier": "com.skillboxes.34803",
@@ -63,13 +701,6 @@
             "inventoryLevel": 50,
             "name": "Early Bird Pass",
             "url": "https://www.skillboxes.com/events/ticket/easter-jam"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "Phase 1 Pass",
-            "url": "https://www.skillboxes.com/events/ticket/easter-jam"
          }
       ],
       "startDate": "2026-04-05T17:00:00",
@@ -101,8 +732,8 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Cover charges may be applicable at the doors\n",
-            "inventoryLevel": 16,
+            "description": "Additional mandatory cover charge applicable at gate. Redeemable on F&B\n",
+            "inventoryLevel": 4,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/tht-presents-oafbiggigs-ed-8-ft-signal-w-goa-meewakching-imphal-hoirong-bangalore"
          }
@@ -113,7 +744,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Bengaluru based songwriter & producer Soorya celebrates his most recent single ‘Square one’ set to release on the 27th of March with the announcement of Soorya & frnds, presenting Kezia, Skivinnie & Soorya curated by Gigm",
+      "description": "Bengaluru based songwriter & producer Soorya celebrates his most recent single ‘Square one’ set to release on the 27th of March with the announcement of Soorya & frnds, presenting Kezia, Skivinnie & Soorya curated by Gigman",
       "endDate": "2026-04-05T23:59:00",
       "identifier": "com.skillboxes.34786",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1773483612a8l4teB1yDrLNKrT.jpg.webp",
@@ -137,7 +768,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charges applicable at the gate\n",
-            "inventoryLevel": 43,
+            "inventoryLevel": 37,
             "name": "Early Bird Pass",
             "url": "https://www.skillboxes.com/events/ticket/soorya-frnds-live-at-the-humming-tree-bengaluru-gigman-live"
          }
@@ -171,9 +802,41 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Grants access to the festival\n",
-            "inventoryLevel": 200,
+            "description": "Grants entry to the festival\n",
+            "inventoryLevel": 199,
             "name": "Early Bird",
+            "url": "https://www.skillboxes.com/events/ticket/the-mango-tree-4"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Grants entry to the festival and reserves a spot at the tattoo station. Timings: All day\n",
+            "inventoryLevel": 10,
+            "name": "Tattoo Slot",
+            "url": "https://www.skillboxes.com/events/ticket/the-mango-tree-4"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Grants entry to the festival and reserves a spot at the workshop. Workshop timings: 12PM - 2PM\n",
+            "inventoryLevel": 30,
+            "name": "Ceramic Clay Workshop",
+            "url": "https://www.skillboxes.com/events/ticket/the-mango-tree-4"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Grants entry to the festival and reserves a spot at the workshop. Workshop timings: 2:30PM - 4:30PM\n",
+            "inventoryLevel": 29,
+            "name": "How to Draw Faces Workshop",
+            "url": "https://www.skillboxes.com/events/ticket/the-mango-tree-4"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Grants entry to the festival and reserves a spot at the workshop. Workshop timings: 5PM - 7PM\n",
+            "inventoryLevel": 9,
+            "name": "Puppet making Workshop",
             "url": "https://www.skillboxes.com/events/ticket/the-mango-tree-4"
          }
       ],
@@ -269,88 +932,36 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Your Thursday upgrade is here.Double Trouble Thursday with Avijith x Jazzy bringing the party alive 🎧Meet us at Yeda Republic Bangalore for the ultimate midweek celebration. 🔥",
-      "endDate": "2026-03-19T23:59:00",
-      "identifier": "com.skillboxes.34767",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmNGckYxWkFNQm5STHcwSXczNWJWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1773407649n0zl32GlgHnrQEuL.jpg.webp",
+      "description": "The +91 Live Festival is a free, public, music-led festival in Bengaluru, a youth-driven cultural platform that brings together artists, communities and cities through the unifying power of sound. \r\n\r\n \r\n\r\n+91 Live is desig",
+      "endDate": "2026-03-27T22:30:00",
+      "identifier": "com.skillboxes.34761",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1773914806FXXHejaICOuq71Wj.png.webp",
       "isAccessibleForFree": true,
       "keywords": [
-         "Club Gigs - Music"
+         "Music Festivals"
       ],
       "location": {
          "@type": "Place",
-         "address": "100, 4th B Cross Rd, nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "address": "Bhartiya City, Thanisandra Main Rd, Kannuru, Bengaluru, Karnataka 560064, India",
          "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "12.9343419",
-            "longitude": "77.6155451"
+            "latitude": "13.0834281",
+            "longitude": "77.6433458"
          },
-         "name": "Yeda Republic Bengaluru"
+         "name": "Bhartiya Mall Of Bengaluru"
       },
-      "name": "DOUBLE TROUBLE THURSDAY FT. JAZZY X AVIJIT AT YEDA REPUBLIC KORAMANGALA",
+      "name": "+91 LIVE FESTIVAL – SOUND WITHOUT CONFLICT",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
-            "name": "FEMALE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/double-trouble-thursday-ft-jazzy-x-avijit-at-yeda-republic-koramangala"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
-            "name": "COUPLE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/double-trouble-thursday-ft-jazzy-x-avijit-at-yeda-republic-koramangala"
+            "inventoryLevel": 7988,
+            "name": "Free Entry",
+            "url": "https://www.skillboxes.com/events/ticket/91-live-festival-sound-without-conflict"
          }
       ],
-      "startDate": "2026-03-19T20:00:00",
-      "url": "https://www.skillboxes.com/events/double-trouble-thursday-ft-jazzy-x-avijit-at-yeda-republic-koramangala"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Break the weekday routine! Wednesday night belongs to Senleo x Jazzy spinning the hottest tracks at Yeda Republic! 🔥Gather your squad and let the madness begin. Don’t miss it! 🥂",
-      "endDate": "2026-03-18T23:59:00",
-      "identifier": "com.skillboxes.34765",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmNGckYxWkFNQm5STHcwSXczNWJWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1773406520EWZrooTf1hadmmOm.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "100, 4th B Cross Rd, nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9343419",
-            "longitude": "77.6155451"
-         },
-         "name": "Yeda Republic Bengaluru"
-      },
-      "name": "MIDWEEK MADNESS FT. JAZZY X SENLEO AT YEDA REPUBLIC KORAMANGALA",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
-            "name": "FEMALE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/midweek-madness-ft-jazzy-x-senleo-at-yeda-republic-koramangala"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
-            "name": "COUPLE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/midweek-madness-ft-jazzy-x-senleo-at-yeda-republic-koramangala"
-         }
-      ],
-      "startDate": "2026-03-18T20:00:00",
-      "url": "https://www.skillboxes.com/events/midweek-madness-ft-jazzy-x-senleo-at-yeda-republic-koramangala"
+      "startDate": "2026-03-27T17:00:00",
+      "url": "https://www.skillboxes.com/events/91-live-festival-sound-without-conflict"
    },
    {
       "@context": "https://schema.org",
@@ -374,24 +985,7 @@
          "name": "Cavore"
       },
       "name": "Privilege Fridaze ft. Adam Trigger / 20th Mar / Cavore",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 200,
-            "name": "Guestlist - Couple",
-            "url": "https://www.skillboxes.com/events/ticket/privilege-fridaze-ft-adam-trigger-20th-mar-cavore"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Female throughout the event.\n",
-            "inventoryLevel": 200,
-            "name": "Guestlist - Female",
-            "url": "https://www.skillboxes.com/events/ticket/privilege-fridaze-ft-adam-trigger-20th-mar-cavore"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2026-03-20T20:00:00",
       "url": "https://www.skillboxes.com/events/privilege-fridaze-ft-adam-trigger-20th-mar-cavore"
    },
@@ -469,172 +1063,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "The spotlight is on and the beats are ready. 🎧Join us for Showtime Tuesday with DJ Sukant at Yeda Republic Bangalore.Midweek plans = sorted.Let the party take over! 🔥",
-      "endDate": "2026-03-17T23:59:00",
-      "identifier": "com.skillboxes.34753",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmNGckYxWkFNQm5STHcwSXczNWJWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1773339943pceCwbfLFGajL7JU.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "100, 4th B Cross Rd, nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9343419",
-            "longitude": "77.6155451"
-         },
-         "name": "Yeda Republic Bengaluru"
-      },
-      "name": "SHOWTIME TUESDAY FT. DJ SUKANT AT YEDA REPUBLIC KORAMANGALA",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
-            "name": "FEMALE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/showtime-tuesday-ft-dj-sukant-at-yeda-republic-koramangala-4"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
-            "name": "COUPLE FREE",
-            "url": "https://www.skillboxes.com/events/ticket/showtime-tuesday-ft-dj-sukant-at-yeda-republic-koramangala-4"
-         }
-      ],
-      "startDate": "2026-03-17T20:00:00",
-      "url": "https://www.skillboxes.com/events/showtime-tuesday-ft-dj-sukant-at-yeda-republic-koramangala-4"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Where the music rules the night. 🎶🔥Join us for a Music Takeover with DJ Revibe at Yeda Republic.Get ready for a night of unstoppable music and electric energy. ⚡",
-      "endDate": "2026-03-16T23:59:00",
-      "identifier": "com.skillboxes.34752",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmNGckYxWkFNQm5STHcwSXczNWJWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1773339449Vl2LRrb0qx8sthTq.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "100, 4th B Cross Rd, nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9343419",
-            "longitude": "77.6155451"
-         },
-         "name": "Yeda Republic Bengaluru"
-      },
-      "name": "MUSIC TAKEOVER FT. DJ REVIBE AT YEDA REPUBLIC KORAMANGALA",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
-            "name": "FEMALE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/music-takeover-ft-dj-revibe-at-yeda-republic-koramangala-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
-            "name": "COUPLE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/music-takeover-ft-dj-revibe-at-yeda-republic-koramangala-1"
-         }
-      ],
-      "startDate": "2026-03-16T20:00:00",
-      "url": "https://www.skillboxes.com/events/music-takeover-ft-dj-revibe-at-yeda-republic-koramangala-1"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "⚡ TOXIC THURSDAYS ⚡Turn up the energy this Ladies Night at i-BAR!🎧 Featuring ANAMICAwith Electro Smas",
-      "endDate": "2026-03-19T23:59:00",
-      "identifier": "com.skillboxes.34732",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/enJ3dHo2TnFhNnU5M2E5QnkyK1dXQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1773293932evnBEbmMDOGQfRIl.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "The Park Hotel ,14/7, MG Road Bangalore, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "28",
-            "longitude": "77"
-         },
-         "name": "i-BAR"
-      },
-      "name": "Toxic Thursday Ladies Night",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 95,
-            "name": "RSVP",
-            "url": "https://www.skillboxes.com/events/ticket/toxic-thursday-ladies-night-2"
-         }
-      ],
-      "startDate": "2026-03-19T08:00:00",
-      "url": "https://www.skillboxes.com/events/toxic-thursday-ladies-night-2"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "SoMAD Lab presents a special night in Bengaluru with the electrifying sounds of the Katayanagi Twins.\r\n\r\n \r\n\r\nBorn in New Zealand, twins Rain and China are redefining global club culture with high-energy DJ sets that blend Pacif",
-      "endDate": "2026-04-04T23:59:00",
-      "identifier": "com.skillboxes.34720",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1773245863dD3ELiKCeTcbaBa9.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "",
-         "name": "To Be Decided"
-      },
-      "name": "SOMAD LAB PRESENTS KATAYANAGI TWINS + APCN & FRIENDS",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Permits free entry to one couple till 9:30PM only, Post 9:30PM a mandatory Cover charge will be applicable as per club rules and regulations.\n",
-            "inventoryLevel": 973,
-            "name": "RSVP - COUPLE [FREE ENTRY]",
-            "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-katayanagi-twins-apcn-friends"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Permits free entry to One Single Lady till 9:30PM only, Post 9:30PM a mandatory Cover charge will be applicable as per club rules and regulations.\n",
-            "inventoryLevel": 1000,
-            "name": "RSVP - Single Lady [FREE ENTRY]",
-            "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-katayanagi-twins-apcn-friends"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Permits One Individual or one couple or 2 single ladies with an anytime free entry to the event With a full cover note of INR 3000/- upon arrival at gate.  Book Now and Walk-In like a VIP!\n",
-            "inventoryLevel": 1000,
-            "name": "VIP - ANYTIME ENTRY + FULL COVER",
-            "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-katayanagi-twins-apcn-friends"
-         }
-      ],
-      "startDate": "2026-04-04T19:00:00",
-      "url": "https://www.skillboxes.com/events/somad-lab-presents-katayanagi-twins-apcn-friends"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Nürv x Social Presents\r\n\r\n \r\n\r\nFRAT HOUSE: The Birth of Houses\r\n\r\n \r\n\r\n \r\n\r\nThree levels.\r\n\r\n \r\n\r\nNine artists.\r\n\r\nOne night where chaos finds structure.\r\n\r\n&n",
       "endDate": "2026-04-04T23:59:00",
       "identifier": "com.skillboxes.34715",
@@ -665,7 +1093,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 15,
+            "inventoryLevel": 13,
             "name": "Early Bird Male Full Cover",
             "url": "https://www.skillboxes.com/events/ticket/frat-house-the-birth-of-houses-indiranagarsocial"
          },
@@ -707,7 +1135,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory Cover Charge of INR 500 applicable at gates\n",
-            "inventoryLevel": 998,
+            "inventoryLevel": 987,
             "name": "Entry Ticket",
             "url": "https://www.skillboxes.com/events/ticket/the-grunge-explosion"
          }
@@ -742,7 +1170,15 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory Cover Charge of INR 500 applicable at gates\n",
-            "inventoryLevel": 2,
+            "inventoryLevel": 995,
+            "name": "Phase 1",
+            "url": "https://www.skillboxes.com/events/ticket/wacken-metal-battle-bangalore-prelims"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "description": "Mandatory Cover Charge of INR 500 applicable at gates\n",
+            "inventoryLevel": 0,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/wacken-metal-battle-bangalore-prelims"
          }
@@ -776,7 +1212,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 46,
+            "inventoryLevel": 41,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/freak-opera-feat-chaz-cygni-default-system-rishi-sippy-vedik-theburrowblr"
          }
@@ -888,7 +1324,15 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 7,
+            "description": "A mandatory cover charge will be applicable at the doors\n",
+            "inventoryLevel": 402,
+            "name": "Entry Ticket + Cover",
+            "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-sudan-and-janisht"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "inventoryLevel": 0,
             "name": "Entry Ticket",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-sudan-and-janisht"
          }
@@ -931,49 +1375,6 @@
       ],
       "startDate": "2026-04-10T20:30:00",
       "url": "https://www.skillboxes.com/events/soul-mantra"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Where the mic meets the martini and every voice gets its\nmoment in the spotlight.\nJoin us for Sip & Sing, a weekly karaoke night at Hamilton\nCocktail Bar hosted by the ever-charismatic Joshua",
-      "endDate": "2026-03-20T23:30:00",
-      "identifier": "com.skillboxes.34619",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TFRFbjV2YklkZ1poeHlNektJOW83dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1773041593kqrqCNXrQ4xz661y.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Event"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru, Karnataka 560048, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9820923",
-            "longitude": "77.7086283"
-         },
-         "name": "Hamilton Cocktail Bar"
-      },
-      "name": "Sing and Sip ft. Joshua",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "•\tThis amount is fully redeemable on food and beverages. •\tAll event bookings are non-refundable. No cancellation/refund will be allowed post booking. •\tEvent start time is subject to the artist’s discretion and may vary from the scheduled time.\n•\tThis amount is fully redeemable on food and beverages. •\tAll event bookings are non-refundable. No cancellation/refund will be allowed post booking. •\tEvent start time is subject to the artist’s discretion and may vary from the scheduled time.",
-            "inventoryLevel": 97,
-            "name": "General Admission for 1",
-            "url": "https://www.skillboxes.com/events/ticket/sing-and-sip-ft-joshua-8"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "•\tThis amount is fully redeemable on food and beverages. •\tAll event bookings are non-refundable. No cancellation/refund will be allowed post booking. •\tEvent start time is subject to the artist’s discretion and may vary from the scheduled time.\n•\tThis amount is fully redeemable on food and beverages. •\tAll event bookings are non-refundable. No cancellation/refund will be allowed post booking. •\tEvent start time is subject to the artist’s discretion and may vary from the scheduled time.",
-            "inventoryLevel": 100,
-            "name": "Front View Table for 4",
-            "url": "https://www.skillboxes.com/events/ticket/sing-and-sip-ft-joshua-8"
-         }
-      ],
-      "startDate": "2026-03-20T20:00:00",
-      "url": "https://www.skillboxes.com/events/sing-and-sip-ft-joshua-8"
    },
    {
       "@context": "https://schema.org",
@@ -1147,7 +1548,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Perform at the biggest Open Mic stage in India! As a performer, you get 5-7 minutes slot to perform. Extra minutes provided upon request. You will be provided with an e-certificate + photographs + videos of your performance.\n",
-            "inventoryLevel": 10,
+            "inventoryLevel": 9,
             "name": "PERFORMER PASS",
             "url": "https://www.skillboxes.com/events/ticket/lit-mic-bengaluru-open-mic-poetry-stories-comedy-music-edition-84"
          },
@@ -1224,7 +1625,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 95,
+            "inventoryLevel": 91,
             "name": "General Admission for 1",
             "url": "https://www.skillboxes.com/events/ticket/the-bombay-circuit-ft-purohit-chronic-musicmonk"
          }
@@ -1259,7 +1660,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges of INR 750 applicable at the doors before 9.30 PM, Cover charges of INR 1000 applicable post 9.30 PM\n",
-            "inventoryLevel": 13,
+            "inventoryLevel": 6,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/tht-x-oafbiggigs-jatin-talukdar-project-arenlong-and-sei-hek"
          },
@@ -1302,7 +1703,15 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges are applicable at the gate.\n",
-            "inventoryLevel": 1,
+            "inventoryLevel": 124,
+            "name": "Phase 1 Pass",
+            "url": "https://www.skillboxes.com/events/ticket/amnap-records-presents-denham-audio-borai-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "description": "Cover charges are applicable at the gate.\n",
+            "inventoryLevel": 0,
             "name": "Early Bird Pass",
             "url": "https://www.skillboxes.com/events/ticket/amnap-records-presents-denham-audio-borai-more"
          }
@@ -1332,16 +1741,7 @@
          "name": "The Humming Tree"
       },
       "name": "THT presents Parvaaz (Na Gul Na Gulistan Tour - Bangalore), supported by Lojal",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges of INR 750 applicable at the doors before 9.30 PM, Cover charges of INR 1000 applicable post 9.30 PM\n",
-            "inventoryLevel": 97,
-            "name": "General Entry",
-            "url": "https://www.skillboxes.com/events/ticket/tht-presents-parvaaz-album-launch"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2026-03-28T20:00:00",
       "url": "https://www.skillboxes.com/events/tht-presents-parvaaz-album-launch"
    },
@@ -1372,7 +1772,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entry to this event includes a free beer. Cover charges of INR 1000 applicable at the venue\n",
-            "inventoryLevel": 66,
+            "inventoryLevel": 60,
             "name": "General Entry",
             "url": "https://www.skillboxes.com/events/ticket/tht-presents-ranj-x-clifr-stevie"
          }
@@ -1657,7 +2057,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "The early crowd always gets the best stories.\n",
-            "inventoryLevel": 45,
+            "inventoryLevel": 37,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/24-songs-festival"
          },
@@ -1708,7 +2108,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Grant general access to one individual.\n",
-            "inventoryLevel": 125,
+            "inventoryLevel": 65,
             "name": "Phase 2 || Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/bluetree-presents-jack-gardiner"
          },
@@ -1758,7 +2158,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 246,
+            "inventoryLevel": 244,
             "name": "Phase 2",
             "url": "https://www.skillboxes.com/events/ticket/wacken-open-air-warm-up-party"
          },
@@ -1779,40 +2179,6 @@
       ],
       "startDate": "2026-04-18T20:00:00",
       "url": "https://www.skillboxes.com/events/wacken-open-air-warm-up-party"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Ksetravid is a Modern Metal band from Bangalore, India. The band focuses on\r\n\r\nblending different genres of metal, keeping technical death metal at it’s core.The\r\n\r\nmusic delves into self introspection, challen",
-      "endDate": "2026-03-18T23:55:00",
-      "identifier": "com.skillboxes.34045",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1771595756DFlMU2KLvfXlWl5y.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Concerts"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": null,
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "28",
-            "longitude": "77"
-         },
-         "name": "The Humming Tree"
-      },
-      "name": "Grassroots Wednesdays with Ksetravid, thevoidewecreate & Backrooms.",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 418,
-            "name": "General",
-            "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-ksetravid-thevoidewecreate-backrooms"
-         }
-      ],
-      "startDate": "2026-03-18T20:00:00",
-      "url": "https://www.skillboxes.com/events/grassroots-wednesdays-with-ksetravid-thevoidewecreate-backrooms"
    },
    {
       "@context": "https://schema.org",
@@ -1840,8 +2206,9 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 438,
-            "name": "General",
+            "description": "A mandatory cover charge will be applicable at the doors\n",
+            "inventoryLevel": 447,
+            "name": "Entry Ticket + Cover",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-flying-turquoise-panthers-skivinnie"
          }
       ],
@@ -1870,7 +2237,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charge of INR 500 applicable at gates\n",
-            "inventoryLevel": 50,
+            "inventoryLevel": 49,
             "name": "Phase - 1",
             "url": "https://www.skillboxes.com/events/ticket/prog-encounters-4-0-bangalore-edition-day-2"
          },
@@ -1886,7 +2253,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charge of INR 500 applicable at gates\n",
-            "inventoryLevel": 10,
+            "inventoryLevel": 9,
             "name": "Concert pass + T-shirt",
             "url": "https://www.skillboxes.com/events/ticket/prog-encounters-4-0-bangalore-edition-day-2"
          },
@@ -1972,7 +2339,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charge of INR 500 applicable at gates\n",
-            "inventoryLevel": 53,
+            "inventoryLevel": 47,
             "name": "Phase - 1",
             "url": "https://www.skillboxes.com/events/ticket/prog-encounters-4-0-bangalore-edition-day-1"
          },
@@ -1980,7 +2347,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charge of INR 500 per day applicable at gates\n",
-            "inventoryLevel": 8,
+            "inventoryLevel": 2,
             "name": "Bangalore - 2 day pass",
             "url": "https://www.skillboxes.com/events/ticket/prog-encounters-4-0-bangalore-edition-day-1"
          },
@@ -2078,7 +2445,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 288,
+            "inventoryLevel": 287,
             "name": "Apocalyptic Grid",
             "url": "https://www.skillboxes.com/events/ticket/apocalyptic-grid-2"
          }
@@ -2214,6 +2581,57 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "SATURDAY CLUB NOCTURNO ! This month's biggest bash is happening at the ultra-exclusive Skyye Bar UB City. DJ Johnnie Ernest on the decks. opening act VDJ JD. Get ready to lose yourself in the music! 🎧 This month, we'",
+      "endDate": "2026-03-22T23:45:00",
+      "identifier": "com.skillboxes.32852",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/ZTBUb1FOd3k5QXo5ZmxvS3hBOHVQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1773756784mSV3gexAo8qPP7dM.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "24, 16th Floor, Uber level, Canberra Block, UB City, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9714272",
+            "longitude": "77.596508"
+         },
+         "name": "Skyye"
+      },
+      "name": "Saturday Club Nocturno At SkyyeBar- Rooftop Ub City",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass permits one couple to the event. Cover charges applicable at the venue post 9:30 PM.\n",
+            "inventoryLevel": 199,
+            "name": "Couple",
+            "url": "https://www.skillboxes.com/events/ticket/saturday-club-nocturno-at-skyee-ub-city"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Free entry for ladies.\n",
+            "inventoryLevel": 97,
+            "name": "Ladies",
+            "url": "https://www.skillboxes.com/events/ticket/saturday-club-nocturno-at-skyee-ub-city"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "• Each pass permits entry for one stag • Cover charge of INR 2,000 applicable at the venue throughout the night • Cover charge is fully redeemable\n",
+            "inventoryLevel": 500,
+            "name": "Single Men",
+            "url": "https://www.skillboxes.com/events/ticket/saturday-club-nocturno-at-skyee-ub-city"
+         }
+      ],
+      "startDate": "2026-03-21T19:00:00",
+      "url": "https://www.skillboxes.com/events/saturday-club-nocturno-at-skyee-ub-city"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "End 2025 on a High Note: New Year Eve's Gala 2026 at Skydeck by Sherlock's!Tired of the usual New Year's Eve scene? Elevate your celebration and welcome 2026 under the stars at the most sought-after rooftop pub in the heart of ",
       "endDate": "2026-12-31T23:59:00",
       "identifier": "com.skillboxes.30796",
@@ -2240,22 +2658,52 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "HighlightsDJ Night Ft DJ VanshiNon-Stop MusicDance FloorMouth-Watering AppetizersCocktails and MocktailsBottomless Thursdays at Happy Brew brings you a night of unlimited ch",
-      "endDate": "2026-04-10T00:30:00",
-      "identifier": "com.skillboxes.27249",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/ZTBUb1FOd3k5QXo5ZmxvS3hBOHVQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1771849269DlBvpSxg2pDIwyW8.jpg.webp",
+      "description": "HighlightsDJ Night Non-Stop MusicBollywood MusicDance FloorGreat A",
+      "endDate": "2026-03-21T00:45:00",
+      "identifier": "com.skillboxes.27271",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/ZTBUb1FOd3k5QXo5ZmxvS3hBOHVQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1773148979q4SvCim0m10zhS66.jpg.webp",
       "isAccessibleForFree": true,
       "keywords": [
          "Club Gigs - Music"
       ],
       "location": {
          "@type": "Place",
-         "address": "No.40, 4th B Cross, 5th Block industrial layout, Koramangala Bangalore, India",
-         "name": "HAPPY BREW"
+         "address": "23, 1st Floor, 1st Main Rd, KHB Colony, Koramangala Industrial Layout, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9348483",
+            "longitude": "77.6138996"
+         },
+         "name": "Badmaash Koramangala"
       },
-      "name": "Bottomless Thursdays at Happy Brew kormangala",
-      "offers": [ ],
-      "startDate": "2026-03-12T20:00:00",
-      "url": "https://www.skillboxes.com/events/trending-thursday-ft-martin-dsouza"
+      "name": "Friday Nakhra Night at Badmaash Koramangala",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "- Each pass permits one stag entry to the event. - Cover charge of INR 2000/- is applicable at the venue.\n",
+            "inventoryLevel": 500,
+            "name": "Stag",
+            "url": "https://www.skillboxes.com/events/ticket/friday-nakhra-night-at-badmaash-koramangala"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "One pass allow group of ladies\n",
+            "inventoryLevel": 500,
+            "name": "Ladies",
+            "url": "https://www.skillboxes.com/events/ticket/friday-nakhra-night-at-badmaash-koramangala"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "- Each pass permits one couple entry to the event. - Cover charge of INR 1500/- is applicable at the venue after 9:30 PM.\n",
+            "inventoryLevel": 499,
+            "name": "Couple",
+            "url": "https://www.skillboxes.com/events/ticket/friday-nakhra-night-at-badmaash-koramangala"
+         }
+      ],
+      "startDate": "2026-03-20T19:00:00",
+      "url": "https://www.skillboxes.com/events/friday-nakhra-night-at-badmaash-koramangala"
    }
 ]
