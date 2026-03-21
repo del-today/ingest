@@ -414,44 +414,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Tughlaqabad Heritage Walk- A forgotten city",
-    "description": "Embark on a captivating 1 hour heritage walk through Tughlakabad Fort, Delhi's grand yet ghostly third medieval city, where massive grey stone ruins whisper tales of ambition, curses, and rapid decline.",
-    "startDate": "2026-03-22T15:00:00+05:30",
-    "endDate": "2026-03-22T16:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "G766+9W9, Tughlaqabad Fort, Tughlakabad, New Delhi, Delhi 110044, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.51091700000000000000",
-        "longitude": "77.26235369999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "450.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Riwayat Walks",
-      "url": "https://urbanaut.app/partner/riwayatwalks"
-    },
-    "url": "https://urbanaut.app/spot/tughlaqabad-heritage-walk-a-forgotten-city",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Handmade Maps: Craft Delhi's Hidden History",
     "description": "Unleash your inner cartographer! In this 2-hour hands-on workshop, create personalized handmade maps of Delhi's heritage sites using pens, inks, and collage. Led by architect-urban designer. Perfect for explorers, artists, and history buffs.",
     "startDate": "2026-04-05T10:00:00+05:30",
