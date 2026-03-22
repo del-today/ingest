@@ -1,57 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "Sleepless City(2025)",
-    "url": "https://fillum.in/screening/5063",
-    "startDate": "2026-03-22T11:00:00+05:30",
-    "endDate": "2026-03-22T11:00:00+05:30",
-    "description": "Free entry.",
-    "location": {
-      "@type": "Place",
-      "name": "Stein Auditorium, India Habitat Centre",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Habitat International Film Festival"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Pedals and Prayers(2025)",
-    "url": "https://fillum.in/screening/5064",
-    "startDate": "2026-03-22T11:00:00+05:30",
-    "endDate": "2026-03-22T11:00:00+05:30",
-    "description": "Free entry.",
-    "location": {
-      "@type": "Place",
-      "name": "The Theatre, India Habitat Centre",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Habitat International Film Festival"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Sabar Bonda(2025)",
-    "url": "https://fillum.in/screening/5172",
-    "startDate": "2026-03-22T12:00:00+05:30",
-    "endDate": "2026-03-22T12:00:00+05:30",
-    "description": "By QConnect",
-    "location": {
-      "@type": "Place",
-      "name": "Zamrudpur, Kailash Colony",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Fillum"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "Hijra(2025)",
     "url": "https://fillum.in/screening/5065",
     "startDate": "2026-03-22T14:00:00+05:30",
