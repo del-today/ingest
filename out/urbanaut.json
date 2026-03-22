@@ -39,80 +39,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Overthinkers Anonymous",
-    "description": "OverviewEver wondered why you default to people-pleasing, perfectionism, or avoidance? This session is about connecting the dots between your past experiences and your present reactions in a safe, judgment-free environment.What is Stories of Hope?We are a community-led initiative dedicated to creating safe, mindful spaces. Through workshops and gatherings, we help individuals navigate life\u2019s complexities, from mental well-being to personal growth, with empathy and shared human connection.What to expectPattern Recognition: Explore why tendencies like overthinking or control keep showing up in your life.Guided Reflection: Use a specialized worksheet to gain context on your reactions without the weight of self-judgment.Awareness & Compassion: A gentle space to build self-awareness and understanding\u2014focused on insight, not on reliving trauma.Details\ud83d\uddd3\ufe0f Date: 22nd March (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Kanchanjunga Towers, Sector-56\ud83c\udf9f\ufe0f Contribution: Rs 700 (Includes coffee + snacks)",
-    "startDate": "2026-03-22T11:30:00+05:30",
-    "endDate": "2026-03-22T13:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "A-BLOCK, KANCHANJUNGA APARTMENT, G.H.18, near Post Office, Sector 56, Gurugram, Haryana 122011, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.42299410000000000000",
-        "longitude": "77.10300720000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "661.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/overthinkers-anonymous",
-    "keywords": [
-      "Wellness",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Growing a Garden",
-    "description": "Growing a Garden - Nurturing an Ecosystem in the CityMuch can be grown in small spaces, in containers, or even as a hedge. You don't necessarily need a sprawling backyard, or lots of time.It's not difficult to harness nature in the city. What we need is a change in attitude and a spot in the sun. Join Anita, a professional Landscape Architect with experience in designing Edible Landscapes, and her Mum, Bimla, who has maintained a Kitchen Garden in Delhi for over four decades.  Learn the basics principles of gardening and how to make the most of what you have. They share their experiences of creating a sustainable garden, how they leaned from their mistakes, what you need to start, what you must watch out for, to grow a garden in tune with Nature and her seasons. Even with limited \"free\" time you can have a productive garden that brings joy.The Gardening Session will be followed by Tea in the garden. Jayasri and Anita have a delicious, colourful Spring-themed menu planned for you.",
-    "startDate": "2026-03-22T16:00:00+05:30",
-    "endDate": "2026-03-22T18:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Sector 30, Noida, Uttar Pradesh 201303, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.57394770000000000000",
-        "longitude": "77.33890339999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "800.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "a mad tea party",
-      "url": null
-    },
-    "url": "https://urbanaut.app/spot/grow-a-garden",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Sip & Paint Workshop",
     "description": "Welcome to our Sip & Paint Ceramic Workshop!Join us for a slow, hands-on session at our studio; an afternoon of clay, colour, and a drink on us.In this workshop, you\u2019ll get to paint a handcrafted ceramic piece. You can choose a handcrafted piece from our curated selection at the studio (mugs, sippers, travel cups, matcha bowls, dish plates, and more).We provide food-safe glazes, and once your piece is painted, we\u2019ll glaze and fire it for you, making it ready for everyday use (microwave and dishwasher safe).You can choose to pick up your finished piece from the studio or have it couriered to you (charges applicable as per actuals).We can\u2019t wait to host you \ud83e\udef6",
@@ -230,8 +156,8 @@
     "@type": "FoodEvent",
     "name": "Salad Making Workshop",
     "description": "Join us for a hands-on Salad Making Workshop where you\u2019ll learn how to create vibrant, flavour-packed salads using fresh farm-to-table and hydroponic greens from Agama.In this interactive session, you'll guide you through the basics of building the perfect salad \u2014 balancing greens, grains, proteins, toppings and house-made dressings to create bowls that are nutritious, satisfying and delicious.Whether you\u2019re looking to eat healthier, explore plant-based cooking, or simply learn new recipes, this workshop will give you practical tips you can easily recreate at home.",
-    "startDate": "2026-03-22T16:00:00+05:30",
-    "endDate": "2026-03-22T18:00:00+05:30",
+    "startDate": "2026-03-28T16:00:00+05:30",
+    "endDate": "2026-03-28T18:00:00+05:30",
     "location": {
       "@type": "Place",
       "address": "M-18, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
@@ -260,42 +186,6 @@
       "Leisure",
       "Workshop",
       "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "#lecture23: The Trees of Delhi",
-    "description": "#lecture23: Trees of Delhi: From Empire and Ecology to the Politics of Trees in DelhiA river tamarind tree grows where it shouldn\u2019t \u2014 on the edge of Bhalswa landfill.You would imagine why and how it get there?This question opens up a much larger story about trees in the city. Far from being static parts of the landscape, trees have travelled across continents through ships, trade routes, botanical experiments, and colonial ambitions. Delhi\u2019s urban forests carry traces of these journeys.This lecture explores how trees became entangled with empire, science, and city-making. From Mughal gardens and British forestry to post-independence plantation drives and global climate targets, the trees around us reflect shifting ideas about nature, governance, and belonging.Join us for an afternoon of stories, ideas, and conversation about the hidden lives of trees in the city.About the SpeakerNirjesh Gautam is currently researching at the Centre for Urban Ecology & Sustainability. He is an independent researcher and writer interested in human\u2013nature interactions in urban areas. His work focuses on neglected green spaces, urban biodiversity, and the politics shaping city environments. Through education, storytelling, and art, he explores how nature persists within cities and convenes a collective documenting urban ecology across Delhi-NCR.\ud83d\udccc Note: Alcohol will be served only to guests aged 25 and above. Non-alcoholic options will be available. Attendance implies consent to being filmed for event documentation.",
-    "startDate": "2026-03-22T15:00:00+05:30",
-    "endDate": "2026-03-22T17:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "D Block, D12, Market, above Bank Of India, Vasant Vihar, New Delhi, Delhi 110057, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.56148770000000000000",
-        "longitude": "77.15542750000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "699.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Pint of View Delhi NCR",
-      "url": "https://urbanaut.app/partner/pint-of-view-delhi-ncr"
-    },
-    "url": "https://urbanaut.app/spot/lecture23",
-    "keywords": [
-      "Live GIG",
       "URBANAUT"
     ]
   },
@@ -751,42 +641,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Who Gets To Belong In A City?",
-    "description": "Who is a city actually built for?About the LecturePublic space is often described as neutral, open, accessible, equally available to all.But everyday experience tells a different story.Who sits comfortably in a park and who scans their surroundings. Who lingers and who rushes. Who takes up space and who shrinks. Who feels at home and who feels watched. These patterns are not incidental. They reflect deeper structures of power embedded in design, governance, and investment.This lecture examines how cities are shaped not just by infrastructure, but by assumptions about whose presence is anticipated, and whose is treated as exceptional.Drawing from fieldwork across Indian cities, including on-ground urban transformation projects in Ayodhya and research in Delhi, alongside global scholarship on gender-responsive planning, The aim of this lecture is not only to critique existing models,  but to offer new ways of seeing, imagining, and building cities.About the SpeakerRuchita Bansal is an urban practitioner and researcher working at the intersection of public space, mobility, and gender in Indian cities. Her work explores how infrastructure decisions shape everyday urban experience, particularly for women and marginalised communities.She has been closely involved in large-scale urban transformation initiatives, including fa\u00e7ade improvement and public realm interventions in Ayodhya, working directly with planners, contractors, and local authorities to translate design vision into execution under complex, time-bound conditions.Ruchita is also the founder of SheCity India, a platform documenting and analysing how women experience Indian cities. Through research, storytelling, public dialogue, and the Human City Podcast, she challenges the assumption that public space is neutral \u2014 arguing instead that cities mirror the values and power structures embedded within their systems.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from St. Stephen\u2019s, Delhi who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
-    "startDate": "2026-03-22T16:00:00+05:30",
-    "endDate": "2026-03-22T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Basement, Ground floor and First floor Building no. 12, Panchsheel Community Centre, Shahpur Jat, Panchsheel Park, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54805190000000000000",
-        "longitude": "77.21147640000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/who-gets-to-belong-in-a-city",
-    "keywords": [
-      "Live GIG",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Safdarjung Tomb Heritage Walk",
     "description": "Safdarjung\u2019s Tomb Heritage WalkJoin us for a journey into the fading glow of Mughal splendour at Safdarjung's Tomb \u2014 often called the *last flicker of Mughal grandeur* in Delhi.Built in 1754 for Safdarjung, the powerful Nawab of Awadh and Prime Minister of the Mughal court, this monument stands at the twilight of an empire \u2014 grand in ambition, yet carrying within it the quiet signs of decline.Its story is as fascinating as its form. From courtly intrigues and shifting loyalties to the architectural choices that reveal a changing political landscape, Safdarjung\u2019s life opens a compelling window into 18th-century Delhi.We will also trace a lesser-known layer of its history \u2014 how this tomb was constructed by reusing material from a pre-existing Mughal structure, quite literally building one memory over another.To truly understand Delhi \u2014 its rise, its resilience, and its gradual transitions \u2014 a visit to Safdarjung\u2019s Tomb is essential.Come, walk with us through the final chapter of Mughal architectural brilliance \u2014 where grandeur meets gravity, and history lingers in every arch.",
     "startDate": "2026-03-29T17:00:00+05:30",
@@ -862,44 +716,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Nizamuddin Heritage walk on Sufism & Poetry",
-    "description": "In the Sufi Bylanes of Nizamuddin \u2014 A Heritage Walk of Stories, Shrines & SilenceStep into the tender, time-worn lanes of Nizamuddin, where the fragrance of incense mingles with qawwali echoes and centuries of faith, love, and longing still breathe through stone and sky.Join us for a soulful heritage walk through the sacred precincts of Nizamuddin Dargah, as we trace the footsteps of saints, poets, patrons, and wanderers who made this neighbourhood a living archive of Delhi\u2019s Sufi soul.On this journey, we will also pause at:\u2728 Ghalib\u2019s Mazar \u2014 remembering the poet of longing and lament\u2728 Chausath Khamba \u2014 a marble pavilion of quiet grace and symmetry\u2728 Atagha Khan\u2019s Tomb \u2014 a Mughal-era resting place of power and piety\u2728 Pateh Shah\u2019s Dargah \u2014 where devotion meets deep serenity. Along the way, we\u2019ll listen to stories of shrines and seekers, of migration and memory, of music, miracles, and mysticism \u2014 stories that still whisper through these alleys at dusk.",
-    "startDate": "2026-03-22T16:00:00+05:30",
-    "endDate": "2026-03-22T18:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Bharat Scouts and Guides Marg, opposite Humayun Tomb Park, Nizamuddin, Hazrat Nizamuddin, National Zoological Park, Sundar Nagar, New Delhi, Delhi 110013, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59564670000000000000",
-        "longitude": "77.24516910000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "755.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "DARWESH_TALEWEAVERS",
-      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
-    },
-    "url": "https://urbanaut.app/spot/nizamuddin-heritage-walk-on-sufism-poetry",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "UNCORKED: A Guided Wine Tasting & Pairing",
     "description": "This isn\u2019t your usual wine tasting.And it\u2019s not meant to be.This is a guided experience  where you understandwhy brie works with one wine,why goat cheese behaves differently,why chocolate surprises you with another,and why some wines simply need time.You\u2019re guided step by step by a sommelier who lives and breathes wine.You taste. You ask. You talk. You linger.You\u2019ll share the table with people you haven\u2019t met before, and one of kind experienceThis will include 5 tasting wines paired thoughtfully with small bites. Additional wines can be purchased at the event later.This event will take place at our residence in Gurgaon. ( Exact location will be shared 24 hours before the event to maintain privacyUncork with us.",
@@ -929,44 +745,6 @@
       "url": "https://urbanaut.app/partner/thebrineclub"
     },
     "url": "https://urbanaut.app/spot/a-guided-wine-tasting-pairing-table",
-    "keywords": [
-      "Premium",
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Pakhala Pop Up : A Summer Table from Odisha",
-    "description": "Pakhala Pop-Up: A Summer Table from OdishaA Rosei Ghara x Kartik\u2019s Kitchen CollaborationAs the Delhi sun begins to turn warmer, we bring to the table a ritual from coastal Odisha \u2014 a meal designed for summer.Pakhala is not just fermented rice. It is comfort, cooling, seasonal wisdom, and memory served in a bowl.On 21st & 22nd March, from 12 pm onwards, Rosei Ghara, in collaboration with Kartik\u2019s Kitchen, invites you to experience an Odia summer table \u2014 thoughtfully curated, slow, and rooted in tradition.What to Expect:At the centre sits Pakhala \u2014 lightly fermented rice, cooling and probiotic-rich \u2014 accompanied by an abundant spread of classic summer sides. Expect crisp fries, smoky mash, leafy greens, lentil badis, seasonal vegetables, and carefully spiced accompaniments \u2014 each dish balancing texture, heat, tang, and crunch.Why It\u2019s Special\u2022 A rare opportunity to experience Odisha\u2019s iconic summer meal in Delhi\u2022 A collaboration between two kitchens that celebrate regional Indian flavours\u2022 Limited seating to preserve the intimacy of the table\u2022 Hosted in a private residence in Jangpura Extension (complete address shared post-booking)\u2022 A slow, immersive lunch designed around seasonality and traditionPakhala is typically eaten for lunch in Odia homes \u2014 and we invite you to experience it exactly as it is meant to be enjoyed: unhurried, generous, and shared.\ud83d\udccd Venue: Jangpura Extension, Delhi\ud83d\uddd3\ufe0f Dates: 21st & 22nd March\ud83d\udd5b Time: 12 pm onwards\u2728 Limited seats | Community dining experienceCome curious. Come hungry.Leave with a new understanding of how Odisha does summer.",
-    "startDate": "2026-03-22T12:00:00+05:30",
-    "endDate": "2026-03-22T14:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Jungpura Extension, Jangpura, New Delhi, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.58125700000000000000",
-        "longitude": "77.24195220000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2299.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Rosei Ghara",
-      "url": "https://urbanaut.app/partner/roseighara"
-    },
-    "url": "https://urbanaut.app/spot/pakhalapopup1",
     "keywords": [
       "Premium",
       "Pop-up Event",
