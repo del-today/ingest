@@ -1,6 +1,82 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Ministry of Resting Poetics",
+    "description": "A poetry writing workshop on the theme of rest, revival & forgiveness.What does rest look like in poetry? How have poets and artists held space for stillness and rigor\u2014together\u2014in their work over the years? How does poetry as a process of writing, reading, and reciting subvert the false ideas of rush, urgency, productivity, and lead us to something remotely glinting as self-compassion?A two-hour-long poetry writing workshop comes right at the end of your mad week - a week fraught with deadlines, unanswered emails, and impromptu meetings \u2014 not only as a reminder of rest & forgiveness but a gentle reflection on them.Dillipoetry, with over a hundred poetry walks/workshops in the past years, has been melding poetry into themes that stir, pucker, and reprieve\u2014bringing together a community of individuals who see poetry as a raging possibility amidst the resigned world.",
+    "startDate": "2026-03-29T11:00:00+05:30",
+    "endDate": "2026-03-29T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gate No. 1, Bahadur Shah Zafar Marg, inside Shaheedi park, Balmiki Basti, Vikram Nagar, New Delhi, Delhi, 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.63445520000000000000",
+        "longitude": "77.24131700000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Aham: Celebrating Self",
+      "url": "https://urbanaut.app/partner/aham"
+    },
+    "url": "https://urbanaut.app/spot/aham",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Sip and paint tulips - by The Turtle art club",
+    "description": "A slow, romantic painting session designed for beginners and seasoned art lovers alike, with no prior art experience needed. We are so excited to welcome you into our first event inside the Turtle Art Club - and initiate to inculcate slow joyful living in our everyday life. \ud83d\udc22This Saturday, sit down for a relaxing evening and unwind with the energy of budding tulips in this season of spring and love , making something with your hands - for self or loved ones.Bring your friend or sister along as we learn how to paint sweet greeting cards, love notes, and bookmarks.Supplies will be provided. Come as you are! <3Who is it for:Anyone who wants to paint slowly, softly, and without pressure.Anyone who wants to have a good time by themselves or with their loved oneAnyone who wants to release stress from the weekAnyone who loves to re-connect with their inner child through artAnyone who is interested in creating meaningful handmade giftsBonus: Pop-up by the artist! \u2b50",
+    "startDate": "2026-03-28T16:00:00+05:30",
+    "endDate": "2026-03-28T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "298 ground, B-6 Market, Block B6, Humayunpur, Safdarjung Enclave, New Delhi, Delhi 110029, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55945940000000000000",
+        "longitude": "77.19583120000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "LEO RISING STUDIO",
+      "url": "https://urbanaut.app/partner/leorisingstudio"
+    },
+    "url": "https://urbanaut.app/spot/tulips-in-spring",
+    "keywords": [
+      "Workshop",
+      "Pop-up Event",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "The Quiet Grandeur: Tales of Trees and Tombs",
     "description": "Sunder Nursery is easily one of the most soul-soothing spots in Delhi\u2014it\u2019s that perfect mix of Mughal grandeur and lush botany. Beyond the manicured lawns of Sunder Nursery lies a 16th-century saga waiting to be told. Join us for a heritage walk through the Azim Bagh, where we swap the city noise for tales of Mughal architecture, restored grandeur, and the secrets of the trees & monuments that stood the test of time.The walk is part of the March Tree Festival organised by SeasonWatch. ",
@@ -118,8 +194,8 @@
     "@type": "Event",
     "name": "FLAABH Fit: Tropical Grind",
     "description": "Step into a tropical wellness party like no other as we celebrate GetWetFit\u2019s anniversary with FLAABH Fit: Tropical Grind. Set against vibrant beachy vibes, this immersive experience begins with our signature Fitness on Water session, followed by an energizing Spin Cycle routine and a refreshing Ice Plunge recovery to recharge your body.Beyond the workouts, unwind and soak in the celebration with curated mocktails, delicious food & beverages, skincare experiences, exclusive goodie bags, and plenty of tropical surprises throughout the evening.Think sunshine energy, beach club vibes, music, movement, and a community that celebrates wellness together.Dress Code: Beachy \ud83c\udf34",
-    "startDate": "2026-04-05T16:00:00+05:30",
-    "endDate": "2026-04-05T20:00:00+05:30",
+    "startDate": "2026-04-05T15:15:00+05:30",
+    "endDate": "2026-04-05T20:15:00+05:30",
     "location": {
       "@type": "Place",
       "address": "1, Mehrauli-Gurgaon Rd, Sector 29, New Delhi, Gurugram, Haryana 122009, India",
@@ -134,7 +210,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "4999.00",
+      "price": "2500.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
