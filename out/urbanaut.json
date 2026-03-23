@@ -1,6 +1,42 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "#lecture24: You Die a Little Everyday",
+    "description": "#lecture24 When was the last time you sat in a bar and thought about the fact that parts of you are dying\u2014right now?Every day, billions of your cells quietly die and are replaced. This slow, invisible churn is not a flaw, but the very process that shapes how you age. What feels like continuity is, in fact, constant change.In this lecture, we turn inward.\u201cYou Die a Little Every Day\u201d explores what aging really means\u2014not as something distant, but as something already unfolding within you. Through simple, intuitive analogies, the session will unpack how your metabolism acts as the body\u2019s engine, how different kinds of cell death shape your tissues, and how small imbalances today can quietly build into larger shifts over time. Moving between biology and lived experience, the talk invites you to see your body not as fixed, but as something continuously negotiating with itself.Touching on themes of aging, repair, and the fine line between balance and breakdown, this lecture asks: what does it really mean to grow older\u2014and can we change how that story unfolds?We\u2019re delighted to present Dr. Parul Mehrotra, Assistant Professor and Lab Head at the Immunometabolism Lab at IIT Delhi. Her work focuses on understanding how cell death, metabolism, and immune responses interact\u2014particularly in the context of aging and disease.Having previously worked at institutions such as the Max Planck Institute for Biology of Aging and VIB Belgium, her research brings together cutting-edge science with questions that sit at the core of human life: how we change, adapt, and endure over time.What to Expect:\u2726 4:00 PM \u2013 Doors open. Arrive early to grab your seat; seating is first come, first served.\u2726 4:00 \u2013 4:15 PM \u2013 Settle in, order your drinks and food, and ease into the space with a few conversations.\u2726 4:15 PM \u2013 The lecture begins.\u2726 5:00 PM \u2013 We open the floor for questions and a shared discussion with the speaker.\u2726 5:30 PM onwards \u2013 Stay back for more food, drinks, and conversations that linger.\ud83d\udccc Note: Alcohol will be served only to guests aged 21 and above. Non-alcoholic options will be available. Attendance implies consent to being filmed for event documentation.",
+    "startDate": "2026-03-29T16:00:00+05:30",
+    "endDate": "2026-03-29T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Commercial Complex B 6/7-22 Opp Deer Park, Block B6, Humayunpur, Safdarjung Enclave, New Delhi, Delhi 110029, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55958340000000000000",
+        "longitude": "77.19693000000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "899.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Pint of View Delhi NCR",
+      "url": "https://urbanaut.app/partner/pint-of-view-delhi-ncr"
+    },
+    "url": "https://urbanaut.app/spot/lecture24",
+    "keywords": [
+      "Live GIG",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "The Ministry of Resting Poetics",
     "description": "A poetry writing workshop on the theme of rest, revival & forgiveness.What does rest look like in poetry? How have poets and artists held space for stillness and rigor\u2014together\u2014in their work over the years? How does poetry as a process of writing, reading, and reciting subvert the false ideas of rush, urgency, productivity, and lead us to something remotely glinting as self-compassion?A two-hour-long poetry writing workshop comes right at the end of your mad week - a week fraught with deadlines, unanswered emails, and impromptu meetings \u2014 not only as a reminder of rest & forgiveness but a gentle reflection on them.Dillipoetry, with over a hundred poetry walks/workshops in the past years, has been melding poetry into themes that stir, pucker, and reprieve\u2014bringing together a community of individuals who see poetry as a raging possibility amidst the resigned world.",
