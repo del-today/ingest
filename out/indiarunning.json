@@ -1,42 +1,6 @@
 [
   {
     "@type": "SportsEvent",
-    "name": "Cubbon Classic 10K",
-    "url": "https://indiarunning.com/events/cubbon_classic_10k_21072",
-    "startDate": "2026-03-22T05:45:00+05:30",
-    "endDate": "2026-03-22T09:00:00+05:30",
-    "description": "Cubbon Classic: BENGALURU'S own running classic.\nThe Cubbon Classic is Bengaluru's premier running celebration, blending the prestige of a world-class race with the city's iconic heritage. This event focuses exclusively on the signature 10K distance, run on an AIMS-certified course that weaves through the lush green heart of Cubbon Park. Join thousands to achieve a new personal best, earn the coveted Finisher's Medal, and compete for the prestigious CUBBON'S ULTIMATE RUNNING CLUB CHALLENGE . More than a race, it's a \"habba\"\u2014a vibrant running festival celebrating fitness, friendship, and the enduring spirit of the Garden City!\n\u00a0Podium & Age Group Prizes\nPodium prizes will be awarded to the Top 3 male and female finishers in each of the following age groups:\n16 - 20 years, 21 - 25 years, 26 - 30 years ...and so on, up to 76 - 80 years, 80+ years\nCubbon's Ultimate Running Club\nRules & Eligibility:\nEligibility: To be eligible, a team must have a minimum of 10 runners, consisting of at least 7 male runners and 3 female runners.\nScoring: The team's score will be the average net finish time of their best 7 male finishers and best 3 female finishers. The club with the best average time wins.\nThe Rolling Trophy: The winning club will be awarded a prestigious rolling trophy with their name engraved, cementing their legacy at the Cubbon Classic.\nRegistering Your Running Club for the Challenge\nThe Ultimate Running Club Challenge uses a simple two-step process to ensure all your members are correctly linked to your club:\nCaptain Registration: The Running Club Captain must first fill out the Club Registration Form in our website\u00a0\nwww.cubbonclassic.com\n.\nThey will need to provide the following essential details:\nClub Name, Club Captain Name, Captain's Email ID, Captain's Phone Number, Club Base City\nCode Distribution: In 24-48hrs after submitting the form, the Club Captain will receive an email containing their unique Running Club Code. This code must be shared with all club members.\nMember Entry: Each individual club member must enter this unique code into the dedicated \"Running Club Code\" field during their official 10K registration.\nOnly runners who use the unique code will be tracked and scored in the Ultimate Running Club Challenge.\nAll runners will receive:\n1. Event T-shirt\n2. Event Goodie Bag\n3. Finisher Medal\n4. Race BIB with Timing Chip\n5. Post Race Refreshments\n6. Personalised Event Pictures\n7. Hydration On Route\n8. Medical Support\n9. Post Race Celebrations\n10. Access to Story Telling Tent",
-    "image": "https://race-registration-cdn.indiarunning.com/events/2026/03/22/cubbon-classic-10k-2026/banner1769417508813",
-    "location": {
-      "@type": "Place",
-      "name": "Nunegundlapalli",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "23, Fort Rd, near Kanteerava Stadium, Nunegundlapalli, Sampangi Rama Nagara, Bengaluru, Karnataka 560001, India",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "Karnataka",
-        "postalCode": "560001",
-        "addressCountry": "India"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9696982,
-        "longitude": 77.5934858
-      }
-    },
-    "sport": "Running",
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "10k",
-        "price": "1200",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@type": "SportsEvent",
     "name": "Sarakki Lake Run",
     "url": "https://indiarunning.com/events/sarakki_lake_run_27615",
     "startDate": "2026-03-29T07:00:00+05:30",
