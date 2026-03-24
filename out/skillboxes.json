@@ -112,7 +112,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Current Student Identity card will be vetted at the time of entry\nStandard venue cover charges apply",
-            "inventoryLevel": 100,
+            "inventoryLevel": 99,
             "name": "Student Entry",
             "url": "https://www.skillboxes.com/events/ticket/bangalore-endless-pursuits-tour-by-time-throttle"
          },
@@ -120,7 +120,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Standard venue cover charges apply\n",
-            "inventoryLevel": 100,
+            "inventoryLevel": 98,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/bangalore-endless-pursuits-tour-by-time-throttle"
          },
@@ -287,15 +287,7 @@
          "name": "Maverick & farmer coffee"
       },
       "name": "Mini Souk by OurBetterPlanet",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "Free Entry",
-            "url": "https://www.skillboxes.com/events/ticket/mini-souk-by-ourbetterplanet"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2026-04-04T12:00:00",
       "url": "https://www.skillboxes.com/events/mini-souk-by-ourbetterplanet"
    },
@@ -326,7 +318,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits free entry to one couple till 9:30PM only, Post 9:30PM a mandatory Cover charge will be applicable as per club rules and regulations.\n",
-            "inventoryLevel": 922,
+            "inventoryLevel": 867,
             "name": "RSVP - COUPLE [FREE ENTRY]",
             "url": "https://www.skillboxes.com/events/ticket/somad-y2k-a-early-2000s-throwback-party-ft-dj-prithvi-kym-wayne"
          },
@@ -334,7 +326,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits free entry to One Single Lady till 9:30PM only, Post 9:30PM a mandatory Cover charge will be applicable as per club rules and regulations.\n",
-            "inventoryLevel": 973,
+            "inventoryLevel": 961,
             "name": "RSVP - Single Lady [FREE ENTRY]",
             "url": "https://www.skillboxes.com/events/ticket/somad-y2k-a-early-2000s-throwback-party-ft-dj-prithvi-kym-wayne"
          },
@@ -342,7 +334,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits One Individual or one couple or 2 single ladies with an anytime free entry to the event With a full cover note of INR 3000/- upon arrival at gate.\nBook Now and Walk-In like a VIP!",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 996,
             "name": "VIP - ANYTIME ENTRY + FULL COVER",
             "url": "https://www.skillboxes.com/events/ticket/somad-y2k-a-early-2000s-throwback-party-ft-dj-prithvi-kym-wayne"
          }
@@ -520,7 +512,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "An additional cover charge will apply at the gate.\n",
-            "inventoryLevel": 24,
+            "inventoryLevel": 17,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/let-there-be-guitar-2026-rhythm-shaw-dad-n-daughter-and-chirag-todi"
          },
@@ -683,7 +675,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 45,
+            "inventoryLevel": 40,
             "name": "Early Bird Pass",
             "url": "https://www.skillboxes.com/events/ticket/easter-jam"
          }
@@ -718,7 +710,15 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charge applicable at gate. Redeemable on F&B\n",
-            "inventoryLevel": 2,
+            "inventoryLevel": 95,
+            "name": "Phase 1",
+            "url": "https://www.skillboxes.com/events/ticket/tht-presents-oafbiggigs-ed-8-ft-signal-w-goa-meewakching-imphal-hoirong-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "description": "Additional mandatory cover charge applicable at gate. Redeemable on F&B\n",
+            "inventoryLevel": 0,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/tht-presents-oafbiggigs-ed-8-ft-signal-w-goa-meewakching-imphal-hoirong-bangalore"
          }
@@ -753,7 +753,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charges applicable at the gate\n",
-            "inventoryLevel": 23,
+            "inventoryLevel": 17,
             "name": "Early Bird Pass",
             "url": "https://www.skillboxes.com/events/ticket/soorya-frnds-live-at-the-humming-tree-bengaluru-gigman-live"
          }
@@ -959,6 +959,27 @@
          {
             "@type": "Offer",
             "availability": "InStock",
+            "inventoryLevel": 20,
+            "name": "Phase 1 Female Full Cover",
+            "url": "https://www.skillboxes.com/events/ticket/frat-house-the-birth-of-houses-indiranagarsocial"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 20,
+            "name": "Phase 1 Male Full Cover",
+            "url": "https://www.skillboxes.com/events/ticket/frat-house-the-birth-of-houses-indiranagarsocial"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 20,
+            "name": "Phase 1 Couple Full Cover",
+            "url": "https://www.skillboxes.com/events/ticket/frat-house-the-birth-of-houses-indiranagarsocial"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
             "inventoryLevel": 14,
             "name": "Early Bird Female Full Cover",
             "url": "https://www.skillboxes.com/events/ticket/frat-house-the-birth-of-houses-indiranagarsocial"
@@ -1008,7 +1029,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory Cover Charge of INR 500 applicable at gates\n",
-            "inventoryLevel": 978,
+            "inventoryLevel": 968,
             "name": "Entry Ticket",
             "url": "https://www.skillboxes.com/events/ticket/the-grunge-explosion"
          }
@@ -1121,7 +1142,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "A mandatory cover charge will be applicable at the doors\n",
-            "inventoryLevel": 401,
+            "inventoryLevel": 398,
             "name": "Entry Ticket + Cover",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-sudan-and-janisht"
          },
@@ -1368,7 +1389,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entry to this event includes a free beer. Cover charges of INR 1000 applicable at the venue\n",
-            "inventoryLevel": 58,
+            "inventoryLevel": 54,
             "name": "General Entry",
             "url": "https://www.skillboxes.com/events/ticket/tht-presents-ranj-x-clifr-stevie"
          }
@@ -1484,24 +1505,7 @@
          "name": "Windmills Craftworks, Whitefield"
       },
       "name": "Etienne Charles - Creole Soul",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "No food and beverages are included in the ticket price.\nstanding space at the bar",
-            "inventoryLevel": 20,
-            "name": "Standing Tickets",
-            "url": "https://www.skillboxes.com/events/ticket/etienne-charles-creole-soul-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "No food and beverages are included in the ticket price.\n",
-            "inventoryLevel": 20,
-            "name": "Seating Tickets",
-            "url": "https://www.skillboxes.com/events/ticket/etienne-charles-creole-soul-1"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2026-04-05T20:00:00",
       "url": "https://www.skillboxes.com/events/etienne-charles-creole-soul-1"
    },
@@ -1527,24 +1531,7 @@
          "name": "Windmills Craftworks, Whitefield"
       },
       "name": "Etienne Charles - Creole Soul",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "No food and beverages are included in the ticket price.\nStanding space at the bar",
-            "inventoryLevel": 19,
-            "name": "Standing Tickets",
-            "url": "https://www.skillboxes.com/events/ticket/etienne-charles-creole-soul"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "No food and beverages are included in the ticket price.\n",
-            "inventoryLevel": 16,
-            "name": "Seating Tickets",
-            "url": "https://www.skillboxes.com/events/ticket/etienne-charles-creole-soul"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2026-04-04T21:30:00",
       "url": "https://www.skillboxes.com/events/etienne-charles-creole-soul"
    },
@@ -1653,7 +1640,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "The early crowd always gets the best stories.\n",
-            "inventoryLevel": 31,
+            "inventoryLevel": 28,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/24-songs-festival"
          },
@@ -1703,7 +1690,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 241,
+            "inventoryLevel": 240,
             "name": "Phase 2",
             "url": "https://www.skillboxes.com/events/ticket/wacken-open-air-warm-up-party"
          },
@@ -1752,7 +1739,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "A mandatory cover charge will be applicable at the doors\n",
-            "inventoryLevel": 440,
+            "inventoryLevel": 424,
             "name": "Entry Ticket + Cover",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-flying-turquoise-panthers-skivinnie"
          }
