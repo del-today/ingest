@@ -1,6 +1,57 @@
 [
   {
     "@type": "ScreeningEvent",
+    "name": "La F\u00eate du Court M\u00e9trage - Day 1",
+    "url": "https://fillum.in/event/5193",
+    "startDate": "2026-03-26T09:30:00+05:30",
+    "endDate": "2026-03-26T09:30:00+05:30",
+    "description": "Free entry. French Films (No English subtitles)9:30 AMMa Gueule (Gregory Carnoli / 2022)Sylvie En Libert\u00e9 (Sara Bourdeau / 2024)Au-Del\u00e0 Des Murs (R\u00e9mi Sogadji / 2021)11:30 AM\u00c0 M..more",
+    "location": {
+      "@type": "Place",
+      "name": "M. L. Bhartia Auditorium, Alliance Fran\u00e7aise",
+      "address": "Lodhi Road, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Alliance Fran\u00e7aise de Delhi"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "La F\u00eate du Court M\u00e9trage - Day 2",
+    "url": "https://fillum.in/event/5194",
+    "startDate": "2026-03-27T09:30:00+05:30",
+    "endDate": "2026-03-27T09:30:00+05:30",
+    "description": "Free entry. French Films (No English subtitles)9:30 AM\u00c0 Mort Le Bikini (Justine Gauthier / 2023)Niveau Z\u00e9ro (Cecilia de Arce / 2023)\u00c0 La Mode (Jean Lecointre / 1993)11:30 AMDol\u00e1..more",
+    "location": {
+      "@type": "Place",
+      "name": "M. L. Bhartia Auditorium, Alliance Fran\u00e7aise",
+      "address": "Lodhi Road, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Alliance Fran\u00e7aise de Delhi"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Muktaangan Short Film Festival",
+    "url": "https://fillum.in/event/5191",
+    "startDate": "2026-03-28T11:00:00+05:30",
+    "endDate": "2026-03-28T11:00:00+05:30",
+    "description": "A Delhi-based short film festival celebrating Indian independent cinema. The lineup features curated indie shorts along with a few surprise screenings revealed only on the day. The evening also incl..more",
+    "location": {
+      "@type": "Place",
+      "name": "Muktaangan, Dwarka",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Muktaangan"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "Eight and a half(1963)",
     "url": "https://fillum.in/screening/5156",
     "startDate": "2026-03-28T12:30:00+05:30",
@@ -69,6 +120,40 @@
   },
   {
     "@type": "ScreeningEvent",
+    "name": "Aamis(2019)",
+    "url": "https://fillum.in/screening/5188",
+    "startDate": "2026-03-29T17:00:00+05:30",
+    "endDate": "2026-03-29T17:00:00+05:30",
+    "description": "Free entry. As part of the series - A perspective on the North East. Pre-screening and post-screening discussion.",
+    "location": {
+      "@type": "Place",
+      "name": "Mool, South Ex 2",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Camera Commune"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "La F\u00eate du Court M\u00e9trage - Day 3",
+    "url": "https://fillum.in/event/5195",
+    "startDate": "2026-03-29T18:30:00+05:30",
+    "endDate": "2026-03-29T18:30:00+05:30",
+    "description": "Free entry. French Films (No English subtitles)Ce Qui Appartient \u00e0 C\u00e9sar (Violette Gitton / 2024)Les Belles Cicatrices (Rapha\u00ebl Jouzeau / 2024)Pirateland (Stavros Petropoulos / 2025)L'..more",
+    "location": {
+      "@type": "Place",
+      "name": "M. L. Bhartia Auditorium, Alliance Fran\u00e7aise",
+      "address": "Lodhi Road, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Alliance Fran\u00e7aise de Delhi"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "The Dog in the Manger(1996)",
     "url": "https://fillum.in/screening/4962",
     "startDate": "2026-03-30T18:00:00+05:30",
@@ -82,23 +167,6 @@
     "organizer": {
       "@type": "Organization",
       "name": "Instituto Cervantes Nueva Delhi"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "The Discreet Charm of the Savarnas(2020)",
-    "url": "https://fillum.in/screening/5162",
-    "startDate": "2026-04-14T12:00:00+05:30",
-    "endDate": "2026-04-14T12:00:00+05:30",
-    "description": "Free Entry.Opening showcase for 'High Society' by Out of Sequence at Mool on Ambedkar Jayanti.Followed by The Discreet Charm of the Bourgeoisie by Luis Bu\u00f1uel at 1pm, Album Listening Session..more",
-    "location": {
-      "@type": "Place",
-      "name": "Mool, South Ex II",
-      "address": "South Ex II, New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Out of Sequence"
     }
   }
 ]
