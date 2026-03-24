@@ -2,6 +2,44 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Get ready for the luxurious edition of Limitless with the techno sensation ALMOST HUMAN live at Gawky Goose this Saturday.Get ready to dance the night away to cutting-edge tunes and unforgettable vibes in the heart of t",
+      "endDate": "2026-03-29T01:00:00",
+      "identifier": "com.skillboxes.35035",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1774349371fqbVBKwBjSp8qIZL.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Festivals"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "",
+         "name": "To Be Decided"
+      },
+      "name": "Limitless ft. Almost Human / 28th Mar / Gawky Goose",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
+            "inventoryLevel": 200,
+            "name": "Guestlist - Couple",
+            "url": "https://www.skillboxes.com/events/ticket/limitless-ft-almost-human-28th-mar-gawky-goose"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Female throughout the event.\n",
+            "inventoryLevel": 200,
+            "name": "Guestlist - Female",
+            "url": "https://www.skillboxes.com/events/ticket/limitless-ft-almost-human-28th-mar-gawky-goose"
+         }
+      ],
+      "startDate": "2026-03-28T20:00:00",
+      "url": "https://www.skillboxes.com/events/limitless-ft-almost-human-28th-mar-gawky-goose"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Step into a night of deep, melodic soundscapes as Weird Sounding Dude takes over Kitty Ko, Bangalore. Known for his signature blend of progressive house and immersive sonic journeys, he brings global vibes from Anjunadeep, Sudbeat",
       "endDate": "2026-03-28T01:30:00",
       "identifier": "com.skillboxes.35003",
@@ -56,7 +94,7 @@
       "description": "Masters in their own right, The Network known for delivering the best to Jazz enthusiasts and connoisseurs of music. Their music is a blend of Bebop Jazz, Blues, Funk and Latin elements. The band comprises of Gerard Machado on Guita",
       "endDate": "2026-04-03T23:55:00",
       "identifier": "com.skillboxes.34999",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OHVNZ2FNNERBNU54TXBWS3RHV3hVZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17742489168pIUTV3mJXxCCFlI.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1774270768KggKsZj8FG9Sy2Y2.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Music Concerts"
@@ -77,7 +115,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "A cover charge of ₹500 will be applicable at the venue entrance\n",
-            "inventoryLevel": 210,
+            "inventoryLevel": 209,
             "name": "Entry + Cover",
             "url": "https://www.skillboxes.com/events/ticket/silly-bar-presents-gerard-machado-netwok"
          }
