@@ -2,6 +2,135 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "One night. One vibe. Unlimited energy.P-pop Culture Afterparty at Yeda Republic Bangalore this Sunday with DJ Talon & Capro — come ready to dance, stay for the madness.🔥",
+      "endDate": "2026-03-29T23:59:00",
+      "identifier": "com.skillboxes.35087",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmNGckYxWkFNQm5STHcwSXczNWJWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1774450115zovpJ6AaEdbhdIvj.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "100, 4th B Cross Rd, nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9343419",
+            "longitude": "77.6155451"
+         },
+         "name": "Yeda Republic Bengaluru"
+      },
+      "name": "P-POP CULTURE FT. DJ TALON & CAPRO AT YEDA REPUBLIC KORAMANGALA",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "GET FREE ACCESS TO THE EVENT\n",
+            "inventoryLevel": 100,
+            "name": "FEMALE ENTRY",
+            "url": "https://www.skillboxes.com/events/ticket/p-pop-culture-ft-dj-talon-capro-at-yeda-republic-koramangala"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "GET FREE ACCESS TO THE EVENT\n",
+            "inventoryLevel": 99,
+            "name": "COUPLE ENTRY",
+            "url": "https://www.skillboxes.com/events/ticket/p-pop-culture-ft-dj-talon-capro-at-yeda-republic-koramangala"
+         }
+      ],
+      "startDate": "2026-03-29T20:00:00",
+      "url": "https://www.skillboxes.com/events/p-pop-culture-ft-dj-talon-capro-at-yeda-republic-koramangala"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "The city’s rhythm changes this Saturday night.⚡️Urbn Takeover ft. DJ Saasha is where the beats hit harder, the crowd feels closer, and the night lasts longer 🔥Bangalore, you already know where to ",
+      "endDate": "2026-03-28T23:59:00",
+      "identifier": "com.skillboxes.35086",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmNGckYxWkFNQm5STHcwSXczNWJWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17744495506xmq4nfwKHBVxSp7.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "100, 4th B Cross Rd, nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9343419",
+            "longitude": "77.6155451"
+         },
+         "name": "Yeda Republic Bengaluru"
+      },
+      "name": "URBN TAKEOVER FT. DJ SAASHA AT YEDA REPUBLIC KORAMANGALA",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "GET FREE ACCESS TO THE EVENT\n",
+            "inventoryLevel": 100,
+            "name": "FEMALE ENTRY",
+            "url": "https://www.skillboxes.com/events/ticket/urbn-takeover-ft-dj-saasha-at-yeda-republic-koramangala"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "GET FREE ACCESS TO THE EVENT\n",
+            "inventoryLevel": 100,
+            "name": "COUPLE ENTRY",
+            "url": "https://www.skillboxes.com/events/ticket/urbn-takeover-ft-dj-saasha-at-yeda-republic-koramangala"
+         }
+      ],
+      "startDate": "2026-03-28T20:00:00",
+      "url": "https://www.skillboxes.com/events/urbn-takeover-ft-dj-saasha-at-yeda-republic-koramangala"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "The playlist is loud, the outfits are louder, and the energy is unmatched! 🔥Gala Queens with DJ Nusha turning Friday into a full-blown experience.Come ready to dance, stay ready to slay.👀",
+      "endDate": "2026-03-27T23:59:00",
+      "identifier": "com.skillboxes.35085",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmNGckYxWkFNQm5STHcwSXczNWJWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1774449173hDBpY5RtGS2JQOvj.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "100, 4th B Cross Rd, nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9343419",
+            "longitude": "77.6155451"
+         },
+         "name": "Yeda Republic Bengaluru"
+      },
+      "name": "GALA QUEENS FT.DJ NUSHA AT YEDA REPUBLIC KORAMANGALA",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "GET FREE ACCESS TO THE EVENT\n",
+            "inventoryLevel": 100,
+            "name": "FEMALE ENTRY",
+            "url": "https://www.skillboxes.com/events/ticket/gala-queens-ft-dj-nusha-at-yeda-republic-koramangala"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "GET FULL COVER\n",
+            "inventoryLevel": 100,
+            "name": "COUPLE ENTRY",
+            "url": "https://www.skillboxes.com/events/ticket/gala-queens-ft-dj-nusha-at-yeda-republic-koramangala"
+         }
+      ],
+      "startDate": "2026-03-27T20:00:00",
+      "url": "https://www.skillboxes.com/events/gala-queens-ft-dj-nusha-at-yeda-republic-koramangala"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "EE SALA CUP NAMDE. 🏆Bengaluru, your favourite season has officially begun, and SkyDeck by Sherlock's is making sure you experience every single moment of it the way it was always meant to be experienced.LIVE. LOU",
       "endDate": "2026-03-28T23:45:00",
       "identifier": "com.skillboxes.35075",
@@ -157,8 +286,13 @@
       ],
       "location": {
          "@type": "Place",
-         "address": "",
-         "name": "To Be Decided"
+         "address": "#77, Wind Tunnel Rd, Murugeshpalya, Muniyappa Layout, Bengaluru, Karnataka 560017, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9540402",
+            "longitude": "77.6527398"
+         },
+         "name": "Gawky Goose"
       },
       "name": "Limitless ft. Almost Human / 28th Mar / Gawky Goose",
       "offers": [
@@ -166,7 +300,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 200,
+            "inventoryLevel": 167,
             "name": "Guestlist - Couple",
             "url": "https://www.skillboxes.com/events/ticket/limitless-ft-almost-human-28th-mar-gawky-goose"
          },
@@ -174,7 +308,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Female throughout the event.\n",
-            "inventoryLevel": 200,
+            "inventoryLevel": 181,
             "name": "Guestlist - Female",
             "url": "https://www.skillboxes.com/events/ticket/limitless-ft-almost-human-28th-mar-gawky-goose"
          }
@@ -208,25 +342,65 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "(Allows entry to one female)\n",
+            "description": "(Allows entry to one female.) Extra cover of inr 1000/- applicable post  9:30pm walk-in.\n",
             "inventoryLevel": 100,
-            "name": "EARLY BIRD FEMALE",
+            "name": "PHASE 1 FEMALE",
             "url": "https://www.skillboxes.com/events/ticket/redroom-ft-weird-sounding-dude-more"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Allows entry to 1 couple. Extra cover charge inr 1000/- per person applicable post 9:30pm walk-in at the venue\n",
+            "description": "(Allows entry to one couple.) Extra cover of inr 1000/- per person applicable post 9:30 pm walk-in.\n",
             "inventoryLevel": 100,
-            "name": "EARLY BIRD COUPLE",
+            "name": "PHASE 1 COUPLE",
             "url": "https://www.skillboxes.com/events/ticket/redroom-ft-weird-sounding-dude-more"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "(Allows entry to 1 male )  Extra cover charge inr 1000/- applicable post 9:30pm walk-in at the venue.\n",
+            "description": "(Allows entry to one male.) Extra cover of inr 1000/- applicable post 9:30pm walk-in.\n",
             "inventoryLevel": 100,
-            "name": "EARLY BIRD MALE",
+            "name": "PHASE 1 MALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-weird-sounding-dude-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to three female.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 3 FEMALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-weird-sounding-dude-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to two couple.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 2 COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-weird-sounding-dude-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to three couple.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 3 COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-weird-sounding-dude-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to three male.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 3 MALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-weird-sounding-dude-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to 5 male.) Extra cover of inr 1000/- per person  applicable post 9:30pm walk-in\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 5 MALE",
             "url": "https://www.skillboxes.com/events/ticket/redroom-ft-weird-sounding-dude-more"
          }
       ],
@@ -361,49 +535,6 @@
       ],
       "startDate": "2026-03-26T20:00:00",
       "url": "https://www.skillboxes.com/events/double-trouble-thursday-ft-dj-avijit-x-dj-minus-at-yeda-republic-koramangala"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Midweek just got a major upgrade 🔥Step into the madness with Senleo X Ae setting the vibe for a night full of music, moves, and memories. Because at Yeda, we don’t wait for the weekend 😉",
-      "endDate": "2026-03-25T23:59:00",
-      "identifier": "com.skillboxes.34987",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmNGckYxWkFNQm5STHcwSXczNWJWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1774190326cHT8X7Hwu94ip3P0.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "100, 4th B Cross Rd, nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9343419",
-            "longitude": "77.6155451"
-         },
-         "name": "Yeda Republic Bengaluru"
-      },
-      "name": "MIDWEEK MADNESS FT. DJ SENLEO X AXLE AT YEDA REPUBLIC KORAMANGALA",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
-            "name": "FEMALE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/midweek-madness-ft-dj-senleo-x-axle-at-yeda-republic-koramangala"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
-            "name": "COUPLE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/midweek-madness-ft-dj-senleo-x-axle-at-yeda-republic-koramangala"
-         }
-      ],
-      "startDate": "2026-03-25T20:00:00",
-      "url": "https://www.skillboxes.com/events/midweek-madness-ft-dj-senleo-x-axle-at-yeda-republic-koramangala"
    },
    {
       "@context": "https://schema.org",
@@ -1858,41 +1989,6 @@
       ],
       "startDate": "2026-04-18T20:00:00",
       "url": "https://www.skillboxes.com/events/wacken-open-air-warm-up-party"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "The Flying Turquoise Panthers (FTP): have distilled a unique blend of alternative hip-hop, propelled by live instrumentation, and a duo of rapp",
-      "endDate": "2026-03-25T23:55:00",
-      "identifier": "com.skillboxes.34043",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1772103161azbfgHFdwpMWVRqb.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Concerts"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": null,
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "28",
-            "longitude": "77"
-         },
-         "name": "The Humming Tree"
-      },
-      "name": "Grassroots Wednesdays with Flying Turquoise Panthers & SKIVINNIE",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "A mandatory cover charge will be applicable at the doors\n",
-            "inventoryLevel": 389,
-            "name": "Entry Ticket + Cover",
-            "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-flying-turquoise-panthers-skivinnie"
-         }
-      ],
-      "startDate": "2026-03-25T20:00:00",
-      "url": "https://www.skillboxes.com/events/grassroots-wednesdays-with-flying-turquoise-panthers-skivinnie"
    },
    {
       "@context": "https://schema.org",
