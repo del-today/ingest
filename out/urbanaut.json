@@ -1,6 +1,155 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Matcha Experience",
+    "description": "Matcha Experience: A Taste of CalmOverviewSometimes we just need a moment to slow down. The Matcha Experience is a quiet invitation to discover the world of high quality matcha. Whether you are already a fan or just curious about the bright green tea, this session is about appreciating the craft and the calm that comes with a perfectly prepared bowl.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to expectGuided Introduction: Learn about the history and the unique process of preparing matcha from leaf to powder.The Ritual: Watch and learn how the tea is whisked to create its signature froth and deep flavor.Tasting Session: Enjoy a premium matcha drink prepared just for you at Cha & Co.Quiet Conversation: A small group setting to talk about finding moments of peace in a busy week over a comforting cup.Details\ud83d\uddd3\ufe0f Date: 9th April (Thursday)\u23f0 Time: 5:30 PM\ud83d\udccd Location: Cha & Co, Ireo Grand View High Street\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes a Matcha Drink)",
+    "startDate": "2026-04-09T17:30:00+05:30",
+    "endDate": "2026-04-09T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ireo Grand View High Street, Sector 58, Gurugram, Haryana 122098, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41560020000000000000",
+        "longitude": "77.10258329999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/matcha-experience",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Cinema Circle",
+    "description": "Cinema Circle: Stories That Stay With UsOverviewMovies are often more than just entertainment; they are mirrors to our own lives and emotions. Cinema Circle is a curated screening and discussion space where we watch a film together and then dive into the themes that resonated most. It is about moving beyond \"did you like it?\" and exploring the deeper human stories behind the screen.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to expectCurated Screening: Watch a thoughtfully selected film or short that sparks conversation and reflection.Guided Discussion: A relaxed post-movie chat to explore the characters, emotions, and personal connections the story brought up.Shared Perspectives: Hear how others interpreted the same scenes and find common ground in shared experiences.Cozy Atmosphere: Settle in at Kanchanjunga Towers for a quiet evening of storytelling with a small, supportive group.Details\ud83d\uddd3\ufe0f Date: 12th April (Sunday)\u23f0 Time: 5:30 PM\ud83d\udccd Location: Kanchanjunga Towers, Sector 56\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes Coffee + Snacks)",
+    "startDate": "2026-04-12T17:30:00+05:30",
+    "endDate": "2026-04-12T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "A-BLOCK, KANCHANJUNGA APARTMENT, G.H.18, near Post Office, Sector 56, Gurugram, Haryana 122011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.42299410000000000000",
+        "longitude": "77.10300720000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/cinema-circle",
+    "keywords": [
+      "Leisure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Drafting Table",
+    "description": "The Drafting Table: A Morning of Mindful WritingOverviewSometimes the hardest part of writing is just showing up to the page. The Drafting Table is a dedicated space for anyone who wants to write in a quiet and focused setting. Whether you are working on a personal journal, a blog, or just need to clear your head, this session provides the structure and calm to help you get the words out.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to expectDedicated Writing Time: A block of uninterrupted time to focus on your own writing project without the usual home or office distractions.Quiet Accountability: The comfort of writing alongside a small group of people who are also showing up for their own creative process.Gentle Prompts: If you are feeling stuck, we provide optional prompts to help spark ideas and keep the momentum going.Relaxed Atmosphere: A casual and supportive environment at Cafe Eos Dawn where you can settle in with a drink and a notebook.Details\ud83d\uddd3\ufe0f Date: 4th April (Saturday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Cafe Eos Dawn, M3M Urbana\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes Coffee)",
+    "startDate": "2026-04-04T11:30:00+05:30",
+    "endDate": "2026-04-04T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Caf\u00e9, Shop-22, Eos Dawn, block R2, M3M Urbana Premium, Ramgarh, Sector 67, Gurugram, Haryana 122101, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.39063380000000000000",
+        "longitude": "77.06689039999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/the-drafting-table",
+    "keywords": [
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Night at the Museum - Humayun\u2019s Museum Walk",
+    "description": "A heritage walk through the country\u2019s first sunken museum at the Humayun\u2019s Tomb complex, a UNESCO World Heritage Site, brings together the story of Humayun with lesser-known layers of his life, while tracing the heritage of Nizamuddin over the past seven centuries.At its centre sits the finial of the Mughal monument, dislodged during a storm in 2014. The museum itself draws from the form of medieval baolis, with Humayun\u2019s remarkable life unfolding through paintings, scrolls and artefacts.It also reconstructs the evolution of the 14th-century Nizamuddin Dargah complex through films and immersive technology, placing the site within a wider historical timeline.Located at the entrance to the World Heritage precinct, the museum acts as a bridge between Nizamuddin, Sunder Nursery and Humayun\u2019s Tomb.Architectural models, original design plans of the tomb\u2019s first floor, rare paintings, and carefully crafted replicas of chhatris and dome ornamentation sit alongside live demonstrations of building crafts. Stonework, tile work and incised plaster are presented alongside other Mughal traditions such as metalwork, textiles and manuscript painting.The museum also reflects on the changing landscape around Humayun\u2019s Tomb, with the project realised by the Aga Khan Trust for Culture on behalf of the Archaeological Survey of India as part of a larger urban renewal effort.",
+    "startDate": "2026-03-28T18:00:00+05:30",
+    "endDate": "2026-03-28T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "H6VX+8G Humayun's Tomb, Nizamuddin, Nizamuddin East, New Delhi, Delhi 110013, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59321420000000000000",
+        "longitude": "77.24881490000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sikkawala",
+      "url": "https://urbanaut.app/partner/sikkawala"
+    },
+    "url": "https://urbanaut.app/spot/humayunmuseum1",
+    "keywords": [
+      "Walking Tour",
+      "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Warung Nasi",
     "description": "As summer approaches we bring you the perfect tropical menu to beat the heat - the flavours of Bali beckon. Where volcanoes meet the ocean and coconut palms sway in the breeze, this is where we will take you, in spirit. We go beyond Nasi Goreng to bring you the real flavours of Indonesia.Join us for a 4-course culinary journey, paired with 1 grown up spritzer (in collaboration with Bartisans) that captures the spirit of the islands \ud83c\udf34\ud83e\udd42From spicy sambals to aromatic curries, fragrant jasmine rice to smoky sate, every bite tells a story. Seats are limited \u2014 let\u2019s make it a night to rememer!",
@@ -41,7 +190,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "#lecture24: You Die a Little Everyday",
-    "description": "#lecture24 When was the last time you sat in a bar and thought about the fact that parts of you are dying\u2014right now?Every day, billions of your cells quietly die and are replaced. This slow, invisible churn is not a flaw, but the very process that shapes how you age. What feels like continuity is, in fact, constant change.In this lecture, we turn inward.\u201cYou Die a Little Every Day\u201d explores what aging really means\u2014not as something distant, but as something already unfolding within you. Through simple, intuitive analogies, the session will unpack how your metabolism acts as the body\u2019s engine, how different kinds of cell death shape your tissues, and how small imbalances today can quietly build into larger shifts over time. Moving between biology and lived experience, the talk invites you to see your body not as fixed, but as something continuously negotiating with itself.Touching on themes of aging, repair, and the fine line between balance and breakdown, this lecture asks: what does it really mean to grow older\u2014and can we change how that story unfolds?We\u2019re delighted to present Dr. Parul Mehrotra, Assistant Professor and Lab Head at the Immunometabolism Lab at IIT Delhi. Her work focuses on understanding how cell death, metabolism, and immune responses interact\u2014particularly in the context of aging and disease.Having previously worked at institutions such as the Max Planck Institute for Biology of Aging and VIB Belgium, her research brings together cutting-edge science with questions that sit at the core of human life: how we change, adapt, and endure over time.What to Expect:\u2726 4:00 PM \u2013 Doors open. Arrive early to grab your seat; seating is first come, first served.\u2726 4:00 \u2013 4:15 PM \u2013 Settle in, order your drinks and food, and ease into the space with a few conversations.\u2726 4:15 PM \u2013 The lecture begins.\u2726 5:00 PM \u2013 We open the floor for questions and a shared discussion with the speaker.\u2726 5:30 PM onwards \u2013 Stay back for more food, drinks, and conversations that linger.\ud83d\udccc Note: Alcohol will be served only to guests aged 21 and above. Non-alcoholic options will be available. Attendance implies consent to being filmed for event documentation.",
+    "description": "#lecture24 When was the last time you sat in a bar and thought about the fact that parts of you are dying\u2014right now?Every day, billions of your cells quietly die and are replaced. This slow, invisible churn is not a flaw, but the very process that shapes how you age. What feels like continuity is, in fact, constant change.In this lecture, we turn inward.\u201cYou Die a Little Every Day\u201d explores what aging really means\u2014not as something distant, but as something already unfolding within you. Through simple, intuitive analogies, the session will unpack how your metabolism acts as the body\u2019s engine, how different kinds of cell death shape your tissues, and how small imbalances today can quietly build into larger shifts over time. Moving between biology and lived experience, the talk invites you to see your body not as fixed, but as something continuously negotiating with itself.Touching on themes of aging, repair, and the fine line between balance and breakdown, this lecture asks: what does it really mean to grow older\u2014and can we change how that story unfolds?We\u2019re delighted to present Dr. Parul Mehrotra, Assistant Professor and Lab Head at the Immunometabolism Lab at IIT Delhi. Her work focuses on understanding how cell death, metabolism, and immune responses interact\u2014particularly in the context of aging and disease.Having previously worked at institutions such as the Max Planck Institute for Biology of Aging and VIB Belgium, her research brings together cutting-edge science with questions that sit at the core of human life: how we change, adapt, and endure over time.What to Expect:\u2726 4:00 PM \u2013 Doors open. Arrive early to grab your seat; seating is first come, first served.\u2726 4:00 \u2013 4:15 PM \u2013 Settle in, order your drinks and food, and ease into the space with a few conversations.\u2726 4:15 PM \u2013 The lecture begins.\u2726 5:00 PM \u2013 We open the floor for questions and a shared discussion with the speaker.\u2726 5:30 PM onwards \u2013 Stay back for more food, drinks, and conversations that linger.\ud83d\udccc Note: Alcohol will be served only to guests aged 25 and above. Non-alcoholic options will be available. Attendance implies consent to being filmed for event documentation.",
     "startDate": "2026-03-29T16:00:00+05:30",
     "endDate": "2026-03-29T18:00:00+05:30",
     "location": {
@@ -58,7 +207,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "1299.00",
+      "price": "899.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -115,7 +264,7 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Sip and paint tulips - by The Turtle art club",
-    "description": "A slow, romantic painting session designed for beginners and seasoned art lovers alike, with no prior art experience needed. We are so excited to welcome you into our first event inside the Turtle Art Club - and initiate to inculcate slow joyful living in our everyday life. \ud83d\udc22This Saturday, sit down for a relaxing evening and unwind with the energy of budding tulips in this season of spring and love , making something with your hands - for self or loved ones.Bring your friend or sister along as we learn how to paint sweet greeting cards, love notes, and bookmarks.Supplies will be provided. Come as you are! <3Who is it for:Anyone who wants to paint slowly, softly, and without pressure.Anyone who wants to have a good time by themselves or with their loved oneAnyone who wants to release stress from the weekAnyone who loves to re-connect with their inner child through artAnyone who is interested in creating meaningful handmade giftsBonus: Pop-up by the artist! \u2b50",
+    "description": "A slow, romantic painting session designed for beginners and seasoned art lovers alike, with no prior art experience needed. We are so excited to welcome you into our first event inside the Turtle Art Club - and initiative to inculcate slow joyful living in our everyday life. \ud83d\udc22This Saturday, sit down for a relaxing evening and unwind with the energy of budding tulips in this season of spring and love , making something with your hands - for self or loved ones.Bring your friend or sister along as we learn how to paint sweet greeting cards, love notes, and bookmarks.Supplies will be provided. Come as you are! <3Who is it for:Anyone who wants to paint slowly, softly, and without pressure.Anyone who wants to have a good time by themselves or with their loved oneAnyone who wants to release stress from the weekAnyone who loves to re-connect with their inner child through artAnyone who is interested in creating meaningful handmade giftsPS: Enjoy shop the art collection by artists at 20% off! ",
     "startDate": "2026-03-28T16:00:00+05:30",
     "endDate": "2026-03-28T17:00:00+05:30",
     "location": {
@@ -132,7 +281,7 @@
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
-      "price": "1500.00",
+      "price": "1400.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -184,6 +333,80 @@
       "Local",
       "Walking Tour",
       "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Overthinkers Anonymous",
+    "description": "OverviewEver wondered why you default to people-pleasing, perfectionism, or avoidance? This session is about connecting the dots between your past experiences and your present reactions in a safe, judgment-free environment.What is Stories of Hope?We are a community-led initiative dedicated to creating safe, mindful spaces. Through workshops and gatherings, we help individuals navigate life\u2019s complexities, from mental well-being to personal growth, with empathy and shared human connection.What to expectPattern Recognition: Explore why tendencies like overthinking or control keep showing up in your life.Guided Reflection: Use a specialized worksheet to gain context on your reactions without the weight of self-judgment.Awareness & Compassion: A gentle space to build self-awareness and understanding\u2014focused on insight, not on reliving trauma.Details\ud83d\uddd3\ufe0f Date: 12th April (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Thamel, Golf Course Ext Road\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes Coffee + Snacks)",
+    "startDate": "2026-04-12T11:30:00+05:30",
+    "endDate": "2026-04-12T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ground Floor, AIPL Joy Central, GF-01, Golf Course Ext Rd, Sector 65, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40537820000000000000",
+        "longitude": "77.06050050000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/overthinkers-anonymous",
+    "keywords": [
+      "Wellness",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Procrastireaders",
+    "description": "OverviewStuck on what to read next? \ud83d\udcda\u2615If you\u2019ve been wanting to get back into reading but don\u2019t know where to start, come by this Saturday!Find your fit: We\u2019ll help you pick a book based on how you\u2019re feeling, whether it\u2019s gripping, easy, or thoughtful.Yours to keep: Pick one, and it\u2019s yours to take home!Read & Chat: We\u2019ll read a bit together and talk about what\u2019s working (or not) over coffeeWhat is Stories of Hope?We are a community-led initiative dedicated to creating safe, mindful spaces. Through workshops and gatherings, we help individuals navigate life\u2019s complexities, from mental well-being to personal growth, with empathy and shared human connection.What to expectPersonalized Selection: We\u2019ll help you choose a book based on how you\u2019re feeling\u2014whether you need something easy, gripping, or thoughtful.A New Addition: Once you find a book that clicks, it\u2019s yours to take home and keep.Read Together: We\u2019ll spend time reading in a shared, quiet space to help you get back into the flow.Low-Pressure Chat: A chance to talk about what\u2019s working (or not) in your reading journey over coffee and snacks.Details\ud83d\uddd3\ufe0f Date: 21st March (Saturday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Kanchanjunga Towers, Sector-56\ud83c\udf9f\ufe0f Contribution: Rs 700 (Includes book + coffee + snacks)",
+    "startDate": "2026-04-11T11:30:00+05:30",
+    "endDate": "2026-04-11T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "First Floor, SF-53/54, DLF Galleria Rd, Galleria Market, Sector 28, DLF Phase IV, Gurugram, Haryana 122009, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46710640000000000000",
+        "longitude": "77.08175260000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/the-procrastireaders",
+    "keywords": [
+      "Leisure",
+      "Pop-up Event",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -260,6 +483,43 @@
       "Eco Friendly",
       "Pop-up Event",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Before You Blame",
+    "description": "Before You Blame: A Workshop on Navigating Relationships with ClarityOverviewMost relationship conflicts are not just about what happened. They are about how we interpret what happened. \"Before You Blame\" is a reflective workshop designed to help you look at your assumptions and inner patterns to bring more steadiness to your connections with others.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to expectPattern Recognition: Explore how common emotional triggers and reactions shape your conflicts in marriage, family, or work.Internal Focus: Instead of trying to fix others, we gently shift the focus inward to understand our own responses and ego patterns.Practical Tools: Learn simple and actionable ways to question stressful thoughts and practice perspective shifts using real life scenarios.Safe Exploration: A supportive and non judgmental environment for honest discussion and emotional awareness. This is a space for learning and not a lecture or therapy.Details\ud83d\uddd3\ufe0f Date: 5th April (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Kanchanjunga Towers, Sector 56\ud83c\udf9f\ufe0f Fee: \u20b9900 (Introductory offer; Original price \u20b91100)",
+    "startDate": "2026-04-05T11:30:00+05:30",
+    "endDate": "2026-04-05T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "A-BLOCK, KANCHANJUNGA APARTMENT, G.H.18, near Post Office, Sector 56, Gurugram, Haryana 122011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.42299410000000000000",
+        "longitude": "77.10300720000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "900.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/before-you-blame",
+    "keywords": [
+      "Wellness",
+      "Workshop",
       "URBANAUT"
     ]
   },
@@ -937,82 +1197,6 @@
       "Leisure",
       "Walking Tour",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Dinner with strangers by StepOut (South Delhi)",
-    "description": "Serendipity on a TableStepOut Dinners bring strangers together at some of the city\u2019s best restaurants for an evening that feels easy, warm, and unexpectedly meaningful.You are seated at a small, thoughtfully curated table with people you would likely never meet otherwise. Different backgrounds, different stories, one shared meal. The crowd is balanced, open minded, and there by choice, not chance. No loud networking. No awkward icebreakers. Just good food, unforced conversations, and the kind of listening that rarely happens in daily life.The restaurants are carefully chosen. Comfortable, well loved spaces where you can settle in and talk without rushing. The focus is not on the menu alone, but on the atmosphere that allows connection to unfold naturally.Some nights are light and playful. Some go deeper than expected. Some surprise you quietly. That is the point.StepOut Dinners are not about dating or outcomes. They are about discovery. Showing up. Sitting down. Letting the table do its quiet work.Sometimes, all it takes is one seat at the right table for life to feel a little more open. For more information, visit www.stepout.world",
-    "startDate": "2026-03-28T19:00:00+05:30",
-    "endDate": "2026-03-28T23:59:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "South Delhi, New Delhi, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.49291980000000000000",
-        "longitude": "77.18479210000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "699.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "StepOut World",
-      "url": "https://urbanaut.app/partner/stepout_world"
-    },
-    "url": "https://urbanaut.app/spot/dinner-with-strangers-by-stepout-south-delhi",
-    "keywords": [
-      "Local",
-      "Premium",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Dinner with Strangers By StepOut (Gurugram)",
-    "description": "Serendipity on a TableStepOut Dinners bring strangers together at some of the city\u2019s best restaurants for an evening that feels easy, warm, and unexpectedly meaningful.You are seated at a small, thoughtfully curated table with people you would likely never meet otherwise. Different backgrounds, different stories, one shared meal. The crowd is balanced, open minded, and there by choice, not chance. No loud networking. No awkward icebreakers. Just good food, unforced conversations, and the kind of listening that rarely happens in daily life.The restaurants are carefully chosen. Comfortable, well loved spaces where you can settle in and talk without rushing. The focus is not on the menu alone, but on the atmosphere that allows connection to unfold naturally.Some nights are light and playful. Some go deeper than expected. Some surprise you quietly. That is the point.StepOut Dinners are not about dating or outcomes. They are about discovery. Showing up. Sitting down. Letting the table do its quiet work.Sometimes, all it takes is one seat at the right table for life to feel a little more open.For more information: visit www.stepout.world",
-    "startDate": "2026-03-28T19:00:00+05:30",
-    "endDate": "2026-03-28T23:59:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Gurugram, Haryana, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.45949650000000000000",
-        "longitude": "77.02663830000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "699.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "StepOut World",
-      "url": "https://urbanaut.app/partner/stepout_world"
-    },
-    "url": "https://urbanaut.app/spot/dinner-with-strangers-by-stepout-10269",
-    "keywords": [
-      "Local",
-      "Premium",
-      "Food & drink",
       "URBANAUT"
     ]
   },
