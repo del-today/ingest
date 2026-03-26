@@ -1,6 +1,120 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Ceramic Jewellery Making",
+    "description": "Step into the world of creativity with our ceramic jewellery making workshop, where art meets personal expression.Get your hands on clay and design any 3 pieces of jewellery of your choice - be it rings, earrings, or a necklace.We'll guide you through the entire journey - from molding and shaping to coloring.Join us for some fun and creativity where you can bring your ideas to life.Once your piece is painted, we\u2019ll have it glazed and fire it for you at the unit, making it ready for use. You can choose to pick up your finished pieces from the studio or have it couriered to you (charges applicable as per actuals).",
+    "startDate": "2026-04-11T15:00:00+05:30",
+    "endDate": "2026-04-11T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Golf Course Rd, Sector 43, Gurugram, Haryana, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.45593460000000000000",
+        "longitude": "77.09720840000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Vamoro",
+      "url": "https://urbanaut.app/partner/vamoro"
+    },
+    "url": "https://urbanaut.app/spot/ceramic-jewellery-making",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "Pop-up Event",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Partition & Delhi heritage walk @Purana Qila",
+    "description": "Join Us for Partition & Delhi heritage walk & Baithak at Purana Qila on 19th April,2026From nuclear proliferation to terrorism, the Partition of India continues to cast its shadow even today. Join us for a Baithak that seeks to understand the complex experiences of Partition\u2014an event that remains deeply misunderstood both within and beyond the subcontinent. Through facts, poetry, literature, photographs, paintings, and personal belongings, we will revisit this significant chapter of history. Discover how Partition shaped Delhi\u2019s culture and internal geography.Kuch Pal Purana Qila Ke Naam! (suitable for 10 years & above)*Date: 19th April, 2026 Time: 8.30 am* Duration: 2 hours approx * Language: A blend of Hindi, Urdu & English(Special invitation to senior citizens, as this session involves minimal walking!)* Baithak Host: Nitika-Meeting point: Purana Qila ticket counter --Nearest metro station: Supreme Court- Instagram: Darwesh_taleweavers",
+    "startDate": "2026-04-19T08:30:00+05:30",
+    "endDate": "2026-04-19T10:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Mathura Rd, Near Delhi Zoo, J65V+RFH, Pragati Maidan, New Delhi, Delhi 110001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.60957440000000000000",
+        "longitude": "77.24373709999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "755.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/partition-delhi-heritage-walk-purana-qila",
+    "keywords": [
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Rangrez Amrita Shergill (A Baithak at Qudsia Bagh)",
+    "description": "Rangrez: Amrita Sher-Gill(A Baithak on her artworks and her life)There are lives that are lived\u2014and then there are lives that blaze.Amrita Sher-Gil lived one such life.Born of Hungarian and Indian roots, her journey between Europe and India shaped not just who she was, but what she painted. Her art and life were deeply intertwined\u2014each canvas echoing her inner world, her questions, and her fierce individuality.Join us for an intimate open-air baithak at Qudsia Bagh, where we explore her life through her artworks and conversations around the woman behind the canvas.(Earlier held at the National Gallery of Modern Art, this much-loved baithak now finds a new setting under open skies)\ud83d\uddd3 12th April, 2026\u23f0 8:30 am to 10.30 am\ud83d\udccd Qudsia Bagh, near Kashmiri Gate- Nearest metro station : Civil Lines & Kashmere GateAge suitability : Appropriate for 12 years & above.Instagram : darwesh_taleweavers",
+    "startDate": "2026-04-12T08:30:00+05:30",
+    "endDate": "2026-04-12T10:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Prema Kunj, M6CH+98V, Railway Colony, Civil Lines, Delhi, 110054, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.67099440000000000000",
+        "longitude": "77.22830080000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "755.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/rangrez-amrita-shergill-a-baithak-at-qudsia-bagh",
+    "keywords": [
+      "Leisure",
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Martian Tales From a Former NASA Engineer",
     "description": "We\u2019re bringing you Nimisha Mittal, a veteran space systems engineer with over 15 years of experience at NASA\u2019s Jet Propulsion Laboratory (JPL). She led operations and testing for some of the world\u2019s most ambitious robotic missions including the Cassini mission at Saturn, three of NASA's five Mars rovers, the Insight Mars lander, and most recently the NASA-ISRO SAR mission, NISAR. After a career of exploring the solar system, she's just completed her own mission of relocating to India. With engineering degrees from UT Austin and Stanford, she's now turning her attention from exploring other worlds to helping build the future of the Indian space industry.Her talk, Martian Tales from a Former NASA Engineer, dives into the thrill of driving robots across another planet and the bigger question of why Mars captivates us so deeply. Is it the search for life, the dream of a second home, or something even more profound? With insider stories from her time on the Mars mission, she takes us through what a day on the Red Planet really looks like, the challenges of remote space exploration, and even what it takes to earn a Martian Driver\u2019s License.Come find out, and bring your questions \u2014 from whether humans can truly settle on Mars to what snacks power a NASA engineer through a 12-hour shift.All of this, over beer or mocktail at The Piano Man, Eldeco Centre! \ud83c\udf7bWhat to Expect:A 60-minute lecture on the realities of life on the Red Planet, from exploration to insider NASA stories15\u201320 minutes of interactive Q&AOne beer or a mocktail included with your ticketA lively mixer to share your insights\ud83d\udccc Note: Alcohol will be served only to guests aged 25 and above. Non-alcoholic options will be available. Attendance implies consent to being filmed for event documentation.Event Details:\ud83d\udcc5 Saturday, 18th April | 4 PM \u2013 6 PM\ud83d\udccd The Piano Man, Eldeco Centre, Block A, Shivalik Colony, Malviya Nagar, New Delhi, 110017\ud83c\udfab Limited to 150 attendees only\ud83d\udcb0 Early bird pricing available for the first few ticketsAbout the LecturerNimisha Mittal is a veteran space systems engineer with over 15 years of experience at NASA\u2019s Jet Propulsion Laboratory (JPL), where she led operations and testing for some of the world\u2019s most ambitious robotic missions including the Cassini mission at Saturn, three of NASA's five Mars rovers, the Insight Mars lander, and most recently the NASA-ISRO SAR mission NISAR. After a career of exploring the solar system, she's just completed her own mission of relocating to India. With engineering degrees from UT Austin and Stanford, she's now turning her attention from exploring other worlds to helping build the future of the Indian space industry.About Pint of ViewInspired by the successful Lectures on Tap community in the U.S., Pint of View brings this format to India for the first time. It\u2019s where big ideas meet bar tables, and where you enjoy a drink in hand while walking out with a new way of seeing the world.Book now & develop your own pint of view! \ud83c\udf7b",
@@ -20,7 +134,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "899.00",
+      "price": "999.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
