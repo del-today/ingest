@@ -1,6 +1,82 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Shringaar Rasa & Ashta Nayikas",
+    "description": "Note: The Venue is on 4th floor terrace and has no elevator. So stairs have to be climbed.\u091c\u093e\u0917\u0942 \u092e\u0948\u0902 \u0938\u093e\u0930\u0940 \u0930\u0948\u0928\u093e \u092c\u0932\u092e\u093e, \u0930\u0938\u093f\u092f\u093e \u092e\u0928 \u0932\u093e\u0917\u0947 \u0928\u093e \u092e\u094b\u0930\u093e \u0964\u092c\u0939\u0941\u0924 \u0930\u092e\u093e\u092f\u094b \u0938\u094c\u0924\u0928 \u0918\u0930\u0935\u093e, \u092a\u093f\u092f\u093e \u0917\u0930\u0935\u093e \u0932\u0917\u093e\u0935\u094b \u0965Meaning: Beloved, I stay awake the entire nightO playful one, my heart finds no peaceYou have spent much time at the other woman\u2019s houseCome now, embrace me, my beloved.A night of longing, love, and lyrical emotion.Set in Raag Maru Bihag, this bandish evokes the Viraha in love through Virahotkanthita - a Nayika, a lady, a heroine, restless in separation, yearning for her beloved whom she suspects has lingered with the other woman far too long!!Through a curated selection of Khayal-Bandish(es), the artist brings alive the timeless world of the Ashtanayika - the eight heroines of love and separation across Indian Arts and aesthetics. Each composition unveils a different shade of desire, anticipation, and, longingness, anger.... weaving together music, poetry, and expression into an intimate, immersive experience under a moonlit night sky, overlooking the iconic Lotus Temple!Note: By attending you agree to being filmed at the venue and content may be used for marketing purposes of Team TBT-DBF",
+    "startDate": "2026-04-04T18:15:00+05:30",
+    "endDate": "2026-04-04T20:15:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "East of Kailash, New Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55834640000000000000",
+        "longitude": "77.25308290000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1550.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Delhibyfoot Adventures",
+      "url": null
+    },
+    "url": "https://urbanaut.app/spot/shringaar-rasa-ashta-nayikas",
+    "keywords": [
+      "Music",
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Board Games and Vinyl Listening",
+    "description": "Game Night at LWKY HQ is an evening built on instinct, chaos, and connectionA place where board games take over the tables and vinyl sets the mood in the background. It\u2019s a space to unplug, meet people, and get lost in play, conversation, and sound. No screens, no rush, just a room full of energy, music, and moments that turn into stories. Come for the games, stay for the vinyl, and leave with something to remember.",
+    "startDate": "2026-03-28T17:00:00+05:30",
+    "endDate": "2026-03-28T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "N 1, Kailash Colony, Block N, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55186190000000000000",
+        "longitude": "77.24470939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "LWKY STUDIOS",
+      "url": "https://urbanaut.app/partner/lwky-studios"
+    },
+    "url": "https://urbanaut.app/spot/game-night-11967",
+    "keywords": [
+      "Leisure",
+      "Eco Friendly",
+      "Pop-up Event",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Ceramic Jewellery Making",
     "description": "Step into the world of creativity with our ceramic jewellery making workshop, where art meets personal expression.Get your hands on clay and design any 3 pieces of jewellery of your choice - be it rings, earrings, or a necklace.We'll guide you through the entire journey - from molding and shaping to coloring.Join us for some fun and creativity where you can bring your ideas to life.Once your piece is painted, we\u2019ll have it glazed and fire it for you at the unit, making it ready for use. You can choose to pick up your finished pieces from the studio or have it couriered to you (charges applicable as per actuals).",
@@ -1163,7 +1239,7 @@
     "name": "Muktaangan Short Film Festival '26",
     "description": "A Delhi-based short film festival celebrating Indian independent cinema. The lineup features curated indie shorts along with a few surprise screenings revealed only on the day. The evening also includes curated post-screening conversations with filmmakers and creators.Your entry ticket is fully redeemable at the F&B counters, so you can grab something to eat or drink while watching the films. ",
     "startDate": "2026-03-28T11:00:00+05:30",
-    "endDate": "2026-03-28T18:00:00+05:30",
+    "endDate": "2026-03-28T19:00:00+05:30",
     "location": {
       "@type": "Place",
       "address": "Isapur Khera Dwarka Delhi, G2QM+54V, Isapur Khera, Dwarka, Delhi, 110077, India",
