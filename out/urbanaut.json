@@ -1,6 +1,44 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Easter Supper Brunch",
+    "description": "Easter Brunch at V\u2019s Supper StoriesThis Easter, step into a slower, more intimate kind of brunch \u2014 one built around shared tables, thoughtful food, and meaningful conversation.Hosted in a cosy setting in Saket, this experience brings together a small group of guests for an afternoon that feels both personal and indulgent. The menu draws from familiar Easter elements, reimagined with seasonal ingredients and subtle twists \u2014 from warm hot cross buns and devilled eggs to grilled chicken or cauliflower paired with a vibrant chimichurri.At V\u2019s Supper Stories, the focus goes beyond just the food. It\u2019s about creating a space where strangers become familiar, conversations flow easily, and the table feels like something you don\u2019t want to leave.Date: 4th April/ 5th April Time: 12:30 PM \u2013 3:00 PMLocation: Saket, New Delhi (exact address shared 24 hours prior)Price: \u20b93,000 per personSeats are limited to keep the experience intimate.",
+    "startDate": "2026-04-04T12:30:00+05:30",
+    "endDate": "2026-04-05T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Saket, New Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52209710000000000000",
+        "longitude": "77.21015340000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "V's Supper Stories",
+      "url": "https://urbanaut.app/partner/vsupperstories"
+    },
+    "url": "https://urbanaut.app/spot/easter-supper-brunch",
+    "keywords": [
+      "Local",
+      "Festival",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Shringaar Rasa & Ashta Nayikas",
     "description": "Note: The Venue is on 4th floor terrace and has no elevator. So stairs have to be climbed.\u091c\u093e\u0917\u0942 \u092e\u0948\u0902 \u0938\u093e\u0930\u0940 \u0930\u0948\u0928\u093e \u092c\u0932\u092e\u093e, \u0930\u0938\u093f\u092f\u093e \u092e\u0928 \u0932\u093e\u0917\u0947 \u0928\u093e \u092e\u094b\u0930\u093e \u0964\u092c\u0939\u0941\u0924 \u0930\u092e\u093e\u092f\u094b \u0938\u094c\u0924\u0928 \u0918\u0930\u0935\u093e, \u092a\u093f\u092f\u093e \u0917\u0930\u0935\u093e \u0932\u0917\u093e\u0935\u094b \u0965Meaning: Beloved, I stay awake the entire nightO playful one, my heart finds no peaceYou have spent much time at the other woman\u2019s houseCome now, embrace me, my beloved.A night of longing, love, and lyrical emotion.Set in Raag Maru Bihag, this bandish evokes the Viraha in love through Virahotkanthita - a Nayika, a lady, a heroine, restless in separation, yearning for her beloved whom she suspects has lingered with the other woman far too long!!Through a curated selection of Khayal-Bandish(es), the artist brings alive the timeless world of the Ashtanayika - the eight heroines of love and separation across Indian Arts and aesthetics. Each composition unveils a different shade of desire, anticipation, and, longingness, anger.... weaving together music, poetry, and expression into an intimate, immersive experience under a moonlit night sky, overlooking the iconic Lotus Temple!Note: By attending you agree to being filmed at the venue and content may be used for marketing purposes of Team TBT-DBF",
