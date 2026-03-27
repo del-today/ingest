@@ -69,6 +69,23 @@
   },
   {
     "@type": "ScreeningEvent",
+    "name": "Helter Skelter(2012)",
+    "url": "https://fillum.in/screening/5202",
+    "startDate": "2026-03-28T17:00:00+05:30",
+    "endDate": "2026-03-28T17:00:00+05:30",
+    "description": "A twisted adaptation of the manga of the same name, served with chilly drinks, chatpate chips and buttery popcorn, all in an abandoned cafe.",
+    "location": {
+      "@type": "Place",
+      "name": "Tealogy Cafe Q Block Jangpura Extension",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Khatarnaak Films"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "Short Films Screening Session 1 - Ootpataang Festival",
     "url": "https://fillum.in/event/5198",
     "startDate": "2026-03-29T11:00:00+05:30",
