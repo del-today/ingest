@@ -65,66 +65,6 @@
     ]
   },
   {
-    "@type": "Event",
-    "name": "An Evening of Classical & Broadway Favourites",
-    "url": "https://www.knma.org/whats-on/events/an-evening-of-classical-broadway-favourites",
-    "startDate": "2026-03-28T10:00:00+05:30",
-    "endDate": "2026-03-28T10:00:00+05:30",
-    "description": "WeekendsatKNMA",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "EducationEvent",
-    "name": "Five Years From Now",
-    "url": "https://www.knma.org/whats-on/workshops/five-years-from-now",
-    "startDate": "2026-03-28T10:00:00+05:30",
-    "endDate": "2026-03-28T10:00:00+05:30",
-    "description": "Saturday Family Workshop",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "EducationEvent",
-    "name": "Lines, Light and Harmony",
-    "url": "https://www.knma.org/whats-on/workshops/lines-light-and-harmony",
-    "startDate": "2026-03-28T10:00:00+05:30",
-    "endDate": "2026-03-28T10:00:00+05:30",
-    "description": "",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
     "@type": "EducationEvent",
     "name": "Curatorial Walkthrough",
     "url": "https://www.knma.org/whats-on/guided-tours/curatorial-walkthrough",
@@ -150,6 +90,66 @@
     "url": "https://www.knma.org/whats-on/workshops/atonal-abstractions",
     "startDate": "2026-04-04T10:00:00+05:30",
     "endDate": "2026-04-04T10:00:00+05:30",
+    "description": "Saturday Family Workshop",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "When Lights Fall",
+    "url": "https://www.knma.org/whats-on/workshops/when-lights-fall",
+    "startDate": "2026-04-10T10:00:00+05:30",
+    "endDate": "2026-04-12T18:00:00+05:30",
+    "description": "Methods",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Indian Exterior",
+    "url": "https://www.knma.org/whats-on/workshops/interior-exterior",
+    "startDate": "2026-04-10T10:00:00+05:30",
+    "endDate": "2026-04-11T18:00:00+05:30",
+    "description": "Artist in Me",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Unfurling Faces",
+    "url": "https://www.knma.org/whats-on/workshops/unfurling-faces",
+    "startDate": "2026-04-11T10:00:00+05:30",
+    "endDate": "2026-04-11T10:00:00+05:30",
     "description": "Saturday Family Workshop",
     "location": {
       "@type": "Place",

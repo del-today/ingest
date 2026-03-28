@@ -1,40 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "Muktaangan Short Film Festival",
-    "url": "https://fillum.in/event/5191",
-    "startDate": "2026-03-28T11:00:00+05:30",
-    "endDate": "2026-03-28T11:00:00+05:30",
-    "description": "A Delhi-based short film festival celebrating Indian independent cinema. The lineup features curated indie shorts along with a few surprise screenings revealed only on the day. The evening also incl..more",
-    "location": {
-      "@type": "Place",
-      "name": "Muktaangan, Dwarka",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Muktaangan"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Eight and a half(1963)",
-    "url": "https://fillum.in/screening/5156",
-    "startDate": "2026-03-28T12:30:00+05:30",
-    "endDate": "2026-03-28T12:30:00+05:30",
-    "description": "Please note - The film will start at 1pm sharp.There will be a Post Screening Discussion moderated by the Founder of Out of Sequence.",
-    "location": {
-      "@type": "Place",
-      "name": "Mool, South Ex II",
-      "address": "South Ex II, New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Out of Sequence"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "Seemabaddha(1971)",
     "url": "https://fillum.in/screening/4983",
     "startDate": "2026-03-28T16:00:00+05:30",
