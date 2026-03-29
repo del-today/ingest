@@ -2,6 +2,44 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
+    "name": "The Table I Married Into",
+    "description": "The Table I Married Into is a family-style Konkani supper shaped by recipes, memories, and the warmth of belonging.This menu is inspired by the food I came to know and love through my husband\u2019s family. Over time, these dishes became more than just meals. They came to hold comfort, generosity, familiarity, and the quiet joy of being welcomed at a family table.For this evening, Paprika Tokri brings together a menu rooted in coastal flavours, shared plates, and the kind of food meant to be passed around, lingered over, and remembered long after the table is cleared.The supper will be served family-style and includes two signature cocktails for the evening, thoughtfully designed to complement the food.This is an intimate gathering with limited seats.",
+    "startDate": "2026-04-11T19:00:00+05:30",
+    "endDate": "2026-04-11T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Kh-29/2, Meher Farm, D. I. G. Estate, Aya Nagar Extension Jonapur Link Rd, Jona Pur, Jaunapur, New Delhi, Delhi 110047, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46915150000000000000",
+        "longitude": "77.14380680000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Paprika Tokri",
+      "url": "https://urbanaut.app/partner/paprika-tokri"
+    },
+    "url": "https://urbanaut.app/spot/ptsc-konkani-food",
+    "keywords": [
+      "Pop-up Event",
+      "Food & drink",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
     "name": "26th April: Blueprints for Anti-Caste Protagonism",
     "description": "Join us for a lecture that asks a difficult question:Why is it so hard to see anti-caste assertion, even when it is right in front of us?About the LectureWhat does it mean to represent a body that history has refused to recognise?This lecture turns to art as a site of both inquiry and resistance, examining how caste operates not only through direct violence, but through subtler, representational forms that shape what can be seen, known, and acknowledged.Drawing from works such as Mukta Salve Triptych (2023) and Tannerfilm (2024), the session traces how infrastructures of caste have historically made it nearly impossible for anti-caste voices and assertions to be positively registered. It examines the lingering continuities between colonial ethnography of the 1850s and contemporary modes of representation \u2014 both of which render the Dalit body as devoid of agency, even in moments of clear self-assertion.The talk explores:How caste operates through visual and cultural representationWhy anti-caste assertion is often rendered illegible or erasedThe continuity between colonial and contemporary ways of seeing Dalit subjectivityHow art can function as a space of critique, interruption, and re-imaginationAbout the SpeakerRahee Punyashloka is an artist, writer, and experimental filmmaker based between Bhubaneswar and New Delhi. His work spans visual art, film, and writing, with a focus on creating anti-caste imagery and emancipatory imaginaries for Dalit subjectivity.His works have been exhibited at institutions and festivals including Khoj Studios, the Museum of Art and Photography, Haus der Kulturen der Welt, the Tribeca Film Festival, and the International Film Festival Rotterdam. He is also known by his online moniker artedkar.All Grounds for Thought tickets include a \u20b9250 coupon redeemable on food and beverages at the venue \u2014 so you can listen, reflect, and stay for conversation.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who want learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
     "startDate": "2026-04-26T16:00:00+05:30",
