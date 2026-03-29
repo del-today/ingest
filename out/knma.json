@@ -45,26 +45,6 @@
     ]
   },
   {
-    "@type": "TheaterEvent",
-    "name": "Ustad Zakir Hussain The Way Forward",
-    "url": "https://www.knma.org/whats-on/performing-arts/ustad-zakir-hussain-the-way-forward",
-    "startDate": "2026-03-27T10:00:00+05:30",
-    "endDate": "2026-03-29T18:00:00+05:30",
-    "description": "",
-    "location": {
-      "@type": "Place",
-      "name": "Sunder Nursery, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
     "@type": "EducationEvent",
     "name": "Curatorial Walkthrough",
     "url": "https://www.knma.org/whats-on/guided-tours/curatorial-walkthrough",
