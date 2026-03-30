@@ -5,7 +5,7 @@
     "url": "https://fillum.in/screening/4962",
     "startDate": "2026-03-30T18:00:00+05:30",
     "endDate": "2026-03-30T18:00:00+05:30",
-    "description": "Note: This was originally scheduled for 16th March but has been postponed to 30th March.Free entry. Screening followed by Cinema Forum.",
+    "description": "Free entry. Screening followed by Cinema Forum.",
     "location": {
       "@type": "Place",
       "name": "Instituto Cervantes",
@@ -48,6 +48,125 @@
     "organizer": {
       "@type": "Organization",
       "name": "Montage The Film Society KMC"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Eeb Allay Ooo!(2019)",
+    "url": "https://fillum.in/screening/5213",
+    "startDate": "2026-04-01T14:00:00+05:30",
+    "endDate": "2026-04-01T14:00:00+05:30",
+    "description": "The Director will be present throughout the screening and will discuss the film post screening",
+    "location": {
+      "@type": "Place",
+      "name": "Kirori Mal College, Kamla Nagar, University of Delhi",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Montage The Film Society KMC"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Pestonjee(1988)",
+    "url": "https://fillum.in/screening/5210",
+    "startDate": "2026-04-02T09:30:00+05:30",
+    "endDate": "2026-04-02T09:30:00+05:30",
+    "description": "We invite you to the Screening and Discussion of the film, led by Dr Smita Banerjee.For any Queries :Darshdeep 9810265359Saksham 6264821127",
+    "location": {
+      "@type": "Place",
+      "name": "Kirori Mal College, Kamla Nagar, University of Delhi",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Montage The Film Society KMC"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Calcutta 71(1971)",
+    "url": "https://fillum.in/screening/5211",
+    "startDate": "2026-04-02T13:00:00+05:30",
+    "endDate": "2026-04-02T13:00:00+05:30",
+    "description": "Discussion will be led by Dr Pravin R Singh.",
+    "location": {
+      "@type": "Place",
+      "name": "Kirori Mal College, Kamla Nagar, University of Delhi",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Montage The Film Society KMC"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Bakita Byaktigato(2013)",
+    "url": "https://fillum.in/screening/5218",
+    "startDate": "2026-04-03T13:00:00+05:30",
+    "endDate": "2026-04-03T13:00:00+05:30",
+    "description": "In 2013, Bakita Byaktigoto arrived as a revelation to the Bengali film audience. Narrated in the form of a documentary, it used the handheld camera, jerky shots and grainy footage in novel ways. It ..more",
+    "location": {
+      "@type": "Place",
+      "name": "Niv Art Centre, Neb Sarai",
+      "address": "Sainik Farm, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Niv Art Centre & Film Studios"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Nadharer Bhela(2025)",
+    "url": "https://fillum.in/screening/5189",
+    "startDate": "2026-04-03T18:00:00+05:30",
+    "endDate": "2026-04-03T18:00:00+05:30",
+    "description": "The film revolves around a Slow Man, a simple villager who moves slower than a sloth and his brief time as a performer in a rural travelling circus.The narrative weaves through a network of huma..more",
+    "location": {
+      "@type": "Place",
+      "name": "Niv Art Centre, Neb Sarai",
+      "address": "Sainik Farm, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Niv Art Centre & Film Studios"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Ran(1985)",
+    "url": "https://fillum.in/screening/5220",
+    "startDate": "2026-04-05T18:00:00+05:30",
+    "endDate": "2026-04-05T18:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "Niv Art Centre, Neb Sarai",
+      "address": "Sainik Farm, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Films From Underground"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "The Discreet Charm of the Savarnas(2020)",
+    "url": "https://fillum.in/screening/5162",
+    "startDate": "2026-04-14T12:00:00+05:30",
+    "endDate": "2026-04-14T12:00:00+05:30",
+    "description": "Free Entry.Opening showcase for 'High Society' by Out of Sequence at Mool on Ambedkar Jayanti.Followed by The Discreet Charm of the Bourgeoisie by Luis Bu\u00f1uel at 1pm, Album Listening Session..more",
+    "location": {
+      "@type": "Place",
+      "name": "Mool, South Ex II",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
     }
   }
 ]
