@@ -2,6 +2,152 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
+    "name": "Gully Takeover - Gully Labs x Cafe Takeover",
+    "description": "Gully Takeover - The hunt for BaazHosted by Cafe Takeover at BaithakStep into a live game built for sneakerheads, where details matter and speed wins.Move through a series of photo bingo tasks, riddles, and challenges inspired by the Baaz Nazariya collection. Every clue is in plain sight. Not everyone will catch them.The format follows an Amazing Race-style hunt across the space. Spot fast, think sharper, move quicker.Winner takes home a pair of Baaz NazariyaAccess to exclusive GL discounts and prizesUnlimited beer poured by Proost Unlimited Snacks by BRB Entry is easy. Winning isn\u2019t.",
+    "startDate": "2026-04-04T15:00:00+05:30",
+    "endDate": "2026-04-04T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "999.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
+    },
+    "url": "https://urbanaut.app/spot/gully-takeover-gully-labs-x-cafe-takeover",
+    "keywords": [
+      "Leisure",
+      "Adventure",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Why Are Women Shut Out Of IITs?",
+    "description": "Here's a lecture that asks a question hiding in plain sight:If India produces so many women in STEM, where do they disappear?About the LectureIndia graduates nearly half its STEM students as women.Yet only a quarter make it into the workforce.This is the \u201cleaky pipeline\u201d a steady, structural disappearance of women from science, technology, engineering, and mathematics. But within elite institutions like the IITs, the gaps are even more stark.Until 2018, women made up barely 8\u201310% of BTech students. Female faculty remain around 11%. And not a single IIT has ever had a woman Director.These are not isolated statistics. They point to a deeper pattern of systemic exclusion.This lecture examines what produces these gaps, and why they persist despite decades of progress in education. It moves beyond individual explanations to look at how institutional cultures, selection systems, and everyday practices shape who enters, who stays, and who leaves.At its core, this lecture asks what is at stake when women are excluded from spaces that shape knowledge, innovation, and the future \u2014 and what it would mean to fix the leak, not just measure it.About the SpeakerRavinder Kaur is Emerita Professor of Sociology and Social Anthropology at Indian Institute of Technology Delhi, where she taught for nearly three decades in the Department of Humanities and Social Sciences.She received her BA from Miranda House and her MA, MPhil, and PhD from the Delhi School of Economics. She has also taught at New York University and Delhi School of Economics before joining IIT Delhi.Her research focuses on gender, technology, society, and STEM higher education, with work spanning issues such as adverse sex ratios, the biopolitics of sex selection, Femtech, and gender inequality in elite STEM institutions.She co-founded IIT Delhi\u2019s Initiative for Gender Equity and Sensitization (IGES) and led the GATI (Gender Assessment for Transforming Institutions) project, conducting the institute\u2019s first comprehensive gender equity assessment. She currently leads a five-year national initiative, Fixing the Leak: Advancing STEM Innovation and Inclusion in India, aimed at building research-driven frameworks for gender inclusion in STEM.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-04-11T16:00:00+05:30",
+    "endDate": "2026-04-11T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "ShellBeacon Patio Cafe, 3rd Floor, 1A/1, Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55470520000000000000",
+        "longitude": "77.19515770000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/why-are-women-shut-out-of-iits",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Live by Design - Transformation through Actions",
+    "description": "Live by Design WorkshopA day to pause, reflect, and move forward with clarity.Most days, life runs on default.You wake up, go to work, handle responsibilities, stay busy\u2026and somewhere in between, a quiet thought lingers:\u201cSomething isn\u2019t quite right.\u201dNot bad enough to disrupt everything.But not aligned enough to feel fulfilling.And so, it continues.--------------------------This workshop is designed as a pause from that default mode.Not to give you answers.But to help you see clearly what\u2019s been unclear for a while.Through guided exercises, real-life scenarios, and honest reflection, you begin to:Understand what\u2019s actually not working (beyond \u201cI feel stuck\u201d)Notice the patterns shaping your decisionsRecognize what you\u2019ve been avoidingSeparate real problems from emotional noiseThis is for you if:You feel stuck, but can\u2019t clearly define whyYou\u2019ve been thinking about change\u2014but haven\u2019t actedYou\u2019re doing well on paper, but something feels offYou want clarity before making your next move",
+    "startDate": "2026-04-11T10:00:00+05:30",
+    "endDate": "2026-04-11T16:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gurugram, Haryana, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.45949650000000000000",
+        "longitude": "77.02663830000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Abhishek Budhraja",
+      "url": null
+    },
+    "url": "https://urbanaut.app/spot/lbdb",
+    "keywords": [
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Open Fences : A Group Exhibition",
+    "description": "Gallery XXL is pleased to announce Open Fences, opening on Saturday April 4, a group exhibition presenting the works of Bikash Chandra Senapati, Kapil Jangid, Sabiha Dohadwala, Sowat, Suruchi Choksi and Tomislav Topi\u0107.A fence is a line that both binds and divides. Open Fences invites you to stand at that threshold, where the human condition comes into view at a distance precise enough to see it clearly: it is existential angst, silence, and disconnection. Yet that precise distance reveals an uncertain connection where liminality is not a boundary to be crossed but a condition to be inhabited, disorderly, entangled, and circling back on itself in a desire to find comfort and togetherness.Enter, and feel the pull between enclosure and release, between what the line holds and what it lets through. The fence stands and it opens.Time : 5 - 9 PMDate : Saturday, April 4, 2026Venue : Gallery XXL, A-277, Defence Colony, New Delhi - 110024For any queries please write to us at info@galleryxxl.com",
+    "startDate": "2026-04-04T17:00:00+05:30",
+    "endDate": "2026-04-04T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "2nd Floor, A-277, Block A, Defence Colony, New Delhi, Delhi 110024, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.57405660000000000000",
+        "longitude": "77.22903090000001000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gallery XXL",
+      "url": "https://urbanaut.app/partner/galleryxxl"
+    },
+    "url": "https://urbanaut.app/spot/open-fences-a-group-exhibition",
+    "keywords": [
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
     "name": "The Table I Married Into",
     "description": "The Table I Married Into is a family-style Konkani supper shaped by recipes, memories, and the warmth of belonging.This menu is inspired by the food I came to know and love through my husband\u2019s family. Over time, these dishes became more than just meals. They came to hold comfort, generosity, familiarity, and the quiet joy of being welcomed at a family table.For this evening, Paprika Tokri brings together a menu rooted in coastal flavours, shared plates, and the kind of food meant to be passed around, lingered over, and remembered long after the table is cleared.The supper will be served family-style and includes two signature cocktails for the evening, thoughtfully designed to complement the food.MenuOpeningCharbura UpakariPuffed rice brought to life with spice, crunch, brightness, and the kind of freshness that wakes up the palate.Goli BhajoGolden, airy fritters with a delicate crispness outside and a soft, tender centre.Kele Rava PodiRaw banana coated in semolina and fried until deeply golden, with a gentle spice and a beautiful savoury crunch.Chicken Ghee Roast with Baby ParotaTender chicken wrapped in a rich, fiery roast masala, served with flaky baby parotas made for scooping up every last bit.Shared at the TableChane Suran GhashiBlack chana and yam simmered in a deeply spiced coconut gravy, earthy, soulful, and quietly bold.Dali ToiA comforting lentil preparation, simple in spirit and deeply restorative at the table.Beansa UpakriA homestyle beans preparation, lightly spiced and gently cooked to hold both freshness and warmth.Beetroot SaladA cooling beetroot and yoghurt dish with a sweet-savoury balance that brings softness, colour, and relief to the table.Anjal Rava FryKing fish coated in semolina and pan-fried until crisp, golden, and full of coastal character.Ukde SeethBoiled rice, served as the steady, comforting foundation of the meal.On the SideTemple Nonch\u00e9A vivid, tangy pickle that cuts through the meal with brightness and depth.PappoduCrisp wafers that bring a light, satisfying crunch to every plate.DessertTender Coconut Ice Cream with Salted CaramelA delicate, cooling ice cream with the softness of tender coconut and a gentle salted caramel finish.Pineapple Upside Down CakeA tender cake crowned with caramelised pineapple, nostalgic, warm, and quietly celebratory.This is an intimate gathering with limited seats.",
     "startDate": "2026-04-11T19:00:00+05:30",
@@ -148,7 +294,7 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Dalit History Month: 5th April Lectures",
+    "name": "5th April: Beena Pallical & Rahul Sonpimple",
     "description": "Join us for an evening of two back-to-back lectures that examine caste not only as a system of social organisation, but as a lived structure of power, embedded in institutions, relationships, and the mind itself: Social Justice is Void Without Addressing Caste & Gender (with Beena Pallical, 4:00 \u2013 5:00 PM)The Cognitive Structures of Caste-Based Contempt (with Rahul Sonpimple, 5:30 \u2013 6:30 PM)Social Justice is Void Without Addressing Caste & GenderAbout the LectureSocial justice is often spoken about as an abstract ideal, a principle to aspire toward. But without addressing caste, it remains incomplete.This lecture examines how caste and gender are not separate systems of inequality, but deeply intertwined structures that shape access, opportunity, and control. From regulating sexuality to determining who has access to resources and dignity, these systems operate together to sustain social hierarchies.The session explores:Why any meaningful idea of social justice must centre casteHow caste and gender mutually reinforce each other in everyday lifeWhy annihilation of caste requires not only policy change, but personal and societal introspectionAbout the SpeakerBeena Pallical is General Secretary at the National Campaign on Dalit Human Rights, and a leading voice in India\u2019s social justice movement.Her work focuses on advancing inclusive and intersectional public policy, with particular attention to caste and gender-based discrimination. Through sustained advocacy and engagement, she has been instrumental in shaping conversations around rights, representation, and structural inequality in India.The Cognitive Structures of Caste-Based ContemptAbout the LectureCaste is often understood as a social or institutional system. But what if it is also a psychological one?This lecture examines how contempt, subtle, normalized, and often invisible, operates as a core mechanism sustaining caste hierarchies. It argues that practices such as the invisibilisation of Dalits in public spaces are not incidental, but foundational to how caste consciousness is produced and maintained.Drawing on sociology and psychology, the session explores:How caste-based contempt is socially cultivated and internalisedWhy exclusion is reproduced through everyday habits and perceptionsHow these patterns become part of a collective social psycheBy unpacking these processes, the lecture invites us to confront how deeply caste is embedded in how we see, think, and relate to one another.About the SpeakerRahul Sonpimple is a writer, social advocate, and political thinker working on caste, identity, and social justice in India. He is the founding President of the All India Independent Scheduled Castes Association (AIISCA) and Director of the Savitribai Phule Resource Centre.He holds a Master\u2019s degree from the Tata Institute of Social Sciences and an MPhil and PhD in Sociology from Jawaharlal Nehru University. His work bridges academic research with lived realities, contributing to both scholarly and public discourse on caste.Dr. Sonpimple has written for platforms including HuffPost, Al Jazeera, and The Hindu, with academic work published in EPW and SAGE Journals. He is also the founder of The Ambedkarian Chronicle, a platform dedicated to critical engagement with caste and social justice.All Grounds for Thought tickets include a \u20b9250 coupon redeemable on food and beverages at the venue \u2014 so you can stay, reflect, and continue the conversation.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who want learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
     "startDate": "2026-04-05T16:00:00+05:30",
     "endDate": "2026-04-05T18:00:00+05:30",

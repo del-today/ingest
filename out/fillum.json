@@ -1,23 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "The Dog in the Manger(1996)",
-    "url": "https://fillum.in/screening/4962",
-    "startDate": "2026-03-30T18:00:00+05:30",
-    "endDate": "2026-03-30T18:00:00+05:30",
-    "description": "Free entry. Screening followed by Cinema Forum.",
-    "location": {
-      "@type": "Place",
-      "name": "Instituto Cervantes",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Instituto Cervantes Nueva Delhi"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "Cities of Sleep(2015)",
     "url": "https://fillum.in/screening/5212",
     "startDate": "2026-04-01T10:00:00+05:30",
