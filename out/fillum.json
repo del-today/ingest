@@ -1,40 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "Cities of Sleep(2015)",
-    "url": "https://fillum.in/screening/5212",
-    "startDate": "2026-04-01T10:00:00+05:30",
-    "endDate": "2026-04-01T10:00:00+05:30",
-    "description": "Kindly arrive 10-15 mins earlyNote: Govt ID is required for entry in the college",
-    "location": {
-      "@type": "Place",
-      "name": "Kirori Mal College, Kamla Nagar, University of Delhi",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Montage The Film Society KMC"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Warm Shadows(2025)",
-    "url": "https://fillum.in/screening/5215",
-    "startDate": "2026-04-01T11:45:00+05:30",
-    "endDate": "2026-04-01T11:45:00+05:30",
-    "description": "Along with this, 'A Winter's Elegy' will also be screened.The director will be present throughout the screening and will discuss the film post screening",
-    "location": {
-      "@type": "Place",
-      "name": "Kirori Mal College, Kamla Nagar, University of Delhi",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Montage The Film Society KMC"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "Eeb Allay Ooo!(2019)",
     "url": "https://fillum.in/screening/5213",
     "startDate": "2026-04-01T14:00:00+05:30",

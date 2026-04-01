@@ -1,6 +1,120 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Nizamuddin Heritage walk on Sufism & Poetry",
+    "description": "In the Sufi Bylanes of Nizamuddin \u2014 A Heritage Walk of Stories, Shrines & SilenceStep into the tender, time-worn lanes of Nizamuddin, where the fragrance of incense mingles with qawwali echoes and centuries of faith, love, and longing still breathe through stone and sky.Join us for a soulful heritage walk through the sacred precincts of Nizamuddin Dargah, as we trace the footsteps of saints, poets, patrons, and wanderers who made this neighbourhood a living archive of Delhi\u2019s Sufi soul.On this journey, we will also pause at:\u2728 Ghalib\u2019s Mazar \u2014 remembering the poet of longing and lament\u2728 Chausath Khamba \u2014 a marble pavilion of quiet grace and symmetry\u2728 Atagha Khan\u2019s Tomb \u2014 a Mughal-era resting place of power and piety\u2728 Pateh Shah\u2019s Dargah \u2014 where devotion meets deep serenity    & end at the Nizammuddin Dargah.Along the way, we\u2019ll listen to stories of shrines and seekers, of migration and memory, of music, miracles, and mysticism \u2014 stories that still whisper through these alleys at dusk.",
+    "startDate": "2026-04-25T16:30:00+05:30",
+    "endDate": "2026-04-25T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Bharat Scouts and Guides Marg, opposite Humayun Tomb Park, Nizamuddin, Hazrat Nizamuddin, National Zoological Park, Sundar Nagar, New Delhi, Delhi 110013, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59564670000000000000",
+        "longitude": "77.24516910000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "755.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/nizamuddin-heritage-walk-on-sufism-poetry-12094",
+    "keywords": [
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "1857 & Dilli : A heritage walk in Delhi Ridge",
+    "description": "1857 UPRISING & DILLI: (A heritage walk at the Mutiny Memorial & it's neighbourhood in Kamla Nehru Ridge )The year 1857 marked a turning point in Indian history. What began as a sepoy mutiny in Meerut soon transformed into a widespread rebellion against British colonial rule. Within days, the rebelling sepoys marched to Delhi, a city symbolic of imperial power, where they declared the aging Mughal emperor Bahadur Shah Zafar as the leader of the uprising.The Mutiny Memorial, now known as Ajitgarh, is a prominent monument located on the Delhi Ridge, near Kashmere Gate. It was constructed in 1863 by the British to honor their soldiers and officials who died during the 1857 uprising.Let\u2019s explore the stories of the 1857 uprising and its impacts, at the Mutiny Memorial (a haunted site ) &  its neighborhood landmarks (Ashokan Pillar, Baoli, Pir Ghaib Hunting Lodge & the Hindu Rao Hospital)",
+    "startDate": "2026-04-26T08:30:00+05:30",
+    "endDate": "2026-04-26T10:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Kamla Nehru Ridge, Civil Lines, Delhi, 110007, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.67132190000000000000",
+        "longitude": "77.21076200000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "755.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/1857-dilli-heritage-walk-in-delhi-ridge",
+    "keywords": [
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Queer Heritage Walk & Baithak",
+    "description": "Queer Heritage Walk & BaithakA journey through stories, silences, and identities across time.There are histories we inherit\u2014and then there are histories we are made to forget.Join us for a queer heritage walk that begins with an intimate baithak at Jamali Kamali Tomb, where we gather to listen, reflect, and open up conversations around queerness in the past and present.From there, we walk through layered histories\u2014tracing narratives across Indian mythology, medieval accounts in India, colonial-era Victorian paranoia, and into modern expressions through films, laws, and literature. Together, we question and dismantle the persistent myth that queerness is a \u201cWestern import,\u201d uncovering instead its deep, complex, and indigenous roots in the subcontinent.Our journey concludes at the evocative site of Hijron ka Khanqah\u2014the medieval burial ground of eunuchs\u2014where histories of marginality, spirituality, and belonging come together in quiet resonance.\u2728 At Darwesh, heritage is not just about monuments\u2014it is about memory, identity, and the courage to reclaim what has always been ours.Age appropriate for 12 years & above",
+    "startDate": "2026-04-04T17:00:00+05:30",
+    "endDate": "2026-04-04T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "ladha sarai, Jamali Kamali, Mehrauli Archeological Pk Trl, Christian Colony, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.51957120000000000000",
+        "longitude": "77.18714460000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "755.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/queer-heritage-walk-lgbtqia",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "The World Of Work In Contemporary India",
     "description": "Join us for a lecture that asks a question that feels increasingly urgent:Why does economic growth no longer guarantee jobs?About the LectureAcross the world \u2014 and especially in India \u2014 stories of job loss, retrenchment, and precarious work have become almost routine.But these are not isolated disruptions. They are part of a deeper structural shift.This lecture examines the changing world of work through the lens of neoliberal capitalism \u2014 a phase that began gaining global momentum in the late 20th century and has since reshaped economies, institutions, and livelihoods. It explores how processes such as extractivism, land acquisition, resource grabbing, and intensified profit-seeking have transformed not just production, but the very conditions under which labour exists.The session explores:Why economic growth has become increasingly \u201cjobless\u201dThe declining relationship between output and employment across sectorsHow neoliberal policy regimes reshape labour markets and livelihoodsWhat Marxian political economy reveals about accumulation and labour displacementDrawing on the idea of the \u201cAbsolute General Law of Capitalist Accumulation,\u201d the lecture argues that labour displacement is not accidental, but intrinsic to the logic of capital itself,  driven by the constant expansion of productive forces and the pursuit of accumulation.At its core, this talk invites us to rethink what we call a \u201ccrisis\u201d \u2014 not as a temporary breakdown, but as a systemic feature of how contemporary capitalism functions.About the SpeakerPraveen Jha is former Sukhamoy Chakravarty Chair Professor of Economics at Jawaharlal Nehru University, where he taught at the Centre for Economic Studies and Planning for several decades.His work spans political economy of development, with a focus on labour, agriculture, and education, alongside interests in natural resources, public finance, and the history of economic thought. He has also been affiliated with the Centre for Informal Sector and Labour Studies at JNU and has held visiting positions at institutions across Germany, China, South Africa, Zimbabwe, and Switzerland, including engagements with organisations such as the International Labour Organization.He has been associated with multiple research initiatives with UN agencies including the ILO, UNICEF, UNDP, and FAO, and is a founding editor of Agrarian South: Journal of Political Economy. With over twenty books and more than a hundred academic publications, his work remains central to debates on development, labour, and capitalism in India and beyond.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
