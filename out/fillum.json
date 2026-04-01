@@ -1,23 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "Eeb Allay Ooo!(2019)",
-    "url": "https://fillum.in/screening/5213",
-    "startDate": "2026-04-01T14:00:00+05:30",
-    "endDate": "2026-04-01T14:00:00+05:30",
-    "description": "The Director will be present throughout the screening and will discuss the film post screening",
-    "location": {
-      "@type": "Place",
-      "name": "Kirori Mal College, Kamla Nagar, University of Delhi",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Montage The Film Society KMC"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "Pestonjee(1988)",
     "url": "https://fillum.in/screening/5210",
     "startDate": "2026-04-02T09:30:00+05:30",
@@ -103,6 +86,23 @@
   },
   {
     "@type": "ScreeningEvent",
+    "name": "Aravali International Film Festival - Day 1",
+    "url": "https://fillum.in/event/5229",
+    "startDate": "2026-04-04T11:00:00+05:30",
+    "endDate": "2026-04-04T11:00:00+05:30",
+    "description": "Block 1 (11:00\u201313:00)The Way We Roll (Brenda Malley)GAIA (Abhay Kapoor)Finger Ring (Advait Dhavale)Lov u Dead (Nitesh Marwaha)Block 2 (13:00\u201315:00)The Soothsayer (Nick Sneath)Eve..more",
+    "location": {
+      "@type": "Place",
+      "name": "M. L. Bhartia Auditorium, Alliance Fran\u00e7aise",
+      "address": "Lodhi Road, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Aravali International Film Festival"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "Girls Will Be Girls(2024)",
     "url": "https://fillum.in/screening/5221",
     "startDate": "2026-04-04T16:00:00+05:30",
@@ -116,23 +116,6 @@
     "organizer": {
       "@type": "Organization",
       "name": "The Work in Progress Film Club"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "The Wailing(2016)",
-    "url": "https://fillum.in/screening/5158",
-    "startDate": "2026-04-05T13:00:00+05:30",
-    "endDate": "2026-04-05T13:00:00+05:30",
-    "description": "Na Hong-jin\u2019s The Wailing (2016) unfolds less as a conventional horror narrative and more as a slow contamination of reality. In a fog-laden rural village, a series of grotesque afflictions begins..more",
-    "location": {
-      "@type": "Place",
-      "name": "Mool, South Ex II",
-      "address": "South Ex II, New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Out of Sequence"
     }
   }
 ]
