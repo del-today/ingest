@@ -56,7 +56,7 @@
     "url": "https://fillum.in/screening/5221",
     "startDate": "2026-04-04T16:00:00+05:30",
     "endDate": "2026-04-04T16:00:00+05:30",
-    "description": "The film screening will be hosted in my home, followed by a discussion. The set up includes a projector and a speaker. We'll have some snacks but please feel free to bring your own. Please do not br..more",
+    "description": "Update: Registration closed.The film screening will be hosted in my home, followed by a discussion. The set up includes a projector and a speaker. We'll have some snacks but please feel free to br..more",
     "location": {
       "@type": "Place",
       "name": "Patparganj, East Delhi",
@@ -65,6 +65,91 @@
     "organizer": {
       "@type": "Organization",
       "name": "The Work in Progress Film Club"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Aravali International Film Festival - Day 2",
+    "url": "https://fillum.in/event/5230",
+    "startDate": "2026-04-05T11:00:00+05:30",
+    "endDate": "2026-04-05T11:00:00+05:30",
+    "description": "Block 5 (11:00\u201313:00)Why Me (Xinran Gu)The Mushrooms (Srija Barua Nalawade)Awards Ceremony (Shlomit Rub)Meera (Saurabh Arora)Built on Hope (Kathryn Elise Kovalenko)Block 6 (13:00\u20131..more",
+    "location": {
+      "@type": "Place",
+      "name": "M. L. Bhartia Auditorium, Alliance Fran\u00e7aise",
+      "address": "Lodhi Road, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Aravali International Film Festival"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "The Wailing(2016)",
+    "url": "https://fillum.in/screening/5158",
+    "startDate": "2026-04-05T13:00:00+05:30",
+    "endDate": "2026-04-05T13:00:00+05:30",
+    "description": "Na Hong-jin\u2019s The Wailing (2016) unfolds less as a conventional horror narrative and more as a slow contamination of reality. In a fog-laden rural village, a series of grotesque afflictions begins..more",
+    "location": {
+      "@type": "Place",
+      "name": "Mool, South Ex II",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Persepolis(2007)",
+    "url": "https://fillum.in/screening/5228",
+    "startDate": "2026-04-05T15:00:00+05:30",
+    "endDate": "2026-04-05T15:00:00+05:30",
+    "description": "- Seating will be mixed- Snacks are a must, please bring something to share- Limited spots, so please confirm only if you\u2019re sure you can attend**Accessibility note: The venue is not wheelch..more",
+    "location": {
+      "@type": "Place",
+      "name": "Jangpura (exact location will be shared on approval)",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Postcards"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Platform(2001)",
+    "url": "https://fillum.in/screening/5231",
+    "startDate": "2026-04-05T17:00:00+05:30",
+    "endDate": "2026-04-05T17:00:00+05:30",
+    "description": "Free Entry | As part of series - 'Unofficial Lyricist of (Post)Socialist China: Jia Zhangke'.",
+    "location": {
+      "@type": "Place",
+      "name": "Mool, South Ex 2",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Camera Commune"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Ran(1985)",
+    "url": "https://fillum.in/screening/5220",
+    "startDate": "2026-04-05T18:00:00+05:30",
+    "endDate": "2026-04-05T18:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "Niv Art Centre, Neb Sarai",
+      "address": "Sainik Farm, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Films From Underground"
     }
   }
 ]

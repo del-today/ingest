@@ -5,7 +5,7 @@
     "url": "https://www.knma.org/whats-on/exhibitions/slow-is-the-new-urgent",
     "startDate": "2025-04-01T10:00:00+05:30",
     "endDate": "2026-04-15T18:00:00+05:30",
-    "description": "Contemporary Indian Art",
+    "description": "Group Show",
     "location": {
       "@type": "Place",
       "name": "KNMA Art Passage, next to Apple Store, Nexus Select Citywalk Mall",
@@ -66,26 +66,6 @@
   },
   {
     "@type": "EducationEvent",
-    "name": "Atonal Abstractions",
-    "url": "https://www.knma.org/whats-on/workshops/atonal-abstractions",
-    "startDate": "2026-04-04T10:00:00+05:30",
-    "endDate": "2026-04-04T10:00:00+05:30",
-    "description": "Saturday Family Workshop",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "EducationEvent",
     "name": "When Lights Fall",
     "url": "https://www.knma.org/whats-on/workshops/when-lights-fall",
     "startDate": "2026-04-10T10:00:00+05:30",
@@ -131,6 +111,106 @@
     "startDate": "2026-04-11T10:00:00+05:30",
     "endDate": "2026-04-11T10:00:00+05:30",
     "description": "Saturday Family Workshop",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Sign Language & Art: Panel on Intersectional Women",
+    "url": "https://www.knma.org/whats-on/talks/sign-language-art-panel-on-intersectional-women",
+    "startDate": "2026-04-18T10:00:00+05:30",
+    "endDate": "2026-04-18T10:00:00+05:30",
+    "description": "WeekendsatKNMA",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Secret of a Mountain Serpent",
+    "url": "https://www.knma.org/whats-on/events/secret-of-a-mountain-serpent",
+    "startDate": "2026-04-18T10:00:00+05:30",
+    "endDate": "2026-04-18T10:00:00+05:30",
+    "description": "WeekendsatKNMA",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "RESTRICTED PALETTES I: Color Parallelism and Grayscale",
+    "url": "https://www.knma.org/whats-on/workshops/restricted-palettes-i-color-parallelism-and-grayscale",
+    "startDate": "2026-04-18T10:00:00+05:30",
+    "endDate": "2026-04-18T10:00:00+05:30",
+    "description": "Saturday Family Workshop",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Signs of connections:  Indian Sign Language by Hardeep Singh",
+    "url": "https://www.knma.org/whats-on/workshops/signs-of-connections-indian-sign-language-by-hardeep-singh",
+    "startDate": "2026-04-19T10:00:00+05:30",
+    "endDate": "2026-04-19T10:00:00+05:30",
+    "description": "WeekendsatKNMA",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "The language of silence: Sign, Photography & AI with Srivatsan Sankaran",
+    "url": "https://www.knma.org/whats-on/workshops/the-language-of-silence-sign-photography-ai-with-srivatsan-sankaran",
+    "startDate": "2026-04-19T10:00:00+05:30",
+    "endDate": "2026-04-19T10:00:00+05:30",
+    "description": "WeekendsatKNMA",
     "location": {
       "@type": "Place",
       "name": "KNMA, New Delhi",
