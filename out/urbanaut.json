@@ -1,6 +1,44 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Spring Flowers and Nibbles Supper",
+    "description": "Spring Flowers and Nibbles at V\u2019s Supper StoriesEase into a slow spring afternoon with a gathering designed around light bites, fresh flavours, and a touch of creativity.Hosted in an intimate home setting in Saket, this experience brings together a curated menu of seasonal nibbles \u2014 from avocado toast done our way to grape and burrata crostini, marinated grapes, and other thoughtfully composed small plates. The food is designed for grazing, encouraging you to linger, sip, and settle into the rhythm of the afternoon.Adding to the experience is a DIY flower bar, where guests can create their own spring arrangement \u2014 an opportunity to engage with textures, colours, and the quiet joy of making something by hand.This is not a formal sit-down meal, but a relaxed, sensory experience where food, flowers, and conversation come together.At V\u2019s Supper Stories, the focus goes beyond just the food. It\u2019s about creating a space where strangers become familiar, conversations flow easily, and the table feels like something you don\u2019t want to leave.Date: 11th April/12th April Time: 3:30pm - 6pm Location: Saket, New Delhi (exact address shared 24 hours prior)Price: \u20b93,000 per personSeats are limited to keep the experience intimate.",
+    "startDate": "2026-04-11T15:30:00+05:30",
+    "endDate": "2026-04-12T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Saket, New Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52209710000000000000",
+        "longitude": "77.21015340000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "V's Supper Stories",
+      "url": "https://urbanaut.app/partner/vsupperstories"
+    },
+    "url": "https://urbanaut.app/spot/springflowersandnibbles",
+    "keywords": [
+      "Festival",
+      "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Nizamuddin Heritage walk on Sufism & Poetry",
     "description": "In the Sufi Bylanes of Nizamuddin \u2014 A Heritage Walk of Stories, Shrines & SilenceStep into the tender, time-worn lanes of Nizamuddin, where the fragrance of incense mingles with qawwali echoes and centuries of faith, love, and longing still breathe through stone and sky.Join us for a soulful heritage walk through the sacred precincts of Nizamuddin Dargah, as we trace the footsteps of saints, poets, patrons, and wanderers who made this neighbourhood a living archive of Delhi\u2019s Sufi soul.On this journey, we will also pause at:\u2728 Ghalib\u2019s Mazar \u2014 remembering the poet of longing and lament\u2728 Chausath Khamba \u2014 a marble pavilion of quiet grace and symmetry\u2728 Atagha Khan\u2019s Tomb \u2014 a Mughal-era resting place of power and piety\u2728 Pateh Shah\u2019s Dargah \u2014 where devotion meets deep serenity    & end at the Nizammuddin Dargah.Along the way, we\u2019ll listen to stories of shrines and seekers, of migration and memory, of music, miracles, and mysticism \u2014 stories that still whisper through these alleys at dusk.",
