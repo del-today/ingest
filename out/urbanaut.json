@@ -1,6 +1,44 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Screen Printing Workshop",
+    "description": "Introduction to Screen Printing at Pulp StudioA beginner-friendly workshop where you learn the basics of screen printing through hands-on makingFrom creating your own stencil to working with inks and layering colours, the focus is on understanding the process and making something of your ownYou\u2019ll take back a small limited edition of prints you\u2019ve created during the session",
+    "startDate": "2026-04-11T12:00:00+05:30",
+    "endDate": "2026-04-11T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "B-247, Pocket B, Okhla Phase I, Okhla Industrial Estate, New Delhi, Delhi 110020, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52846980000000000000",
+        "longitude": "77.27724540000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "4000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Pulp Studio",
+      "url": "https://urbanaut.app/partner/pulpstudio"
+    },
+    "url": "https://urbanaut.app/spot/screen-printing-workshop-12141",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "The Sultanate\u2019s Canvas: Sayyid Grace & Lodhi Might",
     "description": "A World Heritage Day SpecialDon't just walk past history\u2014walk through it. Whether you are a photography enthusiast, a curious wanderer, a history buff, or someone looking to see the city with fresh eyes, this canvas is waiting for you.To the casual stroller, Lodhi Gardens is a lush urban sanctuary. To the discerning eye, it is a battlefield of aesthetics\u2014a sprawling stone canvas where two distinct dynasties etched their legacies in the twilight of the Delhi Sultanate.On World Heritage Day, we explore the evolution of architectural styles and influences that resulted in monuments which were distinct and reflected the temperament of their rulers.  Join us for a curated heritage walk through Lodhi Gardens, where the shifting tides of the 15th-century Delhi Sultanate are etched into every dome and archway.",
@@ -703,44 +741,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Shringaar Rasa & Ashta Nayikas",
-    "description": "Note: The Venue is on 4th floor terrace and has no elevator. So stairs have to be climbed.\u091c\u093e\u0917\u0942 \u092e\u0948\u0902 \u0938\u093e\u0930\u0940 \u0930\u0948\u0928\u093e \u092c\u0932\u092e\u093e, \u0930\u0938\u093f\u092f\u093e \u092e\u0928 \u0932\u093e\u0917\u0947 \u0928\u093e \u092e\u094b\u0930\u093e \u0964\u092c\u0939\u0941\u0924 \u0930\u092e\u093e\u092f\u094b \u0938\u094c\u0924\u0928 \u0918\u0930\u0935\u093e, \u092a\u093f\u092f\u093e \u0917\u0930\u0935\u093e \u0932\u0917\u093e\u0935\u094b \u0965Meaning: Beloved, I stay awake the entire nightO playful one, my heart finds no peaceYou have spent much time at the other woman\u2019s houseCome now, embrace me, my beloved.A night of longing, love, and lyrical emotion.Set in Raag Maru Bihag, this bandish evokes the Viraha in love through Virahotkanthita - a Nayika, a lady, a heroine, restless in separation, yearning for her beloved whom she suspects has lingered with the other woman far too long!!Through a curated selection of Khayal-Bandish(es), the artist brings alive the timeless world of the Ashtanayika - the eight heroines of love and separation across Indian Arts and aesthetics. Each composition unveils a different shade of desire, anticipation, and, longingness, anger.... weaving together music, poetry, and expression into an intimate, immersive experience under a moonlit night sky, overlooking the iconic Lotus Temple!Note: By attending you agree to being filmed at the venue and content may be used for marketing purposes of Team TBT-DBF",
-    "startDate": "2026-04-04T18:15:00+05:30",
-    "endDate": "2026-04-04T20:15:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "East of Kailash, New Delhi, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55834640000000000000",
-        "longitude": "77.25308290000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1550.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Delhibyfoot Adventures",
-      "url": null
-    },
-    "url": "https://urbanaut.app/spot/shringaar-rasa-ashta-nayikas",
-    "keywords": [
-      "Music",
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Ceramic Jewellery Making",
     "description": "Step into the world of creativity with our ceramic jewellery making workshop, where art meets personal expression.Get your hands on clay and design any 3 pieces of jewellery of your choice - be it rings, earrings, or a necklace.We'll guide you through the entire journey - from molding and shaping to coloring.Join us for some fun and creativity where you can bring your ideas to life.Once your piece is painted, we\u2019ll have it glazed and fire it for you at the unit, making it ready for use. You can choose to pick up your finished pieces from the studio or have it couriered to you (charges applicable as per actuals).",
@@ -1077,9 +1077,9 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "The Matcha Circle",
-    "description": "Matcha Experience: A Taste of CalmOverviewIt is a guided space to explore how a simple ritual can offer a sense of grounding. We focus on the unique process from leaf to powder and how to find moments of peace in a busy week over a comforting cup.Sometimes we just need a moment to slow down. The Matcha Experience is a quiet invitation to discover the world of high quality matcha. Whether you are already a fan or just curious about the bright green tea, this session is about appreciating the craft and the calm that comes with a perfectly prepared bowl.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to expectGuided Introduction: Learn about the history and the unique process of preparing matcha from leaf to powder.The Ritual: Watch and learn how the tea is whisked to create its signature froth and deep flavor.Tasting Session: Enjoy a premium matcha drink prepared just for you at Cha & Co.Quiet Conversation: A small group setting to talk about finding moments of peace in a busy week over a comforting cup.Details\ud83d\uddd3\ufe0f Date: 9th April (Thursday)\u23f0 Time: 5:30 PM\ud83d\udccd Location: Cha & Co, Ireo Grand View High Street\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes a Matcha Drink)",
+    "description": "Matcha Experience: A Taste of CalmOverviewIt is a guided space to explore how a simple ritual can offer a sense of grounding. We focus on the unique process from leaf to powder and how to find moments of peace in a busy week over a comforting cup.Sometimes we just need a moment to slow down. The Matcha Experience is a quiet invitation to discover the world of high quality matcha. Whether you are already a fan or just curious about the bright green tea, this session is about appreciating the craft and the calm that comes with a perfectly prepared bowl.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to expectGuided Introduction: Learn about the history and the unique process of preparing matcha from leaf to powder.The Ritual: Watch and learn how the tea is whisked to create its signature froth and deep flavor.Tasting Session: Enjoy a premium matcha drink prepared just for you at Cha & Co.Quiet Conversation: A small group setting to talk about finding moments of peace in a busy week over a comforting cup.Details\ud83d\uddd3\ufe0f Date: 10th April (Friday)\u23f0 Time: 5:30 PM\ud83d\udccd Location: Cha & Co, Ireo Grand View High Street\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes a Matcha Drink)",
     "startDate": "2026-04-09T17:30:00+05:30",
-    "endDate": "2026-04-09T19:30:00+05:30",
+    "endDate": "2026-04-10T19:30:00+05:30",
     "location": {
       "@type": "Place",
       "address": "Ireo Grand View High Street, Sector 58, Gurugram, Haryana 122098, India",
