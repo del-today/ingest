@@ -1,6 +1,44 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Rediscover the Slow",
+    "description": "Breathe. Be. Belong: The evening will begin with a guided sensory immersion into Zemya Farm\u2019s ecosystem led by expressive arts practitioner Puneeta Roy. Under a grove of trees, we will experience nature\u2019s alliances, support systems and quiet coexistence through a meditative grounding.Dirt. Delight. A Tiny Green: Roll up your sleeves and dive \u2018handlong\u2019 into a mini gardening activity. Fill up a grow bag with rich, crumbly humus as you get to tuck in a cheerful little sapling. We guarantee it will be messy, magical and totally rewarding. Along with some insider tips from Zemya's Mekhla Maheshwari, you will get to take your green buddy home with you and watch it take root, sprout leaves and grow before your eyes.Listen. Reflect. Rediscover: Have an intimate, mindful chat with slow-living practitioner and writer Shreya Jani \u2013 someone who is learning to savour small moments, simplify routines and reconnect with what truly matters. No agenda. No rush. Just your curiosity and a guide who believes less can really be more.",
+    "startDate": "2026-04-11T16:30:00+05:30",
+    "endDate": "2026-04-11T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "C49J+RH8, Baliawas, Haryana 122101, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41967100000000000000",
+        "longitude": "77.13132499999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gopesh Singh",
+      "url": null
+    },
+    "url": "https://urbanaut.app/spot/rediscover-the-slow",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Eco Friendly",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Screen Printing Workshop",
     "description": "Introduction to Screen Printing at Pulp StudioA beginner-friendly workshop where you learn the basics of screen printing through hands-on makingFrom creating your own stencil to working with inks and layering colours, the focus is on understanding the process and making something of your ownYou\u2019ll take back a small limited edition of prints you\u2019ve created during the session",
