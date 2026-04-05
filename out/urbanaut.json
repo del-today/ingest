@@ -2,6 +2,157 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Ek Thi Bani Thani",
+    "description": "Ek Thi Bani Thani is a captivating theatrical experience that brings to life a timeless tale of love, devotion, and artistic brilliance from the royal court of Kishangarh. Through evocative storytelling, poetry, and music, the performance explores the deep bond between muse and artist, immortalized in one of India\u2019s most iconic paintings. Set against the intimate backdrop of Kathika Haveli, the evening promises a rich blend of history, bhakti, and visual artistry. Join us for an immersive cultural journey where tradition and emotion come alive on stage. light-hearted humour that promises to leave you smiling throughout.What makes this experience truly unforgettable is its setting\u2014a 150-year-old Heritage Haveli, nestled in the heart of Old Delhi. The charm of the historic backdrop adds a magical touch to this delightfully hilarious performance, making it more than just a play\u2014it\u2019s an immersive cultural experience.Come, be a part of an afternoon filled with laughter, nostalgia and theatre at its finest.",
+    "startDate": "2026-04-19T15:30:00+05:30",
+    "endDate": "2026-04-19T17:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64610280000000000000",
+        "longitude": "77.22736410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kathika Cultural Centre and Museum",
+      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
+    },
+    "url": "https://urbanaut.app/spot/ek-thi-bani-thani",
+    "keywords": [
+      "Leisure",
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Shunaya",
+    "description": "Shunya is a one-time New Moon sensory experience designed to help you pause, disconnect from external noise, and turn inward.Hosted at The Immersion Room, this intimate gathering blends sound, stillness, and guided awareness to create a deeply immersive journey. Rooted in the energy of the New Moon \u2014 a time symbolic of emptiness, reset, and quiet beginnings \u2014 Shunya invites you to experience the beauty of nothingness.The session is facilitated by Riti Yog and co-organised by Mehak Mahant, bringing together a thoughtful blend of mindfulness and intentional design. Through breathwork, meditation, and a carefully curated environment that gently engages all five senses \u2014 sound, sight, scent, touch, and subtle spatial awareness \u2014 participants are guided into a deeply personal inner space.Every element of the experience is designed to soften the mind and deepen presence, allowing you to fully arrive in the moment.With a limited group of 10\u201315 participants, the experience remains intimate, intentional, and deeply held.This is not just a session \u2014 it is a space to soften, release, and realign.Whether you\u2019re seeking clarity, stillness, or simply a moment away from constant stimulation, Shunya offers a rare opportunity to slow down and reconnect with yourself.",
+    "startDate": "2026-04-17T17:30:00+05:30",
+    "endDate": "2026-04-17T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "E5, Market Rd, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46575680000000000000",
+        "longitude": "77.09909929999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3100.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Immersion Room",
+      "url": "https://urbanaut.app/partner/theimmersionroom"
+    },
+    "url": "https://urbanaut.app/spot/shunaya-immersive-expeerience-the-immersion-room-tir-gurugram",
+    "keywords": [
+      "Premium",
+      "Wellness",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Immersive Yogilates at The Immersion Room",
+    "description": "Yogilates: Earth & Moon \ud83c\udf0d\ud83c\udf19A 2-hour immersive movement experience blending strength, stillness, and flowStep into a thoughtfully designed session that brings together two complementary energies \u2014 Earth and Moon \u2014 to create a deeply balanced and engaging practice. This is not just a workout, but an experience that guides you through grounding strength and calming release in one seamless journey.\ud83c\udf0d What Makes This Experience SpecialTwo energies. One flow.The session is built on a unique concept: one movement, two experiences.You\u2019ll move through each posture twice\u2014First through Yoga (alignment, breath, awareness)Then through Pilates (core engagement, control, strength)This layered approach allows you to experience both depth and intensity without abrupt transitions, creating a flow that feels intuitive, powerful, and meditative at the same time.\ud83c\udf19 The ExperienceEarth (Strength & Stability)Build strength, improve posture, and activate deep core muscles through controlled, intentional movement.Moon (Softness & Release)Slow down with breathwork, gentle transitions, and guided relaxation to calm the nervous system and restore balance.Together, they create a session that is grounding yet light, energising yet calming\u2014perfect for those seeking both physical activation and mental stillness.\u2728 What You Can ExpectA guided, immersive flow combining Yoga + PilatesDeep muscle engagement without high-impact strainImproved flexibility, posture, and body awarenessPartner and group sequences that bring in connection and playfulnessBreathwork and meditation for complete releaseThe session is designed to feel like a continuous journey\u2014from stillness to strength, from effort to ease.",
+    "startDate": "2026-04-12T11:00:00+05:30",
+    "endDate": "2026-04-12T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "E5, Market Rd, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46575680000000000000",
+        "longitude": "77.09909929999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1200.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Immersion Room",
+      "url": "https://urbanaut.app/partner/theimmersionroom"
+    },
+    "url": "https://urbanaut.app/spot/immersive-yogilates-at-the-immersion-room-gurugram",
+    "keywords": [
+      "Premium",
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Ulte Baans",
+    "description": "Step into a world where laughter, life and timeless stories come alive !Nepathya Foundation, in collaboration with Kathika, invites you to experience the much-loved theatrical play Ulte Baans, written by Sai Paranjpye. The play beautifully unfolds the lives of three middle-class couples, neighbours bound by shared spaces, everyday struggles, quiet dreams and a playful spirit of competition. Through a series of engaging situations, their joys, woes, hopes and despairs are brought to life with subtle, light-hearted humour that promises to leave you smiling throughout.What makes this experience truly unforgettable is its setting\u2014a 150-year-old Heritage Haveli, nestled in the heart of Old Delhi. The charm of the historic backdrop adds a magical touch to this delightfully hilarious performance, making it more than just a play\u2014it\u2019s an immersive cultural experience.Come, be a part of an evening filled with laughter, nostalgia and theatre at its finest.",
+    "startDate": "2026-04-12T12:00:00+05:30",
+    "endDate": "2026-04-12T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64610280000000000000",
+        "longitude": "77.22736410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "999.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kathika Cultural Centre and Museum",
+      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
+    },
+    "url": "https://urbanaut.app/spot/ulte-baans",
+    "keywords": [
+      "Leisure",
+      "Adventure",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Rediscover the Slow",
     "description": "Breathe. Be. Belong: The evening will begin with a guided sensory immersion into Zemya Farm\u2019s ecosystem led by expressive arts practitioner Puneeta Roy. Under a grove of trees, we will experience nature\u2019s alliances, support systems and quiet coexistence through a meditative grounding.Dirt. Delight. A Tiny Green: Roll up your sleeves and dive \u2018handlong\u2019 into a mini gardening activity. Fill up a grow bag with rich, crumbly humus as you get to tuck in a cheerful little sapling. We guarantee it will be messy, magical and totally rewarding. Along with some insider tips from Zemya's Mekhla Maheshwari, you will get to take your green buddy home with you and watch it take root, sprout leaves and grow before your eyes.Listen. Reflect. Rediscover: Have an intimate, mindful chat with slow-living practitioner and writer Shreya Jani \u2013 someone who is learning to savour small moments, simplify routines and reconnect with what truly matters. No agenda. No rush. Just your curiosity and a guide who believes less can really be more.",
     "startDate": "2026-04-11T16:30:00+05:30",
@@ -593,80 +744,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "5th April: Beena Pallical & Rahul Sonpimple",
-    "description": "Join us for an evening of two back-to-back lectures that examine caste not only as a system of social organisation, but as a lived structure of power, embedded in institutions, relationships, and the mind itself: Social Justice is Void Without Addressing Caste & Gender (with Beena Pallical, 4:00 \u2013 5:00 PM)The Cognitive Structures of Caste-Based Contempt (with Rahul Sonpimple, 5:30 \u2013 6:30 PM)Social Justice is Void Without Addressing Caste & GenderAbout the LectureSocial justice is often spoken about as an abstract ideal, a principle to aspire toward. But without addressing caste, it remains incomplete.This lecture examines how caste and gender are not separate systems of inequality, but deeply intertwined structures that shape access, opportunity, and control. From regulating sexuality to determining who has access to resources and dignity, these systems operate together to sustain social hierarchies.The session explores:Why any meaningful idea of social justice must centre casteHow caste and gender mutually reinforce each other in everyday lifeWhy annihilation of caste requires not only policy change, but personal and societal introspectionAbout the SpeakerBeena Pallical is General Secretary at the National Campaign on Dalit Human Rights, and a leading voice in India\u2019s social justice movement.Her work focuses on advancing inclusive and intersectional public policy, with particular attention to caste and gender-based discrimination. Through sustained advocacy and engagement, she has been instrumental in shaping conversations around rights, representation, and structural inequality in India.The Cognitive Structures of Caste-Based ContemptAbout the LectureCaste is often understood as a social or institutional system. But what if it is also a psychological one?This lecture examines how contempt, subtle, normalized, and often invisible, operates as a core mechanism sustaining caste hierarchies. It argues that practices such as the invisibilisation of Dalits in public spaces are not incidental, but foundational to how caste consciousness is produced and maintained.Drawing on sociology and psychology, the session explores:How caste-based contempt is socially cultivated and internalisedWhy exclusion is reproduced through everyday habits and perceptionsHow these patterns become part of a collective social psycheBy unpacking these processes, the lecture invites us to confront how deeply caste is embedded in how we see, think, and relate to one another.About the SpeakerRahul Sonpimple is a writer, social advocate, and political thinker working on caste, identity, and social justice in India. He is the founding President of the All India Independent Scheduled Castes Association (AIISCA) and Director of the Savitribai Phule Resource Centre.He holds a Master\u2019s degree from the Tata Institute of Social Sciences and an MPhil and PhD in Sociology from Jawaharlal Nehru University. His work bridges academic research with lived realities, contributing to both scholarly and public discourse on caste.Dr. Sonpimple has written for platforms including HuffPost, Al Jazeera, and The Hindu, with academic work published in EPW and SAGE Journals. He is also the founder of The Ambedkarian Chronicle, a platform dedicated to critical engagement with caste and social justice.All Grounds for Thought tickets include a \u20b9250 coupon redeemable on food and beverages at the venue \u2014 so you can stay, reflect, and continue the conversation.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who want learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
-    "startDate": "2026-04-05T16:00:00+05:30",
-    "endDate": "2026-04-05T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Basement, Ground floor and First floor Building no. 12, Panchsheel Community Centre, Shahpur Jat, Panchsheel Park, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54805190000000000000",
-        "longitude": "77.21147640000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "550.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/social-justice-is-void-without-addressing-caste-11982",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Easter Supper Brunch",
-    "description": "Easter Brunch at V\u2019s Supper StoriesThis Easter, step into a slower, more intimate kind of brunch \u2014 one built around shared tables, thoughtful food, and meaningful conversation.Hosted in a cosy setting in Saket, this experience brings together a small group of guests for an afternoon that feels both personal and indulgent. The menu draws from familiar Easter elements, reimagined with seasonal ingredients and subtle twists \u2014 from warm hot cross buns and devilled eggs to grilled chicken or cauliflower paired with a vibrant chimichurri.At V\u2019s Supper Stories, the focus goes beyond just the food. It\u2019s about creating a space where strangers become familiar, conversations flow easily, and the table feels like something you don\u2019t want to leave.Date: 4th April/ 5th April Time: 12:30 PM \u2013 3:00 PMLocation: Saket, New Delhi (exact address shared 24 hours prior)Price: \u20b93,000 per personSeats are limited to keep the experience intimate.",
-    "startDate": "2026-04-05T12:30:00+05:30",
-    "endDate": "2026-04-05T15:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Saket, New Delhi, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52209710000000000000",
-        "longitude": "77.21015340000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3000.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "V's Supper Stories",
-      "url": "https://urbanaut.app/partner/vsupperstories"
-    },
-    "url": "https://urbanaut.app/spot/easter-supper-brunch",
-    "keywords": [
-      "Local",
-      "Festival",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Ceramic Jewellery Making",
     "description": "Step into the world of creativity with our ceramic jewellery making workshop, where art meets personal expression.Get your hands on clay and design any 3 pieces of jewellery of your choice - be it rings, earrings, or a necklace.We'll guide you through the entire journey - from molding and shaping to coloring.Join us for some fun and creativity where you can bring your ideas to life.Once your piece is painted, we\u2019ll have it glazed and fire it for you at the unit, making it ready for use. You can choose to pick up your finished pieces from the studio or have it couriered to you (charges applicable as per actuals).",
@@ -1144,43 +1221,6 @@
       "Leisure",
       "Pop-up Event",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Before You Blame",
-    "description": "Before You Blame: A Workshop on Navigating Relationships with ClarityOverviewThe session focuses on exploring how our thoughts shape our relationships and why conflict often feels bigger than the situation itself. By recognizing the role we play in recurring patterns, we move from blame and reactivity toward clarity and emotional responsibility.Most relationship conflicts are not just about what happened. They are about how we interpret what happened. \"Before You Blame\" is a reflective workshop designed to help you look at your assumptions and inner patterns to bring more steadiness to your connections with others.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to expectPattern Recognition: Explore how common emotional triggers and reactions shape your conflicts in marriage, family, or work.Internal Focus: Instead of trying to fix others, we gently shift the focus inward to understand our own responses and ego patterns.Practical Tools: Learn simple and actionable ways to question stressful thoughts and practice perspective shifts using real life scenarios.Safe Exploration: A supportive and non judgmental environment for honest discussion and emotional awareness. This is a space for learning and not a lecture or therapy.Details\ud83d\uddd3\ufe0f Date: 5th April (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Kanchanjunga Towers, Sector 56\ud83c\udf9f\ufe0f Fee: \u20b9900 (Introductory offer; Original price \u20b91100)",
-    "startDate": "2026-04-05T11:30:00+05:30",
-    "endDate": "2026-04-05T13:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "A-BLOCK, KANCHANJUNGA APARTMENT, G.H.18, near Post Office, Sector 56, Gurugram, Haryana 122011, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.42299410000000000000",
-        "longitude": "77.10300720000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "900.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/before-you-blame",
-    "keywords": [
-      "Wellness",
-      "Workshop",
       "URBANAUT"
     ]
   },
