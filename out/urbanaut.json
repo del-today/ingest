@@ -1,6 +1,42 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Cake Painting Experience",
+    "description": "A pre-baked bento cake, buttercream, colours & tools ready for youA fun, easy workshop Perfect for beginnersA slow, sensory experience designed to help you unwind",
+    "startDate": "2026-04-11T12:00:00+05:30",
+    "endDate": "2026-04-11T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Golf Course Rd, Sector 43, Gurugram, Haryana, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.45593460000000000000",
+        "longitude": "77.09720840000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Vamoro",
+      "url": "https://urbanaut.app/partner/vamoro"
+    },
+    "url": "https://urbanaut.app/spot/cake-painting-experience",
+    "keywords": [
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Journey Of Hearts - Delhi Open Mic",
     "description": "Journey of Hearts \u2013 Delhi Open Mic | Likhon Dil SeSome stories don\u2019t need perfection.They just need a voice.Journey of Hearts is not just an open mic \u2014 it\u2019s a space where emotions spill without filters, where broken sentences are still beautiful, and where silence is just as powerful as words.Hosted by Likhon Dil Se, this evening is for the ones who have loved deeply, lost quietly, healed slowly, and are still figuring it all out.Whether you\u2019re a poet, storyteller, musician, or just someone who feels too much \u2014 this stage is yours.No judgments.No pretence.Just raw, honest expression.Come as you are.Leave a little lighter.",
