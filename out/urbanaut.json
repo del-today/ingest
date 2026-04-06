@@ -2,6 +2,81 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Journey Of Hearts - Delhi Open Mic",
+    "description": "Journey of Hearts \u2013 Delhi Open Mic | Likhon Dil SeSome stories don\u2019t need perfection.They just need a voice.Journey of Hearts is not just an open mic \u2014 it\u2019s a space where emotions spill without filters, where broken sentences are still beautiful, and where silence is just as powerful as words.Hosted by Likhon Dil Se, this evening is for the ones who have loved deeply, lost quietly, healed slowly, and are still figuring it all out.Whether you\u2019re a poet, storyteller, musician, or just someone who feels too much \u2014 this stage is yours.No judgments.No pretence.Just raw, honest expression.Come as you are.Leave a little lighter.",
+    "startDate": "2026-04-19T16:00:00+05:30",
+    "endDate": "2026-04-19T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "C-110, near Sapna Cinema Road, beside Janta Bakery, Dayanand Colony, C- Block, Lajpat Nagar 4, Redlight, New Delhi, Delhi 110024, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.56062630000000000000",
+        "longitude": "77.24616180000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "249.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "LIKHON DIL SE",
+      "url": "https://urbanaut.app/partner/likhondilse"
+    },
+    "url": "https://urbanaut.app/spot/journey-of-hearts-delhi-open-mic-12194",
+    "keywords": [
+      "Leisure",
+      "Live GIG",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Sodhilecious Base Kitchen Visit",
+    "description": "Step into the world of Sodhilecious and discover what makes us special. Our guided factory tour gives you a closer look at how our products are thoughtfully crafted, combining quality ingredients with careful processes. Along the way, you\u2019ll get to sample products as they\u2019re being made\u2014fresh, authentic, and straight from our kitchen to you.",
+    "startDate": "2026-04-11T10:30:00+05:30",
+    "endDate": "2026-04-11T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "C277+MWG, Begumpur Khatola, Sector 74, Gurugram, Haryana 122101, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41419400000000000000",
+        "longitude": "77.01483259999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "118.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sodhilecious",
+      "url": "https://urbanaut.app/partner/sodhilecious"
+    },
+    "url": "https://urbanaut.app/spot/sodhilecious-base-kitchen-visit",
+    "keywords": [
+      "Food & drink",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Ek Thi Bani Thani",
     "description": "Ek Thi Bani Thani is a captivating theatrical experience that brings to life a timeless tale of love, devotion, and artistic brilliance from the royal court of Kishangarh. Through evocative storytelling, poetry, and music, the performance explores the deep bond between muse and artist, immortalized in one of India\u2019s most iconic paintings. Set against the intimate backdrop of Kathika Haveli, the evening promises a rich blend of history, bhakti, and visual artistry. Join us for an immersive cultural journey where tradition and emotion come alive on stage. light-hearted humour that promises to leave you smiling throughout.What makes this experience truly unforgettable is its setting\u2014a 150-year-old Heritage Haveli, nestled in the heart of Old Delhi. The charm of the historic backdrop adds a magical touch to this delightfully hilarious performance, making it more than just a play\u2014it\u2019s an immersive cultural experience.Come, be a part of an afternoon filled with laughter, nostalgia and theatre at its finest.",
     "startDate": "2026-04-19T15:30:00+05:30",
@@ -269,7 +344,7 @@
     "@type": "FoodEvent",
     "name": "Spring Flowers and Nibbles Supper",
     "description": "Spring Flowers and Nibbles at V\u2019s Supper StoriesEase into a slow spring afternoon with a gathering designed around light bites, fresh flavours, and a touch of creativity.Hosted in an intimate home setting in Saket, this experience brings together a curated menu of seasonal nibbles \u2014 from avocado toast done our way to grape and burrata crostini, marinated grapes, and other thoughtfully composed small plates. The food is designed for grazing, encouraging you to linger, sip, and settle into the rhythm of the afternoon.Adding to the experience is a DIY flower bar, where guests can create their own spring arrangement \u2014 an opportunity to engage with textures, colours, and the quiet joy of making something by hand.This is not a formal sit-down meal, but a relaxed, sensory experience where food, flowers, and conversation come together.At V\u2019s Supper Stories, the focus goes beyond just the food. It\u2019s about creating a space where strangers become familiar, conversations flow easily, and the table feels like something you don\u2019t want to leave.Date: 11th April/12th April Time: 3:30pm - 6pm Location: Saket, New Delhi (exact address shared 24 hours prior)Price: \u20b93,000 per personSeats are limited to keep the experience intimate.",
-    "startDate": "2026-04-11T15:30:00+05:30",
+    "startDate": "2026-04-12T15:30:00+05:30",
     "endDate": "2026-04-12T18:00:00+05:30",
     "location": {
       "@type": "Place",
@@ -418,7 +493,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Artisanal Sourdough Bread Workshop",
-    "description": "Learn how to bake an artisan loaf real bread made the old-fashioned way, with just flour, water, and salt! No prior baking or cooking experience required. This is a hands-on class for those seriously interested in the sourdough baking process. Under Anita's guidance, each participant will work independently to make their loaf from start to finish. At the end of class you will go home with the confidence to start baking sourdough bread in your home kitchen. The session also includes a session on Sourdough Focaccia.250+ workshops and counting! Anita is a practicing Landscape Architect who enjoys cooking with seasonal ingredients. Like-minded people join her in the kitchen on weekends to cook and eat. She has been baking sourdough breads at home for over 15 years using local flours and her lively wild yeast starter. Come for the Bread, stay for the food at the table.SD Focaccia: 10:00-11:30amSD Loaf: 11:15am-4:00pm",
+    "description": "Learn how to bake an artisan loaf real bread made the old-fashioned way, with just flour, water, and salt! No prior baking or cooking experience required. This is a hands-on class for those seriously interested in the sourdough baking process. Under Anita's guidance, each participant will work independently to make their loaf from start to finish. At the end of class you will go home with the confidence to start baking sourdough bread in your home kitchen. The class also includes a session on Sourdough Focaccia.250+ workshops and counting! Anita is a practicing Landscape Architect who enjoys cooking with seasonal ingredients. Like-minded people join her in the kitchen on weekends to cook and eat. She has been baking sourdough breads at home for over 15 years using local flours and her lively wild yeast starter. Come for the Bread, stay for the food at the table.SD Focaccia: 10:00-11:30amSD Loaf: 11:15am-4:00pm",
     "startDate": "2026-04-11T10:00:00+05:30",
     "endDate": "2026-04-11T16:00:00+05:30",
     "location": {
