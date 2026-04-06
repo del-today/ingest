@@ -1,6 +1,42 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "#25 For Your Own Safety Only: Please Surveil Yours",
+    "description": "#lecture25 #LectureoverdrinksWhat if the thing that makes you feel safe is also quietly watching you?We live in cities layered with cameras, apps, and invisible data trails. From CCTV networks to location tracking, from call detail records to \u201csafety\u201d features built into everyday tech, surveillance is no longer something distant or exceptional, it\u2019s ambient. Normal. Even comforting. But who defines safety, and at what cost?In For Your Own Safety Only: Please surveil yourself!, this session unpacks how ideas of safety, especially around women and children, draw us deeper into systems of constant monitoring. It asks a sharper question beneath the surface: how do these systems turn us into willing participants in our own surveillance, feeding a rapidly expanding data economy powersed by AI? And what happens when safety itself becomes a lifestyle, something we consume through products, platforms, and everyday choices?About the SpeakerDr Shivangi Narayan is a sociologist, writer, and researcher working at the intersection of technology, society, and security in India. She teaches Sociology at the Thapar School of Liberal Arts and Sciences, Patiala. Her work has closely examined algorithmic governance and policing cultures, particularly in Delhi.She is the author of Predictive Policing and the Construction of the Criminal \u2013 An Ethnographic Study of Delhi Police (Palgrave Macmillan, 2023), and her research on surveillance and urban space has been recognized with the Surveillance Studies Network Early Career Researcher Award. Her work brings together on-ground ethnography, critical theory, and real-world implications of living in datafied cities.Book now & develop your own pint of view! \ud83c\udf7b\ud83d\udccc Note: Alcohol will be served only to guests aged 25 and above. Non-alcoholic options will be available. Attendance implies consent to being filmed for event documentation.",
+    "startDate": "2026-04-11T16:00:00+05:30",
+    "endDate": "2026-04-11T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "D Block, D12, Market, above Bank Of India, Vasant Vihar, New Delhi, Delhi 110057, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.56148770000000000000",
+        "longitude": "77.15542750000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "799.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Pint of View Delhi NCR",
+      "url": "https://urbanaut.app/partner/pint-of-view-delhi-ncr"
+    },
+    "url": "https://urbanaut.app/spot/25-for-your-own-safety-only-please-surveil-yours",
+    "keywords": [
+      "Live GIG",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Cake Painting Experience",
     "description": "A pre-baked bento cake, buttercream, colours & tools ready for youA fun, easy workshop Perfect for beginnersA slow, sensory experience designed to help you unwind",
@@ -970,7 +1006,7 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "#25 Martian Tales From a Former NASA Engineer",
+    "name": "#26 Martian Tales From a Former NASA Engineer",
     "description": "#lecture25We\u2019re bringing you Nimisha Mittal, a veteran space systems engineer with over 15 years of experience at NASA\u2019s Jet Propulsion Laboratory (JPL). She led operations and testing for some of the world\u2019s most ambitious robotic missions including the Cassini mission at Saturn, three of NASA's five Mars rovers, the Insight Mars lander, and most recently the NASA-ISRO SAR mission, NISAR. After a career of exploring the solar system, she's just completed her own mission of relocating to India. With engineering degrees from UT Austin and Stanford, she's now turning her attention from exploring other worlds to helping build the future of the Indian space industry.Her talk, Martian Tales from a Former NASA Engineer, dives into the thrill of driving robots across another planet and the bigger question of why Mars captivates us so deeply. Is it the search for life, the dream of a second home, or something even more profound? With insider stories from her time on the Mars mission, she takes us through what a day on the Red Planet really looks like, the challenges of remote space exploration, and even what it takes to earn a Martian Driver\u2019s License.Come find out, and bring your questions \u2014 from whether humans can truly settle on Mars to what snacks power a NASA engineer through a 12-hour shift.All of this, over beer or mocktail at The Piano Man, Eldeco Centre! \ud83c\udf7bAbout the LecturerNimisha Mittal is a veteran space systems engineer with over 15 years of experience at NASA\u2019s Jet Propulsion Laboratory (JPL), where she led operations and testing for some of the world\u2019s most ambitious robotic missions including the Cassini mission at Saturn, three of NASA's five Mars rovers, the Insight Mars lander, and most recently the NASA-ISRO SAR mission NISAR. After a career of exploring the solar system, she's just completed her own mission of relocating to India. With engineering degrees from UT Austin and Stanford, she's now turning her attention from exploring other worlds to helping build the future of the Indian space industry.Book now & develop your own pint of view! \ud83c\udf7b\ud83d\udccc Note: Alcohol will be served only to guests aged 25 and above. Non-alcoholic options will be available. Attendance implies consent to being filmed for event documentation.",
     "startDate": "2026-04-18T16:00:00+05:30",
     "endDate": "2026-04-18T18:00:00+05:30",
@@ -988,7 +1024,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "999.00",
+      "price": "1399.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
