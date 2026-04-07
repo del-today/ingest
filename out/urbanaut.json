@@ -1,6 +1,44 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "A summer table from Odisha! - Pakhala Pop Up",
+    "description": "Pakhala Pop-Up: A Summer Table from OdishaA Rosei Ghara x Kartik\u2019s Kitchen CollaborationWe bring to the table a ritual from coastal Odisha \u2014 a meal designed for summer.Pakhala is not just fermented rice. It is comfort, cooling, seasonal wisdom, and memory served in a bowl.On the 26th of April, from 12 pm onwards, Rosei Ghara, in collaboration with Kartik\u2019s Kitchen, invites you to experience an Odia summer table \u2014 thoughtfully curated, slow, and rooted in tradition.What to Expect:At the centre sits Pakhala \u2014 lightly fermented rice, cooling and probiotic-rich \u2014 accompanied by an abundant spread of classic summer sides. Expect crisp fries, smoky mash, leafy greens, lentil badis, seasonal vegetables, and carefully spiced accompaniments \u2014 each dish balancing texture, heat, tang, and crunch.Why It\u2019s Special:\u2022 A rare opportunity to experience Odisha\u2019s iconic summer meal in Gurgaon\u2022 A collaboration between two kitchens that celebrate regional Indian flavours\u2022 Limited seating to preserve the intimacy of the table\u2022 Hosted in K-38 Studios, DLF PHASE I, Gurgaon\u2022 A slow, immersive lunch designed around seasonality and traditionPakhala is typically eaten for lunch in Odia homes \u2014 and we invite you to experience it exactly as it is meant to be enjoyed: unhurried, generous, and shared.\ud83d\udccd Venue: K-38 Studios, Gurgaon\ud83d\uddd3\ufe0f Date : 26th April\ud83d\udd5b Time: 12 pm onwards\u2728 Limited seats | Community dining experienceCome curious. Come hungry.Leave with a new understanding of how Odisha does summer.",
+    "startDate": "2026-04-26T12:00:00+05:30",
+    "endDate": "2026-04-26T14:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "A 26/13, A Block, DLF Phase 1, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.47312200000000000000",
+        "longitude": "77.09348580000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2799.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Rosei Ghara",
+      "url": "https://urbanaut.app/partner/roseighara"
+    },
+    "url": "https://urbanaut.app/spot/asummertablefromodisha",
+    "keywords": [
+      "Premium",
+      "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "#25 For Your Own Safety Only: Please Surveil Yours",
     "description": "#lecture25 #LectureoverdrinksWhat if the thing that makes you feel safe is also quietly watching you?We live in cities layered with cameras, apps, and invisible data trails. From CCTV networks to location tracking, from call detail records to \u201csafety\u201d features built into everyday tech, surveillance is no longer something distant or exceptional, it\u2019s ambient. Normal. Even comforting. But who defines safety, and at what cost?In For Your Own Safety Only: Please surveil yourself!, this session unpacks how ideas of safety, especially around women and children, draw us deeper into systems of constant monitoring. It asks a sharper question beneath the surface: how do these systems turn us into willing participants in our own surveillance, feeding a rapidly expanding data economy powersed by AI? And what happens when safety itself becomes a lifestyle, something we consume through products, platforms, and everyday choices?About the SpeakerDr Shivangi Narayan is a sociologist, writer, and researcher working at the intersection of technology, society, and security in India. She teaches Sociology at the Thapar School of Liberal Arts and Sciences, Patiala. Her work has closely examined algorithmic governance and policing cultures, particularly in Delhi.She is the author of Predictive Policing and the Construction of the Criminal \u2013 An Ethnographic Study of Delhi Police (Palgrave Macmillan, 2023), and her research on surveillance and urban space has been recognized with the Surveillance Studies Network Early Career Researcher Award. Her work brings together on-ground ethnography, critical theory, and real-world implications of living in datafied cities.Book now & develop your own pint of view! \ud83c\udf7b\ud83d\udccc Note: Alcohol will be served only to guests aged 25 and above. Non-alcoholic options will be available. Attendance implies consent to being filmed for event documentation.",
@@ -143,44 +181,6 @@
     "keywords": [
       "Food & drink",
       "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Ek Thi Bani Thani",
-    "description": "Ek Thi Bani Thani is a captivating theatrical experience that brings to life a timeless tale of love, devotion, and artistic brilliance from the royal court of Kishangarh. Through evocative storytelling, poetry, and music, the performance explores the deep bond between muse and artist, immortalized in one of India\u2019s most iconic paintings. Set against the intimate backdrop of Kathika Haveli, the evening promises a rich blend of history, bhakti, and visual artistry. Join us for an immersive cultural journey where tradition and emotion come alive on stage. light-hearted humour that promises to leave you smiling throughout.What makes this experience truly unforgettable is its setting\u2014a 150-year-old Heritage Haveli, nestled in the heart of Old Delhi. The charm of the historic backdrop adds a magical touch to this delightfully hilarious performance, making it more than just a play\u2014it\u2019s an immersive cultural experience.Come, be a part of an afternoon filled with laughter, nostalgia and theatre at its finest.",
-    "startDate": "2026-04-19T15:30:00+05:30",
-    "endDate": "2026-04-19T17:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.64610280000000000000",
-        "longitude": "77.22736410000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kathika Cultural Centre and Museum",
-      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
-    },
-    "url": "https://urbanaut.app/spot/ek-thi-bani-thani",
-    "keywords": [
-      "Leisure",
-      "History & heritage",
-      "Art & culture",
       "URBANAUT"
     ]
   },
