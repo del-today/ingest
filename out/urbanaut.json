@@ -2,6 +2,196 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
+    "name": "Aangan Edit 2 - Jimmno",
+    "description": "Aangan hosted by Jimmno, an intimate,\u00a0sit-down dining experience rooted in nostalgia, culture, and community.Aangan\u00a0is our attempt to revive a forgotten dining era when people gathered once a day around a shared table, exchanged stories, and connected over thoughtfully prepared food. It\u2019s not just an event, but a slow, immersive experience designed for a highly curated audience.",
+    "startDate": "2026-04-18T19:00:00+05:30",
+    "endDate": "2026-04-18T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "F-86, Radhey Mohan Dr, Fatehpur Beri, New Delhi, delhi, Delhi 110074, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46119180000000000000",
+        "longitude": "77.17071080000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Jimmno",
+      "url": "https://urbanaut.app/partner/100peoplesupper"
+    },
+    "url": "https://urbanaut.app/spot/aangan-edit-3-jimmno",
+    "keywords": [
+      "Live GIG",
+      "Premium",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Morning Table: A Sunday Breakfast Gathering",
+    "description": "The Brine Club is our way of bringing people together over food that\u2019s meant to be eaten slowly \u2014 and building a community of like-minded people around the table.Every table is different, every menu changes \u2014 because I like letting the day decide where things go.Most of our gatherings are sit-down.The Morning Table is a Sunday breakfast brunch hosted at our home in Gurgaon. ( Exact location to be shared 24 hours before the event to maintain privacy)We\u2019re putting together a menu of breakfast dishes from different parts of the world \u2014 the kind you usually only see online or in other cities. Think London\u2019s viral honey caramel butter toast, fried chicken & waffles, and our own slightly indulgent mango brioche toast, along with a few other plates.One beverage of your choice is included. If you feel like another round, additional drinks can be ordered during the brunch on an \u00e0 la carte basis.Everything will be served family-style, so the table eats together, passes plates around.The full menu is in the gallery.You\u2019ll be sharing the table with 10 people \u2014 some strangers, some soon-to-be friends. If you\u2019re someone who enjoys meeting new, interesting people over really good food, this might be your kind of Sunday morning.It\u2019s relaxed, a little indulgent, and not the kind of breakfast you usually find around the city.",
+    "startDate": "2026-04-26T12:00:00+05:30",
+    "endDate": "2026-04-26T14:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gurugram, Haryana, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.45949650000000000000",
+        "longitude": "77.02663830000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2980.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Brine Club",
+      "url": "https://urbanaut.app/partner/thebrineclub"
+    },
+    "url": "https://urbanaut.app/spot/the-morning-table-a-sunday-breakfast-gathering",
+    "keywords": [
+      "Premium",
+      "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Paint Party - Sip & Paint Sundowner \ud83c\udfa8\ud83c\udf05",
+    "description": "Sip & Paint Sundowner \ud83c\udfa8\ud83c\udf05 (11 April 2026 & 18 April 2026 | 4:30 PM onwards | Gurgaon)Not every plan needs loud music and crowded spaces.Some evenings are meant to be slower, softer\u2026 and more real.The Paint Party by HumSupper is an intimate, curated experience designed for people who want something different from the usual Gurgaon scene.As the sun sets, step into a cozy space where you\u2019ll sip, paint, and connect, no pressure, no expectations. Whether you\u2019re an artist or someone who hasn\u2019t touched a brush in years, this is not about perfection. It\u2019s about expression!Beyond the canvas, the evening unfolds into a thoughtfully curated supper and interactive moments that make it easy to connect with strangers, and maybe leave with stories, not just memories. This isn\u2019t just a workshop. It\u2019s a feeling!What to Expect:\ud83c\udfa8 Guided painting session (no prior experience needed)\ud83c\udf77 Drinks to sip as you create\ud83c\udf74 A curated supper with a wholesome meal\ud83c\udfb6 Music + open-air sunset setting\ud83e\udd1d Fun games & activities for bonding\ud83d\uddbc Take-home canvasThis is not a restaurant reservation or a ticketed event, it\u2019s a thoughtfully curated supper built around good food, gentle conversations, and people who enjoy being present at the table.Each gathering is small, personal, and carefully planned. The menu is crafted with care, the seating is considered, and the experience is designed to feel warm, relaxed, and unhurried!",
+    "startDate": "2026-04-11T16:30:00+05:30",
+    "endDate": "2026-04-18T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gurugram, Haryana, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.45949650000000000000",
+        "longitude": "77.02663830000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "HumSupper",
+      "url": "https://urbanaut.app/partner/humsupper"
+    },
+    "url": "https://urbanaut.app/spot/paint-party-sip-paint-sundowner",
+    "keywords": [
+      "Leisure",
+      "Food & drink",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Tote Bag Painting Workshop",
+    "description": "Join us for a fun and relaxing session where you\u2019ll explore colours, patterns, and techniques to transform a simple tote into a personalised piece of art. Whether you\u2019re a beginner or someone who loves painting, this workshop is all about self-expression and creativity- no prior experience needed!We\u2019ll provide all the materials, including tote bags, paints, brushes, and guidance to help you bring your ideas to life. Just come with your imagination and leave with a handcrafted tote you can proudly carry everywhere.\u2728 What to expect:\u2013 Step-by-step guidance and creative freedom\u2013 All materials provided\u2013 A cosy, inspiring atmosphere\u2013 Your very own hand-painted tote bag to take home. Come solo or bring a friend - either way, you\u2019re in for a colourful, mindful experience.",
+    "startDate": "2026-04-12T17:00:00+05:30",
+    "endDate": "2026-04-12T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "First Floor, Grand View High Street, Golf Course Ext Rd, Sector 58, Gurugram, Haryana 122098, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41623070000000000000",
+        "longitude": "77.10243700000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Greenr",
+      "url": "https://urbanaut.app/partner/greenr"
+    },
+    "url": "https://urbanaut.app/spot/tote-bag-painting-workshop",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "Pop-up Event",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "A summer table from Odisha! - Pakhala Pop Up",
+    "description": "Pakhala Pop-Up: A Summer Table from OdishaA Rosei Ghara x Kartik\u2019s Kitchen CollaborationWe bring to the table a ritual from coastal Odisha \u2014 a meal designed for summer.Pakhala is not just fermented rice. It is comfort, cooling, seasonal wisdom, and memory served in a bowl.On the 19th of April, from 12 pm onwards, Rosei Ghara, in collaboration with Kartik\u2019s Kitchen, invites you to experience an Odia summer table \u2014 thoughtfully curated, slow, and rooted in tradition.What to Expect:At the centre sits Pakhala \u2014 lightly fermented rice, cooling and probiotic-rich \u2014 accompanied by an abundant spread of classic summer sides. Expect crisp fries, smoky mash, leafy greens, lentil badis, seasonal vegetables, and carefully spiced accompaniments \u2014 each dish balancing texture, heat, tang, and crunch.Why It\u2019s Special:\u2022 A rare opportunity to experience Odisha\u2019s iconic summer meal in Delhi\u2022 A collaboration between two kitchens that celebrate regional Indian flavours\u2022 Limited seating to preserve the intimacy of the table\u2022 Hosted in a private residence in Chattarpur\u2022 A slow, immersive lunch designed around seasonality and traditionPakhala is typically eaten for lunch in Odia homes \u2014 and we invite you to experience it exactly as it is meant to be enjoyed: unhurried, generous, and shared.\ud83d\udccd Venue: Chattarpur, Delhi\ud83d\uddd3\ufe0f Date : 19h April\ud83d\udd5b Time: 12 pm onwards\u2728 Limited seats | Community dining experienceCome curious. Come hungry.Leave with a new understanding of how Odisha does summer.",
+    "startDate": "2026-04-19T12:00:00+05:30",
+    "endDate": "2026-04-19T14:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "C-Block, Chhattarpur Enclave, Phase-2, C-38, Street No. 10, DR Ambedkar Colony, Chhatarpur Enclave Phase 2, Mittal Garden, Maidan Garhi, New Delhi, Delhi 110074, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.50431950000000000000",
+        "longitude": "77.19077190000002000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2799.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Rosei Ghara",
+      "url": "https://urbanaut.app/partner/roseighara"
+    },
+    "url": "https://urbanaut.app/spot/summertablefromodisha",
+    "keywords": [
+      "Premium",
+      "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
     "name": "A summer table from Odisha! - Pakhala Pop Up",
     "description": "Pakhala Pop-Up: A Summer Table from OdishaA Rosei Ghara x Kartik\u2019s Kitchen CollaborationWe bring to the table a ritual from coastal Odisha \u2014 a meal designed for summer.Pakhala is not just fermented rice. It is comfort, cooling, seasonal wisdom, and memory served in a bowl.On the 26th of April, from 12 pm onwards, Rosei Ghara, in collaboration with Kartik\u2019s Kitchen, invites you to experience an Odia summer table \u2014 thoughtfully curated, slow, and rooted in tradition.What to Expect:At the centre sits Pakhala \u2014 lightly fermented rice, cooling and probiotic-rich \u2014 accompanied by an abundant spread of classic summer sides. Expect crisp fries, smoky mash, leafy greens, lentil badis, seasonal vegetables, and carefully spiced accompaniments \u2014 each dish balancing texture, heat, tang, and crunch.Why It\u2019s Special:\u2022 A rare opportunity to experience Odisha\u2019s iconic summer meal in Gurgaon\u2022 A collaboration between two kitchens that celebrate regional Indian flavours\u2022 Limited seating to preserve the intimacy of the table\u2022 Hosted in K-38 Studios, DLF PHASE I, Gurgaon\u2022 A slow, immersive lunch designed around seasonality and traditionPakhala is typically eaten for lunch in Odia homes \u2014 and we invite you to experience it exactly as it is meant to be enjoyed: unhurried, generous, and shared.\ud83d\udccd Venue: K-38 Studios, Gurgaon\ud83d\uddd3\ufe0f Date : 26th April\ud83d\udd5b Time: 12 pm onwards\u2728 Limited seats | Community dining experienceCome curious. Come hungry.Leave with a new understanding of how Odisha does summer.",
     "startDate": "2026-04-26T12:00:00+05:30",
@@ -40,7 +230,7 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "#25 For Your Own Safety Only: Please Surveil Yours",
+    "name": "#lecture25: For Your Own Safety Only",
     "description": "#lecture25 #LectureoverdrinksWhat if the thing that makes you feel safe is also quietly watching you?We live in cities layered with cameras, apps, and invisible data trails. From CCTV networks to location tracking, from call detail records to \u201csafety\u201d features built into everyday tech, surveillance is no longer something distant or exceptional, it\u2019s ambient. Normal. Even comforting. But who defines safety, and at what cost?In For Your Own Safety Only: Please surveil yourself!, this session unpacks how ideas of safety, especially around women and children, draw us deeper into systems of constant monitoring. It asks a sharper question beneath the surface: how do these systems turn us into willing participants in our own surveillance, feeding a rapidly expanding data economy powersed by AI? And what happens when safety itself becomes a lifestyle, something we consume through products, platforms, and everyday choices?About the SpeakerDr Shivangi Narayan is a sociologist, writer, and researcher working at the intersection of technology, society, and security in India. She teaches Sociology at the Thapar School of Liberal Arts and Sciences, Patiala. Her work has closely examined algorithmic governance and policing cultures, particularly in Delhi.She is the author of Predictive Policing and the Construction of the Criminal \u2013 An Ethnographic Study of Delhi Police (Palgrave Macmillan, 2023), and her research on surveillance and urban space has been recognized with the Surveillance Studies Network Early Career Researcher Award. Her work brings together on-ground ethnography, critical theory, and real-world implications of living in datafied cities.Book now & develop your own pint of view! \ud83c\udf7b\ud83d\udccc Note: Alcohol will be served only to guests aged 25 and above. Non-alcoholic options will be available. Attendance implies consent to being filmed for event documentation.",
     "startDate": "2026-04-11T16:00:00+05:30",
     "endDate": "2026-04-11T18:00:00+05:30",
@@ -565,7 +755,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Artisanal Sourdough Bread Workshop",
-    "description": "Learn how to bake an artisan loaf real bread made the old-fashioned way, with just flour, water, and salt! No prior baking or cooking experience required. This is a hands-on class for those seriously interested in the sourdough baking process. Under Anita's guidance, each participant will work independently to make their loaf from start to finish. At the end of class you will go home with the confidence to start baking sourdough bread in your home kitchen. The class also includes a session on Sourdough Focaccia.250+ workshops and counting! Anita is a practicing Landscape Architect who enjoys cooking with seasonal ingredients. Like-minded people join her in the kitchen on weekends to cook and eat. She has been baking sourdough breads at home for over 15 years using local flours and her lively wild yeast starter. Come for the Bread, stay for the food at the table.SD Focaccia: 10:00-11:30amSD Loaf: 11:15am-4:00pm",
+    "description": "Learn how to bake an artisan loaf - real bread made the old-fashioned way, with just flour, water, and salt! No prior baking or cooking experience required. This is a hands-on class for those seriously interested in the sourdough baking process. Under Anita's guidance, each participant will work independently to make their loaf from start to finish. At the end of class you will go home with the confidence to start baking sourdough bread in your home kitchen. The class also includes a session on Sourdough Focaccia.250+ workshops and counting! Anita is a practicing Landscape Architect who enjoys cooking with seasonal ingredients. Like-minded people join her in the kitchen on weekends to cook and eat. She has been baking sourdough breads at home for over 15 years using local flours and her lively wild yeast starter. Come for the Bread, stay for the food.SD Focaccia: 10:00-11:30amSD Loaf: 11:15am-4:00pm",
     "startDate": "2026-04-11T10:00:00+05:30",
     "endDate": "2026-04-11T16:00:00+05:30",
     "location": {
@@ -579,7 +769,7 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
+    "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
       "price": "2200.00",
@@ -593,7 +783,7 @@
     },
     "url": "https://urbanaut.app/spot/artisanal-sourdough-bread-workshop",
     "keywords": [
-      "Wellness",
+      "Premium",
       "Workshop",
       "Food & drink",
       "URBANAUT"
