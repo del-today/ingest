@@ -25,6 +25,30 @@
    },
    {
       "@context": "https://schema.org",
+      "@id": "cksl:1bm9ptv8jm0mfv2k9vscfqf87c",
+      "@type": "Event",
+      "description": "No further details available, please check with CKSL",
+      "endDate": "2026-04-24T19:50:00+05:30",
+      "keywords": [
+         "CKSL"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "No. 24, 1st floor, 3rd Main Rd, K.R.Colony, Domlur I Stage, Bengaluru, Karnataka 560071",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9577059",
+            "longitude": "77.6327838"
+         },
+         "isicV4": "8549",
+         "name": "Choe Khor Sum Ling Centre, Ashwini"
+      },
+      "name": "to be decided",
+      "startDate": "2026-04-24T19:30:00+05:30",
+      "url": "https://cksl.in/?eid=1bm9ptv8jm0mfv2k9vscfqf87c#section3"
+   },
+   {
+      "@context": "https://schema.org",
       "@id": "cksl:4098ubum9lrkoi52hihcck347s",
       "@type": "Event",
       "description": "<p><strong>Acharya Shantideva’s A Guide to the Bodhisattva’s Way of Life</strong><br></p><p>Delve into Shantideva’s masterpiece on the bodhisattva path, inspiring ethical living, patience, and bodhicitta.This online teaching illuminates the way to selfless service and ultimate enlightenment for all beings.<br></p><p>Zoom: <a href=\"https://us02web.zoom.us/j/89800597231?pwd=SBVXzqD61bJIWXoTdW5oT6tbVUbJSx.1\" target=\"_blank\"><u>https://us02web.zoom.us/j/89800597231?pwd=SBVXzqD61bJIWXoTdW5oT6tbVUbJSx.1</u></a></p>",
@@ -70,30 +94,6 @@
       "name": "WoSW - Session 19 - Online - Venerble Gyalten Lekden",
       "startDate": "2026-04-25T17:00:00+05:30",
       "url": "https://cksl.in/?eid=0ad3akh4be7nsdftuvqbv83s1g#section3"
-   },
-   {
-      "@context": "https://schema.org",
-      "@id": "cksl:1bm9ptv8jm0mfv2k9vscfqf87c",
-      "@type": "Event",
-      "description": "No further details available, please check with CKSL",
-      "endDate": "2026-05-01T19:50:00+05:30",
-      "keywords": [
-         "CKSL"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "No. 24, 1st floor, 3rd Main Rd, K.R.Colony, Domlur I Stage, Bengaluru, Karnataka 560071",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9577059",
-            "longitude": "77.6327838"
-         },
-         "isicV4": "8549",
-         "name": "Choe Khor Sum Ling Centre, Ashwini"
-      },
-      "name": "to be decided",
-      "startDate": "2026-05-01T19:30:00+05:30",
-      "url": "https://cksl.in/?eid=1bm9ptv8jm0mfv2k9vscfqf87c#section3"
    },
    {
       "@context": "https://schema.org",
@@ -148,7 +148,7 @@
       "@id": "cksl:1bm9ptv8jm0mfv2k9vscfqf87c",
       "@type": "Event",
       "description": "No further details available, please check with CKSL",
-      "endDate": "2026-04-24T19:50:00+05:30",
+      "endDate": "2026-05-01T19:50:00+05:30",
       "keywords": [
          "CKSL"
       ],
@@ -164,7 +164,7 @@
          "name": "Choe Khor Sum Ling Centre, Ashwini"
       },
       "name": "to be decided",
-      "startDate": "2026-04-24T19:30:00+05:30",
+      "startDate": "2026-05-01T19:30:00+05:30",
       "url": "https://cksl.in/?eid=1bm9ptv8jm0mfv2k9vscfqf87c#section3"
    },
    {
