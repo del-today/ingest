@@ -66,46 +66,6 @@
   },
   {
     "@type": "EducationEvent",
-    "name": "Interior Exterior",
-    "url": "https://www.knma.org/whats-on/workshops/interior-exterior",
-    "startDate": "2026-04-10T10:00:00+05:30",
-    "endDate": "2026-04-11T18:00:00+05:30",
-    "description": "Artist in Me",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "EducationEvent",
-    "name": "Unfurling Faces",
-    "url": "https://www.knma.org/whats-on/workshops/unfurling-faces",
-    "startDate": "2026-04-11T10:00:00+05:30",
-    "endDate": "2026-04-11T10:00:00+05:30",
-    "description": "Saturday Family Workshop",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "EducationEvent",
     "name": "Sign Language & Art: Panel on Intersectional Women",
     "url": "https://www.knma.org/whats-on/talks/sign-language-art-panel-on-intersectional-women",
     "startDate": "2026-04-18T10:00:00+05:30",
@@ -191,6 +151,66 @@
     "startDate": "2026-04-19T10:00:00+05:30",
     "endDate": "2026-04-19T10:00:00+05:30",
     "description": "WeekendsatKNMA",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Splendour",
+    "url": "https://www.knma.org/whats-on/events/splendour",
+    "startDate": "2026-04-25T10:00:00+05:30",
+    "endDate": "2026-04-25T10:00:00+05:30",
+    "description": "WeekendsatKNMA",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Lines, Forms and Balance",
+    "url": "https://www.knma.org/whats-on/workshops/lines-forms-and-balance",
+    "startDate": "2026-04-25T10:00:00+05:30",
+    "endDate": "2026-04-25T10:00:00+05:30",
+    "description": "Artist in Me",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Restricted Palettes II",
+    "url": "https://www.knma.org/whats-on/workshops/restricted-palettes-ii",
+    "startDate": "2026-04-25T10:00:00+05:30",
+    "endDate": "2026-04-25T10:00:00+05:30",
+    "description": "Saturday Family Workshop",
     "location": {
       "@type": "Place",
       "name": "KNMA, New Delhi",

@@ -1,6 +1,44 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Paint Your Favourite Childhood Characters",
+    "description": "Ever noticed how the characters you grew up with never really leave you? They stay tucked somewhere between memory and feeling : familiar, comforting, and a little magical.In this workshop, you\u2019ll be painting your favourite childhood characters and turn them into fridge magnets : not just as fun objects, but as tiny artworks that bring a piece of your childhood into your everyday space.You can also join in as a pair, which means double the fun !! Each of you will paint two characters, creating your own little set of nostalgic magnets together.This workshop is part of Impressions, a buzzing Art event where six artists are coming together to share their art, processes, and stories ; so expect inspiration floating all around you while you draw!Bring a bit of nostalgia, and let\u2019s turn it into something you\u2019ll see, smile at, and keep close.With the energy of an art event around you, this workshop is less about perfection and more about joy, memory, and creating something that feels like you.\ud83c\udfa8 About the WorkshopWhat\u2019s happening?A hands-on session where you\u2019ll paint your favourite characters and turn them into fridge magnets.Why join?Because some memories deserve to live beyond your screen ;right on your fridge.Vibe check:Playful, colourful, nostalgic, and full of feel-good energy. Come alone or come with a friend , nostalgia is more fun when shared.Skills required:None at all. Just bring your love for cartoons and a little curiosity.Materials:All materials will be provided. Each participant will get to paint TWO Fridge magnets!Character references are for inspiration only. You can choose what you'd like to paint from the collection.InstructorChhavi Bhatnagar is an artist whose work feels like a hug from memory. With a background in Architecture and Product Design, she brings an impressionistic and deeply personal approach to her art, drawing from childhood experiences, everyday moments, and the emotional layers of growing up.",
+    "startDate": "2026-04-18T16:00:00+05:30",
+    "endDate": "2026-04-18T17:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "No.1, Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55491700000000000000",
+        "longitude": "77.19554620000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "864.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Studio Chhavi",
+      "url": "https://urbanaut.app/partner/studio-chhavi"
+    },
+    "url": "https://urbanaut.app/spot/paint-your-favourite-childhood-characters",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Correlation Is Not Causation",
     "description": "Join us for a lecture that begins with a deceptively simple question:When two things move together, does one actually cause the other?About the LectureWe live in a world overflowing with data.Patterns are everywhere \u2014 ice cream sales rise, and so do drowning rates. But does one cause the other? Or are we just seeing coincidence dressed up as meaning?This lecture unpacks why economists insist, almost stubbornly, that correlation is not causation \u2014 and why that distinction matters far beyond the classroom.At the heart of economics and public policy lies a deeper question: how do we know if something actually works?The session explores:The difference between correlation and causation, and why it\u2019s easy to confuse the twoHow economists use tools like hypothesis testing and p-values to separate signal from noiseWhat methods like difference-in-differences and regression discontinuity reveal about real-world impactHow policies are evaluated \u2014 from taxes to welfare programs \u2014 to determine whether they truly change outcomesThrough intuitive examples, the lecture moves beyond technical jargon to show how causal thinking shapes decisions that affect everyday life.About the SpeakerParush Arora is an Assistant Professor of Economics at Ashoka University. He completed his PhD in Economics from the University of California Irvine.His research focuses on econometrics, Bayesian inference, and empirical macroeconomics \u2014 fields that sit at the intersection of data, uncertainty, and decision-making. He holds a Bachelor\u2019s degree in Economics from the University of Delhi and a Master\u2019s from the Madras School of Economics.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
