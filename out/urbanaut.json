@@ -2,6 +2,42 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
+    "name": "Correlation Is Not Causation",
+    "description": "Join us for a lecture that begins with a deceptively simple question:When two things move together, does one actually cause the other?About the LectureWe live in a world overflowing with data.Patterns are everywhere \u2014 ice cream sales rise, and so do drowning rates. But does one cause the other? Or are we just seeing coincidence dressed up as meaning?This lecture unpacks why economists insist, almost stubbornly, that correlation is not causation \u2014 and why that distinction matters far beyond the classroom.At the heart of economics and public policy lies a deeper question: how do we know if something actually works?The session explores:The difference between correlation and causation, and why it\u2019s easy to confuse the twoHow economists use tools like hypothesis testing and p-values to separate signal from noiseWhat methods like difference-in-differences and regression discontinuity reveal about real-world impactHow policies are evaluated \u2014 from taxes to welfare programs \u2014 to determine whether they truly change outcomesThrough intuitive examples, the lecture moves beyond technical jargon to show how causal thinking shapes decisions that affect everyday life.About the SpeakerParush Arora is an Assistant Professor of Economics at Ashoka University. He completed his PhD in Economics from the University of California Irvine.His research focuses on econometrics, Bayesian inference, and empirical macroeconomics \u2014 fields that sit at the intersection of data, uncertainty, and decision-making. He holds a Bachelor\u2019s degree in Economics from the University of Delhi and a Master\u2019s from the Madras School of Economics.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-04-25T16:00:00+05:30",
+    "endDate": "2026-04-25T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Siyah Arthouse, 3rd Floor 261, Plot 8, Westend Marg, Saidulajab, Saket, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.51653950000000000000",
+        "longitude": "77.19738550000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/correlation-is-not-causation",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
     "name": "COAST TO COAST - Gruha x The House of Gonsalves",
     "description": "\ud83c\udf3f A Curated Odia x Mangalorean Experience \ud83c\udf3fGruha, a father-daughter Odia supper club, and The House of Gonsalves (HOG), a mother-daughter Mangalorean supper club come together for the very first time in Gurgaon to bring you something deeply personal\u2014a Coast to Coast Lunch, where our homes, cultures, and traditions meet at one table.What began in our kitchens, with recipes passed down through generations, homemade masalas, and stories told over everyday meals, now comes together in a first-of-its-kind collaboration\u2014two families, two coasts, one shared table. Every dish carries a piece of where we come from, the way we\u2019ve grown up eating, and the love with which our families have always fed people.Hosted right here in Gurgaon, this intimate, community-led experiential table is more than just a meal\u2014it\u2019s an invitation into our worlds, shaped by stories, traditions, and home.\u2728 Expect familiar comfort, with unexpected and unique pairings.\ud83d\udcc6 Date: 19th April, Sunday\ud83d\udccd Location: Sector 52, Gurgaon\u23f0 Timing: 1-4 PM\ud83c\udf38 Experience Includes: This is a thoughtfully curated experience\u2014a 4-course meal weaving Odia and Mangalorean cuisines, paired with two beverages, and ending with the comfort of Odia special tea and South Indian filter coffee, just like home.",
     "startDate": "2026-04-19T13:00:00+05:30",
@@ -132,7 +168,7 @@
     "typicalAgeRange": "25+",
     "offers": {
       "@type": "Offer",
-      "price": "370.00",
+      "price": "295.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -1719,7 +1755,7 @@
     "@type": "EducationEvent",
     "name": "The Matcha Circle",
     "description": "Matcha Experience: A Taste of CalmOverviewIt is a guided space to explore how a simple ritual can offer a sense of grounding. We focus on the unique process from leaf to powder and how to find moments of peace in a busy week over a comforting cup.Sometimes we just need a moment to slow down. The Matcha Experience is a quiet invitation to discover the world of high quality matcha. Whether you are already a fan or just curious about the bright green tea, this session is about appreciating the craft and the calm that comes with a perfectly prepared bowl.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to expectGuided Introduction: Learn about the history and the unique process of preparing matcha from leaf to powder.The Ritual: Watch and learn how the tea is whisked to create its signature froth and deep flavor.Tasting Session: Enjoy a premium matcha drink prepared just for you at Cha & Co.Quiet Conversation: A small group setting to talk about finding moments of peace in a busy week over a comforting cup.Details\ud83d\uddd3\ufe0f Date: 10th April (Friday)\u23f0 Time: 5:30 PM\ud83d\udccd Location: Cha & Co, Ireo Grand View High Street\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes a Matcha Drink)",
-    "startDate": "2026-04-09T17:30:00+05:30",
+    "startDate": "2026-04-10T17:30:00+05:30",
     "endDate": "2026-04-10T19:30:00+05:30",
     "location": {
       "@type": "Place",
