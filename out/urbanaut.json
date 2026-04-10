@@ -1,6 +1,44 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "An Evening Together",
+    "description": "Ever walked away from a conversation feeling\u2026 still a little empty?Yeah, us too.That\u2019s exactly why we started The Firgun Collective\u2014a space where you don\u2019t have to perform, impress, or \u201cnetwork.\u201dJust come as you are.We\u2019re gathering a small group (8\u201310 people) to sit, talk, share, and just be.\ud83d\udccd Sunder Nursery\ud83d\uddd3 18th April\u23f0 6\u20137:30 PM\ud83d\udcb8 \u20b9199 per personIf this speaks to you, you already belong here.No pressure. Just presence.\ud83d\udd17 Register through linkhttps://forms.gle/sB1T5ff5rfQP8ePc7",
+    "startDate": "2026-04-18T18:00:00+05:30",
+    "endDate": "2026-04-18T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Sunder Nursery, Nizamuddin E Ln, near Humayun's Tomb, Nizamuddin, National Zoological Park, Nizamuddin West, New Delhi, Delhi 110013, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59568770000000000000",
+        "longitude": "77.24599909999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "199.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Firgun Collective",
+      "url": null
+    },
+    "url": "https://urbanaut.app/spot/an-evening-together",
+    "keywords": [
+      "Leisure",
+      "Responsible",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Paint Your Favourite Childhood Characters",
     "description": "Ever noticed how the characters you grew up with never really leave you? They stay tucked somewhere between memory and feeling : familiar, comforting, and a little magical.In this workshop, you\u2019ll be painting your favourite childhood characters and turn them into fridge magnets : not just as fun objects, but as tiny artworks that bring a piece of your childhood into your everyday space.You can also join in as a pair, which means double the fun !! Each of you will paint two characters, creating your own little set of nostalgic magnets together.This workshop is part of Impressions, a buzzing Art event where six artists are coming together to share their art, processes, and stories ; so expect inspiration floating all around you while you draw!Bring a bit of nostalgia, and let\u2019s turn it into something you\u2019ll see, smile at, and keep close.With the energy of an art event around you, this workshop is less about perfection and more about joy, memory, and creating something that feels like you.\ud83c\udfa8 About the WorkshopWhat\u2019s happening?A hands-on session where you\u2019ll paint your favourite characters and turn them into fridge magnets.Why join?Because some memories deserve to live beyond your screen ;right on your fridge.Vibe check:Playful, colourful, nostalgic, and full of feel-good energy. Come alone or come with a friend , nostalgia is more fun when shared.Skills required:None at all. Just bring your love for cartoons and a little curiosity.Materials:All materials will be provided. Each participant will get to paint TWO Fridge magnets!Character references are for inspiration only. You can choose what you'd like to paint from the collection.InstructorChhavi Bhatnagar is an artist whose work feels like a hug from memory. With a background in Architecture and Product Design, she brings an impressionistic and deeply personal approach to her art, drawing from childhood experiences, everyday moments, and the emotional layers of growing up.",
@@ -468,7 +506,7 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
+    "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
       "price": "2980.00",
