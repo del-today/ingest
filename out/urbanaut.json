@@ -417,7 +417,7 @@
     "@type": "Event",
     "name": "The Thar Experience, Thar E Ishq India Tour 2026",
     "description": "The Thar Experience \u2013 Thar-e-Ishq India Tour 2026Step into an evening of soulful Indian Folk and Sufi music with Thar-e-Ishq - an ensemble of traditional musicians whose roots lie in the rich cultural landscapes of Jaisalmer and the Thar Desert.With powerful vocals and instruments like the dholak, harmonium, sarangi, bhapang, morchang, and kartal, the performance brings alive centuries of musical heritage in a way that feels both intimate and immersive.Set in a traditional floor-seating format with gaddas and cushions, the experience is designed to make you feel close to the music, the artists, and the culture itself. The evening also features curated food stalls and a vibrant ambience that complements the spirit of the performance.Every ticket includes exclusive Thar-e-Ishq merchandise as a keepsake from the night.Please note:Seating is on a first-come, first-served basis (floor seating). Chairs can be arranged on request for elderly guests.Food and beverages will be available for purchase at the venue (cash and digital payments accepted).Parking, drinking water, and accessible restrooms are available.The event is open to all ages (guests under 16 are advised to attend with a guardian).Guests are encouraged to wear Indian attire to enhance the cultural experience (comfortable clothing is also welcome).Be a part of an evening that celebrates music, tradition, and the timeless spirit of the desert.Book your spots soon - tickets are selling fast!",
-    "startDate": "2026-04-10T19:30:00+05:30",
+    "startDate": "2026-04-11T19:30:00+05:30",
     "endDate": "2026-04-11T21:00:00+05:30",
     "location": {
       "@type": "Place",
@@ -785,43 +785,6 @@
       "Leisure",
       "Live GIG",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Sodhilecious Base Kitchen Visit",
-    "description": "Step into the world of Sodhilecious and discover what makes us special. Our guided factory tour gives you a closer look at how our products are thoughtfully crafted, combining quality ingredients with careful processes. Along the way, you\u2019ll get to sample products as they\u2019re being made\u2014fresh, authentic, and straight from our kitchen to you.",
-    "startDate": "2026-04-11T10:30:00+05:30",
-    "endDate": "2026-04-11T12:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "C277+MWG, Begumpur Khatola, Sector 74, Gurugram, Haryana 122101, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.41419400000000000000",
-        "longitude": "77.01483259999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "118.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sodhilecious",
-      "url": "https://urbanaut.app/partner/sodhilecious"
-    },
-    "url": "https://urbanaut.app/spot/sodhilecious-base-kitchen-visit",
-    "keywords": [
-      "Food & drink",
-      "Guided tour",
       "URBANAUT"
     ]
   },
