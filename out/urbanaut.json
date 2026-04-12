@@ -149,44 +149,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Hot Girls Do Pilates",
-    "description": "Let\u2019s make your Sunday morning extra feel-good \ud83d\udc9b\u200bWe\u2019re kicking things off with a guided mat Pilates session, and ending the afternoon the best way possible - gathered around with some chit-chat.\u200bEvent Flow\u200b10:00 AM \u2013 11:00 AM - Guided Mat PilatesA fun, grounding mat Pilates session focused on strength, stretch, and mindful movement - perfect for all levels.\u200b11:00 AM \u2013 11:30 AM \u2013 Chit-chat.\u200bWhat to Bring:\u2022 Comfy workout clothes\u2022 Water bottle\u2022 Great vibes \u2728",
-    "startDate": "2026-04-12T10:00:00+05:30",
-    "endDate": "2026-04-12T11:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "C13 Basement, Geetanjali Enclave, Malviya Nagar, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53037700000000000000",
-        "longitude": "77.20199640000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "700.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/hotgirlsdopilates",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Guided Pickleball | SWAG x Delhi Picklers",
     "description": "Guided Pickleball with SWAG x Delhi Picklers is back!This is a women-only, beginner-friendly pickleball meet-up. The session is guided by a coach.4:50 PM Meet up and Warm up Time5:00 PM Game TimeSee you on court!",
@@ -216,44 +178,6 @@
       "url": "https://urbanaut.app/partner/sweat-like-a-girl"
     },
     "url": "https://urbanaut.app/spot/swagpickleballkhan",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "BADDY WITH BADDIES (Badminton | GK 1)",
-    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.10:50 AM Meet up and Warm up Time11:00 AM Game TimeSee you on court!",
-    "startDate": "2026-04-12T11:00:00+05:30",
-    "endDate": "2026-04-12T12:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Nandi Vithi Rd, N Block, Greater Kailash I, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55579910000000000000",
-        "longitude": "77.23527080000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "295.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swagbadmintongk",
     "keywords": [
       "Leisure",
       "Wellness",
@@ -561,44 +485,6 @@
     "keywords": [
       "Premium",
       "Wellness",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Immersive Yogilates at The Immersion Room",
-    "description": "Yogilates: Earth & Moon \ud83c\udf0d\ud83c\udf19A 2-hour immersive movement experience blending strength, stillness, and flowStep into a thoughtfully designed session that brings together two complementary energies \u2014 Earth and Moon \u2014 to create a deeply balanced and engaging practice. This is not just a workout, but an experience that guides you through grounding strength and calming release in one seamless journey.\ud83c\udf0d What Makes This Experience SpecialTwo energies. One flow.The session is built on a unique concept: one movement, two experiences.You\u2019ll move through each posture twice\u2014First through Yoga (alignment, breath, awareness)Then through Pilates (core engagement, control, strength)This layered approach allows you to experience both depth and intensity without abrupt transitions, creating a flow that feels intuitive, powerful, and meditative at the same time.\ud83c\udf19 The ExperienceEarth (Strength & Stability)Build strength, improve posture, and activate deep core muscles through controlled, intentional movement.Moon (Softness & Release)Slow down with breathwork, gentle transitions, and guided relaxation to calm the nervous system and restore balance.Together, they create a session that is grounding yet light, energising yet calming\u2014perfect for those seeking both physical activation and mental stillness.\u2728 What You Can ExpectA guided, immersive flow combining Yoga + PilatesDeep muscle engagement without high-impact strainImproved flexibility, posture, and body awarenessPartner and group sequences that bring in connection and playfulnessBreathwork and meditation for complete releaseThe session is designed to feel like a continuous journey\u2014from stillness to strength, from effort to ease.",
-    "startDate": "2026-04-12T11:00:00+05:30",
-    "endDate": "2026-04-12T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "E5, Market Rd, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46575680000000000000",
-        "longitude": "77.09909929999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1200.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Immersion Room",
-      "url": "https://urbanaut.app/partner/theimmersionroom"
-    },
-    "url": "https://urbanaut.app/spot/immersive-yogilates-at-the-immersion-room-gurugram",
-    "keywords": [
-      "Premium",
-      "Wellness",
-      "Workshop",
       "URBANAUT"
     ]
   },
@@ -1042,44 +928,6 @@
     "keywords": [
       "History & heritage",
       "Guided tour",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Rangrez Amrita Shergill (A Baithak at Qudsia Bagh)",
-    "description": "Rangrez: Amrita Sher-Gill(A Baithak on her artworks and her life)There are lives that are lived\u2014and then there are lives that blaze.Amrita Sher-Gil lived one such life.Born of Hungarian and Indian roots, her journey between Europe and India shaped not just who she was, but what she painted. Her art and life were deeply intertwined\u2014each canvas echoing her inner world, her questions, and her fierce individuality.Join us for an intimate open-air baithak at Qudsia Bagh, where we explore her life through her artworks and conversations around the woman behind the canvas.(Earlier held at the National Gallery of Modern Art, this much-loved baithak now finds a new setting under open skies)\ud83d\uddd3 12th April, 2026\u23f0 8:30 am to 10.30 am\ud83d\udccd Qudsia Bagh, near Kashmiri Gate- Nearest metro station : Civil Lines & Kashmere GateAge suitability : Appropriate for 12 years & above.Instagram : darwesh_taleweavers",
-    "startDate": "2026-04-12T08:30:00+05:30",
-    "endDate": "2026-04-12T10:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Prema Kunj, M6CH+98V, Railway Colony, Civil Lines, Delhi, 110054, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.67099440000000000000",
-        "longitude": "77.22830080000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "755.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "DARWESH_TALEWEAVERS",
-      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
-    },
-    "url": "https://urbanaut.app/spot/rangrez-amrita-shergill-a-baithak-at-qudsia-bagh",
-    "keywords": [
-      "Leisure",
-      "History & heritage",
       "Art & culture",
       "URBANAUT"
     ]
