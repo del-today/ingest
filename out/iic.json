@@ -441,6 +441,28 @@
   },
   {
     "@type": "Event",
+    "name": "Nature Walk at IIC \u2013 Know the Wondrous Trees of IIC",
+    "url": "https://iicdelhi.in/programmes/nature-walk-iic-know-wondrous-trees-iic",
+    "startDate": "2026-04-26T08:00:00+05:30",
+    "endDate": "2026-04-26T08:00:00+05:30",
+    "description": "Nature Walk at IIC \u2013 Know the Wondrous Trees of IICLearn about the varied trees of IIC withKavita Prakash, tree lover, walk leader and self-taught naturalist.Strictly for IIC Members only.To register for the same, please emailapo3@iicdelhi.inby 20th April 2026. A confirmation email will soon be shared with you thereafter with additional details of the walk.",
+    "location": {
+      "@type": "Place",
+      "name": "IIC \u2014 India International Centre",
+      "address": "40, Max Mueller Marg, Lodhi Estate, New Delhi 110003",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.5931",
+        "longitude": "77.2203"
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "India International Centre"
+    }
+  },
+  {
+    "@type": "Event",
     "name": "WORLD DANCE DAY",
     "url": "https://iicdelhi.in/programmes/world-dance-day-3",
     "startDate": "2026-04-26T09:30:00+05:30",
