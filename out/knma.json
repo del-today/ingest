@@ -46,26 +46,6 @@
   },
   {
     "@type": "EducationEvent",
-    "name": "When Lights Fall",
-    "url": "https://www.knma.org/whats-on/workshops/when-lights-fall",
-    "startDate": "2026-04-10T10:00:00+05:30",
-    "endDate": "2026-04-12T18:00:00+05:30",
-    "description": "Methods",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "EducationEvent",
     "name": "Retrospective as Form",
     "url": "https://www.knma.org/whats-on/talks/retrospective-as-form",
     "startDate": "2026-04-17T10:00:00+05:30",

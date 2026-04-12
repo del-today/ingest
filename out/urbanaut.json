@@ -149,44 +149,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Guided Pickleball | SWAG x Delhi Picklers",
-    "description": "Guided Pickleball with SWAG x Delhi Picklers is back!This is a women-only, beginner-friendly pickleball meet-up. The session is guided by a coach.4:50 PM Meet up and Warm up Time5:00 PM Game TimeSee you on court!",
-    "startDate": "2026-04-12T17:00:00+05:30",
-    "endDate": "2026-04-12T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Opposite Bunglow No.46, Sector 4, Lodhi Estate, Lodhi Estate, New Delhi, Delhi 110003, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59422390000000000000",
-        "longitude": "77.22559430000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "399.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swagpickleballkhan",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Aangan Edit 2 - Jimmno",
     "description": "Aangan hosted by Jimmno, an intimate,\u00a0sit-down dining experience rooted in nostalgia, culture, and community.Aangan\u00a0is our attempt to revive a forgotten dining era when people gathered once a day around a shared table, exchanged stories, and connected over thoughtfully prepared food. It\u2019s not just an event, but a slow, immersive experience designed for a highly curated audience.",
@@ -296,44 +258,6 @@
       "Leisure",
       "Food & drink",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Tote Bag Painting Workshop",
-    "description": "Join us for a fun and relaxing session where you\u2019ll explore colours, patterns, and techniques to transform a simple tote into a personalised piece of art. Whether you\u2019re a beginner or someone who loves painting, this workshop is all about self-expression and creativity- no prior experience needed!We\u2019ll provide all the materials, including tote bags, paints, brushes, and guidance to help you bring your ideas to life. Just come with your imagination and leave with a handcrafted tote you can proudly carry everywhere.\u2728 What to expect:\u2013 Step-by-step guidance and creative freedom\u2013 All materials provided\u2013 A cosy, inspiring atmosphere\u2013 Your very own hand-painted tote bag to take home. Come solo or bring a friend - either way, you\u2019re in for a colourful, mindful experience.",
-    "startDate": "2026-04-12T17:00:00+05:30",
-    "endDate": "2026-04-12T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "First Floor, Grand View High Street, Golf Course Ext Rd, Sector 58, Gurugram, Haryana 122098, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.41623070000000000000",
-        "longitude": "77.10243700000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Greenr",
-      "url": "https://urbanaut.app/partner/greenr"
-    },
-    "url": "https://urbanaut.app/spot/tote-bag-painting-workshop",
-    "keywords": [
-      "Leisure",
-      "Workshop",
-      "Pop-up Event",
       "URBANAUT"
     ]
   },
@@ -491,44 +415,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Ulte Baans",
-    "description": "Step into a world where laughter, life and timeless stories come alive !Nepathya Foundation, in collaboration with Kathika, invites you to experience the much-loved theatrical play Ulte Baans, written by Sai Paranjpye. The play beautifully unfolds the lives of three middle-class couples, neighbours bound by shared spaces, everyday struggles, quiet dreams and a playful spirit of competition. Through a series of engaging situations, their joys, woes, hopes and despairs are brought to life with subtle, light-hearted humour that promises to leave you smiling throughout.What makes this experience truly unforgettable is its setting\u2014a 150-year-old Heritage Haveli, nestled in the heart of Old Delhi. The charm of the historic backdrop adds a magical touch to this delightfully hilarious performance, making it more than just a play\u2014it\u2019s an immersive cultural experience.Come, be a part of an evening filled with laughter, nostalgia and theatre at its finest.",
-    "startDate": "2026-04-12T12:00:00+05:30",
-    "endDate": "2026-04-12T14:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.64610280000000000000",
-        "longitude": "77.22736410000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "999.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kathika Cultural Centre and Museum",
-      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
-    },
-    "url": "https://urbanaut.app/spot/ulte-baans",
-    "keywords": [
-      "Leisure",
-      "Adventure",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "The Sultanate\u2019s Canvas: Sayyid Grace & Lodhi Might",
     "description": "A World Heritage Day SpecialDon't just walk past history\u2014walk through it. Whether you are a photography enthusiast, a curious wanderer, a history buff, or someone looking to see the city with fresh eyes, this canvas is waiting for you.To the casual stroller, Lodhi Gardens is a lush urban sanctuary. To the discerning eye, it is a battlefield of aesthetics\u2014a sprawling stone canvas where two distinct dynasties etched their legacies in the twilight of the Delhi Sultanate.On World Heritage Day, we explore the evolution of architectural styles and influences that resulted in monuments which were distinct and reflected the temperament of their rulers.  Join us for a curated heritage walk through Lodhi Gardens, where the shifting tides of the 15th-century Delhi Sultanate are etched into every dome and archway.",
     "startDate": "2026-04-18T17:00:00+05:30",
@@ -561,44 +447,6 @@
       "Leisure",
       "Walking Tour",
       "History & heritage",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Spring Flowers and Nibbles Supper",
-    "description": "Spring Flowers and Nibbles at V\u2019s Supper StoriesEase into a slow spring afternoon with a gathering designed around light bites, fresh flavours, and a touch of creativity.Hosted in an intimate home setting in Saket, this experience brings together a curated menu of seasonal nibbles \u2014 from avocado toast done our way to grape and burrata crostini, marinated grapes, and other thoughtfully composed small plates. The food is designed for grazing, encouraging you to linger, sip, and settle into the rhythm of the afternoon.Adding to the experience is a DIY flower bar, where guests can create their own spring arrangement \u2014 an opportunity to engage with textures, colours, and the quiet joy of making something by hand.This is not a formal sit-down meal, but a relaxed, sensory experience where food, flowers, and conversation come together.At V\u2019s Supper Stories, the focus goes beyond just the food. It\u2019s about creating a space where strangers become familiar, conversations flow easily, and the table feels like something you don\u2019t want to leave.Date: 11th April/12th April Time: 3:30pm - 6pm Location: Saket, New Delhi (exact address shared 24 hours prior)Price: \u20b93,000 per personSeats are limited to keep the experience intimate.",
-    "startDate": "2026-04-12T15:30:00+05:30",
-    "endDate": "2026-04-12T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Saket, New Delhi, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52209710000000000000",
-        "longitude": "77.21015340000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3000.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "V's Supper Stories",
-      "url": "https://urbanaut.app/partner/vsupperstories"
-    },
-    "url": "https://urbanaut.app/spot/springflowersandnibbles",
-    "keywords": [
-      "Festival",
-      "Pop-up Event",
-      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -753,42 +601,6 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "What Does Loving The Wrong Things Say About You?",
-    "description": "Join us for a lecture that begins with an age old adage - can we really separate art from the artist? About the LectureThis talk begins with a familiar question: can we separate art from the artist? And asks whether that frame is too neat for the attachments we actually live with. Moving through my own difficult loyalties to Honey Singh, Om Shanti Om, and BTS\u2019s music, I want to ask what happens when critique does not dissolve pleasure, memory, rhythm, nostalgia, or love. Recent research on fandom, parasocial attachment, and cancellation suggests that people rarely respond to \u201cproblematic\u201d artists through a simple moral exit. Instead, they renegotiate intimacy, justify attachment, crowdsource ethics, and confront their own thresholds of discomfort. I want to use that insight to shift the debate away from the fantasy of a clean separation and toward a more unsettling question: when we keep returning to art that troubles our politics, what are we actually protecting? The artist? The artwork? Or a version of ourselves organised by desire, history, contradiction, and habit? This lecture treats popular culture not as a moral test with correct answers, but as a site where our belief systems, pleasures, and values become newly visible to us.About the SpeakerPrerna Subramanian is a cultural studies scholar, teacher, and public critic whose work moves across pop culture, feminism, digital media, and everyday political feeling. She is an Assistant Professor at O.P. Jindal Global University, where she teaches and writes on culture, power, affect, and representation.Her work is deeply invested in taking popular culture seriously \u2014 not as trivial entertainment, but as a site where desire, hierarchy, memory, and ideology are lived and felt. Across academic and public platforms, she examines how people form attachments to images, genres, stars, and narratives that both sustain and unsettle them.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from St. Stephen\u2019s, Delhi who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
-    "startDate": "2026-04-12T16:00:00+05:30",
-    "endDate": "2026-04-12T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Ground & First Floor, The Exchange Building, 13, Sham Nath Marg, Civil Lines, New Delhi, Delhi, 110054, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.67649720000000000000",
-        "longitude": "77.22523319999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "699.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/what-does-loving-the-wrong-thing-say-about-you",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
     "name": "26th April: Blueprints for Anti-Caste Protagonism",
     "description": "Join us for a lecture that asks a difficult question:Why is it so hard to see anti-caste assertion, even when it is right in front of us?About the LectureWhat does it mean to represent a body that history has refused to recognise?This lecture turns to art as a site of both inquiry and resistance, examining how caste operates not only through direct violence, but through subtler, representational forms that shape what can be seen, known, and acknowledged.Drawing from works such as Mukta Salve Triptych (2023) and Tannerfilm (2024), the session traces how infrastructures of caste have historically made it nearly impossible for anti-caste voices and assertions to be positively registered. It examines the lingering continuities between colonial ethnography of the 1850s and contemporary modes of representation \u2014 both of which render the Dalit body as devoid of agency, even in moments of clear self-assertion.The talk explores:How caste operates through visual and cultural representationWhy anti-caste assertion is often rendered illegible or erasedThe continuity between colonial and contemporary ways of seeing Dalit subjectivityHow art can function as a space of critique, interruption, and re-imaginationAbout the SpeakerRahee Punyashloka is an artist, writer, and experimental filmmaker based between Bhubaneswar and New Delhi. His work spans visual art, film, and writing, with a focus on creating anti-caste imagery and emancipatory imaginaries for Dalit subjectivity.His works have been exhibited at institutions and festivals including Khoj Studios, the Museum of Art and Photography, Haus der Kulturen der Welt, the Tribeca Film Festival, and the International Film Festival Rotterdam. He is also known by his online moniker artedkar.All Grounds for Thought tickets include a \u20b9250 coupon redeemable on food and beverages at the venue \u2014 so you can listen, reflect, and stay for conversation.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who want learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
     "startDate": "2026-04-26T16:00:00+05:30",
@@ -853,42 +665,6 @@
       "url": "https://urbanaut.app/partner/unlecture"
     },
     "url": "https://urbanaut.app/spot/the-default-citizen",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "12th April: Who Gets To Laugh in the City?",
-    "description": "Who Gets to Laugh in the City?The Politics of Dalit Women\u2019s LaughterJoin us for a lecture with a simple but unsettling question:who gets to laugh in a city, and whose laughter is policed?About the LectureLaughter is often seen as spontaneous, harmless, even universal.But in deeply unequal societies, even laughter is structured.Drawing on ethnographic fieldwork conducted between 2022 and 2024 in Delhi\u2019s urban villages, this lecture explores how Dalit women\u2019s laughter operates as a powerful, everyday form of resistance. Moving beyond dominant narratives that centre grief and victimhood, the session foregrounds laughter as an embodied practice, one that navigates and subverts the intersecting violences of caste, gender, class, and religion.The talk examines how expressions that are often dismissed as loud, excessive, or vulgar carry political weight. Dalit women who laugh openly are frequently labelled \u201cDaat Faadu Mahilaye\u201d, women who \u201cshow their teeth\", a phrase that reveals how caste and patriarchy work together to regulate not just bodies, but affect itself.About the SpeakerShainal Verma is a Ph.D. scholar in the Department of Humanities and Social Sciences at Indian Institute of Technology Delhi. Her research focuses on Dalit women\u2019s oral histories, spatial negotiations, and everyday lived experiences in urban villages.Her broader interests include gender, affect, and anti-caste urbanism. Her work on Dalit women\u2019s laughter received an Honourable Mention at the Bluestone Rising Scholar Competition (2026), and she has been a fellow at programmes including the Institute of Critical Social Inquiry (The New School), Writing Urban India, and Blue Club Media.Her writing has appeared in platforms such as Economic and Political Weekly, Himal Southasian, Scroll, and Feminism in India. Alongside her academic work, she has been actively involved in institutional student bodies, including ICC and SC/ST grievance committees.All Grounds for Thought tickets include a \u20b9250 coupon redeemable on food and beverages at the venue\u2014so you can listen, reflect, and stay for conversation.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who want learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
-    "startDate": "2026-04-12T16:00:00+05:30",
-    "endDate": "2026-04-12T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Basement, Ground floor and First floor Building no. 12, Panchsheel Community Centre, Shahpur Jat, Panchsheel Park, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54805190000000000000",
-        "longitude": "77.21147640000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "550.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/who-gets-to-laugh-in-the-city",
     "keywords": [
       "Food & drink",
       "URBANAUT"
@@ -1153,42 +929,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Overthinkers Anonymous",
-    "description": "OverviewEver wondered why you default to people pleasing, perfectionism, or avoidance? Overthinkers Anonymous is a small and guided space to slow down, reflect, and talk honestly about the things that occupy our minds. This session focuses on Family Patterns and how the environments we grew up in still shape how we think, feel, and respond today.We focus on connecting the dots between past experiences and present reactions in a safe and judgment free environment. The goal is to build awareness and self compassion rather than focusing on blame.What is Stories of Hope?We are a community-led initiative dedicated to creating safe, mindful spaces. Through workshops and gatherings, we help individuals navigate life\u2019s complexities, from mental well-being to personal growth, with empathy and shared human connection.What to expectPattern Recognition: Explore why tendencies like overthinking or control keep showing up in your life.Guided Reflection: Use a specialized worksheet to gain context on your reactions without the weight of self-judgment.Awareness & Compassion: A gentle space to build self-awareness and understanding\u2014focused on insight, not on reliving trauma.Details\ud83d\uddd3\ufe0f Date: 12th April (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Thamel, Golf Course Ext Road\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes Coffee + Snacks)",
-    "startDate": "2026-04-12T11:30:00+05:30",
-    "endDate": "2026-04-12T13:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Ground Floor, AIPL Joy Central, GF-01, Golf Course Ext Rd, Sector 65, Gurugram, Haryana 122002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.40537820000000000000",
-        "longitude": "77.06050050000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "661.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/overthinkers-anonymous",
-    "keywords": [
-      "Wellness",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "ALT EFF Film Club x GuruJal Gurugram | 17th April",
     "description": "If you are tired of the outrage cycle, doomscrolling collapse, and the looming AI takeover narrative. If you have caught yourself going numb just to cope. We see you.All Living Things Environmental Film Festival is back with the third season of Film Club. A monthly meet up across 10 cities over 5 months, orbiting environmental cinema that cracks you open without trapping you in doom and gloom.It is a room full of people choosing to show up in cities whose infrastructure persuades you to stay home, choosing to sit together, watch together, and turn private anxiety into collective imagination. Messy. Human. Honest conversation.With snacks. Always snacks.To become a Film Club Member, continue with the regular booking process. The membership option will appear after you select the venue and date.APRIL CURATION: \"The Climate Baby Dilemma\"Synopsis:\"The Climate Baby Dilemma\" by filmmaker Victoria Lean follows science writer Britt Wray as she explores the decision to have children amid climate change. Over three years, she engages with activists and parents, reflecting generational concerns. Featuring Sarain Fox and Severn Suzuki, the film offers insights on transforming climate anxiety into action.PROGRAMME17th April 2026, Friday7:00 - 9:00 PM: The Climate Baby Dilemma | Victoria Lean | Canada | 44 mins | English | 2022All activities, including discussions and refreshments, will occur between 7:00 and 9:00 PM.What's Included?Film screeningGroup discussionLight refreshmentsCommunity spaceStudent Discount50% off for students with a valid ID (& must bring ID to the screening).CODE: ALTSTUDENTABOUT ALT EFFAll Living Things Environmental Film Festival (ALT EFF) is the world\u2019s largest decentralised film festival and a premiere showcase for environmental cinema.Across its annual festival, monthly Film Club, schools initiatives, film fund, and year round curations, ALT EFF nurtures stories grounded in care, collective responsibility, stewardship, and an abiding love for the natural world.Spanning countries, genres, languages, and forms, it brings together stories reimagining our relationship with all living things.",
     "startDate": "2026-04-17T19:00:00+05:30",
@@ -1221,44 +961,6 @@
       "Local",
       "Festival",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "PAWS & PLAY AT AGAMA",
-    "description": "Paws & Play at Agama is a relaxed social gathering designed for pet parents and their pets to spend a fun, easygoing afternoon together.Bring your furry companions along to meet other pets, enjoy a welcoming pet-friendly space, and take part in a few games planned for both pets and their humans.While the pets socialize, pet parents can enjoy Agama\u2019s signature plant-based farm-to-table food and drinks.We are a plant based, farm to table cafe known for our fresh ingredient-driven menu, featuring produce grown at our own farm along with mushrooms cultivated in-house and hydroponically grown greens. Our kitchen focuses on thoughtful plant-based dishes that are comforting, flavourful, and consciously sourced.",
-    "startDate": "2026-04-12T16:00:00+05:30",
-    "endDate": "2026-04-12T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M-18, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53378190000000000000",
-        "longitude": "77.24240429999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "995.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "AGAMA CAFE",
-      "url": "https://urbanaut.app/partner/agama-cafe"
-    },
-    "url": "https://urbanaut.app/spot/agamacafe-pet-event",
-    "keywords": [
-      "Leisure",
-      "Premium",
-      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -1335,44 +1037,6 @@
       "Local",
       "Wellness",
       "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Curated Tour of Lodhi Art District by St+art India",
-    "description": "Lodhi Art DistrictLodhi Art District is India\u2019s first ongoing art district. An open-air museum by St+art India Foundation, the pedestrian-friendly colony houses over 65+ murals by renowned local and international artists. The area serves as evidence of the possibility of reimagining public spaces, bringing us back in touch with our city, its history, and the many narratives that illuminate it. Sign up for an immersive walk guided by a St+art team member to discover the murals, consider how public spaces can be utilised, and become a part of this cultural transformation.Meeting Point: Indian Habitat Centre, Gate 3About the TourThe curated tours are a walkthrough of the vibrant public art district. They offer an interactive exploration through which St+art introduces new ways of experiencing contemporary art and the cityscape. These tours provide a complete experience, delving into the historical aspects of the location, the stories behind the project, and the murals themselves. Participants will actively witness the enhancement of the city and the reimagining of its public spaces. A tour leader from the St+art team will provide insights into the background and context of the artworks, the area, and its cultural significance in the city. (Nearby attractions include Safdarjung Tomb, Lodhi Garden, and Khan Market). About St+artSt+art India Foundation contributes to urban regeneration and community living through contemporary urban art projects. The foundation enables a vision for democratised public spaces through interdisciplinary art interventions that are rooted in the social context.Since 2014, with the support of Asian paints, the foundation has organised multiple festivals and public art projects in Delhi, Mumbai, Bengaluru, Hyderabad, Kolkata, Chandigarh and Coimbatore among others. Each public art district in the country and editions of festivals bring curated interventions to civic spaces that are embedded in urban culture, and use art as a tool to reimagine how public spaces can be utilised. For the foundation, which has been responsible for making urban art a movement in India, public art interventions are a celebration of the street as a canvas for visual creativity.",
-    "startDate": "2026-04-12T16:00:00+05:30",
-    "endDate": "2026-04-12T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "India Habitat Centre Gate 3, Vardhman Marg, Block 20, Institutional Area, Lodi Colony, New Delhi, Delhi 110003, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.58839490000000000000",
-        "longitude": "77.22530900000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "750.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "St+art India",
-      "url": "https://urbanaut.app/partner/startindia"
-    },
-    "url": "https://urbanaut.app/spot/curated-tour-of-lodhi-art-district-by-start-india",
-    "keywords": [
-      "Leisure",
-      "Walking Tour",
-      "Art & culture",
       "URBANAUT"
     ]
   }
