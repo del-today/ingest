@@ -2,6 +2,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Metcalfe\u2019s Mehrauli: A World Heritage Day Walk",
+    "description": "There\u2019s something about Mehrauli at dusk that changes the way you listen to a place.On the evening of 18th April, marking World Heritage Day, join us for a sunset baithak from 6:00 to 7:30 pm at the quiet Quli Khan\u2019s Tomb. A structure that has watched centuries pass in silence, it sits within a landscape that would later be shaped into the Metcalfe Estate under Sir Thomas Metcalfe.We begin as the light softens and the park slowly exhales the day. It's experiencing heritage in the truest sense. We\u2019ll sit, talk, and listen.The conversation will move through Delhi and Mehrauli as they shift over time, with a closer look at the 19th century. A period when older Mughal rhythms were giving way to new colonial ways of seeing and inhabiting the city. We\u2019ll trace how landscapes were reused, how meanings changed, and how Mehrauli became both a retreat and a reimagined past.As evening settles in, the surroundings shift. The arches darken, the sky deepens, and the stillness becomes part of the experience. What this offers is not just history, but a certain mood. One that allows you to feel the weight of the place, rather than simply observe it.Please note: Entry tickets for the caf\u00e9 and the tomb are not included and will need to be purchased separately.",
+    "startDate": "2026-04-18T18:00:00+05:30",
+    "endDate": "2026-04-18T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Anuvrat Marg, opposite Qutab Minar Metro Station, Christian Colony, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52020410000000000000",
+        "longitude": "77.18767900000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "200.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sikkawala",
+      "url": "https://urbanaut.app/partner/sikkawala"
+    },
+    "url": "https://urbanaut.app/spot/metcalfes-mehrauli-a-world-heritage-day-walk",
+    "keywords": [
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Aerial Yoga: Kids Edition",
     "description": "Aerial Yoga \u2013 Kids Edition by The Immersion Room \ud83e\udd0dFacilitated by Neha PrajapatiStep into a space where movement becomes play, and confidence is built through experience.This Aerial Yoga session is thoughtfully designed for children aged 10\u201316 to explore movement in a way that feels exciting, freeing, and deeply engaging. Using soft fabric hammocks, kids will stretch, swing, invert, and balance\u2014building strength, flexibility, and focus while having fun.More than just a class, this is a guided experience that encourages body awareness, courage, and self-trust. Moving through the air and exploring new positions helps children gently step out of their comfort zones in a safe and supportive environment.The session is curated to feel both playful and structured\u2014so whether your child is new to aerial yoga or already active, they will feel comfortable, engaged, and inspired throughout.\u2728 What makes this specialA unique blend of movement, play, and mindful awareness\u2014designed to help kids feel stronger, more confident, and connected to their body in a joyful way.",
     "startDate": "2026-04-19T16:00:00+05:30",
