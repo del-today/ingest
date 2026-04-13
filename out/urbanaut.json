@@ -2,6 +2,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Aerial Yoga: Kids Edition",
+    "description": "Aerial Yoga \u2013 Kids Edition by The Immersion Room \ud83e\udd0dFacilitated by Neha PrajapatiStep into a space where movement becomes play, and confidence is built through experience.This Aerial Yoga session is thoughtfully designed for children aged 10\u201316 to explore movement in a way that feels exciting, freeing, and deeply engaging. Using soft fabric hammocks, kids will stretch, swing, invert, and balance\u2014building strength, flexibility, and focus while having fun.More than just a class, this is a guided experience that encourages body awareness, courage, and self-trust. Moving through the air and exploring new positions helps children gently step out of their comfort zones in a safe and supportive environment.The session is curated to feel both playful and structured\u2014so whether your child is new to aerial yoga or already active, they will feel comfortable, engaged, and inspired throughout.\u2728 What makes this specialA unique blend of movement, play, and mindful awareness\u2014designed to help kids feel stronger, more confident, and connected to their body in a joyful way.",
+    "startDate": "2026-04-19T16:00:00+05:30",
+    "endDate": "2026-04-19T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "E5, Market Rd, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46575680000000000000",
+        "longitude": "77.09909929999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "1299.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Immersion Room",
+      "url": "https://urbanaut.app/partner/theimmersionroom"
+    },
+    "url": "https://urbanaut.app/spot/aerial-yoga-kids-age10-tir-gurugram",
+    "keywords": [
+      "Premium",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "An Evening Together",
     "description": "Ever walked away from a conversation feeling\u2026 still a little empty?Yeah, us too.That\u2019s exactly why we started The Firgun Collective\u2014a space where you don\u2019t have to perform, impress, or \u201cnetwork.\u201dJust come as you are.We\u2019re gathering a small group (8\u201310 people) to sit, talk, share, and just be.\ud83d\udccd Sunder Nursery\ud83d\uddd3 18th April\u23f0 6\u20137:30 PM\ud83d\udcb8 \u20b9199 per personIf this speaks to you, you already belong here.No pressure. Just presence.\ud83d\udd17 Register through linkhttps://forms.gle/sB1T5ff5rfQP8ePc7",
     "startDate": "2026-04-18T18:00:00+05:30",

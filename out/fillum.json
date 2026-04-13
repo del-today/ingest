@@ -32,5 +32,90 @@
       "@type": "Organization",
       "name": "Out of Sequence"
     }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Shoplifters(2018)",
+    "url": "https://fillum.in/screening/5164",
+    "startDate": "2026-04-14T18:00:00+05:30",
+    "endDate": "2026-04-14T18:00:00+05:30",
+    "description": "Free Entry. Opening showcase for 'High Society' by Out of Sequence at Mool on Ambedkar Jayanti.> Morning Session - Film Screenings (12 PM - 3 PM)12 PM - The Discreet Charm of the Savarnas (202..more",
+    "location": {
+      "@type": "Place",
+      "name": "Mool, South Ex II",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Alexandra David-N\u00e9el: J'irai au pays des neiges(2012)",
+    "url": "https://fillum.in/screening/5299",
+    "startDate": "2026-04-14T19:00:00+05:30",
+    "endDate": "2026-04-14T19:00:00+05:30",
+    "description": "Free entry. Open to all.",
+    "location": {
+      "@type": "Place",
+      "name": "M. L. Bhartia Auditorium, Alliance Fran\u00e7aise",
+      "address": "Lodhi Road, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Alliance Fran\u00e7aise de Delhi"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Minimalism: A Documentary About the Important Things(2015)",
+    "url": "https://fillum.in/screening/5280",
+    "startDate": "2026-04-15T18:00:00+05:30",
+    "endDate": "2026-04-15T18:00:00+05:30",
+    "description": "Free entry.",
+    "location": {
+      "@type": "Place",
+      "name": "India International Centre - Lecture Room 1 Annexe",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "India International Centre"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Belonging & the Scene(2023)",
+    "url": "https://fillum.in/screening/5295",
+    "startDate": "2026-04-18T18:00:00+05:30",
+    "endDate": "2026-04-18T18:00:00+05:30",
+    "description": "Free entry. Post-screening conversation with the filmmaker.",
+    "location": {
+      "@type": "Place",
+      "name": "Niv Art Centre, Neb Sarai",
+      "address": "Sainik Farm, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Monica Dhaka"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Secret of a Mountain Serpent(2025)",
+    "url": "https://fillum.in/screening/5266",
+    "startDate": "2026-04-18T18:45:00+05:30",
+    "endDate": "2026-04-18T18:45:00+05:30",
+    "description": "In collaboration with DIFF on the road. Screening followed by conversation with the filmmaker Nidhi Saxena.",
+    "location": {
+      "@type": "Place",
+      "name": "Kiran Nadar Museum of Art",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    }
   }
 ]
