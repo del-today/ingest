@@ -49,5 +49,73 @@
       "@type": "Organization",
       "name": "Kiran Nadar Museum of Art"
     }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "La Haine(1995)",
+    "url": "https://fillum.in/screening/5165",
+    "startDate": "2026-04-19T12:00:00+05:30",
+    "endDate": "2026-04-19T12:00:00+05:30",
+    "description": "La Haine, directed by Mathieu Kassovitz, functions as a pressure chamber rather than a conventional narrative, tracing a single day in the Parisian banlieues where time compresses tension instead of..more",
+    "location": {
+      "@type": "Place",
+      "name": "Mool, South Ex II",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Mother",
+    "url": "https://fillum.in/screening/5167",
+    "startDate": "2026-04-19T14:00:00+05:30",
+    "endDate": "2026-04-19T14:00:00+05:30",
+    "description": "Mother, directed by Bong Joon-ho, unfolds as a quietly destabilizing psychological labyrinth masquerading as a murder mystery, where maternal devotion curdles into obsession; set against a deceptive..more",
+    "location": {
+      "@type": "Place",
+      "name": "Mool, South Ex II",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Paprika(2006)",
+    "url": "https://fillum.in/screening/5166",
+    "startDate": "2026-04-19T16:30:00+05:30",
+    "endDate": "2026-04-19T16:30:00+05:30",
+    "description": "Paprika, directed by Satoshi Kon, operates as a delirious convergence of dream and reality, where the boundaries between psyche and spectacle collapse into a fluid, unstable continuum; built around ..more",
+    "location": {
+      "@type": "Place",
+      "name": "Mool, South Ex II",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "The Chaser(2008)",
+    "url": "https://fillum.in/screening/5302",
+    "startDate": "2026-04-19T18:00:00+05:30",
+    "endDate": "2026-04-19T18:00:00+05:30",
+    "description": "The Chaser, directed by Na Hong-jin, dismantles the conventions of the serial killer thriller by replacing procedural control with mounting chaos, following a disgraced ex-detective turned pimp as h..more",
+    "location": {
+      "@type": "Place",
+      "name": "Mool, South Ex II",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
+    }
   }
 ]

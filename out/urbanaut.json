@@ -2,6 +2,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "SWAG Hyrox Simulation Delhi",
+    "description": "The Dopafitt x SWAG HYROX SIMULATION is here!Yet to hop on to the HYROX train? SWAG in collaboration with Dopafitt brings to you a competitive hyrox simulation. Get ready for a women-only, beginner-friendly, high-intensity 6KM \u2013 6 Station HYROX Simulation, a relay challenge designed to capture the essence of HYROX racing in a fast, accessible format.Expect a fitness party starting with a warm-up rave and hydration shots, followed by the much awaited MINI HYROX Relay, all with a sprinkle of fun challenges, giveaways and brand pop-ups.We have limited spots! Book yours now!",
+    "startDate": "2026-04-19T10:00:00+05:30",
+    "endDate": "2026-04-19T12:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "37, community centre, D Block, East of Kailash, New Delhi, Delhi 110065, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55871660000000000000",
+        "longitude": "77.24557620000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "450.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag-hyrox-simulation-delhi",
+    "keywords": [
+      "Adventure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "BADDY WITH BADDIES (Gurugram)",
     "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.3:50 PM Meet up and Warm up Time4:00 PM Game TimeSee you on court!",
     "startDate": "2026-04-19T17:00:00+05:30",
