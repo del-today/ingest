@@ -1,31 +1,6 @@
 [
   {
     "@type": "ExhibitionEvent",
-    "name": "Slow is the New Urgent",
-    "url": "https://www.knma.org/whats-on/exhibitions/slow-is-the-new-urgent",
-    "startDate": "2025-04-01T10:00:00+05:30",
-    "endDate": "2026-04-15T18:00:00+05:30",
-    "description": "Contemporary Indian Art",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA Art Passage, next to Apple Store, Nexus Select Citywalk Mall",
-      "address": "Saket, New Delhi",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.5274",
-        "longitude": "77.2159"
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "ExhibitionEvent",
     "name": "TYEB MEHTA Bearing Weight (with the lightness of being)",
     "url": "https://www.knma.org/whats-on/exhibitions/tyeb-mehta-bearing-weight",
     "startDate": "2026-02-05T10:00:00+05:30",
