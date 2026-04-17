@@ -1,6 +1,23 @@
 [
   {
     "@type": "ScreeningEvent",
+    "name": "Cliff Walkers(2021)",
+    "url": "https://fillum.in/screening/5309",
+    "startDate": "2026-04-17T15:00:00+05:30",
+    "endDate": "2026-04-17T15:00:00+05:30",
+    "description": "In association with Embassy of People's Republic of China. Free entry. ID card required.",
+    "location": {
+      "@type": "Place",
+      "name": "Russian Centre of Science and Culture, Firoz Shah Road",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Russian House in New Delhi"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "Belonging & the Scene(2023)",
     "url": "https://fillum.in/screening/5295",
     "startDate": "2026-04-18T18:00:00+05:30",
@@ -52,7 +69,7 @@
   },
   {
     "@type": "ScreeningEvent",
-    "name": "Mother",
+    "name": "Mother(2009)",
     "url": "https://fillum.in/screening/5167",
     "startDate": "2026-04-19T14:00:00+05:30",
     "endDate": "2026-04-19T14:00:00+05:30",

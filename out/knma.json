@@ -161,6 +161,26 @@
   },
   {
     "@type": "Event",
+    "name": "KNMA Art Battle",
+    "url": "https://www.knma.org/whats-on/events/art-battle-season-6",
+    "startDate": "2026-04-21T08:00:00+05:30",
+    "endDate": "2026-04-21T08:00:00+05:30",
+    "description": "Art Battle",
+    "location": {
+      "@type": "Place",
+      "name": "Dharav High School, Jaipur",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "Event",
     "name": "Splendour",
     "url": "https://www.knma.org/whats-on/events/splendour",
     "startDate": "2026-04-25T10:00:00+05:30",
@@ -205,6 +225,26 @@
     "url": "https://www.knma.org/whats-on/workshops/restricted-palettes-ii",
     "startDate": "2026-04-25T10:00:00+05:30",
     "endDate": "2026-04-25T10:00:00+05:30",
+    "description": "Saturday Family Workshop",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Restricted Palettes III",
+    "url": "https://www.knma.org/whats-on/workshops/restricted-palettes-iii",
+    "startDate": "2026-05-02T10:00:00+05:30",
+    "endDate": "2026-05-02T10:00:00+05:30",
     "description": "Saturday Family Workshop",
     "location": {
       "@type": "Place",
