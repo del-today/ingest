@@ -1,50 +1,6 @@
 [
   {
     "@type": "Event",
-    "name": "AI-Friendly Newsrooms",
-    "url": "https://iicdelhi.in/programmes/ai-friendly-newsrooms",
-    "startDate": "2026-04-17T10:00:00+05:30",
-    "endDate": "2026-04-17T10:00:00+05:30",
-    "description": "AI-Friendly NewsroomsReimagining Journalism in the time of AIThe Ethics Framework (The \u201cWhy\u201d)\u2022\u00a0\u00a0\u00a0\u00a0Transparency: Protocols for \u201cAI-assisted\u201d disclosures\u2022\u00a0\u00a0\u00a0\u00a0Human-in-the-Loop: Editorial oversight to prevent bias and inaccuraciesStreamlining Production (The \u201cHow\u201d)\u2022\u00a0\u00a0\u00a0\u00a0Automated Layouts: Multi-platform publishing templates\u2022\u00a0\u00a0\u00a0\u00a0Transcription & Translation: ASR tools and multilingual workflows\u2022\u00a0\u00a0\u00a0\u00a0Visual Storytelling: AI-driven data analysis and visualisationAudience Engagement & Distribution\u2022\u00a0\u00a0\u00a0\u00a0Hyper-Personalisation: Machine learning for content recommendations\u2022\u00a0\u00a0\u00a0\u00a0Text-to-Speech: Audio formats for long-form journalismClosing Remarks & Q&ASummary of key takeaways and audience interaction.Speakers:Sanjay Kapoor, President, EGi; Editor, Hardnews;Siddharth Varadarajan, Founding Editor, The Wire;Sanket Upadhyay, Founder, Double Check;Pradeep Gairola, Chief Digital Business Officer, The Hindu; andNandagopal Rajan, Chief Executive Officer (Digital), The Indian Express; and others.(Collaboration: Editors Guild of India)",
-    "location": {
-      "@type": "Place",
-      "name": "IIC \u2014 Conference Room II, IIC main building",
-      "address": "40, Max Mueller Marg, Lodhi Estate, New Delhi 110003",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.5931",
-        "longitude": "77.2203"
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "India International Centre"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Echoes of the Earth: A Woodcut Diary, exhibition of woodcut prints by Raja Boro",
-    "url": "https://iicdelhi.in/programmes/echoes-earth-woodcut-diary-exhibition-woodcut-prints-raja-boro",
-    "startDate": "2026-04-17T11:00:00+05:30",
-    "endDate": "2026-04-17T11:00:00+05:30",
-    "description": "Echoes of the Earth: A Woodcut Diary, exhibition of woodcut prints by Raja BoroCurated byShruti Lakhanpal TandonThe exhibition reflects a practice rooted in memory, material, and nature. Raised in rural Assam, his surroundings continue to shape his visual language. Trained in printmaking at Santiniketan and MSU Baroda, his woodcuts translate the rhythms and textures of the natural world into a meditative and tactile artistic expression.The exhibition will be inaugurated on Thursday, 16 April 2026 at 17:30 hrs by Amal Allana ; with poetry readings by Gagan GillThe artist will be giving a curatorial walkthrough and demonstration of the woodcut printing technique on Saturday, 18 April at 12:00 for the students from Oxford Cambridge Society of India \u2013 OCSI. There will be a workshop on Woodcut Printmaking & Curatorial Walkthrough with Sign Language Interpreters for Hearing Impaired IIC members and the students of Noida Deaf Society on Tuesday, 21 April at 11:30On 23 April at Thursday, 16:30, The Varshita Young Artist Award Ceremony by Chief Guest, Ashok Vajpeyi, will be followed by a panel discussion on \u2018Printmaking in the Artworld Today. Poet and Essayist Prayag Shukla will be giving a curatorial walkthrough on Monday, 27 April. A film screening titled \u2018The way I see-Yusuf\u2019 is scheduled for Wednesday, 29 April at 16:30 followed by a panel discussion on printmaking.(Collaboration: Ushaarth Art Foundation and Dhoomimal Gallery)",
-    "location": {
-      "@type": "Place",
-      "name": "IIC \u2014 Art Gallery, Kamaladevi Complex, IIC",
-      "address": "40, Max Mueller Marg, Lodhi Estate, New Delhi 110003",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.5931",
-        "longitude": "77.2203"
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "India International Centre"
-    }
-  },
-  {
-    "@type": "Event",
     "name": "The Body as Method: Dance Research and Writing in India",
     "url": "https://iicdelhi.in/programmes/body-method-dance-research-and-writing-india",
     "startDate": "2026-04-17T18:00:00+05:30",
