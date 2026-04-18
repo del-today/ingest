@@ -564,44 +564,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Mehrauli Heritage Walk- A city within city!",
-    "description": "Discover Mehrauli, Delhi's oldest inhabited neighborhood, home to the first city of Delhi, Lal Kot, and over 100 monuments spanning 1,000 years from Tomar Rajputs to Mughals. Join me, an architect and urban designer, on April 18th for an immersive walk through Mehrauli Archaeological Park's hidden gems: ancient tombs like Balban's, stepwells such as Rajon ki Baoli, Jamali-Kamali Mosque, and vibrant stories of layered histories. Experience the magic of this vast heritage hub, blending architecture, culture, and untold tales of Delhi's \"city within a city.\"",
-    "startDate": "2026-04-18T08:30:00+05:30",
-    "endDate": "2026-04-18T10:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Anuvrat Marg, opposite Qutab Minar Metro Station, Christian Colony, Mehrauli, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52020410000000000000",
-        "longitude": "77.18767900000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "350.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Riwayat Walks",
-      "url": "https://urbanaut.app/partner/riwayatwalks"
-    },
-    "url": "https://urbanaut.app/spot/mehrauli-heritage-walk-a-city-within-city-12406",
-    "keywords": [
-      "Local",
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Earth & Rhythm: Drum Circle",
     "description": "The Earth has its own music\u2026 have you been listening?Step into a space where rhythm becomes connection, and sound becomes a shared experience. Rhythm & Earth is not just a drum circle\u2014it\u2019s a guided, immersive journey into collective energy, expression, and presence.In this 60-minute experience, you\u2019ll enter a circle of like-minded individuals and co-create rhythms together\u2014no prior musical experience needed. As the beats align, something shifts: barriers soften, energy opens, and a natural sense of harmony begins to flow.This is where you don\u2019t just play music\u2026 you feel it.Each session is intuitively guided yet organically shaped by the group, making every circle a unique and living experience. Whether you come to unwind, connect, or simply explore something new, this is your invitation to drop into rhythm and return to yourself.",
