@@ -1,6 +1,81 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Block Print Bar",
+    "description": "Gallery XXL in collaboration with BANANA Labs is excited to host a live, walk-in block printing workshop designed as a guided and hands-on experience. The participants will work with hand-carved blocks alongside a master artisan to create their own printed pieces while engaging with ideas of craft, slow processes, and contemporary applications of block printing.The participants will also be introduced to a \u201cprint your own jeans\u201d element, encouraging participants to repurpose their own denim or work on provided textile pieces.Ticket price: \u20b91000 per participantDate: Sunday, April 26, 2026Time: 11:00 am - 1:30 pmVenue: Gallery XXL, A-277, Defence Colony, New Delhi, Delhi-110024*Please note there is limited parking available at the gallery; we recommend using public transportFor any further information, contact us at info@galleryxxl.com or +91 9324857354",
+    "startDate": "2026-04-26T11:00:00+05:30",
+    "endDate": "2026-04-26T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "2nd Floor, A-277, Block A, Defence Colony, New Delhi, Delhi 110024, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.57405660000000000000",
+        "longitude": "77.22903090000001000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gallery XXL",
+      "url": "https://urbanaut.app/partner/galleryxxl"
+    },
+    "url": "https://urbanaut.app/spot/the-block-print-bar",
+    "keywords": [
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Mere Humnafas",
+    "description": "Mere Humnafas is an intimate, immersive musical\u2013storytelling experience that reconnects contemporary audiences with the emotional and cultural roots of the subcontinent\u2019s rich poetic and musical traditions. At its core lies a simple yet powerful idea: to create something truly new, we must first engage deeply with the masters who shaped our artistic language.For generations, we\u2019ve been reminded that innovation doesn\u2019t exist in isolation\u2014it grows through dialogue with history, memory, and those who came before us. Mere Humnafas brings this philosophy to life by revisiting timeless ghazals, nazms, and poetic expressions that have shaped our collective emotional landscape. These classics are reimagined through contemporary acoustic arrangements, featuring only a keyboard and acoustic guitar, allowing the poetry and emotion to take center stage with striking intimacy.Woven through the music is a narrative that explores enduring themes of love, longing, separation, lost affection, and unspoken devotion\u2014emotions that remain deeply relevant today. Through spoken word and reflection, the experience bridges generations, offering a modern lens while honoring the depth and beauty of the original voices.Mere Humnafas invites you into a dreamy, almost surreal evening\u2014an hour where past and present dissolve into one, where memory and imagination intertwine, and where music and poetry remind us of the power of feeling deeply.This is not just a performance.It is a return\u2014to our roots, our stories, and to each other.",
+    "startDate": "2026-05-02T19:30:00+05:30",
+    "endDate": "2026-05-02T20:45:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "E5, Market Rd, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46575680000000000000",
+        "longitude": "77.09909929999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "750.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Immersion Room",
+      "url": "https://urbanaut.app/partner/theimmersionroom"
+    },
+    "url": "https://urbanaut.app/spot/mere-humnafas-poetry-musical-experience-tir-gurugram",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Krishna N\u0101da - An Evening of R\u0101ga & Bhakti",
     "description": "Krishna N\u0101da \u2013 An Evening of R\u0101ga & Bhakti \ud83e\ude94\ud83c\udfb6Step into an atmosphere where music transcends performance and becomes a path to stillness, devotion, and inner connection. Krishna N\u0101da is a thoughtfully curated classical musical evening that brings together the richness of Indian tradition with a deeply spiritual experience.Set within the serene and divine surroundings of ISKCON Temple Dwarka, this evening invites you to pause, reflect, and immerse yourself in the timeless beauty of R\u0101ga, Bhajan, and Naam Sankirtan.\u2728 What Makes This Experience Special\u2022 Two Live Classical & Devotional Performances\u2013 Vocal Recital: A soulful expression of Hindustani classical and devotional music, rich in bhaav and tradition\u2013 Santoor Recital: A meditative instrumental journey accompanied by tabla and pakhawaj\u2022 A Curated Spiritual FlowFrom Raaga invocation to collective chanting, the evening is designed to gradually elevate your inner state - from sound to stillness\u2022 Sacred Venue ExperienceHosted at ISKCON Dwarka, offering a divine ambience, spiritual energy, and an elevated cultural setting\u2022 Beyond MusicThis is not just a concert = it is a space for connection, reflection, and shared devotion\u2022 Followed by Live Snacks Prasadam \ud83c\udf7dConclude your evening with a warm, community-driven dining experience\ud83d\udccd Event DetailsLocation: ISKCON Temple, Sector 13, Dwarka, New DelhiDate: Sunday, 10th May 2026Time: 6:00 PM onwards\ud83c\udf9f Entry: \u20b91700Limited seats for an intimate and premium experience",
@@ -319,7 +394,7 @@
     "typicalAgeRange": "25+",
     "offers": {
       "@type": "Offer",
-      "price": "450.00",
+      "price": "499.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -678,44 +753,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "An Evening Together",
-    "description": "Ever walked away from a conversation feeling\u2026 still a little empty?Yeah, us too.That\u2019s exactly why we started The Firgun Collective\u2014a space where you don\u2019t have to perform, impress, or \u201cnetwork.\u201dJust come as you are.We\u2019re gathering a small group (8\u201310 people) to sit, talk, share, and just be.\ud83d\udccd Sunder Nursery\ud83d\uddd3 18th April\u23f0 6\u20137:30 PM\ud83d\udcb8 \u20b9199 per personIf this speaks to you, you already belong here.No pressure. Just presence.\ud83d\udd17 Register through linkhttps://forms.gle/sB1T5ff5rfQP8ePc7",
-    "startDate": "2026-04-18T18:00:00+05:30",
-    "endDate": "2026-04-18T19:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Sunder Nursery, Nizamuddin E Ln, near Humayun's Tomb, Nizamuddin, National Zoological Park, Nizamuddin West, New Delhi, Delhi 110013, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59568770000000000000",
-        "longitude": "77.24599909999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "199.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Firgun Collective",
-      "url": null
-    },
-    "url": "https://urbanaut.app/spot/an-evening-together",
-    "keywords": [
-      "Leisure",
-      "Responsible",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Correlation Is Not Causation",
     "description": "Join us for a lecture that begins with a deceptively simple question:When two things move together, does one actually cause the other?About the LectureWe live in a world overflowing with data.Patterns are everywhere \u2014 ice cream sales rise, and so do drowning rates. But does one cause the other? Or are we just seeing coincidence dressed up as meaning?This lecture unpacks why economists insist, almost stubbornly, that correlation is not causation \u2014 and why that distinction matters far beyond the classroom.At the heart of economics and public policy lies a deeper question: how do we know if something actually works?The session explores:The difference between correlation and causation, and why it\u2019s easy to confuse the twoHow economists use tools like hypothesis testing and p-values to separate signal from noiseWhat methods like difference-in-differences and regression discontinuity reveal about real-world impactHow policies are evaluated \u2014 from taxes to welfare programs \u2014 to determine whether they truly change outcomesThrough intuitive examples, the lecture moves beyond technical jargon to show how causal thinking shapes decisions that affect everyday life.About the SpeakerParush Arora is an Assistant Professor of Economics at Ashoka University. He completed his PhD in Economics from the University of California Irvine.His research focuses on econometrics, Bayesian inference, and empirical macroeconomics \u2014 fields that sit at the intersection of data, uncertainty, and decision-making. He holds a Bachelor\u2019s degree in Economics from the University of Delhi and a Master\u2019s from the Madras School of Economics.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
@@ -903,44 +940,6 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Aangan Edit 3 - Jimmno",
-    "description": "Aangan hosted by Jimmno, an intimate,\u00a0sit-down dining experience rooted in nostalgia, culture, and community.Aangan\u00a0is our attempt to revive a forgotten dining era when people gathered once a day around a shared table, exchanged stories, and connected over thoughtfully prepared food. It\u2019s not just an event, but a slow, immersive experience designed for a highly curated audience.",
-    "startDate": "2026-04-18T18:00:00+05:30",
-    "endDate": "2026-04-18T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "F-86, Radhey Mohan Dr, Fatehpur Beri, New Delhi, delhi, Delhi 110074, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46119180000000000000",
-        "longitude": "77.17071080000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3000.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Jimmno",
-      "url": "https://urbanaut.app/partner/100peoplesupper"
-    },
-    "url": "https://urbanaut.app/spot/aangan-edit-3-jimmno",
-    "keywords": [
-      "Live GIG",
-      "Premium",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
     "name": "The Morning Table: A Sunday Breakfast Gathering",
     "description": "The Brine Club is our way of bringing people together over food that\u2019s meant to be eaten slowly \u2014 and building a community of like-minded people around the table.Every table is different, every menu changes \u2014 because I like letting the day decide where things go.Most of our gatherings are sit-down.The Morning Table is a Sunday breakfast brunch hosted at our home in Gurgaon. ( Exact location to be shared 24 hours before the event to maintain privacy)We\u2019re putting together a menu of breakfast dishes from different parts of the world \u2014 the kind you usually only see online or in other cities. Think London\u2019s viral honey caramel butter toast, fried chicken & waffles, and our own slightly indulgent mango brioche toast, along with a few other plates.One beverage of your choice is included. If you feel like another round, additional drinks can be ordered during the brunch on an \u00e0 la carte basis.Everything will be served family-style, so the table eats together, passes plates around.The full menu is in the gallery.You\u2019ll be sharing the table with 10 people \u2014 some strangers, some soon-to-be friends. If you\u2019re someone who enjoys meeting new, interesting people over really good food, this might be your kind of Sunday morning.It\u2019s relaxed, a little indulgent, and not the kind of breakfast you usually find around the city.",
     "startDate": "2026-04-26T12:00:00+05:30",
@@ -973,44 +972,6 @@
       "Premium",
       "Pop-up Event",
       "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Paint Party - Sip & Paint Sundowner \ud83c\udfa8\ud83c\udf05",
-    "description": "Sip & Paint Sundowner \ud83c\udfa8\ud83c\udf05 (11 April 2026 & 18 April 2026 | 4:30 PM onwards | Gurgaon)Not every plan needs loud music and crowded spaces.Some evenings are meant to be slower, softer\u2026 and more real.The Paint Party by HumSupper is an intimate, curated experience designed for people who want something different from the usual Gurgaon scene.As the sun sets, step into a cozy space where you\u2019ll sip, paint, and connect, no pressure, no expectations. Whether you\u2019re an artist or someone who hasn\u2019t touched a brush in years, this is not about perfection. It\u2019s about expression!Beyond the canvas, the evening unfolds into a thoughtfully curated supper and interactive moments that make it easy to connect with strangers, and maybe leave with stories, not just memories. This isn\u2019t just a workshop. It\u2019s a feeling!What to Expect:\ud83c\udfa8 Guided painting session (no prior experience needed)\ud83c\udf77 Drinks to sip as you create\ud83c\udf74 A curated supper with a wholesome meal\ud83c\udfb6 Music + open-air sunset setting\ud83e\udd1d Fun games & activities for bonding\ud83d\uddbc Take-home canvasThis is not a restaurant reservation or a ticketed event, it\u2019s a thoughtfully curated supper built around good food, gentle conversations, and people who enjoy being present at the table.Each gathering is small, personal, and carefully planned. The menu is crafted with care, the seating is considered, and the experience is designed to feel warm, relaxed, and unhurried!",
-    "startDate": "2026-04-18T16:30:00+05:30",
-    "endDate": "2026-04-18T19:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Gurugram, Haryana, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.45949650000000000000",
-        "longitude": "77.02663830000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "HumSupper",
-      "url": "https://urbanaut.app/partner/humsupper"
-    },
-    "url": "https://urbanaut.app/spot/paint-party-sip-paint-sundowner",
-    "keywords": [
-      "Leisure",
-      "Food & drink",
-      "Art & culture",
       "URBANAUT"
     ]
   },
