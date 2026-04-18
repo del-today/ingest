@@ -2,7 +2,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "A Slow Sunset Walk in Delhi",
+    "name": "Krishna N\u0101da - An Evening of R\u0101ga & Bhakti",
+    "description": "Krishna N\u0101da \u2013 An Evening of R\u0101ga & Bhakti \ud83e\ude94\ud83c\udfb6Step into an atmosphere where music transcends performance and becomes a path to stillness, devotion, and inner connection. Krishna N\u0101da is a thoughtfully curated classical musical evening that brings together the richness of Indian tradition with a deeply spiritual experience.Set within the serene and divine surroundings of ISKCON Temple Dwarka, this evening invites you to pause, reflect, and immerse yourself in the timeless beauty of R\u0101ga, Bhajan, and Naam Sankirtan.\u2728 What Makes This Experience Special\u2022 Two Live Classical & Devotional Performances\u2013 Vocal Recital: A soulful expression of Hindustani classical and devotional music, rich in bhaav and tradition\u2013 Santoor Recital: A meditative instrumental journey accompanied by tabla and pakhawaj\u2022 A Curated Spiritual FlowFrom Raaga invocation to collective chanting, the evening is designed to gradually elevate your inner state - from sound to stillness\u2022 Sacred Venue ExperienceHosted at ISKCON Dwarka, offering a divine ambience, spiritual energy, and an elevated cultural setting\u2022 Beyond MusicThis is not just a concert = it is a space for connection, reflection, and shared devotion\u2022 Followed by Live Snacks Prasadam \ud83c\udf7dConclude your evening with a warm, community-driven dining experience\ud83d\udccd Event DetailsLocation: ISKCON Temple, Sector 13, Dwarka, New DelhiDate: Sunday, 10th May 2026Time: 6:00 PM onwards\ud83c\udf9f Entry: \u20b91700Limited seats for an intimate and premium experience",
+    "startDate": "2026-05-10T18:15:00+05:30",
+    "endDate": "2026-05-10T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Plot No.-4, Sub-City Level, Behind radission blue Hotel, Sector 13, Dwarka, New Delhi, Delhi, 110075, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.60026010000000000000",
+        "longitude": "77.03677090000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1785.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Avyukta Enterprises",
+      "url": "https://urbanaut.app/partner/avyukta-enterprises"
+    },
+    "url": "https://urbanaut.app/spot/krishna-nada-an-evening-of-raga-bhakti",
+    "keywords": [
+      "Music",
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Sunset Heritage Walk in Delhi",
     "description": "of the army. Perched atop a quiet hill behind Ahinsa Sthal, it delivers panoramic views of Mehrauli Archaeological Park, Qutub Minar, and the city skyline as the sun dips low with magical hues.Short, easy walk blending heritage tales, sensory calm, and aviation spotting- ideal for history lovers and photographers",
     "startDate": "2026-04-19T17:00:00+05:30",
     "endDate": "2026-04-19T18:30:00+05:30",
@@ -30,44 +68,6 @@
       "url": "https://urbanaut.app/partner/riwayatwalks"
     },
     "url": "https://urbanaut.app/spot/a-slow-sunset-walk-in-delhi-12",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "A Slow Sunset Walk in Delhi",
-    "description": "Join Riwayat Walks for an intimate sunset exploration of Azim Khan's Tomb, an unexplored Mughal tomb honoring a general of the army. Perched atop a quiet hill behind Ahinsa Sthal, it delivers panoramic views of Mehrauli Archaeological Park, Qutub Minar, and the city skyline as the sun dips low with magical hues.",
-    "startDate": "2026-04-18T17:30:00+05:30",
-    "endDate": "2026-04-18T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Butterfly Park, Qila Rai Pithora, Sainik Farm, G5CQ+CW5, Butterfly Park, Qila Rai Pithora, Sainik Farm, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52102480000000000000",
-        "longitude": "77.18987000000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "200.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Riwayat Walks",
-      "url": "https://urbanaut.app/partner/riwayatwalks"
-    },
-    "url": "https://urbanaut.app/spot/a-slow-sunset-walk-in-delhi",
     "keywords": [
       "Walking Tour",
       "History & heritage",
@@ -716,44 +716,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Paint Your Favourite Childhood Characters",
-    "description": "Ever noticed how the characters you grew up with never really leave you? They stay tucked somewhere between memory and feeling : familiar, comforting, and a little magical.In this workshop, you\u2019ll be painting your favourite childhood characters and turn them into fridge magnets : not just as fun objects, but as tiny artworks that bring a piece of your childhood into your everyday space.You can also join in as a pair, which means double the fun !! Each of you will paint two characters, creating your own little set of nostalgic magnets together.This workshop is part of Impressions, a buzzing Art event where six artists are coming together to share their art, processes, and stories ; so expect inspiration floating all around you while you draw!Bring a bit of nostalgia, and let\u2019s turn it into something you\u2019ll see, smile at, and keep close.With the energy of an art event around you, this workshop is less about perfection and more about joy, memory, and creating something that feels like you.\ud83c\udfa8 About the WorkshopWhat\u2019s happening?A hands-on session where you\u2019ll paint your favourite characters and turn them into fridge magnets.Why join?Because some memories deserve to live beyond your screen ;right on your fridge.Vibe check:Playful, colourful, nostalgic, and full of feel-good energy. Come alone or come with a friend , nostalgia is more fun when shared.Skills required:None at all. Just bring your love for cartoons and a little curiosity.Materials:All materials will be provided. Each participant will get to paint TWO Fridge magnets!Character references are for inspiration only. You can choose what you'd like to paint from the collection.InstructorChhavi Bhatnagar is an artist whose work feels like a hug from memory. With a background in Architecture and Product Design, she brings an impressionistic and deeply personal approach to her art, drawing from childhood experiences, everyday moments, and the emotional layers of growing up.",
-    "startDate": "2026-04-18T16:00:00+05:30",
-    "endDate": "2026-04-18T17:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "No.1, Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55491700000000000000",
-        "longitude": "77.19554620000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "864.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Studio Chhavi",
-      "url": "https://urbanaut.app/partner/studio-chhavi"
-    },
-    "url": "https://urbanaut.app/spot/paint-your-favourite-childhood-characters",
-    "keywords": [
-      "Leisure",
-      "Workshop",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Correlation Is Not Causation",
     "description": "Join us for a lecture that begins with a deceptively simple question:When two things move together, does one actually cause the other?About the LectureWe live in a world overflowing with data.Patterns are everywhere \u2014 ice cream sales rise, and so do drowning rates. But does one cause the other? Or are we just seeing coincidence dressed up as meaning?This lecture unpacks why economists insist, almost stubbornly, that correlation is not causation \u2014 and why that distinction matters far beyond the classroom.At the heart of economics and public policy lies a deeper question: how do we know if something actually works?The session explores:The difference between correlation and causation, and why it\u2019s easy to confuse the twoHow economists use tools like hypothesis testing and p-values to separate signal from noiseWhat methods like difference-in-differences and regression discontinuity reveal about real-world impactHow policies are evaluated \u2014 from taxes to welfare programs \u2014 to determine whether they truly change outcomesThrough intuitive examples, the lecture moves beyond technical jargon to show how causal thinking shapes decisions that affect everyday life.About the SpeakerParush Arora is an Assistant Professor of Economics at Ashoka University. He completed his PhD in Economics from the University of California Irvine.His research focuses on econometrics, Bayesian inference, and empirical macroeconomics \u2014 fields that sit at the intersection of data, uncertainty, and decision-making. He holds a Bachelor\u2019s degree in Economics from the University of Delhi and a Master\u2019s from the Madras School of Economics.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
@@ -931,120 +893,6 @@
       "url": "https://urbanaut.app/partner/sweat-like-a-girl"
     },
     "url": "https://urbanaut.app/spot/swagbadmintongk",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Pickleball with SWAG ( Delhi | Saket)",
-    "description": "Pickleball with SWAG is back!This is a women-only, beginner-friendly pickleball meet-up.4:50 PM Meet up and Warm up Time5:00 PM Game TimeSee you on court!",
-    "startDate": "2026-04-18T17:00:00+05:30",
-    "endDate": "2026-04-18T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "NEW GREEN FIELD SCHOOL, school, Ashok Vihar, Saket, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52369810000000000000",
-        "longitude": "77.20874010000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "360.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swagpickleball",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "BADDY WITH BADDIES (Badminton | Vasant Kunj)",
-    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.4:50 PM Meet up and Warm up Time5:00 PM Game TimeSee you on court!",
-    "startDate": "2026-04-18T17:00:00+05:30",
-    "endDate": "2026-04-18T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "inside DAV Public School, near Fortis Hospital, Pocket 1, Sector B, Vasant Kunj, New Delhi, Delhi 110070, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52084540000000000000",
-        "longitude": "77.16146610000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "250.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swagbadminton",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "SMASH LIKE A GIRL (Tennis | Delhi)",
-    "description": "\u200bHi girls! It\u2019s time to Smash Like a Girl \u2014 because we\u2019re finally bringing you TENNIS!This is a women-only, beginner-friendly, guided tennis meet-up. 3:50 PM Meet Up & Warm Up4:00 PM Game TimeSee you on court!",
-    "startDate": "2026-04-18T16:00:00+05:30",
-    "endDate": "2026-04-18T17:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "J6HH+MMC, Barakhamba Rd, Todermal Road Area, Mandi House, New Delhi, Delhi 110001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.62917610000000000000",
-        "longitude": "77.22913750000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "495.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swagtennis",
     "keywords": [
       "Leisure",
       "Wellness",
@@ -1433,42 +1281,6 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Can Fish Do Math? And Other Stories",
-    "description": "Join us for a lecture that begins with a childlike question, and opens into one of the biggest scientific mysteries:How do brains actually work?About the LectureWe spend years in school learning how to read, write, calculate, and make decisions.But how our brains actually learn to do any of this remains surprisingly unclear.How do clusters of neurons produce language? How do they perform mathematical operations? How do they help us navigate social worlds, make choices, and decide something as simple as what to eat for lunch?This lecture turns to an unexpected set of teachers: animals. From fish that can estimate quantities, to bees that communicate through movement, to monkeys and birds that display complex cognitive abilities, the session explores what non-human minds can reveal about our own.This lecture explores:What animal behaviour can teach us about human cognitionHow different species process information, communicate, and make decisionsWhy studying simpler nervous systems helps us understand complex onesWhat remains unknown about how brains learn, think, and adaptBlending neuroscience, psychology, and evolutionary biology, this lecture invites us to rethink intelligence, not as something uniquely human, but as a spectrum of abilities shaped across species.At its core, it asks: if we still don\u2019t fully understand our own minds, what might we learn by looking elsewhere?About the SpeakerBittu Kaveri Rajaraman is an Associate Professor of Biology and Psychology at Ashoka University. She received her PhD from Harvard University.Her work explores how brains, across species, process information, make decisions, and give rise to behaviour. Bringing together insights from biology and psychology, her research looks at cognition not as an abstract phenomenon, but as something rooted in neural systems shaped by evolution.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
-    "startDate": "2026-04-18T16:00:00+05:30",
-    "endDate": "2026-04-18T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Vasant Kunj Mall Rd T-306, Third Floor, Ambience Mall, 2, Nelson Mandela Marg, Ambience Island, Vasant Kunj II, Vasant Kunj, New Delhi, Delhi 110070, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54095240000000000000",
-        "longitude": "77.15509150000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "699.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/can-fish-do-math-and-other-stories",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
     "name": "26th April: Blueprints for Anti-Caste Protagonism",
     "description": "Join us for a lecture that asks a difficult question:Why is it so hard to see anti-caste assertion, even when it is right in front of us?About the LectureWhat does it mean to represent a body that history has refused to recognise?This lecture turns to art as a site of both inquiry and resistance, examining how caste operates not only through direct violence, but through subtler, representational forms that shape what can be seen, known, and acknowledged.Drawing from works such as Mukta Salve Triptych (2023) and Tannerfilm (2024), the session traces how infrastructures of caste have historically made it nearly impossible for anti-caste voices and assertions to be positively registered. It examines the lingering continuities between colonial ethnography of the 1850s and contemporary modes of representation \u2014 both of which render the Dalit body as devoid of agency, even in moments of clear self-assertion.The talk explores:How caste operates through visual and cultural representationWhy anti-caste assertion is often rendered illegible or erasedThe continuity between colonial and contemporary ways of seeing Dalit subjectivityHow art can function as a space of critique, interruption, and re-imaginationAbout the SpeakerRahee Punyashloka is an artist, writer, and experimental filmmaker based between Bhubaneswar and New Delhi. His work spans visual art, film, and writing, with a focus on creating anti-caste imagery and emancipatory imaginaries for Dalit subjectivity.His works have been exhibited at institutions and festivals including Khoj Studios, the Museum of Art and Photography, Haus der Kulturen der Welt, the Tribeca Film Festival, and the International Film Festival Rotterdam. He is also known by his online moniker artedkar.All Grounds for Thought tickets include a \u20b9250 coupon redeemable on food and beverages at the venue \u2014 so you can listen, reflect, and stay for conversation.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who want learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
     "startDate": "2026-04-26T16:00:00+05:30",
@@ -1579,42 +1391,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "#26 Martian Tales From a Former NASA Engineer",
-    "description": "#lecture25We\u2019re bringing you Nimisha Mittal, a veteran space systems engineer with over 15 years of experience at NASA\u2019s Jet Propulsion Laboratory (JPL). She led operations and testing for some of the world\u2019s most ambitious robotic missions including the Cassini mission at Saturn, three of NASA's five Mars rovers, the Insight Mars lander, and most recently the NASA-ISRO SAR mission, NISAR. After a career of exploring the solar system, she's just completed her own mission of relocating to India. With engineering degrees from UT Austin and Stanford, she's now turning her attention from exploring other worlds to helping build the future of the Indian space industry.Her talk, Martian Tales from a Former NASA Engineer, dives into the thrill of driving robots across another planet and the bigger question of why Mars captivates us so deeply. Is it the search for life, the dream of a second home, or something even more profound? With insider stories from her time on the Mars mission, she takes us through what a day on the Red Planet really looks like, the challenges of remote space exploration, and even what it takes to earn a Martian Driver\u2019s License.Come find out, and bring your questions \u2014 from whether humans can truly settle on Mars to what snacks power a NASA engineer through a 12-hour shift.All of this, over beer or mocktail at The Piano Man, Eldeco Centre! \ud83c\udf7bAbout the LecturerNimisha Mittal is a veteran space systems engineer with over 15 years of experience at NASA\u2019s Jet Propulsion Laboratory (JPL), where she led operations and testing for some of the world\u2019s most ambitious robotic missions including the Cassini mission at Saturn, three of NASA's five Mars rovers, the Insight Mars lander, and most recently the NASA-ISRO SAR mission NISAR. After a career of exploring the solar system, she's just completed her own mission of relocating to India. With engineering degrees from UT Austin and Stanford, she's now turning her attention from exploring other worlds to helping build the future of the Indian space industry.Book now & develop your own pint of view! \ud83c\udf7b\ud83d\udccc Note: Alcohol will be served only to guests aged 25 and above. Non-alcoholic options will be available. Attendance implies consent to being filmed for event documentation.",
-    "startDate": "2026-04-18T16:00:00+05:30",
-    "endDate": "2026-04-18T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Eldeco Centre, Block A, Shivalik Colony, Malviya Nagar, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52806900000000000000",
-        "longitude": "77.20516300000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "999.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Pint of View Delhi NCR",
-      "url": "https://urbanaut.app/partner/pint-of-view-delhi-ncr"
-    },
-    "url": "https://urbanaut.app/spot/martian-tales",
-    "keywords": [
-      "Live GIG",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "The Procrastireaders : Books & Coffee Tasting",
     "description": "The Procrastireaders: Books & Coffee TastingOverviewIf you have been wanting to get back to reading but find it hard to make the time at home, this is for you. The Procrastireaders is a dedicated space to finally open that book you have been meaning to finish. It is a slow paced morning designed for quiet reading and great coffee in the company of others who are doing the same.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to expectBring Your Own Book: Whether it is a novel you started months ago or a new non fiction find, bring along whatever you are currently reading.Dedicated Reading Time: Enjoy a block of quiet, uninterrupted time to sink into your book without the distractions of chores or your phone.Shared Atmosphere: The comfort of reading alongside a small group of people who are also prioritizing their love for books.Coffee & Chat: A low pressure chance to talk about what you are reading (or why you have been procrastinating) over a coffee at Unlocked.Details\ud83d\uddd3\ufe0f Date: 25th April (Saturday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Unlocked, 32nd Avenue\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes Coffee)",
     "startDate": "2026-04-25T11:30:00+05:30",
@@ -1718,43 +1494,6 @@
     "url": "https://urbanaut.app/spot/listening-room",
     "keywords": [
       "Wellness",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "The Art of Folding",
-    "description": "The Art of Folding: A Morning of Origami and FocusOverviewThis session is inspired by the cherry blossom season in Japan, symbolizing new beginnings and change. Participants will learn to create origami cherry blossoms and simple floral arrangements in a guided and beginner friendly environment.There is a unique kind of calm that comes from turning a simple square of paper into something beautiful. The Art of Folding is a hands on workshop dedicated to the meditative practice of origami. It is about slowing down, focusing on the present moment, and finding patience in every fold.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to expectStep by Step Guidance: Learn the foundational folds of origami to create intricate paper designs from scratch.Tactile Focus: Use your hands to engage in a process that naturally quiets the mind and improves concentration.Patience and Precision: A chance to practice a slow craft where the journey of folding is just as rewarding as the final piece.Creative Connection: Share a peaceful morning at Cha & Co with a small group of people who appreciate the beauty of simple things.Details\ud83d\uddd3\ufe0f Date: 18th April (Saturday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Cha & Co, Ireo Grand View High Street\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes Origami Paper + Materials)",
-    "startDate": "2026-04-18T11:30:00+05:30",
-    "endDate": "2026-04-18T13:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Ireo Grand View High Street, Sector 58, Gurugram, Haryana 122098, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.41560020000000000000",
-        "longitude": "77.10258329999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "661.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/the-art-of-folding",
-    "keywords": [
-      "Leisure",
-      "Workshop",
       "URBANAUT"
     ]
   },
