@@ -2,8 +2,46 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
+    "name": "Play to Performance: Improv 14 Hour Workshop",
+    "description": "Step into a space where spontaneity meets performance.Improv Level One \u2013 From Play to Performance is a 14-hour immersive improv theatre workshop at The Immersion Room, Gurgaon, designed for adults who want to explore creativity, confidence, and live expression.Through a series of interactive theatre games, scene work, and character exploration, participants develop:Spontaneity & quick thinkingPresence & active listeningConfidence in expressionCollaboration & trustStorytelling through performanceThis workshop focuses on learning by doing\u2014breaking inhibitions, embracing uncertainty, and discovering the joy of being fully present.Multi-day Weekend Workshop SeriesMay 3, 2026 | 11:00 AM \u2013 1:00 PMMay 10, 2026 | 11:00 AM \u2013 1:00 PMMay 17, 2026 | 11:00 AM \u2013 1:00 PMMay 24, 2026 | 12:00 PM \u2013 2:00 PMMay 31, 2026 | 11:00 AM \u2013 1:00 PMJune 7, 2026 | 11:00 AM \u2013 1:00 PMJune 14, 2026 | 11:00 AM \u2013 1:00 PMTotal Duration: 14 HoursFormat: In-person | Adults OnlyFinal Showcase:The experience culminates in a live improv performance at The Immersion Room, where participants step onto the stage and perform in front of an audience.",
+    "startDate": "2026-05-03T11:00:00+05:30",
+    "endDate": "2026-06-14T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "E5, Market Rd, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46575680000000000000",
+        "longitude": "77.09909929999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "12000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Immersion Room",
+      "url": "https://urbanaut.app/partner/theimmersionroom"
+    },
+    "url": "https://urbanaut.app/spot/improv-comedy-anshu-daga-intensive-workshop-tir-gurugram",
+    "keywords": [
+      "Live GIG",
+      "Workshop",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
     "name": "The Block Print Bar",
-    "description": "Gallery XXL in collaboration with BANANA Labs is excited to host a live, walk-in block printing workshop designed as a guided and hands-on experience. The participants will work with hand-carved blocks alongside a master artisan to create their own printed pieces while engaging with ideas of craft, slow processes, and contemporary applications of block printing.The participants will also be introduced to a \u201cprint your own jeans\u201d element, encouraging participants to repurpose their own denim or work on provided textile pieces.Ticket price: \u20b91000 per participantDate: Sunday, April 26, 2026Time: 11:00 am - 1:30 pmVenue: Gallery XXL, A-277, Defence Colony, New Delhi, Delhi-110024*Please note there is limited parking available at the gallery; we recommend using public transportFor any further information, contact us at info@galleryxxl.com or +91 9324857354",
+    "description": "Gallery XXL in collaboration with BANANA Labs is excited to host a live, walk-in block printing workshop designed as a guided and hands-on experience. The participants will work with hand-carved blocks alongside a master artisan to create their own printed pieces while engaging with ideas of craft, slow processes, and contemporary applications of block printing.The participants will also be introduced to a \u201cprint your own jeans\u201d element, encouraging participants to repurpose their own denim or work on provided textile pieces.*All materials except for used denim will be provided by the facilitators Ticket price: \u20b91000 per participantDate: Sunday, April 26, 2026Time: 11:00 am - 1:30 pmVenue: Gallery XXL, A-277, Defence Colony, New Delhi, Delhi-110024*Please note there is limited parking available at the gallery; we recommend using public transportFor any further information, contact us at info@galleryxxl.com or +91 9324857354",
     "startDate": "2026-04-26T11:00:00+05:30",
     "endDate": "2026-04-26T13:30:00+05:30",
     "location": {
@@ -107,44 +145,6 @@
     "url": "https://urbanaut.app/spot/krishna-nada-an-evening-of-raga-bhakti",
     "keywords": [
       "Music",
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Sunset Heritage Walk in Delhi",
-    "description": "of the army. Perched atop a quiet hill behind Ahinsa Sthal, it delivers panoramic views of Mehrauli Archaeological Park, Qutub Minar, and the city skyline as the sun dips low with magical hues.Short, easy walk blending heritage tales, sensory calm, and aviation spotting- ideal for history lovers and photographers",
-    "startDate": "2026-04-19T17:00:00+05:30",
-    "endDate": "2026-04-19T18:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Butterfly Park, Qila Rai Pithora, Sainik Farm, G5CQ+CW5, Butterfly Park, Qila Rai Pithora, Sainik Farm, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52102480000000000000",
-        "longitude": "77.18987000000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "200.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Riwayat Walks",
-      "url": "https://urbanaut.app/partner/riwayatwalks"
-    },
-    "url": "https://urbanaut.app/spot/a-slow-sunset-walk-in-delhi-12",
-    "keywords": [
-      "Walking Tour",
       "History & heritage",
       "Art & culture",
       "URBANAUT"
@@ -376,119 +376,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "BADDY WITH BADDIES (Gurugram)",
-    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.3:50 PM Meet up and Warm up Time4:00 PM Game TimeSee you on court!",
-    "startDate": "2026-04-19T17:00:00+05:30",
-    "endDate": "2026-04-19T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Sportyzo Badminton Academy, Emaar emerald hills, Golf Course Ext Rd, opposite Ivory Block, Sector 65, Gurugram, Haryana 122011, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.40465650000000000000",
-        "longitude": "77.07401440000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "250.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/badmintonggn",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Pickleball with SWAG (Gurugram)",
-    "description": "Pickleball with SWAG is back!This is a women-only, beginner-friendly pickleball meet-up.4:50 PM Meet up and Warm up Time5:00 PM Game TimeSee you on court!",
-    "startDate": "2026-04-19T17:00:00+05:30",
-    "endDate": "2026-04-19T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Sportyzo Sports Academy, Sector 65, Gurugram, Haryana 122101, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.40450950000000000000",
-        "longitude": "77.07416250000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "360.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/ggnpickle",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "A nostalgic Baithak on childhood comics!",
-    "description": "Many of us have spent our youth with our nose buried deep inside Amar Chitra Katha, Tinkle, Champak & other such comic books. These comics captivated us with their fantastical stories & intricate artwork, & often became our first source of contact with South Asian history & mythology. Though we've seen these stories adapted for television & film, nothing ever could quite capture the magic of the graphic novels we grew up on. \ud83d\udcda\ud83c\udf37 Silsila Heritage, invites you to our Baithak to reminisce on these comics & share our childhood experience with Amar Chitra Katha, Panchatantra & Tinkle. We will also be discussing how history & mythology is portrayed in Children's media, & how that influences our understanding of culture, identity & heritage. Along the way, we'll understand how exactly these comics were created & how this process shaped the stories being narrated.Whether you had a favorite Tinkle character, a beloved tale of ACK, or still remember the animals from Panchatantra, this Baithak is a space to revisit them all together. \ud83d\udc2fKnow Your Baithak Host:\u2728\ufe0f Ananya is currently pursuing a Master\u2019s in History from the University of Delhi, India, with a specialization in modern history. Her research interests primarily include caste, the colonial legal system & gendered labor in the colonial Indian context.",
-    "startDate": "2026-04-19T16:30:00+05:30",
-    "endDate": "2026-04-19T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Lodhi Rd, Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59309590000000000000",
-        "longitude": "77.21967939999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "225.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Silsila Heritage",
-      "url": "https://urbanaut.app/partner/silsilaheritage"
-    },
-    "url": "https://urbanaut.app/spot/a-nostalgic-baithak-on-childhood-comics",
-    "keywords": [
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Shiva Tattva (\u0936\u093f\u0935 \u0924\u0924\u094d\u0924\u094d\u0935)",
     "description": "Step into a powerful inner journey where sound becomes a pathway for deep healing.This 108 Mahamrityunjaya Mantra experience is designed as a deep energetic process \u2014 working beyond the surface of the mind, into the subtle layers of your body and consciousness.Through guided breath, rhythmic repetition, and sound, the vibration begins to move through your system \u2014 gently releasing stored stress, emotional heaviness, and energetic blockages. As the layers begin to soften, a natural state of calm, clarity, and inner healing emerges.This experience supports:\u2728 Emotional release and energetic healing\u2728 Deep nervous system relaxation\u2728 Letting go of fear, control, and inner resistance\u2728 Reconnecting with a more centred, grounded stateThe Mahamrityunjaya mantra carries a deeper significance of release from inner limitations and restoration of balance withinWith 108 repetitions, the sound creates a meditative rhythm that aligns breath, body, and awareness \u2014 allowing healing to unfold naturally, without force.",
     "startDate": "2026-04-25T18:00:00+05:30",
@@ -639,44 +526,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Aerial Yoga: Kids Edition",
-    "description": "Aerial Yoga \u2013 Kids Edition by The Immersion Room \ud83e\udd0dFacilitated by Neha PrajapatiStep into a space where movement becomes play, and confidence is built through experience.This Aerial Yoga session is thoughtfully designed for children aged 10\u201316 to explore movement in a way that feels exciting, freeing, and deeply engaging. Using soft fabric hammocks, kids will stretch, swing, invert, and balance\u2014building strength, flexibility, and focus while having fun.More than just a class, this is a guided experience that encourages body awareness, courage, and self-trust. Moving through the air and exploring new positions helps children gently step out of their comfort zones in a safe and supportive environment.The session is curated to feel both playful and structured\u2014so whether your child is new to aerial yoga or already active, they will feel comfortable, engaged, and inspired throughout.\u2728 What makes this specialA unique blend of movement, play, and mindful awareness\u2014designed to help kids feel stronger, more confident, and connected to their body in a joyful way.",
-    "startDate": "2026-04-19T16:00:00+05:30",
-    "endDate": "2026-04-19T17:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "E5, Market Rd, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46575680000000000000",
-        "longitude": "77.09909929999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "1299.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Immersion Room",
-      "url": "https://urbanaut.app/partner/theimmersionroom"
-    },
-    "url": "https://urbanaut.app/spot/aerial-yoga-kids-age10-tir-gurugram",
-    "keywords": [
-      "Premium",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Correlation Is Not Causation",
     "description": "Join us for a lecture that begins with a deceptively simple question:When two things move together, does one actually cause the other?About the LectureWe live in a world overflowing with data.Patterns are everywhere \u2014 ice cream sales rise, and so do drowning rates. But does one cause the other? Or are we just seeing coincidence dressed up as meaning?This lecture unpacks why economists insist, almost stubbornly, that correlation is not causation \u2014 and why that distinction matters far beyond the classroom.At the heart of economics and public policy lies a deeper question: how do we know if something actually works?The session explores:The difference between correlation and causation, and why it\u2019s easy to confuse the twoHow economists use tools like hypothesis testing and p-values to separate signal from noiseWhat methods like difference-in-differences and regression discontinuity reveal about real-world impactHow policies are evaluated \u2014 from taxes to welfare programs \u2014 to determine whether they truly change outcomesThrough intuitive examples, the lecture moves beyond technical jargon to show how causal thinking shapes decisions that affect everyday life.About the SpeakerParush Arora is an Assistant Professor of Economics at Ashoka University. He completed his PhD in Economics from the University of California Irvine.His research focuses on econometrics, Bayesian inference, and empirical macroeconomics \u2014 fields that sit at the intersection of data, uncertainty, and decision-making. He holds a Bachelor\u2019s degree in Economics from the University of Delhi and a Master\u2019s from the Madras School of Economics.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
@@ -708,80 +557,6 @@
     "url": "https://urbanaut.app/spot/correlation-is-not-causation",
     "keywords": [
       "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "COAST TO COAST - Gruha x The House of Gonsalves",
-    "description": "\ud83c\udf3f A Curated Odia x Mangalorean Experience \ud83c\udf3fGruha, a father-daughter Odia supper club, and The House of Gonsalves (HOG), a mother-daughter Mangalorean supper club come together for the very first time in Gurgaon to bring you something deeply personal\u2014a Coast to Coast Lunch, where our homes, cultures, and traditions meet at one table.What began in our kitchens, with recipes passed down through generations, homemade masalas, and stories told over everyday meals, now comes together in a first-of-its-kind collaboration\u2014two families, two coasts, one shared table. Every dish carries a piece of where we come from, the way we\u2019ve grown up eating, and the love with which our families have always fed people.Hosted right here in Gurgaon, this intimate, community-led experiential table is more than just a meal\u2014it\u2019s an invitation into our worlds, shaped by stories, traditions, and home.\u2728 Expect familiar comfort, with unexpected and unique pairings.\ud83d\udcc6 Date: 19th April, Sunday\ud83d\udccd Location: Sector 52, Gurgaon\u23f0 Timing: 1-4 PM\ud83c\udf38 Experience Includes: This is a thoughtfully curated experience\u2014a 4-course meal weaving Odia and Mangalorean cuisines, paired with two beverages, and ending with the comfort of Odia special tea and South Indian filter coffee, just like home.",
-    "startDate": "2026-04-19T13:00:00+05:30",
-    "endDate": "2026-04-19T16:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "C-40/C-1, Block C, Ardee City, Sector 52, Gurugram, Haryana 122003, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.44212480000000000000",
-        "longitude": "77.07716260000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "GRUHA - SUPPER CLUB",
-      "url": "https://urbanaut.app/partner/odishagruha"
-    },
-    "url": "https://urbanaut.app/spot/coast-to-coast-gruha-x-the-house-of-gonsalves",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Guided Pickleball | SWAG x Delhi Picklers",
-    "description": "Guided Pickleball with SWAG x Delhi Picklers is back!This is a women-only, beginner-friendly pickleball meet-up. The session is guided by a coach.4:50 PM Meet up and Warm up Time5:00 PM Game TimeSee you on court!",
-    "startDate": "2026-04-19T17:00:00+05:30",
-    "endDate": "2026-04-19T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Opposite Bunglow No.46, Sector 4, Lodhi Estate, Lodhi Estate, New Delhi, Delhi 110003, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59422390000000000000",
-        "longitude": "77.22559430000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "399.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swagpickleballkhan",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
       "URBANAUT"
     ]
   },
@@ -827,44 +602,6 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "A summer table from Odisha! - Pakhala Pop Up",
-    "description": "Pakhala Pop-Up: A Summer Table from OdishaA Rosei Ghara x Kartik\u2019s Kitchen CollaborationWe bring to the table a ritual from coastal Odisha \u2014 a meal designed for summer.Pakhala is not just fermented rice. It is comfort, cooling, seasonal wisdom, and memory served in a bowl.On the 19th of April, from 12 pm onwards, Rosei Ghara, in collaboration with Kartik\u2019s Kitchen, invites you to experience an Odia summer table \u2014 thoughtfully curated, slow, and rooted in tradition.What to Expect:At the centre sits Pakhala \u2014 lightly fermented rice, cooling and probiotic-rich \u2014 accompanied by an abundant spread of classic summer sides. Expect crisp fries, smoky mash, leafy greens, lentil badis, seasonal vegetables, and carefully spiced accompaniments \u2014 each dish balancing texture, heat, tang, and crunch.Why It\u2019s Special:\u2022 A rare opportunity to experience Odisha\u2019s iconic summer meal in Delhi\u2022 A collaboration between two kitchens that celebrate regional Indian flavours\u2022 Limited seating to preserve the intimacy of the table\u2022 Hosted in a private residence in Chattarpur\u2022 A slow, immersive lunch designed around seasonality and traditionPakhala is typically eaten for lunch in Odia homes \u2014 and we invite you to experience it exactly as it is meant to be enjoyed: unhurried, generous, and shared.\ud83d\udccd Venue: Chattarpur, Delhi\ud83d\uddd3\ufe0f Date : 19h April\ud83d\udd5b Time: 12 pm onwards\u2728 Limited seats | Community dining experienceCome curious. Come hungry.Leave with a new understanding of how Odisha does summer.",
-    "startDate": "2026-04-19T12:00:00+05:30",
-    "endDate": "2026-04-19T14:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "C-Block, Chhattarpur Enclave, Phase-2, C-38, Street No. 10, DR Ambedkar Colony, Chhatarpur Enclave Phase 2, Mittal Garden, Maidan Garhi, New Delhi, Delhi 110074, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.50431950000000000000",
-        "longitude": "77.19077190000002000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2799.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Rosei Ghara",
-      "url": "https://urbanaut.app/partner/roseighara"
-    },
-    "url": "https://urbanaut.app/spot/summertablefromodisha",
-    "keywords": [
-      "Premium",
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "A summer table from Odisha! - Pakhala Pop Up",
     "description": "Pakhala Pop-Up: A Summer Table from OdishaA Rosei Ghara x Kartik\u2019s Kitchen CollaborationWe bring to the table a ritual from coastal Odisha \u2014 a meal designed for summer.Pakhala is not just fermented rice. It is comfort, cooling, seasonal wisdom, and memory served in a bowl.On the 26th of April, from 12 pm onwards, Rosei Ghara, in collaboration with Kartik\u2019s Kitchen, invites you to experience an Odia summer table \u2014 thoughtfully curated, slow, and rooted in tradition.What to Expect:At the centre sits Pakhala \u2014 lightly fermented rice, cooling and probiotic-rich \u2014 accompanied by an abundant spread of classic summer sides. Expect crisp fries, smoky mash, leafy greens, lentil badis, seasonal vegetables, and carefully spiced accompaniments \u2014 each dish balancing texture, heat, tang, and crunch.Why It\u2019s Special:\u2022 A rare opportunity to experience Odisha\u2019s iconic summer meal in Gurgaon\u2022 A collaboration between two kitchens that celebrate regional Indian flavours\u2022 Limited seating to preserve the intimacy of the table\u2022 Hosted in K-38 Studios, DLF PHASE I, Gurgaon\u2022 A slow, immersive lunch designed around seasonality and traditionPakhala is typically eaten for lunch in Odia homes \u2014 and we invite you to experience it exactly as it is meant to be enjoyed: unhurried, generous, and shared.\ud83d\udccd Venue: K-38 Studios, Gurgaon\ud83d\uddd3\ufe0f Date : 26th April\ud83d\udd5b Time: 12 pm onwards\u2728 Limited seats | Community dining experienceCome curious. Come hungry.Leave with a new understanding of how Odisha does summer.",
     "startDate": "2026-04-26T12:00:00+05:30",
     "endDate": "2026-04-26T14:30:00+05:30",
@@ -896,82 +633,6 @@
       "Premium",
       "Pop-up Event",
       "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Journey Of Hearts - Delhi Open Mic",
-    "description": "Journey of Hearts \u2013 Delhi Open Mic | Likhon Dil SeSome stories don\u2019t need perfection.They just need a voice.Journey of Hearts is not just an open mic \u2014 it\u2019s a space where emotions spill without filters, where broken sentences are still beautiful, and where silence is just as powerful as words.Hosted by Likhon Dil Se, this evening is for the ones who have loved deeply, lost quietly, healed slowly, and are still figuring it all out.Whether you\u2019re a poet, storyteller, musician, or just someone who feels too much \u2014 this stage is yours.No judgments.No pretence.Just raw, honest expression.Come as you are.Leave a little lighter.",
-    "startDate": "2026-04-19T16:00:00+05:30",
-    "endDate": "2026-04-19T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "C-110, near Sapna Cinema Road, beside Janta Bakery, Dayanand Colony, C- Block, Lajpat Nagar 4, Redlight, New Delhi, Delhi 110024, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.56062630000000000000",
-        "longitude": "77.24616180000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "249.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "LIKHON DIL SE",
-      "url": "https://urbanaut.app/partner/likhondilse"
-    },
-    "url": "https://urbanaut.app/spot/journey-of-hearts-delhi-open-mic-12194",
-    "keywords": [
-      "Leisure",
-      "Live GIG",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Sultanate\u2019s Canvas: Sayyid Grace & Lodhi Might",
-    "description": "In celebration of World Heritage Day!Don't just walk past history\u2014walk through it. Whether you are a photography enthusiast, a curious wanderer, a history buff, or someone looking to see the city with fresh eyes, this canvas is waiting for you.To the casual stroller, Lodhi Gardens is a lush urban sanctuary. To the discerning eye, it is a battlefield of aesthetics\u2014a sprawling stone canvas where two distinct dynasties etched their legacies in the twilight of the Delhi Sultanate.On World Heritage Day, we explore the evolution of architectural styles and influences that resulted in monuments which were distinct and reflected the temperament of their rulers. Join us for a curated heritage walk through Lodhi Gardens, where the shifting tides of the 15th-century Delhi Sultanate are etched into every dome and archway.",
-    "startDate": "2026-04-19T17:00:00+05:30",
-    "endDate": "2026-04-19T18:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Lodhi Rd, Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59309590000000000000",
-        "longitude": "77.21967939999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "600.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Mera \u0936\u0939\u0930 \u2013 My City Walks",
-      "url": "https://urbanaut.app/partner/merasheharmycitywalks"
-    },
-    "url": "https://urbanaut.app/spot/the-sultanates-canvas-sayyid-grace-lodhi-might",
-    "keywords": [
-      "Leisure",
-      "Walking Tour",
-      "History & heritage",
       "URBANAUT"
     ]
   },
@@ -1125,42 +786,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "19th April: The Default Citizen",
-    "description": "The Default CitizenCaste, Minority, and the Idea of Citizenship in IndiaJoin us for a lecture that begins with a deceptively simple question:Who is seen as a natural citizen, and who must constantly prove they belong?About the LectureWe often think of citizenship as a legal category, defined by documents, rights, and recognition by the state.But citizenship is also a matter of imagination.Who is assumed to belong without question? And who is treated as a minority, required to negotiate, justify, and defend their place within the nation?This lecture explores the idea of citizenship in India through its entanglement with caste, majority, and minority. Drawing on B. R. Ambedkar\u2019s reflections on the minority question, the session shifts the conversation beyond religion and numbers, asking what happens when caste is placed at the centre of how we understand belonging.The talk examines:Why minority in India cannot be reduced to numerical smallnessHow historical subordination and unequal representation shape political belongingThe emergence of a \u201cdefault citizen\u201d whose presence is seen as natural and unquestionedHow caste and majoritarian politics shape the very idea of citizenshipRather than treating citizenship as neutral or universal, this lecture reveals it as a deeply political construct, shaped by power, history, and the ongoing struggle for recognition.About the SpeakerVikas Kumar Moola is a doctoral researcher in the Humanities and Social Sciences at Indian Institute of Science Education and Research Mohali, where his work examines the conceptual and historical making of citizenship in India through the lens of caste and majority-minority relations.He holds a Master\u2019s degree in Sociology from the University of Hyderabad and an M.Phil. in Social Sciences from Centre for Studies in Social Sciences Calcutta.Alongside his academic work, he is part of the editorial team at The Ambedkarian Chronicle, contributing to the development of an autonomous anti-caste knowledge institution. He has also worked in the development sector, combining socio-political analysis with grounded field research.Vikas is a Central Committee member of the All India Independent Scheduled Castes Association (AIISCA), where he is engaged in advancing Dalit rights, dignity, and collective assertion across regions and communities.All Grounds for Thought tickets include a \u20b9250 coupon redeemable on food and beverages at the venue \u2014 so you can listen, reflect, and stay for conversation.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
-    "startDate": "2026-04-19T16:00:00+05:30",
-    "endDate": "2026-04-19T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Basement, Ground floor and First floor Building no. 12, Panchsheel Community Centre, Shahpur Jat, Panchsheel Park, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54805190000000000000",
-        "longitude": "77.21147640000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "550.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/the-default-citizen",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "The Procrastireaders : Books & Coffee Tasting",
     "description": "The Procrastireaders: Books & Coffee TastingOverviewIf you have been wanting to get back to reading but find it hard to make the time at home, this is for you. The Procrastireaders is a dedicated space to finally open that book you have been meaning to finish. It is a slow paced morning designed for quiet reading and great coffee in the company of others who are doing the same.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to expectBring Your Own Book: Whether it is a novel you started months ago or a new non fiction find, bring along whatever you are currently reading.Dedicated Reading Time: Enjoy a block of quiet, uninterrupted time to sink into your book without the distractions of chores or your phone.Shared Atmosphere: The comfort of reading alongside a small group of people who are also prioritizing their love for books.Coffee & Chat: A low pressure chance to talk about what you are reading (or why you have been procrastinating) over a coffee at Unlocked.Details\ud83d\uddd3\ufe0f Date: 25th April (Saturday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Unlocked, 32nd Avenue\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes Coffee)",
@@ -1192,43 +817,6 @@
     "url": "https://urbanaut.app/spot/books-and-coffee-tasting",
     "keywords": [
       "Leisure",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Open SketchBook",
-    "description": "Open SketchBook: You don\u2019t need to leave the city to feel grounded.OverviewOur core belief is that you do not need to leave the city to feel grounded. In a world where everyone is distracted, we pause as a group to give our attention to one shared thing. Sketching becomes the medium to notice small, living details in urban spaces that we usually rush through.You do not need to be an artist to enjoy sketching. Open SketchBook is a session for anyone who wants to explore drawing as a way to relax and observe the world. It is about the process of putting pencil to paper rather than the final masterpiece.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to expectGuided Observation: Learn simple ways to look at objects or spaces and translate them into lines and shapes.Creative Freedom: A judgment free zone where you can experiment with sketching without worrying about \"doing it right.\"Tactile Experience: Use your new diary and pencil kit to capture what you see in the moment.Relaxed Environment: Enjoy a late afternoon at Greenr with a small group of people who just want to create and connect.Details\ud83d\uddd3\ufe0f Date: 19th April (Sunday)\u23f0 Time: 5:00 PM\ud83d\udccd Location: Greenr, Golf Course Ext Road\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes an A6 diary and pencil kit)",
-    "startDate": "2026-04-19T17:00:00+05:30",
-    "endDate": "2026-04-19T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "First Floor, Grand View High Street, Golf Course Ext Rd, Sector 58, Gurugram, Haryana 122098, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.41623070000000000000",
-        "longitude": "77.10243700000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "661.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/open-sketchbook",
-    "keywords": [
-      "Leisure",
-      "Art & culture",
       "URBANAUT"
     ]
   },
