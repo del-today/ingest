@@ -1,6 +1,44 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Chandni Chowk Heritage Walk",
+    "description": "Memory lanes invites you to explore Old Delhi with Jibin George, through temples, bazaars, and streets rich with layers of culture and coexistence.Less a history lesson, more an invitation to experience the city with fresh perspective.Saturday, April 25 at 8 am followed by breakfast at Chor Bizarre*Please note: The walk begins at 8:00 AM sharp from Chor Bizarre.*At Chor Bizarre, Fridays are for conversations with the city\u2019s cultural voices, and weekends for heritage walks through memory and place.",
+    "startDate": "2026-04-25T08:00:00+05:30",
+    "endDate": "2026-04-25T11:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Hotel Broadway, 4/15A, Asaf Ali Rd, Chatta lal Miya, Chandni Mahal, Chandni Chowk, Delhi, New Delhi, Delhi 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64105660000000000000",
+        "longitude": "77.23791410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "788.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Chor Bizarre",
+      "url": "https://urbanaut.app/partner/chor-bizarre"
+    },
+    "url": "https://urbanaut.app/spot/chandni-chowk-heritage-walk",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Play to Performance: Improv 14 Hour Workshop",
     "description": "Step into a space where spontaneity meets performance.Improv Level One \u2013 From Play to Performance is a 14-hour immersive improv theatre workshop at The Immersion Room, Gurgaon, designed for adults who want to explore creativity, confidence, and live expression.Through a series of interactive theatre games, scene work, and character exploration, participants develop:Spontaneity & quick thinkingPresence & active listeningConfidence in expressionCollaboration & trustStorytelling through performanceThis workshop focuses on learning by doing\u2014breaking inhibitions, embracing uncertainty, and discovering the joy of being fully present.Multi-day Weekend Workshop SeriesMay 3, 2026 | 11:00 AM \u2013 1:00 PMMay 10, 2026 | 11:00 AM \u2013 1:00 PMMay 17, 2026 | 11:00 AM \u2013 1:00 PMMay 24, 2026 | 12:00 PM \u2013 2:00 PMMay 31, 2026 | 11:00 AM \u2013 1:00 PMJune 7, 2026 | 11:00 AM \u2013 1:00 PMJune 14, 2026 | 11:00 AM \u2013 1:00 PMTotal Duration: 14 HoursFormat: In-person | Adults OnlyFinal Showcase:The experience culminates in a live improv performance at The Immersion Room, where participants step onto the stage and perform in front of an audience.",
@@ -709,8 +747,8 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "ALT EFF Film Club x GuruJal Gurugram | 17th April",
-    "description": "If you are tired of the outrage cycle, doomscrolling collapse, and the looming AI takeover narrative. If you have caught yourself going numb just to cope. We see you.All Living Things Environmental Film Festival is back with the third season of Film Club. A monthly meet up across 10 cities over 5 months, orbiting environmental cinema that cracks you open without trapping you in doom and gloom.It is a room full of people choosing to show up in cities whose infrastructure persuades you to stay home, choosing to sit together, watch together, and turn private anxiety into collective imagination. Messy. Human. Honest conversation.With snacks. Always snacks.To become a Film Club Member, continue with the regular booking process. The membership option will appear after you select the venue and date.APRIL CURATION: \"The Climate Baby Dilemma\"Synopsis:\"The Climate Baby Dilemma\" by filmmaker Victoria Lean follows science writer Britt Wray as she explores the decision to have children amid climate change. Over three years, she engages with activists and parents, reflecting generational concerns. Featuring Sarain Fox and Severn Suzuki, the film offers insights on transforming climate anxiety into action.PROGRAMME17th April 2026, Friday7:00 - 9:00 PM: The Climate Baby Dilemma | Victoria Lean | Canada | 44 mins | English | 2022All activities, including discussions and refreshments, will occur between 7:00 and 9:00 PM.What's Included?Film screeningGroup discussionLight refreshmentsCommunity spaceStudent Discount50% off for students with a valid ID (& must bring ID to the screening).CODE: ALTSTUDENTABOUT ALT EFFAll Living Things Environmental Film Festival (ALT EFF) is the world\u2019s largest decentralised film festival and a premiere showcase for environmental cinema.Across its annual festival, monthly Film Club, schools initiatives, film fund, and year round curations, ALT EFF nurtures stories grounded in care, collective responsibility, stewardship, and an abiding love for the natural world.Spanning countries, genres, languages, and forms, it brings together stories reimagining our relationship with all living things.",
+    "name": "ALT EFF Film Club x GuruJal Gurugram | 15th May",
+    "description": "If you are tired of the outrage cycle, doomscrolling collapse, and the looming AI takeover narrative. If you have caught yourself going numb just to cope. We see you.All Living Things Environmental Film Festival is back with the third season of Film Club. A monthly meet up across 10 cities over 5 months, orbiting environmental cinema that cracks you open without trapping you in doom and gloom.It is a room full of people choosing to show up in cities whose infrastructure persuades you to stay home, choosing to sit together, watch together, and turn private anxiety into collective imagination. Messy. Human. Honest conversation.With snacks. Always snacks.To become a Film Club Member, continue with the regular booking process. The membership option will appear after you select the venue and date.All activities, including discussions and refreshments, will occur between 7:00 and 9:00 PM.What's Included?Film screeningGroup discussionLight refreshmentsCommunity spaceStudent Discount50% off for students with a valid ID (& must bring ID to the screening).CODE: ALTSTUDENTABOUT ALT EFFAll Living Things Environmental Film Festival (ALT EFF) is the world\u2019s largest decentralised film festival and a premiere showcase for environmental cinema.Across its annual festival, monthly Film Club, schools initiatives, film fund, and year round curations, ALT EFF nurtures stories grounded in care, collective responsibility, stewardship, and an abiding love for the natural world.Spanning countries, genres, languages, and forms, it brings together stories reimagining our relationship with all living things.",
     "startDate": "2026-05-15T19:00:00+05:30",
     "endDate": "2026-05-15T21:00:00+05:30",
     "location": {
@@ -737,6 +775,44 @@
       "url": "https://urbanaut.app/partner/alteff-filmclub"
     },
     "url": "https://urbanaut.app/spot/alteff-filmclub-gurugram",
+    "keywords": [
+      "Local",
+      "Festival",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "ALT EFF Film Club x Remakery Delhi | 15th May",
+    "description": "If you are tired of the outrage cycle, doomscrolling collapse, and the looming AI takeover narrative. If you have caught yourself going numb just to cope. We see you.All Living Things Environmental Film Festival is back with the third season of Film Club. A monthly meet up across 10 cities over 5 months, orbiting environmental cinema that cracks you open without trapping you in doom and gloom.It is a room full of people choosing to show up in cities whose infrastructure persuades you to stay home, choosing to sit together, watch together, and turn private anxiety into collective imagination. Messy. Human. Honest conversation.With snacks. Always snacks.To become a Film Club Member, continue with the regular booking process. The membership option will appear after you select the venue and date.All activities, including discussions and refreshments, will occur between 7:00 and 9:00 PM.What's Included?Film screeningGroup discussionLight refreshmentsCommunity spaceStudent Discount50% off for students with a valid ID (& must bring ID to the screening).CODE: ALTSTUDENTABOUT ALT EFFAll Living Things Environmental Film Festival (ALT EFF) is the world\u2019s largest decentralised film festival and a premiere showcase for environmental cinema.Across its annual festival, monthly Film Club, schools initiatives, film fund, and year round curations, ALT EFF nurtures stories grounded in care, collective responsibility, stewardship, and an abiding love for the natural world.Spanning countries, genres, languages, and forms, it brings together stories reimagining our relationship with all living things.",
+    "startDate": "2026-05-15T19:00:00+05:30",
+    "endDate": "2026-05-15T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "R 84, opposite Select Citywalk, Block J, Khirki Extension, Malviya Nagar, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53209050000000000000",
+        "longitude": "77.21784699999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "300.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "All Living Things Environmental Film Festival",
+      "url": "https://urbanaut.app/partner/alteff-filmclub"
+    },
+    "url": "https://urbanaut.app/spot/alteff-filmclub-delhi",
     "keywords": [
       "Local",
       "Festival",
