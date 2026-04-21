@@ -2,6 +2,310 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Climb Like A Girl",
+    "description": "Climb Like A Girl is back! Get ready for a fun, energizing climbing session. It is a beginner-friendly, women-only meetup. The session will be guided by professionals at The Delhi Rock. Just bring your energy, curiosity, and love for trying something new! The venue is in the Squash and Badminton Stadium on Siri Fort Road.",
+    "startDate": "2026-04-26T11:00:00+05:30",
+    "endDate": "2026-04-26T12:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Squash and Badminton Stadium, Siri Fort Rd, Siri Fort, New Delhi, Delhi 110049, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55290090000000000000",
+        "longitude": "77.22078920000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "400.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swagclim",
+    "keywords": [
+      "Adventure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Open Mic at goSTOPS Delhi",
+    "description": "Delhi Bolo x MCMV Open Mic \ud83c\udfa4Delhi Bolo and MyCityMyVoice bring you an open mic for anyone who wants to perform and share their talent.Whether you\u2019re a beginner or experienced, all artists are welcome\u2014poets, singers, comedians, rappers and more.\ud83c\udfa4 Performance Details:\u2022\u2060  \u20605 minutes per performer\u2022\u2060  \u2060Slots are first come, first served\ud83d\udcc5 Date: 10 May 2026\u23f0 Time: 2 PM \u2013 5 PM\ud83d\udccd Venue: goSTOPS, Baani Square, Sector 51, GurugramCome perform, watch, and enjoy a creative evening!",
+    "startDate": "2026-05-10T14:00:00+05:30",
+    "endDate": "2026-05-10T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gate no 3, 4/23-B, Asaf Ali Rd, opp. Metro Station, Chatta lal Miya, Delhi Gate, Daryaganj, New Delhi, Delhi, 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64083430000000000000",
+        "longitude": "77.23897370000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "149.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "goSTOPS",
+      "url": "https://urbanaut.app/partner/gostops"
+    },
+    "url": "https://urbanaut.app/spot/open-mic-at-gostops-delhi",
+    "keywords": [
+      "Leisure",
+      "Live GIG",
+      "Local",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Daughters of Shahjahan : Heritage walk @ Redfort",
+    "description": "Daughters of ShahjahanA Heritage Walk at the Red Fort (With Dramatic reading of Play excerpts)Step beyond the imposing walls of the Red Fort and into a lesser-told chapter of Mughal history\u2014one shaped not just by emperors, but by their daughters.\u201cDaughters of Shahjahan\u201d invites you to explore the lives of powerful Mughal women who stood at the heart of the empire during one of its most turbulent phases\u2014the battle of succession. Through stories of ambition, loyalty, resilience, and political acumen, we uncover how these women influenced decisions, forged alliances, and left an indelible mark on history.As we walk through the Red Fort, its silent corridors will come alive with narratives often left out of mainstream history. The experience culminates in a dramatic reading of play excerpts, bringing these voices from the past into the present\u2014intimate, evocative, and deeply human.Come, witness history not just as it was recorded, but as it was lived.Join us for a morning of stories, spaces, and performance.",
+    "startDate": "2026-04-25T08:30:00+05:30",
+    "endDate": "2026-04-25T10:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.65615920000000000000",
+        "longitude": "77.24102030000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "755.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/daughters-of-shahjahan-heritage-walk-redfort",
+    "keywords": [
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Guided Pickleball",
+    "description": "Guided Pickleball with SWAG x Delhi Picklers is back!This is a women-only, beginner-friendly pickleball meet-up. The session is guided by a coach.4:50 PM Meet up and Warm up Time5:00 PM Game TimeSee you on court!",
+    "startDate": "2026-04-26T17:00:00+05:30",
+    "endDate": "2026-04-26T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Opposite Bunglow No.46, Sector 4, Lodhi Estate, Lodhi Estate, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59422390000000000000",
+        "longitude": "77.22559430000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "399.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swagpickleballkhan",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "BADDY WITH BADDIES (Badminton | Vasant Kunj)",
+    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.4:50 PM Meet up and Warm up Time5:00 PM Game TimeSee you on court!",
+    "startDate": "2026-04-25T17:00:00+05:30",
+    "endDate": "2026-04-25T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "inside DAV Public School, near Fortis Hospital, Pocket 1, Sector B, Vasant Kunj, New Delhi, Delhi 110070, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52084540000000000000",
+        "longitude": "77.16146610000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "250.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swagbadminton",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Hot Girls Do Pilates | SWAG x Coloressence",
+    "description": "Let\u2019s make your Saturday morning extra feel-good with Hot Girs Do Pilates, a guided mat pilates experience presented by SWAG x \u200bColoressence \ud83d\udc9bCome and be pampered with goodies and yoga mats by Coloressence, beat the heat with some lemonade by Orika, and the yummiest spread to please your tummies!Also have some surprise challenges and giveaways waiting for you...",
+    "startDate": "2026-04-25T10:00:00+05:30",
+    "endDate": "2026-04-25T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "C13 Basement, Geetanjali Enclave, Malviya Nagar, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53037700000000000000",
+        "longitude": "77.20199640000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "999.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/hotgirlsdopilates",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Nerd Nite Gurgaon",
+    "description": "Three talks. One night. Drinks encouraged. Nerd Nite is one of the world\u2019s largest knowledge-sharing event series, with chapters in over 100 cities. We are so excited to bring this to Gurgaon.The format is simple: three speakers, each with 15-18 minutes to dive into something they\u2019re nerdy about, followed by a bit of Q&A. The topics can be anything: economics, art, data science, failed utopias, 90s pop culture. If it\u2019s interesting, it\u2019s in.It all started in a Boston bar in 2003, when a biologist got tipsy and gave a talk about birds that commit identity theft. It was ridiculous. And brilliant. Since then, Nerd Nite has grown into a global community of curious people who\u2019d rather spend an evening learning something weird than sitting through a panel or pretending to network. No suits. No panels. No buzzwords. Just smart people, great stories, and a drink in hand.Bring a friend. Bring a question. Bring your nerdiest self. We will bring the rest.",
+    "startDate": "2026-04-26T16:00:00+05:30",
+    "endDate": "2026-04-26T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "2nd, Crosspoint Mall, opposite Hamilton Court Road, Galleria Market, Sector 28, DLF Phase IV, Gurugram, Haryana 122009, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46829530000000000000",
+        "longitude": "77.08333890000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Nerd Nite Gurgaon",
+      "url": "https://urbanaut.app/partner/nerdnitegurgaon"
+    },
+    "url": "https://urbanaut.app/spot/nngapril",
+    "keywords": [
+      "Live GIG",
+      "Food & drink",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "SMASH LIKE A GIRL (Tennis | Delhi)",
+    "description": "\u200bHi girls! It\u2019s time to Smash Like a Girl \u2014 because we\u2019re finally bringing you TENNIS!This is a women-only, beginner-friendly, guided tennis meet-up. 3:50 PM Meet Up & Warm Up4:00 PM Game TimeSee you on court!",
+    "startDate": "2026-04-25T16:00:00+05:30",
+    "endDate": "2026-04-25T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "J6HH+MMC, Barakhamba Rd, Todermal Road Area, Mandi House, New Delhi, Delhi 110001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.62917610000000000000",
+        "longitude": "77.22913750000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "495.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swagtennis",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Chandni Chowk Heritage Walk",
     "description": "Memory lanes invites you to explore Old Delhi with Jibin George, through temples, bazaars, and streets rich with layers of culture and coexistence.Less a history lesson, more an invitation to experience the city with fresh perspective.Saturday, April 25 at 8 am followed by breakfast at Chor Bizarre*Please note: The walk begins at 8:00 AM sharp from Chor Bizarre.*At Chor Bizarre, Fridays are for conversations with the city\u2019s cultural voices, and weekends for heritage walks through memory and place.",
     "startDate": "2026-04-25T08:00:00+05:30",

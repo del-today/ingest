@@ -15,5 +15,22 @@
       "@type": "Organization",
       "name": "The Japan Foundation"
     }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Palm Springs(2020)",
+    "url": "https://fillum.in/screening/5327",
+    "startDate": "2026-04-26T18:00:00+05:30",
+    "endDate": "2026-04-26T18:00:00+05:30",
+    "description": "Some days just loop. On April 26, we're making an evening out of one. Come watch Palm Springs (2020) \u2014 warm, sun-bleached, a little delirious. But it's not just a screening. Before the film, you'l..more",
+    "location": {
+      "@type": "Place",
+      "name": "Niv Art Centre, Neb Sarai",
+      "address": "Sainik Farm, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Films From Underground"
+    }
   }
 ]
