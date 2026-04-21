@@ -2,6 +2,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Cricket with SWAG (Delhi)",
+    "description": "Cricket with SWAG is back!This is a women-only, beginner-friendly box cricket meetup. We meet, we play, and we cheer each other on!See you there!",
+    "startDate": "2026-04-26T18:00:00+05:30",
+    "endDate": "2026-04-26T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Raja Bazar, J6J7+62X, Raja Bazar Road Area, Connaught Place, New Delhi, Delhi 110001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.63061350000000000000",
+        "longitude": "77.21261609999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "359.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swagcricket",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Climb Like A Girl",
     "description": "Climb Like A Girl is back! Get ready for a fun, energizing climbing session. It is a beginner-friendly, women-only meetup. The session will be guided by professionals at The Delhi Rock. Just bring your energy, curiosity, and love for trying something new! The venue is in the Squash and Badminton Stadium on Siri Fort Road.",
     "startDate": "2026-04-26T11:00:00+05:30",
