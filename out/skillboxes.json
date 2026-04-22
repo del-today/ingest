@@ -2,6 +2,32 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "",
+      "endDate": "2026-04-24T23:59:00",
+      "identifier": "com.skillboxes.35831",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/QU0rWHVCSTVYN01uSUwyL1ljckpWdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1776855774zxiWxtrL6golFQ1U.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "",
+            "longitude": ""
+         },
+         "name": "To Be Decided"
+      },
+      "name": "db deep fridays | Solaric, Uttam, Rajat | 1+1 till 10pm",
+      "offers": [ ],
+      "startDate": "2026-04-24T21:30:00",
+      "url": "https://www.skillboxes.com/events/db-deep-fridays-solaric-uttam-rajat-1-1-till-10pm"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Experience an electrifying night with Maan Pannu live in concert. Known for his energetic beats and soulful Punjabi vibes, he promises a high-octane performance filled with hit tracks and unforgettable moments. Get ready to dance, sing, and celebrate",
       "endDate": "2026-05-09T23:59:00",
       "identifier": "com.skillboxes.35799",
@@ -404,7 +430,7 @@
       "description": "Guitar Masterclass with Chandresh Kudwa\nDive into an intensive and inspiring 2 hour guitar masterclass designed to elevate your playing, musical understanding, and creative expression. This s",
       "endDate": "2026-04-29T19:00:00",
       "identifier": "com.skillboxes.35709",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/Mk9nWmtoaTcvRWJzalIvN2lwTTBHZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1776405720fTdiOHVKpHOoiEKf.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/Mk9nWmtoaTcvRWJzalIvN2lwTTBHZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1776776925f4MBcbSzspSlmswD.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Workshops"
@@ -425,7 +451,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "1. Access to the full 2 hour Guitar Masterclass with Chandresh Kudwa 2. Access to interactive Q&A session 3. Opportunity to participate in a 1-minute jam with Chandresh Kudwa 4.Photo opportunity with Chandresh Kudwa 5. Get your guitar signed by Chandresh Kudwa\n",
-            "inventoryLevel": 50,
+            "inventoryLevel": 47,
             "name": "Tickets",
             "url": "https://www.skillboxes.com/events/ticket/chandresh-kudwa-masterclass-in-bangalore"
          }
@@ -489,7 +515,7 @@
          },
          "name": "Windmills Craftworks [Whitefield]"
       },
-      "name": "Stanley Jordan Duo ft. Kenwood Dennard",
+      "name": "Stanley Jordan feat. Kenwood Dennard",
       "offers": [
          {
             "@type": "Offer",
@@ -502,7 +528,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "No food and beverages are included in the ticket price.\n",
+            "description": "Seating will be arranged in the last three rows at the back. No food or beverages are included in the ticket price.\n",
             "inventoryLevel": 20,
             "name": "Blue seating",
             "url": "https://www.skillboxes.com/events/ticket/stanley-jordan-duo-ft-kenwood-dennard-2"
@@ -510,7 +536,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "No food and beverages are included in the ticket price.\n",
+            "description": "Seating will be arranged in the first two rows at the front | No food and beverages are included in the ticket price.\n",
             "inventoryLevel": 10,
             "name": "Purple Seating",
             "url": "https://www.skillboxes.com/events/ticket/stanley-jordan-duo-ft-kenwood-dennard-2"
@@ -540,7 +566,7 @@
          },
          "name": "Windmills Craftworks [Whitefield]"
       },
-      "name": "Stanley Jordan Duo ft. Kenwood Dennard",
+      "name": "Stanley Jordan feat. Kenwood Dennard",
       "offers": [
          {
             "@type": "Offer",
@@ -553,7 +579,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "No food and beverages are included in the ticket price.\n",
+            "description": "Seating will be arranged in the last three rows at the back. No food or beverages are included in the ticket price.\n",
             "inventoryLevel": 20,
             "name": "Blue Seating",
             "url": "https://www.skillboxes.com/events/ticket/stanley-jordan-duo-ft-kenwood-dennard-1"
@@ -561,7 +587,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "No food and beverages are included in the ticket price.\n",
+            "description": "Seating will be arranged in the first two rows at the front | No food and beverages are included in the ticket price.\n",
             "inventoryLevel": 10,
             "name": "Purple Seating",
             "url": "https://www.skillboxes.com/events/ticket/stanley-jordan-duo-ft-kenwood-dennard-1"
@@ -608,7 +634,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Samar Mehdi returns to the stage with a brand new live set, featuring unreleased tracks from his upcoming album alongside the crowd favourites you already love.\r\n\r\n ",
+      "description": "Samar Mehdi returns to the stage with a brand new live set, featuring unreleased tracks from his upcoming album alongside the crowd favourites you already love.Mandatory Cover Charges applicable at gates \n\n&#1",
       "endDate": "2026-05-03T23:59:00",
       "identifier": "com.skillboxes.35677",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1776316964BgZkITt40osf1iH7.jpg.webp",
@@ -631,6 +657,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "Mandatory Cover Charge of INR 500 applicable at gates\n",
             "inventoryLevel": 997,
             "name": "Regular Pass",
             "url": "https://www.skillboxes.com/events/ticket/samar-mehdi-janhit-mein-jaari-pre-tour-bangalore"
@@ -638,6 +665,7 @@
          {
             "@type": "Offer",
             "availability": "SoldOut",
+            "description": "Mandatory Cover Charge of INR 500 applicable at gates\n",
             "inventoryLevel": 0,
             "name": "Early Bird Pass",
             "url": "https://www.skillboxes.com/events/ticket/samar-mehdi-janhit-mein-jaari-pre-tour-bangalore"
@@ -748,7 +776,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 16,
+            "inventoryLevel": 15,
             "name": "Participants Pass",
             "url": "https://www.skillboxes.com/events/ticket/pitara-by-kommune-bangalore-1"
          }
@@ -1081,7 +1109,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Shubham Roy:Shubham Roy, an independent artist from Shillong and now based in Bangalore, blends folk roots withindie fusion to craft heartfelt songs in Hindi, Bengali, Malaya",
+      "description": "Gates open at 7pmDinDun - 9:15 to 10pmShubham - 10 to 11:15pmShubham Roy:Shubham Roy, an independent a",
       "endDate": "2026-04-22T23:59:00",
       "identifier": "com.skillboxes.35300",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YkM5YUkzb1JFbnltd25oanVpNnR6UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1775469492Xa20MQjPvYQSXPi6.jpg.webp",
@@ -1105,7 +1133,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges of INR 500 applicable at the doors\n",
-            "inventoryLevel": 464,
+            "inventoryLevel": 449,
             "name": "General Entry",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-subham-dindun"
          }
