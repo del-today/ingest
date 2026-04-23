@@ -1,6 +1,118 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "LOUDR presents MAKE SENSE at goSTOPS Plus Gurugram",
+    "description": "Make Sense is a 60-minute interactive workshop where you\u2019ll create stories using all five senses - what you see, hear, touch, smell and feel. Through a series of simple, guided prompts, you\u2019ll work with sensory cues to build a short narrative from scratch, turning everyday perceptions into something imaginative and unexpected.Working in small groups, you\u2019ll shape your ideas into a performative moment and bring your story to life. The session is designed to be playful, collaborative, and open to everyone. No prior experience in theatre or storytelling is needed. Just show up, participate, and see what you can make sense of.",
+    "startDate": "2026-05-24T18:30:00+05:30",
+    "endDate": "2026-05-24T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "goSTOPS, Baani Square, N7, Block N, Mayfield Garden, Sector 51, Gurugram, Haryana 122018, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.42612300000000000000",
+        "longitude": "77.05805370000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "goSTOPS",
+      "url": "https://urbanaut.app/partner/gostops"
+    },
+    "url": "https://urbanaut.app/spot/loudr-presents-make-sense-at-gostops-plus-gurugram",
+    "keywords": [
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Table Wears Prada",
+    "description": "The Table Wears PradaSunday, 3rd May | 12:30 PM \u2013 3:30 PMStep into a table where fashion meets flavour, and every detail feels straight out of The Devil Wears Prada.This is not just a brunch, it\u2019s a curated afternoon of vintage luxury in collabration with KURO , sharp aesthetics, and storytelling through food. Expect an intimate, invite-only gathering where iconic style cues inspire every element on the table\u2014from plated courses to the mood, the music, and the way the table is set.Think vintage designer bags, effortless glamour, and dishes that echo the wit, drama, and indulgence of the film itself. It\u2019s a space for those who appreciate craftsmanship\u2014whether in fashion or on a plate\u2014and who understand that sometimes, the experience matters just as much as what\u2019s being served.Come dressed like you belong in the front row.Come hungry for more than just food.A table where fashion isn\u2019t worn, it\u2019s served.",
+    "startDate": "2026-05-03T12:30:00+05:30",
+    "endDate": "2026-05-03T15:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "10West, Sant Nagar, Sainik Farm, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52049300000000000000",
+        "longitude": "77.20161399999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3100.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "V's Supper Stories",
+      "url": "https://urbanaut.app/partner/vsupperstories"
+    },
+    "url": "https://urbanaut.app/spot/the-table-wears-prada",
+    "keywords": [
+      "Premium",
+      "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Fire Enamelling",
+    "description": "Rooted in tradition. Reimagined in fire.Step into the art of Fire Enameling (Meenakari) \u2014 where metal meets molten glass to create something timeless.An age old craft of Meenakari with a modern take \u2014 made for today, but rooted in heritage.Led by award-winning enamel artist Himani Agarwal, this two-day hands-on course takes you through the craft from its very foundation to the final transformation.We begin at the roots \u2014 the history, the material, the why behind the craft.Then we get our hands dirty.Day 1 \u2014 You design, cut, and shape copper. You work with the material, understand its nature, and begin forming your piece.Day 2 \u2014 You bring it to life with enamel. Fire, colour, transformation.You do not just leave with a finished piece.You leave knowing exactly how it came into existence.Workshop Details25 & 26 April11 AM \u2013 2 PMThe Kunj, Vasant Kunj, Delhi",
+    "startDate": "2026-04-25T11:00:00+05:30",
+    "endDate": "2026-04-26T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "8, Nelson Mandela Marg, Pocket 4, Sector C, Vasant Kunj, New Delhi, Delhi 110070, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53822650000000000000",
+        "longitude": "77.15371040000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "8925.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Nazariya",
+      "url": "https://urbanaut.app/partner/nazariya"
+    },
+    "url": "https://urbanaut.app/spot/fire-enamelling",
+    "keywords": [
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "From Plate To Planet",
     "description": "Join us for a session that dismantles the idea of health as not a purely individual choice but also reveals it as a biological and communal dialogue shaped by the trillions of microbes living within us.About the LectureHealth is often treated as a matter of personal willpower: something determined solely by the gym or a specific diet. This lecture begins from the opposite premise.Drawing on years of research in metagenomics and microbiome science, this session examines the human body as a complex, plural ecosystem. Focusing on the fascinating \"gut-brain axis,\" the lecture traces how microbial communities behave, communicate, and influence everything from our immune system to our emotional resilience.Moving across themes of dietary shifts, the rise of ultra-processed foods, and approaches to wellbeing, the lecture explores:The Gut-Brain Highway: How the communication network between microbes and the brain shapes our mental landscape.The Standard American Diet (SAD): The impact of modern, low-fiber eating patterns on microbial diversity and rising levels of anxiety.The Inner Ecosystem: Understanding the trillions of microbes that play a silent role in our daily survival.Ubuntu and Interconnectedness: How health grows from the relationship between people, food systems, and the environmentEveryday Stewardship: How small, thoughtful actions can care for both our internal world and the planet.We are \"holobionts\"\u2014communities of life that require kindness, awareness, and purpose to thrive. It asks how we can reclaim our health by understanding the invisible connections that bind us to our food, our communities, and our world.Flow of the Evening4:00 PM \u2013 Doors open: Come in, find your seat, and get comfortable.4:05 \u2013 4:20 PM \u2013 Place your orders and start a few conversations.4:30 PM \u2013 The learning begins.5:15 PM \u2013 Open Q&A and discussion with Dr. Brahma.5:30 PM onwards \u2013 Stay a while: More eating, more drinking, more conversations.About the SpeakerDr. Vijaya Brahma is a microbiologist and the Director of Ubuntuverse, a community dedicated to living with purpose and kindness. Her scientific journey began with studying microbes during her PhD at CSIR IMTECH and continued through postdoctoral research at the University of Toronto.Today, she works at the intersection of science and everyday life through the Ubuntu Wellness Academy. She is the host of the YouTube channel Shodh Ka Pratibodh, where she humanizes the scientific journey by interviewing researchers about their paths beyond just academic achievements. Much of her work involves mentoring and science communication, turning complex metagenomic research into simple, actionable conversations about the gut microbiome and planetary health.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
@@ -114,17 +226,17 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Open Mic at goSTOPS Delhi",
+    "name": "Open Mic at goSTOPS Plus Gurugram",
     "description": "Delhi Bolo x MCMV Open Mic \ud83c\udfa4Delhi Bolo and MyCityMyVoice bring you an open mic for anyone who wants to perform and share their talent.Whether you\u2019re a beginner or experienced, all artists are welcome\u2014poets, singers, comedians, rappers and more.\ud83c\udfa4 Performance Details:\u2022\u2060  \u20605 minutes per performer\u2022\u2060  \u2060Slots are first come, first served\ud83d\udcc5 Date: 10 May 2026\u23f0 Time: 2 PM \u2013 5 PM\ud83d\udccd Venue: goSTOPS, Baani Square, Sector 51, GurugramCome perform, watch, and enjoy a creative evening!",
     "startDate": "2026-05-10T14:00:00+05:30",
     "endDate": "2026-05-10T17:00:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "Gate no 3, 4/23-B, Asaf Ali Rd, opp. Metro Station, Chatta lal Miya, Delhi Gate, Daryaganj, New Delhi, Delhi, 110002, India",
+      "address": "goSTOPS, Baani Square, N7, Block N, Mayfield Garden, Sector 51, Gurugram, Haryana 122018, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.64083430000000000000",
-        "longitude": "77.23897370000000000000"
+        "latitude": "28.42612300000000000000",
+        "longitude": "77.05805370000000000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
