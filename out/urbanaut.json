@@ -1,6 +1,196 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Only Referred | Exclusive Community MeetUp",
+    "description": "Only Referred, Where Your Next Circle BeginsNot every room is meant for everyone. Only Referred is an invite only social experience for young urban professionals who are done with surface level networking and ready for something real.Every person in the room has been personally invited by us. What to expect:A curated group of 20-30 ambitious, interesting humans across industriesA shared activity that breaks the ice without the awkwardnessGenuine conversations, unexpected connections, and a few new numbers in your phoneGood food, great energy, zero forced networkingWho comes:Founders, consultants, creatives, operators, people building things and thinking big. If you were invited, you already know you belong here.",
+    "startDate": "2026-04-26T16:00:00+05:30",
+    "endDate": "2026-04-26T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M-18, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53378190000000000000",
+        "longitude": "77.24240429999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "899.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "OnlyReferred",
+      "url": "https://urbanaut.app/partner/onlyreferred"
+    },
+    "url": "https://urbanaut.app/spot/only-referred-exclusive-community-meetup",
+    "keywords": [
+      "Premium",
+      "Workshop",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Arabic Calligraphy Workshop",
+    "description": "The art of sacred script, still alive in Old DelhiA chance to witness Arabic Calligraphy not just as writing, but as an art of beauty, balance, and devotion. Rooted in centuries of tradition, it has been used to preserve poetry, language, and sacred texts through flowing strokes and precise forms. Every letter follows a rhythm, every curve has meaning.Traditionally created using reed pens and ink, this practice is as much about patience and discipline as it is about expression. Today, very few traditional practitioners continue to keep it alive.Join Katib Mohammad Ghalib, one of the last traditional calligraphers of Old Delhi, for a hands-on workshop where you will understand the essence of this art and create your own calligraphy piece.Limited seats only.",
+    "startDate": "2026-04-30T11:00:00+05:30",
+    "endDate": "2026-05-01T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "8, Nelson Mandela Marg, Pocket 4, Sector C, Vasant Kunj, New Delhi, Delhi 110070, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53822650000000000000",
+        "longitude": "77.15371040000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1313.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Nazariya",
+      "url": "https://urbanaut.app/partner/nazariya"
+    },
+    "url": "https://urbanaut.app/spot/arabic-calligraphy-workshop",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Wine Tasting: Fresh Summer Drops!",
+    "description": "Delhi wine lovers, we\u2019re back with something fresh, fun, and made for this weather \u2600\ufe0f\ud83c\udf77Join Sommelier Devati Mallick (Founder & Curator, Drink With D Wine Experiences) for Fresh Summer Drops! An easy, feel-good wine tasting at La Croute, Sundar Nagar, one of our favourite caf\u00e9-style spots to wine and dine at.This one is all about summer in a glass. We\u2019ll be sipping on 5 of my favourite summer wines: crisp, refreshing, vibrant pours that you\u2019ll want to drink on repeat all season. The kind of wines that instantly lift your mood and make you forget the heat outside. Add on long, lazy conversations with our wine community, chilled glasses in hand, and that perfect early evening buzz as Sunday winds down.Like all our tastings, this is relaxed, interactive, and all about the community! Come discover some truly delicious summer wines with us, snack on La Croute's special small plates, and ease into a perfect evening of wine and chill.Sounds like the perfect Sunday plan? We think so too.Limited spots only, book your seat now \ud83c\udf77",
+    "startDate": "2026-05-03T18:00:00+05:30",
+    "endDate": "2026-05-03T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "main market, 18, Sundar Nagar, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.60164720000000000000",
+        "longitude": "77.24144160000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2450.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Drink With D",
+      "url": "https://urbanaut.app/partner/drinkwithd"
+    },
+    "url": "https://urbanaut.app/spot/wine-tasting-fresh-summer-drops",
+    "keywords": [
+      "Leisure",
+      "Premium",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Wine Tasting: Secret Sips, Austrian Wines",
+    "description": "Delhi wine lovers, ready for something a little..exclusive? \ud83c\udf77\u2728Join Sommelier Devati Mallick (Founder & Curator, Drink With D Wine Experiences) for a special tasting. Secret Sips: Austrian Wines is an evening dedicated to some rare wines.This one\u2019s all about discovery. We\u2019re pouring 6 exclusive premium Austrian wines that are fresh, vibrant, and fascinating: from a lively Sekt to elegant Blaufr\u00e4nkisch and juicy Zweigelt, and a few more surprises along the way. Austrian wines have been having a serious global moment for their energy and drinkability, but still largely under the radar here, which makes this tasting feel like a little insider secret.Expect a fun, slightly geeky deep dive into what makes these wines so exciting, and plenty of wine banter around the table. All of this, paired with small plates at Red, Vasant Vihar, a chic space that\u2019s perfect for sipping, snacking, and settling into a great evening with fellow wine lovers!Like all our tastings, this is intimate, interactive, and community-led, so if you\u2019re here to learn, taste, or just have a good time, you\u2019ll fit right in!20 spots only, this one\u2019s a true limited drop. Don\u2019t miss your chance to be part of the secret!",
+    "startDate": "2026-05-02T18:00:00+05:30",
+    "endDate": "2026-05-02T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "24, Community center, Main Market, Basant Lok, Vasant Vihar, New Delhi, Delhi 110057, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55905570000000000000",
+        "longitude": "77.16369159999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2650.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Drink With D",
+      "url": "https://urbanaut.app/partner/drinkwithd"
+    },
+    "url": "https://urbanaut.app/spot/wine-tasting-secret-sips-austrian-wines",
+    "keywords": [
+      "Leisure",
+      "Premium",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Murder Mystery Night \ud83c\udfad",
+    "description": "The Final Act: A Murder Mystery Night!(A thrilling role-playing experience)Step into a world where the stage is set, the lights are blinding, and every smile might be a performance. On the night of the final act, something goes terribly wrong\u2014and suddenly, no one is just playing a role anymore.In a room full of actors, deception is second nature\u2026 but tonight, it could be deadly. Truth hides behind rehearsed lines, and every gesture could be a clue\u2014or a cover.Can you tell who\u2019s acting\u2026 and who\u2019s not?Includes a complimentary drink.Please note: This is NOT our escape room.What Awaits You: \ud83d\udd0d Interactive Murder Mystery RPG: Play a character, uncover secrets, form alliances, and chase the truth.\ud83c\udfad Live-Theatre Energy: Whether you can act or not, the setting will be filled with drama, and layered performances.\ud83d\udd75\ufe0f Clues, Twists & Deception: Nothing is as it seems. Every conversation matters.\ud83c\udf78 Social & Immersive Experience: Mingle, observe, interrogate\u2014everyone is a suspect.Important Notes: - Limited spots available to maintain an intimate, high-quality experience- Characters and roles will be assigned prior to / at the event- Come dressed to impress\u2014theatrical / cocktail attire encouraged- No prior acting or gaming experience requiredMurder Mystery Night \ud83c\udfad",
+    "startDate": "2026-04-26T18:00:00+05:30",
+    "endDate": "2026-04-26T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "32nd Avenue, Sector 15 Part 2, Sector 15, Gurugram, Haryana 122001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46162590000000000000",
+        "longitude": "77.05002540000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1899.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Unlocked",
+      "url": "https://urbanaut.app/partner/unlocked"
+    },
+    "url": "https://urbanaut.app/spot/murder-mystery-night",
+    "keywords": [
+      "Leisure",
+      "Adventure",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "LOUDR presents MAKE SENSE at goSTOPS Plus Gurugram",
     "description": "Make Sense is a 60-minute interactive workshop where you\u2019ll create stories using all five senses - what you see, hear, touch, smell and feel. Through a series of simple, guided prompts, you\u2019ll work with sensory cues to build a short narrative from scratch, turning everyday perceptions into something imaginative and unexpected.Working in small groups, you\u2019ll shape your ideas into a performative moment and bring your story to life. The session is designed to be playful, collaborative, and open to everyone. No prior experience in theatre or storytelling is needed. Just show up, participate, and see what you can make sense of.",
