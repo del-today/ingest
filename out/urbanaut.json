@@ -1,6 +1,42 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "From Plate To Planet",
+    "description": "Join us for a session that dismantles the idea of health as not a purely individual choice but also reveals it as a biological and communal dialogue shaped by the trillions of microbes living within us.About the LectureHealth is often treated as a matter of personal willpower: something determined solely by the gym or a specific diet. This lecture begins from the opposite premise.Drawing on years of research in metagenomics and microbiome science, this session examines the human body as a complex, plural ecosystem. Focusing on the fascinating \"gut-brain axis,\" the lecture traces how microbial communities behave, communicate, and influence everything from our immune system to our emotional resilience.Moving across themes of dietary shifts, the rise of ultra-processed foods, and approaches to wellbeing, the lecture explores:The Gut-Brain Highway: How the communication network between microbes and the brain shapes our mental landscape.The Standard American Diet (SAD): The impact of modern, low-fiber eating patterns on microbial diversity and rising levels of anxiety.The Inner Ecosystem: Understanding the trillions of microbes that play a silent role in our daily survival.Ubuntu and Interconnectedness: How health grows from the relationship between people, food systems, and the environmentEveryday Stewardship: How small, thoughtful actions can care for both our internal world and the planet.We are \"holobionts\"\u2014communities of life that require kindness, awareness, and purpose to thrive. It asks how we can reclaim our health by understanding the invisible connections that bind us to our food, our communities, and our world.Flow of the Evening4:00 PM \u2013 Doors open: Come in, find your seat, and get comfortable.4:05 \u2013 4:20 PM \u2013 Place your orders and start a few conversations.4:30 PM \u2013 The learning begins.5:15 PM \u2013 Open Q&A and discussion with Dr. Brahma.5:30 PM onwards \u2013 Stay a while: More eating, more drinking, more conversations.About the SpeakerDr. Vijaya Brahma is a microbiologist and the Director of Ubuntuverse, a community dedicated to living with purpose and kindness. Her scientific journey began with studying microbes during her PhD at CSIR IMTECH and continued through postdoctoral research at the University of Toronto.Today, she works at the intersection of science and everyday life through the Ubuntu Wellness Academy. She is the host of the YouTube channel Shodh Ka Pratibodh, where she humanizes the scientific journey by interviewing researchers about their paths beyond just academic achievements. Much of her work involves mentoring and science communication, turning complex metagenomic research into simple, actionable conversations about the gut microbiome and planetary health.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-05-02T16:00:00+05:30",
+    "endDate": "2026-05-02T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M-18, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53378190000000000000",
+        "longitude": "77.24240429999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/from-plate-to-planet",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Cricket with SWAG (Delhi)",
     "description": "Cricket with SWAG is back!This is a women-only, beginner-friendly box cricket meetup. We meet, we play, and we cheer each other on!See you there!",
