@@ -1,40 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "The Dugout(2024)",
-    "url": "https://fillum.in/screening/5330",
-    "startDate": "2026-04-24T18:00:00+05:30",
-    "endDate": "2026-04-24T18:00:00+05:30",
-    "description": "Free entry. ID card required.",
-    "location": {
-      "@type": "Place",
-      "name": "Russian Centre of Science and Culture, Firoz Shah Road",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Russian House in New Delhi"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Mourning Recipe(2013)",
-    "url": "https://fillum.in/screening/5320",
-    "startDate": "2026-04-24T18:30:00+05:30",
-    "endDate": "2026-04-24T18:30:00+05:30",
-    "description": "Free entry.",
-    "location": {
-      "@type": "Place",
-      "name": "The Japan Foundation",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Japan Foundation"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "Flicks & Frames - 23rd edition",
     "url": "https://fillum.in/event/5334",
     "startDate": "2026-04-25T17:30:00+05:30",

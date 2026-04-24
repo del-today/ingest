@@ -1,6 +1,82 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Play, Connect & Chill | Board Games Meetup",
+    "description": "The Event Fee Includes One Free Welcome Drink.Looking for something different to do on a Sunday afternoon?Instead of another weekend spent scrolling on your phone or wondering what to do, come join us for a relaxed board game afternoon.If you are new to these games, don\u2019t worry. We explain all the rules before starting, so you can simply sit down and play.No experience needed.Just come, grab a seat, and enjoy the games.You can see the games we\u2019ll be playing on our website: socialtable.inLooking forward to seeing you there",
+    "startDate": "2026-05-03T15:00:00+05:30",
+    "endDate": "2026-05-03T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "96,1st, Satya Niketan, opposite Venkateshwar college, Moti Bagh II, Satya Niketan, Moti Bagh, New Delhi, Delhi, 110021, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.58810690000000000000",
+        "longitude": "77.16833760000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "300.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Social Table",
+      "url": "https://urbanaut.app/partner/the-social-table"
+    },
+    "url": "https://urbanaut.app/spot/play-connect-chill-board-games-meetup",
+    "keywords": [
+      "Leisure",
+      "Local",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Delhi's First Aqua Rave Experience",
+    "description": "AQUA Rave \u2014 DROWN THE HEATDelhi's Coolest Summer Party is HEREDelhi summers hit different \u2014 and this time, we're hitting back. Daud-e-Dilli brings you Aqua Rave, the most refreshing, high-energy event of the season. Dance in the water, vibe to live DJ beats, and make memories that last longer than the tan lines.No experience. No excuses. Just good music, cool water, and even cooler people.WHAT'S INCLUDED IN YOUR TICKET Full 2-Hour Pool AccessEnjoy an uninterrupted 2-hour session at the Kendriya Vidyalaya AGCR Enclave pool\u2014 a clean, spacious venue right in the heart of East Delhi. Jump in, let loose, and make the most of every minute. Live DJ PerformanceNo playlist on shuffle here. A live DJ will be spinning high-energy beats throughout the entire session \u2014 keeping your energy up and the vibes absolutely immaculate from start to finish. Certified Zumba Instructor \u2014 Led SessionOur certified Zumba instructor will guide the entire session, so whether you're a first-timer or a regular dancer, you'll fit right in. All moves are fun, easy to follow, and designed to keep you moving non-stop.Refreshments + Hydration IncludedStay fuelled and refreshed \u2014 snacks and water are included with your ticket. Because the only thing better than dancing in a pool is dancing in a pool with a snack in hand after.Professional Reels & PhotosOur professional cameraman will be capturing the best moments of the day. Expect high-quality reels and photos shared with all participants after the event \u2014 your Instagram is about to eat well.VENUEKendriya Vidyalaya AGCR Enclave, East Delhi DURATION2 Hours of non-stop aqua madnessWHAT TO BRINGSwimwear, a change of clothes, sunscreen, and your best energyThis isn't just a workout. It's a vibe.Whether you're coming solo, with friends, or dragging your entire squad \u2014 Aqua Rave is the summer plan you didn't know you needed.Spots are limited. Don't miss out. For more details:- https://www.daudedilli.com/",
+    "startDate": "2026-05-10T07:00:00+05:30",
+    "endDate": "2026-05-10T09:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "7,Near Garg Hospital NA, Mangalam Marg,A.G.C.R, Colony, Karkardooma, Anand Vihar, New Delhi, Delhi, 110092, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.65141630000000000000",
+        "longitude": "77.29529620000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "899.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Daud-e-Dilli",
+      "url": "https://urbanaut.app/partner/daud-e-dilli"
+    },
+    "url": "https://urbanaut.app/spot/delhis-biggest-aqua-rave",
+    "keywords": [
+      "Music",
+      "Premium",
+      "Wellness",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Caught in the Middle | Online",
     "description": "Often called the \u201csandwich generation,\u201d this phase of life sits between responsibility and resilience.If you\u2019re in your 40s or 50s, you probably don\u2019t need an explanation, you are living it. Caring for aging parents while still showing up fully for your children. Holding space for everyone else, while trying to keep your own world from unraveling in the process.It is a lot. And it\u2019s often invisible.This is a space to pause, share, and connect with others who understand the weight of it, without needing to explain it. Come talk to people who get it.",
