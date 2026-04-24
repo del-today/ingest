@@ -138,5 +138,65 @@
     "keywords": [
       "KNMA"
     ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Unearthing Echologies",
+    "url": "https://www.knma.org/whats-on/workshops/unearthing-echologies",
+    "startDate": "2026-05-07T10:00:00+05:30",
+    "endDate": "2026-05-09T18:00:00+05:30",
+    "description": "Methods Series",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Restless Lines",
+    "url": "https://www.knma.org/whats-on/workshops/restless-lines",
+    "startDate": "2026-05-09T10:00:00+05:30",
+    "endDate": "2026-05-09T10:00:00+05:30",
+    "description": "Saturday Family Workshop",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Sing Out with Mirai",
+    "url": "https://www.knma.org/whats-on/events/sing-out-with-mirai",
+    "startDate": "2026-05-10T10:00:00+05:30",
+    "endDate": "2026-05-10T10:00:00+05:30",
+    "description": "WeekendsatKNMA",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
   }
 ]

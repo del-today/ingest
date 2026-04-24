@@ -52,6 +52,23 @@
   },
   {
     "@type": "ScreeningEvent",
+    "name": "The Story of Sisterhood / A Bridge of Hope",
+    "url": "https://fillum.in/event/5339",
+    "startDate": "2026-04-29T15:00:00+05:30",
+    "endDate": "2026-04-29T15:00:00+05:30",
+    "description": "National film premieres of the films by Zubaan documenting the institutional histories of feminist and women-led organisations in Northeast India. The screenings will be followed by a panel discussi..more",
+    "location": {
+      "@type": "Place",
+      "name": "Simurgh Centre, S-17, Khirki Extension, Malviya Nagar",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fillum"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "Puppet Master(2023)",
     "url": "https://fillum.in/screening/5331",
     "startDate": "2026-05-17T15:15:00+05:30",

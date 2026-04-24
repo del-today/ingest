@@ -2,6 +2,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Box Cricket UnClub ~ Gurgaon",
+    "description": "\ud83c\udfcfBox Cricket UnClub ~ Gurgaon\ud83c\udfcfMatch ~ 22Weekend reset, sorted \ud83c\udfcf\u2728Long workdays, endless calls\u2026 time to switch it up with some cricket and good vibes \ud83d\ude4cWe\u2019re back with the next one:The Details:\ud83d\udccd 26th April | 8\u201310 PM | Sunday\ud83d\udccd Where: Sports Box 2.0, Sector 66, Gurgaon\u2615 Vibe: 2 hours of fun, cricket and laughter.\ud83c\udf96\ufe0f Prizes and awards for Most Valuable player, Best Fielder and winning team.A perfect mid-week de-stress \u2014 easy games, great people, and that UnClub energy you don\u2019t want to miss.Open to all \u2014 just show up and play \ud83d\ude4cComing solo or with your squad? Sorted \ud83d\udc47\ud83d\udc64 Single \u2013 \u20b9350\ud83d\udc65 Group of 5 \u2013 \u20b91400\ud83d\udc65 Group of 10 \u2013 \u20b92800Spots are limited \u2014 block yours early \ud83d\udc40\u200bAll skill levels welcome. Whether you\u2019re a pro or haven't been in a field since school, come hang out and leave with something uniquely you.\u200bReady to know if there is a Bumrah or a Virat in you?",
+    "startDate": "2026-04-26T20:00:00+05:30",
+    "endDate": "2026-04-26T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Pratap Singh Tyagi Farm, next to Ireo Uptown, Badshahpur, Sector 66, Gurugram, Haryana 122001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.39495280000000000000",
+        "longitude": "77.05663930000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "350.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "UnClub Experiences",
+      "url": "https://urbanaut.app/partner/unclubexperiences"
+    },
+    "url": "https://urbanaut.app/spot/boxcricket",
+    "keywords": [
+      "Leisure",
+      "Premium",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Play, Connect & Chill | Board Games Meetup",
     "description": "The Event Fee Includes One Free Welcome Drink.Looking for something different to do on a Sunday afternoon?Instead of another weekend spent scrolling on your phone or wondering what to do, come join us for a relaxed board game afternoon.If you are new to these games, don\u2019t worry. We explain all the rules before starting, so you can simply sit down and play.No experience needed.Just come, grab a seat, and enjoy the games.You can see the games we\u2019ll be playing on our website: socialtable.inLooking forward to seeing you there",
     "startDate": "2026-05-03T15:00:00+05:30",
