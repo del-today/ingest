@@ -1,6 +1,79 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Financial Litercacy Workshop for Kids",
+    "description": "A Fun Financial Literacy Workshop designed just for them! \ud83d\udca1\ud83d\udcb0Here\u2019s what children will learn:\u2022 Understanding money \u2013 what it is and how it works\u2022 Smart saving habits and why saving is important\u2022 Basics of budgeting in a simple, kid-friendly way\u2022 Needs vs. wants \u2013 making better spending choices\u2022 Introduction to earning and managing pocket mone\u2728 This will be a hands-on, engaging, and enjoyable experience - not a boring lecture!\ud83c\udf6a Plus, children will be treated to tasty nibbles and refreshing drinks during the workshop.Exact adress in Galleria Towers will be shared upon booking the slot.",
+    "startDate": "2026-05-16T11:30:00+05:30",
+    "endDate": "2026-05-16T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "F39J+4G5, DLF Galleria Rd, Galleria Market, Sector 28, DLF Phase IV, Sector 43, Gurugram, Haryana 122009, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46776750000000000000",
+        "longitude": "77.08136290000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "1499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Vamoro",
+      "url": "https://urbanaut.app/partner/vamoro"
+    },
+    "url": "https://urbanaut.app/spot/financial-litercacy-workshop-for-kids",
+    "keywords": [
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Improv Comedy Show: Play2Perform Level 2",
+    "description": "After 14 hours of high-energy, no-holds-barred workshopping, this ensemble\u2014now working at Level 2\u2014steps into performance with sharper instincts, bolder choices, and a deepened sense of play. What unfolds is completely unscripted, wildly unpredictable, and built in the momenThis isn\u2019t just a show you watch. It\u2019s one you fuel.Your suggestions spark scenes. Your ideas twist the story. Your laughter drives the rhythm.A single word can spiral into a love story, a disaster, or something beautifully absurd. One performer holds the thread, the rest run with it\u2014and somehow, chaos turns into magic.No scripts. No second takes. Just quick thinking, deep listening, and fearless fun.Expect moments that land perfectly, moments that go hilariously sideways, and everything in between. That\u2019s where the real joy lives.HighlightsFully improvised, unscripted comedyAudience participation shapes the showPerformed by Level 2 trained ensembleHigh-energy, interactive experienceEvery show is completely uniqueAbout the HostAnshu DagaAn improv facilitator and performer guiding immersive, high-energy workshops that focus on spontaneity, presence, and creative expression.Come for the spontaneity. Stay for the surprises.Don\u2019t plan the night\u2014just secure your seat!",
+    "startDate": "2026-05-30T19:30:00+05:30",
+    "endDate": "2026-05-30T20:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "E5, Market Rd, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46575680000000000000",
+        "longitude": "77.09909929999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Immersion Room",
+      "url": "https://urbanaut.app/partner/theimmersionroom"
+    },
+    "url": "https://urbanaut.app/spot/improv-comedy-show-play2perform-level-2-improv-fun-show-comedy",
+    "keywords": [
+      "Live GIG",
+      "Local",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Journey Of Hearts - Delhi Open Mic",
     "description": "Not every love story is romantic.Some are built in kitchens, in quiet sacrifices, in sleepless nights,in words never spoken but always felt.This Mother\u2019s Day, Journey of Hearts invites you to bring your truth to the stage.A poem for your mother.A letter you never sent.A story of distance, healing, or becoming.This isn\u2019t about perfection.It\u2019s about honesty.About the kind of love that shapes us\u2014even when we don\u2019t understand it.So if your heart carries something unfinished,this is your space to let it breathe.\u2728 Journey of Hearts \u2013 DelhiA Mother\u2019s Day special open mic by Likhon Dil Se.",
@@ -718,44 +791,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "BADDY WITH BADDIES (Badminton | Vasant Kunj)",
-    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.4:50 PM Meet up and Warm up Time5:00 PM Game TimeSee you on court!",
-    "startDate": "2026-04-25T17:00:00+05:30",
-    "endDate": "2026-04-25T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "inside DAV Public School, near Fortis Hospital, Pocket 1, Sector B, Vasant Kunj, New Delhi, Delhi 110070, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52084540000000000000",
-        "longitude": "77.16146610000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "250.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swagbadminton",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Nerd Nite Gurgaon",
     "description": "Three talks. One night. Drinks encouraged. Nerd Nite is one of the world\u2019s largest knowledge-sharing event series, with chapters in over 100 cities. We are so excited to bring this to Gurgaon.The format is simple: three speakers, each with 15-18 minutes to dive into something they\u2019re nerdy about, followed by a bit of Q&A. The topics can be anything: economics, art, data science, failed utopias, 90s pop culture. If it\u2019s interesting, it\u2019s in.It all started in a Boston bar in 2003, when a biologist got tipsy and gave a talk about birds that commit identity theft. It was ridiculous. And brilliant. Since then, Nerd Nite has grown into a global community of curious people who\u2019d rather spend an evening learning something weird than sitting through a panel or pretending to network. No suits. No panels. No buzzwords. Just smart people, great stories, and a drink in hand.Bring a friend. Bring a question. Bring your nerdiest self. We will bring the rest.",
@@ -789,44 +824,6 @@
       "Live GIG",
       "Food & drink",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "SMASH LIKE A GIRL (Tennis | Delhi)",
-    "description": "\u200bHi girls! It\u2019s time to Smash Like a Girl \u2014 because we\u2019re finally bringing you TENNIS!This is a women-only, beginner-friendly, guided tennis meet-up. 3:50 PM Meet Up & Warm Up4:00 PM Game TimeSee you on court!",
-    "startDate": "2026-04-25T16:00:00+05:30",
-    "endDate": "2026-04-25T17:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "J6HH+MMC, Barakhamba Rd, Todermal Road Area, Mandi House, New Delhi, Delhi 110001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.62917610000000000000",
-        "longitude": "77.22913750000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "495.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swagtennis",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
       "URBANAUT"
     ]
   },
@@ -1058,43 +1055,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Handmade Lampshade Workshop by Brush O Brain",
-    "description": "Step into the world of traditional Madhubani art and create your very own handcrafted lampshade \ud83e\ude94\u2728In this guided workshop, you\u2019ll learn the basics of this intricate art form and bring your design to life on a beautiful, functional piece you can take home.No prior experience needed, just bring your creativity. All materials will be provided, along with light snacks to keep the inspiration flowing\ud83d\udcc5 Date: 25th April\u23f0 Time: 4:00 PM \u2013 6:00 PM\ud83d\udccd Venue: goSTOPS, GurugramJoin us for a relaxing, hands-on artistic experience and leave with something truly unique",
-    "startDate": "2026-04-25T16:00:00+05:30",
-    "endDate": "2026-04-25T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "goSTOPS, Baani Square, N7, Block N, Mayfield Garden, Sector 51, Gurugram, Haryana 122018, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.42612300000000000000",
-        "longitude": "77.05805370000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "goSTOPS",
-      "url": "https://urbanaut.app/partner/gostops"
-    },
-    "url": "https://urbanaut.app/spot/handmade-lampshade-workshop-by-brush-o-brain",
-    "keywords": [
-      "Leisure",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Streets of Kolkata in Gurgaon",
     "description": "Toontooni\u2019s table supper club\u2019s next edition is happening on the 25th of April in Gurgaon and this is a very special edition. We\u2019re collaborating with MasterChef finalist, Chef Subhojit Sen to bring the street foods of Kolkata to Gurgaon in a fabulous spread of 7 courses! Think spicy puchkas, crunchy fish rolls, steaming shingara chow and so much more! Join us for a 7 modern Bengali jugalbandi as Toonika and Chef Subhojit cook up a storm. ",
@@ -1238,42 +1198,6 @@
       "Live GIG",
       "Music",
       "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Correlation Is Not Causation",
-    "description": "Join us for a lecture that begins with a deceptively simple question:When two things move together, does one actually cause the other?About the LectureWe live in a world overflowing with data.Patterns are everywhere \u2014 ice cream sales rise, and so do drowning rates. But does one cause the other? Or are we just seeing coincidence dressed up as meaning?This lecture unpacks why economists insist, almost stubbornly, that correlation is not causation \u2014 and why that distinction matters far beyond the classroom.At the heart of economics and public policy lies a deeper question: how do we know if something actually works?The session explores:The difference between correlation and causation, and why it\u2019s easy to confuse the twoHow economists use tools like hypothesis testing and p-values to separate signal from noiseWhat methods like difference-in-differences and regression discontinuity reveal about real-world impactHow policies are evaluated \u2014 from taxes to welfare programs \u2014 to determine whether they truly change outcomesThrough intuitive examples, the lecture moves beyond technical jargon to show how causal thinking shapes decisions that affect everyday life.About the SpeakerParush Arora is an Assistant Professor of Economics at Ashoka University. He completed his PhD in Economics from the University of California Irvine.His research focuses on econometrics, Bayesian inference, and empirical macroeconomics \u2014 fields that sit at the intersection of data, uncertainty, and decision-making. He holds a Bachelor\u2019s degree in Economics from the University of Delhi and a Master\u2019s from the Madras School of Economics.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
-    "startDate": "2026-04-25T16:00:00+05:30",
-    "endDate": "2026-04-25T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Siyah Arthouse, 3rd Floor 261, Plot 8, Westend Marg, Saidulajab, Saket, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.51653950000000000000",
-        "longitude": "77.19738550000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/correlation-is-not-causation",
-    "keywords": [
-      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -1424,42 +1348,6 @@
     "url": "https://urbanaut.app/spot/26th-april-blueprints-for-anti-caste-protagonism",
     "keywords": [
       "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Procrastireaders : Books & Coffee Tasting",
-    "description": "The Procrastireaders: Books & Coffee TastingOverviewIf you have been wanting to get back to reading but find it hard to make the time at home, this is for you. The Procrastireaders is a dedicated space to finally open that book you have been meaning to finish. It is a slow paced morning designed for quiet reading and great coffee in the company of others who are doing the same.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to expectBring Your Own Book: Whether it is a novel you started months ago or a new non fiction find, bring along whatever you are currently reading.Dedicated Reading Time: Enjoy a block of quiet, uninterrupted time to sink into your book without the distractions of chores or your phone.Shared Atmosphere: The comfort of reading alongside a small group of people who are also prioritizing their love for books.Coffee & Chat: A low pressure chance to talk about what you are reading (or why you have been procrastinating) over a coffee at Unlocked.Details\ud83d\uddd3\ufe0f Date: 25th April (Saturday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Unlocked, 32nd Avenue\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes Coffee)",
-    "startDate": "2026-04-25T11:30:00+05:30",
-    "endDate": "2026-04-25T13:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "32nd Avenue, Sector 15 Part 2, Sector 15, Gurugram, Haryana 122001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46162590000000000000",
-        "longitude": "77.05002540000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "661.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/books-and-coffee-tasting",
-    "keywords": [
-      "Leisure",
       "URBANAUT"
     ]
   },
