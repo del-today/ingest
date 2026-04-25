@@ -1055,44 +1055,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Streets of Kolkata in Gurgaon",
-    "description": "Toontooni\u2019s table supper club\u2019s next edition is happening on the 25th of April in Gurgaon and this is a very special edition. We\u2019re collaborating with MasterChef finalist, Chef Subhojit Sen to bring the street foods of Kolkata to Gurgaon in a fabulous spread of 7 courses! Think spicy puchkas, crunchy fish rolls, steaming shingara chow and so much more! Join us for a 7 modern Bengali jugalbandi as Toonika and Chef Subhojit cook up a storm. ",
-    "startDate": "2026-04-25T19:30:00+05:30",
-    "endDate": "2026-04-25T21:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Baharampur Naya, Sector 62, Gurugram, Haryana 122098, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.40280940000000000000",
-        "longitude": "77.09375820000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3150.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Toonika Guha",
-      "url": "https://urbanaut.app/partner/toonika"
-    },
-    "url": "https://urbanaut.app/spot/streets-of-kolkata-in-gurgaon",
-    "keywords": [
-      "Local",
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Safar 2 Saalon Ka - An Open Mic by Prarambh Studio",
     "description": "Prarambh Studio Presents \"Safar 2 Saalon Ka\" at goSTOPS DelhiDate: 3rd May 2026Time: 12:00 PM onwardsVenue: goSTOPS, Delhi (near Delhi Gate Metro)Ticket Price: \u20b9349 inclusive of video recording and reels and photos and refreshment\ud83c\udfad Theme: \u201cDo Saalon Ka Safar\u201d\ud83e\udd0d Dress Code: WhiteThis is not just an event \u2014 it\u2019s a celebration of your journey with words.Every performer will share their most beautiful memories of writing, their growth, emotions, and stories that shaped them.We would be honoured to host you and celebrate this creative milestone together. We\u2019re super excited to have you all! \ud83c\udf38",
@@ -1123,43 +1085,6 @@
     },
     "url": "https://urbanaut.app/spot/safar-2-saalon-ka-an-open-mic-by-prarambh-studio",
     "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Shiva Tattva (\u0936\u093f\u0935 \u0924\u0924\u094d\u0924\u094d\u0935)",
-    "description": "Step into a powerful inner journey where sound becomes a pathway for deep healing.This 108 Mahamrityunjaya Mantra experience is designed as a deep energetic process \u2014 working beyond the surface of the mind, into the subtle layers of your body and consciousness.Through guided breath, rhythmic repetition, and sound, the vibration begins to move through your system \u2014 gently releasing stored stress, emotional heaviness, and energetic blockages. As the layers begin to soften, a natural state of calm, clarity, and inner healing emerges.This experience supports:\u2728 Emotional release and energetic healing\u2728 Deep nervous system relaxation\u2728 Letting go of fear, control, and inner resistance\u2728 Reconnecting with a more centred, grounded stateThe Mahamrityunjaya mantra carries a deeper significance of release from inner limitations and restoration of balance withinWith 108 repetitions, the sound creates a meditative rhythm that aligns breath, body, and awareness \u2014 allowing healing to unfold naturally, without force.",
-    "startDate": "2026-04-25T18:00:00+05:30",
-    "endDate": "2026-04-25T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "E5, Market Rd, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46575680000000000000",
-        "longitude": "77.09909929999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1199.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Immersion Room",
-      "url": "https://urbanaut.app/partner/theimmersionroom"
-    },
-    "url": "https://urbanaut.app/spot/shiva-tatva-mahamritunjaya-mantra-tir-gurugram-immersive-chant",
-    "keywords": [
-      "Premium",
-      "Wellness",
       "URBANAUT"
     ]
   },
