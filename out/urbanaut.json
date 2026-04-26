@@ -678,44 +678,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Climb Like A Girl",
-    "description": "Climb Like A Girl is back! Get ready for a fun, energizing climbing session. It is a beginner-friendly, women-only meetup. The session will be guided by professionals at The Delhi Rock. Just bring your energy, curiosity, and love for trying something new! The venue is in the Squash and Badminton Stadium on Siri Fort Road.",
-    "startDate": "2026-04-26T11:00:00+05:30",
-    "endDate": "2026-04-26T12:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Squash and Badminton Stadium, Siri Fort Rd, Siri Fort, New Delhi, Delhi 110049, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55290090000000000000",
-        "longitude": "77.22078920000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "400.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swagclim",
-    "keywords": [
-      "Adventure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Open Mic at goSTOPS Plus Gurugram",
     "description": "Delhi Bolo x MCMV Open Mic \ud83c\udfa4Delhi Bolo and MyCityMyVoice bring you an open mic for anyone who wants to perform and share their talent.Whether you\u2019re a beginner or experienced, all artists are welcome\u2014poets, singers, comedians, rappers and more.\ud83c\udfa4 Performance Details:\u2022\u2060  \u20605 minutes per performer\u2022\u2060  \u2060Slots are first come, first served\ud83d\udcc5 Date: 10 May 2026\u23f0 Time: 2 PM \u2013 5 PM\ud83d\udccd Venue: goSTOPS, Baani Square, Sector 51, GurugramCome perform, watch, and enjoy a creative evening!",
     "startDate": "2026-05-10T14:00:00+05:30",
@@ -1199,44 +1161,6 @@
       "Premium",
       "Pop-up Event",
       "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "1857 & Dilli : A heritage walk in Delhi Ridge",
-    "description": "1857 UPRISING & DILLI: (A heritage walk at the Mutiny Memorial & it's neighbourhood in Kamla Nehru Ridge )The year 1857 marked a turning point in Indian history. What began as a sepoy mutiny in Meerut soon transformed into a widespread rebellion against British colonial rule. Within days, the rebelling sepoys marched to Delhi, a city symbolic of imperial power, where they declared the aging Mughal emperor Bahadur Shah Zafar as the leader of the uprising.The Mutiny Memorial, now known as Ajitgarh, is a prominent monument located on the Delhi Ridge, near Kashmere Gate. It was constructed in 1863 by the British to honor their soldiers and officials who died during the 1857 uprising.Let\u2019s explore the stories of the 1857 uprising and its impacts, at the Mutiny Memorial (a haunted site ) &  its neighborhood landmarks (Ashokan Pillar, Baoli, Pir Ghaib Hunting Lodge & the Hindu Rao Hospital)",
-    "startDate": "2026-04-26T08:30:00+05:30",
-    "endDate": "2026-04-26T10:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Kamla Nehru Ridge, Civil Lines, Delhi, 110007, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.67132190000000000000",
-        "longitude": "77.21076200000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "755.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "DARWESH_TALEWEAVERS",
-      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
-    },
-    "url": "https://urbanaut.app/spot/1857-dilli-heritage-walk-in-delhi-ridge",
-    "keywords": [
-      "History & heritage",
-      "Guided tour",
-      "Art & culture",
       "URBANAUT"
     ]
   },
