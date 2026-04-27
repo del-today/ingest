@@ -1,9 +1,83 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Beyond The Eye: A Talk On Hidden Self-Harm",
+    "description": "Join us for a lecture that looks at a question we rarely ask honestly:What if self-harm isn\u2019t always visible, and not as rare as we think?About the LectureSelf-harm is often spoken about in extremes: visible, alarming, and distant from everyday life.But what if that picture is incomplete?This lecture shifts the conversation from the obvious to the subtle, asking how self-detrimental behaviours show up in ways we don\u2019t always recognise. It challenges the assumption that self-harm is something \u201cother people\u201d do, and instead examines how many of us may engage in forms of it, consciously or not.The session explores:How self-harm is defined \u2014 beyond its most visible formsWhy it remains heavily stigmatised and misunderstoodWhat drives people to act against their own well-beingHow seemingly ordinary behaviours can take on self-destructive patternsAt its core, this talk asks a more unsettling question: Why do humans sometimes act against their own survival? and what does that reveal about how we cope, adapt, and endure?About the SpeakerSasha Bansal is a PhD scholar at Ashoka University, with an MSc in Psychological Sciences from the State University of New York.Her research focuses on self-harming behaviour, psychometrics, social psychology, the psychology of religion, and advanced statistical methods. With over ten academic publications, she has presented her work at international platforms including The NorthEastern Evolutionary Psychology Society Conference.She is also the founder of StatPsyched, an initiative aimed at making research and statistics education more accessible to students worldwide.All Grounds for Thought tickets include a \u20b9250 coupon redeemable on food and beverages at the venue. About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-05-03T16:00:00+05:30",
+    "endDate": "2026-05-03T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Basement, Ground floor and First floor Building no. 12, Panchsheel Community Centre, Shahpur Jat, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54805190000000000000",
+        "longitude": "77.21147640000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/beyond-the-eye-a-talk-on-hidden-self-harm",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Sham-e-Qutub : An evening heritage walk",
+    "description": "We are delighted to invite you to a special *evening heritage walk at Qutub Minar*, curated by Darwesh Heritage Walks**Date:2nd May**Time:6:00 p.m. onwardsExperience the magic of one of Delhi\u2019s most iconic monuments as it transforms at dusk\u2014when the Qutub Minar complex is beautifully lit and wrapped in an almost timeless charm.This walk takes you through the story of Delhi\u2019s first capital at Mehrauli, tracing the rise of the Tomars and Chauhans, and the arrival of the Delhi Sultanate under the early Turko-Afghan rulers. As the evening sets in, the illuminated ruins, soaring minar, and intricate carvings create a truly immersive atmosphere\u2014perfect for experiencing history not just as a narrative, but as a living, breathing space.During this walk, we will explore:* The origins of Delhi\u2019s earliest city at Mehrauli* The political transitions from Rajput to Sultanate rule* The architectural brilliance of the Qutub complex and its symbolism* The stories hidden in its mosques, pillars, and inscriptionsJoin us for an unforgettable evening of storytelling, history, and exploration\u2014where the past comes alive under the soft glow of lights.We look forward to having you with us.(Please note: the fee is not for access to the site, but rather for curation of this experience) ",
+    "startDate": "2026-05-02T18:00:00+05:30",
+    "endDate": "2026-05-02T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52447540000000000000",
+        "longitude": "77.18552059999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "755.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/sham-e-qutub-an-evening-heritage-walk",
+    "keywords": [
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Safdarjung Tomb : A Heritage Walk",
-    "description": "We are delighted to invite you to a unique and immersive heritage walk experience at Safdarjung Tomb, curated by Darwesh Heritage walks in collaboration with Sabhyata Foundation.Date: 3rd MayTime: 8:30 a.m.Step into a fascinating chapter of Delhi\u2019s layered past as we explore Safdarjung Tomb\u2014often described as the *\u201clast flicker in the lamp of Mughal architecture.\u201d*Built in 1754 for Nawab Safdarjung, the powerful Nawab of Awadh and Prime Minister of the Mughal Empire, the monument stands at a time when imperial grandeur was gradually fading. Through its imposing structure and classic charbagh garden layout, the tomb reflects both the elegance of Mughal design and the subtle signs of a declining empire.During this walk, we will explore:\u2022 The life and legacy of Safdarjung and the rise of Awadh\u2022 The shifting political landscape of late Mughal Delhi\u2022 Architectural transitions that mark the end of an eraJoin us for a morning of engaging storytelling, history, and immersive exploration at one of Delhi\u2019s most evocative yet often overlooked monuments.We look forward to having you with us.",
+    "description": "We are delighted to invite you to a unique and immersive heritage walk experience at Safdarjung Tomb, curated by Darwesh Heritage walks in collaboration with Sabhyata Foundation.Date: 3rd MayTime: 8:30 a.m.Step into a fascinating chapter of Delhi\u2019s layered past as we explore Safdarjung Tomb\u2014often described as the *\u201clast flicker in the lamp of Mughal architecture.\u201d*Built in 1754 for Nawab Safdarjung, the powerful Nawab of Awadh and Prime Minister of the Mughal Empire, the monument stands at a time when imperial grandeur was gradually fading. Through its imposing structure and classic charbagh garden layout, the tomb reflects both the elegance of Mughal design and the subtle signs of a declining empire.During this walk, we will explore:\u2022 The life and legacy of Safdarjung and the rise of Awadh\u2022 The shifting political landscape of late Mughal Delhi\u2022 Architectural transitions that mark the end of an eraJoin us for a morning of engaging storytelling, history, and immersive exploration at one of Delhi\u2019s most evocative yet often overlooked monuments.We look forward to having you with us.Please note: the fee is not for access to the site, but rather for curation of this experience.",
     "startDate": "2026-05-03T08:30:00+05:30",
     "endDate": "2026-05-03T10:00:00+05:30",
     "location": {
@@ -41,7 +115,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "The Poet at the Brunch Table 2.0",
-    "description": "\u201cI\u2019d argue that poets, when looking at a menu, first fall in love with the sound of the dish; then the food comes out and we fall in love with the sight of the dish. And when we finally eat, we fall in love with the taste. This sequence is what I call the sensory tease,\u201d says poet Dorothy Chan.To turn the sensory tease into an experience, Dillipoetry and The Fio Table invite you to The Poet at the Brunch Table 2.0\u2014a two-hour immersive workshop that brings into play food as a genre melded with reflective writing exercises to help one delve into themes of intimacy, memories, loss & friendships. Here, brunch is a metaphor, and plate is a page.With Dillipoetry\u2019s signature coalescing approach to verse and The Fio Table\u2019s ode to the Mediterranean coastline, the workshop will encompass self-probing, active participation, creative writing exercises, and facilitated reflection. We will also discuss rituals & traditions across cultures that brought together food & poetry - and what mark did this interaction leave in the world of literature.Bring you friends, and leave your writing blocks (and diet) at the door. We can only accommodate a maximum of 12 people for now. Registration will close once we reach capacity. ",
+    "description": "\u201cI\u2019d argue that poets, when looking at a menu, first fall in love with the sound of the dish; then the food comes out and we fall in love with the sight of the dish. And when we finally eat, we fall in love with the taste. This sequence is what I call the sensory tease,\u201d says poet Dorothy Chan.To turn the sensory tease into an experience, Dillipoetry and The Fio Table invite you to The Poet at the Brunch Table 2.0\u2014a two-hour immersive workshop that brings into play food as a genre melded with reflective writing exercises to help one delve into themes of intimacy, memories, loss & friendships. Here, brunch is a metaphor, and plate is a page.With Dillipoetry\u2019s signature coalescing approach to verse and The Fio Table\u2019s ode to the Mediterranean coastline, the workshop will encompass self-probing, active participation, creative writing exercises, and facilitated reflection. We will also discuss rituals & traditions across cultures that brought together food & poetry - and what mark did this interaction leave in the world of literature.Bring you friends, and leave your writing blocks (and diet) at the door. We can only accommodate a maximum of 12 people for now. Registration will close once we reach capacity. About the host: Rachit is a poet and founder of Dillipoetry\u2014a literary platform known for its thematic, experimental poetry walks, workshops, and training programmes. With over a decade in the social development sector, his work spans diverse social issues. His poetry has appeared in 25+ literary platforms and anthologies. His recent series Memories of Yami and The Asthma City\u2014tracing the Yamuna River through Delhi and the city\u2019s escalating air crisis\u2014were published by Down To Earth magazine.Rachit has been selected for international residencies, including Language is a Queer Thing, a programme by The Queer Muslim Project in collaboration with the British Council, UK. He received the Germinator Grant by Ecoversity for Dillipoetry\u2019s regenerative approach to arts and community.He has performed twice at BBC Contains Strong Language\u2014the UK\u2019s largest poetry festival (Leeds 2023, Bradford 2025)\u2014and at institutions including the French Institute India, Goethe-Institut, British Council, and Alliance Fran\u00e7aise. His work has appeared on BBC Radio 3\u2019s The Verb. He also served as Lead Poet and Advisor to O.P. Jindal Global University\u2019s programme, We Are Meant to Sing as One.",
     "startDate": "2026-05-02T10:00:00+05:30",
     "endDate": "2026-05-02T12:00:00+05:30",
     "location": {
