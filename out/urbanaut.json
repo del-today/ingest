@@ -1,6 +1,79 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Support Club",
+    "description": "The Support ClubA No Taboo x Scoop Studio experienceWhat if the problem isn\u2019t your body\u2026 but the bra you\u2019ve been told fits it?Welcome to The Support Club! An intimate, small-group experience where we unpack everything you thought you knew about bras, sizing, and support\u2026 and replace it with something that actually works for your body.Co-hosted by Neelakshi (@plumptopretty and No Taboo Experiences) and Rhea (Bra Fitter and Founder of @shop_scoop_studio), this 90-minute session blends honest conversations, interactive exercises, and a personalized fitting to help you finally understand what real support feels like.Expect:A safe, judgment-free space to talk about bodies, bras, and everything in betweenA guided \u201cbra reality check\u201d to understand what\u2019s actually going on with your current fitSimple, practical tools to decode sizing, support, and comfortA 1:1 personalized fitting by RheaAMA with Neelakshi (confidence to lingerie tips and tricks)A chance to try and shop a curated edit of fuller-bust friendly brasSo, whether you\u2019ve always struggled with fit, constantly adjust your straps, or know something isn\u2019t quite right: this is for you. You don\u2019t leave with just a bra.You leave knowing your body.A quick note on sizingMost people who come to Scoop Studio are wearing the wrong size for their bodies.We\u2019ve seen 36DD become 32G, 38E become 36H, and 34DD become 28H. So many people go from constantly adjusting to finally feeling supported for the first time.This session is designed to help you understand your body and find what truly works for you, not just what you\u2019ve been told your size is.Available sizes: 28-44 Bands | DD-K Cups",
+    "startDate": "2026-05-08T11:00:00+05:30",
+    "endDate": "2026-05-10T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "9, Southern Ave, Block J, Maharani Bagh, New Friends Colony, New Delhi, Delhi 110065, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.56942360000000000000",
+        "longitude": "77.26412599999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "No Taboo Experience",
+      "url": "https://urbanaut.app/partner/no-taboo-experience"
+    },
+    "url": "https://urbanaut.app/spot/the-support-club-12703",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Guided Pickleball | Vasant Kunj",
+    "description": "Guided Pickleball with SWAG x Delhi Picklers is back!This is a women-only, beginner-friendly pickleball meet-up. The session is guided by a coach.5:20 PM Meet up and Warm up Time5:30 PM Game TimeSee you on court!",
+    "startDate": "2026-05-03T18:00:00+05:30",
+    "endDate": "2026-05-03T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Pocket 8, Sector C, Vasant Kunj, New Delhi, Delhi 110070, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53837910000000000000",
+        "longitude": "77.13847830000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "399.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swagpicklevk",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "UNCORKED",
     "description": "\ud83c\udf77 Wine lovers, this one\u2019s for you.We\u2019re hosting a guided wine tasting & pairing experience as summer approaches.\u20285 different seasonal wines, each paired with thoughtfully curated small bites, led by a sommelier who genuinely lives and breathes wine.This isn\u2019t just \u201cdrink and eat.\u201d\u2028It\u2019s a wine journey \u2014 learning how flavours change, why pairings work, and how to enjoy wine more intuitively.\u2728 What makes it one-of-a-kind:\u2028\u2022 A guided tasting, not a lecture\u2028\u2022 5 wines \u00d7 5 curated small bites with each tasting\u2028 and a grazing table to end the night. \u2028A cosy, social table where you\u2019ll meet new people who love food & wineIt\u2019s relaxed, friendly, and absolutely young-wine-lover approved \u2014 come uncork with us \ud83c\udf47",
@@ -828,6 +901,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "SMASH LIKE A GIRL (Tennis | Delhi)",
+    "description": "\u200bHi girls! It\u2019s time to Smash Like a Girl \u2014 because we\u2019re finally bringing you TENNIS!This is a women-only, beginner-friendly, guided tennis meet-up. 3:50 PM Meet Up & Warm Up4:00 PM Game TimeSee you on court!",
+    "startDate": "2026-05-02T16:00:00+05:30",
+    "endDate": "2026-05-02T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "J6HH+MMC, Barakhamba Rd, Todermal Road Area, Mandi House, New Delhi, Delhi 110001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.62917610000000000000",
+        "longitude": "77.22913750000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "495.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swagtennis",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Play to Performance: Improv 14 Hour Workshop",
     "description": "Step into a space where spontaneity meets performance.Improv Level One \u2013 From Play to Performance is a 14-hour immersive improv theatre workshop at The Immersion Room, Gurgaon, designed for adults who want to explore creativity, confidence, and live expression.Through a series of interactive theatre games, scene work, and character exploration, participants develop:Spontaneity & quick thinkingPresence & active listeningConfidence in expressionCollaboration & trustStorytelling through performanceThis workshop focuses on learning by doing\u2014breaking inhibitions, embracing uncertainty, and discovering the joy of being fully present.Multi-day Weekend Workshop SeriesMay 3, 2026 | 11:00 AM \u2013 1:00 PMMay 10, 2026 | 11:00 AM \u2013 1:00 PMMay 17, 2026 | 11:00 AM \u2013 1:00 PMMay 24, 2026 | 12:00 PM \u2013 2:00 PMMay 31, 2026 | 11:00 AM \u2013 1:00 PMJune 7, 2026 | 11:00 AM \u2013 1:00 PMJune 14, 2026 | 11:00 AM \u2013 1:00 PMTotal Duration: 14 HoursFormat: In-person | Adults OnlyFinal Showcase:The experience culminates in a live improv performance at The Immersion Room, where participants step onto the stage and perform in front of an audience.",
@@ -1010,6 +1121,82 @@
     },
     "url": "https://urbanaut.app/spot/safar-2-saalon-ka-an-open-mic-by-prarambh-studio",
     "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "BADDY WITH BADDIES (Gurugram)",
+    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.3:50 PM Meet up and Warm up Time4:00 PM Game TimeSee you on court!",
+    "startDate": "2026-05-03T17:00:00+05:30",
+    "endDate": "2026-05-03T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Sportyzo Badminton Academy, Emaar emerald hills, Golf Course Ext Rd, opposite Ivory Block, Sector 65, Gurugram, Haryana 122011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40465650000000000000",
+        "longitude": "77.07401440000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "250.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/badmintonggn",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Pickleball with SWAG (Gurugram)",
+    "description": "Pickleball with SWAG is back!This is a women-only, beginner-friendly pickleball meet-up.4:50 PM Meet up and Warm up Time5:00 PM Game TimeSee you on court!",
+    "startDate": "2026-05-03T17:00:00+05:30",
+    "endDate": "2026-05-03T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Sportyzo Sports Academy, Sector 65, Gurugram, Haryana 122101, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40450950000000000000",
+        "longitude": "77.07416250000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "360.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/ggnpickle",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
       "URBANAUT"
     ]
   },
