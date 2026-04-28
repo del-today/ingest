@@ -2,6 +2,120 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
+    "name": "UNCORKED",
+    "description": "\ud83c\udf77 Wine lovers, this one\u2019s for you.We\u2019re hosting a guided wine tasting & pairing experience as summer approaches.\u20285 different seasonal wines, each paired with thoughtfully curated small bites, led by a sommelier who genuinely lives and breathes wine.This isn\u2019t just \u201cdrink and eat.\u201d\u2028It\u2019s a wine journey \u2014 learning how flavours change, why pairings work, and how to enjoy wine more intuitively.\u2728 What makes it one-of-a-kind:\u2028\u2022 A guided tasting, not a lecture\u2028\u2022 5 wines \u00d7 5 curated small bites with each tasting\u2028 and a grazing table to end the night. \u2028A cosy, social table where you\u2019ll meet new people who love food & wineIt\u2019s relaxed, friendly, and absolutely young-wine-lover approved \u2014 come uncork with us \ud83c\udf47",
+    "startDate": "2026-05-09T19:30:00+05:30",
+    "endDate": "2026-05-09T22:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gurugram, Haryana, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.45949650000000000000",
+        "longitude": "77.02663830000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2875.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "THE OTHER SEAT",
+      "url": "https://urbanaut.app/partner/the-other-seat"
+    },
+    "url": "https://urbanaut.app/spot/uncorked",
+    "keywords": [
+      "Pop-up Event",
+      "Food & drink",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Chandini Chowk \u2013 Spiritual and Living Heritage",
+    "description": "Chandni Chowk is not just a marketplace; it is a living museum where the 17th-century Mughal urban design breathes alongside the chaos of modern commerce.Designed in 1650 by Jahanara Begum, emperor Shah Jahan\u2019s daughter, Chandni Chowk was once a grand canal-side boulevard. The water from Faiz Nahar flowed through its centre, reflecting the moonlight and giving the street its name. Today, the canal is gone, but the flow remains in the form of a relentless human tide.We will wander the interfaith mile, where the morning air is a tapestry woven with the tolling of temple bells, the solemn Gurbani, and the ethereal call of the Azaan. A secular thread\u2014a single stretch of road where major places of worship for different faiths have coexisted for centuries. Join Mera \u0936\u0939\u0930 \u2014 My City Walks for a morning of storytelling as we navigate our way through the Kutcha\u2019s and Katra\u2019s of Chandini Chowk.  This isn't just a walk through a marketplace; it\u2019s a journey through a 375-year-old living museum where every turn of a lane reveals a layer of Delhi\u2019s complex identity.",
+    "startDate": "2026-05-10T08:00:00+05:30",
+    "endDate": "2026-05-10T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Chandni Chowk, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.65053310000000000000",
+        "longitude": "77.23033699999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "600.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mera \u0936\u0939\u0930 \u2013 My City Walks",
+      "url": "https://urbanaut.app/partner/merasheharmycitywalks"
+    },
+    "url": "https://urbanaut.app/spot/chandini-chowk-spiritual-and-living-heritage",
+    "keywords": [
+      "Local",
+      "Walking Tour",
+      "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Caught in the Middle | Online",
+    "description": "Often called the \u201csandwich generation,\u201d this phase of life sits between responsibility and resilience.If you\u2019re in your 40s or 50s, you probably don\u2019t need an explanation, you are living it. Caring for aging parents while still showing up fully for your children. Holding space for everyone else, while trying to keep your own world from unraveling in the process.It is a lot. And it\u2019s often invisible.This is a space to pause, share, and connect with others who understand the weight of it, without needing to explain it. Come talk to people who get it.",
+    "startDate": "2026-05-07T18:30:00+05:30",
+    "endDate": "2026-05-07T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.70405920000000000000",
+        "longitude": "77.10249019999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Zuva Life",
+      "url": "https://urbanaut.app/partner/zuvalife"
+    },
+    "url": "https://urbanaut.app/spot/caughtinthemiddle",
+    "keywords": [
+      "Virtual",
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
     "name": "Beyond The Eye: A Talk On Hidden Self-Harm",
     "description": "Join us for a lecture that looks at a question we rarely ask honestly:What if self-harm isn\u2019t always visible, and not as rare as we think?About the LectureSelf-harm is often spoken about in extremes: visible, alarming, and distant from everyday life.But what if that picture is incomplete?This lecture shifts the conversation from the obvious to the subtle, asking how self-detrimental behaviours show up in ways we don\u2019t always recognise. It challenges the assumption that self-harm is something \u201cother people\u201d do, and instead examines how many of us may engage in forms of it, consciously or not.The session explores:How self-harm is defined \u2014 beyond its most visible formsWhy it remains heavily stigmatised and misunderstoodWhat drives people to act against their own well-beingHow seemingly ordinary behaviours can take on self-destructive patternsAt its core, this talk asks a more unsettling question: Why do humans sometimes act against their own survival? and what does that reveal about how we cope, adapt, and endure?About the SpeakerSasha Bansal is a PhD scholar at Ashoka University, with an MSc in Psychological Sciences from the State University of New York.Her research focuses on self-harming behaviour, psychometrics, social psychology, the psychology of religion, and advanced statistical methods. With over ten academic publications, she has presented her work at international platforms including The NorthEastern Evolutionary Psychology Society Conference.She is also the founder of StatPsyched, an initiative aimed at making research and statistics education more accessible to students worldwide.All Grounds for Thought tickets include a \u20b9250 coupon redeemable on food and beverages at the venue. About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
     "startDate": "2026-05-03T16:00:00+05:30",
@@ -375,44 +489,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Arabic Calligraphy Workshop",
-    "description": "The art of sacred script, still alive in Old DelhiA chance to witness Arabic Calligraphy not just as writing, but as an art of beauty, balance, and devotion. Rooted in centuries of tradition, it has been used to preserve poetry, language, and sacred texts through flowing strokes and precise forms. Every letter follows a rhythm, every curve has meaning.Traditionally created using reed pens and ink, this practice is as much about patience and discipline as it is about expression. Today, very few traditional practitioners continue to keep it alive.Join Katib Mohammad Ghalib, one of the last traditional calligraphers of Old Delhi, for a hands-on workshop where you will understand the essence of this art and create your own calligraphy piece.Limited seats only.",
-    "startDate": "2026-04-30T11:00:00+05:30",
-    "endDate": "2026-05-01T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "8, Nelson Mandela Marg, Pocket 4, Sector C, Vasant Kunj, New Delhi, Delhi 110070, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53822650000000000000",
-        "longitude": "77.15371040000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1313.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Nazariya",
-      "url": "https://urbanaut.app/partner/nazariya"
-    },
-    "url": "https://urbanaut.app/spot/arabic-calligraphy-workshop",
-    "keywords": [
-      "Leisure",
-      "Workshop",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Wine Tasting: Fresh Summer Drops!",
     "description": "Delhi wine lovers, we\u2019re back with something fresh, fun, and made for this weather \u2600\ufe0f\ud83c\udf77Join Sommelier Devati Mallick (Founder & Curator, Drink With D Wine Experiences) for Fresh Summer Drops! An easy, feel-good wine tasting at La Croute, Sundar Nagar, one of our favourite caf\u00e9-style spots to wine and dine at.This one is all about summer in a glass. We\u2019ll be sipping on 5 of my favourite summer wines: crisp, refreshing, vibrant pours that you\u2019ll want to drink on repeat all season. The kind of wines that instantly lift your mood and make you forget the heat outside. Add on long, lazy conversations with our wine community, chilled glasses in hand, and that perfect early evening buzz as Sunday winds down.Like all our tastings, this is relaxed, interactive, and all about the community! Come discover some truly delicious summer wines with us, snack on La Croute's special small plates, and ease into a perfect evening of wine and chill.Sounds like the perfect Sunday plan? We think so too.Limited spots only, book your seat now \ud83c\udf77",
@@ -601,6 +677,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Climb Like A Girl",
+    "description": "Climb Like A Girl is back! Get ready for a fun, energizing climbing session. It is a beginner-friendly, women-only meetup. The session will be guided by professionals at The Delhi Rock. Just bring your energy, curiosity, and love for trying something new! The venue is in the Squash and Badminton Stadium on Siri Fort Road.",
+    "startDate": "2026-05-03T10:00:00+05:30",
+    "endDate": "2026-05-03T11:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Siri Fort, New Delhi, Delhi 110049, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55326250000000000000",
+        "longitude": "77.22100110000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "400.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swagclim",
+    "keywords": [
+      "Adventure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Open Mic at goSTOPS Plus Gurugram",
     "description": "Delhi Bolo x MCMV Open Mic \ud83c\udfa4Delhi Bolo and MyCityMyVoice bring you an open mic for anyone who wants to perform and share their talent.Whether you\u2019re a beginner or experienced, all artists are welcome\u2014poets, singers, comedians, rappers and more.\ud83c\udfa4 Performance Details:\u2022\u2060  \u20605 minutes per performer\u2022\u2060  \u2060Slots are first come, first served\ud83d\udcc5 Date: 10 May 2026\u23f0 Time: 2 PM \u2013 5 PM\ud83d\udccd Venue: goSTOPS, Baani Square, Sector 51, GurugramCome perform, watch, and enjoy a creative evening!",
     "startDate": "2026-05-10T14:00:00+05:30",
@@ -633,6 +747,82 @@
       "Leisure",
       "Live GIG",
       "Local",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Guided Pickleball | Khan Market",
+    "description": "Guided Pickleball with SWAG x Delhi Picklers is back!This is a women-only, beginner-friendly pickleball meet-up. The session is guided by a coach.5:20 PM Meet up and Warm up Time5:30 PM Game TimeSee you on court!",
+    "startDate": "2026-05-03T17:30:00+05:30",
+    "endDate": "2026-05-03T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Opposite Bunglow No.46, Sector 4, Lodhi Estate, Lodhi Estate, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59422390000000000000",
+        "longitude": "77.22559430000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "399.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swagpickleballkhan",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "BADDY WITH BADDIES | Vasant Kunj",
+    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.4:50 PM Meet up and Warm up Time5:00 PM Game TimeSee you on court!",
+    "startDate": "2026-05-02T17:00:00+05:30",
+    "endDate": "2026-05-02T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "inside DAV Public School, near Fortis Hospital, Pocket 1, Sector B, Vasant Kunj, New Delhi, Delhi 110070, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52084540000000000000",
+        "longitude": "77.16146610000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "250.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swagbadminton",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
       "URBANAUT"
     ]
   },
