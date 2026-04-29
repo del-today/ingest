@@ -80,6 +80,26 @@
     ]
   },
   {
+    "@type": "Event",
+    "name": "KNMA Art Battle",
+    "url": "https://www.knma.org/whats-on/events/art-battle-season-6",
+    "startDate": "2026-05-07T08:00:00+05:30",
+    "endDate": "2026-05-07T08:00:00+05:30",
+    "description": "Art Battle",
+    "location": {
+      "@type": "Place",
+      "name": "The Doon School, Dehradun",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
     "@type": "EducationEvent",
     "name": "Unearthing Echologies",
     "url": "https://www.knma.org/whats-on/workshops/unearthing-echologies",

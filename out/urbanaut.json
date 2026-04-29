@@ -2,6 +2,120 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Street Art Tour at Lodhi Art District",
+    "description": "We Invite you to take a walking tour in India\u2019s first open sky art gallery. Lodhi Art District houses over 60 paintings on the walls of government residential buildings. Artists from Japan, New Zealand, Italy, Singapore, Argentina, Netherlands, Australia, USA, Canada, France, Mexico, Germany, Switzerland, Spain, Brazil, China, Nepal and India have painted the walls with unique themes highlighting variety of issues. The First Lady of France Briggitte Macron and Apple CEO Tim Cook had visited this art District on their visit to New Delhi. To cover this huge art District you would need definitely an art lover who explain each painting in detail. We Invite you to take most Instagrammable tour of Delhi with us. Note : We will cover 25 paintings.",
+    "startDate": "2026-05-02T17:00:00+05:30",
+    "endDate": "2026-05-03T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "18, Lodhi Rd, Gokalpuri, Institutional Area, Lodi Colony, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.58536280000000000000",
+        "longitude": "77.22333490000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "750.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "India Heritage Trails",
+      "url": "https://urbanaut.app/partner/india-heritage-trails"
+    },
+    "url": "https://urbanaut.app/spot/street-art-tour-at-lodhi-art-district",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Live Music Night at goSTOPS Plus Gurugram",
+    "description": "Get ready to experience music the way it\u2019s meant to be \u2014 live, raw, and unforgettable.GoStops invites you to a vibrant evening of live music, where talented artists bring together soulful melodies, indie sounds, and high-energy performances. Whether you\u2019re looking to unwind, meet new people, or simply soak in great music, this is your perfect escape.Expect an intimate yet electric atmosphere, good vibes all around, and moments that stay with you long after the night ends.Come for the music, stay for the experience! ",
+    "startDate": "2026-05-02T20:00:00+05:30",
+    "endDate": "2026-05-02T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "goSTOPS, Baani Square, N7, Block N, Mayfield Garden, Sector 51, Gurugram, Haryana 122018, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.42612300000000000000",
+        "longitude": "77.05805370000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "100.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "goSTOPS",
+      "url": "https://urbanaut.app/partner/gostops"
+    },
+    "url": "https://urbanaut.app/spot/gostopsgurugram",
+    "keywords": [
+      "Leisure",
+      "Live GIG",
+      "Music",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Story of Plastic",
+    "description": "The Story of Plastic is a searing expos\u00e9 revealing the ugly truth behind plastic pollution and the false solution of plastic recycling. Different from every other plastic documentary you\u2019ve seen, The Story of Plastic presents a cohesive timeline of how we got to our current global plastic pollution crisis and how the oil and gas industry has successfully manipulated the narrative around it. From the extraction of fossil fuels and plastic disposal to the global resistance fighting back, The Story of Plastic is a life-changing, Emmy-winning film depicting one of the world\u2019s most pressing environmental issues.",
+    "startDate": "2026-05-02T10:00:00+05:30",
+    "endDate": "2026-05-02T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M6FC+8JQ, Raj Niwas Marg, Ludlow Castle, Civil Lines, New Delhi, Delhi, 110054, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.67333740000000000000",
+        "longitude": "77.22159780000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Public Health India Community",
+      "url": "https://urbanaut.app/partner/public-health-india-community"
+    },
+    "url": "https://urbanaut.app/spot/the-story-of-plastic",
+    "keywords": [
+      "Responsible",
+      "Wellness",
+      "Eco Friendly",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "The Support Club",
     "description": "The Support ClubA No Taboo x Scoop Studio experienceWhat if the problem isn\u2019t your body\u2026 but the bra you\u2019ve been told fits it?Welcome to The Support Club! An intimate, small-group experience where we unpack everything you thought you knew about bras, sizing, and support\u2026 and replace it with something that actually works for your body.Co-hosted by Neelakshi (@plumptopretty and No Taboo Experiences) and Rhea (Bra Fitter and Founder of @shop_scoop_studio), this 90-minute session blends honest conversations, interactive exercises, and a personalized fitting to help you finally understand what real support feels like.Expect:A safe, judgment-free space to talk about bodies, bras, and everything in betweenA guided \u201cbra reality check\u201d to understand what\u2019s actually going on with your current fitSimple, practical tools to decode sizing, support, and comfortA 1:1 personalized fitting by RheaAMA with Neelakshi (confidence to lingerie tips and tricks)A chance to try and shop a curated edit of fuller-bust friendly brasSo, whether you\u2019ve always struggled with fit, constantly adjust your straps, or know something isn\u2019t quite right: this is for you. You don\u2019t leave with just a bra.You leave knowing your body.A quick note on sizingMost people who come to Scoop Studio are wearing the wrong size for their bodies.We\u2019ve seen 36DD become 32G, 38E become 36H, and 34DD become 28H. So many people go from constantly adjusting to finally feeling supported for the first time.This session is designed to help you understand your body and find what truly works for you, not just what you\u2019ve been told your size is.Available sizes: 28-44 Bands | DD-K Cups",
     "startDate": "2026-05-08T11:00:00+05:30",
@@ -114,7 +228,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Chandini Chowk \u2013 Spiritual and Living Heritage",
-    "description": "Chandni Chowk is not just a marketplace; it is a living museum where the 17th-century Mughal urban design breathes alongside the chaos of modern commerce.Designed in 1650 by Jahanara Begum, emperor Shah Jahan\u2019s daughter, Chandni Chowk was once a grand canal-side boulevard. The water from Faiz Nahar flowed through its centre, reflecting the moonlight and giving the street its name. Today, the canal is gone, but the flow remains in the form of a relentless human tide.We will wander the interfaith mile, where the morning air is a tapestry woven with the tolling of temple bells, the solemn Gurbani, and the ethereal call of the Azaan. A secular thread\u2014a single stretch of road where major places of worship for different faiths have coexisted for centuries. Join Mera \u0936\u0939\u0930 \u2014 My City Walks for a morning of storytelling as we navigate our way through the Kutcha\u2019s and Katra\u2019s of Chandini Chowk.  This isn't just a walk through a marketplace; it\u2019s a journey through a 375-year-old living museum where every turn of a lane reveals a layer of Delhi\u2019s complex identity.",
+    "description": "Chandni Chowk is not just a marketplace; it is a living museum where the 17th-century Mughal urban design breathes alongside the chaos of modern commerce.Designed in 1650 by Jahanara Begum, emperor Shah Jahan\u2019s daughter, Chandni Chowk was once a grand canal-side boulevard. The water from Faiz Nahar flowed through its centre, reflecting the moonlight and giving the street its name. Today, the canal is gone, but the flow remains in the form of a relentless human tide.We will wander the interfaith mile, a single stretch of road where major places of worship for different faiths have coexisted for centuries.Join Mera \u0936\u0939\u0930 \u2014 My City Walks for a morning of storytelling as we navigate our way through the Kutcha\u2019s and Katra\u2019s of Chandini Chowk. This isn't just a walk through a marketplace; it\u2019s a journey through a 375-year-old living museum where every turn of a lane reveals a layer of Delhi\u2019s complex identity.",
     "startDate": "2026-05-10T08:00:00+05:30",
     "endDate": "2026-05-10T10:00:00+05:30",
     "location": {

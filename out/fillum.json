@@ -103,6 +103,23 @@
   },
   {
     "@type": "ScreeningEvent",
+    "name": "Toubab(2021)",
+    "url": "https://fillum.in/screening/5371",
+    "startDate": "2026-05-05T19:00:00+05:30",
+    "endDate": "2026-05-05T19:00:00+05:30",
+    "description": "Free entry. The screening will be followed by a discussion.",
+    "location": {
+      "@type": "Place",
+      "name": "Goeth-Institut",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Goethe-Institut New Delhi"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "Puppet Master(2023)",
     "url": "https://fillum.in/screening/5331",
     "startDate": "2026-05-17T15:15:00+05:30",
