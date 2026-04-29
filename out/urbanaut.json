@@ -2,6 +2,81 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Mahfil-e-Dastangoi",
+    "description": "Chor Bizarre hosts a Mahfil-e-Dastangoi, the 13th-century art of storytelling, once heard in royal courts and public gatherings across the subcontinent.Directed by Syed Sahil Agha, with performances by Sahil Sharma, Shadab Khan, and Diksha Tiwari, the evening brings alive tales of the Red Fort and Old Delhi - through voice, rhythm, and imagination alone.At Chor Bizarre, the table makes space for stories again! Come join us.",
+    "startDate": "2026-05-08T18:00:00+05:30",
+    "endDate": "2026-05-08T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Hotel Broadway, 4/15A, Asaf Ali Rd, Chatta lal Miya, Chandni Mahal, Chandni Chowk, Delhi, New Delhi, Delhi 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64105660000000000000",
+        "longitude": "77.23791410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "525.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Chor Bizarre",
+      "url": "https://urbanaut.app/partner/chor-bizarre"
+    },
+    "url": "https://urbanaut.app/spot/mehfil-e-dastangoi",
+    "keywords": [
+      "Music",
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Hema\u2019s Chef\u2019s Table, Southern Coastal Dine-In",
+    "description": "Hema\u2019s Chef\u2019s TableA Southern Coastal Dining Experience brought to life by a mother\u2013daughter duoAn unmistakable blend of heritage and modernity.Served on a hand-washed banana leaf, each course draws from three generations of cherished family recipes.Hema, who preserves the soul of tradition, and Anjali, who reimagines it with a contemporary touch.Every dish is handmade from the first ingredient to the last, with an unwavering commitment to the real flavours of Southern coastal India.From the welcome drink to a final cup of family-grown filter coffee, this is more than just a meal \u2014 it is a warm, intimate experience designed to be remembered.",
+    "startDate": "2026-05-03T12:01:00+05:30",
+    "endDate": "2026-05-03T14:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shahpur Jat, Siri Fort, New Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54905090000000000000",
+        "longitude": "77.21381420000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3150.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Hemas South Indian",
+      "url": "https://urbanaut.app/partner/hemas-south-indian"
+    },
+    "url": "https://urbanaut.app/spot/sunday-brunch-12816",
+    "keywords": [
+      "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Street Art Tour at Lodhi Art District",
     "description": "We Invite you to take a walking tour in India\u2019s first open sky art gallery. Lodhi Art District houses over 60 paintings on the walls of government residential buildings. Artists from Japan, New Zealand, Italy, Singapore, Argentina, Netherlands, Australia, USA, Canada, France, Mexico, Germany, Switzerland, Spain, Brazil, China, Nepal and India have painted the walls with unique themes highlighting variety of issues. The First Lady of France Briggitte Macron and Apple CEO Tim Cook had visited this art District on their visit to New Delhi. To cover this huge art District you would need definitely an art lover who explain each painting in detail. We Invite you to take most Instagrammable tour of Delhi with us. Note : We will cover 25 paintings.",
     "startDate": "2026-05-02T17:00:00+05:30",
