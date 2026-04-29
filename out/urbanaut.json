@@ -1,6 +1,44 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "A Table & A Print",
+    "description": "A Table & A Print is a small evening at the farm built around making, eating, and spending time a little more slowly.The experience begins with a guided two-hour linocut printmaking session. Guests will be introduced to the process, create a design, carve it, and print it onto a cotton tote bag and paper to take home.After the workshop, we step outside for cocktails while the table is set, before returning inside for a six-course supper served one course at a time.This is an open invitation. Come with someone you love, or come on your own.MenuTo begin, outside\u2028Garden Breeze\u2028cucumber, basil, gin, lime, honey, sodaAt the tableThe PT Hummus\u2028with grilled zucchini, red peppers, and king trumpet mushroom\u2028non-vegetarian version with chicken skewersThe Collective Greens\u2028green beans, peas, edamame, cucumber, red onion, salad greens, toasted nuts and seeds, with plum mustard vinaigrette on a bed of labnehMidsummer Sunset\u2028Aperol, gin, citrus, berryMarcella\u2019s Linguine\u2028with tomato butter sauce and ricotta or burrataThe Farm Roast\u2028butter-infused roast chicken with creamy truffle mash.\u2028Vegetarian alternative: roasted mushrooms with truffle mashBerry Gelato\u2028a bright, house-made berry gelatoAffogato\u2028vanilla ice cream finished with hot espressoDate: Saturday, 9 May 2026Time: 5:30pm onwardsVenue: IDIS Collective, DelhiPrice: \u20b94,500 per personLimited seatsNote:No prior lino cut experience is needed.Vegetarian alternative available for the main course.Booking is essential.",
+    "startDate": "2026-05-09T17:30:00+05:30",
+    "endDate": "2026-05-09T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Kh-29/2, Meher Farm, D. I. G. Estate, Aya Nagar Extension Jonapur Link Rd, Jona Pur, Jaunapur, New Delhi, Delhi 110047, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46915150000000000000",
+        "longitude": "77.14380680000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "4500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Paprika Tokri",
+      "url": "https://urbanaut.app/partner/paprika-tokri"
+    },
+    "url": "https://urbanaut.app/spot/a-table-a-print",
+    "keywords": [
+      "Workshop",
+      "Food & drink",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Mahfil-e-Dastangoi",
     "description": "Chor Bizarre hosts a Mahfil-e-Dastangoi, the 13th-century art of storytelling, once heard in royal courts and public gatherings across the subcontinent.Directed by Syed Sahil Agha, with performances by Sahil Sharma, Shadab Khan, and Diksha Tiwari, the evening brings alive tales of the Red Fort and Old Delhi - through voice, rhythm, and imagination alone.At Chor Bizarre, the table makes space for stories again! Come join us.",
@@ -709,43 +747,6 @@
       "Music",
       "Premium",
       "Wellness",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "#lecture27 KUMBH: World\u2019s Largest Gathering",
-    "description": "#lecture27 #LectureoverdrinksKUMBH\ufeffWorld\u2019s largest gathering: What 600 million people can teach us about crowd scienceWhat if the largest, most complex crowd system in the world works without tickets, without tracking, and without central control?At Kumbh Mela, hundreds of millions of people gather over a short span of time. On peak days, tens of millions move through the same space to bathe, eat, rest, and return. There is no RSVP list, no database, no single authority orchestrating movement. And yet, the system holds.In this session, we look at Kumbh not just as a religious gathering, but as a living system. Drawing from his research, Dr Prateek Raj unpacks how crowd flow organises itself, how decentralised systems adapt in real time, and how something he calls the \u201cmandala economy\u201d allows order to emerge from apparent chaos. It shifts the question from how we control large systems to how they might function when control is minimal.The conversation opens up a broader lens on cities, infrastructure, and human coordination. If something at this scale can work without tight oversight, what does that say about the systems we design and the assumptions we carry about order and control?About the SpeakerDr Prateek Raj studies how people and groups at the fringes often drive innovation and social progress. He is the author of Atypical: Five Strategy Rules for a New World and is currently working on a follow-up book on the history of progress.His research spans diverse contexts, including firm productivity in India, elite marriage patterns in South Korea, income gaps among stigmatised business owners, and organisational responses during COVID-19. His recent work on the Kumbh Mela approaches it as a large-scale, self-organising system.Prateek is an Associate Professor at University College London, where he leads the Business and Health programme. He is also affiliated with the Stigler Center and is a Fellow of the Royal Society for Public Health and the Higher Education Academy.Book now & develop your own pint of view! \ud83c\udf7b\ud83d\udccc Note: Alcohol will be served only to guests aged 25 and above. Non-alcoholic options will be available. Attendance implies consent to being filmed for event documentation.",
-    "startDate": "2026-04-29T19:00:00+05:30",
-    "endDate": "2026-04-29T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "The Pianoman, Eldeco Centre, Block A, Shivalik Colony, Malviya Nagar, New Delhi, delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52817730000000000000",
-        "longitude": "77.20516800000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "799.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Pint of View Delhi NCR",
-      "url": "https://urbanaut.app/partner/pint-of-view-delhi-ncr"
-    },
-    "url": "https://urbanaut.app/spot/lecture27-kumbh-worlds-biggest-festival",
-    "keywords": [
-      "Leisure",
-      "Live GIG",
       "URBANAUT"
     ]
   },
