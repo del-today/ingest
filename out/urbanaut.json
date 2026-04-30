@@ -320,7 +320,7 @@
     "typicalAgeRange": "25+",
     "offers": {
       "@type": "Offer",
-      "price": "2875.00",
+      "price": "2705.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -567,16 +567,16 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Financial Litercacy Workshop for Kids",
-    "description": "A Fun Financial Literacy Workshop designed just for them! \ud83d\udca1\ud83d\udcb0Here\u2019s what children will learn:\u2022 Understanding money \u2013 what it is and how it works\u2022 Smart saving habits and why saving is important\u2022 Basics of budgeting in a simple, kid-friendly way\u2022 Needs vs. wants \u2013 making better spending choices\u2022 Introduction to earning and managing pocket mone\u2728 This will be a hands-on, engaging, and enjoyable experience - not a boring lecture!\ud83c\udf6a Plus, children will be treated to tasty nibbles and refreshing drinks during the workshop.Exact adress in Galleria Towers will be shared upon booking the slot.",
+    "description": "A Fun Financial Literacy Workshop designed just for them! \ud83d\udca1\ud83d\udcb0Here\u2019s what children will learn:\u2022 Understanding money \u2013 what it is and how it works\u2022 Smart saving habits and why saving is important\u2022 Basics of budgeting in a simple, kid-friendly way\u2022 Needs vs. wants \u2013 making better spending choices\u2022 Introduction to earning and managing pocket mone\u2728 This will be a hands-on, engaging, and enjoyable experience - not a boring lecture!\ud83c\udf6a Plus, children will be treated to tasty nibbles and refreshing drinks during the workshop.",
     "startDate": "2026-05-16T11:30:00+05:30",
     "endDate": "2026-05-16T14:00:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "F39J+4G5, DLF Galleria Rd, Galleria Market, Sector 28, DLF Phase IV, Sector 43, Gurugram, Haryana 122009, India",
+      "address": "3rd Floor, A-26/11, Golf Course Rd, near Dt Mega Mall, A Block, DLF Phase 1, Gurugram, Haryana 122002, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.46776750000000000000",
-        "longitude": "77.08136290000000000000"
+        "latitude": "28.47371350000000000000",
+        "longitude": "77.09346930000000000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -595,6 +595,7 @@
     },
     "url": "https://urbanaut.app/spot/financial-litercacy-workshop-for-kids",
     "keywords": [
+      "Responsible",
       "Workshop",
       "URBANAUT"
     ]
