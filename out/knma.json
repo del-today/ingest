@@ -120,6 +120,26 @@
     ]
   },
   {
+    "@type": "Event",
+    "name": "KNMA Matinee",
+    "url": "https://www.knma.org/whats-on/events/knma-matinee",
+    "startDate": "2026-05-09T10:00:00+05:30",
+    "endDate": "2026-06-27T18:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
     "@type": "EducationEvent",
     "name": "Restless Lines",
     "url": "https://www.knma.org/whats-on/workshops/restless-lines",
@@ -146,6 +166,86 @@
     "startDate": "2026-05-10T10:00:00+05:30",
     "endDate": "2026-05-10T10:00:00+05:30",
     "description": "WeekendsatKNMA",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "The Gold-laden Sheep and The Sacred Mountain",
+    "url": "https://www.knma.org/whats-on/events/the-golden-sheep-and-the-sacred-mountain",
+    "startDate": "2026-05-15T18:00:00+05:30",
+    "endDate": "2026-05-15T18:00:00+05:30",
+    "description": "CineParadios film series",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Fragmented Figures: Sculpting the Body",
+    "url": "https://www.knma.org/whats-on/workshops/fragmented-figures-sculpting-the-body",
+    "startDate": "2026-05-16T10:00:00+05:30",
+    "endDate": "2026-05-16T10:00:00+05:30",
+    "description": "Artist in Me",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Two Are Better Than One: Lenticular Narratives of Duality",
+    "url": "https://www.knma.org/whats-on/workshops/two-are-better-than-one-lenticular-narratives-of-duality",
+    "startDate": "2026-05-16T10:00:00+05:30",
+    "endDate": "2026-05-16T10:00:00+05:30",
+    "description": "Saturday Family Workshop",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Moving stories",
+    "url": "https://www.knma.org/whats-on/workshops/moving-stories",
+    "startDate": "2026-05-19T10:00:00+05:30",
+    "endDate": "2026-05-23T18:00:00+05:30",
+    "description": "",
     "location": {
       "@type": "Place",
       "name": "KNMA, New Delhi",

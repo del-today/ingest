@@ -1,6 +1,80 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Poetics of Time: A Poetic Immersion into Visual Arts",
+    "description": "Dillipoetry, in collaboration with Anant Art Gallery, invites you to The Poetics of Time, a one-of-a-kind interactive poetry workshop where poetry and visual art\u200b coalesce into a shared experience. As one artist observed, \u201cart is not a history of grand\u200b masterpieces; it is a record of human attempts.\u201d This holds equally true for poetry, the\u200b experience is yet another attempt to bring the two into a\u200bn embodied dialogue.The workshop anchors itself in the themes of reverie, pause, and rupture\u2014how\u200b they unfold in\u200b one\u2019s inner life and in the world around us, personally,\u200b systemically and politically.\u200b Conceived as a response to the ongoing exhibition\u200b Reverie. Pause. Rupture, the workshop\u200b engages with the exhibition through\u200b poetry. The group show, featuring leading contemporary\u200b artists, \u201cchallenges the\u200b artist and viewer alike to express what may be inexpressible. It reflects\u200b on time,\u200b its apparent continuity, as well as the sudden breaks that give rise to new\u200b beginnings,\u201d\u200b notes curator Gayatri Sinha.The two-hour-long workshop with its reflective prompts and guided exercises\u200b promises to bring\u200b an absurd interplay of visual, somatic and creative mediums to help us move through the idea of\u200b personal imagination \u2014 with prescribed\u200b writings written across a wide timeline by some of the\u200b wise voices like Gaston Bachelard, Audre Lorde, Mary Oliver, Naomi Shihab Nye among others.About the host: Rachit is a poet and founder of Dillipoetry\u2014a literary platform known for its thematic, experimental poetry walks, workshops, and training programmes. He is the former Creative Head at Youth Alliance, where he designed and facilitated transformational leadership journeys for young social leaders across India. With over a decade in the social development sector, his work spans diverse social issues. His poetry has appeared in 25+ literary platforms and anthologies. His recent series Memories of Yami and The Asthma City\u2014tracing the Yamuna River through Delhi and the city\u2019s escalating air crisis\u2014were published by Down To Earth magazine.Rachit has been selected for international residencies, including Language is a Queer Thing, a programme by The Queer Muslim Project in collaboration with the British Council, UK. He received the Germinator Grant by Ecoversity for Dillipoetry\u2019s regenerative approach to arts and community.He has performed twice at BBC Contains Strong Language\u2014the UK\u2019s largest poetry festival (Leeds 2023, Bradford 2025)\u2014and at institutions including the French Institute India, Goethe-Institut, British Council, and Alliance Fran\u00e7aise. His work has appeared on BBC Radio 3\u2019s The Verb. He also served as Lead Poet and Advisor to O.P. Jindal Global University\u2019s programme, We Are Meant to Sing as One.",
+    "startDate": "2026-05-09T11:30:00+05:30",
+    "endDate": "2026-05-09T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "B-5/3, Block B 5, Safdarjung Enclave, New Delhi, Delhi 110029, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.56162040000000000000",
+        "longitude": "77.18857430000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "649.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Dillipoetry",
+      "url": "https://urbanaut.app/partner/dillipoetry"
+    },
+    "url": "https://urbanaut.app/spot/the-poetics-of-time",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Identity in Transition: A Psycho-Social Analysis",
+    "description": "Join us for a lecture that dives into a transformation happening in our pockets and on our screens, one that is reshaping who we are and how we feel. About the LectureOur identity used to be shaped by our face-to-face relationships and physical communities. Today, much of that construction has moved online. But what happens to our mental health when our \"self\" is curated for an audience?This lecture explores the dynamic relationship between digital identity and psychological well-being. Moving beyond simple critiques of screen time, it examines the core dimensions of the self - personal, social, and collective, and how they shift in a digital landscape.The session explores:The Architecture of the Digital Self. How social media allows for identity experimentation and curated self-presentation.The psychological mechanics of social comparison, FOMO, and the quest for external validation through likes and comments.Understanding the tension and anxiety that arise from discrepancies between our online and offline selves.How these platforms offer vital spaces for social support, belonging, and mental health awareness, the digital silver lining.As we navigate an increasingly hybrid world, this session invites us to consider how digital literacy and mindful engagement can help us protect our well-being and foster a more authentic sense of self.About the SpeakerDr. Poonam Yadav is a psychologist and Assistant Professor at Gargi College, University of Delhi. With an M.Phil. and PhD from Jawaharlal Nehru University, her expertise spans social psychology, media psychology, and organizational behavior.Dr. Yadav has taught extensively on research methodology, personality development, and health and well-being. She is a published researcher who has presented her work at both national and international levels, bringing a deep academic rigor to the study of how modern media shapes the human mind. Beyond her academic role, she holds a Diploma in Guidance and Counselling, bridging the gap between theoretical research and applied psychological support.All Grounds for Thought tickets include a \u20b9250 coupon redeemable on food and beverages at the venue.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-05-10T16:00:00+05:30",
+    "endDate": "2026-05-10T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Basement, Ground floor and First floor Building no. 12, Panchsheel Community Centre, Shahpur Jat, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54805190000000000000",
+        "longitude": "77.21147640000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/identity-in-transition-a-psycho-social-analysis",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "The Procrastireaders",
     "description": "The Procrastireaders: The May Escape (Bring Your Own Book)OverviewEscape the May heat and find refuge in a dedicated getaway for readers. The only goal for this session is to finally make progress on that book sitting on your nightstand. \"The May Escape\" is designed for those who want to reclaim their reading time in a quiet and comfortable setting.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to ExpectDeep Work for Reading: We will have a longer and silent reading block to help everyone actually get into a flow state.The \"Currently Reading\" Wall: A quick and casual way to share what everyone is reading and swap recommendations with the group.Slow Morning: No themes or prompts this time. Just a quiet and air conditioned space to read in peace and enjoy the company of fellow bookworms.Bring Your Own Book: Carry whatever you are currently reading or something from your \"to be read\" pile that needs your attention.Details\ud83d\uddd3\ufe0f Date: 30th May (Saturday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Unlocked, 32nd Avenue\ud83c\udf9f\ufe0f Fee: \u20b9700",
@@ -1426,6 +1500,263 @@
       "Leisure",
       "Wellness",
       "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Open SketchBook",
+    "description": "Open SketchBook: You don\u2019t need to leave the city to feel grounded.OverviewOur core belief is that you do not need to leave the city to feel grounded. In a world where everyone is distracted, we pause as a group to give our attention to one shared thing. Sketching becomes the medium to notice small, living details in urban spaces that we usually rush through.You do not need to be an artist to enjoy sketching. Open SketchBook is a session for anyone who wants to explore drawing as a way to relax and observe the world. It is about the process of putting pencil to paper rather than the final masterpiece.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to expectGuided Observation: Learn simple ways to look at objects or spaces and translate them into lines and shapes.Creative Freedom: A judgment free zone where you can experiment with sketching without worrying about \"doing it right.\"Tactile Experience: Use your new diary and pencil kit to capture what you see in the moment.Relaxed Environment: Enjoy a late afternoon at Greenr with a small group of people who just want to create and connect.Details\ud83d\uddd3\ufe0f Date: 19th April (Sunday)\u23f0 Time: 5:00 PM\ud83d\udccd Location: Greenr, Golf Course Ext Road\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes an A6 diary and pencil kit)",
+    "startDate": "2026-05-23T11:00:00+05:30",
+    "endDate": "2026-05-23T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "First Floor, Grand View High Street, Golf Course Ext Rd, Sector 58, Gurugram, Haryana 122098, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41623070000000000000",
+        "longitude": "77.10243700000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/open-sketchbook",
+    "keywords": [
+      "Leisure",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Listening Room",
+    "description": "The Listening Room: A Space for Deep ListeningOverviewIn a world that is always talking, we rarely get the chance to truly listen. The Listening Room is a unique session dedicated to the art of being present. It is a space to share, to hear others, and to practice the kind of attention that builds real connection and empathy.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to expectActive Listening: Practice being fully present while others speak without the need to interrupt or give immediate advice.Shared Stories: A safe environment to share your own thoughts or experiences and feel truly heard by a small group.Quiet Reflection: Moments of silence to process what has been shared and to notice how deep listening changes our perspective.Supportive Connection: A morning at Greenr focused on human presence and the simple power of witnessing each other\u2019s stories.Details\ud83d\uddd3\ufe0f Date: 19th April (Sunday)\u23f0 Time: 11:00 AM\ud83d\udccd Location: Greenr, Golf Course Ext Road\ud83c\udf9f\ufe0f Contribution: \u20b9700",
+    "startDate": "2026-05-24T11:00:00+05:30",
+    "endDate": "2026-05-24T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "First Floor, Grand View High Street, Golf Course Ext Rd, Sector 58, Gurugram, Haryana 122098, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41623070000000000000",
+        "longitude": "77.10243700000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/listening-room",
+    "keywords": [
+      "Wellness",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Art of Folding",
+    "description": "The Art of Folding: Mother\u2019s Day Special \u2013 Origami HeartsOverviewCelebrate Mother\u2019s Day through the mindful and tactile art of paper folding. This session is a dedicated space to create handmade tokens of affection while reflecting on the theme of motherhood and connection. \"The Art of Folding\" combines creativity with personal expression, allowing you to craft something meaningful from the heart.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to ExpectGuided Creations: Follow a beginner friendly process to fold a heart bookmark, a heart greeting card, and a custom origami envelope.A Personal Touch: Use the session to write a heartfelt note or letter within your creations. Express gratitude, share memories, or simply reflect on what you want to say.Inclusive Space: This workshop is open to everyone, whether you are celebrating, remembering, or reflecting on your relationship with your mother.Full Support: We provide step by step guidance and all necessary materials. You do not need any prior origami experience, and you will take home everything you create.Details\ud83d\uddd3\ufe0f Date: 10th May (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Cha & Co, Grand View High Street\ud83c\udf9f\ufe0f Fee: \u20b9700",
+    "startDate": "2026-05-10T11:30:00+05:30",
+    "endDate": "2026-05-10T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ireo Grand View High Street, Sector 58, Gurugram, Haryana 122098, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41560020000000000000",
+        "longitude": "77.10258329999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/the-art-of-folding",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Matcha Circle",
+    "description": "Matcha Experience: A Taste of CalmOverviewExperience the calming art of green tea in a session dedicated to mindfulness and flavor. This gathering is designed to help you slow down and appreciate the details of a centuries old tradition. \"The Matcha Circle\" offers a peaceful space to learn, taste, and connect at the end of a long week.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to ExpectGuided Introduction: Learn about the history and the unique process of preparing matcha from farm to cup.The Ritual: Watch and learn how the tea is whisked to create its signature froth and deep flavor.Tasting Session: Enjoy a premium matcha drink prepared just for you at Cha & Co.Quiet Conversation: Join a small group setting to talk about finding moments of peace in a busy week over a comforting cup.Details\ud83d\uddd3\ufe0f Date: 15th May (Friday)\u23f0 Time: 6:00 PM\ud83d\udccd Location: Cha & Co, Grand View High Street\ud83c\udf75 Inclusion: Matcha drink included\ud83c\udf9f\ufe0f Fee: \u20b9700",
+    "startDate": "2026-05-15T18:00:00+05:30",
+    "endDate": "2026-05-15T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ireo Grand View High Street, Sector 58, Gurugram, Haryana 122098, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41560020000000000000",
+        "longitude": "77.10258329999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/matcha-experience",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Cinema Circle",
+    "description": "Cinema Circle: The Pursuit of HappynessOverviewJoin us for a screening and discussion of a story that explores the depths of resilience and the human spirit. \"The Pursuit of Happyness\" follows a father's grueling journey through homelessness and hardship while trying to build a better life for his son. It is a powerful look at what it means to keep going when everything seems to be falling apart.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to ExpectThe Screening: We will watch the film together in a comfortable and focused environment.Intimate Discussion: After the movie, we will hold a space for open conversation. We will reflect on the themes of perseverance, the definition of success, and the emotional toll of the \"hustle.\"Shared Perspectives: Hear how the story resonated with others and share your own takeaways on hope and survival.Community Vibe: This is not just a movie night. It is an opportunity to connect with others through a shared cinematic experience.Details\ud83d\uddd3\ufe0f Date: 23rd May (Saturday)\u23f0 Time: 5:30 PM\ud83d\udccd Location: Kanchanjunga Towers, Sector 56\u2615 Inclusions: Coffee and snacks included\ud83c\udf9f\ufe0f Fee: \u20b9700",
+    "startDate": "2026-05-23T11:00:00+05:30",
+    "endDate": "2026-05-23T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "A-BLOCK, KANCHANJUNGA APARTMENT, G.H.18, near Post Office, Sector 56, Gurugram, Haryana 122011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.42299410000000000000",
+        "longitude": "77.10300720000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/cinema-circle",
+    "keywords": [
+      "Leisure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Drafting Table",
+    "description": "The Drafting Table: The Devil Wears Prada - ReimaginedOverviewStep into the world of editorial high stakes and creative reinvention. This session invites you to take the foundation of a classic story and make it entirely your own. Whether you want to keep the iconic setting or flip the script completely, \"The Drafting Table\" provides the structure and space to transform familiar characters and choices into a fresh narrative.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to ExpectCreative Freedom: Reimagine the core of \"The Devil Wears Prada.\" You can stick to the original world or change the environment, character motives, and endings to suit your vision.Structured Writing: We provide a simple framework to help you navigate your rewrite, ensuring you leave the session with a complete short story.Writing Sprints: Engage in two focused 25 minute writing blocks designed to help you get into a flow state and put words on the page.Share and Publish: Enjoy an optional sharing circle with the group. Following the workshop, we will publish your story on Substack under your name.Inclusive Environment: No prior writing experience is needed. This is a space for expression and experimentation.Details\ud83d\uddd3\ufe0f Date: 9th May (Saturday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Cafe Eos Dawn, M3M Urbana\u2615 Inclusion: Coffee included\ud83c\udf9f\ufe0f Fee: \u20b9700",
+    "startDate": "2026-05-09T11:30:00+05:30",
+    "endDate": "2026-05-09T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Caf\u00e9, Shop-22, Eos Dawn, block R2, M3M Urbana Premium, Ramgarh, Sector 67, Gurugram, Haryana 122101, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.39063380000000000000",
+        "longitude": "77.06689039999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/the-drafting-table",
+    "keywords": [
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Overthinkers Anonymous",
+    "description": "OverviewEver wondered why you default to people pleasing, perfectionism, or avoidance? Overthinkers Anonymous is a small and guided space to slow down, reflect, and talk honestly about the things that occupy our minds. This session focuses on Family Patterns and how the environments we grew up in still shape how we think, feel, and respond today.We focus on connecting the dots between past experiences and present reactions in a safe and judgment free environment. The goal is to build awareness and self compassion rather than focusing on blame.What is Stories of Hope?We are a community-led initiative dedicated to creating safe, mindful spaces. Through workshops and gatherings, we help individuals navigate life\u2019s complexities, from mental well-being to personal growth, with empathy and shared human connection.What to expectPattern Recognition: Explore why tendencies like overthinking or control keep showing up in your life.Guided Reflection: Use a specialized worksheet to gain context on your reactions without the weight of self-judgment.Awareness & Compassion: A gentle space to build self-awareness and understanding\u2014focused on insight, not on reliving trauma.Details\ud83d\uddd3\ufe0f Date: 12th April (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Thamel, Golf Course Ext Road\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes Coffee + Snacks)",
+    "startDate": "2026-05-17T11:30:00+05:30",
+    "endDate": "2026-05-17T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shop No. 139, The shopping mall, Arjun Marg, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46589090000000000000",
+        "longitude": "77.09964640000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/overthinkers-anonymous",
+    "keywords": [
+      "Wellness",
       "URBANAUT"
     ]
   },
