@@ -1,6 +1,116 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Echoes of Empire: A Walk Through Qutub Complex",
+    "description": "Step into a living museum of ambition and power at the Qutub Minar Complex, a UNESCO World Heritage Site that defines the Delhi skyline. This tour takes you through centuries of history, beginning with the soaring Qutub Minar itself\u2014an 800-year-old victory tower of intricately carved sandstone and marble.Discover the fascinating transition of empires as we explore the Quwwat-ul-Islam Mosque, featuring some of the earliest Islamic architecture in India. Stand in awe of the Iron Pillar, a 1,600-year-old metallurgical wonder that remains miraculously rust-free. We\u2019ll also visit the serene Tomb of Iltutmish, the grand Alai Darwaza gateway, and the massive, unfinished Alai Minar\u2014a monument to Alauddin Khalji\u2019s bold, unfulfilled dreams.Join us to uncover the legends etched into these red sandstone walls. Please note that the fee is not for access to the site, but rather for the curation of this experience.Contact Us: +91 9041409952Eamil:  uttardharohar@gmail.com",
+    "startDate": "2026-05-10T16:00:00+05:30",
+    "endDate": "2026-05-10T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Qutub MInar Ticket Counter, Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52567170000000000000",
+        "longitude": "77.18798850000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "700.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "UTTAR DHAROHAR",
+      "url": "https://urbanaut.app/partner/uttar-dharohar"
+    },
+    "url": "https://urbanaut.app/spot/echoes-of-empire-a-walk-through-qutub-complex",
+    "keywords": [
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "How Does Music Bring Us Joy?",
+    "description": "Join us for a session that dismantles the idea of music as just entertainment and reveals it as a biological and evolutionary dialogue written into our very DNA. About the LectureWe have all experienced it: the sudden urge to tap a foot, the involuntary head bang, or the \"chills\" that run down our spine during a crescendo. But why should a specific arrangement of sounds trigger such powerful physical and emotional reactions?This session takes us on a cross-disciplinary round trip through Mathematics, Physiology, and Evolutionary Biology to answer a deceptively simple question: Why does music bring us joy? By understanding the biological machinery that allows us to engage with sound, we gain a deeper way of knowing ourselves, for music represents much of what it means to be human.The session explores:The Evolutionary Context: Comparing the role of music in birds and humans to understand its origins.The Auditory Gateway: How our hearing and brain processing transform vibrations into meaning.The Mathematics of Sound: Decoding the unique patterns and structures that make music distinct from noise.The Survival of the Grooviest: Examining the selective pressures that made music an essential trait for our species.Flow of the Evening4:00 PM \u2013 Doors open: Come in, find your seat, and get comfortable.4:05 \u2013 4:20 PM: Place your orders and start a few conversations.4:30 PM: The learning begins.5:15 PM: Open Q&A and discussion with Tejas.5:30 PM onwards \u2013 Stay a while: More eating, more drinking, and more conversations.About the SpeakerTejas Jaishankar is the Co-Founder and \"Resident Nerd\" at Upstairs with Us. A seasoned metal guitarist, Tejas occupies the unique space of a listener who deeply admires Indian Classical music but approaches it from the outside, a journey that inspired his mission to make the genre accessible to everyone.With over 10 years of experience as a fitness entrepreneur and educator, Tejas has founded several startups including IIFEM and Shapemenow Technologies. He specializes in building businesses that bridge the gap between complex science and everyday people. When he isn\u2019t deconstructing musical theory, he can be found pursuing eclectic \"sidequests\" like re-creating prehistoric stone tools.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-05-16T16:00:00+05:30",
+    "endDate": "2026-05-16T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Panchshila Park, 61/7, Panchshila Park, Block C, Panchsheel Park South, Malviya Nagar, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53946110000000000000",
+        "longitude": "77.21371580000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/how-does-music-bring-us-joy",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Body Keeps Score?",
+    "description": "Join us for a session that pulls back the curtain on the hidden logic behind our most challenging moments, arguments that escalate out of nowhere and the silences that stretch too long. About the LectureThat fight that erupted over nothing, the moment you said something you immediately regretted, or the \"freeze\" that swallowed your voice; none of it is random. Your mind and body are in a constant, high-stakes conversation, and most of the time, that conversation is running the show without your permission.When stress hits, your mind-body connection does more than just affect your mood; it rewires how you listen, how you think, and how you show up for the people you love. What lives in your body inevitably shapes what happens between people. In this session, we unpack the neuroscience of our reactions to understand why we explode, why we go cold, and how our biological wiring plays out in our most intimate and everyday relationships.The session explores:The Hidden Conversation: How the mind and body react together to drive our social interactions.The Anatomy of a Fight: Why small disagreements escalate into major conflicts based on internal \"scoring.\"Fight, Flight, or Freeze: The biological reasons why some people react with anger while others withdraw.Rewiring for Connection: How to recognize the physical triggers that lead to relationship \"costs\" and how to manage them.Flow of the Evening4:00 PM \u2013 Doors open: Come in, find your seat, and get comfortable.4:05 \u2013 4:20 PM \u2013 Place your orders and start a few conversations.4:30 PM \u2013 The learning begins.5:15 PM \u2013 Open Q&A and discussion with Dr. Sahni.5:30 PM onwards \u2013 Stay a while: More eating, more drinking, more conversations.About the SpeakerProf. (Dr.) Sanjeev P. Sahni is a distinguished psychologist and academic leader with over 35 years of experience spanning the globe. He is the Founder and Principal Director of the Jindal Institute of Behavioural Sciences and the President of the Community Psychology Association of India (CPAI).A former Visiting Scientist at the University of Houston and University of Chicago, Dr. Sahni\u2019s expertise covers a vast landscape, from Criminal and Cyber Psychology to Neuropsychology and Sports Performance. He has authored over 23 books and trained more than 300,000 educators and students worldwide. His work is dedicated to integrating behavioural science into the fabric of education and policy, empowering individuals to move beyond their \"excuses\" toward true performance excellence.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from St. Stephen\u2019s, Delhi who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-05-10T16:00:00+05:30",
+    "endDate": "2026-05-10T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Siyah Arthouse, 3rd Floor 261, Plot 8, Westend Marg, Saidulajab, Saket, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.51653950000000000000",
+        "longitude": "77.19738550000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/the-body-keeps-score",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Handpan Gathering: A Sound & Community Experience",
     "description": "Step into a rare and intimate Handpan Gathering in Delhi, hosted at The Immersion Room\u2014a space known for its curated, sensory-led experiences.This is not a performance. It\u2019s a shared moment.Surrounded by warm acoustics and a like-minded community, you\u2019ll explore the deeply calming and meditative sounds of the handpan\u2014an instrument known for its soothing, almost hypnotic tones.Whether you\u2019re picking it up for the first time or simply want to unwind after a long week, this experience invites you to slow down, connect, and be fully present.What makes this special:\u2022 A guided yet free-flowing handpan circle\u2022 No experience needed\u2014completely beginner-friendly\u2022 Limited group size for a more personal experience\u2022 Instruments provided on-site\u2022 A unique blend of music, mindfulness, and communityExpect a calm, welcoming atmosphere where there\u2019s no pressure to perform\u2014just space to explore, listen, and enjoy.",
@@ -637,44 +747,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Sham-e-Qutub : An evening heritage walk",
-    "description": "We are delighted to invite you to a special *evening heritage walk at Qutub Minar*, curated by Darwesh Heritage Walks**Date:2nd May**Time:6:00 p.m. onwardsExperience the magic of one of Delhi\u2019s most iconic monuments as it transforms at dusk\u2014when the Qutub Minar complex is beautifully lit and wrapped in an almost timeless charm.This walk takes you through the story of Delhi\u2019s first capital at Mehrauli, tracing the rise of the Tomars and Chauhans, and the arrival of the Delhi Sultanate under the early Turko-Afghan rulers. As the evening sets in, the illuminated ruins, soaring minar, and intricate carvings create a truly immersive atmosphere\u2014perfect for experiencing history not just as a narrative, but as a living, breathing space.During this walk, we will explore:* The origins of Delhi\u2019s earliest city at Mehrauli* The political transitions from Rajput to Sultanate rule* The architectural brilliance of the Qutub complex and its symbolism* The stories hidden in its mosques, pillars, and inscriptionsJoin us for an unforgettable evening of storytelling, history, and exploration\u2014where the past comes alive under the soft glow of lights.We look forward to having you with us.(Please note: the fee is not for access to the site, but rather for curation of this experience) ",
-    "startDate": "2026-05-02T18:00:00+05:30",
-    "endDate": "2026-05-02T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52447540000000000000",
-        "longitude": "77.18552059999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "755.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "DARWESH_TALEWEAVERS",
-      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
-    },
-    "url": "https://urbanaut.app/spot/sham-e-qutub-an-evening-heritage-walk",
-    "keywords": [
-      "History & heritage",
-      "Guided tour",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Safdarjung Tomb : A Heritage Walk",
     "description": "We are delighted to invite you to a unique and immersive heritage walk experience at Safdarjung Tomb, curated by Darwesh Heritage walks in collaboration with Sabhyata Foundation.Date: 3rd MayTime: 8:30 a.m.Step into a fascinating chapter of Delhi\u2019s layered past as we explore Safdarjung Tomb\u2014often described as the *\u201clast flicker in the lamp of Mughal architecture.\u201d*Built in 1754 for Nawab Safdarjung, the powerful Nawab of Awadh and Prime Minister of the Mughal Empire, the monument stands at a time when imperial grandeur was gradually fading. Through its imposing structure and classic charbagh garden layout, the tomb reflects both the elegance of Mughal design and the subtle signs of a declining empire.During this walk, we will explore:\u2022 The life and legacy of Safdarjung and the rise of Awadh\u2022 The shifting political landscape of late Mughal Delhi\u2022 Architectural transitions that mark the end of an eraJoin us for a morning of engaging storytelling, history, and immersive exploration at one of Delhi\u2019s most evocative yet often overlooked monuments.We look forward to having you with us.Please note: the fee is not for access to the site, but rather for curation of this experience.",
     "startDate": "2026-05-03T08:30:00+05:30",
@@ -939,44 +1011,6 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Wine Tasting: Secret Sips, Austrian Wines",
-    "description": "Delhi wine lovers, ready for something a little..exclusive? \ud83c\udf77\u2728Join Sommelier Devati Mallick (Founder & Curator, Drink With D Wine Experiences) for a special tasting. Secret Sips: Austrian Wines is an evening dedicated to some rare wines.This one\u2019s all about discovery. We\u2019re pouring 6 exclusive premium Austrian wines that are fresh, vibrant, and fascinating: from a lively Sekt to elegant Blaufr\u00e4nkisch and juicy Zweigelt, and a few more surprises along the way. Austrian wines have been having a serious global moment for their energy and drinkability, but still largely under the radar here, which makes this tasting feel like a little insider secret.Expect a fun, slightly geeky deep dive into what makes these wines so exciting, and plenty of wine banter around the table. All of this, paired with small plates at Red, Vasant Vihar, a chic space that\u2019s perfect for sipping, snacking, and settling into a great evening with fellow wine lovers!Like all our tastings, this is intimate, interactive, and community-led, so if you\u2019re here to learn, taste, or just have a good time, you\u2019ll fit right in!20 spots only, this one\u2019s a true limited drop. Don\u2019t miss your chance to be part of the secret!",
-    "startDate": "2026-05-02T18:00:00+05:30",
-    "endDate": "2026-05-02T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "24, Community center, Main Market, Basant Lok, Vasant Vihar, New Delhi, Delhi 110057, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55905570000000000000",
-        "longitude": "77.16369159999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3150.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Drink With D",
-      "url": "https://urbanaut.app/partner/drinkwithd"
-    },
-    "url": "https://urbanaut.app/spot/wine-tasting-secret-sips-austrian-wines",
-    "keywords": [
-      "Leisure",
-      "Premium",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
     "name": "The Table Wears Prada",
     "description": "The Table Wears PradaSunday, 3rd May | 12:30 PM \u2013 3:30 PMStep into a table where fashion meets flavour, and every detail feels straight out of The Devil Wears Prada.This is not just a brunch, it\u2019s a curated afternoon of vintage luxury in collabration with KURO , sharp aesthetics, and storytelling through food. Expect an intimate, invite-only gathering where iconic style cues inspire every element on the table\u2014from plated courses to the mood, the music, and the way the table is set.Think vintage designer bags, effortless glamour, and dishes that echo the wit, drama, and indulgence of the film itself. It\u2019s a space for those who appreciate craftsmanship\u2014whether in fashion or on a plate\u2014and who understand that sometimes, the experience matters just as much as what\u2019s being served.Come dressed like you belong in the front row.Come hungry for more than just food.A table where fashion isn\u2019t worn, it\u2019s served.",
     "startDate": "2026-05-03T12:30:00+05:30",
@@ -1123,44 +1157,6 @@
       "Live GIG",
       "Workshop",
       "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Mere Humnafas",
-    "description": "Mere Humnafas is an intimate, immersive musical\u2013storytelling experience that reconnects contemporary audiences with the emotional and cultural roots of the subcontinent\u2019s rich poetic and musical traditions. At its core lies a simple yet powerful idea: to create something truly new, we must first engage deeply with the masters who shaped our artistic language.For generations, we\u2019ve been reminded that innovation doesn\u2019t exist in isolation\u2014it grows through dialogue with history, memory, and those who came before us. Mere Humnafas brings this philosophy to life by revisiting timeless ghazals, nazms, and poetic expressions that have shaped our collective emotional landscape. These classics are reimagined through contemporary acoustic arrangements, featuring only a keyboard and acoustic guitar, allowing the poetry and emotion to take center stage with striking intimacy.Woven through the music is a narrative that explores enduring themes of love, longing, separation, lost affection, and unspoken devotion\u2014emotions that remain deeply relevant today. Through spoken word and reflection, the experience bridges generations, offering a modern lens while honoring the depth and beauty of the original voices.Mere Humnafas invites you into a dreamy, almost surreal evening\u2014an hour where past and present dissolve into one, where memory and imagination intertwine, and where music and poetry remind us of the power of feeling deeply.This is not just a performance.It is a return\u2014to our roots, our stories, and to each other.",
-    "startDate": "2026-05-02T19:30:00+05:30",
-    "endDate": "2026-05-02T20:45:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "E5, Market Rd, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46575680000000000000",
-        "longitude": "77.09909929999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "750.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Immersion Room",
-      "url": "https://urbanaut.app/partner/theimmersionroom"
-    },
-    "url": "https://urbanaut.app/spot/mere-humnafas-poetry-musical-experience-tir-gurugram",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Art & culture",
       "URBANAUT"
     ]
   },

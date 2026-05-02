@@ -86,6 +86,23 @@
   },
   {
     "@type": "ScreeningEvent",
+    "name": "15th Delhi International Film Festival",
+    "url": "https://fillum.in/event/5394",
+    "startDate": "2026-05-04T18:00:00+05:30",
+    "endDate": "2026-05-04T18:00:00+05:30",
+    "description": "4 May - 8 May 2026.The opening ceremony starts at 6 PM on the first day. The film screenings start at 10:30 AM on all other days.Free entry on first come first serve basis. Click below for ent..more",
+    "location": {
+      "@type": "Place",
+      "name": "IGNCA, Janpath",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fillum"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "Bad Girl(2025)",
     "url": "https://fillum.in/screening/5392",
     "startDate": "2026-05-04T18:30:00+05:30",

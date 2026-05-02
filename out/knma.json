@@ -218,5 +218,25 @@
     "keywords": [
       "KNMA"
     ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Craftopia Season 10",
+    "url": "https://www.knma.org/whats-on/workshops/craftopia-season-10",
+    "startDate": "2026-05-26T10:00:00+05:30",
+    "endDate": "2026-06-06T18:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "National Crafts Museum & Hastkala Academy, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
   }
 ]
