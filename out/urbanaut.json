@@ -1,6 +1,44 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Handpan Gathering: A Sound & Community Experience",
+    "description": "Step into a rare and intimate Handpan Gathering in Delhi, hosted at The Immersion Room\u2014a space known for its curated, sensory-led experiences.This is not a performance. It\u2019s a shared moment.Surrounded by warm acoustics and a like-minded community, you\u2019ll explore the deeply calming and meditative sounds of the handpan\u2014an instrument known for its soothing, almost hypnotic tones.Whether you\u2019re picking it up for the first time or simply want to unwind after a long week, this experience invites you to slow down, connect, and be fully present.What makes this special:\u2022 A guided yet free-flowing handpan circle\u2022 No experience needed\u2014completely beginner-friendly\u2022 Limited group size for a more personal experience\u2022 Instruments provided on-site\u2022 A unique blend of music, mindfulness, and communityExpect a calm, welcoming atmosphere where there\u2019s no pressure to perform\u2014just space to explore, listen, and enjoy.",
+    "startDate": "2026-05-03T15:00:00+05:30",
+    "endDate": "2026-05-03T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "E5, Market Rd, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46575680000000000000",
+        "longitude": "77.09909929999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1599.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Immersion Room",
+      "url": "https://urbanaut.app/partner/theimmersionroom"
+    },
+    "url": "https://urbanaut.app/spot/handpan-gathering-a-sound-community-experience",
+    "keywords": [
+      "Music",
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Sodhilecious Factory Visit",
     "description": "Sodhilecious began as a simple intention\u2014feeding our own families and children food made with honesty.This base kitchen visit is an open invitation to experience that same honesty firsthand. Step inside and see exactly how your cookies and breads are made\u2014from sourcing to preparation to packaging. Nothing is hidden.You\u2019ll walk through our processes, understand our standards, and meet the people behind every product.No shortcuts. No compromises. Just clean, consistent, transparent baking.Because loyalty isn\u2019t built through marketing\u2014it\u2019s built when you truly know what goes into what you eat.Come see it for yourself.",
@@ -976,42 +1014,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "From Plate To Planet",
-    "description": "Join us for a session that dismantles the idea of health as not a purely individual choice but also reveals it as a biological and communal dialogue shaped by the trillions of microbes living within us.About the LectureHealth is often treated as a matter of personal willpower: something determined solely by the gym or a specific diet. This lecture begins from the opposite premise.Drawing on years of research in metagenomics and microbiome science, this session examines the human body as a complex, plural ecosystem. Focusing on the fascinating \"gut-brain axis,\" the lecture traces how microbial communities behave, communicate, and influence everything from our immune system to our emotional resilience.Moving across themes of dietary shifts, the rise of ultra-processed foods, and approaches to wellbeing, the lecture explores:The Gut-Brain Highway: How the communication network between microbes and the brain shapes our mental landscape.The Standard American Diet (SAD): The impact of modern, low-fiber eating patterns on microbial diversity and rising levels of anxiety.The Inner Ecosystem: Understanding the trillions of microbes that play a silent role in our daily survival.Ubuntu and Interconnectedness: How health grows from the relationship between people, food systems, and the environmentEveryday Stewardship: How small, thoughtful actions can care for both our internal world and the planet.We are \"holobionts\"\u2014communities of life that require kindness, awareness, and purpose to thrive. It asks how we can reclaim our health by understanding the invisible connections that bind us to our food, our communities, and our world.Flow of the Evening4:00 PM \u2013 Doors open: Come in, find your seat, and get comfortable.4:05 \u2013 4:20 PM \u2013 Place your orders and start a few conversations.4:30 PM \u2013 The learning begins.5:15 PM \u2013 Open Q&A and discussion with Dr. Brahma.5:30 PM onwards \u2013 Stay a while: More eating, more drinking, more conversations.About the SpeakerDr. Vijaya Brahma is a microbiologist and the Director of Ubuntuverse, a community dedicated to living with purpose and kindness. Her scientific journey began with studying microbes during her PhD at CSIR IMTECH and continued through postdoctoral research at the University of Toronto.Today, she works at the intersection of science and everyday life through the Ubuntu Wellness Academy. She is the host of the YouTube channel Shodh Ka Pratibodh, where she humanizes the scientific journey by interviewing researchers about their paths beyond just academic achievements. Much of her work involves mentoring and science communication, turning complex metagenomic research into simple, actionable conversations about the gut microbiome and planetary health.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
-    "startDate": "2026-05-02T16:00:00+05:30",
-    "endDate": "2026-05-02T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M-18, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53378190000000000000",
-        "longitude": "77.24240429999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/from-plate-to-planet",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Climb Like A Girl",
     "description": "Climb Like A Girl is back! Get ready for a fun, energizing climbing session. It is a beginner-friendly, women-only meetup. The session will be guided by professionals at The Delhi Rock. Just bring your energy, curiosity, and love for trying something new! The venue is in the Squash and Badminton Stadium on Siri Fort Road.",
@@ -1079,82 +1081,6 @@
       "url": "https://urbanaut.app/partner/sweat-like-a-girl"
     },
     "url": "https://urbanaut.app/spot/swagpickleballkhan",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "BADDY WITH BADDIES | Vasant Kunj",
-    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.4:50 PM Meet up and Warm up Time5:00 PM Game TimeSee you on court!",
-    "startDate": "2026-05-02T17:00:00+05:30",
-    "endDate": "2026-05-02T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "inside DAV Public School, near Fortis Hospital, Pocket 1, Sector B, Vasant Kunj, New Delhi, Delhi 110070, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52084540000000000000",
-        "longitude": "77.16146610000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "250.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swagbadminton",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "SMASH LIKE A GIRL (Tennis | Delhi)",
-    "description": "\u200bHi girls! It\u2019s time to Smash Like a Girl \u2014 because we\u2019re finally bringing you TENNIS!This is a women-only, beginner-friendly, guided tennis meet-up. 3:50 PM Meet Up & Warm Up4:00 PM Game TimeSee you on court!",
-    "startDate": "2026-05-02T16:00:00+05:30",
-    "endDate": "2026-05-02T17:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "J6HH+MMC, Barakhamba Rd, Todermal Road Area, Mandi House, New Delhi, Delhi 110001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.62917610000000000000",
-        "longitude": "77.22913750000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "495.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swagtennis",
     "keywords": [
       "Leisure",
       "Wellness",
@@ -1271,44 +1197,6 @@
     "url": "https://urbanaut.app/spot/krishna-nada-an-evening-of-raga-bhakti",
     "keywords": [
       "Live GIG",
-      "Music",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Guzaarish",
-    "description": "Kathika in collaboration with Vrindan invites you all to experience Guzaarish, an evocative musical experience that weaves together the soulful strands of thumri, ghazal, raga and rhythm into a richly layered soundscape. Inspired by the intimate acoustics of traditional havelis, where music once echoed through courtyards and corridors, this concert brings alive a timeless era of expression and artistry.Presented by Vrindan and performed by internationally acclaimed artists, Guzaarish is not just a concert, but a living, breathing exchange between performers and audience. Through a unique request-led format, the evening unfolds organically, allowing listeners to shape the journey and reconnect with melodies that hold personal meaning.Rooted in the golden era of semi-classical music and infused with the charm of vintage cinema, each rendition carries nostalgia, poetic depth and emotional resonance. From beloved classics to hidden gems, Guzaarish invites you to rediscover, reminisce, and revel in a shared musical journey, one that is as intimate as it is unforgettable.",
-    "startDate": "2026-05-02T16:30:00+05:30",
-    "endDate": "2026-05-02T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.64610280000000000000",
-        "longitude": "77.22736410000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "918.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kathika Cultural Centre and Museum",
-      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
-    },
-    "url": "https://urbanaut.app/spot/guzaarish",
-    "keywords": [
-      "Leisure",
       "Music",
       "Art & culture",
       "URBANAUT"
