@@ -60,26 +60,6 @@
     ]
   },
   {
-    "@type": "EducationEvent",
-    "name": "Restricted Palettes III",
-    "url": "https://www.knma.org/whats-on/workshops/restricted-palettes-iii",
-    "startDate": "2026-05-02T10:00:00+05:30",
-    "endDate": "2026-05-02T10:00:00+05:30",
-    "description": "Saturday Family Workshop",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
     "@type": "Event",
     "name": "KNMA Art Battle",
     "url": "https://www.knma.org/whats-on/events/art-battle-season-6",

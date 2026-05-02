@@ -1,6 +1,43 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Sodhilecious Factory Visit",
+    "description": "Sodhilecious began as a simple intention\u2014feeding our own families and children food made with honesty.This base kitchen visit is an open invitation to experience that same honesty firsthand. Step inside and see exactly how your cookies and breads are made\u2014from sourcing to preparation to packaging. Nothing is hidden.You\u2019ll walk through our processes, understand our standards, and meet the people behind every product.No shortcuts. No compromises. Just clean, consistent, transparent baking.Because loyalty isn\u2019t built through marketing\u2014it\u2019s built when you truly know what goes into what you eat.Come see it for yourself.",
+    "startDate": "2026-05-09T10:30:00+05:30",
+    "endDate": "2026-05-10T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "C277+MWG, Begumpur Khatola, Sector 74, Gurugram, Haryana 122101, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41419400000000000000",
+        "longitude": "77.01483259999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "118.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sodhilecious",
+      "url": "https://urbanaut.app/partner/sodhilecious"
+    },
+    "url": "https://urbanaut.app/spot/sodhilecious-factory-visit",
+    "keywords": [
+      "Food & drink",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Mother's Day Like Never Before - Delhi",
     "description": "This Mother\u2019s Day, we\u2019re turning emotions into art, and moments into memories \ud83d\udc9bJoin us for a one-of-a-kind experience -\ud83c\udfa8 Paint Your Own Vegan Mojaris WorkshopBecause gifts are lovely\u2026 but experiences? They stay forever.\ud83d\udc9d Bring your mom for a beautiful bonding time\ud83d\udc9d Surprise her with something truly unique\ud83d\udc9d Or design a heartfelt pair just for herAnd the best part?\u2728 No rules. No restrictions. Anyone can join.(Yes, even if you\u2019ve never painted before!)Sip, paint, laugh, and create something that carries your love in every stroke \ud83e\udd42",
@@ -339,44 +376,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "The Story of Plastic",
-    "description": "The Story of Plastic is a searing expos\u00e9 revealing the ugly truth behind plastic pollution and the false solution of plastic recycling. Different from every other plastic documentary you\u2019ve seen, The Story of Plastic presents a cohesive timeline of how we got to our current global plastic pollution crisis and how the oil and gas industry has successfully manipulated the narrative around it. From the extraction of fossil fuels and plastic disposal to the global resistance fighting back, The Story of Plastic is a life-changing, Emmy-winning film depicting one of the world\u2019s most pressing environmental issues.",
-    "startDate": "2026-05-02T10:00:00+05:30",
-    "endDate": "2026-05-02T12:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M6FC+8JQ, Raj Niwas Marg, Ludlow Castle, Civil Lines, New Delhi, Delhi, 110054, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.67333740000000000000",
-        "longitude": "77.22159780000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Public Health India Community",
-      "url": "https://urbanaut.app/partner/public-health-india-community"
-    },
-    "url": "https://urbanaut.app/spot/the-story-of-plastic",
-    "keywords": [
-      "Responsible",
-      "Wellness",
-      "Eco Friendly",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "The Support Club",
     "description": "The Support ClubA No Taboo x Scoop Studio experienceWhat if the problem isn\u2019t your body\u2026 but the bra you\u2019ve been told fits it?Welcome to The Support Club! An intimate, small-group experience where we unpack everything you thought you knew about bras, sizing, and support\u2026 and replace it with something that actually works for your body.Co-hosted by Neelakshi (@plumptopretty and No Taboo Experiences) and Rhea (Bra Fitter and Founder of @shop_scoop_studio), this 90-minute session blends honest conversations, interactive exercises, and a personalized fitting to help you finally understand what real support feels like.Expect:A safe, judgment-free space to talk about bodies, bras, and everything in betweenA guided \u201cbra reality check\u201d to understand what\u2019s actually going on with your current fitSimple, practical tools to decode sizing, support, and comfortA 1:1 personalized fitting by RheaAMA with Neelakshi (confidence to lingerie tips and tricks)A chance to try and shop a curated edit of fuller-bust friendly brasSo, whether you\u2019ve always struggled with fit, constantly adjust your straps, or know something isn\u2019t quite right: this is for you. You don\u2019t leave with just a bra.You leave knowing your body.A quick note on sizingMost people who come to Scoop Studio are wearing the wrong size for their bodies.We\u2019ve seen 36DD become 32G, 38E become 36H, and 34DD become 28H. So many people go from constantly adjusting to finally feeling supported for the first time.This session is designed to help you understand your body and find what truly works for you, not just what you\u2019ve been told your size is.Available sizes: 28-44 Bands | DD-K Cups",
     "startDate": "2026-05-08T11:00:00+05:30",
@@ -670,44 +669,6 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "The Poet at the Brunch Table 2.0",
-    "description": "\u201cI\u2019d argue that poets, when looking at a menu, first fall in love with the sound of the dish; then the food comes out and we fall in love with the sight of the dish. And when we finally eat, we fall in love with the taste. This sequence is what I call the sensory tease,\u201d says poet Dorothy Chan.To turn the sensory tease into an experience, Dillipoetry and The Fio Table invite you to The Poet at the Brunch Table 2.0\u2014a two-hour immersive workshop that brings into play food as a genre melded with reflective writing exercises to help one delve into themes of intimacy, memories, loss & friendships. Here, brunch is a metaphor, and plate is a page.With Dillipoetry\u2019s signature coalescing approach to verse and The Fio Table\u2019s ode to the Mediterranean coastline, the workshop will encompass self-probing, active participation, creative writing exercises, and facilitated reflection. We will also discuss rituals & traditions across cultures that brought together food & poetry - and what mark did this interaction leave in the world of literature.Bring you friends, and leave your writing blocks (and diet) at the door. We can only accommodate a maximum of 12 people for now. Registration will close once we reach capacity. About the host: Rachit is a poet and founder of Dillipoetry\u2014a literary platform known for its thematic, experimental poetry walks, workshops, and training programmes. With over a decade in the social development sector, his work spans diverse social issues. His poetry has appeared in 25+ literary platforms and anthologies. His recent series Memories of Yami and The Asthma City\u2014tracing the Yamuna River through Delhi and the city\u2019s escalating air crisis\u2014were published by Down To Earth magazine.Rachit has been selected for international residencies, including Language is a Queer Thing, a programme by The Queer Muslim Project in collaboration with the British Council, UK. He received the Germinator Grant by Ecoversity for Dillipoetry\u2019s regenerative approach to arts and community.He has performed twice at BBC Contains Strong Language\u2014the UK\u2019s largest poetry festival (Leeds 2023, Bradford 2025)\u2014and at institutions including the French Institute India, Goethe-Institut, British Council, and Alliance Fran\u00e7aise. His work has appeared on BBC Radio 3\u2019s The Verb. He also served as Lead Poet and Advisor to O.P. Jindal Global University\u2019s programme, We Are Meant to Sing as One.",
-    "startDate": "2026-05-02T10:00:00+05:30",
-    "endDate": "2026-05-02T12:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Unit No. 2, Ground Floor, Global Gateway Towers, A, Mehrauli-Gurgaon Rd, Sikanderpur, Sector 26, Gurugram, Haryana 122002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.48155470000000000000",
-        "longitude": "77.10400550000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1799.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Dillipoetry",
-      "url": "https://urbanaut.app/partner/dillipoetry"
-    },
-    "url": "https://urbanaut.app/spot/thepoetandthebrunchtable",
-    "keywords": [
-      "Leisure",
-      "Food & drink",
-      "Art & culture",
       "URBANAUT"
     ]
   },
