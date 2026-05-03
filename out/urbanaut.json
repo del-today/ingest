@@ -111,44 +111,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Handpan Gathering: A Sound & Community Experience",
-    "description": "Step into a rare and intimate Handpan Gathering in Delhi, hosted at The Immersion Room\u2014a space known for its curated, sensory-led experiences.This is not a performance. It\u2019s a shared moment.Surrounded by warm acoustics and a like-minded community, you\u2019ll explore the deeply calming and meditative sounds of the handpan\u2014an instrument known for its soothing, almost hypnotic tones.Whether you\u2019re picking it up for the first time or simply want to unwind after a long week, this experience invites you to slow down, connect, and be fully present.What makes this special:\u2022 A guided yet free-flowing handpan circle\u2022 No experience needed\u2014completely beginner-friendly\u2022 Limited group size for a more personal experience\u2022 Instruments provided on-site\u2022 A unique blend of music, mindfulness, and communityExpect a calm, welcoming atmosphere where there\u2019s no pressure to perform\u2014just space to explore, listen, and enjoy.",
-    "startDate": "2026-05-03T15:00:00+05:30",
-    "endDate": "2026-05-03T17:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "E5, Market Rd, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46575680000000000000",
-        "longitude": "77.09909929999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1599.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Immersion Room",
-      "url": "https://urbanaut.app/partner/theimmersionroom"
-    },
-    "url": "https://urbanaut.app/spot/handpan-gathering-a-sound-community-experience",
-    "keywords": [
-      "Music",
-      "Wellness",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Sodhilecious Factory Visit",
     "description": "Sodhilecious began as a simple intention\u2014feeding our own families and children food made with honesty.This base kitchen visit is an open invitation to experience that same honesty firsthand. Step inside and see exactly how your cookies and breads are made\u2014from sourcing to preparation to packaging. Nothing is hidden.You\u2019ll walk through our processes, understand our standards, and meet the people behind every product.No shortcuts. No compromises. Just clean, consistent, transparent baking.Because loyalty isn\u2019t built through marketing\u2014it\u2019s built when you truly know what goes into what you eat.Come see it for yourself.",
@@ -448,81 +410,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Hema\u2019s Chef\u2019s Table, Southern Coastal Dine-In",
-    "description": "Hema\u2019s Chef\u2019s TableA Southern Coastal Dining Experience brought to life by a mother\u2013daughter duoAn unmistakable blend of heritage and modernity.Served on a hand-washed banana leaf, each course draws from three generations of cherished family recipes.Hema, who preserves the soul of tradition, and Anjali, who reimagines it with a contemporary touch.Every dish is handmade from the first ingredient to the last, with an unwavering commitment to the real flavours of Southern coastal India.From the welcome drink to a final cup of family-grown filter coffee, this is more than just a meal \u2014 it is a warm, intimate experience designed to be remembered.",
-    "startDate": "2026-05-03T12:01:00+05:30",
-    "endDate": "2026-05-03T14:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Shahpur Jat, Siri Fort, New Delhi, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54905090000000000000",
-        "longitude": "77.21381420000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3150.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Hemas South Indian",
-      "url": "https://urbanaut.app/partner/hemas-south-indian"
-    },
-    "url": "https://urbanaut.app/spot/sunday-brunch-12816",
-    "keywords": [
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Street Art Tour at Lodhi Art District",
-    "description": "We Invite you to take a walking tour in India\u2019s first open sky art gallery. Lodhi Art District houses over 60 paintings on the walls of government residential buildings. Artists from Japan, New Zealand, Italy, Singapore, Argentina, Netherlands, Australia, USA, Canada, France, Mexico, Germany, Switzerland, Spain, Brazil, China, Nepal and India have painted the walls with unique themes highlighting variety of issues. The First Lady of France Briggitte Macron and Apple CEO Tim Cook had visited this art District on their visit to New Delhi. To cover this huge art District you would need definitely an art lover who explain each painting in detail. We Invite you to take most Instagrammable tour of Delhi with us. Note : We will cover 25 paintings.",
-    "startDate": "2026-05-03T17:00:00+05:30",
-    "endDate": "2026-05-03T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "18, Lodhi Rd, Gokalpuri, Institutional Area, Lodi Colony, New Delhi, Delhi 110003, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.58536280000000000000",
-        "longitude": "77.22333490000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "750.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "India Heritage Trails",
-      "url": "https://urbanaut.app/partner/india-heritage-trails"
-    },
-    "url": "https://urbanaut.app/spot/street-art-tour-at-lodhi-art-district",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "The Support Club",
     "description": "The Support ClubA No Taboo x Scoop Studio experienceWhat if the problem isn\u2019t your body\u2026 but the bra you\u2019ve been told fits it?Welcome to The Support Club! An intimate, small-group experience where we unpack everything you thought you knew about bras, sizing, and support\u2026 and replace it with something that actually works for your body.Co-hosted by Neelakshi (@plumptopretty and No Taboo Experiences) and Rhea (Bra Fitter and Founder of @shop_scoop_studio), this 90-minute session blends honest conversations, interactive exercises, and a personalized fitting to help you finally understand what real support feels like.Expect:A safe, judgment-free space to talk about bodies, bras, and everything in betweenA guided \u201cbra reality check\u201d to understand what\u2019s actually going on with your current fitSimple, practical tools to decode sizing, support, and comfortA 1:1 personalized fitting by RheaAMA with Neelakshi (confidence to lingerie tips and tricks)A chance to try and shop a curated edit of fuller-bust friendly brasSo, whether you\u2019ve always struggled with fit, constantly adjust your straps, or know something isn\u2019t quite right: this is for you. You don\u2019t leave with just a bra.You leave knowing your body.A quick note on sizingMost people who come to Scoop Studio are wearing the wrong size for their bodies.We\u2019ve seen 36DD become 32G, 38E become 36H, and 34DD become 28H. So many people go from constantly adjusting to finally feeling supported for the first time.This session is designed to help you understand your body and find what truly works for you, not just what you\u2019ve been told your size is.Available sizes: 28-44 Bands | DD-K Cups",
@@ -553,44 +440,6 @@
     },
     "url": "https://urbanaut.app/spot/the-support-club-12703",
     "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Guided Pickleball | Vasant Kunj",
-    "description": "Guided Pickleball with SWAG x Delhi Picklers is back!This is a women-only, beginner-friendly pickleball meet-up. The session is guided by a coach.5:20 PM Meet up and Warm up Time5:30 PM Game TimeSee you on court!",
-    "startDate": "2026-05-03T18:00:00+05:30",
-    "endDate": "2026-05-03T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Pocket 8, Sector C, Vasant Kunj, New Delhi, Delhi 110070, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53837910000000000000",
-        "longitude": "77.13847830000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "399.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swagpicklevk",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
       "URBANAUT"
     ]
   },
@@ -710,42 +559,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Beyond The Eye: A Talk On Hidden Self-Harm",
-    "description": "Join us for a lecture that looks at a question we rarely ask honestly:What if self-harm isn\u2019t always visible, and not as rare as we think?About the LectureSelf-harm is often spoken about in extremes: visible, alarming, and distant from everyday life.But what if that picture is incomplete?This lecture shifts the conversation from the obvious to the subtle, asking how self-detrimental behaviours show up in ways we don\u2019t always recognise. It challenges the assumption that self-harm is something \u201cother people\u201d do, and instead examines how many of us may engage in forms of it, consciously or not.The session explores:How self-harm is defined \u2014 beyond its most visible formsWhy it remains heavily stigmatised and misunderstoodWhat drives people to act against their own well-beingHow seemingly ordinary behaviours can take on self-destructive patternsAt its core, this talk asks a more unsettling question: Why do humans sometimes act against their own survival? and what does that reveal about how we cope, adapt, and endure?About the SpeakerSasha Bansal is a PhD scholar at Ashoka University, with an MSc in Psychological Sciences from the State University of New York.Her research focuses on self-harming behaviour, psychometrics, social psychology, the psychology of religion, and advanced statistical methods. With over ten academic publications, she has presented her work at international platforms including The NorthEastern Evolutionary Psychology Society Conference.She is also the founder of StatPsyched, an initiative aimed at making research and statistics education more accessible to students worldwide.All Grounds for Thought tickets include a \u20b9250 coupon redeemable on food and beverages at the venue. About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
-    "startDate": "2026-05-03T16:00:00+05:30",
-    "endDate": "2026-05-03T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Basement, Ground floor and First floor Building no. 12, Panchsheel Community Centre, Shahpur Jat, Panchsheel Park, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54805190000000000000",
-        "longitude": "77.21147640000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/beyond-the-eye-a-talk-on-hidden-self-harm",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Financial Litercacy Workshop for Kids",
     "description": "A Fun Financial Literacy Workshop designed just for them! \ud83d\udca1\ud83d\udcb0Here\u2019s what children will learn:\u2022 Understanding money \u2013 what it is and how it works\u2022 Smart saving habits and why saving is important\u2022 Basics of budgeting in a simple, kid-friendly way\u2022 Needs vs. wants \u2013 making better spending choices\u2022 Introduction to earning and managing pocket mone\u2728 This will be a hands-on, engaging, and enjoyable experience - not a boring lecture!\ud83c\udf6a Plus, children will be treated to tasty nibbles and refreshing drinks during the workshop.",
@@ -859,44 +672,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Play, Connect & Chill | Board Games Meetup",
-    "description": "The Event Fee Includes One Free Welcome Drink.Looking for something different to do on a Sunday afternoon?Instead of another weekend spent scrolling on your phone or wondering what to do, come join us for a relaxed board game afternoon.If you are new to these games, don\u2019t worry. We explain all the rules before starting, so you can simply sit down and play.No experience needed.Just come, grab a seat, and enjoy the games.You can see the games we\u2019ll be playing on our website: socialtable.inLooking forward to seeing you there",
-    "startDate": "2026-05-03T15:00:00+05:30",
-    "endDate": "2026-05-03T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "96,1st, Satya Niketan, opposite Venkateshwar college, Moti Bagh II, Satya Niketan, Moti Bagh, New Delhi, Delhi, 110021, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.58810690000000000000",
-        "longitude": "77.16833760000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "300.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Social Table",
-      "url": "https://urbanaut.app/partner/the-social-table"
-    },
-    "url": "https://urbanaut.app/spot/play-connect-chill-board-games-meetup",
-    "keywords": [
-      "Leisure",
-      "Local",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Delhi's First Aqua Rave Experience",
     "description": "AQUA Rave \u2014 DROWN THE HEATDelhi's Coolest Summer Party is HEREDelhi summers hit different \u2014 and this time, we're hitting back. Daud-e-Dilli brings you Aqua Rave, the most refreshing, high-energy event of the season. Dance in the water, vibe to live DJ beats, and make memories that last longer than the tan lines.No experience. No excuses. Just good music, cool water, and even cooler people.WHAT'S INCLUDED IN YOUR TICKET Full 2-Hour Pool AccessEnjoy an uninterrupted 2-hour session at the Kendriya Vidyalaya AGCR Enclave pool\u2014 a clean, spacious venue right in the heart of East Delhi. Jump in, let loose, and make the most of every minute. Live DJ PerformanceNo playlist on shuffle here. A live DJ will be spinning high-energy beats throughout the entire session \u2014 keeping your energy up and the vibes absolutely immaculate from start to finish. Certified Zumba Instructor \u2014 Led SessionOur certified Zumba instructor will guide the entire session, so whether you're a first-timer or a regular dancer, you'll fit right in. All moves are fun, easy to follow, and designed to keep you moving non-stop.Refreshments + Hydration IncludedStay fuelled and refreshed \u2014 snacks and water are included with your ticket. Because the only thing better than dancing in a pool is dancing in a pool with a snack in hand after.Professional Reels & PhotosOur professional cameraman will be capturing the best moments of the day. Expect high-quality reels and photos shared with all participants after the event \u2014 your Instagram is about to eat well.VENUEKendriya Vidyalaya AGCR Enclave, East Delhi DURATION2 Hours of non-stop aqua madnessWHAT TO BRINGSwimwear, a change of clothes, sunscreen, and your best energyThis isn't just a workout. It's a vibe.Whether you're coming solo, with friends, or dragging your entire squad \u2014 Aqua Rave is the summer plan you didn't know you needed.Spots are limited. Don't miss out. For more details:- https://www.daudedilli.com/",
     "startDate": "2026-05-10T07:00:00+05:30",
@@ -967,82 +742,6 @@
       "Leisure",
       "Premium",
       "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "The Table Wears Prada",
-    "description": "The Table Wears PradaSunday, 3rd May | 12:30 PM \u2013 3:30 PMStep into a table where fashion meets flavour, and every detail feels straight out of The Devil Wears Prada.This is not just a brunch, it\u2019s a curated afternoon of vintage luxury in collabration with KURO , sharp aesthetics, and storytelling through food. Expect an intimate, invite-only gathering where iconic style cues inspire every element on the table\u2014from plated courses to the mood, the music, and the way the table is set.Think vintage designer bags, effortless glamour, and dishes that echo the wit, drama, and indulgence of the film itself. It\u2019s a space for those who appreciate craftsmanship\u2014whether in fashion or on a plate\u2014and who understand that sometimes, the experience matters just as much as what\u2019s being served.Come dressed like you belong in the front row.Come hungry for more than just food.A table where fashion isn\u2019t worn, it\u2019s served.",
-    "startDate": "2026-05-03T12:30:00+05:30",
-    "endDate": "2026-05-03T15:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "10West, Sant Nagar, Sainik Farm, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52049300000000000000",
-        "longitude": "77.20161399999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3100.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "V's Supper Stories",
-      "url": "https://urbanaut.app/partner/vsupperstories"
-    },
-    "url": "https://urbanaut.app/spot/the-table-wears-prada",
-    "keywords": [
-      "Premium",
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Guided Pickleball | Khan Market",
-    "description": "Guided Pickleball with SWAG x Delhi Picklers is back!This is a women-only, beginner-friendly pickleball meet-up. The session is guided by a coach.5:20 PM Meet up and Warm up Time5:30 PM Game TimeSee you on court!",
-    "startDate": "2026-05-03T17:30:00+05:30",
-    "endDate": "2026-05-03T18:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Opposite Bunglow No.46, Sector 4, Lodhi Estate, Lodhi Estate, New Delhi, Delhi 110003, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59422390000000000000",
-        "longitude": "77.22559430000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "399.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swagpickleballkhan",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
       "URBANAUT"
     ]
   },
@@ -1119,82 +818,6 @@
       "Live GIG",
       "Music",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "BADDY WITH BADDIES (Gurugram)",
-    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.3:50 PM Meet up and Warm up Time4:00 PM Game TimeSee you on court!",
-    "startDate": "2026-05-03T17:00:00+05:30",
-    "endDate": "2026-05-03T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Sportyzo Badminton Academy, Emaar emerald hills, Golf Course Ext Rd, opposite Ivory Block, Sector 65, Gurugram, Haryana 122011, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.40465650000000000000",
-        "longitude": "77.07401440000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "250.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/badmintonggn",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Pickleball with SWAG (Gurugram)",
-    "description": "Pickleball with SWAG is back!This is a women-only, beginner-friendly pickleball meet-up.4:50 PM Meet up and Warm up Time5:00 PM Game TimeSee you on court!",
-    "startDate": "2026-05-03T17:00:00+05:30",
-    "endDate": "2026-05-03T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Sportyzo Sports Academy, Sector 65, Gurugram, Haryana 122101, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.40450950000000000000",
-        "longitude": "77.07416250000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "360.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/ggnpickle",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
       "URBANAUT"
     ]
   },
