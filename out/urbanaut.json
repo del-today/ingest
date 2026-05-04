@@ -1,6 +1,154 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Her Interest by Zerodha - WeWork Delhi",
+    "description": "Women have a complicated relationship with money. And it starts early. Many families shield their daughters from anything related to \u2018finance\u2019, but this well-meaning protection ends up being a disservice. For when these young women step into the real world, they lack the confidence to make financial decisions -\u00a0not because they\u2019re incapable, but because they were never given information on budgeting, savings, and investments. Later in life, many continue to rely on their partners for investment decisions. This dependency on others will only stop when they have the right information and toolkit to take back control. That\u2019s where we come in.We launch 'In Her Interest' on 22nd May in Delhi and will focus on one core idea for the launch:Building financial security for women.The session will be led by two amazing experts who truly get it.Zeba Zaidi Adeeb, Co-Founder - Spectacom Global, Creator of Devils Circuit & The Yoddha RaceManisha Pande, Tax Partner, Aeka Advisors (ex - GE, AA/EY)This session is on  Finance and the Entrepreneur.Once you buy a ticket, you also get to send a question that the speakers will address during the session.Note: Each session is theme-based, this session is about 'Finance and the Entrepreneur' - we are not talking stocks and shares.",
+    "startDate": "2026-05-22T16:00:00+05:30",
+    "endDate": "2026-05-22T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Vi-John Tower, 393, Phase III, Udyog Vihar, Sector 20, Gurugram, Haryana 122016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.50562100000000000000",
+        "longitude": "77.08873980000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "In Her Interest by Zerodha",
+      "url": "https://urbanaut.app/partner/inherinterest"
+    },
+    "url": "https://urbanaut.app/spot/wework-entrepreneurs",
+    "keywords": [
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Her Interest by Zerodha - Delhi",
+    "description": "Women have a complicated relationship with money. And it starts early. Many families shield their daughters from anything related to \u2018finance\u2019, but this well-meaning protection ends up being a disservice. For when these young women step into the real world, they lack the confidence to make financial decisions -\u00a0not because they\u2019re incapable, but because they were never given information on budgeting, savings, and investments. Later in life, many continue to rely on their partners for investment decisions. This dependency on others will only stop when they have the right information and toolkit to take back control. That\u2019s where we come in.We launch 'In Her Interest' on 22nd May in Delhi and will focus on one core idea for the launch:Building financial security for women.The session will be led by two amazing experts who truly get it.Zeba Zaidi Adeeb, Co-Founder - Spectacom Global, Creator of Devils Circuit & The Yoddha RaceManisha Pande, Tax Partner, Aeka Advisors (ex - GE, AA/EY)This session is on  Finance and the Entrepreneur.Once you buy a ticket, you also get to send a question that the speakers will address during the session.Note: Each session is theme-based, this session is about 'Finance and the Entrepreneur' - we are not talking stocks and shares.",
+    "startDate": "2026-05-22T16:00:00+05:30",
+    "endDate": "2026-05-22T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Vi-John Tower, 393, Phase III, Udyog Vihar, Sector 20, Gurugram, Haryana 122016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.50562100000000000000",
+        "longitude": "77.08873980000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "892.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "In Her Interest by Zerodha",
+      "url": "https://urbanaut.app/partner/inherinterest"
+    },
+    "url": "https://urbanaut.app/spot/finance-for-entrepreneurs",
+    "keywords": [
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "1857 Mutiny : A heritage walk in Delhi Ridge",
+    "description": "1857 UPRISING & DILLI: (A heritage walk at the Mutiny Memorial & it's neighbourhood in Kamla Nehru Ridge )The year 1857 marked a turning point in Indian history. What began as a sepoy mutiny in Meerut soon transformed into a widespread rebellion against British colonial rule. Within days, the rebelling sepoys marched to Delhi, a city symbolic of imperial power, where they declared the aging Mughal emperor Bahadur Shah Zafar as the leader of the uprising.The Mutiny Memorial, now known as Ajitgarh, is a prominent monument located on the Delhi Ridge, near Kashmere Gate. It was constructed in 1863 by the British to honor their soldiers and officials who died during the 1857 uprising.Let\u2019s explore the stories of the 1857 uprising and its impacts, at the Mutiny Memorial (a haunted site ) & its neighborhood landmarks (Ashokan Pillar, Baoli, Pir Ghaib Hunting Lodge & the Hindu Rao Hospital)9th May, 7.30am onwardsmeeting point: Bara Hindurao Hospital entry gate",
+    "startDate": "2026-05-09T07:30:00+05:30",
+    "endDate": "2026-05-09T09:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Kamla Nehru Ridge, Civil Lines, Delhi, 110007, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.67132190000000000000",
+        "longitude": "77.21076200000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "755.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/1857delhi",
+    "keywords": [
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Old Cinema Halls of Purani Dilli-A  heritage walk",
+    "description": "Old Cinema halls of Shahjahanabad (Old Delhi) heritage walkBefore multiplexes and OTT, there were single-screen cinema halls\u2014temples of Bollywood where whistles echoed, stars arrived for premieres, and cinema was a shared emotion.Join us for a heritage walk through Chandni Chowk (Purani Delhi) as we revisit the now-shut, iconic cinema halls that shaped India\u2019s love affair with films since Independence.Each hall had its own personality\u2014its loyal audience, favourite production houses, and directors who swore by it.We\u2019ll explore stories of legendary screenings, star visits, and how many of these halls began as theatre spaces, later transforming into talkies when sound entered cinema. Today, most stand silent and anonymous\u2014but their stories are anything but.Cinema halls we\u2019ll trace:Excelsior, New Amar, Moti, Majestic & Kumar Talkies .Date : 10th May , Sunday8.30 am onwards\ud83d\udccd Meeting Point: Chawri Bazaar Metro Station, Gate No. 1 (on metro yellow line)\ud83d\udd70 Duration: ~2 to 2.5 hours\ud83d\udeb6 Route: Chawri Bazaar & Chandni ChowkCome walk with us into a bygone era of velvet seats, hand-painted posters, and the magic of Bollywood\u2014when cinema wasn\u2019t just watched, it was felt.No parking available at the meeting point.",
+    "startDate": "2026-05-10T08:30:00+05:30",
+    "endDate": "2026-05-10T10:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Chawri Bazar, Chandni Chowk, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64820100000000000000",
+        "longitude": "77.22695350000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/oldcinemahalls",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Hema\u2019s Chef\u2019s Table, Southern Coastal Dine-In",
     "description": "Hema\u2019s Chef\u2019s TableA Southern Coastal Dining Experience brought to life by a mother daughter duoAn unmistakable blend of heritage and modernity.Served on a hand-washed banana leaf, each course draws from three generations of cherished family recipes.Hema, who preserves the soul of tradition, and Anjali, who reimagines it with a contemporary touch.Every dish is handmade from the first ingredient to the last, with an unwavering commitment to the real flavours of Southern coastal India.From the welcome drink to a final cup of family grown filter coffee, this is more than just a meal,  it is a warm, intimate experience designed to be remembered.",
@@ -1450,7 +1598,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "ALT EFF Film Club x GuruJal Gurugram | 15th May",
-    "description": "Join us for a punchy lineup of 4 short films (2 Indian and 2 international), each bringing its own flavour of environmental storytelling.And then\u2026 stay for ALT EFF Voices, our signature open mic where audience members share short, personal, environment-related stories. No practice needed. Just pick a prompt from a hat and dive in.\u00a0SHORT FILM PROGRAMME:A brilliant selection of cinematic, poetic, diverse pieces of environmental storytelling that are short enough to get you hooked and never long enough to bore! Some Thoughts on the Common ToadThe FeastThe Butterfly ManThe Floating worldTo become a Film Club Member, continue with the regular booking process. The membership option will appear after you select the venue and date.All activities, including discussions and refreshments, will occur between 7:00 and 9:00 PM.What's Included?Film screening + Open MicGroup discussionLight refreshmentsStudent Discount50% off for students with a valid ID (& must bring ID to the screening).CODE: ALTSTUDENTABOUT ALT EFFIf you are tired of the outrage cycle, doomscrolling collapse, and the looming AI takeover narrative. If you have caught yourself going numb just to cope. We see you.All Living Things Environmental Film Festival is back with the third season of Film Club. A monthly meet up across 12 cities over 5 months, orbiting environmental cinema that cracks you open without trapping you in doom and gloom.It is a room full of people choosing to show up in cities whose infrastructure persuades you to stay home, choosing to sit together, watch together, and turn private anxiety into collective imagination. Messy. Human. Honest conversation.\u00a0With snacks. Always snacks.",
+    "description": "Join us for a punchy lineup of 4 short films (2 Indian and 2 international), each bringing its own flavour of environmental storytelling.And then\u2026 stay for ALT EFF Voices, our signature open mic where audience members share short, personal, environment-related stories. No practice needed. Just pick a prompt from a hat and dive in.\u00a0SHORT FILM PROGRAMME:A brilliant selection of cinematic, poetic, diverse pieces of environmental storytelling that are short enough to get you hooked and never long enough to bore!Some Thoughts on the Common ToadThe FeastThe Butterfly ManThe Floating worldTo become a Film Club Member, continue with the regular booking process. The membership option will appear after you select the venue and date.All activities, including discussions and refreshments, will occur between 7:00 and 9:00 PM.What's Included?Exclusive screenings of the world's best environmental cinemaAccess to a community of environmentally inclined, film-loving peopleA chance to express yourself at ALT EFF Voices Post-film discussions.Student Discount50% off for students with a valid ID (& must bring ID to the screening).CODE: ALTSTUDENTABOUT ALT EFFIf you are tired of the outrage cycle, doomscrolling collapse, and the looming AI takeover narrative. If you have caught yourself going numb just to cope. We see you.All Living Things Environmental Film Festival is back with the third season of Film Club. A monthly meet up across 12 cities over 5 months, orbiting environmental cinema that cracks you open without trapping you in doom and gloom.It is a room full of people choosing to show up in cities whose infrastructure persuades you to stay home, choosing to sit together, watch together, and turn private anxiety into collective imagination. Messy. Human. Honest conversation.\u00a0With snacks. Always snacks.",
     "startDate": "2026-05-15T19:00:00+05:30",
     "endDate": "2026-05-15T21:00:00+05:30",
     "location": {
@@ -1488,7 +1636,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "ALT EFF Film Club x Remakery Delhi | 15th May",
-    "description": "Join us for a punchy lineup of 4 short films (2 Indian and 2 international), each bringing its own flavour of environmental storytelling.And then\u2026 stay for ALT EFF Voices, our signature open mic where audience members share short, personal, environment-related stories. No practice needed. Just pick a prompt from a hat and dive in.\u00a0SHORT FILM PROGRAMME:A brilliant selection of cinematic, poetic, diverse pieces of environmental storytelling that are short enough to get you hooked and never long enough to bore!Some Thoughts on the Common ToadThe FeastThe Butterfly ManThe Floating worldTo become a Film Club Member, continue with the regular booking process. The membership option will appear after you select the venue and date.All activities, including discussions and refreshments, will occur between 7:00 and 9:00 PM.What's Included?Film screening + Open MicGroup discussionLight refreshmentsStudent Discount50% off for students with a valid ID (& must bring ID to the screening).CODE: ALTSTUDENTABOUT ALT EFF Film ClubIf you are tired of the outrage cycle, doomscrolling collapse, and the looming AI takeover narrative. If you have caught yourself going numb just to cope. We see you.All Living Things Environmental Film Festival is back with the third season of Film Club. A monthly meet up across 12 cities over 5 months, orbiting environmental cinema that cracks you open without trapping you in doom and gloom.It is a room full of people choosing to show up in cities whose infrastructure persuades you to stay home, choosing to sit together, watch together, and turn private anxiety into collective imagination. Messy. Human. Honest conversation.\u00a0With snacks. Always snacks.",
+    "description": "Join us for a punchy lineup of 4 short films (2 Indian and 2 international), each bringing its own flavour of environmental storytelling.And then\u2026 stay for ALT EFF Voices, our signature open mic where audience members share short, personal, environment-related stories. No practice needed. Just pick a prompt from a hat and dive in.\u00a0SHORT FILM PROGRAMME:A brilliant selection of cinematic, poetic, diverse pieces of environmental storytelling that are short enough to get you hooked and never long enough to bore!Some Thoughts on the Common ToadThe FeastThe Butterfly ManThe Floating worldTo become a Film Club Member, continue with the regular booking process. The membership option will appear after you select the venue and date.All activities, including discussions and refreshments, will occur between 7:00 and 9:00 PM.What's Included?Exclusive screenings of the world's best environmental cinemaAccess to a community of environmentally inclined, film-loving peopleA chance to express yourself at ALT EFF Voices Post-film discussions.Student Discount50% off for students with a valid ID (& must bring ID to the screening).CODE: ALTSTUDENTABOUT ALT EFF Film ClubIf you are tired of the outrage cycle, doomscrolling collapse, and the looming AI takeover narrative. If you have caught yourself going numb just to cope. We see you.All Living Things Environmental Film Festival is back with the third season of Film Club. A monthly meet up across 12 cities over 5 months, orbiting environmental cinema that cracks you open without trapping you in doom and gloom.It is a room full of people choosing to show up in cities whose infrastructure persuades you to stay home, choosing to sit together, watch together, and turn private anxiety into collective imagination. Messy. Human. Honest conversation.\u00a0With snacks. Always snacks.",
     "startDate": "2026-05-15T19:00:00+05:30",
     "endDate": "2026-05-15T21:00:00+05:30",
     "location": {
