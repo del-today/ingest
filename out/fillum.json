@@ -83,5 +83,90 @@
       "@type": "Organization",
       "name": "Goethe-Institut New Delhi"
     }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "The Flight of The Crocodile \u2013 Ruy Cinatti\u2019s Timor(2024)",
+    "url": "https://fillum.in/screening/5384",
+    "startDate": "2026-05-06T15:30:00+05:30",
+    "endDate": "2026-05-06T15:30:00+05:30",
+    "description": "As part of Lusophone Film Fest - Cinema from the Portuguese speaking world.",
+    "location": {
+      "@type": "Place",
+      "name": "India International Centre, Lodhi Estate",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "India International Centre"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "What Words Can Do(2022)",
+    "url": "https://fillum.in/screening/5385",
+    "startDate": "2026-05-06T15:30:00+05:30",
+    "endDate": "2026-05-06T15:30:00+05:30",
+    "description": "As part of Lusophone Film Fest - Cinema from the Portuguese speaking world.",
+    "location": {
+      "@type": "Place",
+      "name": "India International Centre, Lodhi Estate",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "India International Centre"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "The First Women(2024)",
+    "url": "https://fillum.in/screening/5386",
+    "startDate": "2026-05-06T15:30:00+05:30",
+    "endDate": "2026-05-06T15:30:00+05:30",
+    "description": "As part of Lusophone Film Fest - Cinema from the Portuguese speaking world.",
+    "location": {
+      "@type": "Place",
+      "name": "India International Centre, Lodhi Estate",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "India International Centre"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Orlando Pantera(2025)",
+    "url": "https://fillum.in/screening/5387",
+    "startDate": "2026-05-06T15:30:00+05:30",
+    "endDate": "2026-05-06T15:30:00+05:30",
+    "description": "As part of Lusophone Film Fest - Cinema from the Portuguese speaking world.",
+    "location": {
+      "@type": "Place",
+      "name": "India International Centre, Lodhi Estate",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "India International Centre"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "When The Towel Drops Vol 1(2015)",
+    "url": "https://fillum.in/screening/5388",
+    "startDate": "2026-05-07T18:30:00+05:30",
+    "endDate": "2026-05-07T18:30:00+05:30",
+    "description": "Free entry. There will also be a talk and presentation by Nupur Mathur who will share notes from her practice and her encounters with archives, that will be followed by an open conversation.",
+    "location": {
+      "@type": "Place",
+      "name": "Foundation for Indian Contemporary Art (FICA), Lado Sarai",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "FICA"
+    }
   }
 ]
