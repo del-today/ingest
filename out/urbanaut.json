@@ -2,6 +2,157 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
+    "name": "Hema\u2019s Chef\u2019s Table, Southern Coastal Dine-In",
+    "description": "Hema\u2019s Chef\u2019s TableA Southern Coastal Dining Experience brought to life by a mother daughter duoAn unmistakable blend of heritage and modernity.Served on a hand-washed banana leaf, each course draws from three generations of cherished family recipes.Hema, who preserves the soul of tradition, and Anjali, who reimagines it with a contemporary touch.Every dish is handmade from the first ingredient to the last, with an unwavering commitment to the real flavours of Southern coastal India.From the welcome drink to a final cup of family grown filter coffee, this is more than just a meal,  it is a warm, intimate experience designed to be remembered.",
+    "startDate": "2026-05-10T12:01:00+05:30",
+    "endDate": "2026-05-10T14:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "139, Ground, 141, near Taropa, Shahpur Jat, Siri Fort, New Delhi, Delhi 110049, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54809790000000000000",
+        "longitude": "77.21589209999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3150.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Hemas South Indian",
+      "url": "https://urbanaut.app/partner/hemas-south-indian"
+    },
+    "url": "https://urbanaut.app/spot/hemassouthindian",
+    "keywords": [
+      "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Drake ICEMAN Listening Party",
+    "description": "Be among the first to experience ICEMAN by Drake in a curated, high-quality listening session.This is a focused, start-to-finish playback of the project, designed for people who actually want to hear the music, not talk over it.What to expect:Full album listening in a premium sound setupA crowd that\u2019s tuned in and presentReal-time reactions and shared first impressionsIncluded with your ticket:Unlimited snacks on the house by BRBUnlimited beer on the house by ProostAccess to exclusive GL discounts Limited capacity. Entry on a first-come basis.",
+    "startDate": "2026-05-16T20:00:00+05:30",
+    "endDate": "2026-05-16T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1342.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
+    },
+    "url": "https://urbanaut.app/spot/drake-iceman-listening-party",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Premium",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Delhi School of Ideas 2.0- Gully Labs x unLecture",
+    "description": "Delhi School of Ideas isn\u2019t about finished work. It\u2019s about the half-baked, the bizarre, the \u201cwhy does this even exist?\u201d kind of thinking.The first edition was a house full of conversations varying between public urination to biking as ADHD therapy. A curated space where instead of polished presentations, you get a series of strange, obsessive deep dives into ideas, inventions, and research that feel unnecessary\u2026 until they aren\u2019t.No panels. No moderation. No clean takeaways. Just people presenting things they probably shouldn\u2019t have spent this much time thinking about. The room is designed to feel slightly unhinged \u2014 in a good way.What's included?Unlimited snacks are on the house by BRBUnlimited beer is on the house by ProostSo you can sit, question, interrupt, disagree \u2014 or just exist in the chaos.Baithak, Gully Labs Store, Panchsheel Park9th May, 5pm onwards.",
+    "startDate": "2026-05-09T17:00:00+05:30",
+    "endDate": "2026-05-09T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1414.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
+    },
+    "url": "https://urbanaut.app/spot/delhi-school-of-ideas-20-gully-labs-x-unlecture",
+    "keywords": [
+      "Workshop",
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "SPIRAL",
+    "description": "Spiral is an immersive solo performance driven by the actor\u2019s body as a tool, in powerful dialogue with live music\u2014featuring four of the finest musicians in the country.Weaving together three distinct narratives in a fluid, stream-of-consciousness style, it explores how urban women navigate and negotiate abuse across  public and private spaces.Raw, immediate and unflinching\u2014this is storytelling that pulls you right into the heart of it.",
+    "startDate": "2026-05-10T19:30:00+05:30",
+    "endDate": "2026-05-10T20:20:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "E5, Market Rd, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46575680000000000000",
+        "longitude": "77.09909929999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "750.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Play Factory",
+      "url": "https://urbanaut.app/partner/theplayfactory"
+    },
+    "url": "https://urbanaut.app/spot/spiral",
+    "keywords": [
+      "Music",
+      "Premium",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
     "name": "When Power Claims Victimhood",
     "description": "Join us for an evening of unpacking how the language of equality is being reshaped in India\u2019s courts, and what it means when power begins to claim victimhood.About the LectureWe often think of equality as a fixed principle, clear, neutral, and universally agreed upon. But what if the definition of equality itself is being redefined in real time?Drawing from landmark cases and ongoing constitutional debates, this lecture explores the idea of equality under the Indian Constitution and how it is being contested today. At its core is a provocative question, what happens when historically dominant groups begin to frame themselves as victims?Through a close reading of recent litigation, the session examines how legal arguments are reframing structural advantage as disadvantage, and how courts are becoming arenas where these competing narratives are negotiated.Moving across themes of caste, religion, gender, and institutional power, the lecture explores:Power and Victimhood: How dominant groups are increasingly adopting the language of historical injustice and reparationsEquality as Transformation: Why the Constitution envisioned equality not as neutrality, but as a tool to address deep-rooted structural inequalitiesThe Courtroom as Battleground: How contemporary legal disputes, from reservations to religious rights, are reshaping constitutional meaningReverse Discrimination Debates: The rise of arguments that position corrective measures as unfair to historically privileged groupsWhat\u2019s at Stake: How these shifts could redefine the very foundation of India\u2019s constitutional projectFlow of the Evening5:00 PM: Doors open at Social, Saket: Come in, find your seat, and get comfortable5:00 \u2013 5:20 PM: Place your orders and start a few conversations5:30 PM: The learning begins6:15 PM: Open Q&A and discussion with Ms. Wadekar6:30 PM onwards: Stay a while: More eating, more drinking, more conversationsAbout the SpeakerMs. Disha Wadekar is a constitutional lawyer with over a decade of litigation experience in India. An LL.M. graduate from Columbia Law School and a Fulbright scholar, her work sits at the intersection of law, social justice, and structural inequality.She has been involved in several significant constitutional cases, including the Sabarimala temple entry case and the EWS reservation case. She has represented the families of Rohith Vemula and Payal Tadvi in their fight against institutional discrimination, as well as journalist Sukanya Shantha in a petition challenging caste-based division of labour in Indian prisons. In 2018, she was the only woman lawyer representing Dalit victims before the Bhima Koregaon Judicial Inquiry Commission.In 2022, she was appointed Additional Special Public Prosecutor in a case concerning the rape of a Dalit girl in Rajasthan.Beyond litigation, Ms. Wadekar has taught Constitutional Law and Critical Legal Studies at National Law University, Delhi and O.P. Jindal Global University. She is also the co-founder of CEDE (Community for the Eradication of Discrimination in Education and Employment), an organisation working to increase representation of marginalised communities in the legal profession and judiciary.Her work extends to legal research and consultancy with institutions such as the Centre for Women\u2019s Development Studies and Project 39A, and her writing has been featured in leading journals and platforms.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
     "startDate": "2026-05-23T17:00:00+05:30",
