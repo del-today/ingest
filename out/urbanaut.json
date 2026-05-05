@@ -2,6 +2,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Creative Mic Presents Abhivyakti Open Mic Show",
+    "description": "Creative Mic Presents Abhivyakti Open Mic Show at goSTOPS DelhiStep up. Speak out. Own the stage.From poetry and music to stand-up and rap \u2014 this is where raw talent meets real vibes. Whether you\u2019re performing or just soaking it in, expect energy, creativity, and a room full of expression.Win a \u20b92,100 cash prize + audience love and spotlight.Date: 10 May 2026Time: 11am onwardsVenue: goSTOPS Delhi, Near Delhi Gate Metro StationLimited slots \u2014 book your spot now.",
+    "startDate": "2026-05-10T11:00:00+05:30",
+    "endDate": "2026-05-10T16:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gate no 3, 4/23-B, Asaf Ali Rd, opp. Metro Station, Chatta lal Miya, Delhi Gate, Daryaganj, New Delhi, Delhi, 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64083430000000000000",
+        "longitude": "77.23897370000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "299.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "goSTOPS",
+      "url": "https://urbanaut.app/partner/gostops"
+    },
+    "url": "https://urbanaut.app/spot/creative-mic-presents-abhivyakti-open-mic-show",
+    "keywords": [
+      "Leisure",
+      "Live GIG",
+      "Local",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Diet Coke Paglus Assemble - Gurgaon Edition",
     "description": "Your favourite fizzy drink gets a whole personality in this quirky gathering. Come for the Diet Coke, stay for the chaos. Activities include:1. Diet Coke Can Art: Bedazzle your own Diet Coke can with rhinestones and take it home. Best design wins a prize. No art experience required - just chaos energy.2. Blind Tasting Challenge: Diet Coke vs other cola brands. No labels, one sip, guess correctly for a prize.3. Mafia: Canned Edition: The classic party game gets a caffeinated twist - holding a Diet Coke can grants a quirky power. Trust no one, sip wisely.Prizes await across all rounds. Good vibes guaranteed.",
     "startDate": "2026-05-16T16:00:00+05:30",
