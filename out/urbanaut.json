@@ -1,6 +1,82 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Play to Performance: Improv 14 Hour Workshop",
+    "description": "Step into a space where spontaneity meets performance.Improv Level One \u2013 From Play to Performance is a 14-hour immersive improv theatre workshop at The Immersion Room, Gurgaon, designed for adults who want to explore creativity, confidence, and live expression.Through a series of interactive theatre games, scene work, and character exploration, participants develop:Spontaneity & quick thinkingPresence & active listeningConfidence in expressionCollaboration & trustStorytelling through performanceThis workshop focuses on learning by doing\u2014breaking inhibitions, embracing uncertainty, and discovering the joy of being fully present.Multi-day Weekend Workshop SeriesMay 3, 2026 | 11:00 AM \u2013 1:00 PMMay 10, 2026 | 11:00 AM \u2013 1:00 PMMay 17, 2026 | 11:00 AM \u2013 1:00 PMMay 24, 2026 | 12:00 PM \u2013 2:00 PMMay 31, 2026 | 11:00 AM \u2013 1:00 PMJune 7, 2026 | 11:00 AM \u2013 1:00 PMJune 14, 2026 | 11:00 AM \u2013 1:00 PMTotal Duration: 14 HoursFormat: In-person | Adults OnlyFinal Showcase:The experience culminates in a live improv performance at The Immersion Room, where participants step onto the stage and perform in front of an audience.",
+    "startDate": "2026-05-06T11:00:00+05:30",
+    "endDate": "2026-06-14T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "E5, Market Rd, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46575680000000000000",
+        "longitude": "77.09909929999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "12000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Immersion Room",
+      "url": "https://urbanaut.app/partner/theimmersionroom"
+    },
+    "url": "https://urbanaut.app/spot/improv-comedy-anshu-daga-intensive-workshop-tir-gurugram",
+    "keywords": [
+      "Live GIG",
+      "Workshop",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Caught in the Middle | Online",
+    "description": "Often called the \u201csandwich generation,\u201d this phase of life sits between responsibility and resilience.If you\u2019re in your 40s or 50s, you probably don\u2019t need an explanation, you are living it. Caring for aging parents while still showing up fully for your children. Holding space for everyone else, while trying to keep your own world from unraveling in the process.It is a lot. And it\u2019s often invisible.This is a space to pause, share, and connect with others who understand the weight of it, without needing to explain it. Come talk to people who get it.",
+    "startDate": "2026-05-07T18:30:00+05:30",
+    "endDate": "2026-05-07T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.70405920000000000000",
+        "longitude": "77.10249019999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Zuva Life",
+      "url": "https://urbanaut.app/partner/zuvalife"
+    },
+    "url": "https://urbanaut.app/spot/caughtinthemiddle",
+    "keywords": [
+      "Virtual",
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Mother's Day Bento Cake Making",
     "description": "Make something beautiful together this Mother's Day.This Mother's Day, we're inviting you and your mum to get creative at Mira's. Our Bento Cake Making Activity is a hands on decorating experience, fun, relaxed and the most delicious way to celebrate her.How it worksYour bento cake arrives pre-iced and ready to decorate. All you have to do is bring the love and we take care of the rest.What's includedEverything you need to create something truly special:Piping bags with coloured frosting, a selection of sprinkles including pearls and hearts, a small fresh flower bouquet and edible flowers to finish.The Details\ud83d\udcc5 8th May 2026, Friday to 10th May 2026, Sunday, 11 am to 8 pm",
@@ -40,17 +116,17 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Creative Mic Presents Abhivyakti Open Mic Show",
-    "description": "Creative Mic Presents Abhivyakti Open Mic Show at goSTOPS DelhiStep up. Speak out. Own the stage.From poetry and music to stand-up and rap \u2014 this is where raw talent meets real vibes. Whether you\u2019re performing or just soaking it in, expect energy, creativity, and a room full of expression.Win a \u20b92,100 cash prize + audience love and spotlight.Date: 10 May 2026Time: 11am onwardsVenue: goSTOPS Delhi, Near Delhi Gate Metro StationLimited slots \u2014 book your spot now.",
-    "startDate": "2026-05-10T11:00:00+05:30",
-    "endDate": "2026-05-10T16:00:00+05:30",
+    "name": "The Support Club",
+    "description": "The Support ClubA No Taboo x Scoop Studio experienceWhat if the problem isn\u2019t your body\u2026 but the bra you\u2019ve been told fits it?Welcome to The Support Club! An intimate, small-group experience where we unpack everything you thought you knew about bras, sizing, and support\u2026 and replace it with something that actually works for your body.Co-hosted by Neelakshi (@plumptopretty and No Taboo Experiences) and Rhea (Bra Fitter and Founder of @shop_scoop_studio), this 90-minute session blends honest conversations, interactive exercises, and a personalized fitting to help you finally understand what real support feels like.Expect:A safe, judgment-free space to talk about bodies, bras, and everything in betweenA guided \u201cbra reality check\u201d to understand what\u2019s actually going on with your current fitSimple, practical tools to decode sizing, support, and comfortA 1:1 personalized fitting by RheaAMA with Neelakshi (confidence to lingerie tips and tricks)A chance to try and shop a curated edit of fuller-bust friendly brasSo, whether you\u2019ve always struggled with fit, constantly adjust your straps, or know something isn\u2019t quite right: this is for you. You don\u2019t leave with just a bra.You leave knowing your body.A quick note on sizingMost people who come to Scoop Studio are wearing the wrong size for their bodies.We\u2019ve seen 36DD become 32G, 38E become 36H, and 34DD become 28H. So many people go from constantly adjusting to finally feeling supported for the first time.This session is designed to help you understand your body and find what truly works for you, not just what you\u2019ve been told your size is.Available sizes: 28-44 Bands | DD-K Cups",
+    "startDate": "2026-05-08T11:00:00+05:30",
+    "endDate": "2026-05-10T19:00:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "Gate no 3, 4/23-B, Asaf Ali Rd, opp. Metro Station, Chatta lal Miya, Delhi Gate, Daryaganj, New Delhi, Delhi, 110002, India",
+      "address": "9, Southern Ave, Block J, Maharani Bagh, New Friends Colony, New Delhi, Delhi 110065, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.64083430000000000000",
-        "longitude": "77.23897370000000000000"
+        "latitude": "28.56942360000000000000",
+        "longitude": "77.26412599999999000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -58,93 +134,55 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "299.00",
+      "price": "3500.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "goSTOPS",
-      "url": "https://urbanaut.app/partner/gostops"
+      "name": "No Taboo Experience",
+      "url": "https://urbanaut.app/partner/no-taboo-experience"
     },
-    "url": "https://urbanaut.app/spot/creative-mic-presents-abhivyakti-open-mic-show",
+    "url": "https://urbanaut.app/spot/the-support-club-12703",
     "keywords": [
-      "Leisure",
-      "Live GIG",
-      "Local",
       "URBANAUT"
     ]
   },
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Diet Coke Paglus Assemble - Gurgaon Edition",
-    "description": "Your favourite fizzy drink gets a whole personality in this quirky gathering. Come for the Diet Coke, stay for the chaos. Activities include:1. Diet Coke Can Art: Bedazzle your own Diet Coke can with rhinestones and take it home. Best design wins a prize. No art experience required - just chaos energy.2. Blind Tasting Challenge: Diet Coke vs other cola brands. No labels, one sip, guess correctly for a prize.3. Mafia: Canned Edition: The classic party game gets a caffeinated twist - holding a Diet Coke can grants a quirky power. Trust no one, sip wisely.Prizes await across all rounds. Good vibes guaranteed.",
-    "startDate": "2026-05-16T16:00:00+05:30",
-    "endDate": "2026-05-16T21:00:00+05:30",
+    "name": "Mahfil-e-Dastangoi",
+    "description": "Chor Bizarre hosts a Mahfil-e-Dastangoi, the 13th-century art of storytelling, once heard in royal courts and public gatherings across the subcontinent.Directed by Syed Sahil Agha, with performances by Sahil Sharma, Shadab Khan, and Diksha Tiwari, the evening brings alive tales of the Red Fort and Old Delhi - through voice, rhythm, and imagination alone.At Chor Bizarre, the table makes space for stories again! Come join us.",
+    "startDate": "2026-05-08T18:00:00+05:30",
+    "endDate": "2026-05-08T20:00:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "Cosmopolitan Mall, Golf Estate Rd, Badshahpur, Sector 66, Gurugram, Haryana 122101, India",
+      "address": "Hotel Broadway, 4/15A, Asaf Ali Rd, Chatta lal Miya, Chandni Mahal, Chandni Chowk, Delhi, New Delhi, Delhi 110002, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.40204880000000000000",
-        "longitude": "77.06046289999999000000"
+        "latitude": "28.64105660000000000000",
+        "longitude": "77.23791410000000000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
+    "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "699.00",
+      "price": "525.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "UnClub Experiences",
-      "url": "https://urbanaut.app/partner/unclubexperiences"
+      "name": "Chor Bizarre",
+      "url": "https://urbanaut.app/partner/chor-bizarre"
     },
-    "url": "https://urbanaut.app/spot/diet-coke",
+    "url": "https://urbanaut.app/spot/mehfil-e-dastangoi",
     "keywords": [
-      "Leisure",
+      "Music",
+      "History & heritage",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Her Interest by Zerodha - Delhi",
-    "description": "Women have a complicated relationship with money. And it starts early. Many families shield their daughters from anything related to \u2018finance\u2019, but this well-meaning protection ends up being a disservice. For when these young women step into the real world, they lack the confidence to make financial decisions -\u00a0not because they\u2019re incapable, but because they were never given information on budgeting, savings, and investments. Later in life, many continue to rely on their partners for investment decisions. This dependency on others will only stop when they have the right information and toolkit to take back control. That\u2019s where we come in.We launch 'In Her Interest' on 22nd May in Delhi and will focus on one core idea for the launch:Building financial security for women.The session will be led by two amazing experts who truly get it.Zeba Zaidi Adeeb, Co-Founder - Spectacom Global, Creator of Devils Circuit & The Yoddha RaceManisha Pande, Tax Partner, Aeka Advisors (ex - GE, AA/EY)This session is on  Finance and the Entrepreneur.Once you buy a ticket, you also get to send a question that the speakers will address during the session.Note: Each session is theme-based, this session is about 'Finance and the Entrepreneur' - we are not talking stocks and shares.",
-    "startDate": "2026-05-22T16:00:00+05:30",
-    "endDate": "2026-05-22T18:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Vi-John Tower, 393, Phase III, Udyog Vihar, Sector 20, Gurugram, Haryana 122016, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.50562100000000000000",
-        "longitude": "77.08873980000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "892.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "In Her Interest by Zerodha",
-      "url": "https://urbanaut.app/partner/inherinterest"
-    },
-    "url": "https://urbanaut.app/spot/finance-for-entrepreneurs",
-    "keywords": [
-      "Workshop",
       "URBANAUT"
     ]
   },
@@ -188,6 +226,345 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Sodhilecious Factory Visit",
+    "description": "Sodhilecious began as a simple intention\u2014feeding our own families and children food made with honesty.This base kitchen visit is an open invitation to experience that same honesty firsthand. Step inside and see exactly how your cookies and breads are made\u2014from sourcing to preparation to packaging. Nothing is hidden.You\u2019ll walk through our processes, understand our standards, and meet the people behind every product.No shortcuts. No compromises. Just clean, consistent, transparent baking.Because loyalty isn\u2019t built through marketing\u2014it\u2019s built when you truly know what goes into what you eat.Come see it for yourself.",
+    "startDate": "2026-05-09T10:30:00+05:30",
+    "endDate": "2026-05-10T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "C277+MWG, Begumpur Khatola, Sector 74, Gurugram, Haryana 122101, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41419400000000000000",
+        "longitude": "77.01483259999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "118.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sodhilecious",
+      "url": "https://urbanaut.app/partner/sodhilecious"
+    },
+    "url": "https://urbanaut.app/spot/sodhilecious-factory-visit",
+    "keywords": [
+      "Food & drink",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Poetics of Time: A Poetic Immersion into Visual Arts",
+    "description": "Dillipoetry, in collaboration with Anant Art Gallery, invites you to The Poetics of Time, a one-of-a-kind interactive poetry workshop where poetry and visual art\u200b coalesce into a shared experience. As one artist observed, \u201cart is not a history of grand\u200b masterpieces; it is a record of human attempts.\u201d This holds equally true for poetry, the\u200b experience is yet another attempt to bring the two into a\u200bn embodied dialogue.The workshop anchors itself in the themes of reverie, pause, and rupture\u2014how\u200b they unfold in\u200b one\u2019s inner life and in the world around us, personally,\u200b systemically and politically.\u200b Conceived as a response to the ongoing exhibition\u200b Reverie. Pause. Rupture, the workshop\u200b engages with the exhibition through\u200b poetry. The group show, featuring leading contemporary\u200b artists, \u201cchallenges the\u200b artist and viewer alike to express what may be inexpressible. It reflects\u200b on time,\u200b its apparent continuity, as well as the sudden breaks that give rise to new\u200b beginnings,\u201d\u200b notes curator Gayatri Sinha.The two-hour-long workshop with its reflective prompts and guided exercises\u200b promises to bring\u200b an absurd interplay of visual, somatic and creative mediums to help us move through the idea of\u200b personal imagination \u2014 with prescribed\u200b writings written across a wide timeline by some of the\u200b wise voices like Gaston Bachelard, Audre Lorde, Mary Oliver, Naomi Shihab Nye among others.About the host: Rachit is a poet and founder of Dillipoetry\u2014a literary platform known for its thematic, experimental poetry walks, workshops, and training programmes. He is the former Creative Head at Youth Alliance, where he designed and facilitated transformational leadership journeys for young social leaders across India. With over a decade in the social development sector, his work spans diverse social issues. His poetry has appeared in 25+ literary platforms and anthologies. His recent series Memories of Yami and The Asthma City\u2014tracing the Yamuna River through Delhi and the city\u2019s escalating air crisis\u2014were published by Down To Earth magazine.Rachit has been selected for international residencies, including Language is a Queer Thing, a programme by The Queer Muslim Project in collaboration with the British Council, UK. He received the Germinator Grant by Ecoversity for Dillipoetry\u2019s regenerative approach to arts and community.He has performed twice at BBC Contains Strong Language\u2014the UK\u2019s largest poetry festival (Leeds 2023, Bradford 2025)\u2014and at institutions including the French Institute India, Goethe-Institut, British Council, and Alliance Fran\u00e7aise. His work has appeared on BBC Radio 3\u2019s The Verb. He also served as Lead Poet and Advisor to O.P. Jindal Global University\u2019s programme, We Are Meant to Sing as One.",
+    "startDate": "2026-05-09T11:30:00+05:30",
+    "endDate": "2026-05-09T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "B-5/3, Block B 5, Safdarjung Enclave, New Delhi, Delhi 110029, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.56162040000000000000",
+        "longitude": "77.18857430000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "649.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Dillipoetry",
+      "url": "https://urbanaut.app/partner/dillipoetry"
+    },
+    "url": "https://urbanaut.app/spot/the-poetics-of-time",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Drafting Table",
+    "description": "The Drafting Table: The Devil Wears Prada - ReimaginedOverviewStep into the world of editorial high stakes and creative reinvention. This session invites you to take the foundation of a classic story and make it entirely your own. Whether you want to keep the iconic setting or flip the script completely, \"The Drafting Table\" provides the structure and space to transform familiar characters and choices into a fresh narrative.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to ExpectCreative Freedom: Reimagine the core of \"The Devil Wears Prada.\" You can stick to the original world or change the environment, character motives, and endings to suit your vision.Structured Writing: We provide a simple framework to help you navigate your rewrite, ensuring you leave the session with a complete short story.Writing Sprints: Engage in two focused 25 minute writing blocks designed to help you get into a flow state and put words on the page.Share and Publish: Enjoy an optional sharing circle with the group. Following the workshop, we will publish your story on Substack under your name.Inclusive Environment: No prior writing experience is needed. This is a space for expression and experimentation.Details\ud83d\uddd3\ufe0f Date: 9th May (Saturday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Cafe Eos Dawn, M3M Urbana\u2615 Inclusion: Coffee included\ud83c\udf9f\ufe0f Fee: \u20b9700",
+    "startDate": "2026-05-09T11:30:00+05:30",
+    "endDate": "2026-05-09T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Caf\u00e9, Shop-22, Eos Dawn, block R2, M3M Urbana Premium, Ramgarh, Sector 67, Gurugram, Haryana 122101, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.39063380000000000000",
+        "longitude": "77.06689039999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/the-drafting-table",
+    "keywords": [
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Delhi School of Ideas 2.0- Gully Labs x unLecture",
+    "description": "Delhi School of Ideas isn\u2019t about finished work. It\u2019s about the half-baked, the bizarre, the \u201cwhy does this even exist?\u201d kind of thinking.The first edition was a house full of conversations varying between public urination to biking as ADHD therapy. A curated space where instead of polished presentations, you get a series of strange, obsessive deep dives into ideas, inventions, and research that feel unnecessary\u2026 until they aren\u2019t.No panels. No moderation. No clean takeaways. Just people presenting things they probably shouldn\u2019t have spent this much time thinking about. The room is designed to feel slightly unhinged \u2014 in a good way.What's included?Unlimited snacks are on the house by BRBUnlimited beer is on the house by ProostSo you can sit, question, interrupt, disagree \u2014 or just exist in the chaos.Baithak, Gully Labs Store, Panchsheel Park9th May, 5pm onwards.",
+    "startDate": "2026-05-09T17:00:00+05:30",
+    "endDate": "2026-05-09T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1414.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
+    },
+    "url": "https://urbanaut.app/spot/delhi-school-of-ideas-20-gully-labs-x-unlecture",
+    "keywords": [
+      "Workshop",
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Mother\u2019s Day Like Never Before - Gurugram",
+    "description": "This Mother\u2019s Day, we\u2019re turning emotions into art, and moments into memories \ud83d\udc9bJoin us for a one-of-a-kind experience -\ud83c\udfa8 Paint Your Own Vegan Mojaris WorkshopBecause gifts are lovely\u2026 but experiences? They stay forever.\ud83d\udc9d Bring your mom for a beautiful bonding time\ud83d\udc9d Surprise her with something truly unique\ud83d\udc9d Or design a heartfelt pair just for herAnd the best part?\u2728 No rules. No restrictions. Anyone can join.(Yes, even if you\u2019ve never painted before!)Sip, paint, laugh, and create something that carries your love in every stroke \ud83e\udd42",
+    "startDate": "2026-05-09T17:00:00+05:30",
+    "endDate": "2026-05-09T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "32nd Avenue, Sector 15 Part 2, Sector 15, Gurugram, Haryana 122001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46145860000000000000",
+        "longitude": "77.04990289999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Greenr",
+      "url": "https://urbanaut.app/partner/greenr"
+    },
+    "url": "https://urbanaut.app/spot/mothers-day-like-never-before-gurugram",
+    "keywords": [
+      "Workshop",
+      "Pop-up Event",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "A Table & A Print",
+    "description": "A Table & A Print is a small evening at the farm built around making, eating, and spending time a little more slowly.The experience begins with a guided two-hour linocut printmaking session. Guests will be introduced to the process, create a design, carve it, and print it onto a cotton tote bag and paper to take home.After the workshop, we step outside for cocktails while the table is set, before returning inside for a six-course supper served one course at a time.This is an open invitation. Come with someone you love, or come on your own.MenuTo begin, outside\u2028Garden Breeze\u2028cucumber, basil, gin, lime, honey, sodaAt the tableThe PT Hummus\u2028with grilled zucchini, red peppers, and king trumpet mushroom\u2028non-vegetarian version with chicken skewersThe Collective Greens\u2028green beans, peas, edamame, cucumber, red onion, salad greens, toasted nuts and seeds, with plum mustard vinaigrette on a bed of labnehMidsummer Sunset\u2028Aperol, gin, citrus, berryMarcella\u2019s Linguine\u2028with tomato butter sauce and ricotta or burrataThe Farm Roast\u2028butter-infused roast chicken with creamy truffle mash.\u2028Vegetarian alternative: roasted mushrooms with truffle mashBerry Gelato\u2028a bright, house-made berry gelatoAffogato\u2028vanilla ice cream finished with hot espressoDate: Saturday, 9 May 2026Time: 5:30pm onwardsVenue: IDIS Collective, DelhiPrice: \u20b94,500 per personLimited seatsNote:No prior lino cut experience is needed.Vegetarian alternative available for the main course.Booking is essential.",
+    "startDate": "2026-05-09T17:30:00+05:30",
+    "endDate": "2026-05-09T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Kh-29/2, Meher Farm, D. I. G. Estate, Aya Nagar Extension Jonapur Link Rd, Jona Pur, Jaunapur, New Delhi, Delhi 110047, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46915150000000000000",
+        "longitude": "77.14380680000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "4500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Paprika Tokri",
+      "url": "https://urbanaut.app/partner/paprika-tokri"
+    },
+    "url": "https://urbanaut.app/spot/a-table-a-print",
+    "keywords": [
+      "Workshop",
+      "Food & drink",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "UNCORKED",
+    "description": "\ud83c\udf77 Wine lovers, this one\u2019s for you.We\u2019re hosting a guided wine tasting & pairing experience as summer approaches.\u20285 different seasonal wines, each paired with thoughtfully curated small bites, led by a sommelier who genuinely lives and breathes wine.This isn\u2019t just \u201cdrink and eat.\u201d\u2028It\u2019s a wine journey \u2014 learning how flavours change, why pairings work, and how to enjoy wine more intuitively.\u2728 What makes it one-of-a-kind:\u2028\u2022 A guided tasting, not a lecture\u2028\u2022 5 wines \u00d7 5 curated small bites with each tasting\u2028 and a grazing table to end the night. \u2028A cosy, social table where you\u2019ll meet new people who love food & wineIt\u2019s relaxed, friendly, and absolutely young-wine-lover approved \u2014 come uncork with us \ud83c\udf47",
+    "startDate": "2026-05-09T19:30:00+05:30",
+    "endDate": "2026-05-09T22:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gurugram, Haryana, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.45949650000000000000",
+        "longitude": "77.02663830000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2705.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "THE OTHER SEAT",
+      "url": "https://urbanaut.app/partner/the-other-seat"
+    },
+    "url": "https://urbanaut.app/spot/uncorked",
+    "keywords": [
+      "Pop-up Event",
+      "Food & drink",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Delhi's First Aqua Rave Experience",
+    "description": "AQUA Rave \u2014 DROWN THE HEATDelhi's Coolest Summer Party is HEREDelhi summers hit different \u2014 and this time, we're hitting back. Daud-e-Dilli brings you Aqua Rave, the most refreshing, high-energy event of the season. Dance in the water, vibe to live DJ beats, and make memories that last longer than the tan lines.No experience. No excuses. Just good music, cool water, and even cooler people.WHAT'S INCLUDED IN YOUR TICKET Full 2-Hour Pool AccessEnjoy an uninterrupted 2-hour session at the Kendriya Vidyalaya AGCR Enclave pool\u2014 a clean, spacious venue right in the heart of East Delhi. Jump in, let loose, and make the most of every minute. Live DJ PerformanceNo playlist on shuffle here. A live DJ will be spinning high-energy beats throughout the entire session \u2014 keeping your energy up and the vibes absolutely immaculate from start to finish. Certified Zumba Instructor \u2014 Led SessionOur certified Zumba instructor will guide the entire session, so whether you're a first-timer or a regular dancer, you'll fit right in. All moves are fun, easy to follow, and designed to keep you moving non-stop.Refreshments + Hydration IncludedStay fuelled and refreshed \u2014 snacks and water are included with your ticket. Because the only thing better than dancing in a pool is dancing in a pool with a snack in hand after.Professional Reels & PhotosOur professional cameraman will be capturing the best moments of the day. Expect high-quality reels and photos shared with all participants after the event \u2014 your Instagram is about to eat well.VENUEKendriya Vidyalaya AGCR Enclave, East Delhi DURATION2 Hours of non-stop aqua madnessWHAT TO BRINGSwimwear, a change of clothes, sunscreen, and your best energyThis isn't just a workout. It's a vibe.Whether you're coming solo, with friends, or dragging your entire squad \u2014 Aqua Rave is the summer plan you didn't know you needed.Spots are limited. Don't miss out. For more details:- https://www.daudedilli.com/",
+    "startDate": "2026-05-10T07:00:00+05:30",
+    "endDate": "2026-05-10T09:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "7,Near Garg Hospital NA, Mangalam Marg,A.G.C.R, Colony, Karkardooma, Anand Vihar, New Delhi, Delhi, 110092, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.65141630000000000000",
+        "longitude": "77.29529620000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "899.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Daud-e-Dilli",
+      "url": "https://urbanaut.app/partner/daud-e-dilli"
+    },
+    "url": "https://urbanaut.app/spot/delhis-biggest-aqua-rave",
+    "keywords": [
+      "Music",
+      "Premium",
+      "Wellness",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Chandini Chowk \u2013 Spiritual and Living Heritage",
+    "description": "Chandni Chowk is not just a marketplace; it is a living museum where the 17th-century Mughal urban design breathes alongside the chaos of modern commerce.Designed in 1650 by Jahanara Begum, emperor Shah Jahan\u2019s daughter, Chandni Chowk was once a grand canal-side boulevard. The water from Faiz Nahar flowed through its centre, reflecting the moonlight and giving the street its name. Today, the canal is gone, but the flow remains in the form of a relentless human tide.We will wander the interfaith mile, a single stretch of road where major places of worship for different faiths have coexisted for centuries.Join Mera \u0936\u0939\u0930 \u2014 My City Walks for a morning of storytelling as we navigate our way through the Kutcha\u2019s and Katra\u2019s of Chandini Chowk. This isn't just a walk through a marketplace; it\u2019s a journey through a 375-year-old living museum where every turn of a lane reveals a layer of Delhi\u2019s complex identity.",
+    "startDate": "2026-05-10T08:00:00+05:30",
+    "endDate": "2026-05-10T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Chandni Chowk, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.65053310000000000000",
+        "longitude": "77.23033699999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "600.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mera \u0936\u0939\u0930 \u2013 My City Walks",
+      "url": "https://urbanaut.app/partner/merasheharmycitywalks"
+    },
+    "url": "https://urbanaut.app/spot/chandini-chowk-spiritual-and-living-heritage",
+    "keywords": [
+      "Local",
+      "Walking Tour",
+      "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Old Cinema Halls of Purani Dilli-A  heritage walk",
     "description": "Old Cinema halls of Shahjahanabad (Old Delhi) heritage walkBefore multiplexes and OTT, there were single-screen cinema halls\u2014temples of Bollywood where whistles echoed, stars arrived for premieres, and cinema was a shared emotion.Join us for a heritage walk through Chandni Chowk (Purani Delhi) as we revisit the now-shut, iconic cinema halls that shaped India\u2019s love affair with films since Independence.Each hall had its own personality\u2014its loyal audience, favourite production houses, and directors who swore by it.We\u2019ll explore stories of legendary screenings, star visits, and how many of these halls began as theatre spaces, later transforming into talkies when sound entered cinema. Today, most stand silent and anonymous\u2014but their stories are anything but.Cinema halls we\u2019ll trace:Excelsior, New Amar, Moti, Majestic & Kumar Talkies .Date : 10th May , Sunday8.30 am onwards\ud83d\udccd Meeting Point: Chawri Bazaar Metro Station, Gate No. 1 (on metro yellow line)\ud83d\udd70 Duration: ~2 to 2.5 hours\ud83d\udeb6 Route: Chawri Bazaar & Chandni ChowkCome walk with us into a bygone era of velvet seats, hand-painted posters, and the magic of Bollywood\u2014when cinema wasn\u2019t just watched, it was felt.No parking available at the meeting point.",
@@ -221,6 +598,81 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Creative Mic Presents Abhivyakti Open Mic Show",
+    "description": "Creative Mic Presents Abhivyakti Open Mic Show at goSTOPS DelhiStep up. Speak out. Own the stage.From poetry and music to stand-up and rap \u2014 this is where raw talent meets real vibes. Whether you\u2019re performing or just soaking it in, expect energy, creativity, and a room full of expression.Win a \u20b92,100 cash prize + audience love and spotlight.Date: 10 May 2026Time: 11am onwardsVenue: goSTOPS Delhi, Near Delhi Gate Metro StationLimited slots \u2014 book your spot now.",
+    "startDate": "2026-05-10T11:00:00+05:30",
+    "endDate": "2026-05-10T16:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gate no 3, 4/23-B, Asaf Ali Rd, opp. Metro Station, Chatta lal Miya, Delhi Gate, Daryaganj, New Delhi, Delhi, 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64083430000000000000",
+        "longitude": "77.23897370000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "299.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "goSTOPS",
+      "url": "https://urbanaut.app/partner/gostops"
+    },
+    "url": "https://urbanaut.app/spot/creative-mic-presents-abhivyakti-open-mic-show",
+    "keywords": [
+      "Leisure",
+      "Live GIG",
+      "Local",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Art of Folding",
+    "description": "The Art of Folding: Mother\u2019s Day Special \u2013 Origami HeartsOverviewCelebrate Mother\u2019s Day through the mindful and tactile art of paper folding. This session is a dedicated space to create handmade tokens of affection while reflecting on the theme of motherhood and connection. \"The Art of Folding\" combines creativity with personal expression, allowing you to craft something meaningful from the heart.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to ExpectGuided Creations: Follow a beginner friendly process to fold a heart bookmark, a heart greeting card, and a custom origami envelope.A Personal Touch: Use the session to write a heartfelt note or letter within your creations. Express gratitude, share memories, or simply reflect on what you want to say.Inclusive Space: This workshop is open to everyone, whether you are celebrating, remembering, or reflecting on your relationship with your mother.Full Support: We provide step by step guidance and all necessary materials. You do not need any prior origami experience, and you will take home everything you create.Details\ud83d\uddd3\ufe0f Date: 10th May (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Cha & Co, Grand View High Street\ud83c\udf9f\ufe0f Fee: \u20b9700",
+    "startDate": "2026-05-10T11:30:00+05:30",
+    "endDate": "2026-05-10T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ireo Grand View High Street, Sector 58, Gurugram, Haryana 122098, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41560020000000000000",
+        "longitude": "77.10258329999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/the-art-of-folding",
+    "keywords": [
+      "Leisure",
+      "Workshop",
       "URBANAUT"
     ]
   },
@@ -264,17 +716,17 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Drake ICEMAN Listening Party",
-    "description": "Be among the first to experience ICEMAN by Drake in a curated, high-quality listening session.This is a focused, start-to-finish playback of the project, designed for people who actually want to hear the music, not talk over it.What to expect:Full album listening in a premium sound setupA crowd that\u2019s tuned in and presentReal-time reactions and shared first impressionsIncluded with your ticket:Unlimited snacks on the house by BRBUnlimited beer on the house by ProostAccess to exclusive GL discounts Limited capacity. Entry on a first-come basis.",
-    "startDate": "2026-05-16T20:00:00+05:30",
-    "endDate": "2026-05-16T22:00:00+05:30",
+    "name": "Journey Of Hearts - Delhi Open Mic",
+    "description": "Not every love story is romantic.Some are built in kitchens, in quiet sacrifices, in sleepless nights,in words never spoken but always felt.This Mother\u2019s Day, Journey of Hearts invites you to bring your truth to the stage.A poem for your mother.A letter you never sent.A story of distance, healing, or becoming.This isn\u2019t about perfection.It\u2019s about honesty.About the kind of love that shapes us\u2014even when we don\u2019t understand it.So if your heart carries something unfinished,this is your space to let it breathe.\u2728 Journey of Hearts \u2013 DelhiA Mother\u2019s Day special open mic by Likhon Dil Se.",
+    "startDate": "2026-05-10T13:30:00+05:30",
+    "endDate": "2026-05-10T15:30:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "address": "C-110, near Sapna Cinema Road, beside Janta Bakery, Dayanand Colony, C- Block, Lajpat Nagar 4, Redlight, New Delhi, Delhi 110024, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.54778550000000000000",
-        "longitude": "77.21136729999999000000"
+        "latitude": "28.56062630000000000000",
+        "longitude": "77.24616180000000000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -282,57 +734,204 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "1342.00",
+      "price": "249.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Gully Labs",
-      "url": "https://urbanaut.app/partner/baithak"
+      "name": "LIKHON DIL SE",
+      "url": "https://urbanaut.app/partner/likhondilse"
     },
-    "url": "https://urbanaut.app/spot/drake-iceman-listening-party",
+    "url": "https://urbanaut.app/spot/journey-of-hearts-delhi-open-mic-12696",
     "keywords": [
-      "Live GIG",
+      "Leisure",
       "Music",
-      "Premium",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Echoes of Empire: A Walk Through Qutub Complex",
+    "description": "Step into a living museum of ambition and power at the Qutub Minar Complex, a UNESCO World Heritage Site that defines the Delhi skyline. This tour takes you through centuries of history, beginning with the soaring Qutub Minar itself\u2014an 800-year-old victory tower of intricately carved sandstone and marble.Discover the fascinating transition of empires as we explore the Quwwat-ul-Islam Mosque, featuring some of the earliest Islamic architecture in India. Stand in awe of the Iron Pillar, a 1,600-year-old metallurgical wonder that remains miraculously rust-free. We\u2019ll also visit the serene Tomb of Iltutmish, the grand Alai Darwaza gateway, and the massive, unfinished Alai Minar\u2014a monument to Alauddin Khalji\u2019s bold, unfulfilled dreams.Join us to uncover the legends etched into these red sandstone walls. Please note that the fee is not for access to the site, but rather for the curation of this experience.Contact Us: +91 9041409952Eamil:  uttardharohar@gmail.com",
+    "startDate": "2026-05-10T16:00:00+05:30",
+    "endDate": "2026-05-10T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Qutub MInar Ticket Counter, Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52567170000000000000",
+        "longitude": "77.18798850000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "700.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "UTTAR DHAROHAR",
+      "url": "https://urbanaut.app/partner/uttar-dharohar"
+    },
+    "url": "https://urbanaut.app/spot/echoes-of-empire-a-walk-through-qutub-complex",
+    "keywords": [
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Body Keeps Score?",
+    "description": "Join us for a session that pulls back the curtain on the hidden logic behind our most challenging moments, arguments that escalate out of nowhere and the silences that stretch too long. About the LectureThat fight that erupted over nothing, the moment you said something you immediately regretted, or the \"freeze\" that swallowed your voice; none of it is random. Your mind and body are in a constant, high-stakes conversation, and most of the time, that conversation is running the show without your permission.When stress hits, your mind-body connection does more than just affect your mood; it rewires how you listen, how you think, and how you show up for the people you love. What lives in your body inevitably shapes what happens between people. In this session, we unpack the neuroscience of our reactions to understand why we explode, why we go cold, and how our biological wiring plays out in our most intimate and everyday relationships.The session explores:The Hidden Conversation: How the mind and body react together to drive our social interactions.The Anatomy of a Fight: Why small disagreements escalate into major conflicts based on internal \"scoring.\"Fight, Flight, or Freeze: The biological reasons why some people react with anger while others withdraw.Rewiring for Connection: How to recognize the physical triggers that lead to relationship \"costs\" and how to manage them.Flow of the Evening4:00 PM \u2013 Doors open: Come in, find your seat, and get comfortable.4:05 \u2013 4:20 PM \u2013 Place your orders and start a few conversations.4:30 PM \u2013 The learning begins.5:15 PM \u2013 Open Q&A and discussion with Dr. Sahni.5:30 PM onwards \u2013 Stay a while: More eating, more drinking, more conversations.About the SpeakerProf. (Dr.) Sanjeev P. Sahni is a distinguished psychologist and academic leader with over 35 years of experience spanning the globe. He is the Founder and Principal Director of the Jindal Institute of Behavioural Sciences and the President of the Community Psychology Association of India (CPAI).A former Visiting Scientist at the University of Houston and University of Chicago, Dr. Sahni\u2019s expertise covers a vast landscape, from Criminal and Cyber Psychology to Neuropsychology and Sports Performance. He has authored over 23 books and trained more than 300,000 educators and students worldwide. His work is dedicated to integrating behavioural science into the fabric of education and policy, empowering individuals to move beyond their \"excuses\" toward true performance excellence.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from St. Stephen\u2019s, Delhi who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-05-10T16:00:00+05:30",
+    "endDate": "2026-05-10T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Siyah Arthouse, 3rd Floor 261, Plot 8, Westend Marg, Saidulajab, Saket, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.51653950000000000000",
+        "longitude": "77.19738550000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/the-body-keeps-score",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Identity in Transition: A Psycho-Social Analysis",
+    "description": "Join us for a lecture that dives into a transformation happening in our pockets and on our screens, one that is reshaping who we are and how we feel. About the LectureOur identity used to be shaped by our face-to-face relationships and physical communities. Today, much of that construction has moved online. But what happens to our mental health when our \"self\" is curated for an audience?This lecture explores the dynamic relationship between digital identity and psychological well-being. Moving beyond simple critiques of screen time, it examines the core dimensions of the self - personal, social, and collective, and how they shift in a digital landscape.The session explores:The Architecture of the Digital Self. How social media allows for identity experimentation and curated self-presentation.The psychological mechanics of social comparison, FOMO, and the quest for external validation through likes and comments.Understanding the tension and anxiety that arise from discrepancies between our online and offline selves.How these platforms offer vital spaces for social support, belonging, and mental health awareness, the digital silver lining.As we navigate an increasingly hybrid world, this session invites us to consider how digital literacy and mindful engagement can help us protect our well-being and foster a more authentic sense of self.About the SpeakerDr. Poonam Yadav is a psychologist and Assistant Professor at Gargi College, University of Delhi. With an M.Phil. and PhD from Jawaharlal Nehru University, her expertise spans social psychology, media psychology, and organizational behavior.Dr. Yadav has taught extensively on research methodology, personality development, and health and well-being. She is a published researcher who has presented her work at both national and international levels, bringing a deep academic rigor to the study of how modern media shapes the human mind. Beyond her academic role, she holds a Diploma in Guidance and Counselling, bridging the gap between theoretical research and applied psychological support.All Grounds for Thought tickets include a \u20b9250 coupon redeemable on food and beverages at the venue.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-05-10T16:00:00+05:30",
+    "endDate": "2026-05-10T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Basement, Ground floor and First floor Building no. 12, Panchsheel Community Centre, Shahpur Jat, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54805190000000000000",
+        "longitude": "77.21147640000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/identity-in-transition-a-psycho-social-analysis",
+    "keywords": [
+      "Food & drink",
       "URBANAUT"
     ]
   },
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "name": "Delhi School of Ideas 2.0- Gully Labs x unLecture",
-    "description": "Delhi School of Ideas isn\u2019t about finished work. It\u2019s about the half-baked, the bizarre, the \u201cwhy does this even exist?\u201d kind of thinking.The first edition was a house full of conversations varying between public urination to biking as ADHD therapy. A curated space where instead of polished presentations, you get a series of strange, obsessive deep dives into ideas, inventions, and research that feel unnecessary\u2026 until they aren\u2019t.No panels. No moderation. No clean takeaways. Just people presenting things they probably shouldn\u2019t have spent this much time thinking about. The room is designed to feel slightly unhinged \u2014 in a good way.What's included?Unlimited snacks are on the house by BRBUnlimited beer is on the house by ProostSo you can sit, question, interrupt, disagree \u2014 or just exist in the chaos.Baithak, Gully Labs Store, Panchsheel Park9th May, 5pm onwards.",
-    "startDate": "2026-05-09T17:00:00+05:30",
-    "endDate": "2026-05-09T20:00:00+05:30",
+    "name": "Mother's Day Like Never Before - Delhi",
+    "description": "This Mother\u2019s Day, we\u2019re turning emotions into art, and moments into memories \ud83d\udc9bJoin us for a one-of-a-kind experience -\ud83c\udfa8 Paint Your Own Vegan Mojaris WorkshopBecause gifts are lovely\u2026 but experiences? They stay forever.\ud83d\udc9d Bring your mom for a beautiful bonding time\ud83d\udc9d Surprise her with something truly unique\ud83d\udc9d Or design a heartfelt pair just for herAnd the best part?\u2728 No rules. No restrictions. Anyone can join.(Yes, even if you\u2019ve never painted before!)Sip, paint, laugh, and create something that carries your love in every stroke \ud83e\udd42",
+    "startDate": "2026-05-10T17:00:00+05:30",
+    "endDate": "2026-05-10T19:00:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "address": "4, Market, Basant Lok, Vasant Vihar, New Delhi, Delhi 110057, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.54778550000000000000",
-        "longitude": "77.21136729999999000000"
+        "latitude": "28.55785010000000000000",
+        "longitude": "77.16455560000000000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
+    "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "1414.00",
+      "price": "1800.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Gully Labs",
-      "url": "https://urbanaut.app/partner/baithak"
+      "name": "Greenr",
+      "url": "https://urbanaut.app/partner/greenr"
     },
-    "url": "https://urbanaut.app/spot/delhi-school-of-ideas-20-gully-labs-x-unlecture",
+    "url": "https://urbanaut.app/spot/mothers-day-like-never-before-delhi",
     "keywords": [
       "Workshop",
-      "History & heritage",
+      "Pop-up Event",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Krishna N\u0101da - An Evening of R\u0101ga & Bhakti",
+    "description": "Krishna N\u0101da \u2013 An Evening of R\u0101ga & Bhakti \ud83e\ude94\ud83c\udfb6Step into an atmosphere where music transcends performance and becomes a path to stillness, devotion, and inner connection. Krishna N\u0101da is a thoughtfully curated classical musical evening that brings together the richness of Indian tradition with a deeply spiritual experience.Set within the serene and divine surroundings of ISKCON Temple Dwarka, this evening invites you to pause, reflect, and immerse yourself in the timeless beauty of R\u0101ga, Bhajan, and Naam Sankirtan.\u2728 What Makes This Experience Special\u2022 Two Live Classical & Devotional Performances\u2013 Vocal Recital: A soulful expression of Hindustani classical and devotional music, rich in bhaav and tradition\u2013 Santoor Recital: A meditative instrumental journey accompanied by tabla and pakhawaj\u2022 A Curated Spiritual FlowFrom Raaga invocation to collective chanting, the evening is designed to gradually elevate your inner state - from sound to stillness\u2022 Sacred Venue ExperienceHosted at ISKCON Dwarka, offering a divine ambience, spiritual energy, and an elevated cultural setting\u2022 Beyond MusicThis is not just a concert = it is a space for connection, reflection, and shared devotion\u2022 Followed by Live Snacks Prasadam \ud83c\udf7dConclude your evening with a warm, community-driven dining experience\ud83d\udccd Event DetailsLocation: ISKCON Temple, Sector 13, Dwarka, New DelhiDate: Sunday, 10th May 2026Time: 6:00 PM onwards\ud83c\udf9f Entry: \u20b91700Limited seats for an intimate and premium experience",
+    "startDate": "2026-05-10T18:15:00+05:30",
+    "endDate": "2026-05-10T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Plot No.-4, Sub-City Level, Behind radission blue Hotel, Sector 13, Dwarka, New Delhi, Delhi, 110075, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.60026010000000000000",
+        "longitude": "77.03677090000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1785.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Avyukta Enterprises",
+      "url": "https://urbanaut.app/partner/avyukta-enterprises"
+    },
+    "url": "https://urbanaut.app/spot/krishna-nada-an-evening-of-raga-bhakti",
+    "keywords": [
+      "Live GIG",
+      "Music",
       "Art & culture",
       "URBANAUT"
     ]
@@ -377,54 +976,243 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "When Power Claims Victimhood",
-    "description": "Join us for an evening of unpacking how the language of equality is being reshaped in India\u2019s courts, and what it means when power begins to claim victimhood.About the LectureWe often think of equality as a fixed principle, clear, neutral, and universally agreed upon. But what if the definition of equality itself is being redefined in real time?Drawing from landmark cases and ongoing constitutional debates, this lecture explores the idea of equality under the Indian Constitution and how it is being contested today. At its core is a provocative question, what happens when historically dominant groups begin to frame themselves as victims?Through a close reading of recent litigation, the session examines how legal arguments are reframing structural advantage as disadvantage, and how courts are becoming arenas where these competing narratives are negotiated.Moving across themes of caste, religion, gender, and institutional power, the lecture explores:Power and Victimhood: How dominant groups are increasingly adopting the language of historical injustice and reparationsEquality as Transformation: Why the Constitution envisioned equality not as neutrality, but as a tool to address deep-rooted structural inequalitiesThe Courtroom as Battleground: How contemporary legal disputes, from reservations to religious rights, are reshaping constitutional meaningReverse Discrimination Debates: The rise of arguments that position corrective measures as unfair to historically privileged groupsWhat\u2019s at Stake: How these shifts could redefine the very foundation of India\u2019s constitutional projectFlow of the Evening5:00 PM: Doors open at Social, Saket: Come in, find your seat, and get comfortable5:00 \u2013 5:20 PM: Place your orders and start a few conversations5:30 PM: The learning begins6:15 PM: Open Q&A and discussion with Ms. Wadekar6:30 PM onwards: Stay a while: More eating, more drinking, more conversationsAbout the SpeakerMs. Disha Wadekar is a constitutional lawyer with over a decade of litigation experience in India. An LL.M. graduate from Columbia Law School and a Fulbright scholar, her work sits at the intersection of law, social justice, and structural inequality.She has been involved in several significant constitutional cases, including the Sabarimala temple entry case and the EWS reservation case. She has represented the families of Rohith Vemula and Payal Tadvi in their fight against institutional discrimination, as well as journalist Sukanya Shantha in a petition challenging caste-based division of labour in Indian prisons. In 2018, she was the only woman lawyer representing Dalit victims before the Bhima Koregaon Judicial Inquiry Commission.In 2022, she was appointed Additional Special Public Prosecutor in a case concerning the rape of a Dalit girl in Rajasthan.Beyond litigation, Ms. Wadekar has taught Constitutional Law and Critical Legal Studies at National Law University, Delhi and O.P. Jindal Global University. She is also the co-founder of CEDE (Community for the Eradication of Discrimination in Education and Employment), an organisation working to increase representation of marginalised communities in the legal profession and judiciary.Her work extends to legal research and consultancy with institutions such as the Centre for Women\u2019s Development Studies and Project 39A, and her writing has been featured in leading journals and platforms.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
-    "startDate": "2026-05-23T17:00:00+05:30",
-    "endDate": "2026-05-23T19:00:00+05:30",
+    "@type": "EducationEvent",
+    "name": "The Matcha Circle",
+    "description": "Matcha Experience: A Taste of CalmOverviewExperience the calming art of green tea in a session dedicated to mindfulness and flavor. This gathering is designed to help you slow down and appreciate the details of a centuries old tradition. \"The Matcha Circle\" offers a peaceful space to learn, taste, and connect at the end of a long week.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to ExpectGuided Introduction: Learn about the history and the unique process of preparing matcha from farm to cup.The Ritual: Watch and learn how the tea is whisked to create its signature froth and deep flavor.Tasting Session: Enjoy a premium matcha drink prepared just for you at Cha & Co.Quiet Conversation: Join a small group setting to talk about finding moments of peace in a busy week over a comforting cup.Details\ud83d\uddd3\ufe0f Date: 15th May (Friday)\u23f0 Time: 6:00 PM\ud83d\udccd Location: Cha & Co, Grand View High Street\ud83c\udf75 Inclusion: Matcha drink included\ud83c\udf9f\ufe0f Fee: \u20b9700",
+    "startDate": "2026-05-15T18:00:00+05:30",
+    "endDate": "2026-05-15T20:00:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "Shop No: 229, FIRST FLOOR, DLF Avenue Mall, 232, Mandir Marg, Saket District Centre, District Centre, Sector 6, Saket, New Delhi, Delhi 110017, India",
+      "address": "Ireo Grand View High Street, Sector 58, Gurugram, Haryana 122098, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.52834140000000000000",
-        "longitude": "77.21575450000000000000"
+        "latitude": "28.41560020000000000000",
+        "longitude": "77.10258329999999000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
+    "typicalAgeRange": "25+",
     "offers": {
       "@type": "Offer",
-      "price": "550.00",
+      "price": "661.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
     },
-    "url": "https://urbanaut.app/spot/when-power-claims-victimhood",
+    "url": "https://urbanaut.app/spot/matcha-experience",
     "keywords": [
-      "Food & drink",
+      "Leisure",
+      "Workshop",
+      "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "ALT EFF Film Club x GuruJal Gurugram | 15th May",
+    "description": "Join us for a punchy lineup of 4 short films (2 Indian and 2 international), each bringing its own flavour of environmental storytelling.And then\u2026 stay for ALT EFF Voices, our signature open mic where audience members share short, personal, environment-related stories. No practice needed. Just pick a prompt from a hat and dive in.\u00a0SHORT FILM PROGRAMME:A brilliant selection of cinematic, poetic, diverse pieces of environmental storytelling that are short enough to get you hooked and never long enough to bore!Some Thoughts on the Common ToadThe FeastThe Butterfly ManThe Floating worldTo become a Film Club Member, continue with the regular booking process. The membership option will appear after you select the venue and date.All activities, including discussions and refreshments, will occur between 7:00 and 9:00 PM.What's Included?Exclusive screenings of the world's best environmental cinemaAccess to a community of environmentally inclined, film-loving peopleA chance to express yourself at ALT EFF Voices Post-film discussions.Student Discount50% off for students with a valid ID (& must bring ID to the screening).CODE: ALTSTUDENTABOUT ALT EFFIf you are tired of the outrage cycle, doomscrolling collapse, and the looming AI takeover narrative. If you have caught yourself going numb just to cope. We see you.All Living Things Environmental Film Festival is back with the third season of Film Club. A monthly meet up across 12 cities over 5 months, orbiting environmental cinema that cracks you open without trapping you in doom and gloom.It is a room full of people choosing to show up in cities whose infrastructure persuades you to stay home, choosing to sit together, watch together, and turn private anxiety into collective imagination. Messy. Human. Honest conversation.\u00a0With snacks. Always snacks.",
+    "startDate": "2026-05-15T19:00:00+05:30",
+    "endDate": "2026-05-15T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "6/9, F-2, Block F, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46430350000000000000",
+        "longitude": "77.09600040000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "354.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "All Living Things Environmental Film Festival",
+      "url": "https://urbanaut.app/partner/alteff-filmclub"
+    },
+    "url": "https://urbanaut.app/spot/alteff-filmclub-gurugram",
+    "keywords": [
+      "Local",
+      "Festival",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "ALT EFF Film Club x Remakery Delhi | 15th May",
+    "description": "Join us for a punchy lineup of 4 short films (2 Indian and 2 international), each bringing its own flavour of environmental storytelling.And then\u2026 stay for ALT EFF Voices, our signature open mic where audience members share short, personal, environment-related stories. No practice needed. Just pick a prompt from a hat and dive in.\u00a0SHORT FILM PROGRAMME:A brilliant selection of cinematic, poetic, diverse pieces of environmental storytelling that are short enough to get you hooked and never long enough to bore!Some Thoughts on the Common ToadThe FeastThe Butterfly ManThe Floating worldTo become a Film Club Member, continue with the regular booking process. The membership option will appear after you select the venue and date.All activities, including discussions and refreshments, will occur between 7:00 and 9:00 PM.What's Included?Exclusive screenings of the world's best environmental cinemaAccess to a community of environmentally inclined, film-loving peopleA chance to express yourself at ALT EFF Voices Post-film discussions.Student Discount50% off for students with a valid ID (& must bring ID to the screening).CODE: ALTSTUDENTABOUT ALT EFF Film ClubIf you are tired of the outrage cycle, doomscrolling collapse, and the looming AI takeover narrative. If you have caught yourself going numb just to cope. We see you.All Living Things Environmental Film Festival is back with the third season of Film Club. A monthly meet up across 12 cities over 5 months, orbiting environmental cinema that cracks you open without trapping you in doom and gloom.It is a room full of people choosing to show up in cities whose infrastructure persuades you to stay home, choosing to sit together, watch together, and turn private anxiety into collective imagination. Messy. Human. Honest conversation.\u00a0With snacks. Always snacks.",
+    "startDate": "2026-05-15T19:00:00+05:30",
+    "endDate": "2026-05-15T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "R 84, opposite Select Citywalk, Block J, Khirki Extension, Malviya Nagar, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53209050000000000000",
+        "longitude": "77.21784699999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "354.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "All Living Things Environmental Film Festival",
+      "url": "https://urbanaut.app/partner/alteff-filmclub"
+    },
+    "url": "https://urbanaut.app/spot/alteff-filmclub-delhi",
+    "keywords": [
+      "Local",
+      "Festival",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Before You Blame",
+    "description": "Before You Blame: A Workshop on Navigating Relationships with ClarityOverviewMost relationship conflicts are not just about what happened; they are about how we interpret what happened. This session focuses on exploring how our thoughts shape our connections and why friction often feels more intense than the situation warrants. \"Before You Blame\" is a reflective workshop designed to help you look at your assumptions and inner patterns, moving you from reactivity toward steadiness and emotional responsibility.What is Stories of Hope?We are a community-led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities, from mental well-being to personal growth, with empathy and shared human connection.What to ExpectPattern Recognition: Explore how common emotional triggers and ego-driven patterns shape conflicts in marriage, family, or work.Internal Focus: Instead of trying to fix others, we gently shift the focus inward to understand our own interpretations and responses.Practical Tools: Learn actionable ways to question stressful thoughts and practice perspective shifts using real-life scenarios.Safe Exploration: A supportive, non-judgmental environment for honest discussion. This is a space for learning and reflection, not a lecture or therapy.Key TakeawaysClarity: Gain a deeper understanding of recurring relationship dynamics.Responsiveness: Walk away with tools to help you respond thoughtfully instead of reacting impulsively.Emotional Ownership: Build the internal steadiness needed to navigate life without requiring others to change first.Details\ud83d\uddd3\ufe0f Date: 16th May (Sunday)\u23f0 Time: 11:00 AM\ud83d\udccd Location: Kanchanjunga Towers, Sector 56\ud83c\udf9f\ufe0f Fee: \u20b9900 (Introductory offer: \u20b9200 off original price of \u20b91100)",
+    "startDate": "2026-05-16T11:00:00+05:30",
+    "endDate": "2026-05-16T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "A-BLOCK, KANCHANJUNGA APARTMENT, G.H.18, near Post Office, Sector 56, Gurugram, Haryana 122011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.42299410000000000000",
+        "longitude": "77.10300720000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "900.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/before-you-blame",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Financial Litercacy Workshop for Kids",
+    "description": "A Fun Financial Literacy Workshop designed just for them! \ud83d\udca1\ud83d\udcb0Here\u2019s what children will learn:\u2022 Understanding money \u2013 what it is and how it works\u2022 Smart saving habits and why saving is important\u2022 Basics of budgeting in a simple, kid-friendly way\u2022 Needs vs. wants \u2013 making better spending choices\u2022 Introduction to earning and managing pocket mone\u2728 This will be a hands-on, engaging, and enjoyable experience - not a boring lecture!\ud83c\udf6a Plus, children will be treated to tasty nibbles and refreshing drinks during the workshop.",
+    "startDate": "2026-05-16T11:30:00+05:30",
+    "endDate": "2026-05-16T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "3rd Floor, A-26/11, Golf Course Rd, near Dt Mega Mall, A Block, DLF Phase 1, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.47371350000000000000",
+        "longitude": "77.09346930000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "1499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Vamoro",
+      "url": "https://urbanaut.app/partner/vamoro"
+    },
+    "url": "https://urbanaut.app/spot/financial-litercacy-workshop-for-kids",
+    "keywords": [
+      "Responsible",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Diet Coke Paglus Assemble - Gurgaon Edition",
+    "description": "Your favourite fizzy drink gets a whole personality in this quirky gathering. Come for the Diet Coke, stay for the chaos. Activities include:1. Diet Coke Can Art: Bedazzle your own Diet Coke can with rhinestones and take it home. Best design wins a prize. No art experience required - just chaos energy.2. Blind Tasting Challenge: Diet Coke vs other cola brands. No labels, one sip, guess correctly for a prize.3. Mafia: Canned Edition: The classic party game gets a caffeinated twist - holding a Diet Coke can grants a quirky power. Trust no one, sip wisely.Prizes await across all rounds. Good vibes guaranteed.",
+    "startDate": "2026-05-16T16:00:00+05:30",
+    "endDate": "2026-05-16T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Cosmopolitan Mall, Golf Estate Rd, Badshahpur, Sector 66, Gurugram, Haryana 122101, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40204880000000000000",
+        "longitude": "77.06046289999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "699.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "UnClub Experiences",
+      "url": "https://urbanaut.app/partner/unclubexperiences"
+    },
+    "url": "https://urbanaut.app/spot/diet-coke",
+    "keywords": [
+      "Leisure",
+      "Art & culture",
       "URBANAUT"
     ]
   },
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Why We Taste With Our Ears",
-    "description": "This lecture promises to be an evening that rethinks something as simple as eating, by tuning to a sense we rarely notice at the table.About the LectureWhy does the sound of rain make fried food more irresistible? Why does music change how we experience a glass of wine?This session begins with a simple but surprising idea: taste doesn\u2019t start in the mouth, it often begins in the ear.Drawing on extensive research by Bruite Magazine across the subcontinent, this lecture explores how sound quietly shapes the way we anticipate, experience, and remember food. From the rhythm of a bustling street to the curated playlists of a fine-dining restaurant, auditory cues influence everything from perceived texture to indulgence and value.Moving across everyday eating environments and contemporary food spaces, the session explores:The Sound of Anticipation: How auditory cues shape cravings even before the first biteSonic Texture: Why crunch, sizzle, and silence can alter how we perceive flavour and freshnessAtmosphere & Memory: How music, noise, and rhythm influence mood and the way meals stay with usDesigning Food Experiences: The role of sound in restaurants, bars, supper clubs, and immersive dining formatsBlending cultural observation, field research, and sharp storytelling, this session offers a fresh lens on something deeply familiar.Flow of the Evening5:00 PM: Doors open at Siyah Arthouse, Saket: Come in, find your seat, and get comfortable5:00 \u2013 5:20 PM: Place your orders and start a few conversations5:30 PM: The learning begins6:15 PM: Open Q&A and discussion with Ms. Ramya6:30 PM onwards: Stay a while: More eating, more drinking, more conversationsAbout the SpeakerRamya G Sri is the Co-founder and Editor-in-Chief of Bruite Magazine, one of South Asia\u2019s leading independent food and culture publications known for its deeply researched, original storytelling and on-ground reporting.Through Bruite, she collaborates with chefs, historians, artisans, and communities across the subcontinent to explore how food intersects with culture, memory, and perception\u2014often through unexpected and underexplored lenses.She also co-leads Bruite Media Co., a specialised brand advisory that has worked with over 500 brands and founders across F&B, lifestyle, D2C, and consumer tech. Her work spans brand launches, communication strategy, and creative training\u2014shaping how brands tell stories and connect with audiences.Her contributions to storytelling have been recognised with the Laadli Media Award for Gender-Sensitive Storytelling and the Abby Silver Award for Advertising. Across her work, she brings together rigorous research, editorial depth, and a strong instinct for how narrative shapes both culture and consumer experience.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
-    "startDate": "2026-05-30T17:00:00+05:30",
-    "endDate": "2026-05-30T19:00:00+05:30",
+    "name": "How Does Music Bring Us Joy?",
+    "description": "Join us for a session that dismantles the idea of music as just entertainment and reveals it as a biological and evolutionary dialogue written into our very DNA. About the LectureWe have all experienced it: the sudden urge to tap a foot, the involuntary head bang, or the \"chills\" that run down our spine during a crescendo. But why should a specific arrangement of sounds trigger such powerful physical and emotional reactions?This session takes us on a cross-disciplinary round trip through Mathematics, Physiology, and Evolutionary Biology to answer a deceptively simple question: Why does music bring us joy? By understanding the biological machinery that allows us to engage with sound, we gain a deeper way of knowing ourselves, for music represents much of what it means to be human.The session explores:The Evolutionary Context: Comparing the role of music in birds and humans to understand its origins.The Auditory Gateway: How our hearing and brain processing transform vibrations into meaning.The Mathematics of Sound: Decoding the unique patterns and structures that make music distinct from noise.The Survival of the Grooviest: Examining the selective pressures that made music an essential trait for our species.Flow of the Evening4:00 PM \u2013 Doors open: Come in, find your seat, and get comfortable.4:05 \u2013 4:20 PM: Place your orders and start a few conversations.4:30 PM: The learning begins.5:15 PM: Open Q&A and discussion with Tejas.5:30 PM onwards \u2013 Stay a while: More eating, more drinking, and more conversations.About the SpeakerTejas Jaishankar is the Co-Founder and \"Resident Nerd\" at Upstairs with Us. A seasoned metal guitarist, Tejas occupies the unique space of a listener who deeply admires Indian Classical music but approaches it from the outside, a journey that inspired his mission to make the genre accessible to everyone.With over 10 years of experience as a fitness entrepreneur and educator, Tejas has founded several startups including IIFEM and Shapemenow Technologies. He specializes in building businesses that bridge the gap between complex science and everyday people. When he isn\u2019t deconstructing musical theory, he can be found pursuing eclectic \"sidequests\" like re-creating prehistoric stone tools.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-05-16T16:00:00+05:30",
+    "endDate": "2026-05-16T18:00:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "Siyah Arthouse, 3rd Floor 261, Plot 8, Westend Marg, Saidulajab, Saket, New Delhi, Delhi 110030, India",
+      "address": "Panchshila Park, 61/7, Panchshila Park, Block C, Panchsheel Park South, Malviya Nagar, New Delhi, Delhi 110017, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.51653950000000000000",
-        "longitude": "77.19738550000000000000"
+        "latitude": "28.53946110000000000000",
+        "longitude": "77.21371580000000000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -441,7 +1229,7 @@
       "name": "unLecture",
       "url": "https://urbanaut.app/partner/unlecture"
     },
-    "url": "https://urbanaut.app/spot/why-we-taste-with-our-ears",
+    "url": "https://urbanaut.app/spot/how-does-music-bring-us-joy",
     "keywords": [
       "Food & drink",
       "URBANAUT"
@@ -449,18 +1237,56 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "The Politics of Motherhood",
-    "description": "Join us on Sunday, May 24, for a conversation that asks a question we\u2019ve long internalised but rarely examined closely: What if the way we talk about mothers isn\u2019t just cultural, but deeply political?About the LectureMotherhood is often framed as instinctive, natural, and deeply personal. But beneath these ideas lies a powerful and persistent narrative, one that places the burden of blame, responsibility, and perfection squarely on mothers.This session explores how motherhood has been shaped by cultural expectations that are often contradictory and impossible to meet. A mother is told she loves too much or too little, is too present or not present enough. Working mothers are scrutinised, while those who stay at home are diminished. Even the choice to not become a mother carries its own weight of judgment.At its core, this lecture reframes these experiences, not as individual failings, but as part of a larger system.The session explores:The Blame Narrative: How mothers have historically been positioned as responsible for outcomes beyond their controlCultural Contradictions: The impossible standards placed on women across different forms of motherhoodLanguage as Power: How psychological and cultural terms, from \u2018mother wound\u2019 to attachment styles, can unintentionally reinforce blameInternalised Shame: How these narratives shape the way mothers see themselves, and each otherRewriting the Story: What it means to view motherhood through a lens of context, care, and social structures rather than individual faultAbout the SpeakerDr. Shelja Sen is a Narrative & Family Therapist, writer, and Co-founder of Children First. She is a TED speaker, a columnist with The Indian Express, and the author of three critically acclaimed books: All You Need is Love, Imagine, and Reclaim Your Life.She serves as a Clinical Tutor at the University of Melbourne and is the Editor-in-Chief of the International Journal of Narrative Therapy & Community Work. Her work is rooted in building culturally aligned, ethical practices that bring together an intersectional lens, social justice, and innovation.At heart, she is a storyteller, someone deeply invested in how the stories we inherit shape the lives we live.All Grounds for Thought tickets include a \u20b9250 coupon redeemable on food and beverages at the venue.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
-    "startDate": "2026-05-24T16:00:00+05:30",
-    "endDate": "2026-05-24T18:00:00+05:30",
+    "@type": "Event",
+    "name": "The Procrastireaders",
+    "description": "OverviewStep out of your literary comfort zone and into a world of mystery. Our \"Blind Date with a Book\" session is designed to strip away the influence of flashy covers and famous names. It lets you connect with a story based purely on its essence. This is a low stakes and high reward way to discover your next favorite read while sharing a brew with fellow book lovers.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to ExpectThe Concept: Browse a curated selection of books from the SOH library wrapped in brown paper. You will not see titles or authors. Only a few plot keywords or a \"vibe\" will guide your choice.The Surprise: Follow your intuition. Pick the one that intrigues you most based solely on the cryptic clues written on the front.First Impressions: We will spend the first part of the session \"meeting\" our books, unmasking the titles, and seeing if you have found a literary match.Low Stakes: This is a fun and pressure free way to break out of your usual genre. You might try something you would never have picked up otherwise.Details\ud83d\uddd3\ufe0f Date: 16th May (Saturday)\u23f0 Time: 5:30 PM\ud83d\udccd Location: Thamel, DLF Phase 1\u2615 Inclusion: Coffee included\ud83c\udf9f\ufe0f Fee: \u20b9700",
+    "startDate": "2026-05-16T17:30:00+05:30",
+    "endDate": "2026-05-16T19:30:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "C/9, Mehrauli Mahipalpur Rd, near Cult Fit, Pocket 9, Sector C, Vasant Kunj, New Delhi, Delhi 110070, India",
+      "address": "Shop No. 139, The shopping mall, Arjun Marg, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.53806920000000000000",
-        "longitude": "77.14287580000000000000"
+        "latitude": "28.46589090000000000000",
+        "longitude": "77.09964640000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/the-procrastireaders",
+    "keywords": [
+      "Leisure",
+      "Pop-up Event",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Drake ICEMAN Listening Party",
+    "description": "Be among the first to experience ICEMAN by Drake in a curated, high-quality listening session.This is a focused, start-to-finish playback of the project, designed for people who actually want to hear the music, not talk over it.What to expect:Full album listening in a premium sound setupA crowd that\u2019s tuned in and presentReal-time reactions and shared first impressionsIncluded with your ticket:Unlimited snacks on the house by BRBUnlimited beer on the house by ProostAccess to exclusive GL discounts Limited capacity. Entry on a first-come basis.",
+    "startDate": "2026-05-16T20:00:00+05:30",
+    "endDate": "2026-05-16T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -468,18 +1294,56 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "499.00",
+      "price": "1342.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
     },
-    "url": "https://urbanaut.app/spot/the-politics-of-motherhood",
+    "url": "https://urbanaut.app/spot/drake-iceman-listening-party",
     "keywords": [
-      "Food & drink",
+      "Live GIG",
+      "Music",
+      "Premium",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Overthinkers Anonymous",
+    "description": "OverviewEver wondered why you default to people pleasing, perfectionism, or avoidance? Overthinkers Anonymous is a small and guided space to slow down, reflect, and talk honestly about the things that occupy our minds. This session focuses on Family Patterns and how the environments we grew up in still shape how we think, feel, and respond today.We focus on connecting the dots between past experiences and present reactions in a safe and judgment free environment. The goal is to build awareness and self compassion rather than focusing on blame.What is Stories of Hope?We are a community-led initiative dedicated to creating safe, mindful spaces. Through workshops and gatherings, we help individuals navigate life\u2019s complexities, from mental well-being to personal growth, with empathy and shared human connection.What to expectPattern Recognition: Explore why tendencies like overthinking or control keep showing up in your life.Guided Reflection: Use a specialized worksheet to gain context on your reactions without the weight of self-judgment.Awareness & Compassion: A gentle space to build self-awareness and understanding\u2014focused on insight, not on reliving trauma.Details\ud83d\uddd3\ufe0f Date: 12th April (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Thamel, Golf Course Ext Road\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes Coffee + Snacks)",
+    "startDate": "2026-05-17T11:30:00+05:30",
+    "endDate": "2026-05-17T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shop No. 139, The shopping mall, Arjun Marg, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46589090000000000000",
+        "longitude": "77.09964640000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/overthinkers-anonymous",
+    "keywords": [
+      "Wellness",
       "URBANAUT"
     ]
   },
@@ -557,18 +1421,54 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Her Interest by Zerodha - Delhi",
+    "description": "Women have a complicated relationship with money. And it starts early. Many families shield their daughters from anything related to \u2018finance\u2019, but this well-meaning protection ends up being a disservice. For when these young women step into the real world, they lack the confidence to make financial decisions -\u00a0not because they\u2019re incapable, but because they were never given information on budgeting, savings, and investments. Later in life, many continue to rely on their partners for investment decisions. This dependency on others will only stop when they have the right information and toolkit to take back control. That\u2019s where we come in.We launch 'In Her Interest' on 22nd May in Delhi and will focus on one core idea for the launch:Building financial security for women.The session will be led by two amazing experts who truly get it.Zeba Zaidi Adeeb, Co-Founder - Spectacom Global, Creator of Devils Circuit & The Yoddha RaceManisha Pande, Tax Partner, Aeka Advisors (ex - GE, AA/EY)This session is on  Finance and the Entrepreneur.Once you buy a ticket, you also get to send a question that the speakers will address during the session.Note: Each session is theme-based, this session is about 'Finance and the Entrepreneur' - we are not talking stocks and shares.",
+    "startDate": "2026-05-22T16:00:00+05:30",
+    "endDate": "2026-05-22T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Vi-John Tower, 393, Phase III, Udyog Vihar, Sector 20, Gurugram, Haryana 122016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.50562100000000000000",
+        "longitude": "77.08873980000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "892.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "In Her Interest by Zerodha",
+      "url": "https://urbanaut.app/partner/inherinterest"
+    },
+    "url": "https://urbanaut.app/spot/finance-for-entrepreneurs",
+    "keywords": [
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Echoes of Empire: A Walk Through Qutub Complex",
-    "description": "Step into a living museum of ambition and power at the Qutub Minar Complex, a UNESCO World Heritage Site that defines the Delhi skyline. This tour takes you through centuries of history, beginning with the soaring Qutub Minar itself\u2014an 800-year-old victory tower of intricately carved sandstone and marble.Discover the fascinating transition of empires as we explore the Quwwat-ul-Islam Mosque, featuring some of the earliest Islamic architecture in India. Stand in awe of the Iron Pillar, a 1,600-year-old metallurgical wonder that remains miraculously rust-free. We\u2019ll also visit the serene Tomb of Iltutmish, the grand Alai Darwaza gateway, and the massive, unfinished Alai Minar\u2014a monument to Alauddin Khalji\u2019s bold, unfulfilled dreams.Join us to uncover the legends etched into these red sandstone walls. Please note that the fee is not for access to the site, but rather for the curation of this experience.Contact Us: +91 9041409952Eamil:  uttardharohar@gmail.com",
-    "startDate": "2026-05-10T16:00:00+05:30",
-    "endDate": "2026-05-10T18:00:00+05:30",
+    "name": "Open SketchBook",
+    "description": "Open SketchBook: You don\u2019t need to leave the city to feel grounded.OverviewOur core belief is that you do not need to leave the city to feel grounded. In a world where everyone is distracted, we pause as a group to give our attention to one shared thing. Sketching becomes the medium to notice small, living details in urban spaces that we usually rush through.You do not need to be an artist to enjoy sketching. Open SketchBook is a session for anyone who wants to explore drawing as a way to relax and observe the world. It is about the process of putting pencil to paper rather than the final masterpiece.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to expectGuided Observation: Learn simple ways to look at objects or spaces and translate them into lines and shapes.Creative Freedom: A judgment free zone where you can experiment with sketching without worrying about \"doing it right.\"Tactile Experience: Use your new diary and pencil kit to capture what you see in the moment.Relaxed Environment: Enjoy a late afternoon at Greenr with a small group of people who just want to create and connect.Details\ud83d\uddd3\ufe0f Date: 19th April (Sunday)\u23f0 Time: 5:00 PM\ud83d\udccd Location: Greenr, Golf Course Ext Road\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes an A6 diary and pencil kit)",
+    "startDate": "2026-05-23T11:00:00+05:30",
+    "endDate": "2026-05-23T13:00:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "Qutub MInar Ticket Counter, Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
+      "address": "First Floor, Grand View High Street, Golf Course Ext Rd, Sector 58, Gurugram, Haryana 122098, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.52567170000000000000",
-        "longitude": "77.18798850000000000000"
+        "latitude": "28.41623070000000000000",
+        "longitude": "77.10243700000000000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -576,258 +1476,144 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "700.00",
+      "price": "661.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "UTTAR DHAROHAR",
-      "url": "https://urbanaut.app/partner/uttar-dharohar"
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
     },
-    "url": "https://urbanaut.app/spot/echoes-of-empire-a-walk-through-qutub-complex",
-    "keywords": [
-      "History & heritage",
-      "Guided tour",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "How Does Music Bring Us Joy?",
-    "description": "Join us for a session that dismantles the idea of music as just entertainment and reveals it as a biological and evolutionary dialogue written into our very DNA. About the LectureWe have all experienced it: the sudden urge to tap a foot, the involuntary head bang, or the \"chills\" that run down our spine during a crescendo. But why should a specific arrangement of sounds trigger such powerful physical and emotional reactions?This session takes us on a cross-disciplinary round trip through Mathematics, Physiology, and Evolutionary Biology to answer a deceptively simple question: Why does music bring us joy? By understanding the biological machinery that allows us to engage with sound, we gain a deeper way of knowing ourselves, for music represents much of what it means to be human.The session explores:The Evolutionary Context: Comparing the role of music in birds and humans to understand its origins.The Auditory Gateway: How our hearing and brain processing transform vibrations into meaning.The Mathematics of Sound: Decoding the unique patterns and structures that make music distinct from noise.The Survival of the Grooviest: Examining the selective pressures that made music an essential trait for our species.Flow of the Evening4:00 PM \u2013 Doors open: Come in, find your seat, and get comfortable.4:05 \u2013 4:20 PM: Place your orders and start a few conversations.4:30 PM: The learning begins.5:15 PM: Open Q&A and discussion with Tejas.5:30 PM onwards \u2013 Stay a while: More eating, more drinking, and more conversations.About the SpeakerTejas Jaishankar is the Co-Founder and \"Resident Nerd\" at Upstairs with Us. A seasoned metal guitarist, Tejas occupies the unique space of a listener who deeply admires Indian Classical music but approaches it from the outside, a journey that inspired his mission to make the genre accessible to everyone.With over 10 years of experience as a fitness entrepreneur and educator, Tejas has founded several startups including IIFEM and Shapemenow Technologies. He specializes in building businesses that bridge the gap between complex science and everyday people. When he isn\u2019t deconstructing musical theory, he can be found pursuing eclectic \"sidequests\" like re-creating prehistoric stone tools.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
-    "startDate": "2026-05-16T16:00:00+05:30",
-    "endDate": "2026-05-16T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Panchshila Park, 61/7, Panchshila Park, Block C, Panchsheel Park South, Malviya Nagar, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53946110000000000000",
-        "longitude": "77.21371580000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/how-does-music-bring-us-joy",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "The Body Keeps Score?",
-    "description": "Join us for a session that pulls back the curtain on the hidden logic behind our most challenging moments, arguments that escalate out of nowhere and the silences that stretch too long. About the LectureThat fight that erupted over nothing, the moment you said something you immediately regretted, or the \"freeze\" that swallowed your voice; none of it is random. Your mind and body are in a constant, high-stakes conversation, and most of the time, that conversation is running the show without your permission.When stress hits, your mind-body connection does more than just affect your mood; it rewires how you listen, how you think, and how you show up for the people you love. What lives in your body inevitably shapes what happens between people. In this session, we unpack the neuroscience of our reactions to understand why we explode, why we go cold, and how our biological wiring plays out in our most intimate and everyday relationships.The session explores:The Hidden Conversation: How the mind and body react together to drive our social interactions.The Anatomy of a Fight: Why small disagreements escalate into major conflicts based on internal \"scoring.\"Fight, Flight, or Freeze: The biological reasons why some people react with anger while others withdraw.Rewiring for Connection: How to recognize the physical triggers that lead to relationship \"costs\" and how to manage them.Flow of the Evening4:00 PM \u2013 Doors open: Come in, find your seat, and get comfortable.4:05 \u2013 4:20 PM \u2013 Place your orders and start a few conversations.4:30 PM \u2013 The learning begins.5:15 PM \u2013 Open Q&A and discussion with Dr. Sahni.5:30 PM onwards \u2013 Stay a while: More eating, more drinking, more conversations.About the SpeakerProf. (Dr.) Sanjeev P. Sahni is a distinguished psychologist and academic leader with over 35 years of experience spanning the globe. He is the Founder and Principal Director of the Jindal Institute of Behavioural Sciences and the President of the Community Psychology Association of India (CPAI).A former Visiting Scientist at the University of Houston and University of Chicago, Dr. Sahni\u2019s expertise covers a vast landscape, from Criminal and Cyber Psychology to Neuropsychology and Sports Performance. He has authored over 23 books and trained more than 300,000 educators and students worldwide. His work is dedicated to integrating behavioural science into the fabric of education and policy, empowering individuals to move beyond their \"excuses\" toward true performance excellence.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from St. Stephen\u2019s, Delhi who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
-    "startDate": "2026-05-10T16:00:00+05:30",
-    "endDate": "2026-05-10T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Siyah Arthouse, 3rd Floor 261, Plot 8, Westend Marg, Saidulajab, Saket, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.51653950000000000000",
-        "longitude": "77.19738550000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/the-body-keeps-score",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Sodhilecious Factory Visit",
-    "description": "Sodhilecious began as a simple intention\u2014feeding our own families and children food made with honesty.This base kitchen visit is an open invitation to experience that same honesty firsthand. Step inside and see exactly how your cookies and breads are made\u2014from sourcing to preparation to packaging. Nothing is hidden.You\u2019ll walk through our processes, understand our standards, and meet the people behind every product.No shortcuts. No compromises. Just clean, consistent, transparent baking.Because loyalty isn\u2019t built through marketing\u2014it\u2019s built when you truly know what goes into what you eat.Come see it for yourself.",
-    "startDate": "2026-05-09T10:30:00+05:30",
-    "endDate": "2026-05-10T12:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "C277+MWG, Begumpur Khatola, Sector 74, Gurugram, Haryana 122101, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.41419400000000000000",
-        "longitude": "77.01483259999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "118.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sodhilecious",
-      "url": "https://urbanaut.app/partner/sodhilecious"
-    },
-    "url": "https://urbanaut.app/spot/sodhilecious-factory-visit",
-    "keywords": [
-      "Food & drink",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Mother's Day Like Never Before - Delhi",
-    "description": "This Mother\u2019s Day, we\u2019re turning emotions into art, and moments into memories \ud83d\udc9bJoin us for a one-of-a-kind experience -\ud83c\udfa8 Paint Your Own Vegan Mojaris WorkshopBecause gifts are lovely\u2026 but experiences? They stay forever.\ud83d\udc9d Bring your mom for a beautiful bonding time\ud83d\udc9d Surprise her with something truly unique\ud83d\udc9d Or design a heartfelt pair just for herAnd the best part?\u2728 No rules. No restrictions. Anyone can join.(Yes, even if you\u2019ve never painted before!)Sip, paint, laugh, and create something that carries your love in every stroke \ud83e\udd42",
-    "startDate": "2026-05-10T17:00:00+05:30",
-    "endDate": "2026-05-10T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "4, Market, Basant Lok, Vasant Vihar, New Delhi, Delhi 110057, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55785010000000000000",
-        "longitude": "77.16455560000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1800.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Greenr",
-      "url": "https://urbanaut.app/partner/greenr"
-    },
-    "url": "https://urbanaut.app/spot/mothers-day-like-never-before-delhi",
-    "keywords": [
-      "Workshop",
-      "Pop-up Event",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Mother\u2019s Day Like Never Before - Gurugram",
-    "description": "This Mother\u2019s Day, we\u2019re turning emotions into art, and moments into memories \ud83d\udc9bJoin us for a one-of-a-kind experience -\ud83c\udfa8 Paint Your Own Vegan Mojaris WorkshopBecause gifts are lovely\u2026 but experiences? They stay forever.\ud83d\udc9d Bring your mom for a beautiful bonding time\ud83d\udc9d Surprise her with something truly unique\ud83d\udc9d Or design a heartfelt pair just for herAnd the best part?\u2728 No rules. No restrictions. Anyone can join.(Yes, even if you\u2019ve never painted before!)Sip, paint, laugh, and create something that carries your love in every stroke \ud83e\udd42",
-    "startDate": "2026-05-09T17:00:00+05:30",
-    "endDate": "2026-05-09T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "32nd Avenue, Sector 15 Part 2, Sector 15, Gurugram, Haryana 122001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46145860000000000000",
-        "longitude": "77.04990289999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1800.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Greenr",
-      "url": "https://urbanaut.app/partner/greenr"
-    },
-    "url": "https://urbanaut.app/spot/mothers-day-like-never-before-gurugram",
-    "keywords": [
-      "Workshop",
-      "Pop-up Event",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "The Poetics of Time: A Poetic Immersion into Visual Arts",
-    "description": "Dillipoetry, in collaboration with Anant Art Gallery, invites you to The Poetics of Time, a one-of-a-kind interactive poetry workshop where poetry and visual art\u200b coalesce into a shared experience. As one artist observed, \u201cart is not a history of grand\u200b masterpieces; it is a record of human attempts.\u201d This holds equally true for poetry, the\u200b experience is yet another attempt to bring the two into a\u200bn embodied dialogue.The workshop anchors itself in the themes of reverie, pause, and rupture\u2014how\u200b they unfold in\u200b one\u2019s inner life and in the world around us, personally,\u200b systemically and politically.\u200b Conceived as a response to the ongoing exhibition\u200b Reverie. Pause. Rupture, the workshop\u200b engages with the exhibition through\u200b poetry. The group show, featuring leading contemporary\u200b artists, \u201cchallenges the\u200b artist and viewer alike to express what may be inexpressible. It reflects\u200b on time,\u200b its apparent continuity, as well as the sudden breaks that give rise to new\u200b beginnings,\u201d\u200b notes curator Gayatri Sinha.The two-hour-long workshop with its reflective prompts and guided exercises\u200b promises to bring\u200b an absurd interplay of visual, somatic and creative mediums to help us move through the idea of\u200b personal imagination \u2014 with prescribed\u200b writings written across a wide timeline by some of the\u200b wise voices like Gaston Bachelard, Audre Lorde, Mary Oliver, Naomi Shihab Nye among others.About the host: Rachit is a poet and founder of Dillipoetry\u2014a literary platform known for its thematic, experimental poetry walks, workshops, and training programmes. He is the former Creative Head at Youth Alliance, where he designed and facilitated transformational leadership journeys for young social leaders across India. With over a decade in the social development sector, his work spans diverse social issues. His poetry has appeared in 25+ literary platforms and anthologies. His recent series Memories of Yami and The Asthma City\u2014tracing the Yamuna River through Delhi and the city\u2019s escalating air crisis\u2014were published by Down To Earth magazine.Rachit has been selected for international residencies, including Language is a Queer Thing, a programme by The Queer Muslim Project in collaboration with the British Council, UK. He received the Germinator Grant by Ecoversity for Dillipoetry\u2019s regenerative approach to arts and community.He has performed twice at BBC Contains Strong Language\u2014the UK\u2019s largest poetry festival (Leeds 2023, Bradford 2025)\u2014and at institutions including the French Institute India, Goethe-Institut, British Council, and Alliance Fran\u00e7aise. His work has appeared on BBC Radio 3\u2019s The Verb. He also served as Lead Poet and Advisor to O.P. Jindal Global University\u2019s programme, We Are Meant to Sing as One.",
-    "startDate": "2026-05-09T11:30:00+05:30",
-    "endDate": "2026-05-09T13:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "B-5/3, Block B 5, Safdarjung Enclave, New Delhi, Delhi 110029, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.56162040000000000000",
-        "longitude": "77.18857430000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "649.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Dillipoetry",
-      "url": "https://urbanaut.app/partner/dillipoetry"
-    },
-    "url": "https://urbanaut.app/spot/the-poetics-of-time",
+    "url": "https://urbanaut.app/spot/open-sketchbook",
     "keywords": [
       "Leisure",
-      "Workshop",
       "Art & culture",
       "URBANAUT"
     ]
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Identity in Transition: A Psycho-Social Analysis",
-    "description": "Join us for a lecture that dives into a transformation happening in our pockets and on our screens, one that is reshaping who we are and how we feel. About the LectureOur identity used to be shaped by our face-to-face relationships and physical communities. Today, much of that construction has moved online. But what happens to our mental health when our \"self\" is curated for an audience?This lecture explores the dynamic relationship between digital identity and psychological well-being. Moving beyond simple critiques of screen time, it examines the core dimensions of the self - personal, social, and collective, and how they shift in a digital landscape.The session explores:The Architecture of the Digital Self. How social media allows for identity experimentation and curated self-presentation.The psychological mechanics of social comparison, FOMO, and the quest for external validation through likes and comments.Understanding the tension and anxiety that arise from discrepancies between our online and offline selves.How these platforms offer vital spaces for social support, belonging, and mental health awareness, the digital silver lining.As we navigate an increasingly hybrid world, this session invites us to consider how digital literacy and mindful engagement can help us protect our well-being and foster a more authentic sense of self.About the SpeakerDr. Poonam Yadav is a psychologist and Assistant Professor at Gargi College, University of Delhi. With an M.Phil. and PhD from Jawaharlal Nehru University, her expertise spans social psychology, media psychology, and organizational behavior.Dr. Yadav has taught extensively on research methodology, personality development, and health and well-being. She is a published researcher who has presented her work at both national and international levels, bringing a deep academic rigor to the study of how modern media shapes the human mind. Beyond her academic role, she holds a Diploma in Guidance and Counselling, bridging the gap between theoretical research and applied psychological support.All Grounds for Thought tickets include a \u20b9250 coupon redeemable on food and beverages at the venue.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
-    "startDate": "2026-05-10T16:00:00+05:30",
-    "endDate": "2026-05-10T18:00:00+05:30",
+    "@type": "Event",
+    "name": "Cinema Circle",
+    "description": "Cinema Circle: The Pursuit of HappynessOverviewJoin us for a screening and discussion of a story that explores the depths of resilience and the human spirit. \"The Pursuit of Happyness\" follows a father's grueling journey through homelessness and hardship while trying to build a better life for his son. It is a powerful look at what it means to keep going when everything seems to be falling apart.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to ExpectThe Screening: We will watch the film together in a comfortable and focused environment.Intimate Discussion: After the movie, we will hold a space for open conversation. We will reflect on the themes of perseverance, the definition of success, and the emotional toll of the \"hustle.\"Shared Perspectives: Hear how the story resonated with others and share your own takeaways on hope and survival.Community Vibe: This is not just a movie night. It is an opportunity to connect with others through a shared cinematic experience.Details\ud83d\uddd3\ufe0f Date: 23rd May (Saturday)\u23f0 Time: 5:30 PM\ud83d\udccd Location: Kanchanjunga Towers, Sector 56\u2615 Inclusions: Coffee and snacks included\ud83c\udf9f\ufe0f Fee: \u20b9700",
+    "startDate": "2026-05-23T11:00:00+05:30",
+    "endDate": "2026-05-23T13:00:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "Basement, Ground floor and First floor Building no. 12, Panchsheel Community Centre, Shahpur Jat, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "address": "A-BLOCK, KANCHANJUNGA APARTMENT, G.H.18, near Post Office, Sector 56, Gurugram, Haryana 122011, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.54805190000000000000",
-        "longitude": "77.21147640000000000000"
+        "latitude": "28.42299410000000000000",
+        "longitude": "77.10300720000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/cinema-circle",
+    "keywords": [
+      "Leisure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "When Power Claims Victimhood",
+    "description": "Join us for an evening of unpacking how the language of equality is being reshaped in India\u2019s courts, and what it means when power begins to claim victimhood.About the LectureWe often think of equality as a fixed principle, clear, neutral, and universally agreed upon. But what if the definition of equality itself is being redefined in real time?Drawing from landmark cases and ongoing constitutional debates, this lecture explores the idea of equality under the Indian Constitution and how it is being contested today. At its core is a provocative question, what happens when historically dominant groups begin to frame themselves as victims?Through a close reading of recent litigation, the session examines how legal arguments are reframing structural advantage as disadvantage, and how courts are becoming arenas where these competing narratives are negotiated.Moving across themes of caste, religion, gender, and institutional power, the lecture explores:Power and Victimhood: How dominant groups are increasingly adopting the language of historical injustice and reparationsEquality as Transformation: Why the Constitution envisioned equality not as neutrality, but as a tool to address deep-rooted structural inequalitiesThe Courtroom as Battleground: How contemporary legal disputes, from reservations to religious rights, are reshaping constitutional meaningReverse Discrimination Debates: The rise of arguments that position corrective measures as unfair to historically privileged groupsWhat\u2019s at Stake: How these shifts could redefine the very foundation of India\u2019s constitutional projectFlow of the Evening5:00 PM: Doors open at Social, Saket: Come in, find your seat, and get comfortable5:00 \u2013 5:20 PM: Place your orders and start a few conversations5:30 PM: The learning begins6:15 PM: Open Q&A and discussion with Ms. Wadekar6:30 PM onwards: Stay a while: More eating, more drinking, more conversationsAbout the SpeakerMs. Disha Wadekar is a constitutional lawyer with over a decade of litigation experience in India. An LL.M. graduate from Columbia Law School and a Fulbright scholar, her work sits at the intersection of law, social justice, and structural inequality.She has been involved in several significant constitutional cases, including the Sabarimala temple entry case and the EWS reservation case. She has represented the families of Rohith Vemula and Payal Tadvi in their fight against institutional discrimination, as well as journalist Sukanya Shantha in a petition challenging caste-based division of labour in Indian prisons. In 2018, she was the only woman lawyer representing Dalit victims before the Bhima Koregaon Judicial Inquiry Commission.In 2022, she was appointed Additional Special Public Prosecutor in a case concerning the rape of a Dalit girl in Rajasthan.Beyond litigation, Ms. Wadekar has taught Constitutional Law and Critical Legal Studies at National Law University, Delhi and O.P. Jindal Global University. She is also the co-founder of CEDE (Community for the Eradication of Discrimination in Education and Employment), an organisation working to increase representation of marginalised communities in the legal profession and judiciary.Her work extends to legal research and consultancy with institutions such as the Centre for Women\u2019s Development Studies and Project 39A, and her writing has been featured in leading journals and platforms.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-05-23T17:00:00+05:30",
+    "endDate": "2026-05-23T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shop No: 229, FIRST FLOOR, DLF Avenue Mall, 232, Mandir Marg, Saket District Centre, District Centre, Sector 6, Saket, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52834140000000000000",
+        "longitude": "77.21575450000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "550.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/when-power-claims-victimhood",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Listening Room",
+    "description": "The Listening Room: A Space for Deep ListeningOverviewIn a world that is always talking, we rarely get the chance to truly listen. The Listening Room is a unique session dedicated to the art of being present. It is a space to share, to hear others, and to practice the kind of attention that builds real connection and empathy.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to expectActive Listening: Practice being fully present while others speak without the need to interrupt or give immediate advice.Shared Stories: A safe environment to share your own thoughts or experiences and feel truly heard by a small group.Quiet Reflection: Moments of silence to process what has been shared and to notice how deep listening changes our perspective.Supportive Connection: A morning at Greenr focused on human presence and the simple power of witnessing each other\u2019s stories.Details\ud83d\uddd3\ufe0f Date: 19th April (Sunday)\u23f0 Time: 11:00 AM\ud83d\udccd Location: Greenr, Golf Course Ext Road\ud83c\udf9f\ufe0f Contribution: \u20b9700",
+    "startDate": "2026-05-24T11:00:00+05:30",
+    "endDate": "2026-05-24T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "First Floor, Grand View High Street, Golf Course Ext Rd, Sector 58, Gurugram, Haryana 122098, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41623070000000000000",
+        "longitude": "77.10243700000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/listening-room",
+    "keywords": [
+      "Wellness",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Politics of Motherhood",
+    "description": "Join us on Sunday, May 24, for a conversation that asks a question we\u2019ve long internalised but rarely examined closely: What if the way we talk about mothers isn\u2019t just cultural, but deeply political?About the LectureMotherhood is often framed as instinctive, natural, and deeply personal. But beneath these ideas lies a powerful and persistent narrative, one that places the burden of blame, responsibility, and perfection squarely on mothers.This session explores how motherhood has been shaped by cultural expectations that are often contradictory and impossible to meet. A mother is told she loves too much or too little, is too present or not present enough. Working mothers are scrutinised, while those who stay at home are diminished. Even the choice to not become a mother carries its own weight of judgment.At its core, this lecture reframes these experiences, not as individual failings, but as part of a larger system.The session explores:The Blame Narrative: How mothers have historically been positioned as responsible for outcomes beyond their controlCultural Contradictions: The impossible standards placed on women across different forms of motherhoodLanguage as Power: How psychological and cultural terms, from \u2018mother wound\u2019 to attachment styles, can unintentionally reinforce blameInternalised Shame: How these narratives shape the way mothers see themselves, and each otherRewriting the Story: What it means to view motherhood through a lens of context, care, and social structures rather than individual faultAbout the SpeakerDr. Shelja Sen is a Narrative & Family Therapist, writer, and Co-founder of Children First. She is a TED speaker, a columnist with The Indian Express, and the author of three critically acclaimed books: All You Need is Love, Imagine, and Reclaim Your Life.She serves as a Clinical Tutor at the University of Melbourne and is the Editor-in-Chief of the International Journal of Narrative Therapy & Community Work. Her work is rooted in building culturally aligned, ethical practices that bring together an intersectional lens, social justice, and innovation.At heart, she is a storyteller, someone deeply invested in how the stories we inherit shape the lives we live.All Grounds for Thought tickets include a \u20b9250 coupon redeemable on food and beverages at the venue.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-05-24T16:00:00+05:30",
+    "endDate": "2026-05-24T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "C/9, Mehrauli Mahipalpur Rd, near Cult Fit, Pocket 9, Sector C, Vasant Kunj, New Delhi, Delhi 110070, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53806920000000000000",
+        "longitude": "77.14287580000000000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -844,7 +1630,7 @@
       "name": "unLecture",
       "url": "https://urbanaut.app/partner/unlecture"
     },
-    "url": "https://urbanaut.app/spot/identity-in-transition-a-psycho-social-analysis",
+    "url": "https://urbanaut.app/spot/the-politics-of-motherhood",
     "keywords": [
       "Food & drink",
       "URBANAUT"
@@ -891,55 +1677,17 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "A Table & A Print",
-    "description": "A Table & A Print is a small evening at the farm built around making, eating, and spending time a little more slowly.The experience begins with a guided two-hour linocut printmaking session. Guests will be introduced to the process, create a design, carve it, and print it onto a cotton tote bag and paper to take home.After the workshop, we step outside for cocktails while the table is set, before returning inside for a six-course supper served one course at a time.This is an open invitation. Come with someone you love, or come on your own.MenuTo begin, outside\u2028Garden Breeze\u2028cucumber, basil, gin, lime, honey, sodaAt the tableThe PT Hummus\u2028with grilled zucchini, red peppers, and king trumpet mushroom\u2028non-vegetarian version with chicken skewersThe Collective Greens\u2028green beans, peas, edamame, cucumber, red onion, salad greens, toasted nuts and seeds, with plum mustard vinaigrette on a bed of labnehMidsummer Sunset\u2028Aperol, gin, citrus, berryMarcella\u2019s Linguine\u2028with tomato butter sauce and ricotta or burrataThe Farm Roast\u2028butter-infused roast chicken with creamy truffle mash.\u2028Vegetarian alternative: roasted mushrooms with truffle mashBerry Gelato\u2028a bright, house-made berry gelatoAffogato\u2028vanilla ice cream finished with hot espressoDate: Saturday, 9 May 2026Time: 5:30pm onwardsVenue: IDIS Collective, DelhiPrice: \u20b94,500 per personLimited seatsNote:No prior lino cut experience is needed.Vegetarian alternative available for the main course.Booking is essential.",
-    "startDate": "2026-05-09T17:30:00+05:30",
-    "endDate": "2026-05-09T19:30:00+05:30",
+    "name": "Why We Taste With Our Ears",
+    "description": "This lecture promises to be an evening that rethinks something as simple as eating, by tuning to a sense we rarely notice at the table.About the LectureWhy does the sound of rain make fried food more irresistible? Why does music change how we experience a glass of wine?This session begins with a simple but surprising idea: taste doesn\u2019t start in the mouth, it often begins in the ear.Drawing on extensive research by Bruite Magazine across the subcontinent, this lecture explores how sound quietly shapes the way we anticipate, experience, and remember food. From the rhythm of a bustling street to the curated playlists of a fine-dining restaurant, auditory cues influence everything from perceived texture to indulgence and value.Moving across everyday eating environments and contemporary food spaces, the session explores:The Sound of Anticipation: How auditory cues shape cravings even before the first biteSonic Texture: Why crunch, sizzle, and silence can alter how we perceive flavour and freshnessAtmosphere & Memory: How music, noise, and rhythm influence mood and the way meals stay with usDesigning Food Experiences: The role of sound in restaurants, bars, supper clubs, and immersive dining formatsBlending cultural observation, field research, and sharp storytelling, this session offers a fresh lens on something deeply familiar.Flow of the Evening5:00 PM: Doors open at Siyah Arthouse, Saket: Come in, find your seat, and get comfortable5:00 \u2013 5:20 PM: Place your orders and start a few conversations5:30 PM: The learning begins6:15 PM: Open Q&A and discussion with Ms. Ramya6:30 PM onwards: Stay a while: More eating, more drinking, more conversationsAbout the SpeakerRamya G Sri is the Co-founder and Editor-in-Chief of Bruite Magazine, one of South Asia\u2019s leading independent food and culture publications known for its deeply researched, original storytelling and on-ground reporting.Through Bruite, she collaborates with chefs, historians, artisans, and communities across the subcontinent to explore how food intersects with culture, memory, and perception\u2014often through unexpected and underexplored lenses.She also co-leads Bruite Media Co., a specialised brand advisory that has worked with over 500 brands and founders across F&B, lifestyle, D2C, and consumer tech. Her work spans brand launches, communication strategy, and creative training\u2014shaping how brands tell stories and connect with audiences.Her contributions to storytelling have been recognised with the Laadli Media Award for Gender-Sensitive Storytelling and the Abby Silver Award for Advertising. Across her work, she brings together rigorous research, editorial depth, and a strong instinct for how narrative shapes both culture and consumer experience.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-05-30T17:00:00+05:30",
+    "endDate": "2026-05-30T19:00:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "Kh-29/2, Meher Farm, D. I. G. Estate, Aya Nagar Extension Jonapur Link Rd, Jona Pur, Jaunapur, New Delhi, Delhi 110047, India",
+      "address": "Siyah Arthouse, 3rd Floor 261, Plot 8, Westend Marg, Saidulajab, Saket, New Delhi, Delhi 110030, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.46915150000000000000",
-        "longitude": "77.14380680000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "4500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Paprika Tokri",
-      "url": "https://urbanaut.app/partner/paprika-tokri"
-    },
-    "url": "https://urbanaut.app/spot/a-table-a-print",
-    "keywords": [
-      "Workshop",
-      "Food & drink",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Mahfil-e-Dastangoi",
-    "description": "Chor Bizarre hosts a Mahfil-e-Dastangoi, the 13th-century art of storytelling, once heard in royal courts and public gatherings across the subcontinent.Directed by Syed Sahil Agha, with performances by Sahil Sharma, Shadab Khan, and Diksha Tiwari, the evening brings alive tales of the Red Fort and Old Delhi - through voice, rhythm, and imagination alone.At Chor Bizarre, the table makes space for stories again! Come join us.",
-    "startDate": "2026-05-08T18:00:00+05:30",
-    "endDate": "2026-05-08T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Hotel Broadway, 4/15A, Asaf Ali Rd, Chatta lal Miya, Chandni Mahal, Chandni Chowk, Delhi, New Delhi, Delhi 110002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.64105660000000000000",
-        "longitude": "77.23791410000000000000"
+        "latitude": "28.51653950000000000000",
+        "longitude": "77.19738550000000000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -947,206 +1695,18 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "525.00",
+      "price": "499.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Chor Bizarre",
-      "url": "https://urbanaut.app/partner/chor-bizarre"
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
     },
-    "url": "https://urbanaut.app/spot/mehfil-e-dastangoi",
+    "url": "https://urbanaut.app/spot/why-we-taste-with-our-ears",
     "keywords": [
-      "Music",
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Support Club",
-    "description": "The Support ClubA No Taboo x Scoop Studio experienceWhat if the problem isn\u2019t your body\u2026 but the bra you\u2019ve been told fits it?Welcome to The Support Club! An intimate, small-group experience where we unpack everything you thought you knew about bras, sizing, and support\u2026 and replace it with something that actually works for your body.Co-hosted by Neelakshi (@plumptopretty and No Taboo Experiences) and Rhea (Bra Fitter and Founder of @shop_scoop_studio), this 90-minute session blends honest conversations, interactive exercises, and a personalized fitting to help you finally understand what real support feels like.Expect:A safe, judgment-free space to talk about bodies, bras, and everything in betweenA guided \u201cbra reality check\u201d to understand what\u2019s actually going on with your current fitSimple, practical tools to decode sizing, support, and comfortA 1:1 personalized fitting by RheaAMA with Neelakshi (confidence to lingerie tips and tricks)A chance to try and shop a curated edit of fuller-bust friendly brasSo, whether you\u2019ve always struggled with fit, constantly adjust your straps, or know something isn\u2019t quite right: this is for you. You don\u2019t leave with just a bra.You leave knowing your body.A quick note on sizingMost people who come to Scoop Studio are wearing the wrong size for their bodies.We\u2019ve seen 36DD become 32G, 38E become 36H, and 34DD become 28H. So many people go from constantly adjusting to finally feeling supported for the first time.This session is designed to help you understand your body and find what truly works for you, not just what you\u2019ve been told your size is.Available sizes: 28-44 Bands | DD-K Cups",
-    "startDate": "2026-05-08T11:00:00+05:30",
-    "endDate": "2026-05-10T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "9, Southern Ave, Block J, Maharani Bagh, New Friends Colony, New Delhi, Delhi 110065, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.56942360000000000000",
-        "longitude": "77.26412599999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "No Taboo Experience",
-      "url": "https://urbanaut.app/partner/no-taboo-experience"
-    },
-    "url": "https://urbanaut.app/spot/the-support-club-12703",
-    "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "UNCORKED",
-    "description": "\ud83c\udf77 Wine lovers, this one\u2019s for you.We\u2019re hosting a guided wine tasting & pairing experience as summer approaches.\u20285 different seasonal wines, each paired with thoughtfully curated small bites, led by a sommelier who genuinely lives and breathes wine.This isn\u2019t just \u201cdrink and eat.\u201d\u2028It\u2019s a wine journey \u2014 learning how flavours change, why pairings work, and how to enjoy wine more intuitively.\u2728 What makes it one-of-a-kind:\u2028\u2022 A guided tasting, not a lecture\u2028\u2022 5 wines \u00d7 5 curated small bites with each tasting\u2028 and a grazing table to end the night. \u2028A cosy, social table where you\u2019ll meet new people who love food & wineIt\u2019s relaxed, friendly, and absolutely young-wine-lover approved \u2014 come uncork with us \ud83c\udf47",
-    "startDate": "2026-05-09T19:30:00+05:30",
-    "endDate": "2026-05-09T22:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Gurugram, Haryana, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.45949650000000000000",
-        "longitude": "77.02663830000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2705.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "THE OTHER SEAT",
-      "url": "https://urbanaut.app/partner/the-other-seat"
-    },
-    "url": "https://urbanaut.app/spot/uncorked",
-    "keywords": [
-      "Pop-up Event",
       "Food & drink",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Chandini Chowk \u2013 Spiritual and Living Heritage",
-    "description": "Chandni Chowk is not just a marketplace; it is a living museum where the 17th-century Mughal urban design breathes alongside the chaos of modern commerce.Designed in 1650 by Jahanara Begum, emperor Shah Jahan\u2019s daughter, Chandni Chowk was once a grand canal-side boulevard. The water from Faiz Nahar flowed through its centre, reflecting the moonlight and giving the street its name. Today, the canal is gone, but the flow remains in the form of a relentless human tide.We will wander the interfaith mile, a single stretch of road where major places of worship for different faiths have coexisted for centuries.Join Mera \u0936\u0939\u0930 \u2014 My City Walks for a morning of storytelling as we navigate our way through the Kutcha\u2019s and Katra\u2019s of Chandini Chowk. This isn't just a walk through a marketplace; it\u2019s a journey through a 375-year-old living museum where every turn of a lane reveals a layer of Delhi\u2019s complex identity.",
-    "startDate": "2026-05-10T08:00:00+05:30",
-    "endDate": "2026-05-10T10:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Chandni Chowk, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.65053310000000000000",
-        "longitude": "77.23033699999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "600.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Mera \u0936\u0939\u0930 \u2013 My City Walks",
-      "url": "https://urbanaut.app/partner/merasheharmycitywalks"
-    },
-    "url": "https://urbanaut.app/spot/chandini-chowk-spiritual-and-living-heritage",
-    "keywords": [
-      "Local",
-      "Walking Tour",
-      "History & heritage",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Caught in the Middle | Online",
-    "description": "Often called the \u201csandwich generation,\u201d this phase of life sits between responsibility and resilience.If you\u2019re in your 40s or 50s, you probably don\u2019t need an explanation, you are living it. Caring for aging parents while still showing up fully for your children. Holding space for everyone else, while trying to keep your own world from unraveling in the process.It is a lot. And it\u2019s often invisible.This is a space to pause, share, and connect with others who understand the weight of it, without needing to explain it. Come talk to people who get it.",
-    "startDate": "2026-05-07T18:30:00+05:30",
-    "endDate": "2026-05-07T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.70405920000000000000",
-        "longitude": "77.10249019999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Zuva Life",
-      "url": "https://urbanaut.app/partner/zuvalife"
-    },
-    "url": "https://urbanaut.app/spot/caughtinthemiddle",
-    "keywords": [
-      "Virtual",
-      "Wellness",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Financial Litercacy Workshop for Kids",
-    "description": "A Fun Financial Literacy Workshop designed just for them! \ud83d\udca1\ud83d\udcb0Here\u2019s what children will learn:\u2022 Understanding money \u2013 what it is and how it works\u2022 Smart saving habits and why saving is important\u2022 Basics of budgeting in a simple, kid-friendly way\u2022 Needs vs. wants \u2013 making better spending choices\u2022 Introduction to earning and managing pocket mone\u2728 This will be a hands-on, engaging, and enjoyable experience - not a boring lecture!\ud83c\udf6a Plus, children will be treated to tasty nibbles and refreshing drinks during the workshop.",
-    "startDate": "2026-05-16T11:30:00+05:30",
-    "endDate": "2026-05-16T14:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "3rd Floor, A-26/11, Golf Course Rd, near Dt Mega Mall, A Block, DLF Phase 1, Gurugram, Haryana 122002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.47371350000000000000",
-        "longitude": "77.09346930000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "1499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Vamoro",
-      "url": "https://urbanaut.app/partner/vamoro"
-    },
-    "url": "https://urbanaut.app/spot/financial-litercacy-workshop-for-kids",
-    "keywords": [
-      "Responsible",
-      "Workshop",
       "URBANAUT"
     ]
   },
@@ -1184,566 +1744,6 @@
     "keywords": [
       "Live GIG",
       "Local",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Journey Of Hearts - Delhi Open Mic",
-    "description": "Not every love story is romantic.Some are built in kitchens, in quiet sacrifices, in sleepless nights,in words never spoken but always felt.This Mother\u2019s Day, Journey of Hearts invites you to bring your truth to the stage.A poem for your mother.A letter you never sent.A story of distance, healing, or becoming.This isn\u2019t about perfection.It\u2019s about honesty.About the kind of love that shapes us\u2014even when we don\u2019t understand it.So if your heart carries something unfinished,this is your space to let it breathe.\u2728 Journey of Hearts \u2013 DelhiA Mother\u2019s Day special open mic by Likhon Dil Se.",
-    "startDate": "2026-05-10T13:30:00+05:30",
-    "endDate": "2026-05-10T15:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "C-110, near Sapna Cinema Road, beside Janta Bakery, Dayanand Colony, C- Block, Lajpat Nagar 4, Redlight, New Delhi, Delhi 110024, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.56062630000000000000",
-        "longitude": "77.24616180000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "249.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "LIKHON DIL SE",
-      "url": "https://urbanaut.app/partner/likhondilse"
-    },
-    "url": "https://urbanaut.app/spot/journey-of-hearts-delhi-open-mic-12696",
-    "keywords": [
-      "Leisure",
-      "Music",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Delhi's First Aqua Rave Experience",
-    "description": "AQUA Rave \u2014 DROWN THE HEATDelhi's Coolest Summer Party is HEREDelhi summers hit different \u2014 and this time, we're hitting back. Daud-e-Dilli brings you Aqua Rave, the most refreshing, high-energy event of the season. Dance in the water, vibe to live DJ beats, and make memories that last longer than the tan lines.No experience. No excuses. Just good music, cool water, and even cooler people.WHAT'S INCLUDED IN YOUR TICKET Full 2-Hour Pool AccessEnjoy an uninterrupted 2-hour session at the Kendriya Vidyalaya AGCR Enclave pool\u2014 a clean, spacious venue right in the heart of East Delhi. Jump in, let loose, and make the most of every minute. Live DJ PerformanceNo playlist on shuffle here. A live DJ will be spinning high-energy beats throughout the entire session \u2014 keeping your energy up and the vibes absolutely immaculate from start to finish. Certified Zumba Instructor \u2014 Led SessionOur certified Zumba instructor will guide the entire session, so whether you're a first-timer or a regular dancer, you'll fit right in. All moves are fun, easy to follow, and designed to keep you moving non-stop.Refreshments + Hydration IncludedStay fuelled and refreshed \u2014 snacks and water are included with your ticket. Because the only thing better than dancing in a pool is dancing in a pool with a snack in hand after.Professional Reels & PhotosOur professional cameraman will be capturing the best moments of the day. Expect high-quality reels and photos shared with all participants after the event \u2014 your Instagram is about to eat well.VENUEKendriya Vidyalaya AGCR Enclave, East Delhi DURATION2 Hours of non-stop aqua madnessWHAT TO BRINGSwimwear, a change of clothes, sunscreen, and your best energyThis isn't just a workout. It's a vibe.Whether you're coming solo, with friends, or dragging your entire squad \u2014 Aqua Rave is the summer plan you didn't know you needed.Spots are limited. Don't miss out. For more details:- https://www.daudedilli.com/",
-    "startDate": "2026-05-10T07:00:00+05:30",
-    "endDate": "2026-05-10T09:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "7,Near Garg Hospital NA, Mangalam Marg,A.G.C.R, Colony, Karkardooma, Anand Vihar, New Delhi, Delhi, 110092, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.65141630000000000000",
-        "longitude": "77.29529620000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "899.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Daud-e-Dilli",
-      "url": "https://urbanaut.app/partner/daud-e-dilli"
-    },
-    "url": "https://urbanaut.app/spot/delhis-biggest-aqua-rave",
-    "keywords": [
-      "Music",
-      "Premium",
-      "Wellness",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Play to Performance: Improv 14 Hour Workshop",
-    "description": "Step into a space where spontaneity meets performance.Improv Level One \u2013 From Play to Performance is a 14-hour immersive improv theatre workshop at The Immersion Room, Gurgaon, designed for adults who want to explore creativity, confidence, and live expression.Through a series of interactive theatre games, scene work, and character exploration, participants develop:Spontaneity & quick thinkingPresence & active listeningConfidence in expressionCollaboration & trustStorytelling through performanceThis workshop focuses on learning by doing\u2014breaking inhibitions, embracing uncertainty, and discovering the joy of being fully present.Multi-day Weekend Workshop SeriesMay 3, 2026 | 11:00 AM \u2013 1:00 PMMay 10, 2026 | 11:00 AM \u2013 1:00 PMMay 17, 2026 | 11:00 AM \u2013 1:00 PMMay 24, 2026 | 12:00 PM \u2013 2:00 PMMay 31, 2026 | 11:00 AM \u2013 1:00 PMJune 7, 2026 | 11:00 AM \u2013 1:00 PMJune 14, 2026 | 11:00 AM \u2013 1:00 PMTotal Duration: 14 HoursFormat: In-person | Adults OnlyFinal Showcase:The experience culminates in a live improv performance at The Immersion Room, where participants step onto the stage and perform in front of an audience.",
-    "startDate": "2026-05-05T11:00:00+05:30",
-    "endDate": "2026-06-14T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "E5, Market Rd, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46575680000000000000",
-        "longitude": "77.09909929999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "12000.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Immersion Room",
-      "url": "https://urbanaut.app/partner/theimmersionroom"
-    },
-    "url": "https://urbanaut.app/spot/improv-comedy-anshu-daga-intensive-workshop-tir-gurugram",
-    "keywords": [
-      "Live GIG",
-      "Workshop",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Krishna N\u0101da - An Evening of R\u0101ga & Bhakti",
-    "description": "Krishna N\u0101da \u2013 An Evening of R\u0101ga & Bhakti \ud83e\ude94\ud83c\udfb6Step into an atmosphere where music transcends performance and becomes a path to stillness, devotion, and inner connection. Krishna N\u0101da is a thoughtfully curated classical musical evening that brings together the richness of Indian tradition with a deeply spiritual experience.Set within the serene and divine surroundings of ISKCON Temple Dwarka, this evening invites you to pause, reflect, and immerse yourself in the timeless beauty of R\u0101ga, Bhajan, and Naam Sankirtan.\u2728 What Makes This Experience Special\u2022 Two Live Classical & Devotional Performances\u2013 Vocal Recital: A soulful expression of Hindustani classical and devotional music, rich in bhaav and tradition\u2013 Santoor Recital: A meditative instrumental journey accompanied by tabla and pakhawaj\u2022 A Curated Spiritual FlowFrom Raaga invocation to collective chanting, the evening is designed to gradually elevate your inner state - from sound to stillness\u2022 Sacred Venue ExperienceHosted at ISKCON Dwarka, offering a divine ambience, spiritual energy, and an elevated cultural setting\u2022 Beyond MusicThis is not just a concert = it is a space for connection, reflection, and shared devotion\u2022 Followed by Live Snacks Prasadam \ud83c\udf7dConclude your evening with a warm, community-driven dining experience\ud83d\udccd Event DetailsLocation: ISKCON Temple, Sector 13, Dwarka, New DelhiDate: Sunday, 10th May 2026Time: 6:00 PM onwards\ud83c\udf9f Entry: \u20b91700Limited seats for an intimate and premium experience",
-    "startDate": "2026-05-10T18:15:00+05:30",
-    "endDate": "2026-05-10T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Plot No.-4, Sub-City Level, Behind radission blue Hotel, Sector 13, Dwarka, New Delhi, Delhi, 110075, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.60026010000000000000",
-        "longitude": "77.03677090000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1785.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Avyukta Enterprises",
-      "url": "https://urbanaut.app/partner/avyukta-enterprises"
-    },
-    "url": "https://urbanaut.app/spot/krishna-nada-an-evening-of-raga-bhakti",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Open SketchBook",
-    "description": "Open SketchBook: You don\u2019t need to leave the city to feel grounded.OverviewOur core belief is that you do not need to leave the city to feel grounded. In a world where everyone is distracted, we pause as a group to give our attention to one shared thing. Sketching becomes the medium to notice small, living details in urban spaces that we usually rush through.You do not need to be an artist to enjoy sketching. Open SketchBook is a session for anyone who wants to explore drawing as a way to relax and observe the world. It is about the process of putting pencil to paper rather than the final masterpiece.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to expectGuided Observation: Learn simple ways to look at objects or spaces and translate them into lines and shapes.Creative Freedom: A judgment free zone where you can experiment with sketching without worrying about \"doing it right.\"Tactile Experience: Use your new diary and pencil kit to capture what you see in the moment.Relaxed Environment: Enjoy a late afternoon at Greenr with a small group of people who just want to create and connect.Details\ud83d\uddd3\ufe0f Date: 19th April (Sunday)\u23f0 Time: 5:00 PM\ud83d\udccd Location: Greenr, Golf Course Ext Road\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes an A6 diary and pencil kit)",
-    "startDate": "2026-05-23T11:00:00+05:30",
-    "endDate": "2026-05-23T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "First Floor, Grand View High Street, Golf Course Ext Rd, Sector 58, Gurugram, Haryana 122098, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.41623070000000000000",
-        "longitude": "77.10243700000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "661.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/open-sketchbook",
-    "keywords": [
-      "Leisure",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Listening Room",
-    "description": "The Listening Room: A Space for Deep ListeningOverviewIn a world that is always talking, we rarely get the chance to truly listen. The Listening Room is a unique session dedicated to the art of being present. It is a space to share, to hear others, and to practice the kind of attention that builds real connection and empathy.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to expectActive Listening: Practice being fully present while others speak without the need to interrupt or give immediate advice.Shared Stories: A safe environment to share your own thoughts or experiences and feel truly heard by a small group.Quiet Reflection: Moments of silence to process what has been shared and to notice how deep listening changes our perspective.Supportive Connection: A morning at Greenr focused on human presence and the simple power of witnessing each other\u2019s stories.Details\ud83d\uddd3\ufe0f Date: 19th April (Sunday)\u23f0 Time: 11:00 AM\ud83d\udccd Location: Greenr, Golf Course Ext Road\ud83c\udf9f\ufe0f Contribution: \u20b9700",
-    "startDate": "2026-05-24T11:00:00+05:30",
-    "endDate": "2026-05-24T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "First Floor, Grand View High Street, Golf Course Ext Rd, Sector 58, Gurugram, Haryana 122098, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.41623070000000000000",
-        "longitude": "77.10243700000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "661.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/listening-room",
-    "keywords": [
-      "Wellness",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "The Art of Folding",
-    "description": "The Art of Folding: Mother\u2019s Day Special \u2013 Origami HeartsOverviewCelebrate Mother\u2019s Day through the mindful and tactile art of paper folding. This session is a dedicated space to create handmade tokens of affection while reflecting on the theme of motherhood and connection. \"The Art of Folding\" combines creativity with personal expression, allowing you to craft something meaningful from the heart.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to ExpectGuided Creations: Follow a beginner friendly process to fold a heart bookmark, a heart greeting card, and a custom origami envelope.A Personal Touch: Use the session to write a heartfelt note or letter within your creations. Express gratitude, share memories, or simply reflect on what you want to say.Inclusive Space: This workshop is open to everyone, whether you are celebrating, remembering, or reflecting on your relationship with your mother.Full Support: We provide step by step guidance and all necessary materials. You do not need any prior origami experience, and you will take home everything you create.Details\ud83d\uddd3\ufe0f Date: 10th May (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Cha & Co, Grand View High Street\ud83c\udf9f\ufe0f Fee: \u20b9700",
-    "startDate": "2026-05-10T11:30:00+05:30",
-    "endDate": "2026-05-10T13:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Ireo Grand View High Street, Sector 58, Gurugram, Haryana 122098, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.41560020000000000000",
-        "longitude": "77.10258329999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "661.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/the-art-of-folding",
-    "keywords": [
-      "Leisure",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "The Matcha Circle",
-    "description": "Matcha Experience: A Taste of CalmOverviewExperience the calming art of green tea in a session dedicated to mindfulness and flavor. This gathering is designed to help you slow down and appreciate the details of a centuries old tradition. \"The Matcha Circle\" offers a peaceful space to learn, taste, and connect at the end of a long week.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to ExpectGuided Introduction: Learn about the history and the unique process of preparing matcha from farm to cup.The Ritual: Watch and learn how the tea is whisked to create its signature froth and deep flavor.Tasting Session: Enjoy a premium matcha drink prepared just for you at Cha & Co.Quiet Conversation: Join a small group setting to talk about finding moments of peace in a busy week over a comforting cup.Details\ud83d\uddd3\ufe0f Date: 15th May (Friday)\u23f0 Time: 6:00 PM\ud83d\udccd Location: Cha & Co, Grand View High Street\ud83c\udf75 Inclusion: Matcha drink included\ud83c\udf9f\ufe0f Fee: \u20b9700",
-    "startDate": "2026-05-15T18:00:00+05:30",
-    "endDate": "2026-05-15T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Ireo Grand View High Street, Sector 58, Gurugram, Haryana 122098, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.41560020000000000000",
-        "longitude": "77.10258329999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "661.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/matcha-experience",
-    "keywords": [
-      "Leisure",
-      "Workshop",
-      "History & heritage",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Cinema Circle",
-    "description": "Cinema Circle: The Pursuit of HappynessOverviewJoin us for a screening and discussion of a story that explores the depths of resilience and the human spirit. \"The Pursuit of Happyness\" follows a father's grueling journey through homelessness and hardship while trying to build a better life for his son. It is a powerful look at what it means to keep going when everything seems to be falling apart.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to ExpectThe Screening: We will watch the film together in a comfortable and focused environment.Intimate Discussion: After the movie, we will hold a space for open conversation. We will reflect on the themes of perseverance, the definition of success, and the emotional toll of the \"hustle.\"Shared Perspectives: Hear how the story resonated with others and share your own takeaways on hope and survival.Community Vibe: This is not just a movie night. It is an opportunity to connect with others through a shared cinematic experience.Details\ud83d\uddd3\ufe0f Date: 23rd May (Saturday)\u23f0 Time: 5:30 PM\ud83d\udccd Location: Kanchanjunga Towers, Sector 56\u2615 Inclusions: Coffee and snacks included\ud83c\udf9f\ufe0f Fee: \u20b9700",
-    "startDate": "2026-05-23T11:00:00+05:30",
-    "endDate": "2026-05-23T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "A-BLOCK, KANCHANJUNGA APARTMENT, G.H.18, near Post Office, Sector 56, Gurugram, Haryana 122011, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.42299410000000000000",
-        "longitude": "77.10300720000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "661.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/cinema-circle",
-    "keywords": [
-      "Leisure",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "The Drafting Table",
-    "description": "The Drafting Table: The Devil Wears Prada - ReimaginedOverviewStep into the world of editorial high stakes and creative reinvention. This session invites you to take the foundation of a classic story and make it entirely your own. Whether you want to keep the iconic setting or flip the script completely, \"The Drafting Table\" provides the structure and space to transform familiar characters and choices into a fresh narrative.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to ExpectCreative Freedom: Reimagine the core of \"The Devil Wears Prada.\" You can stick to the original world or change the environment, character motives, and endings to suit your vision.Structured Writing: We provide a simple framework to help you navigate your rewrite, ensuring you leave the session with a complete short story.Writing Sprints: Engage in two focused 25 minute writing blocks designed to help you get into a flow state and put words on the page.Share and Publish: Enjoy an optional sharing circle with the group. Following the workshop, we will publish your story on Substack under your name.Inclusive Environment: No prior writing experience is needed. This is a space for expression and experimentation.Details\ud83d\uddd3\ufe0f Date: 9th May (Saturday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Cafe Eos Dawn, M3M Urbana\u2615 Inclusion: Coffee included\ud83c\udf9f\ufe0f Fee: \u20b9700",
-    "startDate": "2026-05-09T11:30:00+05:30",
-    "endDate": "2026-05-09T13:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Caf\u00e9, Shop-22, Eos Dawn, block R2, M3M Urbana Premium, Ramgarh, Sector 67, Gurugram, Haryana 122101, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.39063380000000000000",
-        "longitude": "77.06689039999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "661.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/the-drafting-table",
-    "keywords": [
-      "Workshop",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Overthinkers Anonymous",
-    "description": "OverviewEver wondered why you default to people pleasing, perfectionism, or avoidance? Overthinkers Anonymous is a small and guided space to slow down, reflect, and talk honestly about the things that occupy our minds. This session focuses on Family Patterns and how the environments we grew up in still shape how we think, feel, and respond today.We focus on connecting the dots between past experiences and present reactions in a safe and judgment free environment. The goal is to build awareness and self compassion rather than focusing on blame.What is Stories of Hope?We are a community-led initiative dedicated to creating safe, mindful spaces. Through workshops and gatherings, we help individuals navigate life\u2019s complexities, from mental well-being to personal growth, with empathy and shared human connection.What to expectPattern Recognition: Explore why tendencies like overthinking or control keep showing up in your life.Guided Reflection: Use a specialized worksheet to gain context on your reactions without the weight of self-judgment.Awareness & Compassion: A gentle space to build self-awareness and understanding\u2014focused on insight, not on reliving trauma.Details\ud83d\uddd3\ufe0f Date: 12th April (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Thamel, Golf Course Ext Road\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes Coffee + Snacks)",
-    "startDate": "2026-05-17T11:30:00+05:30",
-    "endDate": "2026-05-17T13:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Shop No. 139, The shopping mall, Arjun Marg, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46589090000000000000",
-        "longitude": "77.09964640000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "661.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/overthinkers-anonymous",
-    "keywords": [
-      "Wellness",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Procrastireaders",
-    "description": "OverviewStep out of your literary comfort zone and into a world of mystery. Our \"Blind Date with a Book\" session is designed to strip away the influence of flashy covers and famous names. It lets you connect with a story based purely on its essence. This is a low stakes and high reward way to discover your next favorite read while sharing a brew with fellow book lovers.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to ExpectThe Concept: Browse a curated selection of books from the SOH library wrapped in brown paper. You will not see titles or authors. Only a few plot keywords or a \"vibe\" will guide your choice.The Surprise: Follow your intuition. Pick the one that intrigues you most based solely on the cryptic clues written on the front.First Impressions: We will spend the first part of the session \"meeting\" our books, unmasking the titles, and seeing if you have found a literary match.Low Stakes: This is a fun and pressure free way to break out of your usual genre. You might try something you would never have picked up otherwise.Details\ud83d\uddd3\ufe0f Date: 16th May (Saturday)\u23f0 Time: 5:30 PM\ud83d\udccd Location: Thamel, DLF Phase 1\u2615 Inclusion: Coffee included\ud83c\udf9f\ufe0f Fee: \u20b9700",
-    "startDate": "2026-05-16T17:30:00+05:30",
-    "endDate": "2026-05-16T19:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Shop No. 139, The shopping mall, Arjun Marg, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46589090000000000000",
-        "longitude": "77.09964640000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "661.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/the-procrastireaders",
-    "keywords": [
-      "Leisure",
-      "Pop-up Event",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Before You Blame",
-    "description": "Before You Blame: A Workshop on Navigating Relationships with ClarityOverviewMost relationship conflicts are not just about what happened; they are about how we interpret what happened. This session focuses on exploring how our thoughts shape our connections and why friction often feels more intense than the situation warrants. \"Before You Blame\" is a reflective workshop designed to help you look at your assumptions and inner patterns, moving you from reactivity toward steadiness and emotional responsibility.What is Stories of Hope?We are a community-led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities, from mental well-being to personal growth, with empathy and shared human connection.What to ExpectPattern Recognition: Explore how common emotional triggers and ego-driven patterns shape conflicts in marriage, family, or work.Internal Focus: Instead of trying to fix others, we gently shift the focus inward to understand our own interpretations and responses.Practical Tools: Learn actionable ways to question stressful thoughts and practice perspective shifts using real-life scenarios.Safe Exploration: A supportive, non-judgmental environment for honest discussion. This is a space for learning and reflection, not a lecture or therapy.Key TakeawaysClarity: Gain a deeper understanding of recurring relationship dynamics.Responsiveness: Walk away with tools to help you respond thoughtfully instead of reacting impulsively.Emotional Ownership: Build the internal steadiness needed to navigate life without requiring others to change first.Details\ud83d\uddd3\ufe0f Date: 16th May (Sunday)\u23f0 Time: 11:00 AM\ud83d\udccd Location: Kanchanjunga Towers, Sector 56\ud83c\udf9f\ufe0f Fee: \u20b9900 (Introductory offer: \u20b9200 off original price of \u20b91100)",
-    "startDate": "2026-05-16T11:00:00+05:30",
-    "endDate": "2026-05-16T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "A-BLOCK, KANCHANJUNGA APARTMENT, G.H.18, near Post Office, Sector 56, Gurugram, Haryana 122011, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.42299410000000000000",
-        "longitude": "77.10300720000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "900.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/before-you-blame",
-    "keywords": [
-      "Wellness",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "ALT EFF Film Club x GuruJal Gurugram | 15th May",
-    "description": "Join us for a punchy lineup of 4 short films (2 Indian and 2 international), each bringing its own flavour of environmental storytelling.And then\u2026 stay for ALT EFF Voices, our signature open mic where audience members share short, personal, environment-related stories. No practice needed. Just pick a prompt from a hat and dive in.\u00a0SHORT FILM PROGRAMME:A brilliant selection of cinematic, poetic, diverse pieces of environmental storytelling that are short enough to get you hooked and never long enough to bore!Some Thoughts on the Common ToadThe FeastThe Butterfly ManThe Floating worldTo become a Film Club Member, continue with the regular booking process. The membership option will appear after you select the venue and date.All activities, including discussions and refreshments, will occur between 7:00 and 9:00 PM.What's Included?Exclusive screenings of the world's best environmental cinemaAccess to a community of environmentally inclined, film-loving peopleA chance to express yourself at ALT EFF Voices Post-film discussions.Student Discount50% off for students with a valid ID (& must bring ID to the screening).CODE: ALTSTUDENTABOUT ALT EFFIf you are tired of the outrage cycle, doomscrolling collapse, and the looming AI takeover narrative. If you have caught yourself going numb just to cope. We see you.All Living Things Environmental Film Festival is back with the third season of Film Club. A monthly meet up across 12 cities over 5 months, orbiting environmental cinema that cracks you open without trapping you in doom and gloom.It is a room full of people choosing to show up in cities whose infrastructure persuades you to stay home, choosing to sit together, watch together, and turn private anxiety into collective imagination. Messy. Human. Honest conversation.\u00a0With snacks. Always snacks.",
-    "startDate": "2026-05-15T19:00:00+05:30",
-    "endDate": "2026-05-15T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "6/9, F-2, Block F, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46430350000000000000",
-        "longitude": "77.09600040000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "354.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "All Living Things Environmental Film Festival",
-      "url": "https://urbanaut.app/partner/alteff-filmclub"
-    },
-    "url": "https://urbanaut.app/spot/alteff-filmclub-gurugram",
-    "keywords": [
-      "Local",
-      "Festival",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "ALT EFF Film Club x Remakery Delhi | 15th May",
-    "description": "Join us for a punchy lineup of 4 short films (2 Indian and 2 international), each bringing its own flavour of environmental storytelling.And then\u2026 stay for ALT EFF Voices, our signature open mic where audience members share short, personal, environment-related stories. No practice needed. Just pick a prompt from a hat and dive in.\u00a0SHORT FILM PROGRAMME:A brilliant selection of cinematic, poetic, diverse pieces of environmental storytelling that are short enough to get you hooked and never long enough to bore!Some Thoughts on the Common ToadThe FeastThe Butterfly ManThe Floating worldTo become a Film Club Member, continue with the regular booking process. The membership option will appear after you select the venue and date.All activities, including discussions and refreshments, will occur between 7:00 and 9:00 PM.What's Included?Exclusive screenings of the world's best environmental cinemaAccess to a community of environmentally inclined, film-loving peopleA chance to express yourself at ALT EFF Voices Post-film discussions.Student Discount50% off for students with a valid ID (& must bring ID to the screening).CODE: ALTSTUDENTABOUT ALT EFF Film ClubIf you are tired of the outrage cycle, doomscrolling collapse, and the looming AI takeover narrative. If you have caught yourself going numb just to cope. We see you.All Living Things Environmental Film Festival is back with the third season of Film Club. A monthly meet up across 12 cities over 5 months, orbiting environmental cinema that cracks you open without trapping you in doom and gloom.It is a room full of people choosing to show up in cities whose infrastructure persuades you to stay home, choosing to sit together, watch together, and turn private anxiety into collective imagination. Messy. Human. Honest conversation.\u00a0With snacks. Always snacks.",
-    "startDate": "2026-05-15T19:00:00+05:30",
-    "endDate": "2026-05-15T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "R 84, opposite Select Citywalk, Block J, Khirki Extension, Malviya Nagar, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53209050000000000000",
-        "longitude": "77.21784699999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "354.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "All Living Things Environmental Film Festival",
-      "url": "https://urbanaut.app/partner/alteff-filmclub"
-    },
-    "url": "https://urbanaut.app/spot/alteff-filmclub-delhi",
-    "keywords": [
-      "Local",
-      "Festival",
-      "Art & culture",
       "URBANAUT"
     ]
   }
