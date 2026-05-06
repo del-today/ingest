@@ -380,7 +380,7 @@
     "name": "Mother\u2019s Day Like Never Before - Gurugram",
     "description": "This Mother\u2019s Day, we\u2019re turning emotions into art, and moments into memories \ud83d\udc9bJoin us for a one-of-a-kind experience -\ud83c\udfa8 Paint Your Own Vegan Mojaris WorkshopBecause gifts are lovely\u2026 but experiences? They stay forever.\ud83d\udc9d Bring your mom for a beautiful bonding time\ud83d\udc9d Surprise her with something truly unique\ud83d\udc9d Or design a heartfelt pair just for herAnd the best part?\u2728 No rules. No restrictions. Anyone can join.(Yes, even if you\u2019ve never painted before!)Sip, paint, laugh, and create something that carries your love in every stroke \ud83e\udd42",
     "startDate": "2026-05-09T17:00:00+05:30",
-    "endDate": "2026-05-09T19:00:00+05:30",
+    "endDate": "2026-05-15T19:00:00+05:30",
     "location": {
       "@type": "Place",
       "address": "32nd Avenue, Sector 15 Part 2, Sector 15, Gurugram, Haryana 122001, India",
@@ -522,6 +522,44 @@
       "Music",
       "Premium",
       "Wellness",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Bagh-e-Jud: The Lodhi Garden Heritage Walk",
+    "description": "This Sunday, visit Lodhi Garden to explore the Delhi Sultanate's last major necropolis. We will delve into the stories of the Sayyids and Lodhis through their monuments, including the tombs of Muhammad Shah and Sikandar Lodi, as well as Bara Gumbad and Shisha Gumbad. These sites represent a pivotal period in Delhi\u2019s history, just before the Mughal influx, when architecture, dynasties, and the city itself were evolving. Covering 90 acres, Lodhi Garden today appears as a tranquil urban park, yet it conceals one of the most significant archaeological remains from the late Delhi Sultanate era. Since very little architecture from the Sayyid and Lodhi periods still exists in Delhi, this site offers a vital glimpse into that era. Join us for an early morning walk through history, architecture, and forgotten dynasties, exploring the many subtle layers of Delhi still quietly preserved within the gardens.",
+    "startDate": "2026-05-10T08:00:00+05:30",
+    "endDate": "2026-05-10T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Lodhi Rd, Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59309590000000000000",
+        "longitude": "77.21967939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "250.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sikkawala",
+      "url": "https://urbanaut.app/partner/sikkawala"
+    },
+    "url": "https://urbanaut.app/spot/bagh-e-jud-the-lodhi-garden-heritage-walk",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Art & culture",
       "URBANAUT"
     ]
   },
