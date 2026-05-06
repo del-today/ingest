@@ -69,6 +69,23 @@
   },
   {
     "@type": "ScreeningEvent",
+    "name": "The Cranes Are Flying(1957)",
+    "url": "https://fillum.in/screening/5467",
+    "startDate": "2026-05-07T18:00:00+05:30",
+    "endDate": "2026-05-07T18:00:00+05:30",
+    "description": "Free entry. Post-screening discussion.",
+    "location": {
+      "@type": "Place",
+      "name": "Press Club of India, Raisina Road",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fillum"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "When The Towel Drops Vol 1(2015)",
     "url": "https://fillum.in/screening/5388",
     "startDate": "2026-05-07T18:30:00+05:30",
@@ -82,6 +99,57 @@
     "organizer": {
       "@type": "Organization",
       "name": "FICA"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "The Divine Sarah Bernhardt(2024)",
+    "url": "https://fillum.in/screening/5466",
+    "startDate": "2026-05-07T18:30:00+05:30",
+    "endDate": "2026-05-07T18:30:00+05:30",
+    "description": "Free entry. French film with English subtitles.",
+    "location": {
+      "@type": "Place",
+      "name": "M. L. Bhartia Auditorium, Alliance Fran\u00e7aise",
+      "address": "Lodhi Road, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Alliance Fran\u00e7aise de Delhi"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Jana Aranya(1976)",
+    "url": "https://fillum.in/screening/5404",
+    "startDate": "2026-05-08T17:00:00+05:30",
+    "endDate": "2026-05-08T17:00:00+05:30",
+    "description": "The screening will be preceded by an introduction.",
+    "location": {
+      "@type": "Place",
+      "name": "Mool, South-Ex 2",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Camera Commune"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Turtle Walker(2024)",
+    "url": "https://fillum.in/screening/5377",
+    "startDate": "2026-05-08T19:00:00+05:30",
+    "endDate": "2026-05-08T19:00:00+05:30",
+    "description": "Post-screening Taira Malaney (Director/Producer) in conversation with Shaunak Sen. Executive produced by James Reed (My Octopus Teacher) and co-produced by Zoya Akhtar and Reema Kagti\u2019s Tiger Baby..more",
+    "location": {
+      "@type": "Place",
+      "name": "Stein Auditorium, India Habitat Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Tiger Baby"
     }
   }
 ]

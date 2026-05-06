@@ -715,6 +715,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Sharing Circle | May 10",
+    "description": "Join us for an intimate offline sharing circle for over-thinkers and over-functioners to slow down and explore the one question we rarely make space for- How are you actually coping?\ud83c\udf3c Explore what\u2019s been weighing on you, what\u2019s been helping you cope, and connect with people who get it.\ud83d\udcc5 Date: 10th May 2026\ud83d\udd5b Time: 12:30 PM \u2013 2:30 PM\ud83d\udccd Venue: USCO Cafe, Shahpur Jat, DelhiNeed help? DM us: @ukiyocollective_",
+    "startDate": "2026-05-10T12:30:00+05:30",
+    "endDate": "2026-05-10T14:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shop Number 4, Shahpur Jat, Siri Fort, New Delhi, Delhi 110049, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54747340000000000000",
+        "longitude": "77.21645670000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "130.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Ukiyo Collective",
+      "url": "https://urbanaut.app/partner/ukiyo"
+    },
+    "url": "https://urbanaut.app/spot/sharing-circle-may-10",
+    "keywords": [
+      "Local",
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Journey Of Hearts - Delhi Open Mic",
     "description": "Not every love story is romantic.Some are built in kitchens, in quiet sacrifices, in sleepless nights,in words never spoken but always felt.This Mother\u2019s Day, Journey of Hearts invites you to bring your truth to the stage.A poem for your mother.A letter you never sent.A story of distance, healing, or becoming.This isn\u2019t about perfection.It\u2019s about honesty.About the kind of love that shapes us\u2014even when we don\u2019t understand it.So if your heart carries something unfinished,this is your space to let it breathe.\u2728 Journey of Hearts \u2013 DelhiA Mother\u2019s Day special open mic by Likhon Dil Se.",
