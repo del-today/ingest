@@ -39,44 +39,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Caught in the Middle | Online",
-    "description": "Often called the \u201csandwich generation,\u201d this phase of life sits between responsibility and resilience.If you\u2019re in your 40s or 50s, you probably don\u2019t need an explanation, you are living it. Caring for aging parents while still showing up fully for your children. Holding space for everyone else, while trying to keep your own world from unraveling in the process.It is a lot. And it\u2019s often invisible.This is a space to pause, share, and connect with others who understand the weight of it, without needing to explain it. Come talk to people who get it.",
-    "startDate": "2026-05-07T18:30:00+05:30",
-    "endDate": "2026-05-07T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.70405920000000000000",
-        "longitude": "77.10249019999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Zuva Life",
-      "url": "https://urbanaut.app/partner/zuvalife"
-    },
-    "url": "https://urbanaut.app/spot/caughtinthemiddle",
-    "keywords": [
-      "Virtual",
-      "Wellness",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Mother's Day Bento Cake Making",
     "description": "Make something beautiful together this Mother's Day.This Mother's Day, we're inviting you and your mum to get creative at Mira's. Our Bento Cake Making Activity is a hands on decorating experience, fun, relaxed and the most delicious way to celebrate her.How it worksYour bento cake arrives pre-iced and ready to decorate. All you have to do is bring the love and we take care of the rest.What's includedEverything you need to create something truly special:Piping bags with coloured frosting, a selection of sprinkles including pearls and hearts, a small fresh flower bouquet and edible flowers to finish.The Details\ud83d\udcc5 8th May 2026, Friday to 10th May 2026, Sunday, 11 am to 8 pm",
@@ -183,6 +145,43 @@
       "Music",
       "History & heritage",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "ROFLers Night Out \u2013 Drinks & Dance @ Soi 7",
+    "description": "\ud83c\uddee\ud83c\uddf3 IiTB and Friends Party Evening in Gurgaon: Celebrating Truth, Harmony & Growth! \ud83e\udd42Let's celebrate the democratic spirit, the victory of truth, and the nation's growth following the state elections! Join this Friday to unwind, connect, and toast to a bright future.\ud83d\udccd Where: Soi 7, Cyber Hub, Gurgaon\ud83d\uddd3\ufe0f When: Friday, 8th May | 8:00 PM onwards\ud83d\ude87 Transit: Rapid Metro Cyberhub Station, paid parking available\u2728 The Vibe: No cover or group charge. Order your food and drinks individually or in small groups as you prefer! \ud83d\udca1 Tip: Book via Zomato for ~20% off.Come early to stroll the lively Cyber Hub, mingle on time, and stay to dance as the night builds up.Contact Mukul at 9667991920 to RSVP.",
+    "startDate": "2026-05-08T20:00:00+05:30",
+    "endDate": "2026-05-08T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Cyberhub 205 To 209, Cyber Hub, DLF Cyber City, DLF Phase 2, Sector 24, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.49585990000000000000",
+        "longitude": "77.08869320000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "100.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "ROFL",
+      "url": "https://urbanaut.app/partner/roflersworld"
+    },
+    "url": "https://urbanaut.app/spot/roflers-night-out-drinks-dance-soi-7",
+    "keywords": [
+      "Music",
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -357,7 +356,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "699.00",
+      "price": "499.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -924,7 +923,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "0.00",
+      "price": "333.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -1688,6 +1687,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "A Retro Mehfil : Celebrating Asha Bhosle",
+    "description": "Kathika presents an evening of timeless melodies and soulful nostalgia as we present A Retro Mehfil \u2014 a sonic tribute to the legendary Asha Bhosle, the voice that has defined generations.Set against the traditional backdrop of Haveli, the evening brings alive the charm of a bygone era , where music, elegance,and culture come together in perfect harmony. Let the warmth of an intimate mehfil setting, vintage aesthetics and soulful renditions transport you to the golden age of melodies.Experience a captivating Musical Duet by acclaimed artists, Astha Trivedi and Abaad Ahmed Khan, as they recreate the magic of timeless classics that continue to live in every heart.",
+    "startDate": "2026-05-17T17:30:00+05:30",
+    "endDate": "2026-05-17T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64610280000000000000",
+        "longitude": "77.22736410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1770.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kathika Cultural Centre and Museum",
+      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
+    },
+    "url": "https://urbanaut.app/spot/a-retro-mehfil-celebrating-asha-bhosle",
+    "keywords": [
+      "Music",
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Rethinking Work in Midlife",
     "description": "Not sure a full-time role fits anymore but not done working either?Fractional roles offer a way to stay engaged, take on meaningful responsibilities, and use your experience across organisations \u2014 without being tied to one place.What does it mean?Working differently, not less.Some people don\u2019t want to stop working.They just don\u2019t want to do it full-time in one place.A fractional role is when you take on a defined leadership or advisory responsibility within an organisation that needs your experience \u2014 but not in a full-time, single-role structure.You work across one or more organisations, contributing where it matters most.What to expectA 60-minute moderated conversation with professionals currently working as fractional CXOs.You will hear:Where they were earlier in their careersWhat led them to explore fractional rolesWhat their work looks like nowWhat has been harder than expectedWhat didn\u2019t work initiallyFollowed by an open conversation and Q&A.Who this is forExperienced professionals rethinking full-time roles and exploring more flexible, meaningful ways of working.Format60-minute online sessionModerated by Sanjay Gopinath",
     "startDate": "2026-05-21T18:30:00+05:30",
@@ -1764,7 +1801,7 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "name": "Her Interest by Zerodha - Delhi",
+    "name": "In Her Interest by Zerodha - Delhi",
     "description": "Women have a complicated relationship with money. And it starts early. Many families shield their daughters from anything related to \u2018finance\u2019, but this well-meaning protection ends up being a disservice. For when these young women step into the real world, they lack the confidence to make financial decisions -\u00a0not because they\u2019re incapable, but because they were never given information on budgeting, savings, and investments. Later in life, many continue to rely on their partners for investment decisions. This dependency on others will only stop when they have the right information and toolkit to take back control. That\u2019s where we come in.We launch 'In Her Interest' on 22nd May in Delhi and will focus on one core idea for the launch:Building financial security for women.The session will be led by two amazing experts who truly get it.Zeba Zaidi Adeeb, Co-Founder - Spectacom Global, Creator of Devils Circuit & The Yoddha RaceManisha Pande, Tax Partner, Aeka Advisors (ex - GE, AA/EY)This session is on  Finance and the Entrepreneur.Once you buy a ticket, you also get to send a question that the speakers will address during the session.Note: Each session is theme-based, this session is about 'Finance and the Entrepreneur' - we are not talking stocks and shares.",
     "startDate": "2026-05-22T16:00:00+05:30",
     "endDate": "2026-05-22T18:30:00+05:30",
