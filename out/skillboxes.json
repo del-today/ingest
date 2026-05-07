@@ -2,69 +2,88 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Experience an electrifying night with Maan Pannu live in concert. Known for his energetic beats and soulful Punjabi vibes, he promises a high-octane performance filled with hit tracks and unforgettable moments. Get ready to dance, sing, and celebr",
-      "endDate": "2026-05-09T23:59:00",
-      "identifier": "com.skillboxes.35799",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1776744886UuOuN0U3X4rh49vh.jpg.webp",
+      "description": "Mir Mukhtiyar Ali is a celebrated folk and Sufi singer fro",
+      "endDate": "2026-05-30T23:00:00",
+      "identifier": "com.skillboxes.36200",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MWI5MXFnYUFHUFg2QitOdW8yNkl6QT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1778144091IyiH1aTqlClUrH2t.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
-         "Club Gigs - Music"
+         "Music Concerts"
       ],
       "location": {
          "@type": "Place",
-         "address": "A-1, D Rajgopala, nagar, Sanjay Nagar Main Rd, AECS Layout, KEB Layout, Sanjayanagara, Bengaluru, Karnataka 560094, India",
+         "address": "6th Floor, Craftworks, 331, 5B Rd, Shivaji Nagar, EPIP Zone, Whitefield, Bengaluru, Karnataka 560066, India",
          "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "13.0314698",
-            "longitude": "77.5771977"
+            "latitude": "12.9825325",
+            "longitude": "77.7217732"
          },
-         "name": "ZOZO THE CLUB"
+         "name": "Windmills Craftworks [Whitefield]"
       },
-      "name": "Maan Panu Live at Bangalore",
+      "name": "Mir Mukhtiyar Ali",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Additional mandatory cover charges applicable at gates.\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Female",
-            "url": "https://www.skillboxes.com/events/ticket/maan-panu-live-at-bangalore"
+            "description": "No food and beverages are included in the ticket price.\nStanding Tickets (Standing space at the bar)",
+            "inventoryLevel": 20,
+            "name": "Standing Tickets",
+            "url": "https://www.skillboxes.com/events/ticket/mir-mukhtiyar-ali-1"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "18+ Allowed in this zone.\nAdditional mandatory cover charges applicable at gates.",
-            "inventoryLevel": 1000,
-            "name": "Student Pass",
-            "url": "https://www.skillboxes.com/events/ticket/maan-panu-live-at-bangalore"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional mandatory cover charges applicable at gates.\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Male",
-            "url": "https://www.skillboxes.com/events/ticket/maan-panu-live-at-bangalore"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional mandatory cover charges applicable at gates.\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Couple",
-            "url": "https://www.skillboxes.com/events/ticket/maan-panu-live-at-bangalore"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional mandatory cover charges applicable at gates.\n",
-            "inventoryLevel": 100,
-            "name": "Meet and Greet",
-            "url": "https://www.skillboxes.com/events/ticket/maan-panu-live-at-bangalore"
+            "description": "No food and beverages are included in the ticket price.\n",
+            "inventoryLevel": 20,
+            "name": "Seating Tickets",
+            "url": "https://www.skillboxes.com/events/ticket/mir-mukhtiyar-ali-1"
          }
       ],
-      "startDate": "2026-05-09T20:00:00",
-      "url": "https://www.skillboxes.com/events/maan-panu-live-at-bangalore"
+      "startDate": "2026-05-30T21:30:00",
+      "url": "https://www.skillboxes.com/events/mir-mukhtiyar-ali-1"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Mir Mukhtiyar Ali is a celebrated folk and Sufi singer from Pu",
+      "endDate": "2026-05-29T23:00:00",
+      "identifier": "com.skillboxes.36199",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MWI5MXFnYUFHUFg2QitOdW8yNkl6QT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1778143805i5kPCagFsZNZtcXs.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Concerts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "6th Floor, Craftworks, 331, 5B Rd, Shivaji Nagar, EPIP Zone, Whitefield, Bengaluru, Karnataka 560066, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9825325",
+            "longitude": "77.7217732"
+         },
+         "name": "Windmills Craftworks [Whitefield]"
+      },
+      "name": "Mir Mukhtiyar Ali",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "No food and beverages are included in the ticket price.\nStanding Tickets (Standing space at the bar)",
+            "inventoryLevel": 20,
+            "name": "Standing Tickets",
+            "url": "https://www.skillboxes.com/events/ticket/mir-mukhtiyar-ali"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "No food and beverages are included in the ticket price.\n",
+            "inventoryLevel": 20,
+            "name": "Seating Tickets",
+            "url": "https://www.skillboxes.com/events/ticket/mir-mukhtiyar-ali"
+         }
+      ],
+      "startDate": "2026-05-29T21:30:00",
+      "url": "https://www.skillboxes.com/events/mir-mukhtiyar-ali"
    },
    {
       "@context": "https://schema.org",
@@ -242,7 +261,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Our sexy boss freak @rishisippy enters the next year of his fabulous existence and he wants to kick it off with you 🫵🏼Surrounded by some of his nearest and dearest on stage - Oink, Master Shifu,  Ma",
+      "description": "Our sexy boss freak @rishisippy enters the next year of his fabulous existence and he wants to kick it off with you 🫵🏼\r\n\r\n \r\n\r\nSurrounded by some of his nearest and dearest on stage - Oink, Master Shifu,  Majestic 88,",
       "endDate": "2026-05-17T01:00:00",
       "identifier": "com.skillboxes.36163",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/UngvQ1h4SjNEVC8rRk90dnkyc3FJZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1778052338F43y4lGtJIpREnsh.jpg.webp",
@@ -595,7 +614,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 140,
+            "inventoryLevel": 129,
             "name": "Entry Pass",
             "url": "https://www.skillboxes.com/events/ticket/vividha-harmony-for-hope-the-ananya-series"
          }
@@ -629,25 +648,65 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "(Allows entry to one female) Extra cover charge inr 1000/- applicable post 9:30pm walk-in at the venue.\n",
+            "description": "(Allows entry to one female.) Extra cover of inr 1000/- applicable post  9:30pm walk-in.\n",
             "inventoryLevel": 100,
-            "name": "EARLY BIRD FEMALE",
+            "name": "PHASE 1 FEMALE",
             "url": "https://www.skillboxes.com/events/ticket/redroom-ft-alesya-more"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "(Allows entry to 1 male )  Extra cover charge inr 1000/- applicable post 9:30pm walk-in at the venue.\n",
+            "description": "(Allows entry to one male.) Extra cover of inr 1000/- applicable post 9:30pm walk-in.\n",
             "inventoryLevel": 100,
-            "name": "EARLY BIRD MALE",
+            "name": "PHASE 1 MALE",
             "url": "https://www.skillboxes.com/events/ticket/redroom-ft-alesya-more"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Allows entry to 1 couple. Extra cover charge inr 1000/- per person applicable post 9:30pm walk-in at the venue.\n",
+            "description": "(Allows entry to one couple.) Extra cover of inr 1000/- per person applicable post 9:30 pm walk-in.\n",
             "inventoryLevel": 100,
-            "name": "EARLY BIRD COUPLE",
+            "name": "PHASE 1 COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-alesya-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to three female.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 3 FEMALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-alesya-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to two couple.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 2 COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-alesya-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to three couple.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 3 COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-alesya-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to three male.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 3 MALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-alesya-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to 5 male.) Extra cover of inr 1000/- per person  applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 5 MALE",
             "url": "https://www.skillboxes.com/events/ticket/redroom-ft-alesya-more"
          }
       ],
@@ -804,7 +863,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges of INR 500 applicable at the doors\n",
-            "inventoryLevel": 495,
+            "inventoryLevel": 494,
             "name": "Entry",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-perfect-strangers-and-sneaker-pipes"
          }
@@ -1082,7 +1141,7 @@
       "description": "PARICHAY by Karan Verma is the official India tour in support of his debut album Parichay—an evocative live experience that brings together rock and indie fusion into a sound that’s both intimate and expansive.\r\n\r\n \r\n\r\n",
       "endDate": "2026-05-23T23:59:00",
       "identifier": "com.skillboxes.35907",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1777197805ZxywQVSsw6MRv61c.png.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1778087911siVwSTmI75Z5Aj7d.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Music Concerts"
@@ -1103,7 +1162,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory Cover charges 500 till 8pm and 1000 after 8pm\n",
-            "inventoryLevel": 1,
+            "inventoryLevel": 190,
             "name": "Early Bird Pass",
             "url": "https://www.skillboxes.com/events/ticket/parichay-by-karan-verma-bangalore-1"
          }
@@ -1469,7 +1528,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 235,
+            "inventoryLevel": 226,
             "name": "Apocalyptic Grid",
             "url": "https://www.skillboxes.com/events/ticket/apocalyptic-grid-2"
          }
