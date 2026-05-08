@@ -40,26 +40,6 @@
     ]
   },
   {
-    "@type": "EducationEvent",
-    "name": "Unearthing Echologies",
-    "url": "https://www.knma.org/whats-on/workshops/unearthing-echologies",
-    "startDate": "2026-05-07T10:00:00+05:30",
-    "endDate": "2026-05-09T18:00:00+05:30",
-    "description": "Methods Series",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
     "@type": "Event",
     "name": "KNMA Matinee",
     "url": "https://www.knma.org/whats-on/events/knma-matinee",
@@ -109,6 +89,26 @@
     "location": {
       "@type": "Place",
       "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "KNMA Art Battle",
+    "url": "https://www.knma.org/whats-on/events/art-battle-season-6",
+    "startDate": "2026-05-12T08:00:00+05:30",
+    "endDate": "2026-05-12T08:00:00+05:30",
+    "description": "Art Battle",
+    "location": {
+      "@type": "Place",
+      "name": "Delhi Public School, Joka, West Bengal",
       "address": "New Delhi"
     },
     "organizer": {
@@ -186,6 +186,66 @@
     "startDate": "2026-05-19T10:00:00+05:30",
     "endDate": "2026-05-23T18:00:00+05:30",
     "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Material Practices",
+    "url": "https://www.knma.org/whats-on/talks/material-practices",
+    "startDate": "2026-05-23T10:00:00+05:30",
+    "endDate": "2026-05-23T10:00:00+05:30",
+    "description": "WeekendsatKNMA",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Jukebox",
+    "url": "https://www.knma.org/whats-on/events/jukebox",
+    "startDate": "2026-05-23T10:00:00+05:30",
+    "endDate": "2026-05-23T10:00:00+05:30",
+    "description": "WeekendsatKNMA",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Traces And Texture",
+    "url": "https://www.knma.org/whats-on/workshops/traces-and-texture",
+    "startDate": "2026-05-23T10:00:00+05:30",
+    "endDate": "2026-05-23T10:00:00+05:30",
+    "description": "Saturday Family Workshop",
     "location": {
       "@type": "Place",
       "name": "KNMA, New Delhi",

@@ -1836,6 +1836,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Regular Dance Batch - Artistic Movement",
+    "description": "This is a space to tap into the movement language of your body and find the freedom to express, explore and discover together. ",
+    "startDate": "2026-05-22T17:00:00+05:30",
+    "endDate": "2026-05-29T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "B-17, Basement, South Extension II, Block B, New Delhi, Delhi 110049, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.56514880000000000000",
+        "longitude": "77.21944630000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3250.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Artistic Movement",
+      "url": "https://urbanaut.app/partner/artistic-movement"
+    },
+    "url": "https://urbanaut.app/spot/regular-dance-batch-artistic-movement",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Open SketchBook",
     "description": "Open SketchBook: You don\u2019t need to leave the city to feel grounded.OverviewOur core belief is that you do not need to leave the city to feel grounded. In a world where everyone is distracted, we pause as a group to give our attention to one shared thing. Sketching becomes the medium to notice small, living details in urban spaces that we usually rush through.You do not need to be an artist to enjoy sketching. Open SketchBook is a session for anyone who wants to explore drawing as a way to relax and observe the world. It is about the process of putting pencil to paper rather than the final masterpiece.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to expectGuided Observation: Learn simple ways to look at objects or spaces and translate them into lines and shapes.Creative Freedom: A judgment free zone where you can experiment with sketching without worrying about \"doing it right.\"Tactile Experience: Use your new diary and pencil kit to capture what you see in the moment.Relaxed Environment: Enjoy a late afternoon at Greenr with a small group of people who just want to create and connect.Details\ud83d\uddd3\ufe0f Date: 19th April (Sunday)\u23f0 Time: 5:00 PM\ud83d\udccd Location: Greenr, Golf Course Ext Road\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes an A6 diary and pencil kit)",
@@ -2050,6 +2088,44 @@
       "Leisure",
       "Pop-up Event",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Fresh Pasta Workshop",
+    "description": "Join Anita in her rooftop kitchen-studio to make fresh pasta (eggless!!) from scratch and never buy pasta again.Italy does not have a monopoly on pasta - we have our own shapes! We'll learn how to make flat pasta as well as hand-formed shapes like Cavatelli and Farfalle (Italy), Shunali (Spiti), Sundarkala (Uttarakhand), and Skyu (from Ladakh), using basic pasta dough (including whole wheat). We will discuss different flour blends and understand how they influence methods and techniques for rolling and shaping pasta. While a rolling pin is all we need, we will also try our hands at using a pasta machine.At the end of the workshop we will gather some herbs from the garden, cook up what we've created, and sit down to enjoy the meal, and share food stories around the table.It's a hands-on workshop; dress comfortably.250+ workshops and counting! Anita is a practicing Landscape Architect who enjoys cooking with seasonal ingredients. Her Home and Garden, exemplifying sustainable living, have featured in leading media (HT, The Better India, etc). Her recipes have been published in leading journals and cookbooks. Like-minded people join her in the kitchen on weekends to cook and eat. She has been baking sourdough breads at home for over 15 years using local flours and her lively wild yeast starter. Come for Pasta, stay for the Bread.",
+    "startDate": "2026-05-30T16:00:00+05:30",
+    "endDate": "2026-05-30T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "A99, Block A, Swasthya Vihar, New Delhi, Delhi, 110092, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.63999000000000000000",
+        "longitude": "77.29142000000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "4200.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "A Mad Tea Party",
+      "url": "https://urbanaut.app/partner/a-mad-tea-party"
+    },
+    "url": "https://urbanaut.app/spot/fresh-pasta-workshop",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Food & drink",
       "URBANAUT"
     ]
   },
