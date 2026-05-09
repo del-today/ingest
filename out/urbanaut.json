@@ -149,120 +149,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "SWAG SPORTS PARTY @ Punjabi Bagh",
-    "description": "This is the first SWAG Sports Party in Punjabi Bagh!Expect 2 hours of pickleball, badminton, gully games all topped with some turmeric lemonade by The Boring Foods, cookies by Premio Tempt and loads of fun!We also have added goodies for you if you are a Mom or come with your Mom!Are boys allowed? Only this one time, only if they come with their moms!SWAG is Delhi NCR's largest women-only fitness community that holds sports meetups and events every weekend.Can't wait to see you there!",
-    "startDate": "2026-05-09T17:00:00+05:30",
-    "endDate": "2026-05-09T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Sm Arya Public School, West Punjabi Bagh, Punjabi Bagh, New Delhi, Delhi, 110026, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.67176560000000000000",
-        "longitude": "77.13390670000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag-punjabi-bagh",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Playdate with Mom | Punjabi Bagh",
-    "description": "A Mother\u2019s Day experience, that turns back the clock. At PLAYDATE WITH MOM let's take our mums back to their school days, celebrate them, and see them let loose. A two hour experience, packed with badminton, pickleball, gully games, fun and nostalgia. There are challanges to be won, moments to make you giggle and memories waiting to be made. You can bring your biological mom or anyone who is like your mom. Be it your maasi, daadi, mother-in-law, bua, that older sister, chachi, badi maa. All those motherly figures you want to thank and have fun with on Mother\u2019s Day! And guess what? Boys are allowed too, but only with your mom :)If your mom is in the town with you, this is the best Mother's Day gift.If you are a mom, this is the me time you need.If your mom is not around, you should still celebrate the day with SWAG and other amazing moms...Can't wait to see you there!",
-    "startDate": "2026-05-09T17:00:00+05:30",
-    "endDate": "2026-05-09T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Sm Arya Public School, West Punjabi Bagh, Punjabi Bagh, New Delhi, Delhi, 110026, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.67176560000000000000",
-        "longitude": "77.13390670000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/playdate-with-mom-punjabi-bagh",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Delhi School of Ideas 2.0- Gully Labs x unLecture",
-    "description": "Delhi School of Ideas isn\u2019t about finished work. It\u2019s about the half-baked, the bizarre, the \u201cwhy does this even exist?\u201d kind of thinking.The first edition was a house full of conversations varying between public urination to biking as ADHD therapy. A curated space where instead of polished presentations, you get a series of strange, obsessive deep dives into ideas, inventions, and research that feel unnecessary\u2026 until they aren\u2019t.No panels. No moderation. No clean takeaways. Just people presenting things they probably shouldn\u2019t have spent this much time thinking about. The room is designed to feel slightly unhinged \u2014 in a good way.What's included?Unlimited snacks are on the house by BRBUnlimited beer is on the house by ProostSo you can sit, question, interrupt, disagree \u2014 or just exist in the chaos.Baithak, Gully Labs Store, Panchsheel Park9th May, 5pm onwards.",
-    "startDate": "2026-05-09T17:00:00+05:30",
-    "endDate": "2026-05-09T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54778550000000000000",
-        "longitude": "77.21136729999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1414.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Gully Labs",
-      "url": "https://urbanaut.app/partner/baithak"
-    },
-    "url": "https://urbanaut.app/spot/delhi-school-of-ideas-20-gully-labs-x-unlecture",
-    "keywords": [
-      "Workshop",
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Mother\u2019s Day Like Never Before - Gurugram",
     "description": "This Mother\u2019s Day, we\u2019re turning emotions into art, and moments into memories \ud83d\udc9bJoin us for a one-of-a-kind experience -\ud83c\udfa8 Paint Your Own Vegan Mojaris WorkshopBecause gifts are lovely\u2026 but experiences? They stay forever.\ud83d\udc9d Bring your mom for a beautiful bonding time\ud83d\udc9d Surprise her with something truly unique\ud83d\udc9d Or design a heartfelt pair just for herAnd the best part?\u2728 No rules. No restrictions. Anyone can join.(Yes, even if you\u2019ve never painted before!)Sip, paint, laugh, and create something that carries your love in every stroke \ud83e\udd42",
@@ -561,6 +447,44 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Kathika Cultural Experience",
+    "description": "This Mother's Day, join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
+    "startDate": "2026-05-10T11:00:00+05:30",
+    "endDate": "2026-05-10T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64610280000000000000",
+        "longitude": "77.22736410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kathika Cultural Centre and Museum",
+      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
+    },
+    "url": "https://urbanaut.app/spot/kathika-cultural-experience",
+    "keywords": [
+      "Leisure",
+      "History & heritage",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -2049,6 +1973,44 @@
     "keywords": [
       "Live GIG",
       "Local",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Delhi School of Ideas 2.0- Gully Labs x unLecture",
+    "description": "Delhi School of Ideas isn\u2019t about finished work. It\u2019s about the half-baked, the bizarre, the \u201cwhy does this even exist?\u201d kind of thinking.The first edition was a house full of conversations varying between public urination to biking as ADHD therapy. A curated space where instead of polished presentations, you get a series of strange, obsessive deep dives into ideas, inventions, and research that feel unnecessary\u2026 until they aren\u2019t.No panels. No moderation. No clean takeaways. Just people presenting things they probably shouldn\u2019t have spent this much time thinking about. The room is designed to feel slightly unhinged \u2014 in a good way.What's included?Unlimited snacks are on the house by BRBUnlimited beer is on the house by ProostSo you can sit, question, interrupt, disagree \u2014 or just exist in the chaos.Baithak, Gully Labs Store, Panchsheel Park9th May, 5pm onwards.",
+    "startDate": "2026-05-09T19:00:00+05:30",
+    "endDate": "2026-05-09T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1414.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
+    },
+    "url": "https://urbanaut.app/spot/delhi-school-of-ideas-20-gully-labs-x-unlecture",
+    "keywords": [
+      "Workshop",
+      "History & heritage",
+      "Art & culture",
       "URBANAUT"
     ]
   }
