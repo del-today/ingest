@@ -1,23 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "The Host(2006)",
-    "url": "https://fillum.in/screening/5396",
-    "startDate": "2026-05-09T12:00:00+05:30",
-    "endDate": "2026-05-09T12:00:00+05:30",
-    "description": "",
-    "location": {
-      "@type": "Place",
-      "name": "Niv Art Centre, Saket",
-      "address": "Sainik Farm, New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Delhi Screen Society"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "I Saw the Devil(2010)",
     "url": "https://fillum.in/screening/5397",
     "startDate": "2026-05-09T14:30:00+05:30",
