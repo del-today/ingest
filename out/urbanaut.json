@@ -1,229 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Sodhilecious Factory Visit",
-    "description": "Sodhilecious began as a simple intention\u2014feeding our own families and children food made with honesty.This base kitchen visit is an open invitation to experience that same honesty firsthand. Step inside and see exactly how your cookies and breads are made\u2014from sourcing to preparation to packaging. Nothing is hidden.You\u2019ll walk through our processes, understand our standards, and meet the people behind every product.No shortcuts. No compromises. Just clean, consistent, transparent baking.Because loyalty isn\u2019t built through marketing\u2014it\u2019s built when you truly know what goes into what you eat.Come see it for yourself.",
-    "startDate": "2026-05-09T10:30:00+05:30",
-    "endDate": "2026-05-10T12:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "C277+MWG, Begumpur Khatola, Sector 74, Gurugram, Haryana 122101, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.41419400000000000000",
-        "longitude": "77.01483259999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "118.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sodhilecious",
-      "url": "https://urbanaut.app/partner/sodhilecious"
-    },
-    "url": "https://urbanaut.app/spot/sodhilecious-factory-visit",
-    "keywords": [
-      "Food & drink",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Mother's Day Bento Cake Making",
-    "description": "Make something beautiful together this Mother's Day.This Mother's Day, we're inviting you and your mum to get creative at Mira's. Our Bento Cake Making Activity is a hands on decorating experience, fun, relaxed and the most delicious way to celebrate her.How it worksYour bento cake arrives pre-iced and ready to decorate. All you have to do is bring the love and we take care of the rest.What's includedEverything you need to create something truly special:Piping bags with coloured frosting, a selection of sprinkles including pearls and hearts, a small fresh flower bouquet and edible flowers to finish.The Details\ud83d\udcc5 8th May 2026, Friday to 10th May 2026, Sunday, 11 am to 8 pm",
-    "startDate": "2026-05-09T11:00:00+05:30",
-    "endDate": "2026-05-10T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "D-2, Block D, Defence Colony, New Delhi, Delhi 110024, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.57773290000000000000",
-        "longitude": "77.23826000000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "1153.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Mira's",
-      "url": "https://urbanaut.app/partner/mirasevents"
-    },
-    "url": "https://urbanaut.app/spot/mothers-day-bento-cake-making",
-    "keywords": [
-      "Leisure",
-      "Premium",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Support Club",
-    "description": "The Support ClubA No Taboo x Scoop Studio experienceWhat if the problem isn\u2019t your body\u2026 but the bra you\u2019ve been told fits it?Welcome to The Support Club! An intimate, small-group experience where we unpack everything you thought you knew about bras, sizing, and support\u2026 and replace it with something that actually works for your body.Co-hosted by Neelakshi (@plumptopretty and No Taboo Experiences) and Rhea (Bra Fitter and Founder of @shop_scoop_studio), this 90-minute session blends honest conversations, interactive exercises, and a personalized fitting to help you finally understand what real support feels like.Expect:A safe, judgment-free space to talk about bodies, bras, and everything in betweenA guided \u201cbra reality check\u201d to understand what\u2019s actually going on with your current fitSimple, practical tools to decode sizing, support, and comfortA 1:1 personalized fitting by RheaAMA with Neelakshi (confidence to lingerie tips and tricks)A chance to try and shop a curated edit of fuller-bust friendly brasSo, whether you\u2019ve always struggled with fit, constantly adjust your straps, or know something isn\u2019t quite right: this is for you. You don\u2019t leave with just a bra.You leave knowing your body.A quick note on sizingMost people who come to Scoop Studio are wearing the wrong size for their bodies.We\u2019ve seen 36DD become 32G, 38E become 36H, and 34DD become 28H. So many people go from constantly adjusting to finally feeling supported for the first time.This session is designed to help you understand your body and find what truly works for you, not just what you\u2019ve been told your size is.Available sizes: 28-44 Bands | DD-K Cups",
-    "startDate": "2026-05-09T11:00:00+05:30",
-    "endDate": "2026-05-10T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "9, Southern Ave, Block J, Maharani Bagh, New Friends Colony, New Delhi, Delhi 110065, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.56942360000000000000",
-        "longitude": "77.26412599999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "No Taboo Experience",
-      "url": "https://urbanaut.app/partner/no-taboo-experience"
-    },
-    "url": "https://urbanaut.app/spot/the-support-club-12703",
-    "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Play to Performance: Improv 14 Hour Workshop",
-    "description": "Step into a space where spontaneity meets performance.Improv Level One \u2013 From Play to Performance is a 14-hour immersive improv theatre workshop at The Immersion Room, Gurgaon, designed for adults who want to explore creativity, confidence, and live expression.Through a series of interactive theatre games, scene work, and character exploration, participants develop:Spontaneity & quick thinkingPresence & active listeningConfidence in expressionCollaboration & trustStorytelling through performanceThis workshop focuses on learning by doing\u2014breaking inhibitions, embracing uncertainty, and discovering the joy of being fully present.Multi-day Weekend Workshop SeriesMay 3, 2026 | 11:00 AM \u2013 1:00 PMMay 10, 2026 | 11:00 AM \u2013 1:00 PMMay 17, 2026 | 11:00 AM \u2013 1:00 PMMay 24, 2026 | 12:00 PM \u2013 2:00 PMMay 31, 2026 | 11:00 AM \u2013 1:00 PMJune 7, 2026 | 11:00 AM \u2013 1:00 PMJune 14, 2026 | 11:00 AM \u2013 1:00 PMTotal Duration: 14 HoursFormat: In-person | Adults OnlyFinal Showcase:The experience culminates in a live improv performance at The Immersion Room, where participants step onto the stage and perform in front of an audience.",
-    "startDate": "2026-05-09T11:00:00+05:30",
-    "endDate": "2026-06-14T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "E5, Market Rd, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46575680000000000000",
-        "longitude": "77.09909929999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "12000.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Immersion Room",
-      "url": "https://urbanaut.app/partner/theimmersionroom"
-    },
-    "url": "https://urbanaut.app/spot/improv-comedy-anshu-daga-intensive-workshop-tir-gurugram",
-    "keywords": [
-      "Live GIG",
-      "Workshop",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Mother\u2019s Day Like Never Before - Gurugram",
-    "description": "This Mother\u2019s Day, we\u2019re turning emotions into art, and moments into memories \ud83d\udc9bJoin us for a one-of-a-kind experience -\ud83c\udfa8 Paint Your Own Vegan Mojaris WorkshopBecause gifts are lovely\u2026 but experiences? They stay forever.\ud83d\udc9d Bring your mom for a beautiful bonding time\ud83d\udc9d Surprise her with something truly unique\ud83d\udc9d Or design a heartfelt pair just for herAnd the best part?\u2728 No rules. No restrictions. Anyone can join.(Yes, even if you\u2019ve never painted before!)Sip, paint, laugh, and create something that carries your love in every stroke \ud83e\udd42",
-    "startDate": "2026-05-09T17:00:00+05:30",
-    "endDate": "2026-05-15T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "32nd Avenue, Sector 15 Part 2, Sector 15, Gurugram, Haryana 122001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46145860000000000000",
-        "longitude": "77.04990289999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1800.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Greenr",
-      "url": "https://urbanaut.app/partner/greenr"
-    },
-    "url": "https://urbanaut.app/spot/mothers-day-like-never-before-gurugram",
-    "keywords": [
-      "Workshop",
-      "Pop-up Event",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Delhi's First Aqua Rave Experience",
-    "description": "AQUA Rave \u2014 DROWN THE HEATDelhi's Coolest Summer Party is HEREDelhi summers hit different \u2014 and this time, we're hitting back. Daud-e-Dilli brings you Aqua Rave, the most refreshing, high-energy event of the season. Dance in the water, vibe to live DJ beats, and make memories that last longer than the tan lines.No experience. No excuses. Just good music, cool water, and even cooler people.WHAT'S INCLUDED IN YOUR TICKET Full 2-Hour Pool AccessEnjoy an uninterrupted 2-hour session at the Kendriya Vidyalaya AGCR Enclave pool\u2014 a clean, spacious venue right in the heart of East Delhi. Jump in, let loose, and make the most of every minute. Live DJ PerformanceNo playlist on shuffle here. A live DJ will be spinning high-energy beats throughout the entire session \u2014 keeping your energy up and the vibes absolutely immaculate from start to finish. Certified Zumba Instructor \u2014 Led SessionOur certified Zumba instructor will guide the entire session, so whether you're a first-timer or a regular dancer, you'll fit right in. All moves are fun, easy to follow, and designed to keep you moving non-stop.Refreshments + Hydration IncludedStay fuelled and refreshed \u2014 snacks and water are included with your ticket. Because the only thing better than dancing in a pool is dancing in a pool with a snack in hand after.Professional Reels & PhotosOur professional cameraman will be capturing the best moments of the day. Expect high-quality reels and photos shared with all participants after the event \u2014 your Instagram is about to eat well.VENUEKendriya Vidyalaya AGCR Enclave, East Delhi DURATION2 Hours of non-stop aqua madnessWHAT TO BRINGSwimwear, a change of clothes, sunscreen, and your best energyThis isn't just a workout. It's a vibe.Whether you're coming solo, with friends, or dragging your entire squad \u2014 Aqua Rave is the summer plan you didn't know you needed.Spots are limited. Don't miss out. For more details:- https://www.daudedilli.com/",
-    "startDate": "2026-05-10T07:00:00+05:30",
-    "endDate": "2026-05-10T09:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "7,Near Garg Hospital NA, Mangalam Marg,A.G.C.R, Colony, Karkardooma, Anand Vihar, New Delhi, Delhi, 110092, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.65141630000000000000",
-        "longitude": "77.29529620000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "899.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Daud-e-Dilli",
-      "url": "https://urbanaut.app/partner/daud-e-dilli"
-    },
-    "url": "https://urbanaut.app/spot/delhis-biggest-aqua-rave",
-    "keywords": [
-      "Music",
-      "Premium",
-      "Wellness",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Playdate with Mom | Gurugram",
     "description": "A Mother\u2019s Day experience, that turns back the clock. At PLAYDATE WITH MOM let's take our mums back to their school days, celebrate them, and see them let loose. A two hour experience, packed with badminton, pickleball, gully games, fun and nostalgia. There are challanges to be won, moments to make you giggle and memories waiting to be made. You can bring your biological mom or anyone who is like your mom. Be it your maasi, daadi, mother-in-law, bua, that older sister, chachi, badi maa. All those motherly figures you want to thank and have fun with on Mother\u2019s Day! And guess what? Boys are allowed too, but only with your mom :)If your mom is in the town with you, this is the best Mother's Day gift.If you are a mom, this is the me time you need.If your mom is not around, you should still celebrate the day with SWAG and other amazing moms...Can't wait to see you there!",
@@ -376,6 +153,43 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Sodhilecious Factory Visit",
+    "description": "Sodhilecious began as a simple intention\u2014feeding our own families and children food made with honesty.This base kitchen visit is an open invitation to experience that same honesty firsthand. Step inside and see exactly how your cookies and breads are made\u2014from sourcing to preparation to packaging. Nothing is hidden.You\u2019ll walk through our processes, understand our standards, and meet the people behind every product.No shortcuts. No compromises. Just clean, consistent, transparent baking.Because loyalty isn\u2019t built through marketing\u2014it\u2019s built when you truly know what goes into what you eat.Come see it for yourself.",
+    "startDate": "2026-05-10T10:30:00+05:30",
+    "endDate": "2026-05-10T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "C277+MWG, Begumpur Khatola, Sector 74, Gurugram, Haryana 122101, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41419400000000000000",
+        "longitude": "77.01483259999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "118.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sodhilecious",
+      "url": "https://urbanaut.app/partner/sodhilecious"
+    },
+    "url": "https://urbanaut.app/spot/sodhilecious-factory-visit",
+    "keywords": [
+      "Food & drink",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Kathika Cultural Experience",
     "description": "This Mother's Day, join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
@@ -414,6 +228,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Mother's Day Bento Cake Making",
+    "description": "Make something beautiful together this Mother's Day.This Mother's Day, we're inviting you and your mum to get creative at Mira's. Our Bento Cake Making Activity is a hands on decorating experience, fun, relaxed and the most delicious way to celebrate her.How it worksYour bento cake arrives pre-iced and ready to decorate. All you have to do is bring the love and we take care of the rest.What's includedEverything you need to create something truly special:Piping bags with coloured frosting, a selection of sprinkles including pearls and hearts, a small fresh flower bouquet and edible flowers to finish.The Details\ud83d\udcc5 8th May 2026, Friday to 10th May 2026, Sunday, 11 am to 8 pm",
+    "startDate": "2026-05-10T11:00:00+05:30",
+    "endDate": "2026-05-10T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "D-2, Block D, Defence Colony, New Delhi, Delhi 110024, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.57773290000000000000",
+        "longitude": "77.23826000000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "1153.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mira's",
+      "url": "https://urbanaut.app/partner/mirasevents"
+    },
+    "url": "https://urbanaut.app/spot/mothers-day-bento-cake-making",
+    "keywords": [
+      "Leisure",
+      "Premium",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Creative Mic Presents Abhivyakti Open Mic Show",
     "description": "Creative Mic Presents Abhivyakti Open Mic Show at goSTOPS DelhiStep up. Speak out. Own the stage.From poetry and music to stand-up and rap \u2014 this is where raw talent meets real vibes. Whether you\u2019re performing or just soaking it in, expect energy, creativity, and a room full of expression.Win a \u20b92,100 cash prize + audience love and spotlight.Date: 10 May 2026Time: 11am onwardsVenue: goSTOPS Delhi, Near Delhi Gate Metro StationLimited slots \u2014 book your spot now.",
@@ -447,6 +299,79 @@
       "Leisure",
       "Live GIG",
       "Local",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Support Club",
+    "description": "The Support ClubA No Taboo x Scoop Studio experienceWhat if the problem isn\u2019t your body\u2026 but the bra you\u2019ve been told fits it?Welcome to The Support Club! An intimate, small-group experience where we unpack everything you thought you knew about bras, sizing, and support\u2026 and replace it with something that actually works for your body.Co-hosted by Neelakshi (@plumptopretty and No Taboo Experiences) and Rhea (Bra Fitter and Founder of @shop_scoop_studio), this 90-minute session blends honest conversations, interactive exercises, and a personalized fitting to help you finally understand what real support feels like.Expect:A safe, judgment-free space to talk about bodies, bras, and everything in betweenA guided \u201cbra reality check\u201d to understand what\u2019s actually going on with your current fitSimple, practical tools to decode sizing, support, and comfortA 1:1 personalized fitting by RheaAMA with Neelakshi (confidence to lingerie tips and tricks)A chance to try and shop a curated edit of fuller-bust friendly brasSo, whether you\u2019ve always struggled with fit, constantly adjust your straps, or know something isn\u2019t quite right: this is for you. You don\u2019t leave with just a bra.You leave knowing your body.A quick note on sizingMost people who come to Scoop Studio are wearing the wrong size for their bodies.We\u2019ve seen 36DD become 32G, 38E become 36H, and 34DD become 28H. So many people go from constantly adjusting to finally feeling supported for the first time.This session is designed to help you understand your body and find what truly works for you, not just what you\u2019ve been told your size is.Available sizes: 28-44 Bands | DD-K Cups",
+    "startDate": "2026-05-10T11:00:00+05:30",
+    "endDate": "2026-05-10T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "9, Southern Ave, Block J, Maharani Bagh, New Friends Colony, New Delhi, Delhi 110065, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.56942360000000000000",
+        "longitude": "77.26412599999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "No Taboo Experience",
+      "url": "https://urbanaut.app/partner/no-taboo-experience"
+    },
+    "url": "https://urbanaut.app/spot/the-support-club-12703",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Play to Performance: Improv 14 Hour Workshop",
+    "description": "Step into a space where spontaneity meets performance.Improv Level One \u2013 From Play to Performance is a 14-hour immersive improv theatre workshop at The Immersion Room, Gurgaon, designed for adults who want to explore creativity, confidence, and live expression.Through a series of interactive theatre games, scene work, and character exploration, participants develop:Spontaneity & quick thinkingPresence & active listeningConfidence in expressionCollaboration & trustStorytelling through performanceThis workshop focuses on learning by doing\u2014breaking inhibitions, embracing uncertainty, and discovering the joy of being fully present.Multi-day Weekend Workshop SeriesMay 3, 2026 | 11:00 AM \u2013 1:00 PMMay 10, 2026 | 11:00 AM \u2013 1:00 PMMay 17, 2026 | 11:00 AM \u2013 1:00 PMMay 24, 2026 | 12:00 PM \u2013 2:00 PMMay 31, 2026 | 11:00 AM \u2013 1:00 PMJune 7, 2026 | 11:00 AM \u2013 1:00 PMJune 14, 2026 | 11:00 AM \u2013 1:00 PMTotal Duration: 14 HoursFormat: In-person | Adults OnlyFinal Showcase:The experience culminates in a live improv performance at The Immersion Room, where participants step onto the stage and perform in front of an audience.",
+    "startDate": "2026-05-10T11:00:00+05:30",
+    "endDate": "2026-06-14T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "E5, Market Rd, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46575680000000000000",
+        "longitude": "77.09909929999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "12000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Immersion Room",
+      "url": "https://urbanaut.app/partner/theimmersionroom"
+    },
+    "url": "https://urbanaut.app/spot/improv-comedy-anshu-daga-intensive-workshop-tir-gurugram",
+    "keywords": [
+      "Live GIG",
+      "Workshop",
+      "Active",
       "URBANAUT"
     ]
   },
@@ -896,6 +821,43 @@
       "Music",
       "Premium",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Mother\u2019s Day Like Never Before - Gurugram",
+    "description": "This Mother\u2019s Day, we\u2019re turning emotions into art, and moments into memories \ud83d\udc9bJoin us for a one-of-a-kind experience -\ud83c\udfa8 Paint Your Own Vegan Mojaris WorkshopBecause gifts are lovely\u2026 but experiences? They stay forever.\ud83d\udc9d Bring your mom for a beautiful bonding time\ud83d\udc9d Surprise her with something truly unique\ud83d\udc9d Or design a heartfelt pair just for herAnd the best part?\u2728 No rules. No restrictions. Anyone can join.(Yes, even if you\u2019ve never painted before!)Sip, paint, laugh, and create something that carries your love in every stroke \ud83e\udd42",
+    "startDate": "2026-05-15T17:00:00+05:30",
+    "endDate": "2026-05-15T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "32nd Avenue, Sector 15 Part 2, Sector 15, Gurugram, Haryana 122001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46145860000000000000",
+        "longitude": "77.04990289999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Greenr",
+      "url": "https://urbanaut.app/partner/greenr"
+    },
+    "url": "https://urbanaut.app/spot/mothers-day-like-never-before-gurugram",
+    "keywords": [
+      "Workshop",
+      "Pop-up Event",
       "URBANAUT"
     ]
   },
