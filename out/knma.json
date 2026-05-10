@@ -61,26 +61,6 @@
   },
   {
     "@type": "Event",
-    "name": "Sing Out",
-    "url": "https://www.knma.org/whats-on/events/sing-out-with-mirai",
-    "startDate": "2026-05-10T10:00:00+05:30",
-    "endDate": "2026-05-10T10:00:00+05:30",
-    "description": "WeekendsatKNMA",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "Event",
     "name": "KNMA Art Battle",
     "url": "https://www.knma.org/whats-on/events/art-battle-season-6",
     "startDate": "2026-05-12T08:00:00+05:30",
