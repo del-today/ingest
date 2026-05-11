@@ -190,6 +190,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Hauz Khas Village heritage walk",
+    "description": "Step into a different side of Delhi.Not the Delhi of highways and glass buildings.But the Delhi of winding lanes, crumbling domes, hidden histories, caf\u00e9 conversations, village homes, designer studios, old ruins, and lakeside sunsets.Join us for a deeply engaging heritage walk through the fascinating urban village of Hauz Khas \u2014 a place where the 14th century and the 21st century stand face-to-face every single day.Once built around a grand medieval reservoir by Sultan Alauddin Khilji, Hauz Khas evolved into one of Delhi\u2019s most layered spaces: part medieval settlement, part village, part elite urban hub, part creative playground.As we walk through the ruins of madrasa, tombs, pavilions, and forgotten pathways overlooking the lake, we will also explore a larger and more intriguing story:What does it mean for a village to survive *inside* a mega city like Delhi?What exactly is a *Lal Dora* village?How did Hauz Khas transform from an old settlement into one of Delhi\u2019s most vibrant cultural and designer districts?And how do heritage, commerce, food culture, nightlife, memory, and urban chaos all coexist within the same space?This is not just a walk through monuments.It is a walk through layers of Delhi itself.Expect stories of sultans and students, lakes and lost empires, village life and urban transformation \u2014 all unfolding amidst art caf\u00e9s, boutiques, graffiti walls, buzzing eateries, hidden corners, and the breathtaking backdrop of the Hauz Khas lake and 14th century ruins.A walk where the old and the new constantly speak to each other.Come walk through a Delhi that refuses to belong to just one era.\ud83d\udccd Venue: Hauz Khas Village\ud83d\udd70 Duration: Approx. 2 to 2.5 hours\ud83d\udc63 Conducted by: Darwesh Heritage WalksLimited slots only.",
+    "startDate": "2026-05-16T08:30:00+05:30",
+    "endDate": "2026-05-16T10:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55339970000000000000",
+        "longitude": "77.19416540000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "755.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/hauz-khas-village-heritage-walk",
+    "keywords": [
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Before You Blame",
     "description": "Before You Blame: A Workshop on Navigating Relationships with ClarityOverviewMost relationship conflicts are not just about what happened; they are about how we interpret what happened. This session focuses on exploring how our thoughts shape our connections and why friction often feels more intense than the situation warrants. \"Before You Blame\" is a reflective workshop designed to help you look at your assumptions and inner patterns, moving you from reactivity toward steadiness and emotional responsibility.What is Stories of Hope?We are a community-led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities, from mental well-being to personal growth, with empathy and shared human connection.What to ExpectPattern Recognition: Explore how common emotional triggers and ego-driven patterns shape conflicts in marriage, family, or work.Internal Focus: Instead of trying to fix others, we gently shift the focus inward to understand our own interpretations and responses.Practical Tools: Learn actionable ways to question stressful thoughts and practice perspective shifts using real-life scenarios.Safe Exploration: A supportive, non-judgmental environment for honest discussion. This is a space for learning and reflection, not a lecture or therapy.Key TakeawaysClarity: Gain a deeper understanding of recurring relationship dynamics.Responsiveness: Walk away with tools to help you respond thoughtfully instead of reacting impulsively.Emotional Ownership: Build the internal steadiness needed to navigate life without requiring others to change first.Details\ud83d\uddd3\ufe0f Date: 16th May (Sunday)\u23f0 Time: 11:00 AM\ud83d\udccd Location: Kanchanjunga Towers, Sector 56\ud83c\udf9f\ufe0f Fee: \u20b9900 (Introductory offer: \u20b9200 off original price of \u20b91100)",
@@ -408,6 +446,82 @@
       "Live GIG",
       "Music",
       "Premium",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Tracing Shahjahanabad  - A Journey in Old Delhi",
+    "description": "Old Delhi is a labyrinth that demands more than a glance\u2014it requires an exploration. Ahead of the grand facade of the Red Fort lies a dense, vibrant tapestry of urban life that has pulsed uninterrupted for nearly four hundred years. Beyond the famous landmarks, we explore the living heritage and the spiritual harmony of its famous landmarks standing side-by-side, navigating the legendary thoroughfare of Chandni Chowk, before disappearing into the enchanting maze of its inner neighbourhoods\u2014a kaleidoscope of commerce and culture.Join us for a morning of storytelling as we traverse our way through its Katra\u2019s and Kutcha\u2019s, via old gateways, looking into old Haveli\u2019s to explore an imperial city planned by Emperor Shah Jahan and a market designed by Princess Jahanara.  ",
+    "startDate": "2026-05-17T08:00:00+05:30",
+    "endDate": "2026-05-17T09:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Old Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.65628140000000000000",
+        "longitude": "77.23210710000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "600.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mera \u0936\u0939\u0930 \u2013 My City Walks",
+      "url": "https://urbanaut.app/partner/merasheharmycitywalks"
+    },
+    "url": "https://urbanaut.app/spot/tracing-shahjahanabad-a-journey-in-old-delhi",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Mandi House Heritage Walk: A Cultural Microcosm",
+    "description": "There are places in Delhi that tell the story of power.And then there are places that tell the story of imagination.Join us for a unique heritage walk through Mandi House \u2014 Delhi\u2019s extraordinary cultural district and perhaps the closest thing India has to a living artistic republic.This walk explores how, in the decades after Independence, a remarkable vision began taking shape in the heart of the capital: a space where theatre, dance, music, literature, visual arts, cinema, debate, and experimentation could flourish side by side.From the 1950s and 60s onwards, through political support, institutional ambition, and the dreams of generations of artists, Mandi House slowly transformed into a cultural microcosm of India.As we walk through this fascinating neighbourhood, we will uncover the stories behind some of India\u2019s most iconic cultural institutions:From the elegance of Shri Ram Bharatiya Kala Kendra and the legendary Shri Ram Centre for Performing Arts,to the historic Kamani Auditorium and the National School of Drama,from Triveni Kala Sangam and LTG Auditorium,to Sapru House, FICCI Auditorium, the Russian Centre, Modern School, and the beloved Bengali Market.But this is not merely a walk about buildings.It is a walk about ideas.About the making of modern India through culture.About artists, playwrights, dancers, architects, bureaucrats, politicians, and visionaries who together imagined a capital city where art would not remain confined to palaces or elites, but become part of public life itself.We will also trace the older history of the area and uncover an intriguing question:Why is it called *Mandi House*?Who built it?What existed here before this cultural district emerged?And how did this part of Delhi become the beating heart of India\u2019s modern performing arts movement?Expect stories of rehearsals and revolutions, poetry and politics, architecture and activism, caf\u00e9s and canteens, backstage struggles and artistic triumphs \u2014 all woven into the landscape of one of Delhi\u2019s most intellectually alive neighbourhoods.Come experience Mandi House not merely as a location,but as an idea.\ud83d\udccd Venue: Mandi House\ud83d\udd70 Duration: Approx. 2 to 2.5 hours\ud83d\udc63 Conducted by: Darwesh Heritage WalksLimited slots only.",
+    "startDate": "2026-05-17T08:30:00+05:30",
+    "endDate": "2026-05-17T10:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Mandi House, New Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.62612990000000000000",
+        "longitude": "77.23201430000002000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/mandi-house-heritage-walk-a-cultural-microcosm",
+    "keywords": [
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
       "URBANAUT"
     ]
   },
