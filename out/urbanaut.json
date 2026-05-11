@@ -77,43 +77,6 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "name": "Mother\u2019s Day Like Never Before - Gurugram",
-    "description": "This Mother\u2019s Day, we\u2019re turning emotions into art, and moments into memories \ud83d\udc9bJoin us for a one-of-a-kind experience -\ud83c\udfa8 Paint Your Own Vegan Mojaris WorkshopBecause gifts are lovely\u2026 but experiences? They stay forever.\ud83d\udc9d Bring your mom for a beautiful bonding time\ud83d\udc9d Surprise her with something truly unique\ud83d\udc9d Or design a heartfelt pair just for herAnd the best part?\u2728 No rules. No restrictions. Anyone can join.(Yes, even if you\u2019ve never painted before!)Sip, paint, laugh, and create something that carries your love in every stroke \ud83e\udd42",
-    "startDate": "2026-05-15T17:00:00+05:30",
-    "endDate": "2026-05-15T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "32nd Avenue, Sector 15 Part 2, Sector 15, Gurugram, Haryana 122001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46145860000000000000",
-        "longitude": "77.04990289999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1800.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Greenr",
-      "url": "https://urbanaut.app/partner/greenr"
-    },
-    "url": "https://urbanaut.app/spot/mothers-day-like-never-before-gurugram",
-    "keywords": [
-      "Workshop",
-      "Pop-up Event",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
     "name": "The Matcha Circle",
     "description": "Matcha Experience: A Taste of CalmOverviewExperience the calming art of green tea in a session dedicated to mindfulness and flavor. This gathering is designed to help you slow down and appreciate the details of a centuries old tradition. \"The Matcha Circle\" offers a peaceful space to learn, taste, and connect at the end of a long week.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to ExpectGuided Introduction: Learn about the history and the unique process of preparing matcha from farm to cup.The Ritual: Watch and learn how the tea is whisked to create its signature froth and deep flavor.Tasting Session: Enjoy a premium matcha drink prepared just for you at Cha & Co.Quiet Conversation: Join a small group setting to talk about finding moments of peace in a busy week over a comforting cup.Details\ud83d\uddd3\ufe0f Date: 15th May (Friday)\u23f0 Time: 6:00 PM\ud83d\udccd Location: Cha & Co, Grand View High Street\ud83c\udf75 Inclusion: Matcha drink included\ud83c\udf9f\ufe0f Fee: \u20b9700",
     "startDate": "2026-05-15T18:00:00+05:30",
@@ -483,6 +446,44 @@
       "Premium",
       "Virtual",
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Sodhilecious Factory Visit",
+    "description": "What if we told you most food brands would never let you see their kitchen? We would.At Sodhilecious Bakery, we\u2019re opening our factory to customers \u2014 no filters, no hiding.Come see for yourself:\u2028\u2714\ufe0f How hygienically your food is actually made\u2028\u2714\ufe0f The real ingredients we use (no marketing gimmicks)\u2028\u2714\ufe0f The process behind every bite you trust",
+    "startDate": "2026-05-17T11:00:00+05:30",
+    "endDate": "2026-05-17T12:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "C277+MWG, Begumpur Khatola, Sector 74, Gurugram, Haryana 122101, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41419400000000000000",
+        "longitude": "77.01483259999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "147.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sodhilecious",
+      "url": "https://urbanaut.app/partner/sodhilecious"
+    },
+    "url": "https://urbanaut.app/spot/sodhilecious-factory-visit-13150",
+    "keywords": [
+      "Workshop",
+      "Food & drink",
+      "Guided tour",
       "URBANAUT"
     ]
   },
