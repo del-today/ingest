@@ -302,6 +302,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "A Day With Unknown Friends",
+    "description": "Heyy! \ud83c\udf38\u2728We\u2019re hosting a super cozy and creative gathering with some amazing people at Siyah Arthouse, Saket on 16th May from 3:00 PM \u2013 6:00 PM \ud83c\udfa8\ud83c\udfb6We\u2019ll be doing: \ud83d\udd8c\ufe0f Canvas Painting\u2728 Clay Art\ud83c\udfb5 Live Jamming Session with a MusicianAnd yes , it\u2019s completely beginner friendly, so even if you\u2019ve never tried art before, you can still come and enjoy the experience \ud83d\udc9bDon\u2019t worry about bringing anything, we\u2019ll provide the canvas, clay, and all art supplies \u2728\ud83c\udf9f\ufe0f Ticket Price: \u20b9549 per personYou\u2019ll get a \u20b9250 coupon code redeemable on drinks at the caf\u00e9 \u2615\u2728It\u2019s basically an afternoon to relax, create art, meet new people, and enjoy good vibes together \ud83c\udf3f\ud83d\udccdLocation: Siyah Arthouse, Sakethttps://share.google/oP40SaJzjmrf8KCX5Let me know if you\u2019d like to join \ud83c\udf38",
+    "startDate": "2026-05-16T15:00:00+05:30",
+    "endDate": "2026-05-16T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Siyah Arthouse, 3rd Floor 261, Plot 8, Westend Marg, Saidulajab, Saket, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.51653950000000000000",
+        "longitude": "77.19738550000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "549.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Shoshabaazi",
+      "url": "https://urbanaut.app/partner/shoshabaazi"
+    },
+    "url": "https://urbanaut.app/spot/a-day-with-unknown-friends",
+    "keywords": [
+      "Music",
+      "Food & drink",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Diet Coke Paglus Assemble - Gurgaon Edition",
     "description": "Your favourite fizzy drink gets a whole personality in this quirky gathering. Come for the Diet Coke, stay for the chaos. Activities include:1. Diet Coke Can Art: Bedazzle your own Diet Coke can with rhinestones and take it home. Best design wins a prize. No art experience required - just chaos energy.2. Blind Tasting Challenge: Diet Coke vs other cola brands. No labels, one sip, guess correctly for a prize.3. Mafia: Canned Edition: The classic party game gets a caffeinated twist - holding a Diet Coke can grants a quirky power. Trust no one, sip wisely.Prizes await across all rounds. Good vibes guaranteed.",
@@ -1115,6 +1153,42 @@
     "url": "https://urbanaut.app/spot/cinema-circle",
     "keywords": [
       "Leisure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "#lecture31: How Not To Be Fooled By Data",
+    "description": "India is often described through abstractions.A billion people. A growing economy. A young country. A democracy of dizzying complexity.But somewhere between these familiar descriptions lies another India. One hiding quietly inside numbers, maps, charts, and patterns we rarely stop to examine closely.The next 100 babies born in India will not arrive evenly across the country. Some languages are disappearing while others coexist within the same neighbourhood. Millions describe themselves as employed in ways economists struggle to classify. Entire assumptions about food habits collapse once data replaces perception.And sometimes, statistics reveal stories stranger than fiction.Data is often treated as cold, technical, and inaccessible. Yet the best data has always done something more ambitious. It helps us notice. It exposes contradictions, unsettles assumptions, and occasionally changes how we understand ourselves.This session invites you into that process of discovery.Through surprises, puzzles, myth-busting facts, and visually engaging charts, the lecture will move across questions that are at once playful and deeply revealing:Where will the next 100 babies in India be born? Which is India\u2019s most multilingual city? Why is almost nobody in India considered jobless after 29? Why does a banker contribute far more to GDP than a farmer? What is the perception-versus-reality gap between vegetarian and non-vegetarian India? And are SRK\u2019s and Rajinikanth\u2019s future heroines even born yet?The evening will mix insight with curiosity, humour with analysis, and information with surprise. Expect twists, unexpected connections, and charts that feel less like presentations and more like treasure maps.At a moment when information is abundant but attention is fragmented, perhaps the rarest experience is learning to see familiar things differently.About the SpeakerRohit Saran is the Managing Editor of The Times of India. Over the course of his career, he has served as Executive Editor at The Times of India, The Economic Times, and India Today, and was previously Editor-in-Chief of Business Today and Khaleej Times.Since the 1990s, he has worked extensively in data and visual journalism, combining numbers, visuals, and narrative to build richer forms of storytelling across some of India\u2019s leading newsrooms.Earlier this year, Rohit co-authored 100 Ways to See India - Stats, Stories and Surprises with Sajeev Kumarapuram, Design Editor at The Times of India. Together, they have spent years navigating India\u2019s data landscape searching for elusive numbers, surviving endless PDFs, and uncovering stories hidden inside statistics.Book now & develop your own pint of view! \ud83c\udf7b\ud83d\udccc Note: Alcohol will be served only to guests aged 25 and above. Non-alcoholic options will be available. Attendance implies consent to being filmed for event documentation. ",
+    "startDate": "2026-05-23T16:00:00+05:30",
+    "endDate": "2026-05-23T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Eldeco Centre, Block A, Shivalik Colony, Malviya Nagar, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52806900000000000000",
+        "longitude": "77.20516300000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "999.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Pint of View Delhi NCR",
+      "url": "https://urbanaut.app/partner/pint-of-view-delhi-ncr"
+    },
+    "url": "https://urbanaut.app/spot/lecture31-how-not-to-be-fooled-by-data",
+    "keywords": [
+      "Live GIG",
       "URBANAUT"
     ]
   },
