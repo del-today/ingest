@@ -60,26 +60,6 @@
     ]
   },
   {
-    "@type": "Event",
-    "name": "KNMA Art Battle",
-    "url": "https://www.knma.org/whats-on/events/art-battle-season-6",
-    "startDate": "2026-05-12T08:00:00+05:30",
-    "endDate": "2026-05-12T08:00:00+05:30",
-    "description": "Art Battle",
-    "location": {
-      "@type": "Place",
-      "name": "Delhi Public School, Joka, West Bengal",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
     "@type": "ScreeningEvent",
     "name": "The Gold-laden Sheep and The Sacred Mountain",
     "url": "https://www.knma.org/whats-on/events/the-gold-laden-sheep-and-the-sacred-mountain",

@@ -4,7 +4,7 @@
     "@type": "EducationEvent",
     "name": "Play to Performance: Improv 14 Hour Workshop",
     "description": "Step into a space where spontaneity meets performance.Improv Level One \u2013 From Play to Performance is a 14-hour immersive improv theatre workshop at The Immersion Room, Gurgaon, designed for adults who want to explore creativity, confidence, and live expression.Through a series of interactive theatre games, scene work, and character exploration, participants develop:Spontaneity & quick thinkingPresence & active listeningConfidence in expressionCollaboration & trustStorytelling through performanceThis workshop focuses on learning by doing\u2014breaking inhibitions, embracing uncertainty, and discovering the joy of being fully present.Multi-day Weekend Workshop SeriesMay 3, 2026 | 11:00 AM \u2013 1:00 PMMay 10, 2026 | 11:00 AM \u2013 1:00 PMMay 17, 2026 | 11:00 AM \u2013 1:00 PMMay 24, 2026 | 12:00 PM \u2013 2:00 PMMay 31, 2026 | 11:00 AM \u2013 1:00 PMJune 7, 2026 | 11:00 AM \u2013 1:00 PMJune 14, 2026 | 11:00 AM \u2013 1:00 PMTotal Duration: 14 HoursFormat: In-person | Adults OnlyFinal Showcase:The experience culminates in a live improv performance at The Immersion Room, where participants step onto the stage and perform in front of an audience.",
-    "startDate": "2026-05-11T11:00:00+05:30",
+    "startDate": "2026-05-12T11:00:00+05:30",
     "endDate": "2026-06-14T13:00:00+05:30",
     "location": {
       "@type": "Place",
@@ -452,6 +452,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Tughlaqabad fort",
+    "description": "This 2-hour guided heritage walk explores the ruins of Tughlaqabad Fort, known as the \"cursed city\" built in 1321 AD by Ghiyas-ud-din Tughlaq, highlighting its massive walls, bastions, and underground tunnels.",
+    "startDate": "2026-05-17T08:00:00+05:30",
+    "endDate": "2026-05-17T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "G766+9W9, Tughlaqabad Fort, Tughlakabad, New Delhi, Delhi 110044, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.51091700000000000000",
+        "longitude": "77.26235369999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "200.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Riwayat Walks",
+      "url": "https://urbanaut.app/partner/riwayatwalks"
+    },
+    "url": "https://urbanaut.app/spot/tughlaqabad-fort",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Tracing Shahjahanabad  - A Journey in Old Delhi",
     "description": "Old Delhi is a labyrinth that demands more than a glance\u2014it requires an exploration. Ahead of the grand facade of the Red Fort lies a dense, vibrant tapestry of urban life that has pulsed uninterrupted for nearly four hundred years. Beyond the famous landmarks, we explore the living heritage and the spiritual harmony of its famous landmarks standing side-by-side, navigating the legendary thoroughfare of Chandni Chowk, before disappearing into the enchanting maze of its inner neighbourhoods\u2014a kaleidoscope of commerce and culture.Join us for a morning of storytelling as we traverse our way through its Katra\u2019s and Kutcha\u2019s, via old gateways, looking into old Haveli\u2019s to explore an imperial city planned by Emperor Shah Jahan and a market designed by Princess Jahanara.  ",
     "startDate": "2026-05-17T08:00:00+05:30",
@@ -706,6 +744,44 @@
     "url": "https://urbanaut.app/spot/luxury-uncovered-the-hidden-stories-behind-brands",
     "keywords": [
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Slow sunset walk at Azim khan tomb",
+    "description": "A slow sunset experience from the top of the hill with a mesmerizing view of Qutub Minar and Mehrauli Archaeological park complex.  Be prepared with a pair of shoes, you fav camera, because you might get some amazing photographs with airplanes in your frame.",
+    "startDate": "2026-05-17T17:00:00+05:30",
+    "endDate": "2026-05-17T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Butterfly Park, Qila Rai Pithora, Sainik Farm, G5CQ+CW5, Butterfly Park, Qila Rai Pithora, Sainik Farm, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52102480000000000000",
+        "longitude": "77.18987000000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "200.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Riwayat Walks",
+      "url": "https://urbanaut.app/partner/riwayatwalks"
+    },
+    "url": "https://urbanaut.app/spot/slow-sunset-walk-at-azim-khan-tomb",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Art & culture",
       "URBANAUT"
     ]
   },
