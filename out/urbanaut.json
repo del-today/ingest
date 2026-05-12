@@ -491,7 +491,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Tracing Shahjahanabad  - A Journey in Old Delhi",
-    "description": "Old Delhi is a labyrinth that demands more than a glance\u2014it requires an exploration. Ahead of the grand facade of the Red Fort lies a dense, vibrant tapestry of urban life that has pulsed uninterrupted for nearly four hundred years. Beyond the famous landmarks, we explore the living heritage and the spiritual harmony of its famous landmarks standing side-by-side, navigating the legendary thoroughfare of Chandni Chowk, before disappearing into the enchanting maze of its inner neighbourhoods\u2014a kaleidoscope of commerce and culture.Join us for a morning of storytelling as we traverse our way through its Katra\u2019s and Kutcha\u2019s, via old gateways, looking into old Haveli\u2019s to explore an imperial city planned by Emperor Shah Jahan and a market designed by Princess Jahanara.  ",
+    "description": "Old Delhi is a labyrinth that demands more than a glance\u2014it requires an exploration. Ahead of the grand facade of the Red Fort lies a dense, vibrant tapestry of urban life that has pulsed uninterrupted for nearly four hundred years. Beyond the famous landmarks, we explore the living heritage and the spiritual harmony of its famous landmarks standing side-by-side, navigating the legendary thoroughfare of Chandni Chowk, before disappearing into the enchanting maze of its inner neighbourhoods\u2014a kaleidoscope of commerce and culture.Join us for a morning of storytelling as we traverse our way through its Katra\u2019s and Kutcha\u2019s, via old gateways, looking into old Haveli\u2019s to explore an imperial city planned by Emperor Shah Jahan and a market designed by Princess Jahanara. Note: There is no charge for accompanying children below 12. ",
     "startDate": "2026-05-17T08:00:00+05:30",
     "endDate": "2026-05-17T09:30:00+05:30",
     "location": {
@@ -508,7 +508,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "600.00",
+      "price": "500.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -820,6 +820,78 @@
       "Music",
       "History & heritage",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Copy of Vision Board Night",
+    "description": "A cozy evening to slow down, get creative, and put your goals, dreams, and chaotic life plans onto paper.Join us for Vision Board Night,  a relaxed social experience where you can cut, paste, doodle, and create a visual mood board for the life you want to build.No pressure, no \u201cfix your life\u201d energy,  just good music, creative vibes, fun conversations, and a room full of people figuring things out together. What to expect:\u2022\u2060  \u2060Vision board making session*, stationery & creative supplies\u2022\u2060  \u2060Cozy atmosphere & music\u2022\u2060  \u2060Chill social vibe\u2022\u2060  \u2060A fun, low-pressure creative nightCome solo or with friends \u2014 no artistic skills required.",
+    "startDate": "2026-05-17T20:00:00+05:30",
+    "endDate": "2026-05-17T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "goSTOPS, Baani Square, N7, Block N, Mayfield Garden, Sector 51, Gurugram, Haryana 122018, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.42612300000000000000",
+        "longitude": "77.05805370000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "100.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "goSTOPS",
+      "url": "https://urbanaut.app/partner/gostops"
+    },
+    "url": "https://urbanaut.app/spot/gostopgurugram",
+    "keywords": [
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Vision Board Night",
+    "description": "A cozy evening to slow down, get creative, and put your goals, dreams, and chaotic life plans onto paper.Join us for Vision Board Night,  a relaxed social experience where you can cut, paste, doodle, and create a visual mood board for the life you want to build.No pressure, no \u201cfix your life\u201d energy,  just good music, creative vibes, fun conversations, and a room full of people figuring things out together. What to expect:\u2022\u2060  \u2060Vision board making session*, stationery & creative supplies\u2022\u2060  \u2060Cozy atmosphere & music\u2022\u2060  \u2060Chill social vibe\u2022\u2060  \u2060A fun, low-pressure creative nightCome solo or with friends \u2014 no artistic skills required.",
+    "startDate": "2026-05-17T20:00:00+05:30",
+    "endDate": "2026-05-17T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gate no 3, 4/23-B, Asaf Ali Rd, opp. Metro Station, Chatta lal Miya, Delhi Gate, Daryaganj, New Delhi, Delhi, 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64083430000000000000",
+        "longitude": "77.23897370000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "100.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "goSTOPS",
+      "url": "https://urbanaut.app/partner/gostops"
+    },
+    "url": "https://urbanaut.app/spot/gostopsdelhi",
+    "keywords": [
+      "Workshop",
       "URBANAUT"
     ]
   },
