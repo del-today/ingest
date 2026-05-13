@@ -943,6 +943,42 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "ScreeningEvent",
+    "name": "Dual Movie Screenings in Delhi",
+    "description": "Please join us for a curated screening of 2 thought-provoking feature films, followed by an engaging Q&A session with the filmmakers.Venue: Niv Art Center, Neb Sarai, Delhi, Mob. 9810128802 | http://nivartcentre.com | @nivartcentreDate: 17th May, 2026, Sunday---------------------------------------------------------------------------------------------------------------------------------------\u2022 Film 1: Puppet Master | Creator: Shivesh Ranjan | Show time: 3.15 pmGenre: Mystery, Drama, Romance | Length: 94 mins. | Language: Hindi | Subtitles: EnglishLogline: A heartbroken boy, Ritesh, is given the power to control his life through a TV ad and he chooses to make his former girlfriend, Rehana, who is the fianc\u00e9 of his flatmate, fall in love with him. The unnatural control pushes the universe to react in the most unexpected and brutal way that Rehana becomes the puppet.https://www.youtube.com/watch?v=IsMGf8YI8GQ\u2022 Film 2: Others and Us/ \u0935\u094b \u0914\u0930 \u0939\u092e | Creator: Aniruddh Jain | Show time: 5.45 pmGenre: Psychological thriller drama | Length: 94 mins. | Language: Hindi | Subtitles: EnglishLogline: A female psychologist is forced by a socio-political vigilante group in an Indian town, to address their leader's emotional issues, uncovering shocking secrets and turning the tables.https://youtu.be/jXLPKBf7qjI?si=WplRGEDPVgr5Sb7zTickets:Early bird offer \u2192 Any one film: 100 rs  | Both films: 150 rsAfter early bird offer ends \u2192 Any one film: 200 rs  | Both films: 300 rs",
+    "startDate": "2026-05-17T15:15:00+05:30",
+    "endDate": "2026-05-17T20:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "210, near IGNOU CHOWK, Block A 1, Neb Sarai, Sainik Farm, New Delhi, Delhi 110068, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.50441550000000000000",
+        "longitude": "77.19898220000002000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "150.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Surreal Reels Creation",
+      "url": "https://urbanaut.app/partner/src_films"
+    },
+    "url": "https://urbanaut.app/spot/movies",
+    "keywords": [
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "The Algorithm as Therapist",
     "description": "Join us for a lecture that explores a subtle shift in our inner lives: the moment we stopped turning to people for understanding and started turning to code. About the LectureA \"good\" therapy session is often messy. It involves sitting with ambiguity, tracing complex relationships, and allowing contradictions to unfold. But we now live in a \"Rapido\" world that prizes speed and efficiency. Today, AI chatbots offer instant validation, neat summaries, and structured ways of processing our emotions.For many, these tools serve the \"missing middle,\" providing support for those who need more than a wellness app but cannot access formal care. However, as we increasingly lean on algorithms, we begin to privilege the parts of ourselves that are rational and productive. Emotional messiness starts to feel like a \"bug\" to be fixed rather than a human experience to be understood.The session explores:How AI is filling the gap in mental health care and what it offers the modern user.Why turning to algorithms encourages us to be coherent and productive at the expense of our complex, \"messy\" selves.Which ways of understanding our pain are being amplified by technology, and which are being lost?What it means to maintain psychological depth in an age of automated empathy.At its core, this talk asks: as the algorithm becomes our therapist, what kind of selves are we being encouraged to become?About the SpeakerAnnie Baxi is a mental health practitioner, qualitative researcher, and Visiting Professor at Ashoka University and BML University. Her work focuses on critical and cultural approaches to psychology, questioning mainstream notions of \"normalcy,\" health, and wellness.With a background that bridges academic rigor and clinical practice, Annie explores how culture and technology intersect with our well-being. Beyond her professional work, she is a devoted pet parent and a collector of picture storybooks, believing that some of the most profound human truths are often found in the simplest forms.Ticket IncludesAll Grounds for Thought tickets include a \u20b9250 coupon redeemable on food and beverages at the venue.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
