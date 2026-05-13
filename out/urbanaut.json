@@ -414,6 +414,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "SMASH LIKE A GIRL (Tennis | Delhi)",
+    "description": "\u200bHi girls! It\u2019s time to Smash Like a Girl \u2014 because we\u2019re finally bringing you TENNIS!This is a women-only, beginner-friendly, guided tennis meet-up.4:50 PM Meet Up & Warm Up5:00 PM Game TimeSee you on court!",
+    "startDate": "2026-05-16T17:00:00+05:30",
+    "endDate": "2026-05-16T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "J6HH+MMC, Barakhamba Rd, Todermal Road Area, Mandi House, New Delhi, Delhi 110001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.62917610000000000000",
+        "longitude": "77.22913750000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "495.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swagtennis",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "The Procrastireaders",
     "description": "OverviewStep out of your literary comfort zone and into a world of mystery. Our \"Blind Date with a Book\" session is designed to strip away the influence of flashy covers and famous names. It lets you connect with a story based purely on its essence. This is a low stakes and high reward way to discover your next favorite read while sharing a brew with fellow book lovers.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to ExpectThe Concept: Browse a curated selection of books from the SOH library wrapped in brown paper. You will not see titles or authors. Only a few plot keywords or a \"vibe\" will guide your choice.The Surprise: Follow your intuition. Pick the one that intrigues you most based solely on the cryptic clues written on the front.First Impressions: We will spend the first part of the session \"meeting\" our books, unmasking the titles, and seeing if you have found a literary match.Low Stakes: This is a fun and pressure free way to break out of your usual genre. You might try something you would never have picked up otherwise.Details\ud83d\uddd3\ufe0f Date: 16th May (Saturday)\u23f0 Time: 5:30 PM\ud83d\udccd Location: Thamel, DLF Phase 1\u2615 Inclusion: Coffee included\ud83c\udf9f\ufe0f Fee: \u20b9700",
     "startDate": "2026-05-16T17:30:00+05:30",
@@ -446,6 +484,82 @@
       "Leisure",
       "Pop-up Event",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Pickleball with SWAG | North Delhi",
+    "description": "Pickleball with SWAG is now in North Delhi!This is a women-only, beginner-friendly pickleball meet-up.5:50 PM Meet up and Warm up Time6:00 PM Game TimeSee you on court!",
+    "startDate": "2026-05-16T18:00:00+05:30",
+    "endDate": "2026-05-16T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Best Business Park, plot no. P, 2, Netaji Subhash Place, Shakurpur, New delhi, Delhi, 110034, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.69189930000000000000",
+        "longitude": "77.14738650000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "379.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swagnorth",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "BADDY WITH BADDIES | Vasant Kunj",
+    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.5:50 PM Meet up and Warm up Time6:00 PM Game TimeSee you on court!",
+    "startDate": "2026-05-16T18:00:00+05:30",
+    "endDate": "2026-05-16T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "inside DAV Public School, near Fortis Hospital, Pocket 1, Sector B, Vasant Kunj, New Delhi, Delhi 110070, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52084540000000000000",
+        "longitude": "77.16146610000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "250.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swagbadminton",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
       "URBANAUT"
     ]
   },
@@ -566,6 +680,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Pickleball & Gully Games | Gurugram",
+    "description": "The SWAG Pickleball Party is you perfect sunday morning plan with picklball and guly games like kho-kho, chain-chain and much more!This is a women-only, beginner-friendly meet-up.8-9 AM Picklball 9-10 AM Gully GamesSee you on court!",
+    "startDate": "2026-05-17T08:00:00+05:30",
+    "endDate": "2026-05-17T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Plot no.- 2, Sector 31, Gurugram, Haryana 122001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.45691050000000000000",
+        "longitude": "77.05006540000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "360.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/ggnpickle",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Mandi House Heritage Walk: A Cultural Microcosm",
     "description": "There are places in Delhi that tell the story of power.And then there are places that tell the story of imagination.Join us for a unique heritage walk through Mandi House \u2014 Delhi\u2019s extraordinary cultural district and perhaps the closest thing India has to a living artistic republic.This walk explores how, in the decades after Independence, a remarkable vision began taking shape in the heart of the capital: a space where theatre, dance, music, literature, visual arts, cinema, debate, and experimentation could flourish side by side.From the 1950s and 60s onwards, through political support, institutional ambition, and the dreams of generations of artists, Mandi House slowly transformed into a cultural microcosm of India.As we walk through this fascinating neighbourhood, we will uncover the stories behind some of India\u2019s most iconic cultural institutions:From the elegance of Shri Ram Bharatiya Kala Kendra and the legendary Shri Ram Centre for Performing Arts,to the historic Kamani Auditorium and the National School of Drama,from Triveni Kala Sangam and LTG Auditorium,to Sapru House, FICCI Auditorium, the Russian Centre, Modern School, and the beloved Bengali Market.But this is not merely a walk about buildings.It is a walk about ideas.About the making of modern India through culture.About artists, playwrights, dancers, architects, bureaucrats, politicians, and visionaries who together imagined a capital city where art would not remain confined to palaces or elites, but become part of public life itself.We will also trace the older history of the area and uncover an intriguing question:Why is it called *Mandi House*?Who built it?What existed here before this cultural district emerged?And how did this part of Delhi become the beating heart of India\u2019s modern performing arts movement?Expect stories of rehearsals and revolutions, poetry and politics, architecture and activism, caf\u00e9s and canteens, backstage struggles and artistic triumphs \u2014 all woven into the landscape of one of Delhi\u2019s most intellectually alive neighbourhoods.Come experience Mandi House not merely as a location,but as an idea.\ud83d\udccd Venue: Mandi House\ud83d\udd70 Duration: Approx. 2 to 2.5 hours\ud83d\udc63 Conducted by: Darwesh Heritage WalksLimited slots only.",
     "startDate": "2026-05-17T08:30:00+05:30",
@@ -603,9 +755,85 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Climb Like A Girl",
+    "description": "Climb Like A Girl is back! Get ready for a fun, energizing climbing session. It is a beginner-friendly, women-only meetup. The session will be guided by professionals at The Delhi Rock. Just bring your energy, curiosity, and love for trying something new! The venue is in the Squash and Badminton Stadium on Siri Fort Road.",
+    "startDate": "2026-05-17T10:00:00+05:30",
+    "endDate": "2026-05-17T11:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Siri Fort, New Delhi, Delhi 110049, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55326250000000000000",
+        "longitude": "77.22100110000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "400.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swagclim",
+    "keywords": [
+      "Adventure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "BADDY WITH BADDIES (Badminton | GK 1)",
+    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.9:50 AM Meet up and Warm up Time10:00 AM Game TimeSee you on court!",
+    "startDate": "2026-05-17T10:00:00+05:30",
+    "endDate": "2026-05-17T11:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Nandi Vithi Rd, N Block, Greater Kailash I, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55579910000000000000",
+        "longitude": "77.23527080000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "295.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swagbadmintongk",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Build Your AI Inbox Assistant | Online",
-    "description": "This 2-hour hands-on workshop is designed for professionals who want to move beyond trying AI and start using it meaningfully in their everyday work. You will build a workflows that help you with 8 daily tasks: manage emails, prepare for meetings, draft content, and stay updated, without adding to your cognitive load. Each hour of the session includes a demo, guided build time, and live troubleshooting, so you leave with systems that actually work for you.Early Bird: 1499/- till 14th MayYou will need a subscription to AI tools. Recommended: Claude Pro Plan. And that's it! No technical background is required, just a laptop and a willingness to rethink how you work.",
+    "description": "Most people don\u2019t need \u201cmore AI.\u201d They need less time spent on repetitive work.This 2-hour hands-on workshop is designed around practical outcomes:Reply to emails fasterPrepare for meetings with the right contextOrganize follow-ups before they slip throughReduce the mental load of everyday digital workEach hour includes live demos, guided build time, and troubleshooting support, so you leave with workflows that actually work for you.For people who want AI to seamlessly support their day, not complicate it further.Early Bird: \u20b91499 until 14th MayYou\u2019ll need access to AI tools (Claude Pro recommended), a laptop, and curiosity. No technical background required.",
     "startDate": "2026-05-17T10:30:00+05:30",
     "endDate": "2026-05-17T12:30:00+05:30",
     "location": {
@@ -722,11 +950,11 @@
     "endDate": "2026-05-17T18:00:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "C/9, Mehrauli Mahipalpur Rd, near Cult Fit, Pocket 9, Sector C, Vasant Kunj, New Delhi, Delhi 110070, India",
+      "address": "No 59, PVR Priya Complex, Basant Lok, Vasant Vihar, New Delhi, Delhi 110057, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.53806920000000000000",
-        "longitude": "77.14287580000000000000"
+        "latitude": "28.55719760000000000000",
+        "longitude": "77.16396630000000000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -863,8 +1091,46 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Guided Pickleball | Khan Market",
+    "description": "Guided Pickleball with SWAG x Delhi Picklers is back! This is a women-only, beginner-friendly pickleball meet-up. The session is guided by a coach.5:25 PM Meet up and Warm up6:00 PM Game TimeSee you on court!",
+    "startDate": "2026-05-17T18:00:00+05:30",
+    "endDate": "2026-05-17T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Opposite Bunglow No.46, Sector 4, Lodhi Estate, Lodhi Estate, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59422390000000000000",
+        "longitude": "77.22559430000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "399.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swagpickleballkhan",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "name": "Copy of Vision Board Night",
+    "name": "Vision Board Night",
     "description": "A cozy evening to slow down, get creative, and put your goals, dreams, and chaotic life plans onto paper.Join us for Vision Board Night,  a relaxed social experience where you can cut, paste, doodle, and create a visual mood board for the life you want to build.No pressure, no \u201cfix your life\u201d energy,  just good music, creative vibes, fun conversations, and a room full of people figuring things out together. What to expect:\u2022\u2060  \u2060Vision board making session*, stationery & creative supplies\u2022\u2060  \u2060Cozy atmosphere & music\u2022\u2060  \u2060Chill social vibe\u2022\u2060  \u2060A fun, low-pressure creative nightCome solo or with friends \u2014 no artistic skills required.",
     "startDate": "2026-05-17T20:00:00+05:30",
     "endDate": "2026-05-17T22:00:00+05:30",
@@ -1273,11 +1539,11 @@
     "endDate": "2026-05-24T18:00:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "C/9, Mehrauli Mahipalpur Rd, near Cult Fit, Pocket 9, Sector C, Vasant Kunj, New Delhi, Delhi 110070, India",
+      "address": "No 59, PVR Priya Complex, Basant Lok, Vasant Vihar, New Delhi, Delhi 110057, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.53806920000000000000",
-        "longitude": "77.14287580000000000000"
+        "latitude": "28.55719760000000000000",
+        "longitude": "77.16396630000000000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
