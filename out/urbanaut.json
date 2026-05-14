@@ -566,6 +566,41 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Board Game Night at goSTOPS at Delhi",
+    "description": "Unplug, roll the dice, and let the games begin. Board Game Night is all about good vibes, friendly competition, and meeting new people over classics and chaotic favorites. Whether you\u2019re a strategic mastermind, a bluffing expert, or just here for the laughs, there\u2019s a seat at the table for everyone.From Mafia and Uno to fast-paced party games and intense strategy battles, expect an evening full of unexpected twists, team-ups, betrayals, and nonstop fun. Bring your game face \u2014 or just come for the chaos.",
+    "startDate": "2026-05-16T20:00:00+05:30",
+    "endDate": "2026-05-16T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gate no 3, 4/23-B, Asaf Ali Rd, opp. Metro Station, Chatta lal Miya, Delhi Gate, Daryaganj, New Delhi, Delhi, 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64083430000000000000",
+        "longitude": "77.23897370000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "118.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "goSTOPS",
+      "url": "https://urbanaut.app/partner/gostops"
+    },
+    "url": "https://urbanaut.app/spot/gostopsdelhii",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Drake ICEMAN Listening Party",
     "description": "Be among the first to experience ICEMAN by Drake in a curated, high-quality listening session.This is a focused, start-to-finish playback of the project, designed for people who actually want to hear the music, not talk over it.What to expect:Full album listening in a premium sound setupA crowd that\u2019s tuned in and presentReal-time reactions and shared first impressionsIncluded with your ticket:Unlimited snacks on the house by BRBUnlimited beer on the house by ProostAccess to exclusive GL discounts Limited capacity. Entry on a first-come basis.",
     "startDate": "2026-05-16T20:00:00+05:30",
@@ -1166,7 +1201,7 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "name": "Vision Board Night",
+    "name": "Vision Board Night at goSTOPS Gurugram",
     "description": "A cozy evening to slow down, get creative, and put your goals, dreams, and chaotic life plans onto paper.Join us for Vision Board Night,  a relaxed social experience where you can cut, paste, doodle, and create a visual mood board for the life you want to build.No pressure, no \u201cfix your life\u201d energy,  just good music, creative vibes, fun conversations, and a room full of people figuring things out together. What to expect:\u2022\u2060  \u2060Vision board making session*, stationery & creative supplies\u2022\u2060  \u2060Cozy atmosphere & music\u2022\u2060  \u2060Chill social vibe\u2022\u2060  \u2060A fun, low-pressure creative nightCome solo or with friends \u2014 no artistic skills required.",
     "startDate": "2026-05-17T20:00:00+05:30",
     "endDate": "2026-05-17T22:00:00+05:30",
@@ -1202,7 +1237,7 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "name": "Vision Board Night",
+    "name": "Vision Board Night at goSTOPS Delhi",
     "description": "A cozy evening to slow down, get creative, and put your goals, dreams, and chaotic life plans onto paper.Join us for Vision Board Night,  a relaxed social experience where you can cut, paste, doodle, and create a visual mood board for the life you want to build.No pressure, no \u201cfix your life\u201d energy,  just good music, creative vibes, fun conversations, and a room full of people figuring things out together. What to expect:\u2022\u2060  \u2060Vision board making session*, stationery & creative supplies\u2022\u2060  \u2060Cozy atmosphere & music\u2022\u2060  \u2060Chill social vibe\u2022\u2060  \u2060A fun, low-pressure creative nightCome solo or with friends \u2014 no artistic skills required.",
     "startDate": "2026-05-17T20:00:00+05:30",
     "endDate": "2026-05-17T22:00:00+05:30",
@@ -1526,44 +1561,6 @@
     },
     "url": "https://urbanaut.app/spot/when-power-claims-victimhood",
     "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Listener's Table: Riding through Ladakh",
-    "description": "Ladakh, a high-altitude cold desert, is characterized by a stark landscape, sensitive ecology, and harsh weather conditions. What is it like to ride through this tough and harsh terrain? In the Fourth Edition of the Listener\u2019s Table we invite Shweta Modgil, tech evangelist and author, to share with us her experiences of Riding Through Rangdum, her journey of transformation. In our relentless race for more, let this be a moment to pause and reflect on having less, \"how some small places on the map make for big memories.\"After interactions with the author, join us for dinner. Anita and Jayasri have prepared a delightful menu around some very unique ingredients that make up Ladakh's cuisine.Come, join us.5:45: Welcome drinks.6:00-6:30 pm - Talk by Shweta Modgil, author Riding Through Rangdum6:30-7:00 pm - Interactions with the Author7:00-8:30pm - Dinner (vegetarian/non-veg)",
-    "startDate": "2026-05-23T18:00:00+05:30",
-    "endDate": "2026-05-23T20:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "B-4, Pocket 4, Sector B, Vasant Kunj, New Delhi, Delhi 110070, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52277360000000000000",
-        "longitude": "77.16686130000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2400.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "A Mad Tea Party",
-      "url": "https://urbanaut.app/partner/a-mad-tea-party"
-    },
-    "url": "https://urbanaut.app/spot/listeners-table-in-ladakh",
-    "keywords": [
-      "Leisure",
-      "Pop-up Event",
       "Food & drink",
       "URBANAUT"
     ]
