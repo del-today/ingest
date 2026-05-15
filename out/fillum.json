@@ -1,23 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "Umrao Jaan(1981)",
-    "url": "https://fillum.in/screening/5407",
-    "startDate": "2026-05-15T21:00:00+05:30",
-    "endDate": "2026-05-15T21:00:00+05:30",
-    "description": "Registrations open on 9 May.",
-    "location": {
-      "@type": "Place",
-      "name": "Stein Auditorium, India Habitat Centre",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Habitat FIlm Festival"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "Paradha(2025)",
     "url": "https://fillum.in/screening/5408",
     "startDate": "2026-05-16T11:00:00+05:30",
