@@ -35,6 +35,23 @@
   },
   {
     "@type": "ScreeningEvent",
+    "name": "The Thinking Game(2025)",
+    "url": "https://fillum.in/screening/5533",
+    "startDate": "2026-05-15T18:30:00+05:30",
+    "endDate": "2026-05-15T18:30:00+05:30",
+    "description": "Free entry.",
+    "location": {
+      "@type": "Place",
+      "name": "India International Centre - Lecture Room 1 (Annexe)",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "India International Centre"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "Short Films & Open Mic Night",
     "url": "https://fillum.in/event/5527",
     "startDate": "2026-05-15T19:00:00+05:30",
