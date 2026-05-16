@@ -61,46 +61,6 @@
   },
   {
     "@type": "EducationEvent",
-    "name": "Fragmented Figures",
-    "url": "https://www.knma.org/whats-on/workshops/fragmented-figures-sculpting-the-body",
-    "startDate": "2026-05-16T10:00:00+05:30",
-    "endDate": "2026-05-16T10:00:00+05:30",
-    "description": "Artist in Me",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "EducationEvent",
-    "name": "Two Are Better Than One",
-    "url": "https://www.knma.org/whats-on/workshops/two-are-better-than-one-lenticular-narratives-of-duality",
-    "startDate": "2026-05-16T10:00:00+05:30",
-    "endDate": "2026-05-16T10:00:00+05:30",
-    "description": "Saturday Family Workshop",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "EducationEvent",
     "name": "Moving stories",
     "url": "https://www.knma.org/whats-on/workshops/moving-stories",
     "startDate": "2026-05-19T10:00:00+05:30",
@@ -181,6 +141,26 @@
   },
   {
     "@type": "EducationEvent",
+    "name": "Origin: Where Forms Spring into Being",
+    "url": "https://www.knma.org/whats-on/workshops/origin-where-forms-spring-into-being",
+    "startDate": "2026-05-24T10:00:00+05:30",
+    "endDate": "2026-05-24T10:00:00+05:30",
+    "description": "Meeting Point",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
     "name": "Craftopia Season 10",
     "url": "https://www.knma.org/whats-on/workshops/craftopia-season-10",
     "startDate": "2026-05-26T10:00:00+05:30",
@@ -189,6 +169,26 @@
     "location": {
       "@type": "Place",
       "name": "National Crafts Museum & Hastkala Academy, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Project Natta Company\u2019s Travelling Borobari",
+    "url": "https://www.knma.org/whats-on/events/project-natta-companys-travelling-borobari",
+    "startDate": "2026-05-27T10:00:00+05:30",
+    "endDate": "2026-05-29T18:00:00+05:30",
+    "description": "Rolling Museum",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
       "address": "New Delhi"
     },
     "organizer": {
