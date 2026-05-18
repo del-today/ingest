@@ -1,40 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "Koumudi(2025)",
-    "url": "https://fillum.in/screening/5419",
-    "startDate": "2026-05-18T18:30:00+05:30",
-    "endDate": "2026-05-18T18:30:00+05:30",
-    "description": "Registrations open on 9 May.",
-    "location": {
-      "@type": "Place",
-      "name": "Stein Auditorium, India Habitat Centre",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Habitat FIlm Festival"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Homebound(2025)",
-    "url": "https://fillum.in/screening/5420",
-    "startDate": "2026-05-18T21:00:00+05:30",
-    "endDate": "2026-05-18T21:00:00+05:30",
-    "description": "Registrations open on 9 May.",
-    "location": {
-      "@type": "Place",
-      "name": "Stein Auditorium, India Habitat Centre",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Habitat FIlm Festival"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "Kangbo Aloti(2025)",
     "url": "https://fillum.in/screening/5421",
     "startDate": "2026-05-19T13:00:00+05:30",
