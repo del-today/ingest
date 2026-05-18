@@ -265,6 +265,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Surface and Memory: an image transfer workshop",
+    "description": "Gallery XXL presents Surface and Memory, an image transfer workshop with artist Kapil Jangid (@streetdog0506), exploring materiality and the ways surfaces can hold memory, traces, and personal narratives.Rooted in Kapil\u2019s practice engaging with architecture, urban landscapes, labour, and material exploration, the workshop will introduce participants to techniques of transferring photographic imagery onto surfaces such as MDF boards, ceramic tiles, glass, and other materials.Through guided exercises and experimentation, participants will learn how everyday materials can become sites for storytelling and visual intervention.As part of the workshop, each participant is required to submit one photograph prior to the session, which they will work with during the workshop.Ticket price: \u20b91000 per participantDate: Saturday, May 23, 2026 Time: 5 pm - 6.30 pmVenue: Gallery XXL, A-277, Defence Colony, New Delhi, Delhi-110024*All materials will be provided at the venue*Please note there is limited parking available at the gallery; we recommend using public transportFor any further information, contact us at info@galleryxxl.com or +91 9324857354",
+    "startDate": "2026-05-23T05:00:00+05:30",
+    "endDate": "2026-05-23T06:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "2nd Floor, A-277, Block A, Defence Colony, New Delhi, Delhi 110024, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.57405660000000000000",
+        "longitude": "77.22903090000001000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "1000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gallery XXL",
+      "url": "https://urbanaut.app/partner/galleryxxl"
+    },
+    "url": "https://urbanaut.app/spot/surface-and-memory-an-image-transfer-workshop",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Open SketchBook",
     "description": "Open SketchBook: You don\u2019t need to leave the city to feel grounded.OverviewOur core belief is that you do not need to leave the city to feel grounded. In a world where everyone is distracted, we pause as a group to give our attention to one shared thing. Sketching becomes the medium to notice small, living details in urban spaces that we usually rush through.You do not need to be an artist to enjoy sketching. Open SketchBook is a session for anyone who wants to explore drawing as a way to relax and observe the world. It is about the process of putting pencil to paper rather than the final masterpiece.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to expectGuided Observation: Learn simple ways to look at objects or spaces and translate them into lines and shapes.Creative Freedom: A judgment free zone where you can experiment with sketching without worrying about \"doing it right.\"Tactile Experience: Use your new diary and pencil kit to capture what you see in the moment.Relaxed Environment: Enjoy a late afternoon at Greenr with a small group of people who just want to create and connect.Details\ud83d\uddd3\ufe0f Date: 19th April (Sunday)\u23f0 Time: 5:00 PM\ud83d\udccd Location: Greenr, Golf Course Ext Road\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes an A6 diary and pencil kit)",
@@ -333,6 +371,43 @@
     "url": "https://urbanaut.app/spot/cinema-circle",
     "keywords": [
       "Leisure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "SUNSET SEROTONIN CLUB",
+    "description": "Sunset Serotonin Club \u2728\ud83c\udf24\ufe0fAn evening picnic filled with slow conversations, soft sunsets, fresh air & good vibes \ud83c\udf3f\u2615\ud83e\uddfa\ud83d\udccd Meltado, Sunder Nursery\ud83d\udcc5 23rd May 2026\u23f0 3:30 PM \u2013 5:30 PM\u2615 Buy your own coffee/snacksCome unwind, meet new people, journal, chat, relax, or simply exist peacefully for a while \ud83c\udf38Limited slots available \u2014 book yours now! \ud83d\udc8c",
+    "startDate": "2026-05-23T15:30:00+05:30",
+    "endDate": "2026-05-23T17:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "World Heritage, Sunder Nursery, Nizamuddin, Humayun's Tomb, Sundar Nagar, New Delhi, Delhi 110013, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59429360000000000000",
+        "longitude": "77.24410859999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "299.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Maison Mind",
+      "url": "https://urbanaut.app/partner/maison-mind"
+    },
+    "url": "https://urbanaut.app/spot/sunset-serotonin-club",
+    "keywords": [
+      "Wellness",
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -1040,6 +1115,82 @@
     "keywords": [
       "Pop-up Event",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "ALT EFF Film Club x GuruJal Gurugram | 19th June",
+    "description": "PROGRAMME DETAILS FOR JUNE TO BE ADDED*To become a Film Club Member, continue with the regular booking process. The membership option will appear after you select the venue and date.All activities, including discussions and refreshments, will occur between 7:00 and 9:00 PM.What's Included?Exclusive screenings of the world's best environmental cinemaAccess to a community of environmentally inclined, film-loving peopleA chance to express yourself at ALT EFF VoicesPost-film discussions.Student Discount50% off for students with a valid ID (& must bring ID to the screening).CODE: ALTSTUDENTABOUT ALT EFFIf you are tired of the outrage cycle, doomscrolling collapse, and the looming AI takeover narrative. If you have caught yourself going numb just to cope. We see you.All Living Things Environmental Film Festival is back with the third season of Film Club. A monthly meet up across 12 cities over 5 months, orbiting environmental cinema that cracks you open without trapping you in doom and gloom.It is a room full of people choosing to show up in cities whose infrastructure persuades you to stay home, choosing to sit together, watch together, and turn private anxiety into collective imagination. Messy. Human. Honest conversation.\u00a0With snacks. Always snacks.",
+    "startDate": "2026-06-19T19:00:00+05:30",
+    "endDate": "2026-06-19T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "6/9, F-2, Block F, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46430350000000000000",
+        "longitude": "77.09600040000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "354.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "All Living Things Environmental Film Festival",
+      "url": "https://urbanaut.app/partner/alteff-filmclub"
+    },
+    "url": "https://urbanaut.app/spot/alteff-filmclub-gurugram",
+    "keywords": [
+      "Local",
+      "Festival",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "ALT EFF Film Club x Remakery Delhi | 19th June",
+    "description": "PROGRAMME FOR JUNE TO BE ADDED*To become a Film Club Member, continue with the regular booking process. The membership option will appear after you select the venue and date.All activities, including discussions and refreshments, will occur between 7:00 and 9:00 PM.What's Included?Exclusive screenings of the world's best environmental cinemaAccess to a community of environmentally inclined, film-loving peopleA chance to express yourself at ALT EFF VoicesPost-film discussions.Student Discount50% off for students with a valid ID (& must bring ID to the screening).CODE: ALTSTUDENTABOUT ALT EFF Film ClubIf you are tired of the outrage cycle, doomscrolling collapse, and the looming AI takeover narrative. If you have caught yourself going numb just to cope. We see you.All Living Things Environmental Film Festival is back with the third season of Film Club. A monthly meet up across 12 cities over 5 months, orbiting environmental cinema that cracks you open without trapping you in doom and gloom.It is a room full of people choosing to show up in cities whose infrastructure persuades you to stay home, choosing to sit together, watch together, and turn private anxiety into collective imagination. Messy. Human. Honest conversation.\u00a0With snacks. Always snacks.",
+    "startDate": "2026-06-19T19:00:00+05:30",
+    "endDate": "2026-06-19T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "R 84, opposite Select Citywalk, Block J, Khirki Extension, Malviya Nagar, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53209050000000000000",
+        "longitude": "77.21784699999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "354.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "All Living Things Environmental Film Festival",
+      "url": "https://urbanaut.app/partner/alteff-filmclub"
+    },
+    "url": "https://urbanaut.app/spot/alteff-filmclub-delhi",
+    "keywords": [
+      "Local",
+      "Festival",
+      "Art & culture",
       "URBANAUT"
     ]
   }
