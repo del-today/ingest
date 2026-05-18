@@ -1119,6 +1119,42 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Whose Art Is It Anyway?",
+    "description": "Who gets to create, define, and own art?About the LectureArt is often spoken about as something universal, but in reality, art has never existed outside systems of access.This participatory lecture explores how artists from historically marginalised communities navigate spaces where their work is frequently appropriated, diluted, celebrated without context, or dismissed altogether. Drawing from performance and narrative traditions across South Asia, the session asks what shapes artistic legitimacy \u2014 and who gets excluded from it.The lecture explores:How caste, class, gender, religion, and sexuality influence who is allowed to create and whose work is valuedWhy certain forms of expression become \u201cmainstream,\u201d while others are labelled \u201cfolk,\u201d \u201cobscene,\u201d or \u201cpolitical\u201dHow art can function both as a site of erasure and a tool of assertionWhat it means to witness, consume, and engage with art responsiblyThrough examples, discussion, and interactive prompts, participants will reflect on the relationship between art, memory, dignity, and justice.At its core, this lecture invites us to see art not as passive representation, but as a way of negotiating identity, resistance, and belonging.About the SpeakerSri Vamsi Matta is a Bangalore-based interdisciplinary theatre artist whose work is rooted in lived experience, political memory, and anti-caste thought. Born into a Dalit community, his practice engages with everyday and structural violence of caste, positioning art as a space for refusal, repair, and collective imagination.Working across theatre, performance, writing, and participatory formats, his work brings together autobiography, community history, and radical pedagogy. His recent works include Star in the Sky, exploring the emotional and political lives of Dalit students in Indian universities, and Come Eat With Me, a participatory performance examining caste through food and shared meals, staged across India, the United States, and Australia.Vamsi has facilitated workshops, lectures, and teaching engagements across institutions including Azim Premji University, Ashoka University, Northwestern University, and the University of Texas at Austin, bringing anti-caste artistic practice into conversation with diverse audiences nationally and internationally.All Grounds for Thought tickets include a \u20b9250 coupon redeemable on food and beverages at the venue.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-05-31T16:00:00+05:30",
+    "endDate": "2026-05-31T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "No 59, PVR Priya Complex, Basant Lok, Vasant Vihar, New Delhi, Delhi 110057, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55719760000000000000",
+        "longitude": "77.16396630000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/whose-art-is-it-anyway",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Spiral - 31 May",
     "description": "Spiral is an immersive solo performance driven by the actor\u2019s body as a tool, in powerful dialogue with live music\u2014featuring four of the finest musicians in the country.Weaving together three distinct narratives in a fluid, stream-of-consciousness style, it explores how urban women navigate and negotiate abuse across  public and private spaces.Raw, immediate and unflinching\u2014this is storytelling that pulls you right into the heart of it.",
