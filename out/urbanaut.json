@@ -154,6 +154,42 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
+    "name": "In Her Interest by Zerodha  x Masters Union",
+    "description": "Women have a complicated relationship with money. And it starts early. Many families shield their daughters from anything related to \u2018finance\u2019, but this well-meaning protection ends up being a disservice. For when these young women step into the real world, they lack the confidence to make financial decisions -\u00a0not because they\u2019re incapable, but because they were never given information on budgeting, savings, and investments. Later in life, many continue to rely on their partners for investment decisions. This dependency on others will only stop when they have the right information and toolkit to take back control. That\u2019s where we come in.We launch 'In Her Interest' on 22nd May in Delhi and will focus on one core idea for the launch:Building financial security for women.The session will be led by two amazing experts who truly get it.Zeba Zaidi Adeeb, Co-Founder - Spectacom Global, Creator of Devils Circuit & The Yoddha RaceManisha Pande, Tax Partner, Aeka Advisors (ex - GE, AA/EY)This session is on  Finance and the Entrepreneur.Once you buy a ticket, you also get to send a question that the speakers will address during the session.Note: Each session is theme-based, this session is about 'Finance and the Entrepreneur' - we are not talking stocks and shares.",
+    "startDate": "2026-05-22T16:00:00+05:30",
+    "endDate": "2026-05-22T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Vi-John Tower, 393, Phase III, Udyog Vihar, Sector 20, Gurugram, Haryana 122016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.50562100000000000000",
+        "longitude": "77.08873980000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "In Her Interest by Zerodha",
+      "url": "https://urbanaut.app/partner/inherinterest"
+    },
+    "url": "https://urbanaut.app/spot/masters-union-women-entrepreneurs",
+    "keywords": [
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
     "name": "In Her Interest by Zerodha - Delhi",
     "description": "Women have a complicated relationship with money. And it starts early. Many families shield their daughters from anything related to \u2018finance\u2019, but this well-meaning protection ends up being a disservice. For when these young women step into the real world, they lack the confidence to make financial decisions -\u00a0not because they\u2019re incapable, but because they were never given information on budgeting, savings, and investments. Later in life, many continue to rely on their partners for investment decisions. This dependency on others will only stop when they have the right information and toolkit to take back control. That\u2019s where we come in.We launch 'In Her Interest' on 22nd May in Delhi and will focus on one core idea for the launch:Building financial security for women.The session will be led by two amazing experts who truly get it.Zeba Zaidi Adeeb, Co-Founder - Spectacom Global, Creator of Devils Circuit & The Yoddha RaceManisha Pande, Tax Partner, Aeka Advisors (ex - GE, AA/EY)This session is on  Finance and the Entrepreneur.Once you buy a ticket, you also get to send a question that the speakers will address during the session.Note: Each session is theme-based, this session is about 'Finance and the Entrepreneur' - we are not talking stocks and shares.",
     "startDate": "2026-05-22T16:00:00+05:30",
@@ -470,7 +506,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "999.00",
+      "price": "1399.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -780,6 +816,41 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Cozy Club at goSTOPS delhi",
+    "description": "Bring your current book, sketchbook, laptop, or just yourself, and drop in anytime! We\u2019re setting up a low-key, zero-pressure lounge with a great playlist and complimentary hot tea and coffee to keep you company. This hangout is completely scale-proof: if it\u2019s a small group, we\u2019ll just chill, sip our drinks, and enjoy a cozy afternoon; but if a crowd turns up, we will spontaneously pivot into an epic, low-stakes Trivia Night later in the evening. just grab your things, come solo or with friends, and enjoy the perfect weekend vibe!",
+    "startDate": "2026-05-24T17:00:00+05:30",
+    "endDate": "2026-05-24T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gate no 3, 4/23-B, Asaf Ali Rd, opp. Metro Station, Chatta lal Miya, Delhi Gate, Daryaganj, New Delhi, Delhi, 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64083430000000000000",
+        "longitude": "77.23897370000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "118.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "goSTOPS",
+      "url": "https://urbanaut.app/partner/gostops"
+    },
+    "url": "https://urbanaut.app/spot/gostopsdl",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Why Did Bengal Vote Differently? | Policy & Chai",
     "description": "Every month, we pick one topic \u2014 a policy decision, a political shift, a global event \u2014 and actually talk it through. No lectures, no expertise required. Just curious people, different perspectives, and chai.This month's question: Why does Bengal vote differently from the rest of India?From the Left Front's 34-year reign to Mamata's TMC dominance, Bengal has consistently defied national political trends. What makes it so distinct \u2014 is it history, identity, class politics, or something else entirely? And what does it mean for 2026?What to expectA moderated discussion where everyone gets to speak. We go through different layers of the topic \u2014 historical context, current dynamics, what's at stake \u2014 and open it up for the room to debate, disagree, and figure things out together.No slides. No panel. Just a good conversation.Who's it forAnyone who's curious about Indian politics, follows the news, or just wants a space to think out loud with people who take these things seriously. You don't need to know Bengal politics inside out \u2014 half the fun is figuring it out together in the room.Join the communityWant to stay in the loop for future sessions? Join the Policy & Chai WhatsApp community here: https://chat.whatsapp.com/KHdTLqcmEaz53DBy1gSsB6Details\ud83d\udcc5 Sunday, 24th May\u23f0 5:00 PM onwards\ud83d\udccd Siyah Art House, New Delhi\ud83c\udf9f\ufe0f \u20b9219",
@@ -972,7 +1043,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Fresh Pasta Workshop",
-    "description": "Join Anita in her rooftop kitchen-studio to make fresh pasta (eggless!!) from scratch and never buy pasta again.Italy does not have a monopoly on pasta - we have our own shapes! We'll learn how to make flat pasta as well as hand-formed shapes like Cavatelli and Farfalle (Italy), Shunali (Spiti), Sundarkala (Uttarakhand), and Skyu (from Ladakh), using basic pasta dough (including whole wheat). We will discuss different flour blends and understand how they influence methods and techniques for rolling and shaping pasta. While a rolling pin is all we need, we will also try our hands at using a pasta machine.At the end of the workshop we will gather some herbs from the garden, cook up what we've created, and sit down to enjoy the meal, and share food stories around the table.It's a hands-on workshop; dress comfortably.250+ workshops and counting! Anita is a practicing Landscape Architect who enjoys cooking with seasonal ingredients. Her Home and Garden, exemplifying sustainable living, have featured in leading media (HT, The Better India, etc). Her recipes have been published in leading journals and cookbooks. Like-minded people join her in the kitchen on weekends to cook and eat. She has been baking sourdough breads at home for over 15 years using local flours and her lively wild yeast starter. Come for Pasta, stay for the Bread.",
+    "description": "Join Anita in her rooftop kitchen-studio to make fresh pasta (eggless!!) from scratch and never buy pasta again.Italy does not have a monopoly on pasta - we have our own shapes! We'll learn how to make flat pasta as well as hand-formed shapes like Cavatelli and Farfalle (Italy), Shunali (Spiti), Sundarkala (Uttarakhand), and Skyu (from Ladakh), using basic pasta dough (including whole wheat). We will discuss different flour blends and understand how they influence methods and techniques for rolling and shaping pasta. While a rolling pin is all we need, we will also try our hands at using a pasta machine.At the end of the workshop we will gather some herbs from the garden, cook up what we've created, and sit down to enjoy the meal, and share food stories around the table.It's a hands-on workshop; dress comfortably.250+ workshops and counting! Anita is a practicing Landscape Architect who enjoys cooking. Her Home and Garden, exemplifying sustainable living, have featured in leading media. Her recipes have been published in leading journals and cookbooks. Like-minded people join her in the kitchen on weekends to cook and eat. Come for Pasta, stay for the Bread.",
     "startDate": "2026-05-30T16:00:00+05:30",
     "endDate": "2026-05-30T19:30:00+05:30",
     "location": {
@@ -1027,7 +1098,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "3250.00",
+      "price": "3200.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
