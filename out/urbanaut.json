@@ -676,6 +676,82 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "BADDY WITH BADDIES (Gurugram)",
+    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.5:50 PM Meet up and Warm up Time6:00 PM Game TimeSee you on court!",
+    "startDate": "2026-05-23T18:00:00+05:30",
+    "endDate": "2026-05-23T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Sportyzo Badminton Academy, Emaar emerald hills, Golf Course Ext Rd, opposite Ivory Block, Sector 65, Gurugram, Haryana 122011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40465650000000000000",
+        "longitude": "77.07401440000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "250.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/badmintonggn",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Pickleball with SWAG | Gurugram",
+    "description": "The SWAG Pickleball Party is you perfect saturday evening plan!This is a women-only, beginner-friendly meet-up.See you on court!",
+    "startDate": "2026-05-23T18:00:00+05:30",
+    "endDate": "2026-05-23T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Sportyzo Sports Academy, Sector 65, Gurugram, Haryana 122101, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40450950000000000000",
+        "longitude": "77.07416250000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "360.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/ggnpickle",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Old Delhi City Walk - Haunted Lanes of Delhi",
     "description": "This May, join us for a special edition of the Old Delhi City Walk, exploring the haunting histories and layered legends of Khooni Darwaza and Feroz Shah Kotla Fort.Led by young guides from Salaam Baalak Trust, the walk offers a rare perspective on the city beyond the usual tourist trail \u2014 before concluding with a breakfast buffet at Chor Bizarre.Meeting Point: Delhi Gate Metro Station (Gate 1) at 7:30AM sharp",
     "startDate": "2026-05-24T07:30:00+05:30",
