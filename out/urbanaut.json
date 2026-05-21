@@ -265,44 +265,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Surface and Memory: an image transfer workshop",
-    "description": "Gallery XXL presents Surface and Memory, an image transfer workshop with artist Kapil Jangid (@streetdog0506), exploring materiality and the ways surfaces can hold memory, traces, and personal narratives.Rooted in Kapil\u2019s practice engaging with architecture, urban landscapes, labour, and material exploration, the workshop will introduce participants to techniques of transferring photographic imagery onto surfaces such as MDF boards, ceramic tiles, glass, and other materials.Through guided exercises and experimentation, participants will learn how everyday materials can become sites for storytelling and visual intervention.As part of the workshop, each participant is required to submit one photograph prior to the session, which they will work with during the workshop.Ticket price: \u20b91000 per participantDate: Saturday, May 23, 2026 Time: 5 pm - 6.30 pmVenue: Gallery XXL, A-277, Defence Colony, New Delhi, Delhi-110024*All materials will be provided at the venue*Please note there is limited parking available at the gallery; we recommend using public transportFor any further information, contact us at info@galleryxxl.com or +91 9324857354",
-    "startDate": "2026-05-23T05:00:00+05:30",
-    "endDate": "2026-05-23T06:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "2nd Floor, A-277, Block A, Defence Colony, New Delhi, Delhi 110024, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.57405660000000000000",
-        "longitude": "77.22903090000001000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "1000.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Gallery XXL",
-      "url": "https://urbanaut.app/partner/galleryxxl"
-    },
-    "url": "https://urbanaut.app/spot/surface-and-memory-an-image-transfer-workshop",
-    "keywords": [
-      "Leisure",
-      "Workshop",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Sacred Footsteps : Sufi Trails of Mehrauli",
     "description": "Step into the mystical lanes and forgotten ruins of Mehrauli and the enchanting Mehrauli Archaeological Park through the lens of Sufism.Sacred Footsteps: Sufi trails \ud83d\udc63 of Mehrauli Join us for a deeply immersive heritage walk where history, spirituality, poetry, and love legends intertwine. Together, we will explore medieval ruins, hidden stories, sacred spaces, and the Sufi imagination that once shaped the soul of Mehrauli.Curated by Darwesh Heritage Walks, in collaboration with Sabhyata Foundation.Along the way, we will also revisit the timeless love legend of Heer\u2013Ranjha through a Sufi lens \u2014 not merely as a romance, but as a metaphor for divine longing & surrender.The walk will conclude with a visit to a living Sufi space where we reflect upon the continuing spiritual traditions that still breathe within Mehrauli today.\ud83d\udccd Mehrauli Archaeological Park & Village\ud83d\udcc5 23rd May\u23f0 8:00 AM onwards. Meeting point: Outside Qutub Minar ticket counter \ud83c\udf9f Ticket Fee: \u20b9799 per person \ud83d\udcde 99 99 8 96427 Curated by Darwesh Heritage Walks, in collaboration with Sabhyata Foundation.(Please note: The fee being charged is not for entry into any monument or shrine . It is purely for the curated and guided storytelling experience.)",
@@ -446,6 +408,44 @@
     "url": "https://urbanaut.app/spot/lecture31-how-not-to-be-fooled-by-data",
     "keywords": [
       "Live GIG",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Surface and Memory: an image transfer workshop",
+    "description": "Gallery XXL presents Surface and Memory, an image transfer workshop with artist Kapil Jangid (@streetdog0506), exploring materiality and the ways surfaces can hold memory, traces, and personal narratives.Rooted in Kapil\u2019s practice engaging with architecture, urban landscapes, labour, and material exploration, the workshop will introduce participants to techniques of transferring photographic imagery onto surfaces such as MDF boards, ceramic tiles, glass, and other materials.Through guided exercises and experimentation, participants will learn how everyday materials can become sites for storytelling and visual intervention.As part of the workshop, each participant is required to submit one photograph prior to the session, which they will work with during the workshop.Ticket price: \u20b91000 per participantDate: Saturday, May 23, 2026 Time: 5 pm - 6.30 pmVenue: Gallery XXL, A-277, Defence Colony, New Delhi, Delhi-110024*All materials will be provided at the venue*Please note there is limited parking available at the gallery; we recommend using public transportFor any further information, contact us at info@galleryxxl.com or +91 9324857354",
+    "startDate": "2026-05-23T17:00:00+05:30",
+    "endDate": "2026-05-23T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "2nd Floor, A-277, Block A, Defence Colony, New Delhi, Delhi 110024, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.57405660000000000000",
+        "longitude": "77.22903090000001000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "1000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gallery XXL",
+      "url": "https://urbanaut.app/partner/galleryxxl"
+    },
+    "url": "https://urbanaut.app/spot/surface-and-memory-an-image-transfer-workshop",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "Art & culture",
       "URBANAUT"
     ]
   },
