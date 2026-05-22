@@ -223,5 +223,45 @@
     "keywords": [
       "KNMA"
     ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "The Diagonal Room",
+    "url": "https://www.knma.org/whats-on/workshops/the-diagonal-room",
+    "startDate": "2026-05-31T10:00:00+05:30",
+    "endDate": "2026-05-31T10:00:00+05:30",
+    "description": "Meeting Point",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Clay in Resonance: A Ghatam Workshop",
+    "url": "https://www.knma.org/whats-on/workshops/clay-in-resonance-a-ghatam-workshop",
+    "startDate": "2026-06-09T10:00:00+05:30",
+    "endDate": "2026-06-12T18:00:00+05:30",
+    "description": "Artist in Me",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
   }
 ]
