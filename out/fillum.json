@@ -1,23 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "Baapya(2026)",
-    "url": "https://fillum.in/screening/5432",
-    "startDate": "2026-05-22T13:00:00+05:30",
-    "endDate": "2026-05-22T13:00:00+05:30",
-    "description": "Registrations open on 16 May.",
-    "location": {
-      "@type": "Place",
-      "name": "Stein Auditorium, India Habitat Centre",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Habitat FIlm Festival"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "23 (Iravai Moodu)(2025)",
     "url": "https://fillum.in/screening/5433",
     "startDate": "2026-05-22T16:00:00+05:30",
