@@ -1,57 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "The Elysian Field(2025)",
-    "url": "https://fillum.in/screening/5438",
-    "startDate": "2026-05-23T16:00:00+05:30",
-    "endDate": "2026-05-23T16:00:00+05:30",
-    "description": "Registrations open on 16 May.",
-    "location": {
-      "@type": "Place",
-      "name": "Stein Auditorium, India Habitat Centre",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Habitat FIlm Festival"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Sarkeet(2025)",
-    "url": "https://fillum.in/screening/5439",
-    "startDate": "2026-05-23T18:30:00+05:30",
-    "endDate": "2026-05-23T18:30:00+05:30",
-    "description": "Registrations open on 16 May.",
-    "location": {
-      "@type": "Place",
-      "name": "Stein Auditorium, India Habitat Centre",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Habitat FIlm Festival"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Chaar Phool Hain Aur Duniya Hai(2024)",
-    "url": "https://fillum.in/screening/5456",
-    "startDate": "2026-05-23T19:00:00+05:30",
-    "endDate": "2026-05-23T19:00:00+05:30",
-    "description": "Registrations open on 16 May.",
-    "location": {
-      "@type": "Place",
-      "name": "The Theatre, India Habitat Centre",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Habitat FIlm Festival"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "Sabar Bonda(2025)",
     "url": "https://fillum.in/screening/5440",
     "startDate": "2026-05-23T21:00:00+05:30",
