@@ -40,118 +40,6 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "name": "Hot Girls Do Pilates | SWAG x BASI",
-    "description": "Let\u2019s make your Sunday morning extra feel-good with Hot Girs Do Pilates, a guided pilates experience by SWAG \ud83d\udc9bWe have both reformer and mat pilates, but spots are limited!Come and feel fitter in the company of like-minded women, and stayback for a quick coffee/tea and some chit-chat!",
-    "startDate": "2026-05-24T10:00:00+05:30",
-    "endDate": "2026-05-24T11:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "2nd Floor, Model Town, F-14/17, near vodafone store, Model Town Phase 2, Phase 2, Model Town, new delhi, Delhi, 110033, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.70579230000000000000",
-        "longitude": "77.19057350000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1399.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/hotgirlsdopilates",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "BADDY WITH BADDIES | GK 1",
-    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.9:50 AM Meet up and Warm up Time10:00 AM Game TimeSee you on court!",
-    "startDate": "2026-05-24T10:00:00+05:30",
-    "endDate": "2026-05-24T11:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Nandi Vithi Rd, N Block, Greater Kailash I, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55579910000000000000",
-        "longitude": "77.23527080000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "295.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swagbadmintongk",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Listening Room (for members)",
-    "description": "The Listening Room: A Space for Deep ListeningOverviewIn a world that is always talking, we rarely get the chance to truly listen. The Listening Room is a unique session dedicated to the art of being present. It is a space to share, to hear others, and to practice the kind of attention that builds real connection and empathy.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to expectActive Listening: Practice being fully present while others speak without the need to interrupt or give immediate advice.Shared Stories: A safe environment to share your own thoughts or experiences and feel truly heard by a small group.Quiet Reflection: Moments of silence to process what has been shared and to notice how deep listening changes our perspective.Supportive Connection: A morning at Greenr focused on human presence and the simple power of witnessing each other\u2019s stories.Details\ud83d\uddd3\ufe0f Date: 24th May (Sunday)\u23f0 Time: 11:00 AM\ud83d\udccd Location: Greenr, Golf Course Ext Road",
-    "startDate": "2026-05-24T11:00:00+05:30",
-    "endDate": "2026-05-24T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "First Floor, Grand View High Street, Golf Course Ext Rd, Sector 58, Gurugram, Haryana 122098, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.41623070000000000000",
-        "longitude": "77.10243700000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/the-listening-room-member",
-    "keywords": [
-      "Wellness",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
     "name": "Play to Performance: Improv 14 Hour Workshop",
     "description": "Step into a space where spontaneity meets performance.Improv Level One \u2013 From Play to Performance is a 14-hour immersive improv theatre workshop at The Immersion Room, Gurgaon, designed for adults who want to explore creativity, confidence, and live expression.Through a series of interactive theatre games, scene work, and character exploration, participants develop:Spontaneity & quick thinkingPresence & active listeningConfidence in expressionCollaboration & trustStorytelling through performanceThis workshop focuses on learning by doing\u2014breaking inhibitions, embracing uncertainty, and discovering the joy of being fully present.Multi-day Weekend Workshop SeriesMay 3, 2026 | 11:00 AM \u2013 1:00 PMMay 10, 2026 | 11:00 AM \u2013 1:00 PMMay 17, 2026 | 11:00 AM \u2013 1:00 PMMay 24, 2026 | 12:00 PM \u2013 2:00 PMMay 31, 2026 | 11:00 AM \u2013 1:00 PMJune 7, 2026 | 11:00 AM \u2013 1:00 PMJune 14, 2026 | 11:00 AM \u2013 1:00 PMTotal Duration: 14 HoursFormat: In-person | Adults OnlyFinal Showcase:The experience culminates in a live improv performance at The Immersion Room, where participants step onto the stage and perform in front of an audience.",
     "startDate": "2026-05-24T11:00:00+05:30",
@@ -189,42 +77,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Listening Room",
-    "description": "The Listening Room: A Space for Deep ListeningOverviewIn a world that is always talking, we rarely get the chance to truly listen. The Listening Room is a unique session dedicated to the art of being present. It is a space to share, to hear others, and to practice the kind of attention that builds real connection and empathy.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to expectActive Listening: Practice being fully present while others speak without the need to interrupt or give immediate advice.Shared Stories: A safe environment to share your own thoughts or experiences and feel truly heard by a small group.Quiet Reflection: Moments of silence to process what has been shared and to notice how deep listening changes our perspective.Supportive Connection: A morning at Greenr focused on human presence and the simple power of witnessing each other\u2019s stories.Details\ud83d\uddd3\ufe0f Date: 24th May (Sunday)\u23f0 Time: 11:00 AM\ud83d\udccd Location: Greenr, Golf Course Ext Road\ud83c\udf9f\ufe0f Contribution: \u20b9700",
-    "startDate": "2026-05-24T11:00:00+05:30",
-    "endDate": "2026-05-24T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "First Floor, Grand View High Street, Golf Course Ext Rd, Sector 58, Gurugram, Haryana 122098, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.41623070000000000000",
-        "longitude": "77.10243700000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "661.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/listening-room",
-    "keywords": [
-      "Wellness",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "SCC Gourmet Cinema - Midnight in Paris",
     "description": "Sunset Cinema Club, in collaboration with The Piano Man New Delhi, invites you to a moveable feast through time, where nostalgia, romance, and timeless flavors transport you to a Paris that exists somewhere between memory and imagination.Inspired by Midnight in Paris, this experience follows Gil Pender\u2019s whimsical journey through the streets of Paris, where past and present blur, and every midnight unlocks a different era. As he drifts from modern day Paris to the golden age of the 1920s, and further into the dreamlike charm of La Belle \u00c9poque, the film becomes an ode to art, longing, and the magic of another time.Experience this journey through a thoughtfully curated 5-course tasting menu inspired by Paris through time, from modern day Paris to the roaring 1920s, culminating in the elegance of La Belle \u00c9poque. Each course brings together refined classics, nostalgic indulgences, and playful reinterpretations, served in sync with moments on screen and echoing the film\u2019s themes of romance, reinvention, and the allure of the past.Food: Vegetarian and Non-Vegetarian options available.Drinks: 1 Alcoholic and 1 Non-Alcoholic beverage available.Please note: The menu is fixed and cannot be modified.Seating is pre-arranged. If you\u2019ve booked a ticket, you are assured a seat. ",
@@ -257,82 +109,6 @@
     "keywords": [
       "Leisure",
       "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Parkour with SWAG",
-    "description": "Ready to surprise yourself?This women-only parkour session is your chance to move in ways you never thought you could - in a supportive, judgment-free space built just for you by SWAG. No experience needed. No pressure. Just you, your body, and a whole lot of fun.A coach by Delhi Rock will guide you through everything from safe landings to vaults and jumps, at a pace that works for you. You'll leave feeling stronger, braver, and a little bit unstoppable.Bring: Come in comfortable activewear and carry a water bottle.Get ready for a fun, energizing Sunday afternoon with a community of like-minded women. Just bring your energy, curiosity, and love for trying something new!The venue is in the Squash and Badminton Stadium on Siri Fort Road.",
-    "startDate": "2026-05-24T12:15:00+05:30",
-    "endDate": "2026-05-24T13:15:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Siri Fort, New Delhi, Delhi 110049, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55326250000000000000",
-        "longitude": "77.22100110000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "400.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/parkour",
-    "keywords": [
-      "Adventure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Climb Like A Girl",
-    "description": "Climb Like A Girl is back! Get ready for a fun, energizing climbing session. It is a beginner-friendly, women-only meetup. The session will be guided by professionals at The Delhi Rock. Just bring your energy, curiosity, and love for trying something new! The venue is in the Squash and Badminton Stadium on Siri Fort Road.",
-    "startDate": "2026-05-24T12:15:00+05:30",
-    "endDate": "2026-05-24T13:15:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Siri Fort, New Delhi, Delhi 110049, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55326250000000000000",
-        "longitude": "77.22100110000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "400.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swagclim",
-    "keywords": [
-      "Adventure",
-      "Wellness",
-      "Active",
       "URBANAUT"
     ]
   },
@@ -1343,7 +1119,7 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "The Tiny Hands Art Camp - 10 Days with 10 Mediums",
-    "description": "Give your child two weeks away from screens and into a space filled with colour, curiosity, imagination, and hands-on making. \u2728At Between Easels, children are introduced to 10 different art mediums through playful, guided sessions designed to help them explore freely, think creatively, and build confidence through art. From painting and printmaking to sculpture, collage, and clay \u2014 every class becomes a new creative adventure.Led by practicing artists in a warm and encouraging studio environment, the workshop focuses not on perfection, but on expression, observation, experimentation, and joy. \ud83c\udfa8The program concludes with a special exhibition where children proudly display their artworks for friends and family \u2014 celebrating everything they\u2019ve created over the two weeks. \ud83d\uddbc\ufe0fBETWEEN EASELS \u2014 KIDS WORKSHOP SCHEDULE10 Days \u2022 10 Mediums \u2022 Endless Creativity\u23f0 Class Timing: 10 AM \u2013 12 PM\u2022 1 June (Mon) \u2014 Abstract ArtExplore colours, textures, movement, and playful mark-making through expressive painting exercises and creative experimentation.\u2022 2 June (Tue) \u2014 Still Life DrawingLearn observation, light, shadows, and basic geometric forms through pencil and charcoal sketching.\u2022 3 June (Wed) \u2014 CollagingCreate layered artworks using paper cut-outs, textures, found materials, and imaginative composition techniques.\u2022 4 June (Thu) \u2014 Paint Like PicassoExperiment with bold colours, playful portraits, abstract faces, and cubist-inspired visual storytelling.\u2022 5 June (Fri) \u2014 MonoprintingDiscover simple printmaking methods to create expressive, one-of-a-kind textured prints.\u2728 Weekend Off\u2022 8 June (Mon) \u2014 Collective Painting & CollageWork together on large collaborative artworks using paint, collage, textures, and mixed media.\u2022 9 June (Tue) \u2014 3D POP SculptureBuild playful three-dimensional forms through sculptural making, construction, and hands-on material exploration.\u2022 10 June (Wed) \u2014 Block PrintingDesign and print repeating patterns using carved blocks, shapes, textures, and vibrant inks.\u2022 11 June (Thu) \u2014 CollographyExplore texture-based printmaking by layering materials to create embossed and experimental surfaces.\u2022 12 June (Fri) \u2014 Clay PortraitsSculpt expressive clay portraits while learning facial structure, textures, and semi-relief techniques.\u2728 Weekend Off",
+    "description": "Give your child two weeks away from screens and into a space filled with colour, curiosity, imagination, and hands-on making. \u2728At Between Easels, children are introduced to 10 different art mediums through playful, guided sessions designed to help them explore freely, think creatively, and build confidence through art. From painting and printmaking to sculpture, collage, and clay \u2014 every class becomes a new creative adventure.Led by practicing artists in a warm and encouraging studio environment, the workshop focuses not on perfection, but on expression, observation, experimentation, and joy. \ud83c\udfa8The program concludes with a special exhibition where children proudly display their artworks for friends and family \u2014 celebrating everything they\u2019ve created over the two weeks. \ud83d\uddbc\ufe0fBETWEEN EASELS \u2014 KIDS WORKSHOP SCHEDULE10 Days \u2022 10 Mediums \u2022 Endless Creativity\u23f0 Class Timing: 10 AM \u2013 12 PM\ud83c\udfa8 Suitable for all skill levels, ages 6+\u2022 1 June (Mon) \u2014 Abstract ArtExplore colours, textures, movement, and playful mark-making through expressive painting exercises and creative experimentation.\u2022 2 June (Tue) \u2014 Still Life DrawingLearn observation, light, shadows, and basic geometric forms through pencil and charcoal sketching.\u2022 3 June (Wed) \u2014 CollagingCreate layered artworks using paper cut-outs, textures, found materials, and imaginative composition techniques.\u2022 4 June (Thu) \u2014 Paint Like PicassoExperiment with bold colours, playful portraits, abstract faces, and cubist-inspired visual storytelling.\u2022 5 June (Fri) \u2014 MonoprintingDiscover simple printmaking methods to create expressive, one-of-a-kind textured prints.\u2728 Weekend Off\u2022 8 June (Mon) \u2014 Collective Painting & CollageWork together on large collaborative artworks using paint, collage, textures, and mixed media.\u2022 9 June (Tue) \u2014 3D POP SculptureBuild playful three-dimensional forms through sculptural making, construction, and hands-on material exploration.\u2022 10 June (Wed) \u2014 Block PrintingDesign and print repeating patterns using carved blocks, shapes, textures, and vibrant inks.\u2022 11 June (Thu) \u2014 CollographyExplore texture-based printmaking by layering materials to create embossed and experimental surfaces.\u2022 12 June (Fri) \u2014 Clay PortraitsSculpt expressive clay portraits while learning facial structure, textures, and semi-relief techniques.\u2728 Weekend Off",
     "startDate": "2026-06-01T10:00:00+05:30",
     "endDate": "2026-06-01T12:00:00+05:30",
     "location": {
