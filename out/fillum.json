@@ -1,57 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "Rajnigandha(1974)",
-    "url": "https://fillum.in/screening/5536",
-    "startDate": "2026-05-24T15:00:00+05:30",
-    "endDate": "2026-05-24T15:00:00+05:30",
-    "description": "UPDATE: Registration closedBy Tangerine.",
-    "location": {
-      "@type": "Place",
-      "name": "Mool, South Ex 2",
-      "address": "South Ex II, New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Fillum"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Adamya(2026)",
-    "url": "https://fillum.in/screening/5443",
-    "startDate": "2026-05-24T16:00:00+05:30",
-    "endDate": "2026-05-24T16:00:00+05:30",
-    "description": "Registrations open on 16 May.",
-    "location": {
-      "@type": "Place",
-      "name": "Stein Auditorium, India Habitat Centre",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Habitat FIlm Festival"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Tighee(2026)",
-    "url": "https://fillum.in/screening/5444",
-    "startDate": "2026-05-24T18:30:00+05:30",
-    "endDate": "2026-05-24T18:30:00+05:30",
-    "description": "Registrations open on 16 May.",
-    "location": {
-      "@type": "Place",
-      "name": "Stein Auditorium, India Habitat Centre",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Habitat FIlm Festival"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "Shorts in Spotlight Vol. 2",
     "url": "https://fillum.in/event/5526",
     "startDate": "2026-05-30T12:00:00+05:30",
