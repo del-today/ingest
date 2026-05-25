@@ -113,6 +113,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Run with Glow Glossary x GOAT Life",
+    "description": "Wait! Don\u2019t hit snooze! You\u2019re about to experience the best Friday morning run ever.Run | Matcha | Mango Matcha Oat Bowls | GamesWhat\u2019s the plan?\ud83d\udfe2 6:15 am \u2014 Meet up & warm up at Perch, Sunder Nursery.\ud83c\udfc3 6:30 am \u2014 We move! A relaxed 2.5 km run through Sunder Nursery. Run, jog, walk - at your pace, no pressure.\ud83c\udf75 7:30 am \u2014 Time for a matcha and oats breakfast party with Glow Glossary and Goat Life. Think games, challenges, and way too many laughs.Come solo, come with a friend, come not knowing a single person - you'll leave with your tummy full and a heart full of memories!All you need to do? Show up!\ud83d\udccd Perch Wine & Coffee Bar, Sunder Nursery\ud83d\uddd3 29 May 2026 \u00b7 6:15 AM",
+    "startDate": "2026-05-29T06:30:00+05:30",
+    "endDate": "2026-05-29T08:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "World Heritage Site Museum, Cafe 3, Government Sunder Nursery Management Trust Facility, Humayun's Tomb, Nizamuddin, Block of Nizamuddin, National Zoological Park, Sundar Nagar, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59457920000000000000",
+        "longitude": "77.24437640000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/mangomatcharun",
+    "keywords": [
+      "Adventure",
+      "Food & drink",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Regular Dance Batch - Artistic Movement",
     "description": "This is a space to tap into the movement language of your body and find the freedom to express, explore and discover together. ",
@@ -597,6 +635,42 @@
       "Local",
       "Premium",
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Trauma Porn: The Pain We Are Trained To Recognise",
+    "description": "Join us on Sunday, May 31, for an evening that questions the stories we are drawn to  and what it means when suffering becomes something we consume.About the LectureStorytelling has never been neutral. But what happens when pain becomes the most visible, shareable, and compelling form of narrative?This session explores the growing phenomenon often described as \u2018trauma porn\u2019, where suffering is shaped, framed, and circulated in ways that make it legible, gripping, and consumable. In an attention economy driven by intensity and immediacy, trauma can begin to function as narrative currency, promoting dramatic and emotionally charged stories over stories that are quieter, slower, or harder to define.Drawing from trauma theory and cultural analysis, this lecture examines how these patterns extend beyond media and into the way we understand our own lives.Flow of the Evening 4:00 PM: Doors open at Depot 48, GK II: Come in, find your seat, and get comfortable4:05 \u2013 4:20 PM: Place your orders and start a few conversations4:30 PM: The learning begins5:15 PM: Open Q&A and discussion with Ms. Gupta5:30 PM onwards: Stay a while: More eating, more drinking, more conversationsAbout the SpeakerVasundhara Gupta is a trauma-focused psychotherapist, narrative practitioner, and the Founder of Humraahi Psychotherapy, a therapist-led mental health practice based in New Delhi. Her work explores the intersection of trauma, storytelling, and the politics of recognition, examining how the narratives available to us shape what we are able to feel, articulate, and survive.Trained at Lady Shri Ram College for Women, University of Delhi, and the Tata Institute of Social Sciences, her therapeutic practice is rooted in relational and process-oriented care, with a particular focus on trauma, grief, identity, and relational complexity.As a narrative practitioner, she is deeply interested in the dominant stories that organise our inner lives, and in what becomes possible when those stories are questioned, re-authored, and collectively re-imagined. Alongside her clinical work, she creates reflective spaces for therapists and peer supporters, and has facilitated workshops, trainings, and support groups across academic and community settings.At the centre of her work is a question she continually returns to: how do we learn to listen to suffering, our own and others\u2019, with greater care, complexity, and responsibility.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from St. Stephen\u2019s, Delhi who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-05-31T16:00:00+05:30",
+    "endDate": "2026-05-31T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/trauma-porn-the-pain-we-are-trained-to-recognise",
+    "keywords": [
+      "Food & drink",
       "URBANAUT"
     ]
   },
