@@ -15,5 +15,56 @@
       "@type": "Organization",
       "name": "Short Film Tour"
     }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Punishing The Professor / Bollywood Calling Lal Singh..",
+    "url": "https://fillum.in/event/5567",
+    "startDate": "2026-05-30T18:30:00+05:30",
+    "endDate": "2026-05-30T18:30:00+05:30",
+    "description": "The screenings will be followed by a discussion with P. Sainath (Founder, PARI) and director Aayna (Documentary Filmmaker, PARI).- Punishing The Professor (Aayna)P. Senrayaperumal, a Dalit f..more",
+    "location": {
+      "@type": "Place",
+      "name": "India International Centre - Annexe Lecture Room 1",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Aayna"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Padatik(1973)",
+    "url": "https://fillum.in/screening/5405",
+    "startDate": "2026-05-31T17:00:00+05:30",
+    "endDate": "2026-05-31T17:00:00+05:30",
+    "description": "The screening will be preceded by an introduction.",
+    "location": {
+      "@type": "Place",
+      "name": "Mool, South-Ex 2",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Camera Commune"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Eight and a half(1963)",
+    "url": "https://fillum.in/screening/5570",
+    "startDate": "2026-05-31T18:00:00+05:30",
+    "endDate": "2026-05-31T18:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "Niv Art Centre, Neb Sarai",
+      "address": "Sainik Farm, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Films From Underground"
+    }
   }
 ]
