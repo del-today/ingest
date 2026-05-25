@@ -266,6 +266,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Open Mic by FutureCompassEntertainment at goSTOPS",
+    "description": "Talent Showcase Open Mic by Future Compass Entertainment at goSTOPSDate: May 30, 2026Time: 3pm - 7pmVenue: goSTOPS, DelhiGot talent? Step into the spotlight at our Talent Showcase Open Mic!Whether you sing, write, joke, or do something totally unique, this is your stage to shine in a fun, supportive vibe. Expect an afternoon full of great energy, big laughs, and unforgettable performances.Come perform, cheer or just soak in the creativity.Spots are limited so grab yours and let your talent do the talking! ",
+    "startDate": "2026-05-30T15:00:00+05:30",
+    "endDate": "2026-05-30T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gate no 3, 4/23-B, Asaf Ali Rd, opp. Metro Station, Chatta lal Miya, Delhi Gate, Daryaganj, New Delhi, Delhi, 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64083430000000000000",
+        "longitude": "77.23897370000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "99.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "goSTOPS",
+      "url": "https://urbanaut.app/partner/gostops"
+    },
+    "url": "https://urbanaut.app/spot/open-mic-by-futurecompassentertainment-at-gostops",
+    "keywords": [
+      "Leisure",
+      "Live GIG",
+      "Local",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Bandaids and Poetry - Online Workshop",
     "description": "\u201cBandaids and poetry\u201d is a gentle two-day poetry writing workshop for anyone carrying stories they\u2019ve never fully said out loud.A space to heal, write, reflect, and turn emotions into words that feel honest and alive.Across two intimate online sessions, we\u2019ll explore poetry through prompts, conversations, reading exercises, and personal writing. Whether you\u2019re someone who journals secretly at 2 AM, writes unfinished notes, or has never written a poem before \u2014 this workshop is for you.This isn\u2019t about writing \u201cperfect\u201d poetry.It\u2019s about finding beauty in the cracks.Hosted by Ilina Sinha, Wingword Poetry Prize Winner 2024.Limited to only 10 participants to keep the space personal and interactive.WHAT\u2019S INCLUDED2 live interactive poetry sessionsGuided writing prompts and exercisesFeedback and sharing spacePoetry resources and inspiration materialSafe and intimate online environmentOpportunity to connect with fellow writers",
     "startDate": "2026-05-30T15:00:00+05:30",
@@ -453,17 +491,17 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Run and Rave gurugram",
-    "description": "Lace up, tune in, and let the rhythm take over Run & Rave is where movement meets music \u2014 a high-energy social run followed by feel-good beats, coffee, conversations, and a mini rave with your favorite people. No pressure, no pace goals \u2014 just good vibes, endorphins, and a morning that feels like a party.",
-    "startDate": "2026-05-31T08:00:00+05:30",
-    "endDate": "2026-05-31T10:00:00+05:30",
+    "name": "Old Delhi Photowalk with Kshitij from Shootguru",
+    "description": "Join Kshitij from Shootguru for a photowalk through the heart of Old Delhi, where bustling streets, historic landmarks, hidden details, and everyday moments come together through a storyteller\u2019s lens.Starting at the Red Fort Entrance Gate, we\u2019ll walk through some of the city\u2019s most iconic and photogenic locations:\ud83d\udccd Red Fort\ud83d\udccd Chandni Chowk Main Road\ud83d\udccd Sis Ganj Sahib\ud83d\udccd Dariba Kalan\ud83d\udccd Kinari Bazaar\ud83d\udccd Ballimaran\ud83d\udccd Chor Bizarre\ud83d\uddd3 Sunday, 31st May\u23f0 Meeting Point: Red Fort Entrance Gate | 6:30 AM\ud83d\udeb6 Walk Duration: 1.5 hours\ud83c\udf73 Followed by breakfast at Chor Bizarre",
+    "startDate": "2026-05-31T06:30:00+05:30",
+    "endDate": "2026-05-31T09:00:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "goSTOPS, Baani Square, N7, Block N, Mayfield Garden, Sector 51, Gurugram, Haryana 122018, India",
+      "address": "Hotel Broadway, 4/15A, Asaf Ali Rd, Chatta lal Miya, Chandni Mahal, Chandni Chowk, Delhi, New Delhi, Delhi 110002, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.42612300000000000000",
-        "longitude": "77.05805370000000000000"
+        "latitude": "28.64105660000000000000",
+        "longitude": "77.23791410000000000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -471,17 +509,20 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "118.00",
+      "price": "1417.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "goSTOPS",
-      "url": "https://urbanaut.app/partner/gostops"
+      "name": "Chor Bizarre",
+      "url": "https://urbanaut.app/partner/chor-bizarre"
     },
-    "url": "https://urbanaut.app/spot/gostopsgurgaon",
+    "url": "https://urbanaut.app/spot/old-delhi-photowalk-with-kshitij-from-shootguru",
     "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -668,76 +709,6 @@
       "Premium",
       "Wellness",
       "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Match Night Social At goSTOPS gururgram",
-    "description": "Match Night Social The biggest cricket night of the season deserves more than just watching from home.Join us for an evening of match-day predictions, live reactions, friendly rivalry, games, music, and a room full of people who take their cricket opinions *very* seriously Pick your winner, predict the top scorer, guess the final score, and see who actually knows cricket and who\u2019s just here for the vibes.Expect:\u2022 prediction challenges\u2022 team banter & crowd reactions\u2022 food, drinks & social games\u2022 high-energy atmosphere till the final ballCome with your jersey, your hot takes, and your loudest celebrations ",
-    "startDate": "2026-05-31T19:00:00+05:30",
-    "endDate": "2026-05-31T23:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "goSTOPS, Baani Square, N7, Block N, Mayfield Garden, Sector 51, Gurugram, Haryana 122018, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.42612300000000000000",
-        "longitude": "77.05805370000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "118.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "goSTOPS",
-      "url": "https://urbanaut.app/partner/gostops"
-    },
-    "url": "https://urbanaut.app/spot/gostopsgurugramup",
-    "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Match Night Social At goSTOPS delhi",
-    "description": "Match Night Social The biggest cricket night of the season deserves more than just watching from home.Join us for an evening of match-day predictions, live reactions, friendly rivalry, games, music, and a room full of people who take their cricket opinions *very* seriously Pick your winner, predict the top scorer, guess the final score, and see who actually knows cricket and who\u2019s just here for the vibes.Expect:\u2022 prediction challenges\u2022 team banter & crowd reactions\u2022 food, drinks & social games\u2022 high-energy atmosphere till the final ballCome with your jersey, your hot takes, and your loudest celebrations ",
-    "startDate": "2026-05-31T19:00:00+05:30",
-    "endDate": "2026-05-31T23:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Gate no 3, 4/23-B, Asaf Ali Rd, opp. Metro Station, Chatta lal Miya, Delhi Gate, Daryaganj, New Delhi, Delhi, 110002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.64083430000000000000",
-        "longitude": "77.23897370000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "118.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "goSTOPS",
-      "url": "https://urbanaut.app/partner/gostops"
-    },
-    "url": "https://urbanaut.app/spot/gostopsdelh",
-    "keywords": [
       "URBANAUT"
     ]
   },
