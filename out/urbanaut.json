@@ -568,8 +568,46 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Guided Padel with SWAG | NSP",
+    "description": "Let's learn PADEL with SWAG!This is a women-only, beginner-friendly pickleball meet-up.  The session is guided by a coach.5:50 PM Meet up and Warm up Time6:00 PM Game TimeSee you on court!",
+    "startDate": "2026-05-30T18:00:00+05:30",
+    "endDate": "2026-05-30T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Best Business Park, plot no. P, 2, Netaji Subhash Place, Shakurpur, New delhi, Delhi, 110034, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.69189930000000000000",
+        "longitude": "77.14738650000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "549.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swagnsp1",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Pickleball with SWAG (Delhi | Saket)",
-    "description": "Pickleball with SWAG is back!This is a women-only, beginner-friendly pickleball meet-up.4:50 PM Meet up and Warm up Time5:00 PM Game TimeSee you on court!",
+    "description": "Pickleball with SWAG is back!This is a women-only, beginner-friendly pickleball meet-up.See you on court!",
     "startDate": "2026-05-30T18:00:00+05:30",
     "endDate": "2026-05-30T19:00:00+05:30",
     "location": {
