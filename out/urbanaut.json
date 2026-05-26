@@ -455,6 +455,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "SMASH LIKE A GIRL (Tennis | Delhi)",
+    "description": "\u200bHi girls! It\u2019s time to Smash Like a Girl \u2014 because we\u2019re finally bringing you TENNIS!This is a women-only, beginner-friendly, guided tennis meet-up.4:50 PM Meet Up & Warm Up5:00 PM Game TimeSee you on court!",
+    "startDate": "2026-05-30T17:00:00+05:30",
+    "endDate": "2026-05-30T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "J6HH+MMC, Barakhamba Rd, Todermal Road Area, Mandi House, New Delhi, Delhi 110001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.62917610000000000000",
+        "longitude": "77.22913750000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "495.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swagtennis1",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Why We Taste With Our Ears",
     "description": "This lecture promises to be an evening that rethinks something as simple as eating, by tuning to a sense we rarely notice at the table.About the LectureWhy does the sound of rain make fried food more irresistible? Why does music change how we experience a glass of wine?This session begins with a simple but surprising idea: taste doesn\u2019t start in the mouth, it often begins in the ear.Drawing on extensive research by Bruite Magazine across the subcontinent, this lecture explores how sound quietly shapes the way we anticipate, experience, and remember food. From the rhythm of a bustling street to the curated playlists of a fine-dining restaurant, auditory cues influence everything from perceived texture to indulgence and value.Moving across everyday eating environments and contemporary food spaces, the session explores:The Sound of Anticipation: How auditory cues shape cravings even before the first biteSonic Texture: Why crunch, sizzle, and silence can alter how we perceive flavour and freshnessAtmosphere & Memory: How music, noise, and rhythm influence mood and the way meals stay with usDesigning Food Experiences: The role of sound in restaurants, bars, supper clubs, and immersive dining formatsBlending cultural observation, field research, and sharp storytelling, this session offers a fresh lens on something deeply familiar.Flow of the Evening5:00 PM: Doors open at Siyah Arthouse, Saket: Come in, find your seat, and get comfortable5:00 \u2013 5:20 PM: Place your orders and start a few conversations5:30 PM: The learning begins6:15 PM: Open Q&A and discussion with Ms. Ramya6:30 PM onwards: Stay a while: More eating, more drinking, more conversationsAbout the SpeakerRamya G Sri is the Co-founder and Editor-in-Chief of Bruite Magazine, one of South Asia\u2019s leading independent food and culture publications known for its deeply researched, original storytelling and on-ground reporting.Through Bruite, she collaborates with chefs, historians, artisans, and communities across the subcontinent to explore how food intersects with culture, memory, and perception\u2014often through unexpected and underexplored lenses.She also co-leads Bruite Media Co., a specialised brand advisory that has worked with over 500 brands and founders across F&B, lifestyle, D2C, and consumer tech. Her work spans brand launches, communication strategy, and creative training\u2014shaping how brands tell stories and connect with audiences.Her contributions to storytelling have been recognised with the Laadli Media Award for Gender-Sensitive Storytelling and the Abby Silver Award for Advertising. Across her work, she brings together rigorous research, editorial depth, and a strong instinct for how narrative shapes both culture and consumer experience.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
@@ -486,6 +524,44 @@
     "url": "https://urbanaut.app/spot/why-we-taste-with-our-ears",
     "keywords": [
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "BADDY WITH BADDIES | Saket",
+    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.5:50 PM Meet up and Warm up Time6:00 PM Game TimeSee you on court!",
+    "startDate": "2026-05-30T18:00:00+05:30",
+    "endDate": "2026-05-30T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "inside NEW GREEN FIELD SCHOOL, behind PVR Anupam Saket, Ashok Vihar, Saket, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52371090000000000000",
+        "longitude": "77.20874630000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "250.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swagsaket1",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
       "URBANAUT"
     ]
   },
@@ -528,6 +604,43 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Spicy Ramen Night at goSTOPS Delhi",
+    "description": "A cozy night of spicy ramen, comforting anime vibes, and good companyJoin us for Spicy Ramen Night \u2014 an easygoing evening filled with warm bowls of ramen, cozy visuals, soft music and a relaxed atmosphere inspired by your favourite Japanese comfort stories.Whether you\u2019re an anime lover, a ramen enthusiast, or simply looking for a wholesome night out, this is your sign to slow down and romanticize your evening a little.What to expect:\u2022\u2060 \u2060A bowl of spicy ramen\u2022\u2060 \u2060Cozy anime-inspired ambience\u2022\u2060 \u2060Chill music & comforting visuals\u2022\u2060 \u2060Relaxed conversations & social vibes\u2022\u2060 \u2060A warm, laid-back evening experienceCome solo or with friends \u2014 this is the kind of night that feels soft, comforting, and wholesome in the best way possible.",
+    "startDate": "2026-05-30T20:00:00+05:30",
+    "endDate": "2026-05-30T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gate no 3, 4/23-B, Asaf Ali Rd, opp. Metro Station, Chatta lal Miya, Delhi Gate, Daryaganj, New Delhi, Delhi, 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64083430000000000000",
+        "longitude": "77.23897370000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "249.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "goSTOPS",
+      "url": "https://urbanaut.app/partner/gostops"
+    },
+    "url": "https://urbanaut.app/spot/delhiramennight",
+    "keywords": [
+      "Leisure",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Old Delhi Photowalk with Kshitij from Shootguru",
     "description": "Join Kshitij from Shootguru for a photowalk through the heart of Old Delhi, where bustling streets, historic landmarks, hidden details, and everyday moments come together through a storyteller\u2019s lens.Starting at the Red Fort Entrance Gate, we\u2019ll walk through some of the city\u2019s most iconic and photogenic locations:\ud83d\udccd Red Fort\ud83d\udccd Chandni Chowk Main Road\ud83d\udccd Sis Ganj Sahib\ud83d\udccd Dariba Kalan\ud83d\udccd Kinari Bazaar\ud83d\udccd Ballimaran\ud83d\udccd Chor Bizarre\ud83d\uddd3 Sunday, 31st May\u23f0 Meeting Point: Red Fort Entrance Gate | 6:30 AM\ud83d\udeb6 Walk Duration: 1.5 hours\ud83c\udf73 Followed by breakfast at Chor Bizarre",
@@ -561,6 +674,44 @@
       "Walking Tour",
       "History & heritage",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "BADDY WITH BADDIES | GK 1",
+    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.See you on court!",
+    "startDate": "2026-05-31T11:00:00+05:30",
+    "endDate": "2026-05-31T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Nandi Vithi Rd, N Block, Greater Kailash I, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55579910000000000000",
+        "longitude": "77.23527080000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "295.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swaggk",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
       "URBANAUT"
     ]
   },
@@ -863,9 +1014,85 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Aam Nama",
+    "description": "Aam Nama with Sohail Hashmi is a mango-centric cultural experience celebrating the stories, recipes, and traditions of Old Delhi.The session will be led by renowned historian Sohail Hashmi, who will take guests through the rich history of mangoes, their connection with Delhi\u2019s food culture, and the memories and traditions that surround them. Through engaging storytelling, lesser-known anecdotes, and cultural insights, the session will explore how mangoes have been cherished across generations.The experience will also include heirloom recipes from Old Delhi kitchens, a pocket recipe book launch, and a specially curated mango tasting\u2014bringing together history, flavour, nostalgia and community in one memorable evening at Kathika Cultural Centre, Old Delhi.",
+    "startDate": "2026-06-07T17:30:00+05:30",
+    "endDate": "2026-06-07T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64610280000000000000",
+        "longitude": "77.22736410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "999.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kathika Cultural Centre and Museum",
+      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
+    },
+    "url": "https://urbanaut.app/spot/aam-nama",
+    "keywords": [
+      "Leisure",
+      "History & heritage",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Therapeutic Art of  Wood Whittling",
+    "description": "Step into the calming world of carving with The Therapeutic Art of Wood Whittling \u2014 a first-of-its-kind hands-on whittling experience in Delhi NCR, hosted at our studio by the incredibly talented artist Viney Anand, who brings over 5 years of wood whittling experience to the craft.Designed for beginners and creative enthusiasts alike, this immersive workshop is all about slowing down, working with your hands, and experiencing the quiet satisfaction of transforming a simple piece of wood into something meaningful. Under Viney\u2019s guidance, you\u2019ll learn the fundamentals of safe wood whittling, carving techniques, tool handling, and finishing methods in a warm and welcoming environment.All tools, safety equipment, and materials are fully included, so you can simply arrive and enjoy the process. By the end of the session, you\u2019ll take home your very own handcrafted wooden project along with a deeply therapeutic and memorable experience.Whether you\u2019re looking to unwind, explore a new skill, reconnect with creativity, or simply experience the joy of slow craftsmanship, this is a workshop you wouldn\u2019t want to miss.",
+    "startDate": "2026-06-14T14:00:00+05:30",
+    "endDate": "2026-06-14T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "2M, 33, Shahid Bhagat Singh Marg, Block M, New Industrial Twp 2, New Industrial Township, Faridabad, Haryana 121001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.38989450000000000000",
+        "longitude": "77.28521040000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3068.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Woodling",
+      "url": "https://urbanaut.app/partner/woodling"
+    },
+    "url": "https://urbanaut.app/spot/the-therapeutic-art-of-wood-whittling",
+    "keywords": [
+      "Premium",
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "ALT EFF Film Club x GuruJal Gurugram | 19th June",
-    "description": "PROGRAMME DETAILS FOR JUNE TO BE ADDED*To become a Film Club Member, continue with the regular booking process. The membership option will appear after you select the venue and date.All activities, including discussions and refreshments, will occur between 7:00 and 9:00 PM.What's Included?Exclusive screenings of the world's best environmental cinemaAccess to a community of environmentally inclined, film-loving peopleA chance to express yourself at ALT EFF VoicesPost-film discussions.Student Discount50% off for students with a valid ID (& must bring ID to the screening).CODE: ALTSTUDENTABOUT ALT EFFIf you are tired of the outrage cycle, doomscrolling collapse, and the looming AI takeover narrative. If you have caught yourself going numb just to cope. We see you.All Living Things Environmental Film Festival is back with the third season of Film Club. A monthly meet up across 12 cities over 5 months, orbiting environmental cinema that cracks you open without trapping you in doom and gloom.It is a room full of people choosing to show up in cities whose infrastructure persuades you to stay home, choosing to sit together, watch together, and turn private anxiety into collective imagination. Messy. Human. Honest conversation.\u00a0With snacks. Always snacks.",
+    "description": "Join us for a screening of Miles Away; a visual and auditory immersion of the lives of migrant, female brick labors. This film is intimate, cinematic and sensory.Part of our 2024 Program, this was Juror Dia Mirza's reaction:\"I was very moved by 'Miles Away' as for the first time I saw the perspective of what Climate Change is doing to women. It was very special to see so many women coming together to tell the story and feeling at ease as they shared personal moments with the female filmmakers. I felt as if I was a part of their lives.\"To become a Film Club Member, continue with the regular booking process. The membership option will appear after you select the venue and date.All activities, including discussions and refreshments, will occur between 7:00 and 9:00 PM.What's Included?Exclusive screenings of the world's best environmental cinemaAccess to a community of environmentally inclined, film-loving peoplePost-film discussions.Student Discount50% off for students with a valid ID (& must bring ID to the screening).CODE: ALTSTUDENTABOUT ALT EFFIf you are tired of the outrage cycle, doomscrolling collapse, and the looming AI takeover narrative. If you have caught yourself going numb just to cope. We see you.All Living Things Environmental Film Festival is back with the third season of Film Club. A monthly meet up across 12 cities over 5 months, orbiting environmental cinema that cracks you open without trapping you in doom and gloom.It is a room full of people choosing to show up in cities whose infrastructure persuades you to stay home, choosing to sit together, watch together, and turn private anxiety into collective imagination. Messy. Human. Honest conversation.\u00a0With snacks. Always snacks.",
     "startDate": "2026-06-19T19:00:00+05:30",
     "endDate": "2026-06-19T21:00:00+05:30",
     "location": {
@@ -903,7 +1130,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "ALT EFF Film Club x Remakery Delhi | 19th June",
-    "description": "PROGRAMME FOR JUNE TO BE ADDED*To become a Film Club Member, continue with the regular booking process. The membership option will appear after you select the venue and date.All activities, including discussions and refreshments, will occur between 7:00 and 9:00 PM.What's Included?Exclusive screenings of the world's best environmental cinemaAccess to a community of environmentally inclined, film-loving peopleA chance to express yourself at ALT EFF VoicesPost-film discussions.Student Discount50% off for students with a valid ID (& must bring ID to the screening).CODE: ALTSTUDENTABOUT ALT EFF Film ClubIf you are tired of the outrage cycle, doomscrolling collapse, and the looming AI takeover narrative. If you have caught yourself going numb just to cope. We see you.All Living Things Environmental Film Festival is back with the third season of Film Club. A monthly meet up across 12 cities over 5 months, orbiting environmental cinema that cracks you open without trapping you in doom and gloom.It is a room full of people choosing to show up in cities whose infrastructure persuades you to stay home, choosing to sit together, watch together, and turn private anxiety into collective imagination. Messy. Human. Honest conversation.\u00a0With snacks. Always snacks.",
+    "description": "Join us for a screening of Miles Away; a visual and auditory immersion of the lives of migrant, female brick labors. This film is intimate, cinematic and sensory.Part of our 2024 Program, this was Juror Dia Mirza's reaction:\"I was very moved by 'Miles Away' as for the first time I saw the perspective of what Climate Change is doing to women. It was very special to see so many women coming together to tell the story and feeling at ease as they shared personal moments with the female filmmakers. I felt as if I was a part of their lives.\"To become a Film Club Member, continue with the regular booking process. The membership option will appear after you select the venue and date.All activities, including discussions and refreshments, will occur between 7:00 and 9:00 PM.What's Included?Exclusive screenings of the world's best environmental cinemaAccess to a community of environmentally inclined, film-loving peopleA chance to express yourself at ALT EFF VoicesPost-film discussions.Student Discount50% off for students with a valid ID (& must bring ID to the screening).CODE: ALTSTUDENTABOUT ALT EFF Film ClubIf you are tired of the outrage cycle, doomscrolling collapse, and the looming AI takeover narrative. If you have caught yourself going numb just to cope. We see you.All Living Things Environmental Film Festival is back with the third season of Film Club. A monthly meet up across 12 cities over 5 months, orbiting environmental cinema that cracks you open without trapping you in doom and gloom.It is a room full of people choosing to show up in cities whose infrastructure persuades you to stay home, choosing to sit together, watch together, and turn private anxiety into collective imagination. Messy. Human. Honest conversation.\u00a0With snacks. Always snacks.",
     "startDate": "2026-06-19T19:00:00+05:30",
     "endDate": "2026-06-19T21:00:00+05:30",
     "location": {
