@@ -720,6 +720,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Sham-e-Qutub : A night heritage walk",
+    "description": "We are delighted to invite you to a special *Night heritage walk at Qutub Minar*, curated by Darwesh Heritage Walks**Date: 30th May, 2026**Time: 7:00 p.m. onwardsExperience the magic of one of Delhi\u2019s most iconic monuments as it transforms at dusk\u2014when the Qutub Minar complex is beautifully lit and wrapped in an almost timeless charm.This walk takes you through the story of Delhi\u2019s first capital at Mehrauli, tracing the rise of the Tomars and Chauhans, and the arrival of the Delhi Sultanate under the early Turko-Afghan rulers. As the evening sets in, the illuminated ruins, soaring minar, and intricate carvings create a truly immersive atmosphere\u2014perfect for experiencing history not just as a narrative, but as a living, breathing space.During this walk, we will explore:* The origins of Delhi\u2019s earliest city at Mehrauli* The political transitions from Rajput to Sultanate rule* The architectural brilliance of the Qutub complex and its symbolism* The stories hidden in its mosques, pillars, and inscriptionsJoin us for an unforgettable evening of storytelling, history, and exploration\u2014where the past comes alive under the soft glow of lights.We look forward to having you with us.(Please note: the fee is not for access to the site, but rather for the curated experience)",
+    "startDate": "2026-05-30T19:00:00+05:30",
+    "endDate": "2026-05-30T20:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52447540000000000000",
+        "longitude": "77.18552059999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "755.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/qutubminarnightwalk",
+    "keywords": [
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Unscript 2.0: Improv Comedy Show",
     "description": "After 14 hours of high-energy, no-holds-barred workshopping, this ensemble\u2014now working at Level 2\u2014steps into performance with sharper instincts, bolder choices, and a deepened sense of play. What unfolds is completely unscripted, wildly unpredictable, and built in the momenThis isn\u2019t just a show you watch. It\u2019s one you fuel.Your suggestions spark scenes. Your ideas twist the story. Your laughter drives the rhythm.A single word can spiral into a love story, a disaster, or something beautifully absurd. One performer holds the thread, the rest run with it\u2014and somehow, chaos turns into magic.No scripts. No second takes. Just quick thinking, deep listening, and fearless fun.Expect moments that land perfectly, moments that go hilariously sideways, and everything in between. That\u2019s where the real joy lives.HighlightsFully improvised, unscripted comedyAudience participation shapes the showPerformed by Level 2 trained ensembleHigh-energy, interactive experienceEvery show is completely uniqueAbout the HostAnshu DagaAn improv facilitator and performer guiding immersive, high-energy workshops that focus on spontaneity, presence, and creative expression.Come for the spontaneity. Stay for the surprises.Don\u2019t plan the night\u2014just secure your seat!",
     "startDate": "2026-05-30T19:30:00+05:30",
@@ -826,6 +864,44 @@
       "Walking Tour",
       "History & heritage",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Safdarjung Tomb : Heritage Walk",
+    "description": "Safdarjung\u2019s Tomb Heritage Walk(curated by Darwesh Heritage Walks in collaboration with Sabhyata Foundation)Join us for a journey into the fading glow of Mughal splendour at Safdarjung's Tomb \u2014 often called the *last flicker of Mughal grandeur* in Delhi.Built in 1754 for Safdarjung, the powerful Nawab of Awadh and Prime Minister of the Mughal court, this monument stands at the twilight of an empire \u2014 grand in ambition, yet carrying within it the quiet signs of decline.Its story is as fascinating as its form. From courtly intrigues and shifting loyalties to the architectural choices that reveal a changing political landscape, Safdarjung\u2019s life opens a compelling window into 18th-century Delhi.We will also trace a lesser-known layer of its history \u2014 how this tomb was constructed by reusing material from a pre-existing Mughal structure, quite literally building one memory over another.To truly understand Delhi \u2014 its rise, its resilience, and its gradual transitions \u2014 a visit to Safdarjung\u2019s Tomb is essential.Come, walk with us through the final chapter of Mughal architectural brilliance \u2014 where grandeur meets gravity, and history lingers in every arch.Plz note: (fee charged is not for entry into the site , but for the curated experience)",
+    "startDate": "2026-05-31T08:00:00+05:30",
+    "endDate": "2026-05-31T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Airforce Golf Course, Delhi Race Club, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.58941560000000000000",
+        "longitude": "77.21062190000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "755.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/safdarjungtombheritagewalk",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
       "URBANAUT"
     ]
   },
@@ -1245,7 +1321,7 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "The Tiny Hands Art Camp - 10 Days with 10 Mediums",
-    "description": "Give your child two weeks away from screens and into a space filled with colour, curiosity, imagination, and hands-on making. \u2728At Between Easels, children are introduced to 10 different art mediums through playful, guided sessions designed to help them explore freely, think creatively, and build confidence through art. From painting and printmaking to sculpture, collage, and clay \u2014 every class becomes a new creative adventure.Led by practicing artists in a warm and encouraging studio environment, the workshop focuses not on perfection, but on expression, observation, experimentation, and joy. \ud83c\udfa8The program concludes with a special exhibition where children proudly display their artworks for friends and family \u2014 celebrating everything they\u2019ve created over the two weeks. \ud83d\uddbc\ufe0fBETWEEN EASELS \u2014 KIDS WORKSHOP SCHEDULE10 Days \u2022 10 Mediums \u2022 Endless Creativity\u23f0 Class Timing: 10 AM \u2013 12 PM\ud83c\udfa8 Suitable for all skill levels, ages 6+\u2022 1 June (Mon) \u2014 Abstract ArtExplore colours, textures, movement, and playful mark-making through expressive painting exercises and creative experimentation.\u2022 2 June (Tue) \u2014 Still Life DrawingLearn observation, light, shadows, and basic geometric forms through pencil and charcoal sketching.\u2022 3 June (Wed) \u2014 CollagingCreate layered artworks using paper cut-outs, textures, found materials, and imaginative composition techniques.\u2022 4 June (Thu) \u2014 Paint Like PicassoExperiment with bold colours, playful portraits, abstract faces, and cubist-inspired visual storytelling.\u2022 5 June (Fri) \u2014 MonoprintingDiscover simple printmaking methods to create expressive, one-of-a-kind textured prints.\u2728 Weekend Off\u2022 8 June (Mon) \u2014 Collective Painting & CollageWork together on large collaborative artworks using paint, collage, textures, and mixed media.\u2022 9 June (Tue) \u2014 3D POP SculptureBuild playful three-dimensional forms through sculptural making, construction, and hands-on material exploration.\u2022 10 June (Wed) \u2014 Block PrintingDesign and print repeating patterns using carved blocks, shapes, textures, and vibrant inks.\u2022 11 June (Thu) \u2014 CollographyExplore texture-based printmaking by layering materials to create embossed and experimental surfaces.\u2022 12 June (Fri) \u2014 Clay PortraitsSculpt expressive clay portraits while learning facial structure, textures, and semi-relief techniques.\u2728 Weekend Off",
+    "description": "Give your child two weeks away from screens and into a space filled with colour, curiosity, imagination, and hands-on making. \u2728At Between Easels, children are introduced to 10 different art mediums through playful, guided sessions designed to help them explore freely, think creatively, and build confidence through art. From painting and printmaking to sculpture, collage, and clay \u2014 every class becomes a new creative adventure.Led by practicing artists in a warm and encouraging studio environment, the workshop focuses not on perfection, but on expression, observation, experimentation, and joy. \ud83c\udfa8The program concludes with a special exhibition where children proudly display their artworks for friends and family \u2014 celebrating everything they\u2019ve created over the two weeks. \ud83d\uddbc\ufe0fBETWEEN EASELS \u2014 KIDS WORKSHOP SCHEDULE10 Days \u2022 10 Mediums \u2022 Endless Creativity\u23f0 Class Timing: 10 AM \u2013 12 PM\ud83c\udfa8 Suitable for all skill levels, ages 6+\u2022 1 June (Mon) \u2014 Abstract ArtExplore colours, textures, movement, and playful mark-making through expressive painting exercises and creative experimentation.\u2022 2 June (Tue) \u2014 Still Life DrawingLearn observation, light, shadows, and basic geometric forms through pencil and charcoal sketching.\u2022 3 June (Wed) \u2014 CollagingCreate layered artworks using paper cut-outs, textures, found materials, and imaginative composition techniques.\u2022 4 June (Thu) \u2014 Paint Like PicassoExperiment with bold colours, playful portraits, abstract faces, and cubist-inspired visual storytelling.\u2022 5 June (Fri) \u2014 MonoprintingDiscover simple printmaking methods to create expressive, one-of-a-kind textured prints.\u2728 Weekend Off\u2022 8 June (Mon) \u2014 Collective Painting & CollageWork together on large collaborative artworks using paint, collage, textures, and mixed media.\u2022 9 June (Tue) \u2014 3D POP SculptureBuild playful three-dimensional forms through sculptural making, construction, and hands-on material exploration.\u2022 10 June (Wed) \u2014 Block PrintingDesign and print repeating patterns using carved blocks, shapes, textures, and vibrant inks.\u2022 11 June (Thu) \u2014 CollographyExplore texture-based printmaking by layering materials to create embossed and experimental surfaces.\u2022 12 June (Fri) \u2014 Clay PortraitsSculpt expressive clay portraits while learning facial structure, textures, and semi-relief techniques.\u2728 Weekend OffFor registrations & enquiries:\ud83d\udcde Ramansh \u2014 9818398552\ud83d\udcde Mansha \u2014 9971822458",
     "startDate": "2026-06-01T10:00:00+05:30",
     "endDate": "2026-06-01T12:00:00+05:30",
     "location": {
@@ -1262,7 +1338,7 @@
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
-      "price": "15000.00",
+      "price": "14164.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
