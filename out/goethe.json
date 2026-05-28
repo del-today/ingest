@@ -1,5 +1,25 @@
 [
   {
+    "name": "Classical Guitarist: Dmitry Zagumennikov",
+    "startDate": "2026-06-01T19:30:00",
+    "location": {
+      "@type": "Place",
+      "name": "Goethe-Institut / Max Mueller Bhavan New  New",
+      "address": "3, Kasturba Gandhi Marg, New Delhi"
+    },
+    "endDate": "2026-06-01T21:30:00",
+    "keywords": [
+      "GOETHE",
+      "In Concert",
+      "Music"
+    ],
+    "@type": "MusicEvent",
+    "url": "https://www.goethe.de/ins/in/en/ver.cfm?event_id=27287658",
+    "description": "For his upcoming guitar concert, classical European guitaristDmitry Zagumennikovhas arranged a sophisticated hour-long performance which is not to be missed. Critically acclaimed for his interpretive depth, Dmitry will recite some of the most captivating classical German composers, from the monumental works by Johann Sebastian Bach to an intermezzo by Johannes Brahms. He will also highlight interesting connections to other European composers and guitarists, like Franz Schubert from Austria or Ángel Barrios and Fernando Sor from Spain. The concert will be a wonderful time travel back to Europe’s grand classical composers of the 18th and 19th century.First-come, first-served.",
+    "image": "https://www.goethe.de/resources/files/jpg1452/dmitry-zagumennikov_1080x1080-formatkey-jpg-w320r.jpg",
+    "offers": {}
+  },
+  {
     "name": "Too Far Away (Zu weit weg) | Directed by Sarah Winkenstette",
     "startDate": "2026-06-02T19:00:00",
     "location": {
