@@ -39,44 +39,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Table of the Levant",
-    "description": "Table of the Levant is an intimate Eastern Mediterranean supper club in Delhi, built around a long, shared table and a menu inspired by the kitchens of the Levant.We\u2019ll start with a lemon\u2013mint Polo Damascus welcome drink before moving into a generous mezze spread \u2013 hummus, mutabbal, labneh, fattoush, Cypriot-style corn, kefta and falafel, with warm pita and plenty of olives and pickles.For the main course, we\u2019ll serve a dramatic Maklouba \u2013 a layered, spiced rice and vegetable dish flipped out at the table \u2013 followed by a classic ekmek dessert to finish on something sweet and comforting.Seats are limited, the menu is fixed, and the evening is designed for unhurried conversation, shared plates, and a sense of travelling across the Levant without leaving Delhi.",
-    "startDate": "2026-05-29T19:30:00+05:30",
-    "endDate": "2026-05-29T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "E-20, Jangpura Rd, Block E, Jungpura Extension, New Delhi, Delhi 110014, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.58065630000000000000",
-        "longitude": "77.24395290000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2940.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kartik's Kitchen",
-      "url": "https://urbanaut.app/partner/kartikskitchen"
-    },
-    "url": "https://urbanaut.app/spot/levanttable",
-    "keywords": [
-      "Premium",
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Hot Girls Do Pilates | Defence Colony",
     "description": "Let\u2019s make your Sunday morning extra feel-good with Hot Girls Do Pilates, a guided pilates experience by SWAG \ud83d\udc9bThis is a reformer pilates session with limited spots!Come and feel fitter in the company of like-minded women, and stayback for some chit-chat!",
