@@ -230,44 +230,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Open Mic by FutureCompassEntertainment at goSTOPS",
-    "description": "Talent Showcase Open Mic by Future Compass Entertainment at goSTOPSDate: May 30, 2026Time: 3pm - 7pmVenue: goSTOPS, DelhiGot talent? Step into the spotlight at our Talent Showcase Open Mic!Whether you sing, write, joke, or do something totally unique, this is your stage to shine in a fun, supportive vibe. Expect an afternoon full of great energy, big laughs, and unforgettable performances.Come perform, cheer or just soak in the creativity.Spots are limited so grab yours and let your talent do the talking! ",
-    "startDate": "2026-05-30T15:00:00+05:30",
-    "endDate": "2026-05-30T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Gate no 3, 4/23-B, Asaf Ali Rd, opp. Metro Station, Chatta lal Miya, Delhi Gate, Daryaganj, New Delhi, Delhi, 110002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.64083430000000000000",
-        "longitude": "77.23897370000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "99.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "goSTOPS",
-      "url": "https://urbanaut.app/partner/gostops"
-    },
-    "url": "https://urbanaut.app/spot/open-mic-by-futurecompassentertainment-at-gostops",
-    "keywords": [
-      "Leisure",
-      "Live GIG",
-      "Local",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Bandaids and Poetry - Online Workshop",
     "description": "\u201cBandaids and poetry\u201d is a gentle two-day poetry writing workshop for anyone carrying stories they\u2019ve never fully said out loud.A space to heal, write, reflect, and turn emotions into words that feel honest and alive.Across two intimate online sessions, we\u2019ll explore poetry through prompts, conversations, reading exercises, and personal writing. Whether you\u2019re someone who journals secretly at 2 AM, writes unfinished notes, or has never written a poem before \u2014 this workshop is for you.This isn\u2019t about writing \u201cperfect\u201d poetry.It\u2019s about finding beauty in the cracks.Hosted by Ilina Sinha, Wingword Poetry Prize Winner 2024.Limited to only 10 participants to keep the space personal and interactive.WHAT\u2019S INCLUDED2 live interactive poetry sessionsGuided writing prompts and exercisesFeedback and sharing spacePoetry resources and inspiration materialSafe and intimate online environmentOpportunity to connect with fellow writers",
     "startDate": "2026-05-30T15:00:00+05:30",
@@ -714,43 +676,6 @@
     "keywords": [
       "Live GIG",
       "Local",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Spicy Ramen Night at goSTOPS Delhi",
-    "description": "A cozy night of spicy ramen, comforting anime vibes, and good companyJoin us for Spicy Ramen Night \u2014 an easygoing evening filled with warm bowls of ramen, cozy visuals, soft music and a relaxed atmosphere inspired by your favourite Japanese comfort stories.Whether you\u2019re an anime lover, a ramen enthusiast, or simply looking for a wholesome night out, this is your sign to slow down and romanticize your evening a little.What to expect:\u2022\u2060 \u2060A bowl of spicy ramen\u2022\u2060 \u2060Cozy anime-inspired ambience\u2022\u2060 \u2060Chill music & comforting visuals\u2022\u2060 \u2060Relaxed conversations & social vibes\u2022\u2060 \u2060A warm, laid-back evening experienceCome solo or with friends \u2014 this is the kind of night that feels soft, comforting, and wholesome in the best way possible.",
-    "startDate": "2026-05-30T20:00:00+05:30",
-    "endDate": "2026-05-30T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Gate no 3, 4/23-B, Asaf Ali Rd, opp. Metro Station, Chatta lal Miya, Delhi Gate, Daryaganj, New Delhi, Delhi, 110002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.64083430000000000000",
-        "longitude": "77.23897370000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "249.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "goSTOPS",
-      "url": "https://urbanaut.app/partner/gostops"
-    },
-    "url": "https://urbanaut.app/spot/delhiramennight",
-    "keywords": [
-      "Leisure",
-      "Food & drink",
       "URBANAUT"
     ]
   },
