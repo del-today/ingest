@@ -81,66 +81,6 @@
   },
   {
     "@type": "EducationEvent",
-    "name": "Craftopia Season 10",
-    "url": "https://www.knma.org/whats-on/workshops/craftopia-season-10",
-    "startDate": "2026-05-26T10:00:00+05:30",
-    "endDate": "2026-06-06T18:00:00+05:30",
-    "description": "Summer Camp",
-    "location": {
-      "@type": "Place",
-      "name": "National Crafts Museum & Hastkala Academy, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Project Natta Company\u2019s Travelling Borobari",
-    "url": "https://www.knma.org/whats-on/events/project-natta-companys-travelling-borobari",
-    "startDate": "2026-05-27T10:00:00+05:30",
-    "endDate": "2026-05-29T18:00:00+05:30",
-    "description": "Rolling Museum",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "EducationEvent",
-    "name": "The Diagonal Room",
-    "url": "https://www.knma.org/whats-on/workshops/the-diagonal-room",
-    "startDate": "2026-05-31T10:00:00+05:30",
-    "endDate": "2026-05-31T10:00:00+05:30",
-    "description": "Meeting Point",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "EducationEvent",
     "name": "Clay in Resonance: A Ghatam Workshop",
     "url": "https://www.knma.org/whats-on/workshops/clay-in-resonance-a-ghatam-workshop",
     "startDate": "2026-06-09T10:00:00+05:30",
@@ -149,6 +89,86 @@
     "location": {
       "@type": "Place",
       "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Layers of Time",
+    "url": "https://www.knma.org/whats-on/workshops/layers-of-time",
+    "startDate": "2026-06-13T10:00:00+05:30",
+    "endDate": "2026-06-13T10:00:00+05:30",
+    "description": "Artist in Me",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Expressions in Motion",
+    "url": "https://www.knma.org/whats-on/workshops/expressions-in-motion",
+    "startDate": "2026-06-16T10:00:00+05:30",
+    "endDate": "2026-06-20T18:00:00+05:30",
+    "description": "Artist in Me",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "CRAFTOPIA",
+    "url": "https://www.knma.org/whats-on/workshops/craftopia",
+    "startDate": "2026-06-17T10:00:00+05:30",
+    "endDate": "2026-06-20T18:00:00+05:30",
+    "description": "Craftopia",
+    "location": {
+      "@type": "Place",
+      "name": "UTSAV The Square, GMR Aerocity",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Sketching Series: Still Life",
+    "url": "https://www.knma.org/whats-on/workshops/sketching-series-still-life",
+    "startDate": "2026-06-17T10:00:00+05:30",
+    "endDate": "2026-06-18T18:00:00+05:30",
+    "description": "Artist in Me",
+    "location": {
+      "@type": "Place",
+      "name": "UTSAV The Square, GMR Aerocity",
       "address": "New Delhi"
     },
     "organizer": {

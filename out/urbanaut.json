@@ -39,44 +39,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Regular Dance Batch - Artistic Movement",
-    "description": "This is a space to tap into the movement language of your body and find the freedom to express, explore and discover together. ",
-    "startDate": "2026-05-29T17:00:00+05:30",
-    "endDate": "2026-05-29T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "B-17, Basement, South Extension II, Block B, New Delhi, Delhi 110049, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.56514880000000000000",
-        "longitude": "77.21944630000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3250.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Artistic Movement",
-      "url": "https://urbanaut.app/partner/artistic-movement"
-    },
-    "url": "https://urbanaut.app/spot/regular-dance-batch-artistic-movement",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Table of the Levant",
     "description": "Table of the Levant is an intimate Eastern Mediterranean supper club in Delhi, built around a long, shared table and a menu inspired by the kitchens of the Levant.We\u2019ll start with a lemon\u2013mint Polo Damascus welcome drink before moving into a generous mezze spread \u2013 hummus, mutabbal, labneh, fattoush, Cypriot-style corn, kefta and falafel, with warm pita and plenty of olives and pickles.For the main course, we\u2019ll serve a dramatic Maklouba \u2013 a layered, spiced rice and vegetable dish flipped out at the table \u2013 followed by a classic ekmek dessert to finish on something sweet and comforting.Seats are limited, the menu is fixed, and the evening is designed for unhurried conversation, shared plates, and a sense of travelling across the Levant without leaving Delhi.",
@@ -1093,6 +1055,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "IPL Final - Rooftop Watch Party & Play | May 31",
+    "description": "\ud83c\udfcf THE WAIT IS OVER. IPL FINAL SCREENING IS HERE \u2728\ud83c\udf7b Watching the final at home? Nah. We\u2019re doing it on a rooftop turf with a giant screen, cricket, beer & amazing vibes \ud83d\udc40\ud83d\udd25\ud83d\udccd R2 Fitness, Nawada, Delhi { Rooftop Turf } \ud83d\uddd3\ufe0f 31st May | 6 PM onwardsWhat\u2019s waiting for you: \ud83c\udfcf IPL Final live screening on a BIG screen \ud83c\udfcf Play cricket on the turf before & during the match \ud83c\udf7b BYOB { Bring Your Own Beer } \u2728 Rooftop setup + good people + proper match energyWhether you support RCB or just love cricket , this is your place \ud83c\udfc6Limited spots only. DM now & grab your seat before it\u2019s sold out \ud83d\udc40",
+    "startDate": "2026-05-31T18:00:00+05:30",
+    "endDate": "2026-05-31T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Plot No - 1 S/f 3rd Floor Bharat Garden Matiala, Main, Matiala Rd, above R2 Fitness Club, Nanhey Park, Om Vihar, Uttam Nagar, New Delhi, Delhi, 110059, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.61563180000000000000",
+        "longitude": "77.04695640000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "799.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Shoshabaazi",
+      "url": "https://urbanaut.app/partner/shoshabaazi"
+    },
+    "url": "https://urbanaut.app/spot/ipl-final-rooftop-watch-party-play-may-31",
+    "keywords": [
+      "Leisure",
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Pickleball with SWAG | Gurugram",
     "description": "The SWAG Pickleball Party is you perfect saturday evening plan!This is a women-only, beginner-friendly meet-up.See you on court!",
@@ -1245,6 +1245,80 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Tuesday Board Game Night",
+    "description": "Tuesday Game Nights started in 2017 in Ahmedabad to bring people together by unlocking the kid inside. It worked. Strangers became friends. Friends became family. We are now bringing it to Delhi. This Tuesday, skip the screens. Bring your dad for Codenames. Bring your kid for Azul. Most importantly bring yourself for the laughter, you didn\u2019t know you missed. \ud83d\udccdProject Otenga, Shaheedi Park, ITO | 7 PM onwards All the games will be taught during the evening by our expert game facilitator, Sharadha Jain, and there is no requirement to know the games before.Please call / whatsapp us on 9910203373 for group discounts.The coupons for tickets are redeemable.",
+    "startDate": "2026-06-02T19:00:00+05:30",
+    "endDate": "2026-06-02T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gate No. 1, Bahadur Shah Zafar Marg, inside Shaheedi park, Balmiki Basti, Vikram Nagar, New Delhi, Delhi, 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.63445520000000000000",
+        "longitude": "77.24131700000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "313.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Project Otenga",
+      "url": "https://urbanaut.app/partner/project-otenga"
+    },
+    "url": "https://urbanaut.app/spot/tuesday-board-game-night",
+    "keywords": [
+      "Leisure",
+      "Adventure",
+      "Responsible",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Invisible World Around Us",
+    "description": "Join us for a lecture-demonstration that reveals the hidden systems quietly shaping everyday life, the signals, networks, and invisible conversations happening all around us, all the time.About the LectureModern life feels seamless.Your phone connects instantly. Devices speak to one another invisibly. Signals move through walls, across cities, and between bodies and machines without us ever seeing them.But beneath that apparent simplicity lies an invisible world of constant activity.This session is an interactive exploration of the hidden technological layer surrounding us every day, from wireless communication systems to biological signals generated within our own bodies.Through live demonstrations and visualisations, the lecture reveals the silent digital atmosphere we move through constantly, exposing how devices communicate, how networks remain connected, and how fragile these invisible systems can actually be.The session explores:The unseen wireless systems constantly operating around usHow digital communication networks function \u2014 and how easily they can be disruptedWhat invisible technological infrastructures modern life depends onHow biological signals inside the human body can be translated into machine movementWhat human-machine interaction might look like in the futureThe lecture also includes demonstrations involving EMG-controlled interfaces and experimental hardware systems that make invisible interactions tangible and visible in real time.About the SpeakerRahul Thareja is a hardware hacker and robotics engineer whose work explores the invisible systems shaping modern technological life.Working across experimental hardware, wireless system visualisation, and human-machine interfaces, his practice focuses on making hidden technological interactions visible, understandable, and open to questioning.With a background in robotics engineering and education, Rahul combines technical experimentation with a curiosity-driven approach to public engagement, creating interactive experiences that make complex systems tangible for broader audiences.His work sits at the intersection of exploration, awareness, and interaction \u2014 encouraging people to see familiar technologies in entirely unfamiliar ways.Your Ticket Includes a 300/- Coupon Redeemable on F&BAbout unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-06-05T19:00:00+05:30",
+    "endDate": "2026-06-05T20:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M-25, 2nd &, 3rd Floor M Block, Market, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53335940000000000000",
+        "longitude": "77.24186019999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/the-invisible-world-around-us",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Tiffin Trails: Toontooni\u2019s Table x Swarnavo Datta",
     "description": "Come enjoy an afternoon of local cuisines across India as Swarnavo and Toonika take you on a culinary journey. Inspired by Swarnavo's book, The Great Indian Tiffin Box, this is a journey you don't want to miss. Share a table with strangers who will soon become friends and break bread together. ",
@@ -1276,6 +1350,78 @@
     "url": "https://urbanaut.app/spot/tiffin-tales",
     "keywords": [
       "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Chinese Whispers: India and China Before 1962",
+    "description": "Join us for a lecture that revisits one of the most consequential relationships in modern Asian history, not through the lens of war, but through the fragile optimism that came before it.About the LectureToday, India and China are often discussed as rivals.But there was a moment when many believed the two newly independent civilizations would together shape the future of Asia and the postcolonial world.At the centre of that story stood K.M. Panikkar \u2014 historian, diplomat, strategist, and India\u2019s ambassador to China during the tumultuous years following Mao\u2019s revolution.What did Panikkar actually see when he arrived in Beijing after 1949? Why did he believe Communist China could be accommodated within an Asian framework rather than treated as an existential threat? And how did the promise of solidarity gradually give way to suspicion, miscalculation, and conflict?This lecture explores one of the most enduring debates in Indian foreign policy.The session examines:The early relationship between India and the newly established People's Republic of ChinaK.M. Panikkar\u2019s role in shaping India's understanding of ChinaThe political and diplomatic tensions surrounding TibetHow the vision of Asian solidarity emerged \u2014 and why it ultimately fracturedWhether Panikkar misread China, or was unfairly blamed for a much larger strategic failureDrawing on archival research, diplomatic history, and political biography, the lecture revisits a period when the future of Asia appeared open, uncertain, and full of possibility.About the SpeakerNarayani Basu is a historian, foreign policy analyst, and award-winning author whose work focuses on the lesser-known individuals who shaped modern India.She is the bestselling author of V.P. Menon: The Unsung Architect of Modern India and Allegiance: Azaadi & the End of Empire, both widely praised for bringing overlooked figures and perspectives into the story of Indian independence.Her latest book, A Man for All Seasons, a biography of K.M. Panikkar, has received widespread critical acclaim and was awarded the AutHer Award for Best Non-Fiction Book in 2025.Through her writing and research, Narayani brings together biography, diplomacy, and political history to illuminate the personalities and decisions that continue to shape India's place in the world.Your Ticket Includes a 300/- Coupon Redeemable on F&BAbout unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-06-06T16:00:00+05:30",
+    "endDate": "2026-06-06T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "E-17, Market Ln, Hauz Khas Market, Block E, Hauz Khas, Delhi, New Delhi, Delhi 110016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55122750000000000000",
+        "longitude": "77.20838499999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/chinese-whispers-india-and-china-before-1962",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Good, the Bad, & the Ugly Sun",
+    "description": "About the LectureThe Sun feels constant.Every morning it rises. It warms the planet. It makes life on Earth possible.But beneath that apparent stability lies a star in perpetual turbulence, a seething sphere of plasma and magnetic fields capable of eruptions so powerful they can disrupt satellites, collapse communication systems, and interfere with power grids across the planet.This lecture begins with one of the greatest mysteries in modern astrophysics: Why is the Sun\u2019s outer atmosphere, the corona, hundreds of times hotter than its visible surface?It\u2019s a paradox that seems to defy common sense, like walking away from a fire and somehow feeling warmer.From there, the session journeys into the hidden physics of the Sun: solar flares, coronal mass ejections, magnetic storms, and the invisible streams of charged particles constantly travelling toward Earth. The lecture revisits the famous Carrington Event of 1859 \u2014 the most intense solar storm ever recorded \u2014 when telegraph systems burst into sparks and auroras lit skies far beyond the poles.The session explores:Why the Sun is far more dynamic and unstable than it appearsHow solar eruptions shape \u201cspace weather\u201d around EarthWhat happens when solar storms collide with modern technological systemsHow missions like India\u2019s Aditya-L1 are helping scientists study and predict solar activityWhy understanding the Sun has become essential in a technology-dependent worldBlending astronomy, physics, history, and storytelling, this lecture invites us to see the Sun not as a distant backdrop to life on Earth \u2014 but as a powerful cosmic force we remain deeply dependent on, and vulnerable to.About the SpeakerProf. Vaibhav Pant is an Assistant Professor in the Department of Physics at IIT Delhi and a solar physicist whose work focuses on understanding the Sun and its impact on Earth.He completed his PhD from the Indian Institute of Astrophysics, Bangalore, followed by postdoctoral research at KU Leuven in Belgium and the Instituto de Astrof\u00edsica de Canarias in Spain. Before joining IIT Delhi, he served as Scientist at ARIES, Nainital for five years.His research explores waves in the solar atmosphere, large-scale solar eruptions, and space weather phenomena. He has published over 50 refereed research papers and has been closely associated with India\u2019s Aditya-L1 solar mission, serving as Principal Investigator of the Aditya-L1 Support Cell and organizing multiple national workshops under the programme.Beyond research, he is deeply invested in science communication and has delivered invited talks across major international conferences in Asia and Europe. Outside physics, he enjoys reading non-fiction, playing table tennis, and watching thoughtful films and Korean dramas.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-06-07T16:00:00+05:30",
+    "endDate": "2026-06-07T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Noida One, Rasoolpur Nawada, Industrial Area, Sector 62, Noida, Uttar Pradesh 201309, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.62303590000000000000",
+        "longitude": "77.36614380000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/the-good-the-bad-the-ugly-sun",
+    "keywords": [
       "Food & drink",
       "URBANAUT"
     ]
@@ -1428,6 +1574,43 @@
     "keywords": [
       "Local",
       "Festival",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Sex, Death, And The Long War Of Life",
+    "description": "Join us for a lecture that begins with a provocative proposition:You were never meant to exist.And that may be the most liberating fact about you.About the LectureHuman beings like stories.We tell ourselves that life has meaning, that history bends toward progress, that our desires are uniquely our own.Evolution tells a different story.One without heroes, villains, purpose, or justice.This lecture explores the oldest conflict on Earth: the endless struggle of living things to survive, reproduce, and persist. Long before nations, religions, or political ideologies existed, life was already engaged in a ruthless competition that continues to shape every organism alive today.Drawing on evolutionary biology and psychology, the session traces how some of our deepest instincts emerged from this ancient inheritance.The lecture explores:Why evolution remains the most powerful framework for understanding lifeHow competition and cooperation coexist in the natural worldWhat sex is really doing from the perspective of evolutionWhy human beings are, like all organisms, unfinished creaturesHow morality, consciousness, and even the idea of a \u201csoul\u201d might be viewed through an evolutionary lensMoving from algae to human behaviour, from reproduction to mortality, the session challenges many of the comforting assumptions we hold about ourselves.At its heart lies a difficult but strangely freeing question:What changes when we stop imagining that life was designed for us?About the SpeakerAmbarish Satwik is a Delhi-based vascular and endovascular surgeon, Director of the Vascular Cath Lab at Sir Ganga Ram Hospital, and Professor of Vascular Surgery at GRIPMER.Alongside his medical career, he is an acclaimed writer whose work moves across literature, history, politics, and science. His novel Perineum: Nether Parts of the Empire is a critically acclaimed exploration of sexuality and power in the British Raj.His essays, columns, and commentaries have appeared in publications including India Today, The Times of India, Outlook, Open, Tehelka, Time Out, and Hindu Business Line.Known for bringing together scientific rigour, intellectual irreverence, and dark humour, his talks often leave audiences questioning ideas they previously took for granted.Ticket IncludesYour ticket includes a complimentary drink during the session.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-06-21T12:00:00+05:30",
+    "endDate": "2026-06-21T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Eldeco Centre, Block A, Shivalik Colony, Malviya Nagar, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52806900000000000000",
+        "longitude": "77.20516300000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "599.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/sex-death-and-the-long-war-of-life-13825",
+    "keywords": [
+      "Food & drink",
       "Art & culture",
       "URBANAUT"
     ]
