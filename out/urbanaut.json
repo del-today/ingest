@@ -2,44 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "name": "Play to Performance: Improv 14 Hour Workshop",
-    "description": "Step into a space where spontaneity meets performance.Improv Level One \u2013 From Play to Performance is a 14-hour immersive improv theatre workshop at The Immersion Room, Gurgaon, designed for adults who want to explore creativity, confidence, and live expression.Through a series of interactive theatre games, scene work, and character exploration, participants develop:Spontaneity & quick thinkingPresence & active listeningConfidence in expressionCollaboration & trustStorytelling through performanceThis workshop focuses on learning by doing\u2014breaking inhibitions, embracing uncertainty, and discovering the joy of being fully present.Multi-day Weekend Workshop SeriesMay 3, 2026 | 11:00 AM \u2013 1:00 PMMay 10, 2026 | 11:00 AM \u2013 1:00 PMMay 17, 2026 | 11:00 AM \u2013 1:00 PMMay 24, 2026 | 12:00 PM \u2013 2:00 PMMay 31, 2026 | 11:00 AM \u2013 1:00 PMJune 7, 2026 | 11:00 AM \u2013 1:00 PMJune 14, 2026 | 11:00 AM \u2013 1:00 PMTotal Duration: 14 HoursFormat: In-person | Adults OnlyFinal Showcase:The experience culminates in a live improv performance at The Immersion Room, where participants step onto the stage and perform in front of an audience.",
-    "startDate": "2026-05-29T11:00:00+05:30",
-    "endDate": "2026-06-14T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "E5, Market Rd, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46575680000000000000",
-        "longitude": "77.09909929999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "12000.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Immersion Room",
-      "url": "https://urbanaut.app/partner/theimmersionroom"
-    },
-    "url": "https://urbanaut.app/spot/improv-comedy-anshu-daga-intensive-workshop-tir-gurugram",
-    "keywords": [
-      "Live GIG",
-      "Workshop",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
     "name": "Hot Girls Do Pilates | Defence Colony",
     "description": "Let\u2019s make your Sunday morning extra feel-good with Hot Girls Do Pilates, a guided pilates experience by SWAG \ud83d\udc9bThis is a reformer pilates session with limited spots!Come and feel fitter in the company of like-minded women, and stayback for some chit-chat!",
     "startDate": "2026-05-30T11:00:00+05:30",
@@ -72,6 +34,44 @@
       "Leisure",
       "Wellness",
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Play to Performance: Improv 14 Hour Workshop",
+    "description": "Step into a space where spontaneity meets performance.Improv Level One \u2013 From Play to Performance is a 14-hour immersive improv theatre workshop at The Immersion Room, Gurgaon, designed for adults who want to explore creativity, confidence, and live expression.Through a series of interactive theatre games, scene work, and character exploration, participants develop:Spontaneity & quick thinkingPresence & active listeningConfidence in expressionCollaboration & trustStorytelling through performanceThis workshop focuses on learning by doing\u2014breaking inhibitions, embracing uncertainty, and discovering the joy of being fully present.Multi-day Weekend Workshop SeriesMay 3, 2026 | 11:00 AM \u2013 1:00 PMMay 10, 2026 | 11:00 AM \u2013 1:00 PMMay 17, 2026 | 11:00 AM \u2013 1:00 PMMay 24, 2026 | 12:00 PM \u2013 2:00 PMMay 31, 2026 | 11:00 AM \u2013 1:00 PMJune 7, 2026 | 11:00 AM \u2013 1:00 PMJune 14, 2026 | 11:00 AM \u2013 1:00 PMTotal Duration: 14 HoursFormat: In-person | Adults OnlyFinal Showcase:The experience culminates in a live improv performance at The Immersion Room, where participants step onto the stage and perform in front of an audience.",
+    "startDate": "2026-05-30T11:00:00+05:30",
+    "endDate": "2026-06-14T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "E5, Market Rd, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46575680000000000000",
+        "longitude": "77.09909929999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "12000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Immersion Room",
+      "url": "https://urbanaut.app/partner/theimmersionroom"
+    },
+    "url": "https://urbanaut.app/spot/improv-comedy-anshu-daga-intensive-workshop-tir-gurugram",
+    "keywords": [
+      "Live GIG",
+      "Workshop",
+      "Active",
       "URBANAUT"
     ]
   },
@@ -493,43 +493,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Pizza Omakase Nostalgic Summer",
-    "description": "One table. Ten seats. And a journey straight back to the slow, golden flavors of your childhood. This is not a traditional dinner; it\u2019s an intimate, gathering-style dining experience designed around connection, storytelling, and culinary time travel. We invite you to pull up a chair, lean into the music, and share a single table with a small group of fellow food lovers as we bring summer nostalgia completely reimagined to the plate.Over the course of the afternoon, the boundaries between strangers disappear. As the plates roll out from the kitchen, you\u2019ll experience an unhurried, multi-course menu where childhood food memories, from retro canteen favorites to the comfort of your family kitchen, are elevated into premium, artisanal dishes. Come ready to share a seat, engage in great conversation, and lose yourself in a beautifully curated food experience built entirely around the magic of endless summers.Event DetailsDates: Saturday & Sunday, May 30th & 31stTable Size: Strictly capped at 10 guests per session for an intimate experience.",
-    "startDate": "2026-05-30T19:00:00+05:30",
-    "endDate": "2026-05-31T16:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Ground Floor, D/19, Nangal Dewat, Sector D, Vasant Kunj, New Delhi, Delhi 110070, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52769400000000000000",
-        "longitude": "77.13968830000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1699.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Pizza Omakase by Saby's Deli",
-      "url": "https://urbanaut.app/partner/pizza-omakase-by-sabys-deli"
-    },
-    "url": "https://urbanaut.app/spot/pizza-omakase-nostalgic-summer",
-    "keywords": [
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Sham-e-Qutub : A night heritage walk",
     "description": "We are delighted to invite you to a special *Night heritage walk at Qutub Minar*, curated by Darwesh Heritage Walks**Date: 30th May, 2026**Time: 7:00 p.m. onwardsExperience the magic of one of Delhi\u2019s most iconic monuments as it transforms at dusk\u2014when the Qutub Minar complex is beautifully lit and wrapped in an almost timeless charm.This walk takes you through the story of Delhi\u2019s first capital at Mehrauli, tracing the rise of the Tomars and Chauhans, and the arrival of the Delhi Sultanate under the early Turko-Afghan rulers. As the evening sets in, the illuminated ruins, soaring minar, and intricate carvings create a truly immersive atmosphere\u2014perfect for experiencing history not just as a narrative, but as a living, breathing space.During this walk, we will explore:* The origins of Delhi\u2019s earliest city at Mehrauli* The political transitions from Rajput to Sultanate rule* The architectural brilliance of the Qutub complex and its symbolism* The stories hidden in its mosques, pillars, and inscriptionsJoin us for an unforgettable evening of storytelling, history, and exploration\u2014where the past comes alive under the soft glow of lights.We look forward to having you with us.(Please note: the fee is not for access to the site, but rather for the curated experience)",
@@ -902,6 +865,43 @@
       "Local",
       "Premium",
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Pizza Omakase Nostalgic Summer",
+    "description": "One table. Ten seats. And a journey straight back to the slow, golden flavors of your childhood. This is not a traditional dinner; it\u2019s an intimate, gathering-style dining experience designed around connection, storytelling, and culinary time travel. We invite you to pull up a chair, lean into the music, and share a single table with a small group of fellow food lovers as we bring summer nostalgia completely reimagined to the plate.Over the course of the afternoon, the boundaries between strangers disappear. As the plates roll out from the kitchen, you\u2019ll experience an unhurried, multi-course menu where childhood food memories, from retro canteen favorites to the comfort of your family kitchen, are elevated into premium, artisanal dishes. Come ready to share a seat, engage in great conversation, and lose yourself in a beautifully curated food experience built entirely around the magic of endless summers.Event DetailsDates: Saturday & Sunday, May 30th & 31stTable Size: Strictly capped at 10 guests per session for an intimate experience.",
+    "startDate": "2026-05-31T13:00:00+05:30",
+    "endDate": "2026-05-31T16:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ground Floor, D/19, Nangal Dewat, Sector D, Vasant Kunj, New Delhi, Delhi 110070, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52769400000000000000",
+        "longitude": "77.13968830000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1699.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Pizza Omakase by Saby's Deli",
+      "url": "https://urbanaut.app/partner/pizza-omakase-by-sabys-deli"
+    },
+    "url": "https://urbanaut.app/spot/pizza-omakase-nostalgic-summer",
+    "keywords": [
+      "Pop-up Event",
+      "Food & drink",
       "URBANAUT"
     ]
   },

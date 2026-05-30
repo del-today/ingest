@@ -385,10 +385,10 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "bFLAT presentsOne night at The Humming TreeA Tribute to CARLOS SANTANAFor over 10 ",
+      "description": "bFLAT presents\r\n\r\nOne night at The Humming Tree\r\n\r\nA Tribute to CARLOS SANTANA\r\n\r\n \r\n\r\nFor over 10 years, The bFLAT Bar firmly established i",
       "endDate": "2026-06-13T23:59:00",
       "identifier": "com.skillboxes.36793",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YkM5YUkzb1JFbnltd25oanVpNnR6UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1779902900GlKf9VOHyYWroD5c.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YkM5YUkzb1JFbnltd25oanVpNnR6UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1780045518LOYnBhzQh39ZOfIC.jpeg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Club Gigs - Music"
@@ -408,9 +408,25 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Mandatory cover charge of INR 2000 applicable at the gates\n",
-            "inventoryLevel": 499,
+            "description": "Mandatory cover charge of INR 1000 applicable at the gates\n",
+            "inventoryLevel": 438,
             "name": "General Entry",
+            "url": "https://www.skillboxes.com/events/ticket/tht-presents-one-night-at-bflat-a-tribute-to-carlos-santana"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This ticket covers entry to the event for 3 people and a fully redeemable cover charge worth INR 7000\n",
+            "inventoryLevel": 2,
+            "name": "Mezzanine Level VIP Table Seating - Zone 1",
+            "url": "https://www.skillboxes.com/events/ticket/tht-presents-one-night-at-bflat-a-tribute-to-carlos-santana"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This ticket covers entry to the event for 6 people and a fully redeemable cover charge worth INR 14000.\n",
+            "inventoryLevel": 4,
+            "name": "Mezzanine Level VIP Table Seating - Zone 2",
             "url": "https://www.skillboxes.com/events/ticket/tht-presents-one-night-at-bflat-a-tribute-to-carlos-santana"
          }
       ],
@@ -420,7 +436,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Organic World Fusion by Sarva ✨A meeting of East and West, where sound travels without borders.Join Martin Dubois and Ashwini Hegde for an intimate evening of organic world fusion &#8212",
+      "description": "Organic World Fusion by Sarva ✨\r\n\r\n \r\n\r\nA meeting of East and West, where sound travels without borders.\r\n\r\n \r\n\r\nJoin Martin Dubois and Ashwini Hegde for an intimate evening of organic world fusion — a",
       "endDate": "2026-06-06T21:00:00",
       "identifier": "com.skillboxes.36790",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1779898180oXLFWDWHdMbo7r1N.jpg.webp",
@@ -478,7 +494,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory Cover Charge of INR 1000 applicable at gates per person\n",
-            "inventoryLevel": 498,
+            "inventoryLevel": 479,
             "name": "Entry Ticket",
             "url": "https://www.skillboxes.com/events/ticket/the-humming-tree-presents-thermal-and-a-quarter-supported-by-dhuan"
          }
@@ -563,7 +579,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "AFRO CITY makes its official debut in Bengaluru with an immersive Afro House experience featuring internationally acclaimed artist JAMY NOX alongside HATHA.Step into a night of deep rhythms, tribal energy, hypnotic melodi",
+      "description": "AFRO CITY makes its official debut in Bengaluru with an immersive Afro House experience featuring internationally acclaimed artist JAMY NOX alongside HATHA.\r\n\r\nStep into a night of deep rhythms, tribal energy, hypnotic melodies, and elevate",
       "endDate": "2026-05-30T23:59:00",
       "identifier": "com.skillboxes.36719",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1779729034PUnugZMyJSzCyn8x.jpg.webp",
@@ -637,7 +653,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 109,
+            "inventoryLevel": 108,
             "name": "General Pass",
             "url": "https://www.skillboxes.com/events/ticket/eviction-notice-by-tanuki-2"
          }
@@ -941,15 +957,7 @@
          "name": "AEOS HQ"
       },
       "name": "Creator-Preneur Bootcamp",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 54,
-            "name": "Basic",
-            "url": "https://www.skillboxes.com/events/ticket/creator-preneur-summit"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2026-05-30T10:00:00",
       "url": "https://www.skillboxes.com/events/creator-preneur-summit"
    },
@@ -2043,7 +2051,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 5,
+            "inventoryLevel": 4,
             "name": "Super Early Bird GA Pass",
             "url": "https://www.skillboxes.com/events/ticket/the-bpm-theory-x-nikolina-1"
          },
