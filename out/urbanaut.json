@@ -39,193 +39,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Wood Working Workshop- Make & Take",
-    "description": "First of it's kind in Delhi-NCRStep into our workshop and experience the joy of building something with your own hands. Woodling Wooden Workshops are designed to bring people together through creativity, craftsmanship, and meaningful experiences.Our Make & Take Workshop is a hands-on experience where you get to design, craft, and take home your very own wooden creation. Guided by experts from a legacy timber background, you\u2019ll work with real tools and high-quality wood in a safe, beginner-friendly environment. Beyond just creating something tangible, woodworking offers a deeply calming and rewarding experience. It helps improve focus, boosts creativity, reduces stress, and gives a sense of accomplishment that\u2019s hard to match. Whether you\u2019re looking for a mindful break, a fun activity, or a new hobby, this workshop lets you slow down, work with your hands, and reconnect with the joy of making something from scratch.We are pioneers in the timber industry, operating since 1991. Based in Faridabad\u2014at the heart of the timber market\u2014we are proud to be one of the largest and most established names in the region.What you can make in our 3 hour workshop-Hand-carved wooden spoonTea light candle holderWooden coasters (set of 2)Mini desk organiserPhoto frameKey holder / wall hooksSmall trinket traySmall Book shelfHand carvingAnd many many more!Whether you join us with friends, as a couple, with your team, or even solo, you will leave with a product you made yourself and a deeper appreciation for the craft behind it.Perfect for creative weekends, Birthday parties, group outings, team bonding, or simply trying something new.Come build. Create. Take home more than just a product. \ud83e\udeb5\u2728",
-    "startDate": "2026-05-31T12:00:00+05:30",
-    "endDate": "2026-05-31T15:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "2M, 33, Shahid Bhagat Singh Marg, Block M, New Industrial Twp 2, New Industrial Township, Faridabad, Haryana 121001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.38989450000000000000",
-        "longitude": "77.28521040000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2478.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Woodling",
-      "url": "https://urbanaut.app/partner/woodling"
-    },
-    "url": "https://urbanaut.app/spot/wood-working-workshop-make-take-your-own-produc",
-    "keywords": [
-      "Local",
-      "Premium",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Pizza Omakase Nostalgic Summer",
-    "description": "One table. Ten seats. And a journey straight back to the slow, golden flavors of your childhood. This is not a traditional dinner; it\u2019s an intimate, gathering-style dining experience designed around connection, storytelling, and culinary time travel. We invite you to pull up a chair, lean into the music, and share a single table with a small group of fellow food lovers as we bring summer nostalgia completely reimagined to the plate.Over the course of the afternoon, the boundaries between strangers disappear. As the plates roll out from the kitchen, you\u2019ll experience an unhurried, multi-course menu where childhood food memories, from retro canteen favorites to the comfort of your family kitchen, are elevated into premium, artisanal dishes. Come ready to share a seat, engage in great conversation, and lose yourself in a beautifully curated food experience built entirely around the magic of endless summers.Event DetailsDates: Saturday & Sunday, May 30th & 31stTable Size: Strictly capped at 10 guests per session for an intimate experience.",
-    "startDate": "2026-05-31T13:00:00+05:30",
-    "endDate": "2026-05-31T16:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Ground Floor, D/19, Nangal Dewat, Sector D, Vasant Kunj, New Delhi, Delhi 110070, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52769400000000000000",
-        "longitude": "77.13968830000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1699.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Pizza Omakase by Saby's Deli",
-      "url": "https://urbanaut.app/partner/pizza-omakase-by-sabys-deli"
-    },
-    "url": "https://urbanaut.app/spot/pizza-omakase-nostalgic-summer",
-    "keywords": [
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Bandaids and Poetry - Online Workshop",
-    "description": "\u201cBandaids and poetry\u201d is a gentle two-day poetry writing workshop for anyone carrying stories they\u2019ve never fully said out loud.A space to heal, write, reflect, and turn emotions into words that feel honest and alive.Across two intimate online sessions, we\u2019ll explore poetry through prompts, conversations, reading exercises, and personal writing. Whether you\u2019re someone who journals secretly at 2 AM, writes unfinished notes, or has never written a poem before \u2014 this workshop is for you.This isn\u2019t about writing \u201cperfect\u201d poetry.It\u2019s about finding beauty in the cracks.Hosted by Ilina Sinha, Wingword Poetry Prize Winner 2024.Limited to only 10 participants to keep the space personal and interactive.WHAT\u2019S INCLUDED2 live interactive poetry sessionsGuided writing prompts and exercisesFeedback and sharing spacePoetry resources and inspiration materialSafe and intimate online environmentOpportunity to connect with fellow writers",
-    "startDate": "2026-05-31T15:00:00+05:30",
-    "endDate": "2026-05-31T16:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.70405920000000000000",
-        "longitude": "77.10249019999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "LIKHON DIL SE",
-      "url": "https://urbanaut.app/partner/likhondilse"
-    },
-    "url": "https://urbanaut.app/spot/bandaids-and-poetry",
-    "keywords": [
-      "Leisure",
-      "Virtual",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Trauma Porn: The Pain We Are Trained To Recognise",
-    "description": "Join us on Sunday, May 31, for an evening that questions the stories we are drawn to  and what it means when suffering becomes something we consume.About the LectureStorytelling has never been neutral. But what happens when pain becomes the most visible, shareable, and compelling form of narrative?This session explores the growing phenomenon often described as \u2018trauma porn\u2019, where suffering is shaped, framed, and circulated in ways that make it legible, gripping, and consumable. In an attention economy driven by intensity and immediacy, trauma can begin to function as narrative currency, promoting dramatic and emotionally charged stories over stories that are quieter, slower, or harder to define.Drawing from trauma theory and cultural analysis, this lecture examines how these patterns extend beyond media and into the way we understand our own lives.Flow of the Evening 4:00 PM: Doors open at Depot 48, GK II: Come in, find your seat, and get comfortable4:05 \u2013 4:20 PM: Place your orders and start a few conversations4:30 PM: The learning begins5:15 PM: Open Q&A and discussion with Ms. Gupta5:30 PM onwards: Stay a while: More eating, more drinking, more conversationsAbout the SpeakerVasundhara Gupta is a trauma-focused psychotherapist, narrative practitioner, and the Founder of Humraahi Psychotherapy, a therapist-led mental health practice based in New Delhi. Her work explores the intersection of trauma, storytelling, and the politics of recognition, examining how the narratives available to us shape what we are able to feel, articulate, and survive.Trained at Lady Shri Ram College for Women, University of Delhi, and the Tata Institute of Social Sciences, her therapeutic practice is rooted in relational and process-oriented care, with a particular focus on trauma, grief, identity, and relational complexity.As a narrative practitioner, she is deeply interested in the dominant stories that organise our inner lives, and in what becomes possible when those stories are questioned, re-authored, and collectively re-imagined. Alongside her clinical work, she creates reflective spaces for therapists and peer supporters, and has facilitated workshops, trainings, and support groups across academic and community settings.At the centre of her work is a question she continually returns to: how do we learn to listen to suffering, our own and others\u2019, with greater care, complexity, and responsibility.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from St. Stephen\u2019s, Delhi who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
-    "startDate": "2026-05-31T16:00:00+05:30",
-    "endDate": "2026-05-31T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53415570000000000000",
-        "longitude": "77.24300939999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/trauma-porn-the-pain-we-are-trained-to-recognise",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Spiral - 31 May",
-    "description": "Spiral is an immersive solo performance driven by the actor\u2019s body as a tool, in powerful dialogue with live music\u2014featuring four of the finest musicians in the country.Weaving together three distinct narratives in a fluid, stream-of-consciousness style, it explores how urban women navigate and negotiate abuse across  public and private spaces.Raw, immediate and unflinching\u2014this is storytelling that pulls you right into the heart of it.",
-    "startDate": "2026-05-31T17:00:00+05:30",
-    "endDate": "2026-05-31T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "32nd avenue, Sector 15 Part 2, Sector 15, Gurugram, Haryana 122001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46145160000000000000",
-        "longitude": "77.04983410000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Play Factory",
-      "url": "https://urbanaut.app/partner/theplayfactory"
-    },
-    "url": "https://urbanaut.app/spot/spiral-31-may",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "IPL Final - Rooftop Watch Party & Play | May 31",
     "description": "\ud83c\udfcf THE WAIT IS OVER. IPL FINAL SCREENING IS HERE \u2728\ud83c\udf7b Watching the final at home? Nah. We\u2019re doing it on a rooftop turf with a giant screen, cricket, beer & amazing vibes \ud83d\udc40\ud83d\udd25\ud83d\udccd R2 Fitness, Nawada, Delhi { Rooftop Turf } \ud83d\uddd3\ufe0f 31st May | 6 PM onwardsWhat\u2019s waiting for you: \ud83c\udfcf IPL Final live screening on a BIG screen \ud83c\udfcf Play cricket on the turf before & during the match \ud83c\udf7b BYOB { Bring Your Own Beer } \u2728 Rooftop setup + good people + proper match energyWhether you support RCB or just love cricket , this is your place \ud83c\udfc6Limited spots only. DM now & grab your seat before it\u2019s sold out \ud83d\udc40",
@@ -259,82 +72,6 @@
       "Leisure",
       "Music",
       "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Pickleball with SWAG | Gurugram",
-    "description": "The SWAG Pickleball Party is you perfect saturday evening plan!This is a women-only, beginner-friendly meet-up.See you on court!",
-    "startDate": "2026-05-31T18:00:00+05:30",
-    "endDate": "2026-05-31T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Sportyzo Sports Academy, Sector 65, Gurugram, Haryana 122101, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.40450950000000000000",
-        "longitude": "77.07416250000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "360.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swagggn1",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "BADDY WITH BADDIES | Gurugram",
-    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.5:50 PM Meet up and Warm up Time6:00 PM Game TimeSee you on court!",
-    "startDate": "2026-05-31T18:00:00+05:30",
-    "endDate": "2026-05-31T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Sportyzo Badminton Academy, Emaar emerald hills, Golf Course Ext Rd, opposite Ivory Block, Sector 65, Gurugram, Haryana 122011, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.40465650000000000000",
-        "longitude": "77.07401440000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "250.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swagggn",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
       "URBANAUT"
     ]
   },
@@ -563,6 +300,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Celebrating Jamais (son-in-laws) is fun too \ud83d\ude0a",
+    "description": "Jamai shosthi is round the corner. It is a celebration where Bengali jamai or the son-in-law is feted and there is a competitive food binge party. On social media everyone of someone has started to talk about how obnoxious food binging is and ... Restaurants will compete to offer a lavish menu at the cheapest price.  But is the day really about the jamai.The sixth day of the waxing moon in the Bengali month of Jyeshtha comes a celebration where the ecosystem is feted. And some incredible aromatic rice fills the fields with happiness during this time of the year. Come hear these stories. ",
+    "startDate": "2026-06-06T18:30:00+05:30",
+    "endDate": "2026-06-06T21:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Chittaranjan Park, New Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53978420000000000000",
+        "longitude": "77.24897260000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Lucheefoodstory",
+      "url": "https://urbanaut.app/partner/lucheefoodstory"
+    },
+    "url": "https://urbanaut.app/spot/celebrating-jamais-son-in-laws-is-fun-too",
+    "keywords": [
+      "Pop-up Event",
+      "History & heritage",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Old Delhi Photowalk with Kshitij from Shootguru",
     "description": "Join Kshitij from Shootguru for a photowalk through the heart of Old Delhi, where bustling streets, historic landmarks, hidden details, and everyday moments come together through a storyteller\u2019s lens.Starting at the Red Fort Entrance Gate, we\u2019ll walk through some of the city\u2019s most iconic and photogenic locations:\ud83d\udccd Red Fort\ud83d\udccd Chandni Chowk Main Road\ud83d\udccd Sis Ganj Sahib\ud83d\udccd Dariba Kalan\ud83d\udccd Kinari Bazaar\ud83d\udccd Ballimaran\ud83d\udccd Chor Bizarre\ud83d\uddd3 Sunday, 31st May\u23f0 Meeting Point: Red Fort Entrance Gate | 6:30 AM\ud83d\udeb6 Walk Duration: 1.5 hours\ud83c\udf73 Followed by breakfast at Chor Bizarre",
@@ -637,6 +412,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Nizamuddin Basti Heritage walk on Sufism & Poetry",
+    "description": "An immersive heritage walk through the lanes, stories, music, and living traditions of one of Delhi\u2019s most evocative historic quarters (Nizamuddin Basti)Join Darwesh Heritage Walks for an evening exploring the layered world of Sufi thought, medieval Delhi, oral traditions, poetry, music, and the cultural landscape that evolved around the spiritual legacy of Hazrat Nizamuddin Auliya and Amir Khusrau.From forgotten Ghalib ki Mazaar and medieval structures to poetic memories carried through the basti\u2019s winding lanes, this walk seeks to understand how love, devotion, mysticism, and art shaped the soul of the city.The walk includes storytelling, historical interpretation, and discussions around Sufism, poetry, architecture, and the intangible cultural heritage associated with the area.Disclaimer:  The tour route is in public areas over which we have no control/preferred access. \"Monument entry fee (if any) shall be payable separately to the requisite authorities only in the manner prescribed by such authorities.\"",
+    "startDate": "2026-06-07T17:00:00+05:30",
+    "endDate": "2026-06-07T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Bharat Scouts and Guides Marg, opposite Humayun Tomb Park, Nizamuddin, Hazrat Nizamuddin, National Zoological Park, Sundar Nagar, New Delhi, Delhi 110013, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59564670000000000000",
+        "longitude": "77.24516910000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/nizsufism",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Aam Nama",
     "description": "Aam Nama with Sohail Hashmi is a mango-centric cultural experience celebrating the stories, recipes, and traditions of Old Delhi.The session will be led by renowned historian Sohail Hashmi, who will take guests through the rich history of mangoes, their connection with Delhi\u2019s food culture, and the memories and traditions that surround them. Through engaging storytelling, lesser-known anecdotes, and cultural insights, the session will explore how mangoes have been cherished across generations.The experience will also include heirloom recipes from Old Delhi kitchens, a pocket recipe book launch, and a specially curated mango tasting\u2014bringing together history, flavour, nostalgia and community in one memorable evening at Kathika Cultural Centre, Old Delhi.",
@@ -670,6 +483,44 @@
       "Leisure",
       "History & heritage",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Tracing the Djinns of Kotla Ferozshah",
+    "description": "TRACING THE DJINNS of FEROZSHAH KOTLA FORTAcross the old walls, we will gather at the main gate of Feroz Shah Kotla. Before us lie crumbling stone portals, hollowed arches, and silent courtyards that once bustled with life in the 14th century under Sultan Feroz Shah Tughlaq.This is no ordinary heritage walk. We will tread the boundary between history and myth \u2014 stepping into the realm of the djinns said to haunt these ruins, to listen, to judge, and sometimes to grant wishes.Led by expert storyteller and myth-hunter, the walk will weave together folklore, historical lore, and spooky tales . Expect atmospheric narration, dramatic pauses, unexpected twists \u2014 and maybe a few ghostly encounters.Not for the faint hearted !!Highlights* A guided heritage walk through ruins, hidden chambers, and alleyways* Folklore and legends of djinns haunting the fort* Dramatic storytelling * Occasional \u201cmystery stops\u201d and whispers* A themed ritual (writing wishes / invoking legends) in the end.",
+    "startDate": "2026-06-14T08:00:00+05:30",
+    "endDate": "2026-06-14T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "J6MV+X87, Balmiki Basti, Vikram Nagar, New Delhi, Delhi, 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.63491590000000000000",
+        "longitude": "77.24330530000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/djinnsofkotla",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
       "URBANAUT"
     ]
   },
@@ -783,6 +634,44 @@
     "keywords": [
       "Local",
       "Festival",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Daughters of Shahjahan at Red fort (A Heritage walk)",
+    "description": "Daughters of Shahjahan Heritage walk at the Redfort (With Dramatic Reading of play excerpts)Join Darwesh Heritage Walks & Sabhyata Foundation for a unique Immersive experience at the Red Fort .The Red Fort (Lal Qila), an iconic symbol of India's history, stands proudly in Old Delhi as a silent witness to centuries of political, architectural, and cultural change. Commissioned by Mughal Emperor Shah Jahan in 1638, this UNESCO World Heritage Site is not just a monument\u2014it is a storyteller, narrating tales of imperial grandeur, colonial resistance, and post-independence pride. Stories about the Mughal opulence, the power politics, the powerful place of women in our history will unfold as we walk through the bygone Mughal era.The \u2018war of succession\u2019 that took place among the four sons of Shah Jahan had one novelty, while previously, wars were fought after the death of the emperor, this war was fought when Shah Jahan was still alive. All sons and daughters of Shah Jahan participated in it. While the four sons Dara Shikoh, Shah Shuja, Aurangzeb and Murad Baksh fought against each other, the sisters Jahanara and Roshanara allied themselves with one or the other brother. Through this we will bring to you to the story of the Mughal battle of succession that changed the course of Indian history.The heritage walk includes (dramatic reading of play excerpts in Hindustani) highlighting stories and scenes from the tussle going on between Shahjahan\u2019s Sons Aurangzeb and Dara Shikoh and the two daughters Jahanara and Roshanara Begum, each of whom sided with one brother.",
+    "startDate": "2026-06-21T08:00:00+05:30",
+    "endDate": "2026-06-21T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.65615920000000000000",
+        "longitude": "77.24102030000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/redfort",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
       "Art & culture",
       "URBANAUT"
     ]

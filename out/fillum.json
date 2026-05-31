@@ -1,40 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "Padatik(1973)",
-    "url": "https://fillum.in/screening/5405",
-    "startDate": "2026-05-31T17:00:00+05:30",
-    "endDate": "2026-05-31T17:00:00+05:30",
-    "description": "The screening will be preceded by an introduction.",
-    "location": {
-      "@type": "Place",
-      "name": "Mool, South-Ex 2",
-      "address": "South Ex II, New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Camera Commune"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Eight and a half(1963)",
-    "url": "https://fillum.in/screening/5570",
-    "startDate": "2026-05-31T18:00:00+05:30",
-    "endDate": "2026-05-31T18:00:00+05:30",
-    "description": "",
-    "location": {
-      "@type": "Place",
-      "name": "Niv Art Centre, Neb Sarai",
-      "address": "Sainik Farm, New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Films From Underground"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "Too Far Away(2019)",
     "url": "https://fillum.in/screening/5579",
     "startDate": "2026-06-02T19:00:00+05:30",
