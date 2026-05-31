@@ -1,158 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Play to Performance: Improv 14 Hour Workshop",
-    "description": "Step into a space where spontaneity meets performance.Improv Level One \u2013 From Play to Performance is a 14-hour immersive improv theatre workshop at The Immersion Room, Gurgaon, designed for adults who want to explore creativity, confidence, and live expression.Through a series of interactive theatre games, scene work, and character exploration, participants develop:Spontaneity & quick thinkingPresence & active listeningConfidence in expressionCollaboration & trustStorytelling through performanceThis workshop focuses on learning by doing\u2014breaking inhibitions, embracing uncertainty, and discovering the joy of being fully present.Multi-day Weekend Workshop SeriesMay 3, 2026 | 11:00 AM \u2013 1:00 PMMay 10, 2026 | 11:00 AM \u2013 1:00 PMMay 17, 2026 | 11:00 AM \u2013 1:00 PMMay 24, 2026 | 12:00 PM \u2013 2:00 PMMay 31, 2026 | 11:00 AM \u2013 1:00 PMJune 7, 2026 | 11:00 AM \u2013 1:00 PMJune 14, 2026 | 11:00 AM \u2013 1:00 PMTotal Duration: 14 HoursFormat: In-person | Adults OnlyFinal Showcase:The experience culminates in a live improv performance at The Immersion Room, where participants step onto the stage and perform in front of an audience.",
-    "startDate": "2026-05-30T11:00:00+05:30",
-    "endDate": "2026-06-14T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "E5, Market Rd, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46575680000000000000",
-        "longitude": "77.09909929999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "12000.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Immersion Room",
-      "url": "https://urbanaut.app/partner/theimmersionroom"
-    },
-    "url": "https://urbanaut.app/spot/improv-comedy-anshu-daga-intensive-workshop-tir-gurugram",
-    "keywords": [
-      "Live GIG",
-      "Workshop",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Bandaids and Poetry - Online Workshop",
-    "description": "\u201cBandaids and poetry\u201d is a gentle two-day poetry writing workshop for anyone carrying stories they\u2019ve never fully said out loud.A space to heal, write, reflect, and turn emotions into words that feel honest and alive.Across two intimate online sessions, we\u2019ll explore poetry through prompts, conversations, reading exercises, and personal writing. Whether you\u2019re someone who journals secretly at 2 AM, writes unfinished notes, or has never written a poem before \u2014 this workshop is for you.This isn\u2019t about writing \u201cperfect\u201d poetry.It\u2019s about finding beauty in the cracks.Hosted by Ilina Sinha, Wingword Poetry Prize Winner 2024.Limited to only 10 participants to keep the space personal and interactive.WHAT\u2019S INCLUDED2 live interactive poetry sessionsGuided writing prompts and exercisesFeedback and sharing spacePoetry resources and inspiration materialSafe and intimate online environmentOpportunity to connect with fellow writers",
-    "startDate": "2026-05-30T15:00:00+05:30",
-    "endDate": "2026-05-31T16:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.70405920000000000000",
-        "longitude": "77.10249019999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "LIKHON DIL SE",
-      "url": "https://urbanaut.app/partner/likhondilse"
-    },
-    "url": "https://urbanaut.app/spot/bandaids-and-poetry",
-    "keywords": [
-      "Leisure",
-      "Virtual",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Old Delhi Photowalk with Kshitij from Shootguru",
-    "description": "Join Kshitij from Shootguru for a photowalk through the heart of Old Delhi, where bustling streets, historic landmarks, hidden details, and everyday moments come together through a storyteller\u2019s lens.Starting at the Red Fort Entrance Gate, we\u2019ll walk through some of the city\u2019s most iconic and photogenic locations:\ud83d\udccd Red Fort\ud83d\udccd Chandni Chowk Main Road\ud83d\udccd Sis Ganj Sahib\ud83d\udccd Dariba Kalan\ud83d\udccd Kinari Bazaar\ud83d\udccd Ballimaran\ud83d\udccd Chor Bizarre\ud83d\uddd3 Sunday, 31st May\u23f0 Meeting Point: Red Fort Entrance Gate | 6:30 AM\ud83d\udeb6 Walk Duration: 1.5 hours\ud83c\udf73 Followed by breakfast at Chor Bizarre",
-    "startDate": "2026-05-31T06:30:00+05:30",
-    "endDate": "2026-06-07T09:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Hotel Broadway, 4/15A, Asaf Ali Rd, Chatta lal Miya, Chandni Mahal, Chandni Chowk, Delhi, New Delhi, Delhi 110002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.64105660000000000000",
-        "longitude": "77.23791410000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1417.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Chor Bizarre",
-      "url": "https://urbanaut.app/partner/chor-bizarre"
-    },
-    "url": "https://urbanaut.app/spot/old-delhi-photowalk-with-kshitij-from-shootguru",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Safdarjung Tomb : Heritage Walk",
-    "description": "Safdarjung\u2019s Tomb Heritage Walk(curated by Darwesh Heritage Walks in collaboration with Sabhyata Foundation)Join us for a journey into the fading glow of Mughal splendour at Safdarjung's Tomb \u2014 often called the *last flicker of Mughal grandeur* in Delhi.Built in 1754 for Safdarjung, the powerful Nawab of Awadh and Prime Minister of the Mughal court, this monument stands at the twilight of an empire \u2014 grand in ambition, yet carrying within it the quiet signs of decline.Its story is as fascinating as its form. From courtly intrigues and shifting loyalties to the architectural choices that reveal a changing political landscape, Safdarjung\u2019s life opens a compelling window into 18th-century Delhi.We will also trace a lesser-known layer of its history \u2014 how this tomb was constructed by reusing material from a pre-existing Mughal structure, quite literally building one memory over another.To truly understand Delhi \u2014 its rise, its resilience, and its gradual transitions \u2014 a visit to Safdarjung\u2019s Tomb is essential.Come, walk with us through the final chapter of Mughal architectural brilliance \u2014 where grandeur meets gravity, and history lingers in every arch.Plz note: (fee charged is not for entry into the site , but for the curated experience)",
-    "startDate": "2026-05-31T08:00:00+05:30",
-    "endDate": "2026-05-31T10:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Airforce Golf Course, Delhi Race Club, New Delhi, Delhi 110003, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.58941560000000000000",
-        "longitude": "77.21062190000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "755.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "DARWESH_TALEWEAVERS",
-      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
-    },
-    "url": "https://urbanaut.app/spot/safdarjungtombheritagewalk",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Walk through Excavations & findings at Purana Qila",
     "description": "Q. Ever wondered why archeologists keep digging up Purana Qila??Q. Do you also think Purana Qila is just a Mughal fort??Q. Did you know? Digging just a few meters into the soil at Purana Qila has a direct bearing on the mystery of Indraprastha, the Mahabharata, and Delhi's oldest secrets??What to expect from the Walk:If you are curious about the questions above, expect a really interesting, thought provoking discussion that you don't usually hear in regular conversations about Delhi. We will look at the major findings from the recent digs and talk about the actual debates surrounding the Indraprastha connection. It is also a classic example of how politics enters history\u2014or how history enters politics. If you want to see the capital\u2019s roots through a completely new lens, this walk is for you.Quick Heads-Up: Location: Inside the museum (Not outside / not the Purana Qila outskirts).Language: English+HindiParking & Lockers: Subject strictly to the venue's existing arrangements. Organizers do not guarantee or assure availability, so please travel light.Arrival: Please arrive 10 minutes early at the main entrance to clear security smoothly.",
@@ -305,6 +153,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Play to Performance: Improv 14 Hour Workshop",
+    "description": "Step into a space where spontaneity meets performance.Improv Level One \u2013 From Play to Performance is a 14-hour immersive improv theatre workshop at The Immersion Room, Gurgaon, designed for adults who want to explore creativity, confidence, and live expression.Through a series of interactive theatre games, scene work, and character exploration, participants develop:Spontaneity & quick thinkingPresence & active listeningConfidence in expressionCollaboration & trustStorytelling through performanceThis workshop focuses on learning by doing\u2014breaking inhibitions, embracing uncertainty, and discovering the joy of being fully present.Multi-day Weekend Workshop SeriesMay 3, 2026 | 11:00 AM \u2013 1:00 PMMay 10, 2026 | 11:00 AM \u2013 1:00 PMMay 17, 2026 | 11:00 AM \u2013 1:00 PMMay 24, 2026 | 12:00 PM \u2013 2:00 PMMay 31, 2026 | 11:00 AM \u2013 1:00 PMJune 7, 2026 | 11:00 AM \u2013 1:00 PMJune 14, 2026 | 11:00 AM \u2013 1:00 PMTotal Duration: 14 HoursFormat: In-person | Adults OnlyFinal Showcase:The experience culminates in a live improv performance at The Immersion Room, where participants step onto the stage and perform in front of an audience.",
+    "startDate": "2026-05-31T11:00:00+05:30",
+    "endDate": "2026-06-14T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "E5, Market Rd, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46575680000000000000",
+        "longitude": "77.09909929999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "12000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Immersion Room",
+      "url": "https://urbanaut.app/partner/theimmersionroom"
+    },
+    "url": "https://urbanaut.app/spot/improv-comedy-anshu-daga-intensive-workshop-tir-gurugram",
+    "keywords": [
+      "Live GIG",
+      "Workshop",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Overthinkers Anonymous",
     "description": "OverviewEver wondered why you default to people pleasing, perfectionism, or avoidance? Overthinkers Anonymous is a small and guided space to slow down, reflect, and talk honestly about the things that occupy our minds. This session focuses on Family Patterns and how the environments we grew up in still shape how we think, feel, and respond today.We focus on connecting the dots between past experiences and present reactions in a safe and judgment free environment. The goal is to build awareness and self compassion rather than focusing on blame.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to expectPattern Recognition: Explore why tendencies like overthinking or control keep showing up in your life.Guided Reflection: Use a specialized worksheet to gain context on your reactions without the weight of self-judgment.Awareness & Compassion: A gentle space to build self-awareness and understanding\u2014focused on insight, not on reliving trauma.Details\ud83d\uddd3\ufe0f Date: 31st May (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Kanchanjunga Towers\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes Coffee + Snacks)",
@@ -411,6 +297,44 @@
     "keywords": [
       "Pop-up Event",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Bandaids and Poetry - Online Workshop",
+    "description": "\u201cBandaids and poetry\u201d is a gentle two-day poetry writing workshop for anyone carrying stories they\u2019ve never fully said out loud.A space to heal, write, reflect, and turn emotions into words that feel honest and alive.Across two intimate online sessions, we\u2019ll explore poetry through prompts, conversations, reading exercises, and personal writing. Whether you\u2019re someone who journals secretly at 2 AM, writes unfinished notes, or has never written a poem before \u2014 this workshop is for you.This isn\u2019t about writing \u201cperfect\u201d poetry.It\u2019s about finding beauty in the cracks.Hosted by Ilina Sinha, Wingword Poetry Prize Winner 2024.Limited to only 10 participants to keep the space personal and interactive.WHAT\u2019S INCLUDED2 live interactive poetry sessionsGuided writing prompts and exercisesFeedback and sharing spacePoetry resources and inspiration materialSafe and intimate online environmentOpportunity to connect with fellow writers",
+    "startDate": "2026-05-31T15:00:00+05:30",
+    "endDate": "2026-05-31T16:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.70405920000000000000",
+        "longitude": "77.10249019999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "LIKHON DIL SE",
+      "url": "https://urbanaut.app/partner/likhondilse"
+    },
+    "url": "https://urbanaut.app/spot/bandaids-and-poetry",
+    "keywords": [
+      "Leisure",
+      "Virtual",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -858,6 +782,44 @@
     "url": "https://urbanaut.app/spot/chinese-whispers-india-and-china-before-1962",
     "keywords": [
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Old Delhi Photowalk with Kshitij from Shootguru",
+    "description": "Join Kshitij from Shootguru for a photowalk through the heart of Old Delhi, where bustling streets, historic landmarks, hidden details, and everyday moments come together through a storyteller\u2019s lens.Starting at the Red Fort Entrance Gate, we\u2019ll walk through some of the city\u2019s most iconic and photogenic locations:\ud83d\udccd Red Fort\ud83d\udccd Chandni Chowk Main Road\ud83d\udccd Sis Ganj Sahib\ud83d\udccd Dariba Kalan\ud83d\udccd Kinari Bazaar\ud83d\udccd Ballimaran\ud83d\udccd Chor Bizarre\ud83d\uddd3 Sunday, 31st May\u23f0 Meeting Point: Red Fort Entrance Gate | 6:30 AM\ud83d\udeb6 Walk Duration: 1.5 hours\ud83c\udf73 Followed by breakfast at Chor Bizarre",
+    "startDate": "2026-06-07T06:30:00+05:30",
+    "endDate": "2026-06-07T09:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Hotel Broadway, 4/15A, Asaf Ali Rd, Chatta lal Miya, Chandni Mahal, Chandni Chowk, Delhi, New Delhi, Delhi 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64105660000000000000",
+        "longitude": "77.23791410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1417.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Chor Bizarre",
+      "url": "https://urbanaut.app/partner/chor-bizarre"
+    },
+    "url": "https://urbanaut.app/spot/old-delhi-photowalk-with-kshitij-from-shootguru",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Art & culture",
       "URBANAUT"
     ]
   },
