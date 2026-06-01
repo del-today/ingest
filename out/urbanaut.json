@@ -78,6 +78,82 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Ruins, Trails Hiking & Picnic Escape",
+    "description": "This sunrise hiking experience takes you through forest trails, old ruins, and scenic viewpoints for a refreshing early morning escape. It is a beginner-friendly outing that blends nature, light adventure, and storytelling, making it ideal for solo plans, couples, or small groups. Along the way, you can enjoy interesting stories, fun group moments, and a calm forest-bathing break before settling in for a picnic breakfast. The experience is a lovely mix of exploration, history, and connection, all wrapped into a peaceful morning outdoors.Beginner-friendly sunrise hike through forest trails and offbeat paths.Explore old ruins, hidden corners, and scenic viewpoints along the way.Enjoy storytelling around local legends, myths, and history.Take part in fun group games and a calming forest-bathing pause.Curated picnic breakfast included as part of the experience.Great for solo plans, couples, and small groups looking for a refreshing morning outdoors.Arrival & Meet-Up At 5:00 A.M.\u2022 Assemble by 5:00 A.M. at the meeting point for check-in and a short introduction.\u2022 The experience will begin at 5:15 A.M. sharp, so arriving on time will help you settle in comfortably before the hike starts.Briefing & Warm-Up\u2022 Meet the hike leaders, get a short safety briefing, and ease into the experience with a light ice-breaker and stories about the trail.Sunrise Hike Through Trails & Ruins\u2022 Begin the guided walk through forest trails, offbeat paths, and old ruins while taking in the fresh morning air and scenic views.Stories, Games & Forest Pause\u2022 Pause along the way for local legends, hidden history, fun group activities, and a calm forest-bathing moment.Picnic Breakfast & Wrap Up At 8:00-8:30 A.M\u2022 Unwind with a picnic breakfast in a scenic spot before making your way back with the group, wrapping up the experience by around 800-8:30 A.M.",
+    "startDate": "2026-06-02T05:00:00+05:30",
+    "endDate": "2026-06-30T08:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "G5PJ+PMP Sanjay Van, New Mehrauli Road, Block B, Qutab Institutional Area, New Delhi, Delhi 110016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53698790000000000000",
+        "longitude": "77.18188470000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1770.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Trail It Hiking and Outdoors",
+      "url": "https://urbanaut.app/partner/trail-it-hiking-and-outdoors"
+    },
+    "url": "https://urbanaut.app/spot/sanjayvanexperience",
+    "keywords": [
+      "Adventure",
+      "Premium",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Rocky Trails & Sunrise Picnic at Mangar Lake",
+    "description": "This sunrise hiking experience takes you through rocky trails, scenic ridge lines, and a beautiful lakeside setting for a refreshing morning outdoors. It blends light adventure, calm nature moments, and fun group interactions, making it a great pick for beginners, couples, friends, and solo plans. The experience also includes a guided hike with experienced leaders, a curated picnic breakfast, storytelling, fun group activities, and basic first-aid support. It is a well-rounded outdoor escape that brings together movement, views, conversation, and a memorable breakfast in nature.Arrival & Meet-Up At 5:00 A.M.\u2022 Assemble by 5:00 A.M. at the meeting point for check-in and a short introduction.\u2022 The experience will begin at 5:15 A.M. sharp, so arriving on time will help you settle in comfortably before the hike starts.Briefing & Warm-Up\u2022 Meet the hike leaders, get a short safety briefing, and ease into the experience with a light ice-breaker and stories about the trail.Sunrise Hike Through Trails & Ruins\u2022 Begin the guided walk through forest trails, offbeat paths, and old ruins while taking in the fresh morning air and scenic views.Stories, Games & Forest Pause\u2022 Pause along the way for local legends, hidden history, fun group activities, and a calm forest-bathing moment.Picnic Breakfast & Wrap Up At 8:00-8:30 A.M.\u2022 Unwind with a picnic breakfast in a scenic spot before making your way back with the group, wrapping up the experience by around 8:30 A.M.",
+    "startDate": "2026-06-02T05:00:00+05:30",
+    "endDate": "2026-06-30T08:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "95VP+C6C, Mangar, Haryana 121004, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.39356250000000000000",
+        "longitude": "77.18551560000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1770.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Trail It Hiking and Outdoors",
+      "url": "https://urbanaut.app/partner/trail-it-hiking-and-outdoors"
+    },
+    "url": "https://urbanaut.app/spot/picnicatmangarlake",
+    "keywords": [
+      "Adventure",
+      "Premium",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Tuesday Board Game Night",
     "description": "Tuesday Game Nights started in 2017 in Ahmedabad to bring people together by unlocking the kid inside. It worked. Strangers became friends. Friends became family. We are now bringing it to Delhi. This Tuesday, skip the screens. Bring your dad for Codenames. Bring your kid for Azul. Most importantly bring yourself for the laughter, you didn\u2019t know you missed. \ud83d\udccdProject Otenga, Shaheedi Park, ITO | 7 PM onwards All the games will be taught during the evening by our expert game facilitator, Sharadha Jain, and there is no requirement to know the games before.Please call / whatsapp us on 9910203373 for group discounts.The coupons for tickets are redeemable.",
     "startDate": "2026-06-02T19:00:00+05:30",
@@ -110,6 +186,44 @@
       "Leisure",
       "Adventure",
       "Responsible",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Matcha Circle",
+    "description": "Matcha Experience: A Taste of CalmOverviewExperience the calming art of green tea in a session dedicated to mindfulness and flavor. This gathering is designed to help you slow down and appreciate the details of a centuries old tradition. \"The Matcha Circle\" offers a peaceful space to learn, taste, and connect at the end of a long week.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to ExpectGuided Introduction: Learn about the history and the unique process of preparing matcha from farm to cup.The Ritual: Watch and learn how the tea is whisked to create its signature froth and deep flavor.Tasting Session: Enjoy a premium matcha drink prepared just for you at Cha & Co.Quiet Conversation: Join a small group setting to talk about finding moments of peace in a busy week over a comforting cup.Details\ud83d\uddd3\ufe0f Date: 15th May (Friday)\u23f0 Time: 6:00 PM\ud83d\udccd Location: Cha & Co, Grand View High Street\ud83c\udf75 Inclusion: Matcha drink included\ud83c\udf9f\ufe0f Fee: \u20b9700",
+    "startDate": "2026-06-05T18:00:00+05:30",
+    "endDate": "2026-06-05T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ireo Grand View High Street, Sector 58, Gurugram, Haryana 122098, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41560020000000000000",
+        "longitude": "77.10258329999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/matcha-experience",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "History & heritage",
       "URBANAUT"
     ]
   },
@@ -151,6 +265,43 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Drafting Table",
+    "description": "The Person Everyone Misunderstood - A Writing SessionOverviewSome people never got to explain themselves. They were judged in a moment, remembered by their worst, reduced to the part of the story that was easiest to tell. This month, we write them back into full shape. Bring a character, real, fictional, mythological, half-remembered, and write what the record missed.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to ExpectA Short Intro: We open with a brief framing of the theme and a prompt to get you started. No pressure to use it, just a way in.Writing Time: The bulk of the session is yours. Quiet, unhurried time to write whatever the character needs you to write.Open Mic: We close with an optional read-aloud. Share what you wrote, or just listen. Both are completely fine.Details\ud83d\uddd3\ufe0f Date: 6th June (Saturday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Cafe Eos Dawn, M3M Urbana\u2615 Inclusion: Coffee included\ud83c\udf9f\ufe0f Fee: \u20b9700",
+    "startDate": "2026-06-06T11:30:00+05:30",
+    "endDate": "2026-06-06T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Caf\u00e9, Shop-22, Eos Dawn, block R2, M3M Urbana Premium, Ramgarh, Sector 67, Gurugram, Haryana 122101, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.39063380000000000000",
+        "longitude": "77.06689039999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/the-drafting-table",
+    "keywords": [
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Tiffin Trails: Toontooni\u2019s Table x Swarnavo Datta",
     "description": "Come enjoy an afternoon of local cuisines across India as Swarnavo and Toonika take you on a culinary journey. Inspired by Swarnavo's book, The Great Indian Tiffin Box, this is a journey you don't want to miss. Share a table with strangers who will soon become friends and break bread together. ",
@@ -182,6 +333,44 @@
     "url": "https://urbanaut.app/spot/tiffin-tales",
     "keywords": [
       "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The House of Gonsalves (HOG) - Monsoon Table",
+    "description": "Welcome to The House of Gonsalves (HOG) Supper Club \ud83c\udf27\ufe0f\ud83e\udd65We are Surya Gonsalves Yadav & Shreya Yadav \u2014 a mother-daughter duo hosting Delhi NCR's first Mangalorean supper club from our home in Gurgaon.Surya has been cooking Mangalorean food for over 40 years. Every masala ground by hand. Every coconut roasted slowly. Every curry paste built the way the coast taught her. Shreya grew up at this table learning every recipe, every technique, every story behind the dish. Now we cook together \u2014 opening our home and setting that table for you.This June marks our very first Monsoon Edition \u2014 inspired by the flavours of the Mangalorean coast during the rains. Fiery ghee roasts. Roasted coconut gravies. Kori roti. Seasonal mangoes. Dishes rooted in four decades of family recipes that haven't changed because they don't need to.This is not a traditional coursed meal. Dishes arrive slowly through the experience, the way they do in Mangalorean homes \u2014 meant to be shared, savoured and enjoyed over long conversations. You may arrive as strangers, but you\u2019ll leave feeling like part of the table \ud83d\udc9bBecause this is our home, every seat matters to us. Limited seats. We close the table when it's full.Come to HOG at the HOG!With Love,Surya & Shreya",
+    "startDate": "2026-06-06T13:30:00+05:30",
+    "endDate": "2026-06-07T16:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Sector 82, Gurugram, Haryana 122012, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.39354160000000000000",
+        "longitude": "76.95998519999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3200.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The House of Gonsalves (HOG)",
+      "url": "https://urbanaut.app/partner/the-house-of-gonsalves-hog"
+    },
+    "url": "https://urbanaut.app/spot/the-house-of-gonsalves-hog-monsoon-table",
+    "keywords": [
+      "Premium",
+      "History & heritage",
       "Food & drink",
       "URBANAUT"
     ]
@@ -300,6 +489,42 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Overthinkers Anonymous",
+    "description": "OverviewNo theme, no agenda, no fixing. Just a small group of people who know what it is to spiral, second-guess, and replay the same thought on loop. If anxiety and overthinking are old roommates you can't quite evict, this one is for you. Come as you are, say as much or as little as you want.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to expectSharing: The session is built around honest conversation. People share what is on their mind, what they are carrying, what they keep coming back to.Group Discussion: We talk it through together. No advice unless asked, no pressure to have it figured out. Just people listening and being listened to.Details\ud83d\uddd3\ufe0f Date: 7th June (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Thamel, Arjun Marg\ud83c\udf9f\ufe0f Contribution: \u20b9700 ",
+    "startDate": "2026-06-07T11:30:00+05:30",
+    "endDate": "2026-06-07T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shop No. 139, The shopping mall, Arjun Marg, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46589090000000000000",
+        "longitude": "77.09964640000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/overthinkers-anonymous",
+    "keywords": [
+      "Wellness",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "The Good, the Bad, & the Ugly Sun",
     "description": "About the LectureThe Sun feels constant.Every morning it rises. It warms the planet. It makes life on Earth possible.But beneath that apparent stability lies a star in perpetual turbulence, a seething sphere of plasma and magnetic fields capable of eruptions so powerful they can disrupt satellites, collapse communication systems, and interfere with power grids across the planet.This lecture begins with one of the greatest mysteries in modern astrophysics: Why is the Sun\u2019s outer atmosphere, the corona, hundreds of times hotter than its visible surface?It\u2019s a paradox that seems to defy common sense, like walking away from a fire and somehow feeling warmer.From there, the session journeys into the hidden physics of the Sun: solar flares, coronal mass ejections, magnetic storms, and the invisible streams of charged particles constantly travelling toward Earth. The lecture revisits the famous Carrington Event of 1859 \u2014 the most intense solar storm ever recorded \u2014 when telegraph systems burst into sparks and auroras lit skies far beyond the poles.The session explores:Why the Sun is far more dynamic and unstable than it appearsHow solar eruptions shape \u201cspace weather\u201d around EarthWhat happens when solar storms collide with modern technological systemsHow missions like India\u2019s Aditya-L1 are helping scientists study and predict solar activityWhy understanding the Sun has become essential in a technology-dependent worldBlending astronomy, physics, history, and storytelling, this lecture invites us to see the Sun not as a distant backdrop to life on Earth \u2014 but as a powerful cosmic force we remain deeply dependent on, and vulnerable to.About the SpeakerProf. Vaibhav Pant is an Assistant Professor in the Department of Physics at IIT Delhi and a solar physicist whose work focuses on understanding the Sun and its impact on Earth.He completed his PhD from the Indian Institute of Astrophysics, Bangalore, followed by postdoctoral research at KU Leuven in Belgium and the Instituto de Astrof\u00edsica de Canarias in Spain. Before joining IIT Delhi, he served as Scientist at ARIES, Nainital for five years.His research explores waves in the solar atmosphere, large-scale solar eruptions, and space weather phenomena. He has published over 50 refereed research papers and has been closely associated with India\u2019s Aditya-L1 solar mission, serving as Principal Investigator of the Aditya-L1 Support Cell and organizing multiple national workshops under the programme.Beyond research, he is deeply invested in science communication and has delivered invited talks across major international conferences in Asia and Europe. Outside physics, he enjoys reading non-fiction, playing table tennis, and watching thoughtful films and Korean dramas.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
@@ -413,6 +638,154 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "The Procrastireaders : Books & Coffee Tasting",
+    "description": "The Procrastireaders: Books & Coffee TastingOverviewIf you have been wanting to get back to reading but find it hard to make the time at home, this is for you. The Procrastireaders is a dedicated space to finally open that book you have been meaning to finish. It is a slow paced morning designed for quiet reading and great coffee in the company of others who are doing the same.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to expectBring Your Own Book: Whether it is a novel you started months ago or a new non fiction find, bring along whatever you are currently reading.Dedicated Reading Time: Enjoy a block of quiet, uninterrupted time to sink into your book without the distractions of chores or your phone.Shared Atmosphere: The comfort of reading alongside a small group of people who are also prioritizing their love for books.Coffee & Chat: A low pressure chance to talk about what you are reading (or why you have been procrastinating) over a coffee at Unlocked.Details\ud83d\uddd3\ufe0f Date: 13th June (Saturday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Kanchanjunga Towers\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes Coffee)",
+    "startDate": "2026-06-13T11:30:00+05:30",
+    "endDate": "2026-06-13T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "A-BLOCK, KANCHANJUNGA APARTMENT, G.H.18, near Post Office, Sector 56, Gurugram, Haryana 122011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.42299410000000000000",
+        "longitude": "77.10300720000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/books-and-coffee-tasting",
+    "keywords": [
+      "Leisure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Delhi's Metro Morphosis: Metro Train heritage walk",
+    "description": "Delhi\u2019s Metro Morphosis-: A Walk Through Delhi\u2019s Changing CommuteExploring the Impact of the Delhi Metro on Gender, Safety & Urban LifeIn the heart of India\u2019s capital, the Delhi Metro is more than a transport system \u2014 it\u2019s a living, moving map of the city\u2019s transformation.Join us for a guided walkthrough and urban dialogue as we journey along the tracks \u2014 not just from station to station, but across the layers of Delhi\u2019s social fabric. This unique walk explores how the Metro has quietly reshaped gender access, mobility justice, public spaces, urban design, and how heritage and history now sit side-by-side with modern infrastructure.We will cover Mandi House -Kailash Colony-Kashmere Gate-Chawari Bazar-Rajiv Chowk & Barakhamba Metro stations",
+    "startDate": "2026-06-13T18:00:00+05:30",
+    "endDate": "2026-06-13T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Metro Station Mandi House, Mandi House, New Delhi, Delhi 110001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.62550960000000000000",
+        "longitude": "77.23422860000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "755.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/delhis-metro-morphosis-metro-train-heritage-walk",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Cinema Circle",
+    "description": "Cinema Circle - Exploring Fear, Panic & Human BehaviourOverviewThis month, we are watching Weapons, a psychological horror film that looks at what happens when fear moves through people and communities. What does panic do to ordinary people? How does dread spread? Come watch it with us and find out.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to ExpectWatch Together: We screen Weapons as a group. No prior viewing required, just show up.Discussion: Once the film ends, we talk through it. The psychology, the fear, the behaviour, whatever stayed with you.Details\ud83d\uddd3\ufe0f Date: 13th June (Saturday)\u23f0 Time: 6:00 PM\ud83d\udccd Location: Kanchanjunga Towers, Sector 56\u2615 Inclusions: Diet Coke and snacks included\ud83c\udf9f\ufe0f Fee: \u20b9700",
+    "startDate": "2026-06-13T18:00:00+05:30",
+    "endDate": "2026-06-13T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "A-BLOCK, KANCHANJUNGA APARTMENT, G.H.18, near Post Office, Sector 56, Gurugram, Haryana 122011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.42299410000000000000",
+        "longitude": "77.10300720000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/cinema-circle",
+    "keywords": [
+      "Leisure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Raat Ke Afsane : Qutub Minar",
+    "description": "Experience the magic of Qutub Minar like never before\u2014under the stars and glowing lights. This is a guided heritage walk led by a historian, who will take you through the stunning Qutub complex after dark. As the entire site is beautifully illuminated at night, the minaret shines like Delhi\u2019s very own Eiffel Tower\u2014majestic, mysterious, and unforgettable.Walk through centuries of history, discover forgotten stories, and explore Delhi\u2019s medieval past through engaging storytelling. The play of light, shadow, and silence transforms this heritage site into something truly cinematicPlaces we will cover : 1. Mughal Serai2. Alai Minar3. Iltutmish Tomb4. Qutub Minar5. Iron Pilar6. 27 Jain and hindu temples7. Alai Darwaza8. Alauddin Khilji grave and madarsa .Important Points:  1. Details of the heritage walk will be mailed to you when you book the tickets2. No guided fees for kids below 5.3. Medium of communication : Hindi and English4. Please note that in case of unavoidable external reasons such as (weather conditions, political rallies, VIP movement, powercut) the walk may be canceled. The participant has the liberty to take another walk by the company against the payment they have made within 30 days since the date of the registered walk.5. The company does not have refund policy.",
+    "startDate": "2026-06-13T18:30:00+05:30",
+    "endDate": "2026-06-13T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Qutub Minar Complex Rd, Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52371860000000000000",
+        "longitude": "77.18469040000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/raat-ke-afsane-qutub-minar",
+    "keywords": [
+      "Adventure",
+      "Walking Tour",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Tracing the Djinns of Kotla Ferozshah",
     "description": "TRACING THE DJINNS of FEROZSHAH KOTLA FORTAcross the old walls, we will gather at the main gate of Feroz Shah Kotla. Before us lie crumbling stone portals, hollowed arches, and silent courtyards that once bustled with life in the 14th century under Sultan Feroz Shah Tughlaq.This is no ordinary heritage walk. We will tread the boundary between history and myth \u2014 stepping into the realm of the djinns said to haunt these ruins, to listen, to judge, and sometimes to grant wishes.Led by expert storyteller and myth-hunter, the walk will weave together folklore, historical lore, and spooky tales . Expect atmospheric narration, dramatic pauses, unexpected twists \u2014 and maybe a few ghostly encounters.Not for the faint hearted !!Highlights* A guided heritage walk through ruins, hidden chambers, and alleyways* Folklore and legends of djinns haunting the fort* Dramatic storytelling * Occasional \u201cmystery stops\u201d and whispers* A themed ritual (writing wishes / invoking legends) in the end.",
     "startDate": "2026-06-14T08:00:00+05:30",
@@ -445,6 +818,43 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Open SketchBook",
+    "description": "Open SketchBook: You don\u2019t need to leave the city to feel grounded.OverviewOur core belief is that you do not need to leave the city to feel grounded. In a world where everyone is distracted, we pause as a group to give our attention to one shared thing. Sketching becomes the medium to notice small, living details in urban spaces that we usually rush through.You do not need to be an artist to enjoy sketching. Open SketchBook is a session for anyone who wants to explore drawing as a way to relax and observe the world. It is about the process of putting pencil to paper rather than the final masterpiece.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to expectGuided Observation: Learn simple ways to look at objects or spaces and translate them into lines and shapes.Creative Freedom: A judgment free zone where you can experiment with sketching without worrying about \"doing it right.\"Tactile Experience: Use your new diary and pencil kit to capture what you see in the moment.Relaxed Environment: Enjoy a late afternoon at Greenr with a small group of people who just want to create and connect.Details\ud83d\uddd3\ufe0f Date: 23rd May (Saturday)\u23f0 Time: 11:00 AM\ud83d\udccd Location: Greenr, Golf Course Ext Road\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes an A6 diary and pencil kit)",
+    "startDate": "2026-06-14T11:30:00+05:30",
+    "endDate": "2026-06-14T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ground Floor, AIPL Joy Central, GF-01, Golf Course Ext Rd, Sector 65, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40537820000000000000",
+        "longitude": "77.06050050000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/open-sketchbook",
+    "keywords": [
+      "Leisure",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -483,6 +893,42 @@
       "Premium",
       "Workshop",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Reminiscing Sa'di: A Legacy of Persian Literature",
+    "description": "Join us for a lecture that traces one of the most influential cultural exchanges in South Asian history \u2014 a centuries-long relationship between India and Persia that shaped the languages we speak, the literature we read, and the ways power itself was imagined.About the LectureFor centuries, Persian was not a foreign language in India.It was the language of courts and administration, poetry and philosophy, diplomacy and social mobility. Long before English occupied that role, Persian connected vast parts of the subcontinent to a broader Persianate world stretching from Anatolia to Central Asia.Its influence was so deep that generations of Indian scholars, poets, bureaucrats, and intellectuals began their education through Persian. Communities such as Brahmins, Kayasthas, and Khatris built careers through their mastery of the language, while poets from Iran travelled to India seeking patronage, literary fame, and intellectual companionship.This lecture explores the remarkable journey of Persian in India \u2014 not simply as an imported language, but as a tradition transformed by the people who adopted it.The session explores:Why Persian became the language of power and culture in HindustanThe lives and journeys of Persian poets who made India their homeHow Indian scholars and writers reshaped Persian literary traditionsThe ethical and political worlds contained in texts by Sa'di, Hafiz, Rumi, and othersThe influence of Persian on Hindi, Urdu, and other Indian vernacularsHow Persian civilisation retained its distinct identity across centuries of political and religious changeMoving between history, literature, politics, and storytelling, the lecture reveals a world in which ideas, languages, and people moved across borders far more freely than we often imagine today.At its heart, this is a story about exchange: how cultures borrow, adapt, and reinvent one another \u2014 and how those encounters continue to echo in our everyday lives.About the SpeakersDr. Mukhtar Ahmed teaches at the Department of Persian, University of Delhi, where his research focuses on Modern Persian Literature and Indo-Persian literary traditions. His forthcoming book, From Persia to Paris: A Journey of Ideas and Cultures, examines the intellectual and literary exchanges between Persian and French traditions. Known among friends for both his scholarship and his cooking, he remains deeply interested in the movement of ideas across languages and civilisations.Heena Goswami is a public policy professional with an academic background in history and has recently submitted her PhD dissertation at the University of Delhi. Born and raised in Rajasthan, her interests span history, politics, technology, and public life. An avid reader and former educator, she now spends much of her time encouraging others to read, often through stories about books and ideas shared online.Your ticket includes a 300/- coupon redeemable on F&BAbout unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-06-18T19:00:00+05:30",
+    "endDate": "2026-06-18T20:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "E-17, Market Ln, Hauz Khas Market, Block E, Hauz Khas, Delhi, New Delhi, Delhi 110016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55122750000000000000",
+        "longitude": "77.20838499999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/reminiscing-sadi-a-legacy-of-persian-literature",
+    "keywords": [
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -564,6 +1010,79 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Making Of A Serial Offender",
+    "description": "Join us for an evening that begins with a simple question: what makes a serial offender? The answer may be more unsettling than you think.About the LectureThis lecture explores how criminal profiling moved beyond outdated assumptions about \"criminal faces\" to become one of the most fascinating tools in modern investigations. Drawing from forensic psychology, criminology, and real-world case studies, the session examines how investigators attempt to understand offenders through behaviour rather than appearance.Together, we'll explore:Why humans are often poor judges of who is capable of violenceThe evolution of criminal profiling, from early theories to modern investigative psychologyHow crime scene behaviour can reveal patterns of motive, planning, control, and escalationThe origins of behavioural profiling and the rise of the FBI's Behavioural Science UnitWhat famous serial offender cases reveal about fantasy, victim selection, and criminal developmentWhy serial offending remains understudied in IndiaHow forensic psychologists and investigators use Behavioural Evidence Analysis to reconstruct offender behaviourMoving beyond sensationalism and popular crime shows, this lecture examines the deeper psychological and social questions that profiling raises.Why do some individuals cross lines that most never do? What can behaviour tell us about risk, intent, and future offending? And how can India build more rigorous behavioural science frameworks for criminal investigation?Part psychology, part criminology, and part investigative science, this session offers a rare glimpse into the complex process of understanding criminal behaviour.About the SpeakerMr. Rithin Joseph is an Assistant Professor at the School of Behavioural Forensics, National Forensic Sciences University (NFSU), Delhi.Specialising in Criminology and Forensic Psychology, his work focuses on criminal profiling, deception detection, investigative psychology, and forensic behavioural analysis. He has published multiple research papers and presented over twenty-one papers at national and international conferences.Mr. Joseph has specialised training in a range of forensic investigative techniques, including Polygraph, Brain Electrical Oscillation Signature Profiling (BEOS), Suspect Detection System (SDS), Layered Voice Analysis (LVA), and EyeDetect.He currently serves as Co-Investigator on an ICSSR-funded research project examining the prediction of recidivism among first-time offenders in conflict with the law. He is also the co-author of *Crime as the Cause of Criminality* and *BRICS: Unravelling the Abyss*.A Gold Medalist in Criminology from the National Forensic Sciences University and recipient of the **Young Criminologist Award 2024**, he continues to contribute to research in criminal psychology, offender behaviour, and investigative science while mentoring postgraduate students and pursuing doctoral research in Criminal Psychology.Your ticket includes an alcoholic/non-alcoholic beverage of your choice!About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-06-20T16:00:00+05:30",
+    "endDate": "2026-06-20T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/the-making-of-a-serial-offender",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Art of Folding",
+    "description": "The Art of Folding - A Beginner-Friendly Origami SessionOverviewNo fancy paper needed. This is a hands-on origami session using whatever you have lying around at home. Blinkit bags, newspapers, old book pages, packaging paper. If it folds, it works. Come make something with it.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to ExpectBring Your Paper: Blinkit bags, newspapers, old book pages, packaging paper, unused sheets. Anything works.Beginner-Friendly Shapes: We will work through cranes, butterflies, and doves together. No experience needed, just hands and patience.Fold Together: A quiet, unhurried session. You leave with something you made.Details\ud83d\uddd3\ufe0f Date: 10th May (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Cha & Co, Grand View High Street\ud83c\udf9f\ufe0f Fee: \u20b9700",
+    "startDate": "2026-06-20T17:30:00+05:30",
+    "endDate": "2026-06-20T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ireo Grand View High Street, Sector 58, Gurugram, Haryana 122098, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41560020000000000000",
+        "longitude": "77.10258329999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/the-art-of-folding",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Daughters of Shahjahan at Red fort (A Heritage walk)",
     "description": "Daughters of Shahjahan Heritage walk at the Redfort (With Dramatic Reading of play excerpts)Join Darwesh Heritage Walks & Sabhyata Foundation for a unique Immersive experience at the Red Fort .The Red Fort (Lal Qila), an iconic symbol of India's history, stands proudly in Old Delhi as a silent witness to centuries of political, architectural, and cultural change. Commissioned by Mughal Emperor Shah Jahan in 1638, this UNESCO World Heritage Site is not just a monument\u2014it is a storyteller, narrating tales of imperial grandeur, colonial resistance, and post-independence pride. Stories about the Mughal opulence, the power politics, the powerful place of women in our history will unfold as we walk through the bygone Mughal era.The \u2018war of succession\u2019 that took place among the four sons of Shah Jahan had one novelty, while previously, wars were fought after the death of the emperor, this war was fought when Shah Jahan was still alive. All sons and daughters of Shah Jahan participated in it. While the four sons Dara Shikoh, Shah Shuja, Aurangzeb and Murad Baksh fought against each other, the sisters Jahanara and Roshanara allied themselves with one or the other brother. Through this we will bring to you to the story of the Mughal battle of succession that changed the course of Indian history.The heritage walk includes (dramatic reading of play excerpts in Hindustani) highlighting stories and scenes from the tussle going on between Shahjahan\u2019s Sons Aurangzeb and Dara Shikoh and the two daughters Jahanara and Roshanara Begum, each of whom sided with one brother.",
@@ -633,6 +1152,118 @@
     "url": "https://urbanaut.app/spot/sex-death-and-the-long-war-of-life-13825",
     "keywords": [
       "Food & drink",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Procrastireaders",
+    "description": "The Procrastireaders: Love is Love - Pride Month ReadingOverviewThis June, Procrastireaders is reading stories about queer love. The joy, the tenderness, the ordinary and extraordinary ways people find each other. Stories where being queer is not the conflict to be resolved but simply part of who the characters are. If that sounds like your kind of read, come join us.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to ExpectDiscussion First: We open with a conversation around the theme, the books you brought, and what drew you to them. No right answers, just an honest exchange.Silent Reading Block: We close with dedicated quiet time to actually sit with your book. Good lighting, AC, and fellow readers for company.Bring Your Own Book: Carry whatever you are currently reading or something from your \"to be read\" pile that needs your attention.Details\ud83d\uddd3\ufe0f Date: 27th June (Saturday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Unlocked, 32nd Avenue\ud83c\udf9f\ufe0f Fee: \u20b9700",
+    "startDate": "2026-06-27T11:30:00+05:30",
+    "endDate": "2026-06-27T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "32nd Avenue, Sector 15 Part 2, Sector 15, Gurugram, Haryana 122001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46162590000000000000",
+        "longitude": "77.05002540000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/procrastireaders",
+    "keywords": [
+      "Leisure",
+      "Pop-up Event",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "4D Polymers: 3 Dimensions & Beyond",
+    "description": "Join us for a lecture that explores a future where materials don't simply exist, they respond, transform, heal, and even generate their own energy.About the LectureMost materials are passive.A bandage covers a wound. An implant supports damaged tissue. A scaffold holds cells in place.But what if materials could do more?What if they could change shape over time, respond to their environment, generate electrical signals, and actively participate in the healing process?This lecture introduces the emerging world of 4D biomaterials \u2014 materials designed not only in three dimensions, but with a fourth dimension: time.Drawing from cutting-edge research in regenerative medicine and bioengineering, the session explores how scientists are creating materials that can mimic some of the remarkable properties of living tissue. These next-generation biomaterials are capable of programmed transformations, self-powered stimulation, and dynamic interactions with the cells around them.The lecture explores:What 4D printing is and how it differs from conventional 3D printingHow materials can be designed to change shape and function over timeThe role of bioelectric signals in tissue healing and regenerationHow self-powered biomaterials can generate electrical stimulation without batteries or external energy sourcesWhy these technologies could transform the future of healthcare, implants, and regenerative medicineAlong the way, the session offers a glimpse into a future where materials are no longer passive tools but active participants in biological processes.About the SpeakerDr. Amit Nain is an Assistant Professor at the Kusuma School of Biological Sciences, IIT Delhi, where he leads research focused on developing next-generation biomaterials for tissue regeneration and advanced healthcare applications.His laboratory works at the intersection of materials science, biology, and engineering, designing bioinstructive materials that can sense, respond, and support healing processes within the body.Dr. Nain completed his B.Tech. in Biotechnology from VIT University and earned his PhD in Nano Science and Technology from National Taiwan University, where his research focused on antimicrobial nanomaterials.His work has been recognised internationally, including being named a 2024 Emerging Investigator by the Royal Society of Chemistry and a 2025 Rising Star by the American Chemical Society. He has published over 35 research articles, book chapters, and conference proceedings, and currently serves on the Early Career Board of Biomacromolecules.Outside the lab, he is a Bollywood enthusiast, poetry lover, road-trip addict, and an unapologetic fan of Friends, Breaking Bad, Homeland, and Money Heist.Your ticket includes a 200/- voucher for F&B About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-06-27T16:00:00+05:30",
+    "endDate": "2026-06-27T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Panchshila Park, 61/7, Panchshila Park, Block C, Panchsheel Park South, Malviya Nagar, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53946110000000000000",
+        "longitude": "77.21371580000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/4d-polymers-3-dimensions-beyond",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "From mehfils to movies: Courtesans of India",
+    "description": "A Heritage Baithak at Qudsia BaghWhat happens when history remembers a woman only through the lens of morality and forgets her art, intellect, and influence?Join us for a fascinating journey into the world of India's courtesans\u2014Nagarvadhus, Devadasis, Kanchanis, Tawaifs, and Nautch Girls\u2014women who were once among the most accomplished artists, poets, musicians, patrons, and cultural icons of their age. Many enjoyed wealth, education, and social influence, supported temples and religious institutions, shaped artistic traditions, and moved comfortably within royal courts.Yet, with changing political and colonial attitudes, these women found themselves increasingly stigmatized, their identities reduced to stereotypes and their contributions pushed to the margins of history. We will trace this remarkable transformation and explore how many eventually carried their artistic legacy into the emerging world of Indian cinema, becoming singers, actors, dancers, and pioneers of the film industry.Through stories of power, performance, patronage, and prejudice, this walk seeks to rediscover the women who helped shape India's cultural landscape but whose voices have often been forgotten.Join Darwesh Heritage Walks at Qudsia Bagh as we uncover the extraordinary lives of India's courtesans\u2014the custodians of art, culture, and memory.",
+    "startDate": "2026-06-28T08:00:00+05:30",
+    "endDate": "2026-06-28T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "118, Yamuna Marg, Prema Kunj, Civil Lines, New Delhi, Delhi, 110054, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.67093830000000000000",
+        "longitude": "77.22910000000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/from-mehfils-to-movies-courtesans-of-india",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
       "Art & culture",
       "URBANAUT"
     ]
