@@ -674,6 +674,42 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Cinema Circle",
+    "description": "Cinema Circle - Exploring Fear, Panic & Human BehaviourOverviewThis month, we are watching Weapons, a psychological horror film that looks at what happens when fear moves through people and communities. What does panic do to ordinary people? How does dread spread? Come watch it with us and find out.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to ExpectWatch Together: We screen Weapons as a group. No prior viewing required, just show up.Discussion: Once the film ends, we talk through it. The psychology, the fear, the behaviour, whatever stayed with you.Details\ud83d\uddd3\ufe0f Date: 13th June (Saturday)\u23f0 Time: 5:30 PM\ud83d\udccd Location: Kanchanjunga Towers, Sector 56\u2615 Inclusions: Diet Coke and snacks included\ud83c\udf9f\ufe0f Fee: \u20b9700",
+    "startDate": "2026-06-13T17:30:00+05:30",
+    "endDate": "2026-06-13T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "A-BLOCK, KANCHANJUNGA APARTMENT, G.H.18, near Post Office, Sector 56, Gurugram, Haryana 122011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.42299410000000000000",
+        "longitude": "77.10300720000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/cinema-circle",
+    "keywords": [
+      "Leisure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Delhi's Metro Morphosis: Metro Train heritage walk",
     "description": "Delhi\u2019s Metro Morphosis-: A Walk Through Delhi\u2019s Changing CommuteExploring the Impact of the Delhi Metro on Gender, Safety & Urban LifeIn the heart of India\u2019s capital, the Delhi Metro is more than a transport system \u2014 it\u2019s a living, moving map of the city\u2019s transformation.Join us for a guided walkthrough and urban dialogue as we journey along the tracks \u2014 not just from station to station, but across the layers of Delhi\u2019s social fabric. This unique walk explores how the Metro has quietly reshaped gender access, mobility justice, public spaces, urban design, and how heritage and history now sit side-by-side with modern infrastructure.We will cover Mandi House -Kailash Colony-Kashmere Gate-Chawari Bazar-Rajiv Chowk & Barakhamba Metro stations",
     "startDate": "2026-06-13T18:00:00+05:30",
@@ -706,42 +742,6 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Cinema Circle",
-    "description": "Cinema Circle - Exploring Fear, Panic & Human BehaviourOverviewThis month, we are watching Weapons, a psychological horror film that looks at what happens when fear moves through people and communities. What does panic do to ordinary people? How does dread spread? Come watch it with us and find out.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to ExpectWatch Together: We screen Weapons as a group. No prior viewing required, just show up.Discussion: Once the film ends, we talk through it. The psychology, the fear, the behaviour, whatever stayed with you.Details\ud83d\uddd3\ufe0f Date: 13th June (Saturday)\u23f0 Time: 6:00 PM\ud83d\udccd Location: Kanchanjunga Towers, Sector 56\u2615 Inclusions: Diet Coke and snacks included\ud83c\udf9f\ufe0f Fee: \u20b9700",
-    "startDate": "2026-06-13T18:00:00+05:30",
-    "endDate": "2026-06-13T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "A-BLOCK, KANCHANJUNGA APARTMENT, G.H.18, near Post Office, Sector 56, Gurugram, Haryana 122011, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.42299410000000000000",
-        "longitude": "77.10300720000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "661.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/cinema-circle",
-    "keywords": [
-      "Leisure",
       "URBANAUT"
     ]
   },
@@ -1048,7 +1048,7 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "The Art of Folding",
-    "description": "The Art of Folding - A Beginner-Friendly Origami SessionOverviewNo fancy paper needed. This is a hands-on origami session using whatever you have lying around at home. Blinkit bags, newspapers, old book pages, packaging paper. If it folds, it works. Come make something with it.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to ExpectBring Your Paper: Blinkit bags, newspapers, old book pages, packaging paper, unused sheets. Anything works.Beginner-Friendly Shapes: We will work through cranes, butterflies, and doves together. No experience needed, just hands and patience.Fold Together: A quiet, unhurried session. You leave with something you made.Details\ud83d\uddd3\ufe0f Date: 10th May (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Cha & Co, Grand View High Street\ud83c\udf9f\ufe0f Fee: \u20b9700",
+    "description": "The Art of Folding - A Beginner-Friendly Origami SessionOverviewNo fancy paper needed. This is a hands-on origami session using whatever you have lying around at home. Blinkit bags, newspapers, old book pages, packaging paper. If it folds, it works. Come make something with it.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to ExpectBring Your Paper: Blinkit bags, newspapers, old book pages, packaging paper, unused sheets. Anything works.Beginner-Friendly Shapes: We will work through cranes, butterflies, and doves together. No experience needed, just hands and patience.Fold Together: A quiet, unhurried session. You leave with something you made.Details\ud83d\uddd3\ufe0f Date: 10th May (Sunday)\u23f0 Time: 5:30 PM\ud83d\udccd Location: Cha & Co, Grand View High Street\ud83c\udf9f\ufe0f Fee: \u20b9700",
     "startDate": "2026-06-20T17:30:00+05:30",
     "endDate": "2026-06-20T19:30:00+05:30",
     "location": {
@@ -1116,6 +1116,43 @@
       "Walking Tour",
       "History & heritage",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Before You Blame",
+    "description": "Before You Blame: A Workshop on Navigating Relationships with ClarityOverviewMost relationship conflicts are not just about what happened; they are about how we interpret what happened. This session focuses on exploring how our thoughts shape our connections and why friction often feels more intense than the situation warrants. \"Before You Blame\" is a reflective workshop designed to help you look at your assumptions and inner patterns, moving you from reactivity toward steadiness and emotional responsibility.What is Stories of Hope?We are a community-led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities, from mental well-being to personal growth, with empathy and shared human connection.What to ExpectPattern Recognition: Explore how common emotional triggers and ego-driven patterns shape conflicts in marriage, family, or work.Internal Focus: Instead of trying to fix others, we gently shift the focus inward to understand our own interpretations and responses.Practical Tools: Learn actionable ways to question stressful thoughts and practice perspective shifts using real-life scenarios.Safe Exploration: A supportive, non-judgmental environment for honest discussion. This is a space for learning and reflection, not a lecture or therapy.Key TakeawaysClarity: Gain a deeper understanding of recurring relationship dynamics.Responsiveness: Walk away with tools to help you respond thoughtfully instead of reacting impulsively.Emotional Ownership: Build the internal steadiness needed to navigate life without requiring others to change first.Details\ud83d\uddd3\ufe0f Date: 21st June (Sunday)\u23f0 Time: 11:00 AM\ud83d\udccd Location: Kanchanjunga Towers, Sector 56",
+    "startDate": "2026-06-21T11:00:00+05:30",
+    "endDate": "2026-06-21T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "A-BLOCK, KANCHANJUNGA APARTMENT, G.H.18, near Post Office, Sector 56, Gurugram, Haryana 122011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.42299410000000000000",
+        "longitude": "77.10300720000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "900.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/before-you-blame",
+    "keywords": [
+      "Wellness",
+      "Workshop",
       "URBANAUT"
     ]
   },
