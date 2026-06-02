@@ -1,6 +1,23 @@
 [
   {
     "@type": "ScreeningEvent",
+    "name": "Carmen & Lola(2018)",
+    "url": "https://fillum.in/screening/5603",
+    "startDate": "2026-06-02T18:00:00+05:30",
+    "endDate": "2026-06-02T18:00:00+05:30",
+    "description": "Free entry. Post-screening discussion.",
+    "location": {
+      "@type": "Place",
+      "name": "Instituto Cervantes",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Instituto Cervantes Nueva Delhi"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "Too Far Away(2019)",
     "url": "https://fillum.in/screening/5579",
     "startDate": "2026-06-02T19:00:00+05:30",
@@ -14,6 +31,91 @@
     "organizer": {
       "@type": "Organization",
       "name": "Goethe-Institut New Delhi"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Ruke Na Jo(2026)",
+    "url": "https://fillum.in/screening/5602",
+    "startDate": "2026-06-04T18:00:00+05:30",
+    "endDate": "2026-06-04T18:00:00+05:30",
+    "description": "Free entry on first come first served basis. Post-screening Q&A with the filmmaker.",
+    "location": {
+      "@type": "Place",
+      "name": "Press Club of India, Raisina Road",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fillum"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "B\u00e1rbara(2017)",
+    "url": "https://fillum.in/screening/5605",
+    "startDate": "2026-06-04T18:00:00+05:30",
+    "endDate": "2026-06-04T18:00:00+05:30",
+    "description": "Free entry. Post-screening discussion.",
+    "location": {
+      "@type": "Place",
+      "name": "Instituto Cervantes",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Instituto Cervantes Nueva Delhi"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Gail and Bharat(2025)",
+    "url": "https://fillum.in/screening/5597",
+    "startDate": "2026-06-05T18:30:00+05:30",
+    "endDate": "2026-06-05T18:30:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "W.I.P Adda, Lado Sarai",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "W.I.P LABS"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Good Manners(2017)",
+    "url": "https://fillum.in/screening/5613",
+    "startDate": "2026-06-06T18:30:00+05:30",
+    "endDate": "2026-06-06T18:30:00+05:30",
+    "description": "Join us in the basement of an abandoned cafe for the perfect kickstart to pride month: an unsettling, visually inventive and genre-bending sapphic twist to the masculine werewolf we are familiar wit..more",
+    "location": {
+      "@type": "Place",
+      "name": "Tealogy Cafe Q Block Jangpura Extension",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Khatarnaak Films"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Sabar Bonda(2025)",
+    "url": "https://fillum.in/screening/5606",
+    "startDate": "2026-06-12T18:00:00+05:30",
+    "endDate": "2026-06-12T18:00:00+05:30",
+    "description": "Free entry. Post-screening discussion.",
+    "location": {
+      "@type": "Place",
+      "name": "Instituto Cervantes",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Instituto Cervantes Nueva Delhi"
     }
   }
 ]
