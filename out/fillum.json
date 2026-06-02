@@ -1,40 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "Carmen & Lola(2018)",
-    "url": "https://fillum.in/screening/5603",
-    "startDate": "2026-06-02T18:00:00+05:30",
-    "endDate": "2026-06-02T18:00:00+05:30",
-    "description": "Free entry. Post-screening discussion.",
-    "location": {
-      "@type": "Place",
-      "name": "Instituto Cervantes",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Instituto Cervantes Nueva Delhi"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Too Far Away(2019)",
-    "url": "https://fillum.in/screening/5579",
-    "startDate": "2026-06-02T19:00:00+05:30",
-    "endDate": "2026-06-02T19:00:00+05:30",
-    "description": "",
-    "location": {
-      "@type": "Place",
-      "name": "Siddhartha Hall, Goethe-Institut",
-      "address": "Lodhi Road, New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Goethe-Institut New Delhi"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "Ruke Na Jo(2026)",
     "url": "https://fillum.in/screening/5602",
     "startDate": "2026-06-04T18:00:00+05:30",
