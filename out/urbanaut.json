@@ -190,6 +190,44 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
+    "name": "Hot Girls Do Pilates | Defence Colony",
+    "description": "Let\u2019s make your Saturday morning extra feel-good with Hot Girls Do Pilates, a guided pilates experience by SWAG \ud83d\udc9bThis is a reformer pilates session with limited spots!Come and feel fitter in the company of like-minded women, and stayback for some chit-chat!",
+    "startDate": "2026-06-06T11:00:00+05:30",
+    "endDate": "2026-06-06T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "A322, Block A, Defence Colony, New Delhi, Delhi 110024, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.57351930000000000000",
+        "longitude": "77.22945200000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1399.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/pilates1",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
     "name": "The Drafting Table",
     "description": "The Person Everyone Misunderstood - A Writing SessionOverviewSome people never got to explain themselves. They were judged in a moment, remembered by their worst, reduced to the part of the story that was easiest to tell. This month, we write them back into full shape. Bring a character, real, fictional, mythological, half-remembered, and write what the record missed.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to ExpectA Short Intro: We open with a brief framing of the theme and a prompt to get you started. No pressure to use it, just a way in.Writing Time: The bulk of the session is yours. Quiet, unhurried time to write whatever the character needs you to write.Open Mic: We close with an optional read-aloud. Share what you wrote, or just listen. Both are completely fine.Details\ud83d\uddd3\ufe0f Date: 6th June (Saturday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Cafe Eos Dawn, M3M Urbana\u2615 Inclusion: Coffee included\ud83c\udf9f\ufe0f Fee: \u20b9700",
     "startDate": "2026-06-06T11:30:00+05:30",
@@ -489,6 +527,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Jams and Chutney Making Workshop",
+    "description": "Join Anita in her kitchen to master making Jams and Chutneys. The methods and techniques learned in the class can be adapted to other fruits in season to create an endless supply of homemade preserves.Mango JamGreen Mango Chutney (cooked relish, Sweet and Sour)Bonus: How to preserve ripe mangoes for year-round use250+ workshops and counting! Anita is a practicing Landscape Architect who enjoys cooking. Her Home and Garden exemplify sustainable living. Like-minded people join her in the kitchen on weekends to cook and eat. Come for jam, stay for the party!",
+    "startDate": "2026-06-07T10:00:00+05:30",
+    "endDate": "2026-06-07T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.63999000000000000000",
+        "longitude": "77.29142000000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "4200.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "A Mad Tea Party",
+      "url": "https://urbanaut.app/partner/a-mad-tea-party"
+    },
+    "url": "https://urbanaut.app/spot/jams-and-chutney-making-workshop",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Overthinkers Anonymous",
     "description": "OverviewNo theme, no agenda, no fixing. Just a small group of people who know what it is to spiral, second-guess, and replay the same thought on loop. If anxiety and overthinking are old roommates you can't quite evict, this one is for you. Come as you are, say as much or as little as you want.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to expectSharing: The session is built around honest conversation. People share what is on their mind, what they are carrying, what they keep coming back to.Group Discussion: We talk it through together. No advice unless asked, no pressure to have it figured out. Just people listening and being listened to.Details\ud83d\uddd3\ufe0f Date: 7th June (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Thamel, Arjun Marg\ud83c\udf9f\ufe0f Contribution: \u20b9700 ",
@@ -713,6 +789,43 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "SideRoom: Nature Morte x unLecture",
+    "description": "For the first session of Side Room, a collaborative programme by Nature Morte and unLecture, artist Remen Chopra W. Van Der Vaart reflects on a practice shaped by material, memory, landscape, and time.Drawing from works currently on view in Shapes of Time alongside earlier bodies of work, the conversation moves through an artistic language built from materials that arrive carrying their own histories: recycled wood, lapis lazuli, carpet, and surfaces marked by erosion, accumulation, and labour.Centred around ideas of mapping, belonging, and emotional geography, the session explores how memory becomes embedded within material and how landscapes hold traces of both personal and collective histories. From early years rooted in drawing and observation to later spatial and architectural influences, the conversation offers an intimate look into the references, processes, and lived experiences that continue to shape the artist's work.Rather than a formal lecture, Side Room invites audiences into the quieter spaces around artistic practice \u2014 the questions, materials, memories, and moments that exist behind finished works.About the ArtistRemen Chopra W. Van Der Vaart (b. 1980, New Delhi) is an interdisciplinary artist whose practice explores migration, memory, identity, and the passage of time.Working across photography, drawing, sculpture, textiles, and sound, she develops a poetic visual language grounded in questions of home, cultural landscapes, and intergenerational memory. Her work navigates the space between the physical and the emotional, reflecting on displacement, belonging, fragility, regeneration, and cyclical notions of time.Her work has been exhibited internationally at institutions and major platforms including Mus\u00e9e Guimet, Paris; The Gujral Foundation, New Delhi; Nature Morte, New Delhi; 1x1 Art Gallery, Dubai; the Venice Biennale (Transnational Pavilion); Kochi\u2013Muziris Biennale; Dhaka Art Summit; and Asia Now, Paris.",
+    "startDate": "2026-06-12T19:00:00+05:30",
+    "endDate": "2026-06-12T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.50404160000000000000",
+        "longitude": "77.18493230000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "250.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/sideroom-nature-morte-x-unlecture",
+    "keywords": [
+      "Food & drink",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Macro Photography & Video Creation - Photo Walk",
     "description": "Step into the hidden world of details with our immersive Macro Photography & Video Creation Photo Walk. This experience is designed for creators who want to explore the art of capturing the beauty that often goes unnoticed \u2014 from delicate flower textures to tiny insects and natural patterns.During this guided walk, you\u2019ll learn how to:Capture stunning macro photos with precision and creativityShoot cinematic macro videos with smooth motion and storytellingUnderstand lighting, focus techniques, and composition for close-up shotsUse your smartphone or camera to its full potential for macro workWhether you\u2019re a beginner or an experienced creator, this session will help you elevate your content and see the world from a completely new perspective.What to Expect:Hands-on shooting experience in a natural outdoor locationReal-time guidance and creative tipsOpportunity to experiment with different subjects and techniquesNetworking with fellow photography and video enthusiastsCome explore, create, and transform the smallest details into powerful visual stories.",
@@ -782,6 +895,42 @@
     "url": "https://urbanaut.app/spot/books-and-coffee-tasting",
     "keywords": [
       "Leisure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Drinks that Changed the World",
+    "description": "Dawa DaaruHow Alcohol Helped Shape Empires, Religions, Revolutions, and Everyday Life Join us for a lecture that begins with a drink and ends with a completely different way of looking at history.About the LectureWhat if some of the most important events in world history were shaped not only by kings, wars, and ideas \u2014 but also by what people were drinking?From ancient India and Mesopotamia to Mughal courts, colonial trade routes, and modern nation-states, alcohol has quietly influenced politics, religion, commerce, culture, and empire in ways most history books rarely discuss.This lecture traces a wildly unexpected journey through thousands of years of human civilisation, exploring how beverages became entangled with power, identity, conquest, and resistance.The session explores:Ancient references to intoxicating drinks in Indian epics and mythologyThe world's earliest known drinking cultures and the famous Hymn to NinkasiWhy Champagne became synonymous with luxury and prestigeHow coffee, tea, wine, gin, beer, and spirits reshaped empires and trade routesThe surprising role alcohol played in colonial expansion and global commerceDrinking cultures of the Mughals, poets, soldiers, revolutionaries, and rulersMoving between historical anecdotes, forgotten stories, literary references, travel experiences, and cultural curiosities, the lecture reveals alcohol not simply as a beverage, but as a lens through which to understand human history itself.About the SpeakerGagan Sharma is a certified sommelier, mixologist, wine educator, writer, and beverage storyteller with over a decade of experience across India and abroad.His work sits at the intersection of beverage culture, travel, history, and education. Over the years, he has worked as a wine educator, tasting curator, industry trainer, judge, and writer, helping audiences understand the stories, traditions, and craftsmanship behind what they drink.Known as India's first sommelier, Gagan also holds a record for his travels across UNESCO World Heritage Sites in India. Beyond the world of beverages, he is a certified mountaineer, paragliding pilot, passionate student of Mughal history, and enthusiastic explorer of heritage landscapes.His lectures combine deep historical research with personal stories, making complex histories feel lively, accessible, and unexpectedly entertaining.Your ticket includes a complimentary cocktail inspired by the themes of the lecture.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-06-13T16:00:00+05:30",
+    "endDate": "2026-06-13T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "32nd avenue, Sector 15 Part 2, Sector 15, Gurugram, Haryana 122001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46145160000000000000",
+        "longitude": "77.04983410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "599.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/drinks-that-changed-the-world-13838",
+    "keywords": [
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -1378,6 +1527,44 @@
     "url": "https://urbanaut.app/spot/4d-polymers-3-dimensions-beyond",
     "keywords": [
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Night heritage walk :  Humayun's Tomb & Museum",
+    "description": "Step into the grandeur of Humayun's Tomb with us for an immersive Night heritage walk that goes beyond stone and symmetry.Curated by Darwesh Heritage Walks in collaboration with Sabhyata Foundation.We will not only explore the monument\u2019s magnificent architecture, its Persian influences, and its place in the evolution of Mughal design \u2014 but also rediscover Humayun himself, perhaps the most underestimated of the Mughals. His struggles, exile, return, and legacy shaped the empire in ways we rarely pause to notice.Our journey will then continue to the Humayun's Tomb Museum \u2014 because no visit to the tomb is truly complete without experiencing the stories, artefacts, and narratives preserved there.Come, walk through history \u2014 and meet the emperor behind the monument.",
+    "startDate": "2026-06-27T19:00:00+05:30",
+    "endDate": "2026-06-27T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Hazrat Nizamuddin Aulia Dargah, Mathura Rd, Nizamuddin, Nizamuddin East, New Delhi, Delhi 110013, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59328480000000000000",
+        "longitude": "77.25074920000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/humayuntomb",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
       "URBANAUT"
     ]
   },

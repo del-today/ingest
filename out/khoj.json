@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "@type": "EducationEvent",
+    "name": "Fundamentals of Arts Management | Pune",
+    "url": "https://khojstudios.org/event/fundamentals-of-arts-management-pune-2/",
+    "startDate": "2026-07-17T10:00:00+05:30",
+    "endDate": "2026-07-17T10:00:00+05:30",
+    "description": "A short course by Khoj International Artists\u2019 Association led by Pooja Sood & Ruchira Das from 17 to 19 July, 2026 (10:30 am to 5:30 pm) at The Box, Pune. The 3-day course on \u201cFundamentals of Arts Management\u201d will cover the key aspects of arts management: strategic planning, marketing, financial planning, and human resources. The [\u2026]",
+    "location": {
+      "@type": "Place",
+      "name": "KHOJ Studios",
+      "address": "S-17, Khirkee Extension, Malviya Nagar, New Delhi 110017",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.6453",
+        "longitude": "77.1851"
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "KHOJ International Artists' Association"
+    },
+    "keywords": [
+      "KHOJ"
+    ]
+  }
+]
