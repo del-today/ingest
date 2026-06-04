@@ -1276,6 +1276,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Wine Tasting + Food Pairing Experience",
+    "description": "Spend your Saturday evening swirling, sipping, and discovering wines at Asur Microbrewery, Moti Nagar.This guided wine tasting workshop is designed for both beginners and casual wine lovers who want to understand wine beyond \u201cred or white.\u201d Expect a relaxed, fun session with tasting pours, food pairings, aroma and sensory activities, and plenty of wine talk without the intimidating jargon.What to expect:\u2022 Guided tasting of selected wines\u2022 Food pairing experience\u2022 Learn basic wine tasting techniques\u2022 Aroma & sensory note exploration\u2022 Interactive and beginner-friendly session\u2022 Chill social atmosphereWhether you\u2019re trying to get into wine, planning date-night scenes, or just looking for a different Saturday plan, this one\u2019s for you.",
+    "startDate": "2026-06-13T18:00:00+05:30",
+    "endDate": "2026-06-13T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Third Floor, 6A, Shivaji Marg, Moti Nagar, Karampura Industrial Area, Karam, New Delhi, Delhi, 110015, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.66239710000000000000",
+        "longitude": "77.15236970000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1200.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gulp it down with UT",
+      "url": "https://urbanaut.app/partner/gulp-it-down-with-ut"
+    },
+    "url": "https://urbanaut.app/spot/wine-tasting-food-pairing-experience",
+    "keywords": [
+      "Workshop",
+      "Food & drink",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Delhi's Metro Morphosis: Metro Train heritage walk",
     "description": "Delhi\u2019s Metro Morphosis-: A Walk Through Delhi\u2019s Changing CommuteExploring the Impact of the Delhi Metro on Gender, Safety & Urban LifeIn the heart of India\u2019s capital, the Delhi Metro is more than a transport system \u2014 it\u2019s a living, moving map of the city\u2019s transformation.Join us for a guided walkthrough and urban dialogue as we journey along the tracks \u2014 not just from station to station, but across the layers of Delhi\u2019s social fabric. This unique walk explores how the Metro has quietly reshaped gender access, mobility justice, public spaces, urban design, and how heritage and history now sit side-by-side with modern infrastructure.We will cover Mandi House -Kailash Colony-Kashmere Gate-Chawari Bazar-Rajiv Chowk & Barakhamba Metro stations",
