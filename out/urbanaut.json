@@ -830,6 +830,44 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
+    "name": "Coffee & Connections",
+    "description": "Coffee & Connections is back!Tired of small talk with the same people? Come sip on your favourite coffee, meet new faces, and enjoy easy conversations in a cozy setting. \ud83e\udd0e\ud83d\udcc5 7th June (Sunday)\u23f0 4 PM \u2013 6 PM\ud83d\udccd Malviya Nagar, Delhi\ud83d\udcb8 \u20b999 (reservation fee) + buy your own coffee\u2728 Limited slots available \u2014 DM to reserve your spot! \u2615\ufe0f",
+    "startDate": "2026-06-07T16:00:00+05:30",
+    "endDate": "2026-06-07T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54073920000000000000",
+        "longitude": "77.21190940000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "99.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Maison Mind",
+      "url": "https://urbanaut.app/partner/maison-mind"
+    },
+    "url": "https://urbanaut.app/spot/coffee-connections",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
     "name": "The Good, the Bad, & the Ugly Sun",
     "description": "About the LectureThe Sun feels constant.Every morning it rises. It warms the planet. It makes life on Earth possible.But beneath that apparent stability lies a star in perpetual turbulence, a seething sphere of plasma and magnetic fields capable of eruptions so powerful they can disrupt satellites, collapse communication systems, and interfere with power grids across the planet.This lecture begins with one of the greatest mysteries in modern astrophysics: Why is the Sun\u2019s outer atmosphere, the corona, hundreds of times hotter than its visible surface?It\u2019s a paradox that seems to defy common sense, like walking away from a fire and somehow feeling warmer.From there, the session journeys into the hidden physics of the Sun: solar flares, coronal mass ejections, magnetic storms, and the invisible streams of charged particles constantly travelling toward Earth. The lecture revisits the famous Carrington Event of 1859 \u2014 the most intense solar storm ever recorded \u2014 when telegraph systems burst into sparks and auroras lit skies far beyond the poles.The session explores:Why the Sun is far more dynamic and unstable than it appearsHow solar eruptions shape \u201cspace weather\u201d around EarthWhat happens when solar storms collide with modern technological systemsHow missions like India\u2019s Aditya-L1 are helping scientists study and predict solar activityWhy understanding the Sun has become essential in a technology-dependent worldBlending astronomy, physics, history, and storytelling, this lecture invites us to see the Sun not as a distant backdrop to life on Earth \u2014 but as a powerful cosmic force we remain deeply dependent on, and vulnerable to.About the SpeakerProf. Vaibhav Pant is an Assistant Professor in the Department of Physics at IIT Delhi and a solar physicist whose work focuses on understanding the Sun and its impact on Earth.He completed his PhD from the Indian Institute of Astrophysics, Bangalore, followed by postdoctoral research at KU Leuven in Belgium and the Instituto de Astrof\u00edsica de Canarias in Spain. Before joining IIT Delhi, he served as Scientist at ARIES, Nainital for five years.His research explores waves in the solar atmosphere, large-scale solar eruptions, and space weather phenomena. He has published over 50 refereed research papers and has been closely associated with India\u2019s Aditya-L1 solar mission, serving as Principal Investigator of the Aditya-L1 Support Cell and organizing multiple national workshops under the programme.Beyond research, he is deeply invested in science communication and has delivered invited talks across major international conferences in Asia and Europe. Outside physics, he enjoys reading non-fiction, playing table tennis, and watching thoughtful films and Korean dramas.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
     "startDate": "2026-06-07T16:00:00+05:30",
