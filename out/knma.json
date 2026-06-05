@@ -80,12 +80,12 @@
     ]
   },
   {
-    "@type": "EducationEvent",
-    "name": "Clay in Resonance: A Ghatam Workshop",
-    "url": "https://www.knma.org/whats-on/workshops/clay-in-resonance-a-ghatam-workshop",
-    "startDate": "2026-06-09T10:00:00+05:30",
-    "endDate": "2026-06-12T18:00:00+05:30",
-    "description": "Artist in Me",
+    "@type": "Event",
+    "name": "Annual Bloomsday",
+    "url": "https://www.knma.org/whats-on/events/annual-bloomsday",
+    "startDate": "2026-06-14T10:00:00+05:30",
+    "endDate": "2026-06-14T10:00:00+05:30",
+    "description": "WeekendsatKNMA",
     "location": {
       "@type": "Place",
       "name": "KNMA, New Delhi",
@@ -101,11 +101,11 @@
   },
   {
     "@type": "EducationEvent",
-    "name": "Layers of Time",
-    "url": "https://www.knma.org/whats-on/workshops/layers-of-time",
-    "startDate": "2026-06-13T10:00:00+05:30",
-    "endDate": "2026-06-13T10:00:00+05:30",
-    "description": "Artist in Me",
+    "name": "The Compulsive Image",
+    "url": "https://www.knma.org/whats-on/talks/the-compulsive-image",
+    "startDate": "2026-06-20T10:00:00+05:30",
+    "endDate": "2026-06-20T10:00:00+05:30",
+    "description": "",
     "location": {
       "@type": "Place",
       "name": "KNMA, New Delhi",
@@ -121,31 +121,11 @@
   },
   {
     "@type": "EducationEvent",
-    "name": "Expressions in Motion",
-    "url": "https://www.knma.org/whats-on/workshops/expressions-in-motion",
-    "startDate": "2026-06-16T10:00:00+05:30",
-    "endDate": "2026-06-20T18:00:00+05:30",
-    "description": "Artist in Me",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "EducationEvent",
-    "name": "CRAFTOPIA",
-    "url": "https://www.knma.org/whats-on/workshops/craftopia",
-    "startDate": "2026-06-17T10:00:00+05:30",
-    "endDate": "2026-06-20T18:00:00+05:30",
-    "description": "Craftopia",
+    "name": "Sketching Series :  Caricature",
+    "url": "https://www.knma.org/whats-on/workshops/sketching-series-caricature-art-hours-whats-on-at-knma",
+    "startDate": "2026-06-26T10:00:00+05:30",
+    "endDate": "2026-06-27T18:00:00+05:30",
+    "description": "Art Hours",
     "location": {
       "@type": "Place",
       "name": "UTSAV The Square, GMR Aerocity",
@@ -161,14 +141,74 @@
   },
   {
     "@type": "EducationEvent",
-    "name": "Sketching Series: Still Life",
-    "url": "https://www.knma.org/whats-on/workshops/sketching-series-still-life",
-    "startDate": "2026-06-17T10:00:00+05:30",
-    "endDate": "2026-06-18T18:00:00+05:30",
-    "description": "Artist in Me",
+    "name": "Rhythms of the Wild",
+    "url": "https://www.knma.org/whats-on/workshops/rhythms-of-the-wild-art-hours-whats-on-at-knma",
+    "startDate": "2026-06-27T10:00:00+05:30",
+    "endDate": "2026-06-27T10:00:00+05:30",
+    "description": "Art Hours",
     "location": {
       "@type": "Place",
       "name": "UTSAV The Square, GMR Aerocity",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Smudge and Smear",
+    "url": "https://www.knma.org/whats-on/workshops/smudge-and-smear-saturday-family-workshop-whats-on-at-knma",
+    "startDate": "2026-06-27T10:00:00+05:30",
+    "endDate": "2026-06-27T10:00:00+05:30",
+    "description": "Saturday Family Workshop",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Material and Memory",
+    "url": "https://www.knma.org/whats-on/workshops/material-and-memory-saturday-family-workshop-whats-on-at-knma",
+    "startDate": "2026-07-04T10:00:00+05:30",
+    "endDate": "2026-07-04T10:00:00+05:30",
+    "description": "Saturday Family Workshop",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Experimental Eco-printing",
+    "url": "https://www.knma.org/whats-on/workshops/experimental-eco-printing-methods-whats-on-at-knma",
+    "startDate": "2026-07-10T10:00:00+05:30",
+    "endDate": "2026-07-10T10:00:00+05:30",
+    "description": "Methods",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
       "address": "New Delhi"
     },
     "organizer": {
