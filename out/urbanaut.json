@@ -2,82 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "name": "Play to Performance: Improv 14 Hour Workshop",
-    "description": "Step into a space where spontaneity meets performance.Improv Level One \u2013 From Play to Performance is a 14-hour immersive improv theatre workshop at The Immersion Room, Gurgaon, designed for adults who want to explore creativity, confidence, and live expression.Through a series of interactive theatre games, scene work, and character exploration, participants develop:Spontaneity & quick thinkingPresence & active listeningConfidence in expressionCollaboration & trustStorytelling through performanceThis workshop focuses on learning by doing\u2014breaking inhibitions, embracing uncertainty, and discovering the joy of being fully present.Multi-day Weekend Workshop SeriesMay 3, 2026 | 11:00 AM \u2013 1:00 PMMay 10, 2026 | 11:00 AM \u2013 1:00 PMMay 17, 2026 | 11:00 AM \u2013 1:00 PMMay 24, 2026 | 12:00 PM \u2013 2:00 PMMay 31, 2026 | 11:00 AM \u2013 1:00 PMJune 7, 2026 | 11:00 AM \u2013 1:00 PMJune 14, 2026 | 11:00 AM \u2013 1:00 PMTotal Duration: 14 HoursFormat: In-person | Adults OnlyFinal Showcase:The experience culminates in a live improv performance at The Immersion Room, where participants step onto the stage and perform in front of an audience.",
-    "startDate": "2026-06-05T11:00:00+05:30",
-    "endDate": "2026-06-14T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "E5, Market Rd, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46575680000000000000",
-        "longitude": "77.09909929999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "12000.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Immersion Room",
-      "url": "https://urbanaut.app/partner/theimmersionroom"
-    },
-    "url": "https://urbanaut.app/spot/improv-comedy-anshu-daga-intensive-workshop-tir-gurugram",
-    "keywords": [
-      "Live GIG",
-      "Workshop",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Ruins, Trails Hiking & Picnic Escape",
-    "description": "This sunrise hiking experience takes you through forest trails, old ruins, and scenic viewpoints for a refreshing early morning escape. It is a beginner-friendly outing that blends nature, light adventure, and storytelling, making it ideal for solo plans, couples, or small groups. Along the way, you can enjoy interesting stories, fun group moments, and a calm forest-bathing break before settling in for a picnic breakfast. The experience is a lovely mix of exploration, history, and connection, all wrapped into a peaceful morning outdoors.Beginner-friendly sunrise hike through forest trails and offbeat paths.Explore old ruins, hidden corners, and scenic viewpoints along the way.Enjoy storytelling around local legends, myths, and history.Take part in fun group games and a calming forest-bathing pause.Curated picnic breakfast included as part of the experience.Great for solo plans, couples, and small groups looking for a refreshing morning outdoors.Arrival & Meet-Up At 5:00 A.M.\u2022 Assemble by 5:00 A.M. at the meeting point for check-in and a short introduction.\u2022 The experience will begin at 5:15 A.M. sharp, so arriving on time will help you settle in comfortably before the hike starts.Briefing & Warm-Up\u2022 Meet the hike leaders, get a short safety briefing, and ease into the experience with a light ice-breaker and stories about the trail.Sunrise Hike Through Trails & Ruins\u2022 Begin the guided walk through forest trails, offbeat paths, and old ruins while taking in the fresh morning air and scenic views.Stories, Games & Forest Pause\u2022 Pause along the way for local legends, hidden history, fun group activities, and a calm forest-bathing moment.Picnic Breakfast & Wrap Up At 8:00-8:30 A.M\u2022 Unwind with a picnic breakfast in a scenic spot before making your way back with the group, wrapping up the experience by around 800-8:30 A.M.",
-    "startDate": "2026-06-06T05:00:00+05:30",
-    "endDate": "2026-06-27T08:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "G5PJ+PMP Sanjay Van, New Mehrauli Road, Block B, Qutab Institutional Area, New Delhi, Delhi 110016, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53698790000000000000",
-        "longitude": "77.18188470000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1770.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Trail It Hiking and Outdoors",
-      "url": "https://urbanaut.app/partner/trail-it-hiking-and-outdoors"
-    },
-    "url": "https://urbanaut.app/spot/sanjayvanexperience",
-    "keywords": [
-      "Adventure",
-      "Premium",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
     "name": "Hot Girls Do Pilates | Defence Colony",
     "description": "Let\u2019s make your Saturday morning extra feel-good with Hot Girls Do Pilates, a guided pilates experience by SWAG \ud83d\udc9bThis is a reformer pilates session with limited spots!Come and feel fitter in the company of like-minded women, and stayback for some chit-chat!",
     "startDate": "2026-06-06T11:00:00+05:30",
@@ -110,6 +34,44 @@
       "Leisure",
       "Wellness",
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Play to Performance: Improv 14 Hour Workshop",
+    "description": "Step into a space where spontaneity meets performance.Improv Level One \u2013 From Play to Performance is a 14-hour immersive improv theatre workshop at The Immersion Room, Gurgaon, designed for adults who want to explore creativity, confidence, and live expression.Through a series of interactive theatre games, scene work, and character exploration, participants develop:Spontaneity & quick thinkingPresence & active listeningConfidence in expressionCollaboration & trustStorytelling through performanceThis workshop focuses on learning by doing\u2014breaking inhibitions, embracing uncertainty, and discovering the joy of being fully present.Multi-day Weekend Workshop SeriesMay 3, 2026 | 11:00 AM \u2013 1:00 PMMay 10, 2026 | 11:00 AM \u2013 1:00 PMMay 17, 2026 | 11:00 AM \u2013 1:00 PMMay 24, 2026 | 12:00 PM \u2013 2:00 PMMay 31, 2026 | 11:00 AM \u2013 1:00 PMJune 7, 2026 | 11:00 AM \u2013 1:00 PMJune 14, 2026 | 11:00 AM \u2013 1:00 PMTotal Duration: 14 HoursFormat: In-person | Adults OnlyFinal Showcase:The experience culminates in a live improv performance at The Immersion Room, where participants step onto the stage and perform in front of an audience.",
+    "startDate": "2026-06-06T11:00:00+05:30",
+    "endDate": "2026-06-14T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "E5, Market Rd, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46575680000000000000",
+        "longitude": "77.09909929999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "12000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Immersion Room",
+      "url": "https://urbanaut.app/partner/theimmersionroom"
+    },
+    "url": "https://urbanaut.app/spot/improv-comedy-anshu-daga-intensive-workshop-tir-gurugram",
+    "keywords": [
+      "Live GIG",
+      "Workshop",
+      "Active",
       "URBANAUT"
     ]
   },
@@ -1092,6 +1054,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Ruins, Trails Hiking & Picnic Escape",
+    "description": "This sunrise hiking experience takes you through forest trails, old ruins, and scenic viewpoints for a refreshing early morning escape. It is a beginner-friendly outing that blends nature, light adventure, and storytelling, making it ideal for solo plans, couples, or small groups. Along the way, you can enjoy interesting stories, fun group moments, and a calm forest-bathing break before settling in for a picnic breakfast. The experience is a lovely mix of exploration, history, and connection, all wrapped into a peaceful morning outdoors.Beginner-friendly sunrise hike through forest trails and offbeat paths.Explore old ruins, hidden corners, and scenic viewpoints along the way.Enjoy storytelling around local legends, myths, and history.Take part in fun group games and a calming forest-bathing pause.Curated picnic breakfast included as part of the experience.Great for solo plans, couples, and small groups looking for a refreshing morning outdoors.Arrival & Meet-Up At 5:00 A.M.\u2022 Assemble by 5:00 A.M. at the meeting point for check-in and a short introduction.\u2022 The experience will begin at 5:15 A.M. sharp, so arriving on time will help you settle in comfortably before the hike starts.Briefing & Warm-Up\u2022 Meet the hike leaders, get a short safety briefing, and ease into the experience with a light ice-breaker and stories about the trail.Sunrise Hike Through Trails & Ruins\u2022 Begin the guided walk through forest trails, offbeat paths, and old ruins while taking in the fresh morning air and scenic views.Stories, Games & Forest Pause\u2022 Pause along the way for local legends, hidden history, fun group activities, and a calm forest-bathing moment.Picnic Breakfast & Wrap Up At 8:00-8:30 A.M\u2022 Unwind with a picnic breakfast in a scenic spot before making your way back with the group, wrapping up the experience by around 800-8:30 A.M.",
+    "startDate": "2026-06-13T05:00:00+05:30",
+    "endDate": "2026-06-27T08:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "G5PJ+PMP Sanjay Van, New Mehrauli Road, Block B, Qutab Institutional Area, New Delhi, Delhi 110016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53698790000000000000",
+        "longitude": "77.18188470000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1770.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Trail It Hiking and Outdoors",
+      "url": "https://urbanaut.app/partner/trail-it-hiking-and-outdoors"
+    },
+    "url": "https://urbanaut.app/spot/sanjayvanexperience",
+    "keywords": [
+      "Adventure",
+      "Premium",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Macro Photography & Video Creation - Photo Walk",
     "description": "Step into the hidden world of details with our immersive Macro Photography & Video Creation Photo Walk. This experience is designed for creators who want to explore the art of capturing the beauty that often goes unnoticed \u2014 from delicate flower textures to tiny insects and natural patterns.During this guided walk, you\u2019ll learn how to:Capture stunning macro photos with precision and creativityShoot cinematic macro videos with smooth motion and storytellingUnderstand lighting, focus techniques, and composition for close-up shotsUse your smartphone or camera to its full potential for macro workWhether you\u2019re a beginner or an experienced creator, this session will help you elevate your content and see the world from a completely new perspective.What to Expect:Hands-on shooting experience in a natural outdoor locationReal-time guidance and creative tipsOpportunity to experiment with different subjects and techniquesNetworking with fellow photography and video enthusiastsCome explore, create, and transform the smallest details into powerful visual stories.",
@@ -1161,6 +1161,44 @@
     "url": "https://urbanaut.app/spot/books-and-coffee-tasting",
     "keywords": [
       "Leisure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Picnic, Potluck & Flower Arranging",
+    "description": "Hey! \ud83c\udf38 We are hosting our next Shoshabaazi gathering on 13th June at Lodhi Garden, Delhi, and we would love to have you there!\ud83e\uddfa Picnic + Potluck + Flower Arranging\ud83d\udcc5 13th June \u23f0 4 PM onwards \ud83d\udccd Lodhi Garden, Delhi\ud83c\udf9f\ufe0f Ticket: \u20b9499/- per personWhat to bring? \ud83e\udd6a A snack for the potluckWhat you'll get: \ud83e\uddfa Aesthetic picnic setup \ud83d\udc90 A variety of fresh flowers \ud83e\udd64 Drinks on us \ud83e\uddf5 All materials needed to make your bouquetNo networking. No pressure. Just a relaxed evening filled with good food, fresh flowers, and great conversations.Reply to this message or DM us if you would like to join. \ud83d\udc9b",
+    "startDate": "2026-06-13T16:00:00+05:30",
+    "endDate": "2026-06-13T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Lodhi Rd, Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59309590000000000000",
+        "longitude": "77.21967939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Shoshabaazi",
+      "url": "https://urbanaut.app/partner/shoshabaazi"
+    },
+    "url": "https://urbanaut.app/spot/picnic-potluck-flower-arranging",
+    "keywords": [
+      "Eco Friendly",
+      "Food & drink",
+      "Art & culture",
       "URBANAUT"
     ]
   },
