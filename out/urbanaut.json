@@ -2,44 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "name": "Hot Girls Do Pilates | Defence Colony",
-    "description": "Let\u2019s make your Saturday morning extra feel-good with Hot Girls Do Pilates, a guided pilates experience by SWAG \ud83d\udc9bThis is a reformer pilates session with limited spots!Come and feel fitter in the company of like-minded women, and stayback for some chit-chat!",
-    "startDate": "2026-06-06T11:00:00+05:30",
-    "endDate": "2026-06-06T12:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "A322, Block A, Defence Colony, New Delhi, Delhi 110024, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.57351930000000000000",
-        "longitude": "77.22945200000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1399.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/pilates1",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
     "name": "Play to Performance: Improv 14 Hour Workshop",
     "description": "Step into a space where spontaneity meets performance.Improv Level One \u2013 From Play to Performance is a 14-hour immersive improv theatre workshop at The Immersion Room, Gurgaon, designed for adults who want to explore creativity, confidence, and live expression.Through a series of interactive theatre games, scene work, and character exploration, participants develop:Spontaneity & quick thinkingPresence & active listeningConfidence in expressionCollaboration & trustStorytelling through performanceThis workshop focuses on learning by doing\u2014breaking inhibitions, embracing uncertainty, and discovering the joy of being fully present.Multi-day Weekend Workshop SeriesMay 3, 2026 | 11:00 AM \u2013 1:00 PMMay 10, 2026 | 11:00 AM \u2013 1:00 PMMay 17, 2026 | 11:00 AM \u2013 1:00 PMMay 24, 2026 | 12:00 PM \u2013 2:00 PMMay 31, 2026 | 11:00 AM \u2013 1:00 PMJune 7, 2026 | 11:00 AM \u2013 1:00 PMJune 14, 2026 | 11:00 AM \u2013 1:00 PMTotal Duration: 14 HoursFormat: In-person | Adults OnlyFinal Showcase:The experience culminates in a live improv performance at The Immersion Room, where participants step onto the stage and perform in front of an audience.",
     "startDate": "2026-06-06T11:00:00+05:30",
@@ -72,43 +34,6 @@
       "Live GIG",
       "Workshop",
       "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "The Drafting Table",
-    "description": "OverviewA quiet writing circle for thoughts that haven\u2019t fully formed yet.Through short writing sprints and reflective prompts, people return to the practice of putting words on paper, slowly and honestly. A place to begin.ThemeThe Person Everyone Misunderstood - A Writing SessionSome people never got to explain themselves. They were judged in a moment, remembered by their worst, reduced to the part of the story that was easiest to tell. This month, we write them back into full shape. Bring a character, real, fictional, mythological, half-remembered, and write what the record missed.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to ExpectA Short Intro: We open with a brief framing of the theme and a prompt to get you started. No pressure to use it, just a way in.Writing Time: The bulk of the session is yours. Quiet, unhurried time to write whatever the character needs you to write.Open Mic: We close with an optional read-aloud. Share what you wrote, or just listen. Both are completely fine.Details\ud83d\uddd3\ufe0f Date: 6th June (Saturday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Cafe Eos Dawn, M3M Urbana\u2615 Inclusion: Coffee included\ud83c\udf9f\ufe0f Fee: \u20b9700",
-    "startDate": "2026-06-06T11:30:00+05:30",
-    "endDate": "2026-06-06T13:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Caf\u00e9, Shop-22, Eos Dawn, block R2, M3M Urbana Premium, Ramgarh, Sector 67, Gurugram, Haryana 122101, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.39063380000000000000",
-        "longitude": "77.06689039999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "661.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/the-drafting-table",
-    "keywords": [
-      "Workshop",
-      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -183,42 +108,6 @@
     "keywords": [
       "Premium",
       "History & heritage",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Chinese Whispers: India and China Before 1962",
-    "description": "Join us for a lecture that revisits one of the most consequential relationships in modern Asian history, not through the lens of war, but through the fragile optimism that came before it.About the LectureToday, India and China are often discussed as rivals.But there was a moment when many believed the two newly independent civilizations would together shape the future of Asia and the postcolonial world.At the centre of that story stood K.M. Panikkar \u2014 historian, diplomat, strategist, and India\u2019s ambassador to China during the tumultuous years following Mao\u2019s revolution.What did Panikkar actually see when he arrived in Beijing after 1949? Why did he believe Communist China could be accommodated within an Asian framework rather than treated as an existential threat? And how did the promise of solidarity gradually give way to suspicion, miscalculation, and conflict?This lecture explores one of the most enduring debates in Indian foreign policy.The session examines:The early relationship between India and the newly established People's Republic of ChinaK.M. Panikkar\u2019s role in shaping India's understanding of ChinaThe political and diplomatic tensions surrounding TibetHow the vision of Asian solidarity emerged \u2014 and why it ultimately fracturedWhether Panikkar misread China, or was unfairly blamed for a much larger strategic failureDrawing on archival research, diplomatic history, and political biography, the lecture revisits a period when the future of Asia appeared open, uncertain, and full of possibility.About the SpeakerNarayani Basu is a historian, foreign policy analyst, and award-winning author whose work focuses on the lesser-known individuals who shaped modern India.She is the bestselling author of V.P. Menon: The Unsung Architect of Modern India and Allegiance: Azaadi & the End of Empire, both widely praised for bringing overlooked figures and perspectives into the story of Indian independence.Her latest book, A Man for All Seasons, a biography of K.M. Panikkar, has received widespread critical acclaim and was awarded the AutHer Award for Best Non-Fiction Book in 2025.Through her writing and research, Narayani brings together biography, diplomacy, and political history to illuminate the personalities and decisions that continue to shape India's place in the world.Your Ticket Includes a 300/- Coupon Redeemable on F&BAbout unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
-    "startDate": "2026-06-06T16:00:00+05:30",
-    "endDate": "2026-06-06T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "E-17, Market Ln, Hauz Khas Market, Block E, Hauz Khas, Delhi, New Delhi, Delhi 110016, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55122750000000000000",
-        "longitude": "77.20838499999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/chinese-whispers-india-and-china-before-1962",
-    "keywords": [
       "Food & drink",
       "URBANAUT"
     ]

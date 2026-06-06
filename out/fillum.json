@@ -83,5 +83,22 @@
       "@type": "Organization",
       "name": "Instituto Cervantes Nueva Delhi"
     }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Karken(2025)",
+    "url": "https://fillum.in/screening/5618",
+    "startDate": "2026-06-16T18:30:00+05:30",
+    "endDate": "2026-06-16T18:30:00+05:30",
+    "description": "Free and open to all.",
+    "location": {
+      "@type": "Place",
+      "name": "C. D. Deshmukh Auditorium, India International Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "India International Centre"
+    }
   }
 ]
