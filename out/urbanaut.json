@@ -1,120 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "BADDY WITH BADDIES | GK 1",
-    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.9:50 AM Meet up and Warm up Time10:00 AM Game TimeSee you on court!",
-    "startDate": "2026-06-07T10:00:00+05:30",
-    "endDate": "2026-06-07T11:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Nandi Vithi Rd, N Block, Greater Kailash I, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55579910000000000000",
-        "longitude": "77.23527080000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "295.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/gk",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Hot Girls Do Pilates | SWAG x BASI (Model Town)",
-    "description": "Let\u2019s make your Sunday morning extra feel-good with Hot Girs Do Pilates, a guided pilates experience by SWAG \ud83d\udc9bWe have both reformer and mat pilates, but spots are limited!Come and feel fitter in the company of like-minded women, and stayback for a quick coffee/tea and some chit-chat!",
-    "startDate": "2026-06-07T10:00:00+05:30",
-    "endDate": "2026-06-07T11:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "2nd Floor, Model Town, F-14/17, near vodafone store, Model Town Phase 2, Phase 2, Model Town, new delhi, Delhi, 110033, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.70579230000000000000",
-        "longitude": "77.19057350000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "999.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/mdt",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Jams and Chutney Making Workshop",
-    "description": "Join Anita in her kitchen to master making Jams and Chutneys. The methods and techniques learned in the class can be adapted to other fruits in season to create an endless supply of homemade preserves.Mango JamGreen Mango Chutney (cooked relish, Sweet and Sour)Bonus: How to preserve ripe mangoes for year-round use250+ workshops and counting! Anita is a practicing Landscape Architect who enjoys cooking. Her Home and Garden exemplify sustainable living. Like-minded people join her in the kitchen on weekends to cook and eat. Come for jam, stay for the party!",
-    "startDate": "2026-06-07T10:00:00+05:30",
-    "endDate": "2026-06-07T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.63999000000000000000",
-        "longitude": "77.29142000000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "4200.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "A Mad Tea Party",
-      "url": "https://urbanaut.app/partner/a-mad-tea-party"
-    },
-    "url": "https://urbanaut.app/spot/jams-and-chutney-making-workshop",
-    "keywords": [
-      "Leisure",
-      "Workshop",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Play to Performance: Improv 14 Hour Workshop",
     "description": "Step into a space where spontaneity meets performance.Improv Level One \u2013 From Play to Performance is a 14-hour immersive improv theatre workshop at The Immersion Room, Gurgaon, designed for adults who want to explore creativity, confidence, and live expression.Through a series of interactive theatre games, scene work, and character exploration, participants develop:Spontaneity & quick thinkingPresence & active listeningConfidence in expressionCollaboration & trustStorytelling through performanceThis workshop focuses on learning by doing\u2014breaking inhibitions, embracing uncertainty, and discovering the joy of being fully present.Multi-day Weekend Workshop SeriesMay 3, 2026 | 11:00 AM \u2013 1:00 PMMay 10, 2026 | 11:00 AM \u2013 1:00 PMMay 17, 2026 | 11:00 AM \u2013 1:00 PMMay 24, 2026 | 12:00 PM \u2013 2:00 PMMay 31, 2026 | 11:00 AM \u2013 1:00 PMJune 7, 2026 | 11:00 AM \u2013 1:00 PMJune 14, 2026 | 11:00 AM \u2013 1:00 PMTotal Duration: 14 HoursFormat: In-person | Adults OnlyFinal Showcase:The experience culminates in a live improv performance at The Immersion Room, where participants step onto the stage and perform in front of an audience.",
@@ -148,42 +34,6 @@
       "Live GIG",
       "Workshop",
       "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Overthinkers Anonymous",
-    "description": "OverviewA gentle support circle for thoughts that feel a little too loud.A space to speak, reflect, or simply sit among people who understand emotional overwhelm.No theme, no agenda, no fixing. Just a small group of people who know what it is to spiral, second-guess, and replay the same thought on loop. If anxiety and overthinking are old roommates you can't quite evict, this one is for you. Come as you are, say as much or as little as you want.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to expectSharing: The session is built around honest conversation. People share what is on their mind, what they are carrying, what they keep coming back to.Group Discussion: We talk it through together. No advice unless asked, no pressure to have it figured out. Just people listening and being listened to.Details\ud83d\uddd3\ufe0f Date: 7th June (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Thamel, Arjun Marg\ud83c\udf9f\ufe0f Contribution: \u20b9700",
-    "startDate": "2026-06-07T11:30:00+05:30",
-    "endDate": "2026-06-07T13:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Shop No. 139, The shopping mall, Arjun Marg, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46589090000000000000",
-        "longitude": "77.09964640000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "661.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/overthinkers-anonymous",
-    "keywords": [
-      "Wellness",
       "URBANAUT"
     ]
   },
@@ -1009,6 +859,44 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "GIRLHOOD, UNINTERRUPTED",
+    "description": "\ud83c\udf38 GIRLHOOD, UNINTERRUPTED \ud83c\udf38Eat. Laugh. Repeat. \ud83d\udc9bA cozy girls-only brunch where you can slow down, meet amazing women, share meaningful conversations, and leave with new friendships. \u2728\ud83d\uddd3\ufe0f Sunday, 14th June\ud83d\udd5a 11:00 AM \u2013 1:00 PM\ud83d\udccd Delhi\ud83c\udf9f\ufe0f Early Bird: \u20b9199\ud83c\udf9f\ufe0f Regular: \u20b9249\ud83c\udf9f\ufe0f On Spot: \u20b9299\ud83d\udc6f Group discounts available! Bring your girls and save together. \ud83d\udc95\u2728 Includes reservation & cute goodies!Whether you're coming solo or with your girl gang, you'll have a place at the table. \ud83c\udf3cLimited seats available!\ud83d\udc8c DM to register.",
+    "startDate": "2026-06-14T11:00:00+05:30",
+    "endDate": "2026-06-14T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Connaught Place, New Delhi, Delhi 110001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.63042030000000000000",
+        "longitude": "77.21772159999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "149.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Maison Mind",
+      "url": "https://urbanaut.app/partner/maison-mind"
+    },
+    "url": "https://urbanaut.app/spot/girlhood-uninterrupted",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Food & drink",
       "URBANAUT"
     ]
   },
