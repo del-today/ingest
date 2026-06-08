@@ -58,7 +58,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "499.00",
+      "price": "400.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -600,6 +600,43 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
+    "name": "Summer in the City - Edit5",
+    "description": "Summer in the City is the opening chapter of CTRLlab's Summer Coffee Crawl, and serves as an intimate gathering exploring the subtle ways caf\u00e9s, neighbourhood spaces, and shared rituals shape the character of a city.As the season settles into its longest evenings, join a curated community of coffee lovers, storytellers, and urban explorers for conversations on culture, connection, and place. Through thoughtfully moderated sessions, we'll reflect on the role of caf\u00e9s as contemporary cultural anchors and uncover the personal stories behind the city's most cherished discoveries.Coffee Anchor examines how caf\u00e9s become more than places to drink coffee\u2014evolving into landmarks of creativity, community, and everyday belonging.Social Move invites guests to share memorable city encounters, summer rituals, and the spaces that have left a lasting imprint on their lives.Set against a summer backdrop, the evening offers a slower pace, meaningful dialogue, and the opportunity to connect with others who appreciate the nuances of urban culture.Summer Coffee Crawl 2025Stop 1 \u2014 Summer in the City14 June | Edit5, Sector 64, GurugramStop 2 \u2014 Coffee & Confessions21 June | Alayna Caf\u00e9, Shahpur JatStop 3 \u2014 Mode of Transport28 June | ATE Glasshouse, Lodhi RoadTickets- Single stop pass: Access to the event at that particular stop of the crawl - Three stop pass: Access to all 3 stops of the crawl",
+    "startDate": "2026-06-14T17:30:00+05:30",
+    "endDate": "2026-06-14T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "R1G17, M3M 65th Avenue, Sector 65, Gurugram, Haryana 122101, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40598510000000000000",
+        "longitude": "77.06608120000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "699.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Control Lab",
+      "url": "https://urbanaut.app/partner/controllab"
+    },
+    "url": "https://urbanaut.app/spot/summer-coffee-crawl",
+    "keywords": [
+      "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
     "name": "Reminiscing Sa'di: A Legacy of Persian Literature",
     "description": "Join us for a lecture that traces one of the most influential cultural exchanges in South Asian history \u2014 a centuries-long relationship between India and Persia that shaped the languages we speak, the literature we read, and the ways power itself was imagined.About the LectureFor centuries, Persian was not a foreign language in India.It was the language of courts and administration, poetry and philosophy, diplomacy and social mobility. Long before English occupied that role, Persian connected vast parts of the subcontinent to a broader Persianate world stretching from Anatolia to Central Asia.Its influence was so deep that generations of Indian scholars, poets, bureaucrats, and intellectuals began their education through Persian. Communities such as Brahmins, Kayasthas, and Khatris built careers through their mastery of the language, while poets from Iran travelled to India seeking patronage, literary fame, and intellectual companionship.This lecture explores the remarkable journey of Persian in India \u2014 not simply as an imported language, but as a tradition transformed by the people who adopted it.The session explores:Why Persian became the language of power and culture in HindustanThe lives and journeys of Persian poets who made India their homeHow Indian scholars and writers reshaped Persian literary traditionsThe ethical and political worlds contained in texts by Sa'di, Hafiz, Rumi, and othersThe influence of Persian on Hindi, Urdu, and other Indian vernacularsHow Persian civilisation retained its distinct identity across centuries of political and religious changeMoving between history, literature, politics, and storytelling, the lecture reveals a world in which ideas, languages, and people moved across borders far more freely than we often imagine today.At its heart, this is a story about exchange: how cultures borrow, adapt, and reinvent one another \u2014 and how those encounters continue to echo in our everyday lives.About the SpeakersDr. Mukhtar Ahmed teaches at the Department of Persian, University of Delhi, where his research focuses on Modern Persian Literature and Indo-Persian literary traditions. His forthcoming book, From Persia to Paris: A Journey of Ideas and Cultures, examines the intellectual and literary exchanges between Persian and French traditions. Known among friends for both his scholarship and his cooking, he remains deeply interested in the movement of ideas across languages and civilisations.Heena Goswami is a public policy professional with an academic background in history and has recently submitted her PhD dissertation at the University of Delhi. Born and raised in Rajasthan, her interests span history, politics, technology, and public life. An avid reader and former educator, she now spends much of her time encouraging others to read, often through stories about books and ideas shared online.Your ticket includes a 300/- coupon redeemable on F&BAbout unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
     "startDate": "2026-06-18T19:00:00+05:30",
@@ -766,7 +803,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "499.00",
+      "price": "400.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -968,6 +1005,43 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Coffee & Confessions - Alayna Cafe",
+    "description": "Summer in the City is the opening chapter of CTRLlab's Summer Coffee Crawl, and serves as an intimate gathering exploring the subtle ways caf\u00e9s, neighbourhood spaces, and shared rituals shape the character of a city.As the season settles into its longest evenings, join a curated community of coffee lovers, storytellers, and urban explorers for conversations on culture, connection, and place. Through thoughtfully moderated sessions, we'll reflect on the role of caf\u00e9s as contemporary cultural anchors and uncover the personal stories behind the city's most cherished discoveries.Coffee Anchor examines how caf\u00e9s become more than places to drink coffee\u2014evolving into landmarks of creativity, community, and everyday belonging.Social Move invites guests to share memorable city encounters, summer rituals, and the spaces that have left a lasting imprint on their lives.Set against a summer backdrop, the evening offers a slower pace, meaningful dialogue, and the opportunity to connect with others who appreciate the nuances of urban culture.Summer Coffee Crawl 2025Stop 1 \u2014 Summer in the City14 June | Edit5, Sector 64, GurugramStop 2 \u2014 Coffee & Confessions21 June | Alayna Caf\u00e9, Shahpur JatStop 3 \u2014 Mode of Transport28 June | ATE Glasshouse, Lodhi RoadTickets- Single stop pass: Access to the event at that particular stop of the crawl - Three stop pass: Access to all 3 stops of the crawl",
+    "startDate": "2026-06-21T17:30:00+05:30",
+    "endDate": "2026-06-21T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "39, First floor, Shahpur Jat, Siri Fort, New Delhi, Delhi 110049, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55041750000000000000",
+        "longitude": "77.21401580000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "699.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Control Lab",
+      "url": "https://urbanaut.app/partner/controllab"
+    },
+    "url": "https://urbanaut.app/spot/alaynacafe",
+    "keywords": [
+      "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "The Procrastireaders",
     "description": "The Procrastireaders: Love is Love - Pride Month ReadingOverviewA slow reading circle designed around comfort, not pressure.People come together to read, exchange thoughts, and return to books in a way that feels lighter and more approachable. Stories, shared slowly.This June, Procrastireaders is reading stories about queer love. The joy, the tenderness, the ordinary and extraordinary ways people find each other. Stories where being queer is not the conflict to be resolved but simply part of who the characters are. If that sounds like your kind of read, come join us.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to ExpectDiscussion First: We open with a conversation around the theme, the books you brought, and what drew you to them. No right answers, just an honest exchange.Silent Reading Block: We close with dedicated quiet time to actually sit with your book. Good lighting, AC, and fellow readers for company.Bring Your Own Book: Carry whatever you are currently reading or something from your \"to be read\" pile that needs your attention.Details\ud83d\uddd3\ufe0f Date: 27th June (Saturday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Unlocked, 32nd Avenue\ud83c\udf9f\ufe0f Fee: \u20b9700",
@@ -1061,7 +1135,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "499.00",
+      "price": "400.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -1156,7 +1230,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Notes From The Modern Invention of Sexuality",
-    "description": "Tickets are refundable up to 24 hours before the start of the event.To request a refund, please contact us directly.If unLecture cancels or reschedules the event, attendees will receive a full refund.All tickets are non-transferable.",
+    "description": "Join us for a lecture that asks an unsettling question:What if modern society did not become obsessed with sex because it was finally liberated\u2014but because it found new ways to make us confess?About the LectureWe tend to think of talking about sex as an act of freedom. The more openly we speak about our desires, identities, fantasies, and intimacies, the more liberated we become.Michel Foucault was deeply suspicious of this story.In The History of Sexuality, he makes a strange claim: modern societies did not develop through the repression of sex, but through an ever-expanding demand that people speak about it. What began as a religious obligation to confess gradually spread into schools, hospitals, psychiatric institutions, government bureaucracies, and eventually into everyday life itself.The result was not simply greater knowledge about sexuality. It was the creation of sexuality as a category through which people could be classified, monitored, governed, and understood.Drawing on Foucault's account of confession, power, and biopolitics, this lecture explores:How sexuality became a modern object of knowledgeWhy institutions are invested in making intimate life legibleWhat confession has to do with governance and social controlHow reality television, social media, dating apps, and digital platforms transform self-disclosure into a cultural normWhy every search, swipe, message, and online interaction increasingly resembles a confession to a machineAt a moment when we are constantly encouraged to \"be ourselves,\" \"share our truth,\" and \"tell our story,\" this lecture asks a provocative question: when we finally believe we are expressing our most authentic selves, who is listening\u2014and what are they doing with what we reveal?About the SpeakerDr. Ananya Dasgupta is a scholar of literature, film, philosophy, and psychoanalysis. She studied English Literature at Jadavpur University before completing her doctoral research through IIT Bombay and Monash University, Melbourne.Her work explores sexuality and publicness, feminist engagements with law, and the relationship between politics and affect in contemporary culture. Her doctoral research examined figures of extra-legality in Hindi cinema. Her public writing has appeared in Scroll, ASAP Art, and The Ladies Finger.She currently teaches at Ashoka University, where she continues to explore questions of desire, power, selfhood, and the strange ways institutions teach us to speak about ourselves.Your ticket includes a 250/- coupon redeemable on F&B at the venue. About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from St. Stephen\u2019s, Delhi who wanted learning to feel warm, social and alive. Each event is an invitation to spend an evening with an idea.",
     "startDate": "2026-06-28T16:00:00+05:30",
     "endDate": "2026-06-28T18:00:00+05:30",
     "location": {
@@ -1173,7 +1247,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "499.00",
+      "price": "400.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -1222,6 +1296,43 @@
     "keywords": [
       "Food & drink",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Mode of transport - Ate glasshouse",
+    "description": "Mode of Transport is the final stop of CTRLlab's Summer Coffee Crawl\u2014an evening dedicated to journeys, movement, and the stories that connect people, places, and coffee across distances.As the series concludes, we turn our attention to the paths we travel: the routes coffee takes from farm to cup, the roads that lead us to new experiences, and the moments of movement that quietly shape our lives.Coffee Anchor follows coffee's remarkable journey from origin to cup, tracing the growers, traders, roasters, caf\u00e9s, and communities that bring each bean across regions and continents before it reaches your hands. Together, we'll explore the networks, craftsmanship, and human stories that make coffee one of the world's most travelled beverages.Social Move invites guests to share stories from the road\u2014memorable journeys, favourite commutes, unexpected detours, travel rituals, and the moments that altered our course. From everyday routes to life-changing adventures, we'll reflect on how movement often becomes the backdrop for our most meaningful memories.Hosted in an intimate setting designed for conversation and connection, the evening offers space to slow down, exchange stories, and appreciate the journeys\u2014both ordinary and extraordinary\u2014that bring us together.Summer Coffee Crawl 2025Stop 1 \u2014 Summer in the City14 June | Edit5, Sector 64, GurugramStop 2 \u2014 Coffee & Confessions21 June | Alayna Caf\u00e9, Shahpur JatStop 3 \u2014 Mode of Transport28 June | ATE Glasshouse, Lodhi RoadTickets- Single stop pass: Access to the event at that particular stop of the crawl- Three stop pass: Access to all 3 stops of the crawl",
+    "startDate": "2026-06-28T17:30:00+05:30",
+    "endDate": "2026-06-28T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "88a, Meharchand Market, Lodi Colony, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.58405090000000000000",
+        "longitude": "77.22673470000001000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "699.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Control Lab",
+      "url": "https://urbanaut.app/partner/controllab"
+    },
+    "url": "https://urbanaut.app/spot/ate",
+    "keywords": [
+      "Pop-up Event",
+      "Food & drink",
       "URBANAUT"
     ]
   }
