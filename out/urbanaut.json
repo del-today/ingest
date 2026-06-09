@@ -599,6 +599,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Delhi Before the Fall - History of 19th century De",
+    "description": "Kathika is delighted to host an engaging Baithak with Shah Umair, the creator of the widely followed platform Sikkawala, known for bringing the history of Delhi to life through compelling storytelling, archival research and rare visual material.Titled \u201cDelhi Before the Fall \u2013 The History of 19th Century Delhi\u201d, this Baithak invites participants to journey into a city standing at the threshold of profound transformation. The nineteenth century was one of the most dramatic periods in Delhi\u2019s history \u2014 a time when the city still retained the cultural brilliance of the Mughal world, even as political power shifted and colonial influence steadily expanded.Through the intimate setting of a Baithak, Shah Umair will explore the social, cultural and urban life of Delhi before the upheavals that reshaped the city forever. Drawing upon forgotten narratives, the session will paint a vivid picture of a city that was at once refined, resilient and deeply interconnected.From the bustling bazaars of Shahjahanabad and the lives of its residents to the literary circles, architectural landmarks and changing political realities of the era, the conversation will uncover layers of a Delhi that existed before the rupture of 1857 and the transformations that followed. The session seeks to move beyond dates and events to understand the rhythms of everyday life, the people who inhabited the city and the cultural world they created.",
+    "startDate": "2026-06-14T16:00:00+05:30",
+    "endDate": "2026-06-14T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64610280000000000000",
+        "longitude": "77.22736410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kathika Cultural Centre and Museum",
+      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
+    },
+    "url": "https://urbanaut.app/spot/delhi-before-the-fall-history-of-19th-century-de",
+    "keywords": [
+      "Leisure",
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Summer in the City - Edit5",
     "description": "Summer in the City is the opening chapter of CTRLlab's Summer Coffee Crawl, and serves as an intimate gathering exploring the subtle ways caf\u00e9s, neighbourhood spaces, and shared rituals shape the character of a city.As the season settles into its longest evenings, join a curated community of coffee lovers, storytellers, and urban explorers for conversations on culture, connection, and place. Through thoughtfully moderated sessions, we'll reflect on the role of caf\u00e9s as contemporary cultural anchors and uncover the personal stories behind the city's most cherished discoveries.Coffee Anchor examines how caf\u00e9s become more than places to drink coffee\u2014evolving into landmarks of creativity, community, and everyday belonging.Social Move invites guests to share memorable city encounters, summer rituals, and the spaces that have left a lasting imprint on their lives.Set against a summer backdrop, the evening offers a slower pace, meaningful dialogue, and the opportunity to connect with others who appreciate the nuances of urban culture.Summer Coffee Crawl 2025Stop 1 \u2014 Summer in the City14 June | Edit5, Sector 64, GurugramStop 2 \u2014 Coffee & Confessions21 June | Alayna Caf\u00e9, Shahpur JatStop 3 \u2014 Mode of Transport28 June | ATE Glasshouse, Lodhi RoadTickets- Single stop pass: Access to the event at that particular stop of the crawl - Three stop pass: Access to all 3 stops of the crawl",
@@ -888,6 +926,82 @@
     "keywords": [
       "Leisure",
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Celebrating Jamais (son-in-laws)",
+    "description": "June 20th is Jamai shosthi, a celebration where Bengali jamai or the son-in-law is feted and there is a competitive food binge party. On social media everyone of someone has started to talk about how obnoxious food binging is and ... Restaurants will compete to offer a lavish menu at the cheapest price. But is the day really about the jamai. The sixth day of the waxing moon in the Bengali month of Jyeshtha comes a celebration where the ecosystem is feted. And some incredible aromatic rice fills the fields with happiness during this time of the year. Come hear these stories. See tentative menu below",
+    "startDate": "2026-06-20T19:00:00+05:30",
+    "endDate": "2026-06-20T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Chittaranjan Park, New Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53978420000000000000",
+        "longitude": "77.24897260000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Lucheefoodstory",
+      "url": "https://urbanaut.app/partner/lucheefoodstory"
+    },
+    "url": "https://urbanaut.app/spot/celebrating-jamais-son-in-laws-is-fun-too",
+    "keywords": [
+      "Pop-up Event",
+      "History & heritage",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Unfilitered Sakhi : Move With Matri",
+    "description": "International Yoga Day x Unfiltered SakhiA women-only community morning centered around movement, mindfulness, and meaningful conversations.Join us as we celebrate wellness beyond fitness with a blend of gentle activity, guided practices, authentic connection, and a safe space to simply be yourself.\ud83d\udcc5 21 June\ud83d\udccd Central Delhi (Nehru Place)\u23f0 6 am #movewithmatriRemember no fees required and only limited registrations are available!!!",
+    "startDate": "2026-06-21T06:00:00+05:30",
+    "endDate": "2026-06-21T08:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Nehru park, Ramnagar, Chanakyapuri, New Delhi, Delhi 110021, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59096880000000000000",
+        "longitude": "77.19320030000002000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Matri",
+      "url": "https://urbanaut.app/partner/matri"
+    },
+    "url": "https://urbanaut.app/spot/unfilitered-sakhi-move-with-matri",
+    "keywords": [
+      "Pop-up Event",
+      "Food & drink",
+      "Active",
       "URBANAUT"
     ]
   },
