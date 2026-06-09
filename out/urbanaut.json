@@ -599,6 +599,42 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "FishMarket: Movement, Health & the City We Create",
+    "description": "FishMarket #1 - Why Is Getting Around Delhi So Hard?A new public conversation series by India Development Foundation \u00d7 unLectureAbout the EventMost public discussions happen in one of two ways.Experts speak. Everyone else listens.Or everyone complains. Nobody learns anything.The FishMarket is an attempt at something different. Created by the India Development Foundation (IDF) and unLecture, it brings researchers, policymakers, practitioners, and citizens into the same room to think through public problems together.Each session begins with a short introduction from experts working on a particular issue. Then the floor opens up.Questions. Frustrations. Disagreements. Lived experiences. The audience drives the conversation.Think of it as a town hall, a public salon, and a caf\u00e9 conversation rolled into one. For our first Fish Market, we're asking a question most Delhiites encounter every single day: Why is getting around the city SO difficult?Traffic congestion, unsafe streets, public transport, pedestrian infrastructure, cycling, pollution, noise, road design, commuting, accessibility, mobility policy - nothing is off limits.The goal is to leave with a deeper understanding of how these systems work, why certain problems persist, and what meaningful solutions might actually look like.The SpeakersGeetam Tiwari: She is an Emeritus Professor at the Transportation Research and Injury Prevention (TRIP) Centre at IIT Delhi and one of India's foremost experts on transport planning and road safety.For over three decades, her work has focused on the movement of people through cities, particularly pedestrians, cyclists, public transport systems, and vulnerable road users. Her research has shaped national and international conversations on sustainable urban mobility and traffic safety.She is the recipient of numerous national and international honours, including the 2024 International Distinguished Career Award from the American Public Health Association.Girish Agrawal: He is a Professor at the TRIP Centre, IIT Delhi, where his work sits at the intersection of engineering, law, policy, and transportation safety.His research focuses on vulnerable road users, transport regulation, and the hidden consequences of mobility systems. Most recently, he has been studying the impact of road traffic noise on vendors, pedestrians, and informal transport workers.Before returning to India, Girish spent over two decades working on transport infrastructure projects in California. He holds degrees in engineering, law, and public policy, and brings a uniquely interdisciplinary perspective to questions of urban mobility.Moderated By: Subhasish Gangopadhyay. Economist, public intellectual, and Chairman of the India Development Foundation.About IDFThe India Development Foundation (IDF) is a research organisation working on questions central to India's development story: the economy, technology, urbanisation, innovation, governance, markets, human capital, and public policy.Its work is rooted in the belief that rigorous research can contribute to better public conversations and better policy outcomes.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars, and neighbourhood spaces across the city.Created by three friends from St. Stephen's College, Delhi who wanted learning to feel warm, social, and alive, unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-06-14T14:00:00+05:30",
+    "endDate": "2026-06-14T16:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "E-17, Market Ln, Hauz Khas Market, Block E, Hauz Khas, Delhi, New Delhi, Delhi 110016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55122750000000000000",
+        "longitude": "77.20838499999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "350.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/fishmarket-movement-health-the-city-we-create",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Delhi Before the Fall - History of 19th century De",
     "description": "Kathika is delighted to host an engaging Baithak with Shah Umair, the creator of the widely followed platform Sikkawala, known for bringing the history of Delhi to life through compelling storytelling, archival research and rare visual material.Titled \u201cDelhi Before the Fall \u2013 The History of 19th Century Delhi\u201d, this Baithak invites participants to journey into a city standing at the threshold of profound transformation. The nineteenth century was one of the most dramatic periods in Delhi\u2019s history \u2014 a time when the city still retained the cultural brilliance of the Mughal world, even as political power shifted and colonial influence steadily expanded.Through the intimate setting of a Baithak, Shah Umair will explore the social, cultural and urban life of Delhi before the upheavals that reshaped the city forever. Drawing upon forgotten narratives, the session will paint a vivid picture of a city that was at once refined, resilient and deeply interconnected.From the bustling bazaars of Shahjahanabad and the lives of its residents to the literary circles, architectural landmarks and changing political realities of the era, the conversation will uncover layers of a Delhi that existed before the rupture of 1857 and the transformations that followed. The session seeks to move beyond dates and events to understand the rhythms of everyday life, the people who inhabited the city and the cultural world they created.",
@@ -1266,6 +1302,43 @@
     "keywords": [
       "Food & drink",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Journey Of Hearts - Delhi Open Mic",
+    "description": "Delhi ki har gali mein ek kahaani hai.Kuch metro rides mein kho jaati hain, kuch diaries mein chhup jaati hain, aur kuch bas kisi ko sunaye jaane ka intezaar karti hain.Aaiye ek aisi shaam ka hissa baniye jahan shabdon ko manzil mile aur jazbaaton ko jagah.For The Ones Who...\u2022 Scribble thoughts in their notes app\u2022 Have poems hidden in old notebooks\u2022 Fall in love with words too easily\u2022 Miss Delhi before they've even left it\u2022 Believe stories can change peopleChahe aap perform karna chahte ho ya sirf sunna, yeh mehfil aapke liye hai.Apni kavitaayein, kahaaniyan, gaane aur dil ki baatein lekar aaiye.Kyunki Delhi mein kahaaniyon ki kami nahi, bas sunne waalon ki zarurat hai. \u2764\ufe0f",
+    "startDate": "2026-06-21T15:00:00+05:30",
+    "endDate": "2026-06-21T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "L-11 Basement, Block K, Malviya Nagar, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53311010000000000000",
+        "longitude": "77.21389239999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "249.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "LIKHON DIL SE",
+      "url": "https://urbanaut.app/partner/likhondilse"
+    },
+    "url": "https://urbanaut.app/spot/journey-of-hearts-delhi-open-mic-14130",
+    "keywords": [
+      "Leisure",
+      "Live GIG",
       "URBANAUT"
     ]
   },
