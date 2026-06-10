@@ -1,57 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "The Changing Planet",
-    "url": "https://fillum.in/event/5663",
-    "startDate": "2026-06-10T17:30:00+05:30",
-    "endDate": "2026-06-10T17:30:00+05:30",
-    "description": "\u00b7 Hell or High Water (Anand Holla)\u00b7 Where did our river flow to? (Biswajit Das)",
-    "location": {
-      "@type": "Place",
-      "name": "Alliance Fran\u00e7aise",
-      "address": "Lodhi Road, New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kriti Film Club"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Tashi and the Monk(2015)",
-    "url": "https://fillum.in/screening/5621",
-    "startDate": "2026-06-10T18:30:00+05:30",
-    "endDate": "2026-06-10T18:30:00+05:30",
-    "description": "Free and open to all.",
-    "location": {
-      "@type": "Place",
-      "name": "Lecture Room 1, India International Centre Annexe",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "India International Centre"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Turtle Walker(2024)",
-    "url": "https://fillum.in/screening/5657",
-    "startDate": "2026-06-10T19:00:00+05:30",
-    "endDate": "2026-06-10T19:00:00+05:30",
-    "description": "As part of EcoReels Film Festival",
-    "location": {
-      "@type": "Place",
-      "name": "Alliance Fran\u00e7aise",
-      "address": "Lodhi Road, New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kriti Film Club"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "The Changing Planet II",
     "url": "https://fillum.in/event/5665",
     "startDate": "2026-06-11T10:30:00+05:30",
