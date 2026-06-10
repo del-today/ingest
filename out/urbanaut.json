@@ -1053,6 +1053,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "History in a Cup \u2014 A Zaikanama Mehfil",
+    "description": "Some conversations begin with tea. Others are remembered because of it.History in a Cup is a thoughtfully curated evening by Zaikanama Mehfil that explores the histories and memories steeped in South Asia's most beloved drink. Over multiple tea tastings and a lavish tea-time spread, food historian Aali Kumar guides guests through stories of empire, labour, homes, streets, and rituals that have shaped our cups.An intimate gathering for curious minds and those who believe that food always tells a larger story.Limited to 14 seats.",
+    "startDate": "2026-06-14T16:00:00+05:30",
+    "endDate": "2026-06-14T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Safdarjung Enclave, New Delhi, Delhi 110029, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.56472600000000000000",
+        "longitude": "77.19491640000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The House of Zaikanama by Aali Kumar",
+      "url": "https://urbanaut.app/partner/the-house-of-zaikanama-by-aali-kumar"
+    },
+    "url": "https://urbanaut.app/spot/history-in-a-cup-a-zaikanama-mehfil",
+    "keywords": [
+      "History & heritage",
+      "Food & drink",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Delhi Before the Fall - History of 19th century",
     "description": "Kathika is delighted to host an engaging Baithak with Shah Umair, the creator of the widely followed platform Sikkawala, known for bringing the history of Delhi to life through compelling storytelling, archival research and rare visual material.Titled \u201cDelhi Before the Fall \u2013 The History of 19th Century Delhi\u201d, this Baithak invites participants to journey into a city standing at the threshold of profound transformation. The nineteenth century was one of the most dramatic periods in Delhi\u2019s history \u2014 a time when the city still retained the cultural brilliance of the Mughal world, even as political power shifted and colonial influence steadily expanded.Through the intimate setting of a Baithak, Shah Umair will explore the social, cultural and urban life of Delhi before the upheavals that reshaped the city forever. Drawing upon forgotten narratives, the session will paint a vivid picture of a city that was at once refined, resilient and deeply interconnected.From the bustling bazaars of Shahjahanabad and the lives of its residents to the literary circles, architectural landmarks and changing political realities of the era, the conversation will uncover layers of a Delhi that existed before the rupture of 1857 and the transformations that followed. The session seeks to move beyond dates and events to understand the rhythms of everyday life, the people who inhabited the city and the cultural world they created.",
