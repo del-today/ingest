@@ -75,6 +75,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "BADDY WITH BADDIES | Vasant Kunj",
+    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.7:50 PM Meet up and Warm up Time8:00 PM Game TimeSee you on court!",
+    "startDate": "2026-06-11T20:00:00+05:30",
+    "endDate": "2026-06-11T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "inside DAV Public School, near Fortis Hospital, Pocket 1, Sector B, Vasant Kunj, New Delhi, Delhi 110070, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52084540000000000000",
+        "longitude": "77.16146610000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "250.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swagbadminton",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "SideRoom: Nature Morte x unLecture",
     "description": "For the first session of Side Room, a collaborative programme by Nature Morte and unLecture, artist Remen Chopra W. Van Der Vaart reflects on a practice shaped by material, memory, landscape, and time.Drawing from works currently on view in Shapes of Time alongside earlier bodies of work, the conversation moves through an artistic language built from materials that arrive carrying their own histories: recycled wood, lapis lazuli, carpet, and surfaces marked by erosion, accumulation, and labour.Centred around ideas of mapping, belonging, and emotional geography, the session explores how memory becomes embedded within material and how landscapes hold traces of both personal and collective histories. From early years rooted in drawing and observation to later spatial and architectural influences, the conversation offers an intimate look into the references, processes, and lived experiences that continue to shape the artist's work.Rather than a formal lecture, Side Room invites audiences into the quieter spaces around artistic practice \u2014 the questions, materials, memories, and moments that exist behind finished works.About the ArtistRemen Chopra W. Van Der Vaart (b. 1980, New Delhi) is an interdisciplinary artist whose practice explores migration, memory, identity, and the passage of time.Working across photography, drawing, sculpture, textiles, and sound, she develops a poetic visual language grounded in questions of home, cultural landscapes, and intergenerational memory. Her work navigates the space between the physical and the emotional, reflecting on displacement, belonging, fragility, regeneration, and cyclical notions of time.Her work has been exhibited internationally at institutions and major platforms including Mus\u00e9e Guimet, Paris; The Gujral Foundation, New Delhi; Nature Morte, New Delhi; 1x1 Art Gallery, Dubai; the Venice Biennale (Transnational Pavilion); Kochi\u2013Muziris Biennale; Dhaka Art Summit; and Asia Now, Paris.",
@@ -150,6 +188,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Girls Just Wanna Swim",
+    "description": "Are you ready to swim like no one's watching with the SWAG girlies?This is Sweat Like a GIrl's first morning of splash and we can't wait to see you there. Whether you're a beginner learning to swim with our guided session (with a coach) or diving straight into a leisurely dip, there's a lane for everyone.No pressure to be fast. No pressure to be perfect. Just a bunch of women cheering each other on and having an absurdly good time in the water.You will require a Swimming Costume, Swimming Cap & Swimming Goggles.Come for the swim, stay for the laughs, the poolside chats, and the kind of confidence that comes from showing up exactly as you are!",
+    "startDate": "2026-06-13T07:00:00+05:30",
+    "endDate": "2026-06-13T08:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "G7H2+JCH, Kalka Public School Rd, Alaknanda, New Delhi, Delhi 110019, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52905290000000000000",
+        "longitude": "77.25111020000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "599.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/girls-just-wanna-swim",
+    "keywords": [
+      "Adventure",
+      "Water activity",
+      "Wellness",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Macro Photography & Video Creation - Photo Walk",
     "description": "Step into the hidden world of details with our immersive Macro Photography & Video Creation Photo Walk. This experience is designed for creators who want to explore the art of capturing the beauty that often goes unnoticed \u2014 from delicate flower textures to tiny insects and natural patterns.During this guided walk, you\u2019ll learn how to:Capture stunning macro photos with precision and creativityShoot cinematic macro videos with smooth motion and storytellingUnderstand lighting, focus techniques, and composition for close-up shotsUse your smartphone or camera to its full potential for macro workWhether you\u2019re a beginner or an experienced creator, this session will help you elevate your content and see the world from a completely new perspective.What to Expect:Hands-on shooting experience in a natural outdoor locationReal-time guidance and creative tipsOpportunity to experiment with different subjects and techniquesNetworking with fellow photography and video enthusiastsCome explore, create, and transform the smallest details into powerful visual stories.",
@@ -183,6 +259,82 @@
       "Premium",
       "Workshop",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Hot Girls Do Pilates | SWAG x BASI (Model Town)",
+    "description": "Let\u2019s make your Saturday morning extra feel-good with Hot Girls Do Pilates, a guided pilates experience by SWAG \ud83d\udc9bWe have both reformer and mat pilates, but spots are limited!Come and feel fitter in the company of like-minded women, and stayback for a quick coffee/tea and some chit-chat!",
+    "startDate": "2026-06-13T11:00:00+05:30",
+    "endDate": "2026-06-13T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "2nd Floor, Model Town, F-14/17, near vodafone store, Model Town Phase 2, Phase 2, Model Town, new delhi, Delhi, 110033, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.70579230000000000000",
+        "longitude": "77.19057350000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "999.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/mdt",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Pilates | SWAG x BASI (Defence Colony)",
+    "description": "Let\u2019s make your Saturday morning extra feel-good with Hot Girls Do Pilates, a guided pilates experience by SWAG \ud83d\udc9bThis is a reformer pilates session with limited spots!Come and feel fitter in the company of like-minded women, and stayback for some chit-chat!",
+    "startDate": "2026-06-13T11:00:00+05:30",
+    "endDate": "2026-06-13T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "A322, Block A, Defence Colony, New Delhi, Delhi 110024, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.57351930000000000000",
+        "longitude": "77.22945200000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1399.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/pilates1",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Workshop",
       "URBANAUT"
     ]
   },
@@ -299,6 +451,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "SMASH LIKE A GIRL (Tennis | Delhi)",
+    "description": "\u200bHi girls! It\u2019s time to Smash Like a Girl \u2014 because we\u2019re finally bringing you TENNIS!This is a women-only, beginner-friendly, guided tennis meet-up.4:50 PM Meet Up & Warm Up5:00 PM Game TimeSee you on court!",
+    "startDate": "2026-06-13T17:00:00+05:30",
+    "endDate": "2026-06-13T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "J6HH+MMC, Barakhamba Rd, Todermal Road Area, Mandi House, New Delhi, Delhi 110001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.62917610000000000000",
+        "longitude": "77.22913750000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "495.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swagtennis",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Cinema Circle",
     "description": "OverviewA shared film-watching experience designed to feel cozy, intentional, and communal.People gather to slow down, watch together, and stay a little longer with the stories that unfold on screen. Films, shared quietly.ThemeCinema Circle - Exploring Fear, Panic & Human BehaviourThis month, we are watching Weapons, a psychological horror film that looks at what happens when fear moves through people and communities. What does panic do to ordinary people? How does dread spread? Come watch it with us and find out.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to ExpectWatch Together: We screen Weapons as a group. No prior viewing required, just show up.Discussion: Once the film ends, we talk through it. The psychology, the fear, the behaviour, whatever stayed with you.Details\ud83d\uddd3\ufe0f Date: 13th June (Saturday)\u23f0 Time: 5:30 PM\ud83d\udccd Location: Kanchanjunga Towers, Sector 56\u2615 Inclusions: Diet Coke and snacks included\ud83c\udf9f\ufe0f Fee: \u20b9700",
     "startDate": "2026-06-13T17:30:00+05:30",
@@ -405,6 +595,120 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Pickleball with SWAG (Delhi | Saket)",
+    "description": "Pickleball with SWAG is back!This is a women-only, beginner-friendly pickleball meet-up.See you on court!",
+    "startDate": "2026-06-13T18:00:00+05:30",
+    "endDate": "2026-06-13T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "NEW GREEN FIELD SCHOOL, school, Ashok Vihar, Saket, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52369810000000000000",
+        "longitude": "77.20874010000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "360.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swagsaket",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "BADDY WITH BADDIES | Saket",
+    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.5:50 PM Meet up and Warm up Time6:00 PM Game TimeSee you on court!",
+    "startDate": "2026-06-13T18:00:00+05:30",
+    "endDate": "2026-06-13T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "inside NEW GREEN FIELD SCHOOL, behind PVR Anupam Saket, Ashok Vihar, Saket, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52371090000000000000",
+        "longitude": "77.20874630000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "250.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swagsaket1",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Pickleball with SWAG | North Delhi",
+    "description": "Pickleball with SWAG is now in North Delhi!This is a women-only, beginner-friendly pickleball meet-up.5:50 PM Meet up and Warm up Time6:00 PM Game TimeSee you on court!",
+    "startDate": "2026-06-13T18:00:00+05:30",
+    "endDate": "2026-06-13T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Best Business Park, plot no. P, 2, Netaji Subhash Place, Shakurpur, New delhi, Delhi, 110034, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.69189930000000000000",
+        "longitude": "77.14738650000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "379.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swagnorth",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
       "URBANAUT"
     ]
   },
@@ -563,6 +867,120 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Parkour with SWAG",
+    "description": "Ready to surprise yourself?This women-only parkour session is your chance to move in ways you never thought you could - in a supportive, judgment-free space built just for you by SWAG. No experience needed. No pressure. Just you, your body, and a whole lot of fun.A coach by Delhi Rock will guide you through everything from safe landings to vaults and jumps, at a pace that works for you. You'll leave feeling stronger, braver, and a little bit unstoppable.Bring: Come in comfortable activewear and carry a water bottle.Get ready for a fun, energizing Sunday afternoon with a community of like-minded women. Just bring your energy, curiosity, and love for trying something new!The venue is in the Squash and Badminton Stadium on Siri Fort Road.",
+    "startDate": "2026-06-14T11:00:00+05:30",
+    "endDate": "2026-06-14T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Siri Fort, New Delhi, Delhi 110049, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55326250000000000000",
+        "longitude": "77.22100110000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "400.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/parkour",
+    "keywords": [
+      "Adventure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Climb Like A Girl",
+    "description": "Climb Like A Girl is back! Get ready for a fun, energizing climbing session. It is a beginner-friendly, women-only meetup. The session will be guided by professionals at The Delhi Rock. Just bring your energy, curiosity, and love for trying something new! The venue is in the Squash and Badminton Stadium on Siri Fort Road.",
+    "startDate": "2026-06-14T11:00:00+05:30",
+    "endDate": "2026-06-14T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Siri Fort, New Delhi, Delhi 110049, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55326250000000000000",
+        "longitude": "77.22100110000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "400.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swagclim",
+    "keywords": [
+      "Adventure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "BADDY WITH BADDIES | GK 1",
+    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.10:50 AM Meet up and Warm up Time11:00 AM Game TimeSee you on court!",
+    "startDate": "2026-06-14T11:00:00+05:30",
+    "endDate": "2026-06-14T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Nandi Vithi Rd, N Block, Greater Kailash I, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55579910000000000000",
+        "longitude": "77.23527080000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "370.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swagbadmintongk",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Open SketchBook",
     "description": "Open SketchBookOverviewA slower way of seeing what\u2019s already there.People gather outdoors to observe, sketch, and spend time noticing details that often go unseen. No pressure. Just attention.Our core belief is that you do not need to leave the city to feel grounded. In a world where everyone is distracted, we pause as a group to give our attention to one shared thing. Sketching becomes the medium to notice small, living details in urban spaces that we usually rush through.You do not need to be an artist to enjoy sketching. Open SketchBook is a session for anyone who wants to explore drawing as a way to relax and observe the world. It is about the process of putting pencil to paper rather than the final masterpiece.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to expectGuided Observation: Learn simple ways to look at objects or spaces and translate them into lines and shapes.Creative Freedom: A judgment free zone where you can experiment with sketching without worrying about \"doing it right.\"Tactile Experience: Use your new diary and pencil kit to capture what you see in the moment.Relaxed Environment: Enjoy a late afternoon at Greenr with a small group of people who just want to create and connect.Details\ud83d\uddd3\ufe0f Date: 23rd May (Saturday)\u23f0 Time: 11:00 AM\ud83d\udccd Location: Greenr, Golf Course Ext Road\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes an A6 diary and pencil kit)",
     "startDate": "2026-06-14T11:30:00+05:30",
@@ -601,7 +1019,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "FishMarket: Movement, Health & the City We Create",
-    "description": "FishMarket #1 - Why Is Getting Around Delhi So Hard?A new public conversation series by India Development Foundation \u00d7 unLectureAbout the EventMost public discussions happen in one of two ways.Experts speak. Everyone else listens.Or everyone complains. Nobody learns anything.The FishMarket is an attempt at something different. Created by the India Development Foundation (IDF) and unLecture, it brings researchers, policymakers, practitioners, and citizens into the same room to think through public problems together.Each session begins with a short introduction from experts working on a particular issue. Then the floor opens up.Questions. Frustrations. Disagreements. Lived experiences. The audience drives the conversation.Think of it as a town hall, a public salon, and a caf\u00e9 conversation rolled into one. For our first Fish Market, we're asking a question most Delhiites encounter every single day: Why is getting around the city SO difficult?Traffic congestion, unsafe streets, public transport, pedestrian infrastructure, cycling, pollution, noise, road design, commuting, accessibility, mobility policy - nothing is off limits.The goal is to leave with a deeper understanding of how these systems work, why certain problems persist, and what meaningful solutions might actually look like.The SpeakersGeetam Tiwari: She is an Emeritus Professor at the Transportation Research and Injury Prevention (TRIP) Centre at IIT Delhi and one of India's foremost experts on transport planning and road safety.For over three decades, her work has focused on the movement of people through cities, particularly pedestrians, cyclists, public transport systems, and vulnerable road users. Her research has shaped national and international conversations on sustainable urban mobility and traffic safety.She is the recipient of numerous national and international honours, including the 2024 International Distinguished Career Award from the American Public Health Association.Girish Agrawal: He is a Professor at the TRIP Centre, IIT Delhi, where his work sits at the intersection of engineering, law, policy, and transportation safety.His research focuses on vulnerable road users, transport regulation, and the hidden consequences of mobility systems. Most recently, he has been studying the impact of road traffic noise on vendors, pedestrians, and informal transport workers.Before returning to India, Girish spent over two decades working on transport infrastructure projects in California. He holds degrees in engineering, law, and public policy, and brings a uniquely interdisciplinary perspective to questions of urban mobility.Moderated By: Subhasish Gangopadhyay. Economist, public intellectual, and Chairman of the India Development Foundation.About IDFThe India Development Foundation (IDF) is a research organisation working on questions central to India's development story: the economy, technology, urbanisation, innovation, governance, markets, human capital, and public policy.Its work is rooted in the belief that rigorous research can contribute to better public conversations and better policy outcomes.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars, and neighbourhood spaces across the city.Created by three friends from St. Stephen's College, Delhi who wanted learning to feel warm, social, and alive, unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "description": "FishMarket #1 - Why Is Getting Around Delhi So Hard?A new public conversation series by India Development Foundation \u00d7 unLectureAbout the EventMost public discussions happen in one of two ways.Experts speak. Everyone else listens.Or everyone complains. Nobody learns anything.The FishMarket is an attempt at something different. Created by the India Development Foundation (IDF) and unLecture, it brings researchers, policymakers, practitioners, and citizens into the same room to think through public problems together.Each session begins with a short introduction from experts working on a particular issue. Then the floor opens up.Questions. Frustrations. Disagreements. Lived experiences. The audience drives the conversation.Think of it as a town hall, a public salon, and a caf\u00e9 conversation rolled into one. For our first Fish Market, we're asking a question most Delhiites encounter every single day: Why is getting around the city SO difficult?Traffic congestion, unsafe streets, public transport, pedestrian infrastructure, cycling, pollution, noise, road design, commuting, accessibility, mobility policy - nothing is off limits.The goal is to leave with a deeper understanding of how these systems work, why certain problems persist, and what meaningful solutions might actually look like.The SpeakersGeetam Tiwari: She is an Emeritus Professor at the Transportation Research and Injury Prevention (TRIP) Centre at IIT Delhi and one of India's foremost experts on transport planning and road safety.For over three decades, her work has focused on the movement of people through cities, particularly pedestrians, cyclists, public transport systems, and vulnerable road users. Her research has shaped national and international conversations on sustainable urban mobility and traffic safety.She is the recipient of numerous national and international honours, including the 2024 International Distinguished Career Award from the American Public Health Association.Girish Agrawal: He is a Professor at the TRIP Centre, IIT Delhi, where his work sits at the intersection of engineering, law, policy, and transportation safety.His research focuses on vulnerable road users, transport regulation, and the hidden consequences of mobility systems. Most recently, he has been studying the impact of road traffic noise on vendors, pedestrians, and informal transport workers.Before returning to India, Girish spent over two decades working on transport infrastructure projects in California. He holds degrees in engineering, law, and public policy, and brings a uniquely interdisciplinary perspective to questions of urban mobility.Moderated By: Shubhashis Gangopadhyay Economist, public intellectual, and Chairman of the India Development Foundation.About IDFThe India Development Foundation (IDF) is a research organisation working on questions central to India's development story: the economy, technology, urbanisation, innovation, governance, markets, human capital, and public policy.Its work is rooted in the belief that rigorous research can contribute to better public conversations and better policy outcomes.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars, and neighbourhood spaces across the city.Created by three friends from St. Stephen's College, Delhi who wanted learning to feel warm, social, and alive, unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
     "startDate": "2026-06-14T14:00:00+05:30",
     "endDate": "2026-06-14T16:00:00+05:30",
     "location": {
@@ -636,7 +1054,7 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Delhi Before the Fall - History of 19th century De",
+    "name": "Delhi Before the Fall - History of 19th century",
     "description": "Kathika is delighted to host an engaging Baithak with Shah Umair, the creator of the widely followed platform Sikkawala, known for bringing the history of Delhi to life through compelling storytelling, archival research and rare visual material.Titled \u201cDelhi Before the Fall \u2013 The History of 19th Century Delhi\u201d, this Baithak invites participants to journey into a city standing at the threshold of profound transformation. The nineteenth century was one of the most dramatic periods in Delhi\u2019s history \u2014 a time when the city still retained the cultural brilliance of the Mughal world, even as political power shifted and colonial influence steadily expanded.Through the intimate setting of a Baithak, Shah Umair will explore the social, cultural and urban life of Delhi before the upheavals that reshaped the city forever. Drawing upon forgotten narratives, the session will paint a vivid picture of a city that was at once refined, resilient and deeply interconnected.From the bustling bazaars of Shahjahanabad and the lives of its residents to the literary circles, architectural landmarks and changing political realities of the era, the conversation will uncover layers of a Delhi that existed before the rupture of 1857 and the transformations that followed. The session seeks to move beyond dates and events to understand the rhythms of everyday life, the people who inhabited the city and the cultural world they created.",
     "startDate": "2026-06-14T16:00:00+05:30",
     "endDate": "2026-06-14T18:00:00+05:30",
@@ -705,6 +1123,120 @@
     "keywords": [
       "Pop-up Event",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Guided Pickleball | Khan Market",
+    "description": "Guided Pickleball with SWAG x Delhi Picklers is back! This is a women-only, beginner-friendly pickleball meet-up. The session is guided by a coach.5:50 PM Meet up and Warm up6:00 PM Game TimeSee you on court!",
+    "startDate": "2026-06-14T18:00:00+05:30",
+    "endDate": "2026-06-14T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Opposite Bunglow No.46, Sector 4, Lodhi Estate, Lodhi Estate, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59422390000000000000",
+        "longitude": "77.22559430000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "399.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swagpickleballkhan",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "BADDY WITH BADDIES (Gurugram)",
+    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.5:50 PM Meet up and Warm up Time6:00 PM Game TimeSee you on court!",
+    "startDate": "2026-06-14T18:00:00+05:30",
+    "endDate": "2026-06-14T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Sportyzo Badminton Academy, Emaar emerald hills, Golf Course Ext Rd, opposite Ivory Block, Sector 65, Gurugram, Haryana 122011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40465650000000000000",
+        "longitude": "77.07401440000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "250.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/badmintonggn",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Pickleball with SWAG | Gurugram",
+    "description": "The SWAG Pickleball Party is you perfect sunday evening plan!This is a women-only, beginner-friendly meet-up.See you on court!",
+    "startDate": "2026-06-14T18:00:00+05:30",
+    "endDate": "2026-06-14T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Sportyzo Sports Academy, Sector 65, Gurugram, Haryana 122101, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40450950000000000000",
+        "longitude": "77.07416250000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "360.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/ggnpickle",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
       "URBANAUT"
     ]
   },
