@@ -376,6 +376,42 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Street Smart | Online",
+    "description": "Have you ever screenshotted someone\u2019s profile before meeting them for the first time?Shared your live location with a friend before a first date?Asked someone to stay on call with you \u201cjust in case\u201d?Sent a friend the username of who you were talking to, just so someone knew?You already knew what you were doing. You just never called it a safety audit.This time, we\u2019re taking it online. The internet has its own version of that invisible safety labour. We do it every day automatically without being asked. Street Smart: Virtual Edition is a playful, honest online session where we name it, swap stories, and figure out together what it says about the digital spaces we move through.",
+    "startDate": "2026-06-13T12:00:00+05:30",
+    "endDate": "2026-06-13T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "New Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.61392980000000000000",
+        "longitude": "77.20882820000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Text When You Get Home",
+      "url": "https://urbanaut.app/partner/text-when-you-get-home"
+    },
+    "url": "https://urbanaut.app/spot/streetsmartdelhi",
+    "keywords": [
+      "Virtual",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Picnic, Potluck & Flower Arranging",
     "description": "Hey! \ud83c\udf38 We are hosting our next Shoshabaazi gathering on 13th June at Lodhi Garden, Delhi, and we would love to have you there!\ud83e\uddfa Picnic + Potluck + Flower Arranging\ud83d\udcc5 13th June \u23f0 4 PM onwards \ud83d\udccd Lodhi Garden, Delhi\ud83c\udf9f\ufe0f Ticket: \u20b9499/- per personWhat to bring? \ud83e\udd6a A snack for the potluckWhat you'll get: \ud83e\uddfa Aesthetic picnic setup \ud83d\udc90 A variety of fresh flowers \ud83e\udd64 Drinks on us \ud83e\uddf5 All materials needed to make your bouquetNo networking. No pressure. Just a relaxed evening filled with good food, fresh flowers, and great conversations.Reply to this message or DM us if you would like to join. \ud83d\udc9b",
@@ -1019,7 +1055,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "FishMarket: Movement, Health & the City We Create",
-    "description": "FishMarket #1 - Why Is Getting Around Delhi So Hard?A new public conversation series by India Development Foundation \u00d7 unLectureAbout the EventMost public discussions happen in one of two ways.Experts speak. Everyone else listens.Or everyone complains. Nobody learns anything.The FishMarket is an attempt at something different. Created by the India Development Foundation (IDF) and unLecture, it brings researchers, policymakers, practitioners, and citizens into the same room to think through public problems together.Each session begins with a short introduction from experts working on a particular issue. Then the floor opens up.Questions. Frustrations. Disagreements. Lived experiences. The audience drives the conversation.Think of it as a town hall, a public salon, and a caf\u00e9 conversation rolled into one. For our first Fish Market, we're asking a question most Delhiites encounter every single day: Why is getting around the city SO difficult?Traffic congestion, unsafe streets, public transport, pedestrian infrastructure, cycling, pollution, noise, road design, commuting, accessibility, mobility policy - nothing is off limits.The goal is to leave with a deeper understanding of how these systems work, why certain problems persist, and what meaningful solutions might actually look like.The SpeakersGeetam Tiwari: She is an Emeritus Professor at the Transportation Research and Injury Prevention (TRIP) Centre at IIT Delhi and one of India's foremost experts on transport planning and road safety.For over three decades, her work has focused on the movement of people through cities, particularly pedestrians, cyclists, public transport systems, and vulnerable road users. Her research has shaped national and international conversations on sustainable urban mobility and traffic safety.She is the recipient of numerous national and international honours, including the 2024 International Distinguished Career Award from the American Public Health Association.Girish Agrawal: He is a Professor at the TRIP Centre, IIT Delhi, where his work sits at the intersection of engineering, law, policy, and transportation safety.His research focuses on vulnerable road users, transport regulation, and the hidden consequences of mobility systems. Most recently, he has been studying the impact of road traffic noise on vendors, pedestrians, and informal transport workers.Before returning to India, Girish spent over two decades working on transport infrastructure projects in California. He holds degrees in engineering, law, and public policy, and brings a uniquely interdisciplinary perspective to questions of urban mobility.Moderated By: Shubhashis Gangopadhyay Economist, public intellectual, and Chairman of the India Development Foundation.About IDFThe India Development Foundation (IDF) is a research organisation working on questions central to India's development story: the economy, technology, urbanisation, innovation, governance, markets, human capital, and public policy.Its work is rooted in the belief that rigorous research can contribute to better public conversations and better policy outcomes.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars, and neighbourhood spaces across the city.Created by three friends from St. Stephen's College, Delhi who wanted learning to feel warm, social, and alive, unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "description": "FishMarket #1 - Why Is Getting Around Delhi So Hard?A new public conversation series by India Development Foundation \u00d7 unLectureAbout the EventMost public discussions happen in one of two ways.Experts speak. Everyone else listens.Or everyone complains. Nobody learns anything.The FishMarket is an attempt at something different. Created by the India Development Foundation (IDF) and unLecture, it brings researchers, policymakers, practitioners, and citizens into the same room to think through public problems together.Each session begins with a short introduction from experts working on a particular issue. Then the floor opens up.Questions. Frustrations. Disagreements. Lived experiences. The audience drives the conversation.Think of it as a town hall, a public salon, and a caf\u00e9 conversation rolled into one. For our first Fish Market, we're asking a question most Delhiites encounter every single day: Why is getting around the city SO difficult?Traffic congestion, unsafe streets, public transport, pedestrian infrastructure, cycling, pollution, noise, road design, commuting, accessibility, mobility policy - nothing is off limits.The goal is to leave with a deeper understanding of how these systems work, why certain problems persist, and what meaningful solutions might actually look like.The SpeakersGeetam Tiwari: She is an Emeritus Professor at the Transportation Research and Injury Prevention (TRIP) Centre at IIT Delhi and one of India's foremost experts on transport planning and road safety.For over three decades, her work has focused on the movement of people through cities, particularly pedestrians, cyclists, public transport systems, and vulnerable road users. Her research has shaped national and international conversations on sustainable urban mobility and traffic safety.She is the recipient of numerous national and international honours, including the 2024 International Distinguished Career Award from the American Public Health Association.Girish Agrawal: He is a Professor at the TRIP Centre, IIT Delhi, where his work sits at the intersection of engineering, law, policy, and transportation safety.His research focuses on vulnerable road users, transport regulation, and the hidden consequences of mobility systems. Most recently, he has been studying the impact of road traffic noise on vendors, pedestrians, and informal transport workers.Before returning to India, Girish spent over two decades working on transport infrastructure projects in California. He holds degrees in engineering, law, and public policy, and brings a uniquely interdisciplinary perspective to questions of urban mobility.Moderated By: Shubhashis Gangopadhyay Economist, public intellectual, and Managing Trustee of the India Development Foundation.About IDFThe India Development Foundation (IDF) is a research organisation working on questions central to India's development story: the economy, technology, urbanisation, innovation, governance, markets, human capital, and public policy.Its work is rooted in the belief that rigorous research can contribute to better public conversations and better policy outcomes.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars, and neighbourhood spaces across the city.Created by three friends from St. Stephen's College, Delhi who wanted learning to feel warm, social, and alive, unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
     "startDate": "2026-06-14T14:00:00+05:30",
     "endDate": "2026-06-14T16:00:00+05:30",
     "location": {
