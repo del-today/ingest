@@ -39,43 +39,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "SideRoom: Nature Morte x unLecture",
-    "description": "For the first session of Side Room, a collaborative programme by Nature Morte and unLecture, artist Remen Chopra W. Van Der Vaart reflects on a practice shaped by material, memory, landscape, and time.Drawing from works currently on view in Shapes of Time alongside earlier bodies of work, the conversation moves through an artistic language built from materials that arrive carrying their own histories: recycled wood, lapis lazuli, carpet, and surfaces marked by erosion, accumulation, and labour.Centred around ideas of mapping, belonging, and emotional geography, the session explores how memory becomes embedded within material and how landscapes hold traces of both personal and collective histories. From early years rooted in drawing and observation to later spatial and architectural influences, the conversation offers an intimate look into the references, processes, and lived experiences that continue to shape the artist's work.Rather than a formal lecture, Side Room invites audiences into the quieter spaces around artistic practice \u2014 the questions, materials, memories, and moments that exist behind finished works.About the ArtistRemen Chopra W. Van Der Vaart (b. 1980, New Delhi) is an interdisciplinary artist whose practice explores migration, memory, identity, and the passage of time.Working across photography, drawing, sculpture, textiles, and sound, she develops a poetic visual language grounded in questions of home, cultural landscapes, and intergenerational memory. Her work navigates the space between the physical and the emotional, reflecting on displacement, belonging, fragility, regeneration, and cyclical notions of time.Her work has been exhibited internationally at institutions and major platforms including Mus\u00e9e Guimet, Paris; The Gujral Foundation, New Delhi; Nature Morte, New Delhi; 1x1 Art Gallery, Dubai; the Venice Biennale (Transnational Pavilion); Kochi\u2013Muziris Biennale; Dhaka Art Summit; and Asia Now, Paris.",
-    "startDate": "2026-06-12T19:00:00+05:30",
-    "endDate": "2026-06-12T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "G53M+JX7 The Dhan Mill, D-Block, Pocket D, Dr Ambedkar Colony, Chhatarpur, New Delhi, Delhi 110074, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.50404160000000000000",
-        "longitude": "77.18493230000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "250.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/sideroom-nature-morte-x-unlecture",
-    "keywords": [
-      "Food & drink",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Ruins, Trails Hiking & Picnic Escape",
     "description": "This sunrise hiking experience takes you through forest trails, old ruins, and scenic viewpoints for a refreshing early morning escape. It is a beginner-friendly outing that blends nature, light adventure, and storytelling, making it ideal for solo plans, couples, or small groups. Along the way, you can enjoy interesting stories, fun group moments, and a calm forest-bathing break before settling in for a picnic breakfast. The experience is a lovely mix of exploration, history, and connection, all wrapped into a peaceful morning outdoors.Beginner-friendly sunrise hike through forest trails and offbeat paths.Explore old ruins, hidden corners, and scenic viewpoints along the way.Enjoy storytelling around local legends, myths, and history.Take part in fun group games and a calming forest-bathing pause.Curated picnic breakfast included as part of the experience.Great for solo plans, couples, and small groups looking for a refreshing morning outdoors.Arrival & Meet-Up At 5:00 A.M.\u2022 Assemble by 5:00 A.M. at the meeting point for check-in and a short introduction.\u2022 The experience will begin at 5:15 A.M. sharp, so arriving on time will help you settle in comfortably before the hike starts.Briefing & Warm-Up\u2022 Meet the hike leaders, get a short safety briefing, and ease into the experience with a light ice-breaker and stories about the trail.Sunrise Hike Through Trails & Ruins\u2022 Begin the guided walk through forest trails, offbeat paths, and old ruins while taking in the fresh morning air and scenic views.Stories, Games & Forest Pause\u2022 Pause along the way for local legends, hidden history, fun group activities, and a calm forest-bathing moment.Picnic Breakfast & Wrap Up At 8:00-8:30 A.M\u2022 Unwind with a picnic breakfast in a scenic spot before making your way back with the group, wrapping up the experience by around 800-8:30 A.M.",
@@ -2094,6 +2057,43 @@
       "Walking Tour",
       "History & heritage",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Toontooni's Table x Lallan Sweets",
+    "description": "What if you could taste a bestseller? Toontooni's Table is bringing Lallan Sweets to life, course by course.Join us for an intimate 6-course lunch inspired by Srishti Chaudhary's beloved novel, followed by a meet & greet with the author herself. Every dish on the table tells a story. Come hungry, leave with a signed Collector's Edition.",
+    "startDate": "2026-06-28T13:00:00+05:30",
+    "endDate": "2026-06-28T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "60, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53358170000000000000",
+        "longitude": "77.24417700000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Toonika Guha",
+      "url": "https://urbanaut.app/partner/toonika"
+    },
+    "url": "https://urbanaut.app/spot/toontoonis-tableevent",
+    "keywords": [
+      "Pop-up Event",
+      "Food & drink",
       "URBANAUT"
     ]
   },
