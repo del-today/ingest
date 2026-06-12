@@ -1,1 +1,138 @@
-[]
+[
+  {
+    "@type": "ScreeningEvent",
+    "name": "Sabar Bonda(2025)",
+    "url": "https://fillum.in/screening/5606",
+    "startDate": "2026-06-12T18:00:00+05:30",
+    "endDate": "2026-06-12T18:00:00+05:30",
+    "description": "Free entry. Post-screening discussion.",
+    "location": {
+      "@type": "Place",
+      "name": "Instituto Cervantes",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Instituto Cervantes Nueva Delhi"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Tara(2025)",
+    "url": "https://fillum.in/screening/5646",
+    "startDate": "2026-06-13T16:00:00+05:30",
+    "endDate": "2026-06-13T16:00:00+05:30",
+    "description": "Nazariya Pride Month",
+    "location": {
+      "@type": "Place",
+      "name": "Niv Art Centre",
+      "address": "Sainik Farm, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fillum"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Born in Flames(1983)",
+    "url": "https://fillum.in/screening/5689",
+    "startDate": "2026-06-13T17:00:00+05:30",
+    "endDate": "2026-06-13T17:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "Mool, South ex",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Camera Commune"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "I Want to Eat Your Pancreas(2018)",
+    "url": "https://fillum.in/screening/5674",
+    "startDate": "2026-06-13T17:30:00+05:30",
+    "endDate": "2026-06-13T17:30:00+05:30",
+    "description": "Screening will start at 6 PM Sharp.",
+    "location": {
+      "@type": "Place",
+      "name": "Niv Art Centre, Saket",
+      "address": "Sainik Farm, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "National Theatre Live: All My Sons(2026)",
+    "url": "https://fillum.in/screening/5636",
+    "startDate": "2026-06-14T15:00:00+05:30",
+    "endDate": "2026-06-14T15:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "Stein Auditorium, India Habitat Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fillum"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Ichi the Killer(2001)",
+    "url": "https://fillum.in/screening/5650",
+    "startDate": "2026-06-14T17:30:00+05:30",
+    "endDate": "2026-06-14T17:30:00+05:30",
+    "description": "Screening will start at 6 PM Sharp. Ticket includes two short films 'Yatra' & 'Namaste' by Priyanka Sarkar at 8 PM.Followed by a panel discussion with Out of Sequence and the Filmmaker.",
+    "location": {
+      "@type": "Place",
+      "name": "Niv Art Centre, Saket",
+      "address": "Sainik Farm, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Short Films by Priyanka Sarkar - Namaste / Yatra",
+    "url": "https://fillum.in/event/5688",
+    "startDate": "2026-06-14T20:00:00+05:30",
+    "endDate": "2026-06-14T20:00:00+05:30",
+    "description": "YATRA, a transcended journey inward, is an avant-garde short film inspired by the philosophy \u201cAtman is Brahman,\" written in the Hindu Upanishads, which can be attained by expanding the soul throug..more",
+    "location": {
+      "@type": "Place",
+      "name": "Niv Art Centre, Neb Sarai",
+      "address": "Sainik Farm, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Karken(2025)",
+    "url": "https://fillum.in/screening/5618",
+    "startDate": "2026-06-16T18:30:00+05:30",
+    "endDate": "2026-06-16T18:30:00+05:30",
+    "description": "Free and open to all.",
+    "location": {
+      "@type": "Place",
+      "name": "C. D. Deshmukh Auditorium, India International Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "India International Centre"
+    }
+  }
+]
