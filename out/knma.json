@@ -101,6 +101,26 @@
   },
   {
     "@type": "EducationEvent",
+    "name": "KNMA Art Hours",
+    "url": "https://www.knma.org/whats-on/workshops/knma-art-hours",
+    "startDate": "2026-06-17T10:00:00+05:30",
+    "endDate": "2026-06-27T18:00:00+05:30",
+    "description": "Art Hours",
+    "location": {
+      "@type": "Place",
+      "name": "UTSAV The Square, GMR Aerocity",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
     "name": "The Compulsive Image",
     "url": "https://www.knma.org/whats-on/talks/the-compulsive-image",
     "startDate": "2026-06-20T10:00:00+05:30",
@@ -121,34 +141,14 @@
   },
   {
     "@type": "EducationEvent",
-    "name": "Sketching Series :  Caricature",
-    "url": "https://www.knma.org/whats-on/workshops/sketching-series-caricature-art-hours-whats-on-at-knma",
-    "startDate": "2026-06-26T10:00:00+05:30",
-    "endDate": "2026-06-27T18:00:00+05:30",
-    "description": "Art Hours",
+    "name": "Divided Frames",
+    "url": "https://www.knma.org/whats-on/workshops/divided-frames",
+    "startDate": "2026-06-20T10:00:00+05:30",
+    "endDate": "2026-06-20T10:00:00+05:30",
+    "description": "Saturday Family Workshop",
     "location": {
       "@type": "Place",
-      "name": "UTSAV The Square, GMR Aerocity",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "EducationEvent",
-    "name": "Rhythms of the Wild",
-    "url": "https://www.knma.org/whats-on/workshops/rhythms-of-the-wild-art-hours-whats-on-at-knma",
-    "startDate": "2026-06-27T10:00:00+05:30",
-    "endDate": "2026-06-27T10:00:00+05:30",
-    "description": "Art Hours",
-    "location": {
-      "@type": "Place",
-      "name": "UTSAV The Square, GMR Aerocity",
+      "name": "KNMA, New Delhi",
       "address": "New Delhi"
     },
     "organizer": {
