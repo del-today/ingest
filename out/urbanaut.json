@@ -39,382 +39,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Picnic, Potluck & Flower Arranging",
-    "description": "Hey! \ud83c\udf38 We are hosting our next Shoshabaazi gathering on 13th June at Lodhi Garden, Delhi, and we would love to have you there!\ud83e\uddfa Picnic + Potluck + Flower Arranging\ud83d\udcc5 13th June \u23f0 4 PM onwards \ud83d\udccd Lodhi Garden, Delhi\ud83c\udf9f\ufe0f Ticket: \u20b9499/- per personWhat to bring? \ud83e\udd6a A snack for the potluckWhat you'll get: \ud83e\uddfa Aesthetic picnic setup \ud83d\udc90 A variety of fresh flowers \ud83e\udd64 Drinks on us \ud83e\uddf5 All materials needed to make your bouquetNo networking. No pressure. Just a relaxed evening filled with good food, fresh flowers, and great conversations.Reply to this message or DM us if you would like to join. \ud83d\udc9b",
-    "startDate": "2026-06-13T16:00:00+05:30",
-    "endDate": "2026-06-13T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Lodhi Rd, Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59309590000000000000",
-        "longitude": "77.21967939999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Shoshabaazi",
-      "url": "https://urbanaut.app/partner/shoshabaazi"
-    },
-    "url": "https://urbanaut.app/spot/picnic-potluck-flower-arranging",
-    "keywords": [
-      "Eco Friendly",
-      "Food & drink",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Drinks that Changed the World",
-    "description": "Dawa DaaruHow Alcohol Helped Shape Empires, Religions, Revolutions, and Everyday Life Join us for a lecture that begins with a drink and ends with a completely different way of looking at history.About the LectureWhat if some of the most important events in world history were shaped not only by kings, wars, and ideas \u2014 but also by what people were drinking?From ancient India and Mesopotamia to Mughal courts, colonial trade routes, and modern nation-states, alcohol has quietly influenced politics, religion, commerce, culture, and empire in ways most history books rarely discuss.This lecture traces a wildly unexpected journey through thousands of years of human civilisation, exploring how beverages became entangled with power, identity, conquest, and resistance.The session explores:Ancient references to intoxicating drinks in Indian epics and mythologyThe world's earliest known drinking cultures and the famous Hymn to NinkasiWhy Champagne became synonymous with luxury and prestigeHow coffee, tea, wine, gin, beer, and spirits reshaped empires and trade routesThe surprising role alcohol played in colonial expansion and global commerceDrinking cultures of the Mughals, poets, soldiers, revolutionaries, and rulersMoving between historical anecdotes, forgotten stories, literary references, travel experiences, and cultural curiosities, the lecture reveals alcohol not simply as a beverage, but as a lens through which to understand human history itself.About the SpeakerGagan Sharma is a certified sommelier, mixologist, wine educator, writer, and beverage storyteller with over a decade of experience across India and abroad.His work sits at the intersection of beverage culture, travel, history, and education. Over the years, he has worked as a wine educator, tasting curator, industry trainer, judge, and writer, helping audiences understand the stories, traditions, and craftsmanship behind what they drink.Known as India's first sommelier, Gagan also holds a record for his travels across UNESCO World Heritage Sites in India. Beyond the world of beverages, he is a certified mountaineer, paragliding pilot, passionate student of Mughal history, and enthusiastic explorer of heritage landscapes.His lectures combine deep historical research with personal stories, making complex histories feel lively, accessible, and unexpectedly entertaining.Your ticket includes a complimentary cocktail inspired by the themes of the lecture.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
-    "startDate": "2026-06-13T16:00:00+05:30",
-    "endDate": "2026-06-13T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "32nd avenue, Sector 15 Part 2, Sector 15, Gurugram, Haryana 122001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46145160000000000000",
-        "longitude": "77.04983410000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "799.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/drinks-that-changed-the-world-13838",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "SMASH LIKE A GIRL (Tennis | Delhi)",
-    "description": "\u200bHi girls! It\u2019s time to Smash Like a Girl \u2014 because we\u2019re finally bringing you TENNIS!This is a women-only, beginner-friendly, guided tennis meet-up.4:50 PM Meet Up & Warm Up5:00 PM Game TimeSee you on court!",
-    "startDate": "2026-06-13T17:00:00+05:30",
-    "endDate": "2026-06-13T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "J6HH+MMC, Barakhamba Rd, Todermal Road Area, Mandi House, New Delhi, Delhi 110001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.62917610000000000000",
-        "longitude": "77.22913750000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "495.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swagtennis",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Cinema Circle",
-    "description": "OverviewA shared film-watching experience designed to feel cozy, intentional, and communal.People gather to slow down, watch together, and stay a little longer with the stories that unfold on screen. Films, shared quietly.ThemeCinema Circle - Exploring Fear, Panic & Human BehaviourThis month, we are watching Weapons, a psychological horror film that looks at what happens when fear moves through people and communities. What does panic do to ordinary people? How does dread spread? Come watch it with us and find out.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to ExpectWatch Together: We screen Weapons as a group. No prior viewing required, just show up.Discussion: Once the film ends, we talk through it. The psychology, the fear, the behaviour, whatever stayed with you.Details\ud83d\uddd3\ufe0f Date: 13th June (Saturday)\u23f0 Time: 5:30 PM\ud83d\udccd Location: Kanchanjunga Towers, Sector 56\u2615 Inclusions: Diet Coke and snacks included\ud83c\udf9f\ufe0f Fee: \u20b9700",
-    "startDate": "2026-06-13T17:30:00+05:30",
-    "endDate": "2026-06-13T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "A-BLOCK, KANCHANJUNGA APARTMENT, G.H.18, near Post Office, Sector 56, Gurugram, Haryana 122011, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.42299410000000000000",
-        "longitude": "77.10300720000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "661.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/cinema-circle",
-    "keywords": [
-      "Leisure",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Wine Tasting + Food Pairing Experience",
-    "description": "Spend your Saturday evening swirling, sipping, and discovering wines at Asur Microbrewery, Moti Nagar.This guided wine tasting workshop is designed for both beginners and casual wine lovers who want to understand wine beyond \u201cred or white.\u201d Expect a relaxed, fun session with tasting pours, food pairings, aroma and sensory activities, and plenty of wine talk without the intimidating jargon.What to expect:\u2022 Guided tasting of selected wines\u2022 Food pairing experience\u2022 Learn basic wine tasting techniques\u2022 Aroma & sensory note exploration\u2022 Interactive and beginner-friendly session\u2022 Chill social atmosphereWhether you\u2019re trying to get into wine, planning date-night scenes, or just looking for a different Saturday plan, this one\u2019s for you.",
-    "startDate": "2026-06-13T18:00:00+05:30",
-    "endDate": "2026-06-13T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Third Floor, 6A, Shivaji Marg, Moti Nagar, Karampura Industrial Area, Karam, New Delhi, Delhi, 110015, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.66239710000000000000",
-        "longitude": "77.15236970000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1200.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Gulp it down with UT",
-      "url": "https://urbanaut.app/partner/gulp-it-down-with-ut"
-    },
-    "url": "https://urbanaut.app/spot/wine-tasting-food-pairing-experience",
-    "keywords": [
-      "Workshop",
-      "Food & drink",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Delhi's Metro Morphosis: Metro Train heritage walk",
-    "description": "Delhi\u2019s Metro Morphosis-: A Walk Through Delhi\u2019s Changing CommuteExploring the Impact of the Delhi Metro on Gender, Safety & Urban LifeIn the heart of India\u2019s capital, the Delhi Metro is more than a transport system \u2014 it\u2019s a living, moving map of the city\u2019s transformation.Join us for a guided walkthrough and urban dialogue as we journey along the tracks \u2014 not just from station to station, but across the layers of Delhi\u2019s social fabric. This unique walk explores how the Metro has quietly reshaped gender access, mobility justice, public spaces, urban design, and how heritage and history now sit side-by-side with modern infrastructure.We will cover Mandi House -Kailash Colony-Kashmere Gate-Chawari Bazar-Rajiv Chowk & Barakhamba Metro stations",
-    "startDate": "2026-06-13T18:00:00+05:30",
-    "endDate": "2026-06-13T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Metro Station Mandi House, Mandi House, New Delhi, Delhi 110001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.62550960000000000000",
-        "longitude": "77.23422860000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "755.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "DARWESH_TALEWEAVERS",
-      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
-    },
-    "url": "https://urbanaut.app/spot/delhis-metro-morphosis-metro-train-heritage-walk",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Pickleball with SWAG (Delhi | Saket)",
-    "description": "Pickleball with SWAG is back!This is a women-only, beginner-friendly pickleball meet-up.See you on court!",
-    "startDate": "2026-06-13T18:00:00+05:30",
-    "endDate": "2026-06-13T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "NEW GREEN FIELD SCHOOL, school, Ashok Vihar, Saket, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52369810000000000000",
-        "longitude": "77.20874010000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "360.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swagsaket",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "BADDY WITH BADDIES | Saket",
-    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.5:50 PM Meet up and Warm up Time6:00 PM Game TimeSee you on court!",
-    "startDate": "2026-06-13T18:00:00+05:30",
-    "endDate": "2026-06-13T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "inside NEW GREEN FIELD SCHOOL, behind PVR Anupam Saket, Ashok Vihar, Saket, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52371090000000000000",
-        "longitude": "77.20874630000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "250.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swagsaket1",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Pickleball with SWAG | North Delhi",
-    "description": "Pickleball with SWAG is now in North Delhi!This is a women-only, beginner-friendly pickleball meet-up.5:50 PM Meet up and Warm up Time6:00 PM Game TimeSee you on court!",
-    "startDate": "2026-06-13T18:00:00+05:30",
-    "endDate": "2026-06-13T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Best Business Park, plot no. P, 2, Netaji Subhash Place, Shakurpur, New delhi, Delhi, 110034, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.69189930000000000000",
-        "longitude": "77.14738650000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "379.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swagnorth",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Raat Ke Afsane : Qutub Minar",
-    "description": "Experience the magic of Qutub Minar like never before\u2014under the stars and glowing lights. This is a guided heritage walk led by a historian, who will take you through the stunning Qutub complex after dark. As the entire site is beautifully illuminated at night, the minaret shines like Delhi\u2019s very own Eiffel Tower\u2014majestic, mysterious, and unforgettable.Walk through centuries of history, discover forgotten stories, and explore Delhi\u2019s medieval past through engaging storytelling. The play of light, shadow, and silence transforms this heritage site into something truly cinematicPlaces we will cover : 1. Mughal Serai2. Alai Minar3. Iltutmish Tomb4. Qutub Minar5. Iron Pilar6. 27 Jain and hindu temples7. Alai Darwaza8. Alauddin Khilji grave and madarsa .Important Points:  1. Details of the heritage walk will be mailed to you when you book the tickets2. No guided fees for kids below 5.3. Medium of communication : Hindi and English4. Please note that in case of unavoidable external reasons such as (weather conditions, political rallies, VIP movement, powercut) the walk may be canceled. The participant has the liberty to take another walk by the company against the payment they have made within 30 days since the date of the registered walk.5. The company does not have refund policy.",
-    "startDate": "2026-06-13T18:30:00+05:30",
-    "endDate": "2026-06-13T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Qutub Minar Complex Rd, Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52371860000000000000",
-        "longitude": "77.18469040000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "650.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Enroute Indian History",
-      "url": "https://urbanaut.app/partner/enrouteindianhistory"
-    },
-    "url": "https://urbanaut.app/spot/raat-ke-afsane-qutub-minar",
-    "keywords": [
-      "Adventure",
-      "Walking Tour",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Rocky Trails & Sunrise Picnic at Mangar Lake",
     "description": "This sunrise hiking experience takes you through rocky trails, scenic ridge lines, and a beautiful lakeside setting for a refreshing morning outdoors. It blends light adventure, calm nature moments, and fun group interactions, making it a great pick for beginners, couples, friends, and solo plans. The experience also includes a guided hike with experienced leaders, a curated picnic breakfast, storytelling, fun group activities, and basic first-aid support. It is a well-rounded outdoor escape that brings together movement, views, conversation, and a memorable breakfast in nature.Arrival & Meet-Up At 5:00 A.M.\u2022 Assemble by 5:00 A.M. at the meeting point for check-in and a short introduction.\u2022 The experience will begin at 5:15 A.M. sharp, so arriving on time will help you settle in comfortably before the hike starts.Briefing & Warm-Up\u2022 Meet the hike leaders, get a short safety briefing, and ease into the experience with a light ice-breaker and stories about the trail.Sunrise Hike Through Trails & Ruins\u2022 Begin the guided walk through forest trails, offbeat paths, and old ruins while taking in the fresh morning air and scenic views.Stories, Games & Forest Pause\u2022 Pause along the way for local legends, hidden history, fun group activities, and a calm forest-bathing moment.Picnic Breakfast & Wrap Up At 8:00-8:30 A.M.\u2022 Unwind with a picnic breakfast in a scenic spot before making your way back with the group, wrapping up the experience by around 8:30 A.M.",
@@ -979,6 +603,43 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Mo:Mo from Scratch, Sector 65",
+    "description": "Learn the Art of Himalayan Mo:MoFor the very first time, we're opening our kitchen doors for a fun chef-led Mo:Mo Masterclass!Step into the world of Himalayan cuisine and discover the secrets behind one of the region's most beloved dishes. This hands-on workshop will guide you through every stage of creating mo:mo from scratch \u2014 no experience required.What You'll ExperienceGet ready to roll, fold, fill, and feast! Under the guidance of our chef, you'll:\u2022 Make fresh mo:mo dough from scratch\u2022 Learn two traditional folding styles \u2014 the classic round and elegant moon shape\u2022 Fill your mo:mo with your choice of vegetable or paneer filling while learning how the filling is prepared\u2022 Master the techniques of steaming and pan-frying mo:mo to perfection\u2022 Plate your creations and enjoy them fresh with our signature house-made chutneysThis is a relaxed, interactive, and fun culinary experience designed for food lovers of all skill levels.What You'll Master\u2022 Prepare mo:mo dough from scratch\u2022 Fold traditional round and moon-shaped mo:mo\u2022 Fill, steam, and pan-fry mo:mo like a pro\u2022 Recreate the experience at home for friends and familyPerfect For\u2022 Date nights\u2022 Couples and friends\u2022 Team-building activities\u2022 Birthdays and bachelorette celebrations\u2022 Food enthusiasts looking to learn something newPlease Note\u2022 Arrive 15 minutes early for check-in\u2022 Dietary requirements can be accommodated with advance notice\u2022 Spaces are limited and booking is essential",
+    "startDate": "2026-06-19T17:00:00+05:30",
+    "endDate": "2026-06-19T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ground Floor, AIPL Joy Central, GF-01, Golf Course Ext Rd, Sector 65, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40537820000000000000",
+        "longitude": "77.06050050000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Thamel",
+      "url": "https://urbanaut.app/partner/thamel"
+    },
+    "url": "https://urbanaut.app/spot/momo-from-scratch",
+    "keywords": [
+      "Workshop",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "ALT EFF Film Club x GuruJal Gurugram | 19th June",
     "description": "Join us for a screening of Miles Away; a visual and auditory immersion of the lives of migrant, female brick labors. This film is intimate, cinematic and sensory.Part of our 2024 Program, this was Juror Dia Mirza's reaction:\"I was very moved by 'Miles Away' as for the first time I saw the perspective of what Climate Change is doing to women. It was very special to see so many women coming together to tell the story and feeling at ease as they shared personal moments with the female filmmakers. I felt as if I was a part of their lives.\"To become a Film Club Member, continue with the regular booking process. The membership option will appear after you select the venue and date.All activities, including discussions and refreshments, will occur between 7:00 and 9:00 PM.What's Included?Exclusive screenings of the world's best environmental cinemaAccess to a community of environmentally inclined, film-loving peoplePost-film discussions.Student Discount50% off for students with a valid ID (& must bring ID to the screening).CODE: ALTSTUDENTABOUT ALT EFFIf you are tired of the outrage cycle, doomscrolling collapse, and the looming AI takeover narrative. If you have caught yourself going numb just to cope. We see you.All Living Things Environmental Film Festival is back with the third season of Film Club. A monthly meet up across 12 cities over 5 months, orbiting environmental cinema that cracks you open without trapping you in doom and gloom.It is a room full of people choosing to show up in cities whose infrastructure persuades you to stay home, choosing to sit together, watch together, and turn private anxiety into collective imagination. Messy. Human. Honest conversation.\u00a0With snacks. Always snacks.",
@@ -1233,6 +894,43 @@
     },
     "url": "https://urbanaut.app/spot/the-making-of-a-serial-offender",
     "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Mo:Mo from Scratch, DLF Phase 1",
+    "description": "Learn the Art of Himalayan Mo:MoFor the very first time, we're opening our kitchen doors for a fun chef-led Mo:Mo Masterclass!Step into the world of Himalayan cuisine and discover the secrets behind one of the region's most beloved dishes. This hands-on workshop will guide you through every stage of creating mo:mo from scratch \u2014 no experience required.What You'll ExperienceGet ready to roll, fold, fill, and feast! Under the guidance of our chef, you'll:\u2022 Make fresh mo:mo dough from scratch\u2022 Learn two traditional folding styles \u2014 the classic round and elegant moon shape\u2022 Fill your mo:mo with your choice of vegetable or paneer filling while learning how the filling is prepared\u2022 Master the techniques of steaming and pan-frying mo:mo to perfection\u2022 Plate your creations and enjoy them fresh with our signature house-made chutneysThis is a relaxed, interactive, and fun culinary experience designed for food lovers of all skill levels.What You'll Master\u2022 Prepare mo:mo dough from scratch\u2022 Fold traditional round and moon-shaped mo:mo\u2022 Fill, steam, and pan-fry mo:mo like a pro\u2022 Recreate the experience at home for friends and familyPerfect For\u2022 Date nights\u2022 Couples and friends\u2022 Team-building activities\u2022 Birthdays and bachelorette celebrations\u2022 Food enthusiasts looking to learn something newPlease Note\u2022 Arrive 15 minutes early for check-in\u2022 Dietary requirements can be accommodated with advance notice\u2022 Spaces are limited and booking is essential",
+    "startDate": "2026-06-20T17:00:00+05:30",
+    "endDate": "2026-06-20T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shop No. 139, The shopping mall, Arjun Marg, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46589090000000000000",
+        "longitude": "77.09964640000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Thamel",
+      "url": "https://urbanaut.app/partner/thamel"
+    },
+    "url": "https://urbanaut.app/spot/make-momo",
+    "keywords": [
+      "Workshop",
       "Food & drink",
       "URBANAUT"
     ]
@@ -1683,6 +1381,42 @@
       "Leisure",
       "Pop-up Event",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Financial Literacy Workshop for Kids",
+    "description": "A Vamoro educational experience for young minds. Our financial literacy workshop will educate children about the importance of saving, investing, and spending wisely. Collaborative, interesting, and informational, this hands-on experience is designed to build essential money management skills, encourage smart financial habits, and empower young minds to make confident decisions for the future.",
+    "startDate": "2026-06-27T12:00:00+05:30",
+    "endDate": "2026-06-27T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Golf Course Rd, Sector 43, Gurugram, Haryana, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.45593460000000000000",
+        "longitude": "77.09720840000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Vamoro",
+      "url": "https://urbanaut.app/partner/vamoro"
+    },
+    "url": "https://urbanaut.app/spot/financial-literacy-workshop-for-kids",
+    "keywords": [
+      "Workshop",
       "URBANAUT"
     ]
   },
