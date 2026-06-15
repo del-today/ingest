@@ -35,6 +35,23 @@
   },
   {
     "@type": "ScreeningEvent",
+    "name": "Ruuposh(2022)",
+    "url": "https://fillum.in/screening/5703",
+    "startDate": "2026-06-18T18:30:00+05:30",
+    "endDate": "2026-06-18T18:30:00+05:30",
+    "description": "Free entry. Post-screening Q&A with the filmmaker.",
+    "location": {
+      "@type": "Place",
+      "name": "Press Club of India, Raisina Road",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fillum"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "Meelon Dur(2023)",
     "url": "https://fillum.in/screening/5681",
     "startDate": "2026-06-19T19:00:00+05:30",
@@ -65,6 +82,40 @@
     "organizer": {
       "@type": "Organization",
       "name": "Navrasa Duende Movie Club"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "The Trial(1962)",
+    "url": "https://fillum.in/screening/5652",
+    "startDate": "2026-06-20T12:00:00+05:30",
+    "endDate": "2026-06-20T12:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "Mool, South Ex II",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Where Is My Friend's House?(1987)",
+    "url": "https://fillum.in/screening/5653",
+    "startDate": "2026-06-20T14:00:00+05:30",
+    "endDate": "2026-06-20T14:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "Mool, South Ex II",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
     }
   },
   {

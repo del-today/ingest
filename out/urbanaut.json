@@ -712,7 +712,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Sex, Death, And The Long War Of Life",
-    "description": "Join us for a lecture that begins with a provocative proposition:You were never meant to exist.And that may be the most liberating fact about you.About the LectureHuman beings like stories.We tell ourselves that life has meaning, that history bends toward progress, that our desires are uniquely our own.Evolution tells a different story.One without heroes, villains, purpose, or justice.This lecture explores the oldest conflict on Earth: the endless struggle of living things to survive, reproduce, and persist. Long before nations, religions, or political ideologies existed, life was already engaged in a ruthless competition that continues to shape every organism alive today.Drawing on evolutionary biology and psychology, the session traces how some of our deepest instincts emerged from this ancient inheritance.The lecture explores:Why evolution remains the most powerful framework for understanding lifeHow competition and cooperation coexist in the natural worldWhat sex is really doing from the perspective of evolutionWhy human beings are, like all organisms, unfinished creaturesHow morality, consciousness, and even the idea of a \u201csoul\u201d might be viewed through an evolutionary lensMoving from algae to human behaviour, from reproduction to mortality, the session challenges many of the comforting assumptions we hold about ourselves.At its heart lies a difficult but strangely freeing question:What changes when we stop imagining that life was designed for us?About the SpeakerAmbarish Satwik is a Delhi-based vascular and endovascular surgeon, Director of the Vascular Cath Lab at Sir Ganga Ram Hospital, and Professor of Vascular Surgery at GRIPMER.Alongside his medical career, he is an acclaimed writer whose work moves across literature, history, politics, and science. His novel Perineum: Nether Parts of the Empire is a critically acclaimed exploration of sexuality and power in the British Raj.His essays, columns, and commentaries have appeared in publications including India Today, The Times of India, Outlook, Open, Tehelka, Time Out, and Hindu Business Line.Known for bringing together scientific rigour, intellectual irreverence, and dark humour, his talks often leave audiences questioning ideas they previously took for granted.Ticket IncludesYour ticket includes a complimentary drink during the session.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "description": "Join us for a lecture that begins with a provocative proposition: You were never meant to exist. And that may be the most liberating fact about you.About the LectureHuman beings like stories.We tell ourselves that life has meaning, that history bends toward progress, that our desires are uniquely our own.Evolution tells a different story.This lecture explores the oldest conflict on Earth: the endless struggle of living things to survive, reproduce, and persist. Long before nations, religions, or political ideologies existed, life was already engaged in a ruthless competition that continues to shape every organism alive today.Drawing on evolutionary biology and psychology, the session traces how some of our deepest instincts emerged from this ancient inheritance.The lecture explores:Why evolution remains the most powerful framework for understanding lifeHow competition and cooperation coexist in the natural worldWhat sex is really doing from the perspective of evolutionWhy human beings are, like all organisms, unfinished creaturesHow morality, consciousness, and even the idea of a \u201csoul\u201d might be viewed through an evolutionary lensMoving from algae to human behaviour, from reproduction to mortality, the session challenges many of the comforting assumptions we hold about ourselves.About the SpeakerAmbarish Satwik is a Delhi-based vascular and endovascular surgeon, Director of the Vascular Cath Lab at Sir Ganga Ram Hospital, and Professor of Vascular Surgery at GRIPMER.Alongside his medical career, he is an acclaimed writer whose work moves across literature, history, politics, and science. His novel Perineum: Nether Parts of the Empire is a critically acclaimed exploration of sexuality and power in the British Raj.His essays, columns, and commentaries have appeared in publications including India Today, The Times of India, Outlook, Open, Tehelka, Time Out, and Hindu Business Line.Known for bringing together scientific rigour, intellectual irreverence, and dark humour, his talks often leave audiences questioning ideas they previously took for granted.Your ticket includes a complimentary drink during the session.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
     "startDate": "2026-06-21T12:00:00+05:30",
     "endDate": "2026-06-21T14:00:00+05:30",
     "location": {
@@ -851,6 +851,42 @@
     "url": "https://urbanaut.app/spot/alaynacafe",
     "keywords": [
       "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Father's Day Celebration at ASUR Microbrewery",
+    "description": "This Father\u2019s Day: Skip the Clich\u00e9. Celebrate Big. \ud83d\ude80Let\u2019s be real\u2014Dad doesn't want another sleepy Sunday brunch or a generic tie. He wants great food, good vibes, and genuine catch-up time with his favorite people!This Sunday, take him out to Asur Microbrewery in Moti Nagar for a total flavor upgrade. We\u2019re firing up the ovens for hot, bubbling wood-fired pizzas and pouring fresh craft beer straight from our tanks.It\u2019s the ultimate, no-stress family hangout he actually wants. Spaces are limited, so choose your pass below, book your table, and let\u2019s make it a day to remember! \u2728",
+    "startDate": "2026-06-21T18:00:00+05:30",
+    "endDate": "2026-06-21T23:59:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Third Floor, 6A, Shivaji Marg, Moti Nagar, Karampura Industrial Area, Karam, New Delhi, Delhi, 110015, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.66239710000000000000",
+        "longitude": "77.15236970000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "999.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Asur - Microbrewery",
+      "url": "https://urbanaut.app/partner/asur-microbrewery"
+    },
+    "url": "https://urbanaut.app/spot/fathers-day-celebration-at-asur-microbrewery",
+    "keywords": [
       "Food & drink",
       "URBANAUT"
     ]
