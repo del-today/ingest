@@ -786,7 +786,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Paper, Play \u0914\u0930 \u092a\u0939\u0947\u0932\u093f\u092f\u093e\u0901",
-    "description": "A treasure hunt to explore the exhibition through some hidden clues, peppered with conversations and maybe some hidden stories!Gallery XXL in collaboration with the Tangerine Circle invites you to an evening of conversations and hidden clues. The participants will explore Paper and Play through a treasure hunt woven into the exhibition where clues are hidden, stories are waiting, and some secrets might only reveal themselves if you're paying attention.The evening opens with an introduction before teams are formed at 4:30 PM. From there, it's a race through the gallery following clues, cracking puzzles, and piecing together a trail that winds through the works on view.Think long summer afternoons, no agenda, and the particular thrill of finding something you weren't sure existed. The kind of evening that feels less like an event and more like a memory you're making \u2014 slow, a little silly, and entirely worth it. The first team to crack the hunt finds the pot at the end of the rainbow.Date: Sunday, June 21, 2026Time: 4 - 6 PMVenue: Gallery XXL, 2nd Floor, A-277, Block A, Defence Colony, New Delhi, Delhi 110024ABOUT TANGERINE CIRCLE:\ufeffTangerine is a literary and cultural circle built for people who find meaning in stories. Since 2024, we\u2019ve hosted 30+ events across Delhi, Bombay, & Lucknow, bringing together 2,800+ readers through book discussions, blind book dates, author meet and greets, art walks, and workshops. Featured in The Hindu, India Today, Times Now, and Hindustan Times, Tangerine continues to grow as a space where literature is the starting point into everything art and life.",
+    "description": "Gallery XXL & Tangerine Circle invite you to an evening of conversation, curiosity, and a treasure hunt through an art exhibition.We\u2019ll begin by gathering over conversations before forming teams and setting off across the exhibition. Follow clues, solve puzzles, find new stories, and piece together a trail woven through the artworks on view.Think of it as a long summer afternoon spent wandering, wondering, and discovering things you didn\u2019t know you were looking for. And for the first team to crack the hunt, there\u2019s a prize waiting at the endDate: Sunday, June 21, 2026Time: 4 - 6 PMVenue: Gallery XXL, 2nd Floor, A-277, Block A, Defence Colony, New Delhi, Delhi 110024ABOUT TANGERINE CIRCLE:Tangerine is a literary and cultural circle for people who find meaning in stories. Since 2024, we\u2019ve hosted 30+ events across Delhi, Bombay, and Lucknow, bringing together 2,800+ readers through book discussions, blind book dates, author conversations, art walks, and workshops.",
     "startDate": "2026-06-21T16:00:00+05:30",
     "endDate": "2026-06-21T18:00:00+05:30",
     "location": {
@@ -964,6 +964,44 @@
       "Leisure",
       "Pop-up Event",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "SCC Gourmet Cinema - In the mood for Love",
+    "description": "Step into an afternoon suspended in time.To celebrate the 25th anniversary of Wong Kar-wai\u2019s masterpiece In the Mood for Love, Sunset Cinema Club and The Piano Man invite you to Gourmet Cinema, an intimate cinematic dining experience at The Piano Man, Eldeco Centre, New Delhi.Set in 1960s Hong Kong, In the Mood for Love is a timeless tale of longing, desire, and missed connections. With its stunning visuals, unforgettable music, and iconic performances, it remains one of cinema\u2019s most beloved love stories.As the film unfolds, enjoy a specially curated 5-course gourmet menu, thoughtfully crafted to complement the mood and elegance of the story. More than a screening, this is an invitation to savour the beauty of what is left unsaid. Through exquisite food, evocative storytelling, and one of cinema\u2019s most enduring love stories, immerse yourself in a world where time moves a little slower, and every moment lingers long after the credits roll.Food: Vegetarian and Non-Vegetarian options available.Drinks: 1 Alcoholic and 1 Non-Alcoholic beverage available.Please note: The menu is fixed and cannot be modified.Seating\u00a0\u00a0Seating is pre-arranged. If you\u2019ve booked a ticket, you are assured a seat.\u00a0ScheduleScreening - Midnight in ParisDate: 27th June, SaturdayTime: Entry begins at 12:00\u00a0PM and the movie starts at 12.30 PMNote :\u00a0The movie is in Cantonese with English subtitles.",
+    "startDate": "2026-06-27T12:00:00+05:30",
+    "endDate": "2026-06-27T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Eldeco Centre, Block A, Shivalik Colony, Malviya Nagar, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52806900000000000000",
+        "longitude": "77.20516300000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sunset Cinema Club",
+      "url": "https://urbanaut.app/partner/sunset-cinema-club"
+    },
+    "url": "https://urbanaut.app/spot/scc-gourmet-cinema-in-the-mood-for-love",
+    "keywords": [
+      "Leisure",
+      "Pop-up Event",
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -1331,6 +1369,42 @@
     "keywords": [
       "Pop-up Event",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "In Her Interest by Zerodha - Mutual Funds 101, Delhi",
+    "description": "Women have a complicated relationship with money. And it starts early. Many families shield their daughters from anything related to \u2018finance\u2019, but this well-meaning protection ends up being a disservice. For when these young women step into the real world, they lack the confidence to make financial decisions -\u00a0not because they\u2019re incapable, but because they were never given information on budgeting, savings, and investments. Later in life, many continue to rely on their partners for investment decisions. This dependency on others will only stop when they have the right information and toolkit to take back control. That\u2019s where we come in.We come back with our second 'In Her Interest'  session on 4th July in Delhi and will focus on one core idea:Mutual Funds 101 - all you need to know.\ufeffThe session will be led by two amazing experts who truly get it.Shilpa Bhaskar GoleCertified Financial Planner\u00ae (CFP\u00ae) | Founder NerdyBird Wealth Advisory LLP - a Non-Individual SEBI Registered Investment Adviser (RIA)Neha SinghFounder at Womoneysta | Certified Financial Planner | SEBI-registered Once you buy a ticket, you also get to send a question that the speakers will address during the session.Note: Each session is theme-based. This session is about understanding Mutual Funds - we are not talking stocks and shares.",
+    "startDate": "2026-07-04T11:00:00+05:30",
+    "endDate": "2026-07-04T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Mehrauli-Gurgaon Rd, Heritage City, Sector 25, Gurugram, Haryana 122009, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.48090850000000000000",
+        "longitude": "77.08027980000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "892.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "In Her Interest by Zerodha",
+      "url": "https://urbanaut.app/partner/inherinterest"
+    },
+    "url": "https://urbanaut.app/spot/mutualfunds101",
+    "keywords": [
+      "Workshop",
       "URBANAUT"
     ]
   }
