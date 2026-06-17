@@ -266,7 +266,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "The Listening Room",
-    "description": "The Listening Room: A Space for Deep ListeningOverviewIn a world that is always talking, we rarely get the chance to truly listen. The Listening Room is a unique session dedicated to the art of being present. It is a space to share, to hear others, and to practice the kind of attention that builds real connection and empathy.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to expectActive Listening: Practice being fully present while others speak without the need to interrupt or give immediate advice.Shared Stories: A safe environment to share your own thoughts or experiences and feel truly heard by a small group.Quiet Reflection: Moments of silence to process what has been shared and to notice how deep listening changes our perspective.Supportive Connection: A morning at Greenr focused on human presence and the simple power of witnessing each other\u2019s stories.Details\ud83d\uddd3\ufe0f Date: 24th May (Sunday)\u23f0 Time: 11:00 AM\ud83d\udccd Location: Greenr, Golf Course Ext Road\ud83c\udf9f\ufe0f Contribution: \u20b9700",
+    "description": "The Listening Room: A Space for Deep ListeningOverviewIn a world that is always talking, we rarely get the chance to truly listen. The Listening Room is a unique session dedicated to the art of being present. It is a space to share, to hear others, and to practice the kind of attention that builds real connection and empathy.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to expectActive Listening: Practice being fully present while others speak without the need to interrupt or give immediate advice.Shared Stories: A safe environment to share your own thoughts or experiences and feel truly heard by a small group.Quiet Reflection: Moments of silence to process what has been shared and to notice how deep listening changes our perspective.Supportive Connection: A morning at Greenr focused on human presence and the simple power of witnessing each other\u2019s stories.Details\ud83d\uddd3\ufe0f Date: 20th June (Saturday)\u23f0 Time: 11:00 AM\ud83d\udccd Location: Greenr, Golf Course Ext Road\ud83c\udf9f\ufe0f Contribution: \u20b9700",
     "startDate": "2026-06-20T11:00:00+05:30",
     "endDate": "2026-06-20T13:00:00+05:30",
     "location": {
@@ -711,6 +711,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Hot Girls Do Yoga",
+    "description": "Let\u2019s celebrate Yoga Day, the SWAG-way. A calming Sunday morning Yoga and Breathwork session, followed by a DIY Salad Bar! And not to forget the wellness goodies by La Runa and Gliserra. Also, don\u2019t worry about carrying your Yoga Mats early in the morning, we have Wiselife to the rescue.So, ready for a morning of wellness, movement and self-care?The plan:\ud83e\uddd8\u200d\u2640\ufe0f 8:00 AM - Stretch, strengthen, and reset with a refreshing yoga session.\ud83c\udf3f 8:45 AM - Cool down, breathe deeply, and reconnect with yourself.\ud83e\udd57 DIY Salad Experience by Food Stories -Build your own wholesome bowl and enjoy a wholesome start to the day.\ud83d\udccd Food Stories, The Indian Mall, Vasant Kunj\ud83d\uddd3\ufe0f 21st June 2026\u23f0 8:00 AM \u2013 10:00 AMCome solo or bring your girls! This is a beginner-friendly, women-only experience.",
+    "startDate": "2026-06-21T07:45:00+05:30",
+    "endDate": "2026-06-21T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Opposite Bunglow No.46, Sector 4, Lodhi Estate, Lodhi Estate, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59422390000000000000",
+        "longitude": "77.22559430000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "349.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/yoga",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "FILTERED FREQUENCIES EP. 3 AT WORLD MUSIC DAY",
     "description": "In celebration of World Music Day, we are proud to partner with Project Otenga to host a vibrant day of live music. This special event brings together a diverse lineup of talented musicians performing together to celebrate the universal language of music.The day opens with Indian Classical Musicians and enrolls into a saga of Raga's followed by Electronic Takeover and an empaneled discussion on Music as the key subject, while ending with acoustic sounds. ",
@@ -816,6 +854,44 @@
     },
     "url": "https://urbanaut.app/spot/sex-death-and-the-long-war-of-life-13825",
     "keywords": [
+      "Food & drink",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Paperazzi Origami Workshop",
+    "description": "Step off the bustling streets of Lodhi Colony and into a slow, relaxing weekend ritual.This Sunday, we are hosting an exclusive, beginner-friendly origami workshop at Lofin. Designed as a creative and therapeutic escape, this session guides you through the meditative art of paper folding, transforming simple sheets into beautiful, geometric sculptures and custom art pieces.Whether you consider yourself creative or haven't touched a craft project since school, this intimate workshop is all about slowing down, working with your hands, and connecting with fellow neighborhood locals over shared tables.No prior experience or skills required. Just bring your curiosity, and we\u2019ll handle the rest.",
+    "startDate": "2026-06-21T13:00:00+05:30",
+    "endDate": "2026-06-21T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "125, @ The Corner Curve, New Khanna Market, Block D, Lodi Colony, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.58004050000000000000",
+        "longitude": "77.22195400000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Lofin",
+      "url": "https://urbanaut.app/partner/lofin"
+    },
+    "url": "https://urbanaut.app/spot/paperazzi-origami-workshop",
+    "keywords": [
+      "Workshop",
       "Food & drink",
       "Art & culture",
       "URBANAUT"
@@ -933,6 +1009,82 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Pickleball with SWAG | Gurugram",
+    "description": "The SWAG Pickleball Party is you perfect sunday evening plan!This is a women-only, beginner-friendly meet-up.See you on court!",
+    "startDate": "2026-06-21T18:00:00+05:30",
+    "endDate": "2026-06-21T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Sportyzo Sports Academy, Sector 65, Gurugram, Haryana 122101, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40450950000000000000",
+        "longitude": "77.07416250000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "360.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag3",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Guided Pickleball | Khan Market",
+    "description": "Guided Pickleball with SWAG x Delhi Picklers is back! This is a women-only, beginner-friendly pickleball meet-up. The session is guided by a coach.5:50 PM Meet up and Warm up6:00 PM Game TimeSee you on court!",
+    "startDate": "2026-06-21T18:00:00+05:30",
+    "endDate": "2026-06-21T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Opposite Bunglow No.46, Sector 4, Lodhi Estate, Lodhi Estate, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59422390000000000000",
+        "longitude": "77.22559430000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "399.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag2",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Father's Day Celebration at ASUR Microbrewery",
     "description": "This Father\u2019s Day: Skip the Clich\u00e9. Celebrate Big. \ud83d\ude80Let\u2019s be real\u2014Dad doesn't want another sleepy Sunday brunch or a generic tie. He wants great food, good vibes, and genuine catch-up time with his favorite people!This Sunday, take him out to Asur Microbrewery in Moti Nagar for a total flavor upgrade. We\u2019re firing up the ovens for hot, bubbling wood-fired pizzas and pouring fresh craft beer straight from our tanks.It\u2019s the ultimate, no-stress family hangout he actually wants. Spaces are limited, so choose your pass below, book your table, and let\u2019s make it a day to remember! \u2728",
@@ -1002,6 +1154,42 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "5 Day Summer Camp",
+    "description": "New Delhi Nature Society brings you a  fun-filled 5-day summer camp for children to explore nature and build a strong bond with the environment.Day 1: Forest Walk at Sanjay VanDay 2: Animal Interaction at Sainik FarmsDay 3: Tree Climbing at Nehru ParkDay 4: Farming at ChattarpurDay 5: Treasure Hunt at Lodhi GardenSafe, guided outdoor adventures with expert naturalists. Let your child enjoy a screen-free summer full of learning, play, and nature!Limited seats! \ud83c\udf31",
+    "startDate": "2026-06-22T07:30:00+05:30",
+    "endDate": "2026-06-26T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "New Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.61392980000000000000",
+        "longitude": "77.20882820000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "2500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "New Delhi Nature Society",
+      "url": null
+    },
+    "url": "https://urbanaut.app/spot/summer-camp",
+    "keywords": [
+      "Eco Friendly",
       "URBANAUT"
     ]
   },
