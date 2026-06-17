@@ -1,44 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "BADDY WITH BADDIES | Saket",
-    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.7:50 PM Meet up and Warm up Time8:00 PM Game TimeSee you on court!",
-    "startDate": "2026-06-17T20:00:00+05:30",
-    "endDate": "2026-06-17T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "inside NEW GREEN FIELD SCHOOL, behind PVR Anupam Saket, Ashok Vihar, Saket, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52371090000000000000",
-        "longitude": "77.20874630000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "250.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag1",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Reminiscing Sa'di: A Legacy of Persian Literature",
     "description": "Join us for a lecture that traces one of the most influential cultural exchanges in South Asian history \u2014 a centuries-long relationship between India and Persia that shaped the languages we speak, the literature we read, and the ways power itself was imagined.About the LectureFor centuries, Persian was not a foreign language in India.It was the language of courts and administration, poetry and philosophy, diplomacy and social mobility. Long before English occupied that role, Persian connected vast parts of the subcontinent to a broader Persianate world stretching from Anatolia to Central Asia.Its influence was so deep that generations of Indian scholars, poets, bureaucrats, and intellectuals began their education through Persian. Communities such as Brahmins, Kayasthas, and Khatris built careers through their mastery of the language, while poets from Iran travelled to India seeking patronage, literary fame, and intellectual companionship.This lecture explores the remarkable journey of Persian in India \u2014 not simply as an imported language, but as a tradition transformed by the people who adopted it.The session explores:Why Persian became the language of power and culture in HindustanThe lives and journeys of Persian poets who made India their homeHow Indian scholars and writers reshaped Persian literary traditionsThe ethical and political worlds contained in texts by Sa'di, Hafiz, Rumi, and othersThe influence of Persian on Hindi, Urdu, and other Indian vernacularsHow Persian civilisation retained its distinct identity across centuries of political and religious changeMoving between history, literature, politics, and storytelling, the lecture reveals a world in which ideas, languages, and people moved across borders far more freely than we often imagine today.At its heart, this is a story about exchange: how cultures borrow, adapt, and reinvent one another \u2014 and how those encounters continue to echo in our everyday lives.About the SpeakersDr. Mukhtar Ahmed teaches at the Department of Persian, University of Delhi, where his research focuses on Modern Persian Literature and Indo-Persian literary traditions. His forthcoming book, From Persia to Paris: A Journey of Ideas and Cultures, examines the intellectual and literary exchanges between Persian and French traditions. Known among friends for both his scholarship and his cooking, he remains deeply interested in the movement of ideas across languages and civilisations.Heena Goswami is a public policy professional with an academic background in history and has recently submitted her PhD dissertation at the University of Delhi. Born and raised in Rajasthan, her interests span history, politics, technology, and public life. An avid reader and former educator, she now spends much of her time encouraging others to read, often through stories about books and ideas shared online.Your ticket includes a 300/- coupon redeemable on F&BAbout unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
@@ -713,7 +675,7 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Hot Girls Do Yoga",
-    "description": "Let\u2019s celebrate Yoga Day, the SWAG-way. A calming Sunday morning Yoga and Breathwork session, followed by a DIY Salad Bar! And not to forget the wellness goodies by La Runa and Gliserra. Also, don\u2019t worry about carrying your Yoga Mats early in the morning, we have Wiselife to the rescue.So, ready for a morning of wellness, movement and self-care?The plan:\ud83e\uddd8\u200d\u2640\ufe0f 8:00 AM - Stretch, strengthen, and reset with a refreshing yoga session.\ud83c\udf3f 8:45 AM - Cool down, breathe deeply, and reconnect with yourself.\ud83e\udd57 DIY Salad Experience by Food Stories -Build your own wholesome bowl and enjoy a wholesome start to the day.\ud83d\udccd Food Stories, The Indian Mall, Vasant Kunj\ud83d\uddd3\ufe0f 21st June 2026\u23f0 8:00 AM \u2013 10:00 AMCome solo or bring your girls! This is a beginner-friendly, women-only experience.",
+    "description": "Let\u2019s celebrate Yoga Day, the SWAG-way. A calming Sunday morning Yoga and Breathwork session, followed by a DIY Salad Bar! And not to forget the wellness goodies by La Runa and Gliserra. Also, don\u2019t worry about carrying your Yoga Mats early in the morning, we have Wiselife to the rescue.So, ready for a morning of wellness, movement and self-care?The plan:\ud83e\uddd8\u200d\u2640\ufe0f 8:00 AM - Stretch, strengthen, and reset with a refreshing yoga session.\ud83c\udf3f 8:45 AM - Cool down, breathe deeply, and reconnect with yourself.\ud83e\udd57 DIY Salad Experience by Food Stories -Build your own wholesome bowl and enjoy a wholesome start to the day.\ud83d\udccd Food Stories, Ambience Mall, Vasant Kunj\ud83d\uddd3\ufe0f 21st June 2026\u23f0 8:00 AM \u2013 10:00 AMCome solo or bring your girls! This is a beginner-friendly, women-only experience.",
     "startDate": "2026-06-21T07:45:00+05:30",
     "endDate": "2026-06-21T10:00:00+05:30",
     "location": {
