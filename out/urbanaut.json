@@ -74,6 +74,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Matcha Circle",
+    "description": "OverviewA shared matcha-making experience where simple acts of whisking, pouring, and preparing create calm.People gather over matcha, conversation, and the quiet rhythm of making something by hand. One cup at a time.Matcha Experience: A Taste of CalmExperience the calming art of green tea in a session dedicated to mindfulness and flavor. This gathering is designed to help you slow down and appreciate the details of a centuries old tradition. \"The Matcha Circle\" offers a peaceful space to learn, taste, and connect at the end of a long week.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to ExpectGuided Introduction: Learn about the history and the unique process of preparing matcha from farm to cup.The Ritual: Watch and learn how the tea is whisked to create its signature froth and deep flavor.Tasting Session: Enjoy a premium matcha drink prepared just for you at Cha & Co.Quiet Conversation: Join a small group setting to talk about finding moments of peace in a busy week over a comforting cup.Details\ud83d\uddd3\ufe0f Date: 19th June (Friday)\u23f0 Time: 6:00 PM\ud83d\udccd Location: Cha & Co, Grand View High Street\ud83c\udf75 Inclusion: Matcha drink included\ud83c\udf9f\ufe0f Fee: \u20b9700",
+    "startDate": "2026-06-19T18:00:00+05:30",
+    "endDate": "2026-06-19T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ireo Grand View High Street, Sector 58, Gurugram, Haryana 122098, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41560020000000000000",
+        "longitude": "77.10258329999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/matcha-experience",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "ALT EFF Film Club x GuruJal Gurugram | 19th June",
     "description": "Join us for a screening of Miles Away; a visual and auditory immersion of the lives of migrant, female brick labors. This film is intimate, cinematic and sensory.Part of our 2024 Program, this was Juror Dia Mirza's reaction:\"I was very moved by 'Miles Away' as for the first time I saw the perspective of what Climate Change is doing to women. It was very special to see so many women coming together to tell the story and feeling at ease as they shared personal moments with the female filmmakers. I felt as if I was a part of their lives.\"To become a Film Club Member, continue with the regular booking process. The membership option will appear after you select the venue and date.All activities, including discussions and refreshments, will occur between 7:00 and 9:00 PM.What's Included?Exclusive screenings of the world's best environmental cinemaAccess to a community of environmentally inclined, film-loving peoplePost-film discussions.Student Discount50% off for students with a valid ID (& must bring ID to the screening).CODE: ALTSTUDENTABOUT ALT EFFIf you are tired of the outrage cycle, doomscrolling collapse, and the looming AI takeover narrative. If you have caught yourself going numb just to cope. We see you.All Living Things Environmental Film Festival is back with the third season of Film Club. A monthly meet up across 12 cities over 5 months, orbiting environmental cinema that cracks you open without trapping you in doom and gloom.It is a room full of people choosing to show up in cities whose infrastructure persuades you to stay home, choosing to sit together, watch together, and turn private anxiety into collective imagination. Messy. Human. Honest conversation.\u00a0With snacks. Always snacks.",
@@ -675,7 +713,7 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Hot Girls Do Yoga",
-    "description": "Let\u2019s celebrate Yoga Day, the SWAG-way. A calming Sunday morning Yoga and Breathwork session, followed by a DIY Salad Bar! And not to forget the wellness goodies by La Runa and Gliserra. Also, don\u2019t worry about carrying your Yoga Mats early in the morning, we have Wiselife to the rescue.So, ready for a morning of wellness, movement and self-care?The plan:\ud83e\uddd8\u200d\u2640\ufe0f 8:00 AM - Stretch, strengthen, and reset with a refreshing yoga session.\ud83c\udf3f 8:45 AM - Cool down, breathe deeply, and reconnect with yourself.\ud83e\udd57 DIY Salad Experience by Food Stories -Build your own wholesome bowl and enjoy a wholesome start to the day.\ud83d\udccd Food Stories, Ambience Mall, Vasant Kunj\ud83d\uddd3\ufe0f 21st June 2026\u23f0 8:00 AM \u2013 10:00 AMCome solo or bring your girls! This is a beginner-friendly, women-only experience.",
+    "description": "Let\u2019s celebrate Yoga Day, the SWAG-way. A calming Sunday morning Yoga and Breathwork session, followed by a DIY Salad Bar! And not to forget the wellness goodies by La Runa and Gliserra. Also, don\u2019t worry about carrying your Yoga Mats early in the morning, we have Wiselife to the rescue.So, ready for a morning of wellness, movement and self-care?The plan:\ud83e\uddd8\u200d\u2640\ufe0f 8:00 AM - Stretch, strengthen, and reset with a refreshing yoga session.\ud83c\udf3f 8:45 AM - Cool down, breathe deeply, and reconnect with yourself.\ud83e\udd57 DIY Salad Experience by Foodstories -Build your own wholesome bowl and enjoy a wholesome start to the day.\ud83d\udccd Foodstories, Ambience Mall, Vasant Kunj\ud83d\uddd3\ufe0f 21st June 2026\u23f0 8:00 AM \u2013 10:00 AMCome solo or bring your girls! This is a beginner-friendly, women-only experience.",
     "startDate": "2026-06-21T07:45:00+05:30",
     "endDate": "2026-06-21T10:00:00+05:30",
     "location": {
@@ -966,6 +1004,44 @@
     "keywords": [
       "Pop-up Event",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "BADDY WITH BADDIES (Gurugram)",
+    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.5:50 PM Meet up and Warm up Time6:00 PM Game TimeSee you on court!",
+    "startDate": "2026-06-21T18:00:00+05:30",
+    "endDate": "2026-06-21T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Sportyzo Badminton Academy, Emaar emerald hills, Golf Course Ext Rd, opposite Ivory Block, Sector 65, Gurugram, Haryana 122011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40465650000000000000",
+        "longitude": "77.07401440000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "250.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag4",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
       "URBANAUT"
     ]
   },
