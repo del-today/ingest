@@ -26,13 +26,111 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Fully redeemable cover charges of INR 500 applicable at the doors\n",
-            "inventoryLevel": 452,
+            "inventoryLevel": 450,
             "name": "Entry",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-green-park-shauharty-da-rookhs"
          }
       ],
       "startDate": "2026-07-01T20:00:00",
       "url": "https://www.skillboxes.com/events/grassroots-wednesdays-with-green-park-shauharty-da-rookhs"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Bringing back Solaric and Troubadour to DB after their top tier performances last time out!1+1 on the bar till 10pm.Gear up for a bender!",
+      "endDate": "2026-06-20T01:00:00",
+      "identifier": "com.skillboxes.37441",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/b3I0TFN3R2UyU0poY3ZlYXpqMmtFUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17817791767RIUzOVzxyO9Nbnz.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "",
+         "name": "To Be Decided"
+      },
+      "name": "DB Fridays w/ Solaric and Troubadour",
+      "offers": [ ],
+      "startDate": "2026-06-19T07:30:00",
+      "url": "https://www.skillboxes.com/events/db-fridays-w-solaric-and-troubadour-sbfgiuvr"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Join us for Utsarga, a vibrant cultural evening dedicated to bringing the Odia community together through connection, creativity, and celebration. Enjoy an engaging open mic, exciting games, and a fun-filled community jam session while cel",
+      "endDate": "2026-06-20T23:59:00",
+      "identifier": "com.skillboxes.37437",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1781775744UjNF9kl3Lj01Olt3.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Wellness & Self-Care"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "71-72, Jyoti Nivas College Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9328691",
+            "longitude": "77.6139355"
+         },
+         "name": "Blah Bla"
+      },
+      "name": "An Evening of Connection, Expression & Celebration",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 30,
+            "name": "Early Bird Free Pass",
+            "url": "https://www.skillboxes.com/events/ticket/an-evening-of-connection-expression-celebration-sbexpfrb"
+         }
+      ],
+      "startDate": "2026-06-20T17:00:00",
+      "url": "https://www.skillboxes.com/events/an-evening-of-connection-expression-celebration-sbexpfrb"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "db fridays returns on 19 June with Solaric and Troubadour behind the decks.Built around music and the dancefloor, DB StudioLab delivers a night of driving techno, club sounds and an intimate crowd",
+      "endDate": "2026-06-19T23:59:00",
+      "identifier": "com.skillboxes.37417",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/QU0rWHVCSTVYN01uSUwyL1ljckpWdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1781764464Nxa2PwAfRCjUgEqm.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "2nd floor, B block, Forum Rex Walk, Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9724674",
+            "longitude": "77.6068596"
+         },
+         "name": "db studiolab"
+      },
+      "name": "db fridays | Solaric & Troubadour | 1+1 Bar (10pm)",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Fully Redeemable on Food and Beverages, Entry for Couples\n",
+            "inventoryLevel": 15,
+            "name": "Earlier Bird Entry + Cover for Couples",
+            "url": "https://www.skillboxes.com/events/ticket/db-fridays-solaric-troubadour-1-1-bar-10pm"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entry for 1 Male Stag. Fully redeemable on food and Beverages\n",
+            "inventoryLevel": 15,
+            "name": "Early Bird Entry + Cover for Stags",
+            "url": "https://www.skillboxes.com/events/ticket/db-fridays-solaric-troubadour-1-1-bar-10pm"
+         }
+      ],
+      "startDate": "2026-06-19T21:30:00",
+      "url": "https://www.skillboxes.com/events/db-fridays-solaric-troubadour-1-1-bar-10pm"
    },
    {
       "@context": "https://schema.org",
@@ -852,7 +950,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charge of ₹500 applicable at entry, fully redeemable on food & beverage.\n",
-            "inventoryLevel": 5,
+            "inventoryLevel": 4,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/utopia-a-standup-comedy-solo-show-24"
          },
@@ -1007,7 +1105,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory cover charges applicable at gates\n",
-            "inventoryLevel": 81,
+            "inventoryLevel": 76,
             "name": "Guestlist- Male",
             "url": "https://www.skillboxes.com/events/ticket/technoaffairs-presents-maddog"
          },
@@ -1238,64 +1336,7 @@
          "name": "Novotel Bengaluru Outer Ring Road"
       },
       "name": "Fake promise s1",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "This amount is allows entry for one female and unlimited beverages (alcoholic and non-alcoholic) throughout the duration of the event\n",
-            "inventoryLevel": 999,
-            "name": "Female Phase 1",
-            "url": "https://www.skillboxes.com/events/ticket/fake-promise-s1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "This amount is allows entry for one male and unlimited beverages (alcoholic & non alcoholic) throughout the course of the event.\n",
-            "inventoryLevel": 1000,
-            "name": "Male Phase 1",
-            "url": "https://www.skillboxes.com/events/ticket/fake-promise-s1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "This amount allows entry strictly for a couple and unlimited beverages (alcoholic & non alcoholic) throughout the event.\n",
-            "inventoryLevel": 1000,
-            "name": "Couple Phase 1",
-            "url": "https://www.skillboxes.com/events/ticket/fake-promise-s1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "4 pax | this amount allows entry to a mixed group of four, with minimum 1 female, and unlimited beverages (alcoholic & non-alcoholic) throughout the event\n",
-            "inventoryLevel": 1000,
-            "name": "Group of 4",
-            "url": "https://www.skillboxes.com/events/ticket/fake-promise-s1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "This amount is allows entry for one female and unlimited beverages (alcoholic and non-alcoholic) throughout the duration of the event\n",
-            "inventoryLevel": 997,
-            "name": "Female Early Bird",
-            "url": "https://www.skillboxes.com/events/ticket/fake-promise-s1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "This amount is allows entry for one male and unlimited beverages (alcoholic & non alcoholic) throughout the course of the event.\n",
-            "inventoryLevel": 999,
-            "name": "Male Early Bird",
-            "url": "https://www.skillboxes.com/events/ticket/fake-promise-s1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "This amount allows entry strictly for a couple and unlimited beverages (alcoholic & non alcoholic) throughout the event.\n",
-            "inventoryLevel": 1000,
-            "name": "Couple Early Bird",
-            "url": "https://www.skillboxes.com/events/ticket/fake-promise-s1"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2026-06-20T15:00:00",
       "url": "https://www.skillboxes.com/events/fake-promise-s1"
    },
@@ -1332,110 +1373,6 @@
       ],
       "startDate": "2026-06-20T20:00:00",
       "url": "https://www.skillboxes.com/events/freak-opera-ft-yonti-gst-more-theburrowblr"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "SIANGYOO | Debut India Tour | Hyderabad",
-      "endDate": "2026-07-12T23:59:00",
-      "identifier": "com.skillboxes.37191",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1781081309Bqrt22wbiwypOqTm.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "",
-            "longitude": ""
-         },
-         "name": "To Be Announced"
-      },
-      "name": "SIANGYOO | Debut India Tour | Bengaluru",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "Phase 3 Female Pass",
-            "url": "https://www.skillboxes.com/events/ticket/siangyoo-debut-india-tour-bengaluru"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 99,
-            "name": "Phase 3 Male Pass",
-            "url": "https://www.skillboxes.com/events/ticket/siangyoo-debut-india-tour-bengaluru"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 20,
-            "name": "Backstage -  Female Pass",
-            "url": "https://www.skillboxes.com/events/ticket/siangyoo-debut-india-tour-bengaluru"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 20,
-            "name": "Backstage -  Male Pass",
-            "url": "https://www.skillboxes.com/events/ticket/siangyoo-debut-india-tour-bengaluru"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 958,
-            "name": "Female Pass",
-            "url": "https://www.skillboxes.com/events/ticket/siangyoo-debut-india-tour-bengaluru"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 962,
-            "name": "Phase 1 Female Pass",
-            "url": "https://www.skillboxes.com/events/ticket/siangyoo-debut-india-tour-bengaluru"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 929,
-            "name": "Male Pass",
-            "url": "https://www.skillboxes.com/events/ticket/siangyoo-debut-india-tour-bengaluru"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 13,
-            "name": "Phase 2 Female Pass",
-            "url": "https://www.skillboxes.com/events/ticket/siangyoo-debut-india-tour-bengaluru"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 946,
-            "name": "Phase 1 Male Pass",
-            "url": "https://www.skillboxes.com/events/ticket/siangyoo-debut-india-tour-bengaluru"
-         },
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "inventoryLevel": 0,
-            "name": "Phase 2 Male Pass",
-            "url": "https://www.skillboxes.com/events/ticket/siangyoo-debut-india-tour-bengaluru"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 48,
-            "name": "Phase 2 Couple Pass",
-            "url": "https://www.skillboxes.com/events/ticket/siangyoo-debut-india-tour-bengaluru"
-         }
-      ],
-      "startDate": "2026-07-12T20:00:00",
-      "url": "https://www.skillboxes.com/events/siangyoo-debut-india-tour-bengaluru"
    },
    {
       "@context": "https://schema.org",
@@ -1500,7 +1437,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "About Jamaica Moana:Jamaica Moana is a Sydney-based Māori (Ngāpuhi/Tainui) and Samoan artist, rapper, songwriter, and creative director whose work bridges contemporary music, cultural st",
+      "description": "About Jamaica Moana:\r\n\r\nJamaica Moana is a Sydney-based Māori (Ngāpuhi/Tainui) and Samoan artist, rapper, songwriter, and creative director whose work bridges contemporary music, cultural storytelling, and queer expressio",
       "endDate": "2026-06-28T23:59:00",
       "identifier": "com.skillboxes.37162",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YkM5YUkzb1JFbnltd25oanVpNnR6UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1780994762QQ8xVImTO1RTIxPI.jpg.webp",
@@ -1524,7 +1461,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "A fully redeemable cover charge of INR 1000 applicable at the doors\n",
-            "inventoryLevel": 489,
+            "inventoryLevel": 480,
             "name": "THT & Australian Consulate-General present Jamaica Moana",
             "url": "https://www.skillboxes.com/events/ticket/tht-australian-consulate-general-present-jamaica-moana"
          }
@@ -2307,7 +2244,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "About Thermal and A Quarter:Formed in Bangalore in 1996, Thermal and A Quarter better known as TAAQ  remains one of the most influential and enduring forces in Indian independent rock. With ",
+      "description": "About Thermal and A Quarter:\r\nFormed in Bangalore in 1996, Thermal and A Quarter better known as TAAQ  remains one of the most influential and enduring forces in Indian independent rock. With eight studio albums, chart-topping releases ",
       "endDate": "2026-06-20T23:59:00",
       "identifier": "com.skillboxes.36786",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YkM5YUkzb1JFbnltd25oanVpNnR6UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1780993411nLq4hdYAWCEidMS5.jpg.webp",
@@ -2331,7 +2268,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory Cover Charge of INR 1000 applicable at gates per person\n",
-            "inventoryLevel": 273,
+            "inventoryLevel": 245,
             "name": "Entry Ticket",
             "url": "https://www.skillboxes.com/events/ticket/the-humming-tree-presents-thermal-and-a-quarter-supported-by-dhuan"
          }
@@ -2365,7 +2302,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 66,
+            "inventoryLevel": 60,
             "name": "General Pass",
             "url": "https://www.skillboxes.com/events/ticket/eviction-notice-by-tanuki-2"
          }
@@ -2379,7 +2316,7 @@
       "description": "In 2020, Spotify launched RADAR with a clear mission: to identify, nurture, and amplify the next generation of global music talent. The RADAR Playlist on Spotify exists to build an ecosystem around the future of music, inviting audiences t",
       "endDate": "2026-06-19T23:59:00",
       "identifier": "com.skillboxes.36632",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YkM5YUkzb1JFbnltd25oanVpNnR6UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17797878050E492UAsGmQUSSaC.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YkM5YUkzb1JFbnltd25oanVpNnR6UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17816994613EYExdR9EsuQgXi2.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Club Gigs - Music"
@@ -2400,7 +2337,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Fully redeemable cover charge of INR 1000 applicable at the gate\n",
-            "inventoryLevel": 114,
+            "inventoryLevel": 66,
             "name": "General Entry",
             "url": "https://www.skillboxes.com/events/ticket/spotify-radar-live-sarah-black-aksomaniac-bhumi"
          }
@@ -2494,7 +2431,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charges applicable at gates.\n",
-            "inventoryLevel": 987,
+            "inventoryLevel": 985,
             "name": "Early Bird Pass",
             "url": "https://www.skillboxes.com/events/ticket/privilege-presents-prada2000-india-tour-bangalore-1"
          }
@@ -2626,15 +2563,9 @@
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "This ticket grants entry to any one day at the event.\n",
             "inventoryLevel": 998,
-            "name": "General Day 1 Pass",
-            "url": "https://www.skillboxes.com/events/ticket/ad-design-show-2026-bangalore-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "General Day 2 Pass",
+            "name": "Day Pass",
             "url": "https://www.skillboxes.com/events/ticket/ad-design-show-2026-bangalore-1"
          },
          {
@@ -2645,7 +2576,7 @@
             "url": "https://www.skillboxes.com/events/ticket/ad-design-show-2026-bangalore-1"
          }
       ],
-      "startDate": "2026-12-04T11:00:00",
+      "startDate": "2026-12-04T10:00:00",
       "url": "https://www.skillboxes.com/events/ad-design-show-2026-bangalore-1"
    },
    {
@@ -2802,7 +2733,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charges of INR 1000 applicable at gates.\n",
-            "inventoryLevel": 4,
+            "inventoryLevel": 3,
             "name": "Early Bird GA Pass",
             "url": "https://www.skillboxes.com/events/ticket/the-bpm-theory-x-nikolina-1"
          },
@@ -2853,7 +2784,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges Applicable At Entry\n",
-            "inventoryLevel": 68,
+            "inventoryLevel": 59,
             "name": "Phase 1 | Female Pass",
             "url": "https://www.skillboxes.com/events/ticket/arpit-bala-live-at-bangalore"
          },
@@ -2861,7 +2792,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket is valid for Age group of 18-21.   This tickets grants entry for Male or female to the event in student zone.  Cover charges applicable at entry\n",
-            "inventoryLevel": 938,
+            "inventoryLevel": 924,
             "name": "Phase 1 Student Pass",
             "url": "https://www.skillboxes.com/events/ticket/arpit-bala-live-at-bangalore"
          },
@@ -2869,7 +2800,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges Applicable At Entry\n",
-            "inventoryLevel": 81,
+            "inventoryLevel": 76,
             "name": "Phase 1 | Male Pass",
             "url": "https://www.skillboxes.com/events/ticket/arpit-bala-live-at-bangalore"
          },
@@ -2877,7 +2808,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges Applicable At Entry\n",
-            "inventoryLevel": 117,
+            "inventoryLevel": 113,
             "name": "Phase 1 | Couple Pass",
             "url": "https://www.skillboxes.com/events/ticket/arpit-bala-live-at-bangalore"
          },
@@ -2885,7 +2816,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges Applicable At Entry\n",
-            "inventoryLevel": 1993,
+            "inventoryLevel": 1992,
             "name": "Meet & Greet",
             "url": "https://www.skillboxes.com/events/ticket/arpit-bala-live-at-bangalore"
          },
@@ -3018,7 +2949,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 191,
+            "inventoryLevel": 189,
             "name": "ETERNAL DOMINION III ~ TICKETS",
             "url": "https://www.skillboxes.com/events/ticket/eternal-dominion-iii"
          },
@@ -3026,7 +2957,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Atmospheric, powerful, and emotionally charged rock that builds into explosive crescendos and unforgettable hooks.\n",
-            "inventoryLevel": 179,
+            "inventoryLevel": 173,
             "name": "B4 THE STARS - Pass",
             "url": "https://www.skillboxes.com/events/ticket/eternal-dominion-iii"
          },
@@ -3034,7 +2965,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "A relentless barrage of heavy riffs, speed, and classic metal energy that hits like a storm of distortion and thunder.\n",
-            "inventoryLevel": 187,
+            "inventoryLevel": 181,
             "name": "CROSSFIRE Pass",
             "url": "https://www.skillboxes.com/events/ticket/eternal-dominion-iii"
          },
@@ -3042,7 +2973,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Raw, rebellious, and built for chaos. High-energy rock that ignites the pit and keeps the crowd roaring.\n",
-            "inventoryLevel": 167,
+            "inventoryLevel": 166,
             "name": "THEO-RETICLE Pass",
             "url": "https://www.skillboxes.com/events/ticket/eternal-dominion-iii"
          },
@@ -3050,7 +2981,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Unpredictable, wild, and packed with attitude — a band that blends humor, punk spirit, and heavy grooves into a set you won’t forget.\n",
-            "inventoryLevel": 171,
+            "inventoryLevel": 166,
             "name": "I GOT THE WRONG TATTOO Pass",
             "url": "https://www.skillboxes.com/events/ticket/eternal-dominion-iii"
          }
@@ -3260,7 +3191,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Fully Redeemable at Venue\n",
-            "inventoryLevel": 462,
+            "inventoryLevel": 455,
             "name": "Venue Cover Charge",
             "url": "https://www.skillboxes.com/events/ticket/homebound-space-is-all-we-have"
          }
