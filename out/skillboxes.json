@@ -26,13 +26,197 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Fully redeemable cover charges of INR 500 applicable at the doors\n",
-            "inventoryLevel": 450,
+            "inventoryLevel": 448,
             "name": "Entry",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-green-park-shauharty-da-rookhs"
          }
       ],
       "startDate": "2026-07-01T20:00:00",
       "url": "https://www.skillboxes.com/events/grassroots-wednesdays-with-green-park-shauharty-da-rookhs"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Step into an unforgettable evening of smooth grooves, soulful melodies, and timeless blues at HYPE, Shangri-La Bengaluru.\nExperience a live performance by The Chronic Blues Circus, one of India's most celebrated blues a",
+      "endDate": "2026-06-26T22:00:00",
+      "identifier": "com.skillboxes.37476",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/ZkU0aFhZR0t6M25OUlVQZ3VNKzRrZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1781865396m2WcurpYM22MpNKc.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Fandom at Gilly's Redefined",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12",
+            "longitude": "77"
+         },
+         "name": "FANDOM"
+      },
+      "name": "JAZZ AND BLUES",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 50,
+            "name": "SINGLE ENTRY",
+            "url": "https://www.skillboxes.com/events/ticket/jazz-and-blues-sbieyedo"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 17,
+            "name": "BUDDY ENTRY",
+            "url": "https://www.skillboxes.com/events/ticket/jazz-and-blues-sbieyedo"
+         }
+      ],
+      "startDate": "2026-06-26T20:00:00",
+      "url": "https://www.skillboxes.com/events/jazz-and-blues-sbieyedo"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "SMXS White Party - Live at DND The Venue\r\n\r\nGet ready for Bangalores most stylish night of the season as Shameless Mani X Shanaya - SMXS take over DND - The Venue for an electrifying White Party experience\r\n\r\nDress in your finest whi",
+      "endDate": "2026-06-27T23:59:00",
+      "identifier": "com.skillboxes.37472",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1781859425YfzFm2Chl6nUwYdR.jpeg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "26, Haralur Main Rd, near HP Petrol Station, opposite to Mandovi motors, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9151965",
+            "longitude": "77.66612409999999"
+         },
+         "name": "DND - The Venue"
+      },
+      "name": "SMXS White Party - Live at DND The Venue",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional mandatory cover charges applicable at gates.\n",
+            "inventoryLevel": 1000,
+            "name": "Female Pass",
+            "url": "https://www.skillboxes.com/events/ticket/smxs-white-party-live-at-dnd-the-venue-sbhweoyy"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional mandatory cover charges applicable at gates.\n",
+            "inventoryLevel": 1000,
+            "name": "Couple Pass",
+            "url": "https://www.skillboxes.com/events/ticket/smxs-white-party-live-at-dnd-the-venue-sbhweoyy"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional mandatory cover charges applicable at gates.\n",
+            "inventoryLevel": 1000,
+            "name": "Male Pass",
+            "url": "https://www.skillboxes.com/events/ticket/smxs-white-party-live-at-dnd-the-venue-sbhweoyy"
+         }
+      ],
+      "startDate": "2026-06-27T20:00:00",
+      "url": "https://www.skillboxes.com/events/smxs-white-party-live-at-dnd-the-venue-sbhweoyy"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Experience an electrifying night of music entertainment and unforgettable vibes as Sonia Birje takes over DND - The VenueKnown for her dynamic performances and infectious energy Sonia Bir",
+      "endDate": "2026-06-26T23:59:00",
+      "identifier": "com.skillboxes.37471",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1781859061aaJuJMDOYne7IyNk.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "26, Haralur Main Rd, near HP Petrol Station, opposite to Mandovi motors, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9151965",
+            "longitude": "77.66612409999999"
+         },
+         "name": "DND - The Venue"
+      },
+      "name": "Sonia Birje Live at DND The Venue",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional mandatory cover charges applicable at gates.\n",
+            "inventoryLevel": 1000,
+            "name": "Female Pass",
+            "url": "https://www.skillboxes.com/events/ticket/sonia-birje-live-at-dnd-the-venue-sbhtzrrh"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional mandatory cover charges applicable at gates.\n",
+            "inventoryLevel": 1000,
+            "name": "Couple Pass",
+            "url": "https://www.skillboxes.com/events/ticket/sonia-birje-live-at-dnd-the-venue-sbhtzrrh"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional mandatory cover charges applicable at gates.\n",
+            "inventoryLevel": 1000,
+            "name": "Male Pass",
+            "url": "https://www.skillboxes.com/events/ticket/sonia-birje-live-at-dnd-the-venue-sbhtzrrh"
+         }
+      ],
+      "startDate": "2026-06-26T20:00:00",
+      "url": "https://www.skillboxes.com/events/sonia-birje-live-at-dnd-the-venue-sbhtzrrh"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Dust off your bell-bottoms, break out the polka dots, get ready to rewind the clock! DesiBells invites you to an enchanting evening with entirely dedicated to the timeless magic of retro Bollywood music. Singers- D",
+      "endDate": "2026-06-26T09:30:00",
+      "identifier": "com.skillboxes.37470",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/ZVdycUQ1YU1OV0ZmV3E2cGdaNHY5dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1781854825oopfB5dW68WMcd5d.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Open Air Music Festivals"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "126/5/4, Nallurahalli Main Rd, Palm Meadows, Siddapura, Whitefield, Bengaluru, Karnataka 560066, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9602491",
+            "longitude": "77.7326977"
+         },
+         "name": "Namma Ashram"
+      },
+      "name": "Desi Bells",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 19,
+            "name": "ticket for 1",
+            "url": "https://www.skillboxes.com/events/ticket/desi-bells-sbhruujq"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 20,
+            "name": "ticket for 2",
+            "url": "https://www.skillboxes.com/events/ticket/desi-bells-sbhruujq"
+         }
+      ],
+      "startDate": "2026-06-26T07:30:00",
+      "url": "https://www.skillboxes.com/events/desi-bells-sbhruujq"
    },
    {
       "@context": "https://schema.org",
@@ -456,7 +640,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entry for 1 Male Stag. Fully redeemable on food and Beverages\n",
-            "inventoryLevel": 15,
+            "inventoryLevel": 14,
             "name": "Early Bird Entry + Cover for Stags",
             "url": "https://www.skillboxes.com/events/ticket/db-fridays-solaric-troubadour-1-1-bar-10pm"
          }
@@ -636,15 +820,7 @@
          "name": "To Be Decided"
       },
       "name": "Urban Ritual",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 146,
-            "name": "Free Entry",
-            "url": "https://www.skillboxes.com/events/ticket/urban-ritual-1"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2026-06-19T07:30:00",
       "url": "https://www.skillboxes.com/events/urban-ritual-1"
    },
@@ -2171,8 +2347,8 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Early Bird pricing for a limited period.\nValid for one attendee. Non-refundable. Limited Early Bird tickets.",
-            "inventoryLevel": 43,
+            "description": "Early Bird pricing for a limited period.\nValid for one attendee. Non-refundable. 00Limited Early Bird tickets.",
+            "inventoryLevel": 92,
             "name": "Early Bird Pass",
             "url": "https://www.skillboxes.com/events/ticket/utsarga-celebrating-odia-heritage-culture-togetherness"
          },
@@ -2556,7 +2732,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory Cover Charge of INR 1000 applicable at gates per person\n",
-            "inventoryLevel": 245,
+            "inventoryLevel": 219,
             "name": "Entry Ticket",
             "url": "https://www.skillboxes.com/events/ticket/the-humming-tree-presents-thermal-and-a-quarter-supported-by-dhuan"
          }
@@ -2590,7 +2766,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 60,
+            "inventoryLevel": 56,
             "name": "General Pass",
             "url": "https://www.skillboxes.com/events/ticket/eviction-notice-by-tanuki-2"
          }
@@ -2623,9 +2799,9 @@
       "offers": [
          {
             "@type": "Offer",
-            "availability": "InStock",
+            "availability": "SoldOut",
             "description": "Fully redeemable cover charge of INR 1000 applicable at the gate\n",
-            "inventoryLevel": 66,
+            "inventoryLevel": 0,
             "name": "General Entry",
             "url": "https://www.skillboxes.com/events/ticket/spotify-radar-live-sarah-black-aksomaniac-bhumi"
          }
@@ -2659,7 +2835,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 477,
+            "inventoryLevel": 473,
             "name": "Pilgrims - Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/pilgrims-of-the-fault-live-at-the-raft-9"
          }
@@ -2719,7 +2895,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charges applicable at gates.\n",
-            "inventoryLevel": 985,
+            "inventoryLevel": 980,
             "name": "Early Bird Pass",
             "url": "https://www.skillboxes.com/events/ticket/privilege-presents-prada2000-india-tour-bangalore-1"
          }
@@ -3072,7 +3248,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges Applicable At Entry\n",
-            "inventoryLevel": 59,
+            "inventoryLevel": 51,
             "name": "Phase 1 | Female Pass",
             "url": "https://www.skillboxes.com/events/ticket/arpit-bala-live-at-bangalore"
          },
@@ -3080,7 +3256,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket is valid for Age group of 18-21.   This tickets grants entry for Male or female to the event in student zone.  Cover charges applicable at entry\n",
-            "inventoryLevel": 924,
+            "inventoryLevel": 905,
             "name": "Phase 1 Student Pass",
             "url": "https://www.skillboxes.com/events/ticket/arpit-bala-live-at-bangalore"
          },
@@ -3088,7 +3264,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges Applicable At Entry\n",
-            "inventoryLevel": 76,
+            "inventoryLevel": 69,
             "name": "Phase 1 | Male Pass",
             "url": "https://www.skillboxes.com/events/ticket/arpit-bala-live-at-bangalore"
          },
@@ -3096,7 +3272,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges Applicable At Entry\n",
-            "inventoryLevel": 113,
+            "inventoryLevel": 106,
             "name": "Phase 1 | Couple Pass",
             "url": "https://www.skillboxes.com/events/ticket/arpit-bala-live-at-bangalore"
          },
@@ -3104,7 +3280,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges Applicable At Entry\n",
-            "inventoryLevel": 1992,
+            "inventoryLevel": 1990,
             "name": "Meet & Greet",
             "url": "https://www.skillboxes.com/events/ticket/arpit-bala-live-at-bangalore"
          },
@@ -3237,7 +3413,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 189,
+            "inventoryLevel": 187,
             "name": "ETERNAL DOMINION III ~ TICKETS",
             "url": "https://www.skillboxes.com/events/ticket/eternal-dominion-iii"
          },
@@ -3245,7 +3421,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Atmospheric, powerful, and emotionally charged rock that builds into explosive crescendos and unforgettable hooks.\n",
-            "inventoryLevel": 173,
+            "inventoryLevel": 167,
             "name": "B4 THE STARS - Pass",
             "url": "https://www.skillboxes.com/events/ticket/eternal-dominion-iii"
          },
@@ -3253,7 +3429,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "A relentless barrage of heavy riffs, speed, and classic metal energy that hits like a storm of distortion and thunder.\n",
-            "inventoryLevel": 181,
+            "inventoryLevel": 177,
             "name": "CROSSFIRE Pass",
             "url": "https://www.skillboxes.com/events/ticket/eternal-dominion-iii"
          },
@@ -3269,7 +3445,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Unpredictable, wild, and packed with attitude — a band that blends humor, punk spirit, and heavy grooves into a set you won’t forget.\n",
-            "inventoryLevel": 166,
+            "inventoryLevel": 159,
             "name": "I GOT THE WRONG TATTOO Pass",
             "url": "https://www.skillboxes.com/events/ticket/eternal-dominion-iii"
          }
@@ -3479,7 +3655,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Fully Redeemable at Venue\n",
-            "inventoryLevel": 455,
+            "inventoryLevel": 453,
             "name": "Venue Cover Charge",
             "url": "https://www.skillboxes.com/events/ticket/homebound-space-is-all-we-have"
          }

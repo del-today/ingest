@@ -1,43 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Mo:Mo from Scratch, Sector 65",
-    "description": "Learn the Art of Himalayan Mo:MoFor the very first time, we're opening our kitchen doors for a fun chef-led Mo:Mo Masterclass!Step into the world of Himalayan cuisine and discover the secrets behind one of the region's most beloved dishes. This hands-on workshop will guide you through every stage of creating mo:mo from scratch \u2014 no experience required.What You'll ExperienceGet ready to roll, fold, fill, and feast! Under the guidance of our chef, you'll:\u2022 Make fresh mo:mo dough from scratch\u2022 Learn two traditional folding styles \u2014 the classic round and elegant moon shape\u2022 Fill your mo:mo with your choice of vegetable or paneer filling while learning how the filling is prepared\u2022 Master the techniques of steaming and pan-frying mo:mo to perfection\u2022 Plate your creations and enjoy them fresh with our signature house-made chutneysThis is a relaxed, interactive, and fun culinary experience designed for food lovers of all skill levels.What You'll Master\u2022 Prepare mo:mo dough from scratch\u2022 Fold traditional round and moon-shaped mo:mo\u2022 Fill, steam, and pan-fry mo:mo like a pro\u2022 Recreate the experience at home for friends and familyPerfect For\u2022 Date nights\u2022 Couples and friends\u2022 Team-building activities\u2022 Birthdays and bachelorette celebrations\u2022 Food enthusiasts looking to learn something newPlease Note\u2022 Arrive 15 minutes early for check-in\u2022 Dietary requirements can be accommodated with advance notice\u2022 Spaces are limited and booking is essential",
-    "startDate": "2026-06-19T17:00:00+05:30",
-    "endDate": "2026-06-19T19:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Ground Floor, AIPL Joy Central, GF-01, Golf Course Ext Rd, Sector 65, Gurugram, Haryana 122002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.40537820000000000000",
-        "longitude": "77.06050050000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Thamel",
-      "url": "https://urbanaut.app/partner/thamel"
-    },
-    "url": "https://urbanaut.app/spot/momo-from-scratch",
-    "keywords": [
-      "Workshop",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "The Matcha Circle",
     "description": "OverviewA shared matcha-making experience where simple acts of whisking, pouring, and preparing create calm.People gather over matcha, conversation, and the quiet rhythm of making something by hand. One cup at a time.Matcha Experience: A Taste of CalmExperience the calming art of green tea in a session dedicated to mindfulness and flavor. This gathering is designed to help you slow down and appreciate the details of a centuries old tradition. \"The Matcha Circle\" offers a peaceful space to learn, taste, and connect at the end of a long week.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to ExpectGuided Introduction: Learn about the history and the unique process of preparing matcha from farm to cup.The Ritual: Watch and learn how the tea is whisked to create its signature froth and deep flavor.Tasting Session: Enjoy a premium matcha drink prepared just for you at Cha & Co.Quiet Conversation: Join a small group setting to talk about finding moments of peace in a busy week over a comforting cup.Details\ud83d\uddd3\ufe0f Date: 19th June (Friday)\u23f0 Time: 6:00 PM\ud83d\udccd Location: Cha & Co, Grand View High Street\ud83c\udf75 Inclusion: Matcha drink included\ud83c\udf9f\ufe0f Fee: \u20b9700",
@@ -677,7 +640,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Celebrating Jamais (son-in-laws)",
-    "description": "June 20th is Jamai shosthi, a celebration where Bengali jamai or the son-in-law is feted and there is a competitive food binge party. On social media everyone of someone has started to talk about how obnoxious food binging is and ... Restaurants will compete to offer a lavish menu at the cheapest price. But is the day really about the jamai. The sixth day of the waxing moon in the Bengali month of Jyeshtha comes a celebration where the ecosystem is feted. And some incredible aromatic rice fills the fields with happiness during this time of the year. Come hear these stories. See tentative menu below",
+    "description": "AN ALL WOMAN JAMAI SHOSTHIAs Jamai Shoshti is on June 20th. We thought why not celebrate that day as a all woman day. Women have fun while the jamais are away. But is the day really about the jamai. The sixth day of the waxing moon in the Bengali month of Jyeshtha comes a celebration where the ecosystem is feted. And some incredible aromatic rice fills the fields with happiness during this time of the year. Come hear these stories, her voice. See menu below",
     "startDate": "2026-06-20T19:00:00+05:30",
     "endDate": "2026-06-20T22:00:00+05:30",
     "location": {
@@ -694,7 +657,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "2500.00",
+      "price": "3000.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -1603,6 +1566,44 @@
     "url": "https://urbanaut.app/spot/financial-literacy-workshop-for-kids",
     "keywords": [
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "THE ART ROOM BY WOMBS",
+    "description": "The Art Room by WOMBS is a warm, nurturing, and creative space designed for women in different stages of their maternal journey. It brings together art, expression, and meaningful conversations in a safe and supportive environment. Through guided creative activities, women can slow down, reflect, connect with themselves, and share experiences with others who may be on a similar path. The space encourages openness, healing, and community, making it a gentle reminder that motherhood and womanhood do not have to be experienced alone.",
+    "startDate": "2026-06-27T16:00:00+05:30",
+    "endDate": "2026-06-27T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "First Floor, Grand View High Street, Golf Course Ext Rd, Sector 58, Gurugram, Haryana 122098, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41623070000000000000",
+        "longitude": "77.10243700000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "WOMBS - Womens Optimum Mind & Body Support",
+      "url": "https://urbanaut.app/partner/wombs"
+    },
+    "url": "https://urbanaut.app/spot/the-art-room-by-wombs-5",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Art & culture",
       "URBANAUT"
     ]
   },

@@ -39,7 +39,7 @@
     "url": "https://fillum.in/screening/5652",
     "startDate": "2026-06-20T12:00:00+05:30",
     "endDate": "2026-06-20T12:00:00+05:30",
-    "description": "",
+    "description": "Based on the 1925 posthumously published novel of the same name by Franz Kafka. Followed by Kiarostami's 'Where is the Friend's House?'",
     "location": {
       "@type": "Place",
       "name": "Mool, South Ex II",
@@ -56,7 +56,7 @@
     "url": "https://fillum.in/screening/5653",
     "startDate": "2026-06-20T14:00:00+05:30",
     "endDate": "2026-06-20T14:00:00+05:30",
-    "description": "",
+    "description": "Khane-ye dust kojast? is a 1987 Iranian drama film written and directed by Abbas Kiarostami. Part of the Koker trilogy, it is a conscientious schoolboy's attempt to return his friend's school notebo..more",
     "location": {
       "@type": "Place",
       "name": "Mool, South Ex II",
@@ -82,6 +82,40 @@
     "organizer": {
       "@type": "Organization",
       "name": "Navrasa Duende Movie Club"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Solaris(1972)",
+    "url": "https://fillum.in/screening/5713",
+    "startDate": "2026-06-20T16:30:00+05:30",
+    "endDate": "2026-06-20T16:30:00+05:30",
+    "description": "Includes : Snacks | Drinks | Discussion",
+    "location": {
+      "@type": "Place",
+      "name": "iPley Music Studio, GK-1, South Delhi",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "SomeArt"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Butterfly's Tongue(1999)",
+    "url": "https://fillum.in/screening/5714",
+    "startDate": "2026-06-20T17:00:00+05:30",
+    "endDate": "2026-06-20T17:00:00+05:30",
+    "description": "By The Imprint Film Collective, in collaboration with Kunzum Books and the Embassy of Spain in New Delhi.",
+    "location": {
+      "@type": "Place",
+      "name": "Kunzum, GK-2",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fillum"
     }
   }
 ]
