@@ -140,12 +140,52 @@
     ]
   },
   {
+    "@type": "Event",
+    "name": "Virodhabhas",
+    "url": "https://www.knma.org/whats-on/events/virodhabhas",
+    "startDate": "2026-07-05T10:00:00+05:30",
+    "endDate": "2026-07-05T10:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
     "@type": "EducationEvent",
     "name": "Experimental Eco-printing",
     "url": "https://www.knma.org/whats-on/workshops/experimental-eco-printing-methods-whats-on-at-knma",
     "startDate": "2026-07-10T10:00:00+05:30",
     "endDate": "2026-07-11T18:00:00+05:30",
     "description": "Methods",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "IF ONLY (PLAY)",
+    "url": "https://www.knma.org/whats-on/events/if-only-play",
+    "startDate": "2026-07-22T10:00:00+05:30",
+    "endDate": "2026-07-24T18:00:00+05:30",
+    "description": "WeekendsatKNMA",
     "location": {
       "@type": "Place",
       "name": "KNMA, New Delhi",
