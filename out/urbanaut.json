@@ -1,157 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "RADIOHEAD TRIBUTE",
-    "description": "Jeff & Anupam honor Radiohead \u2014 an evening of haunting riffs and raw emotion at Project Otenga, Delhi. Saturday, June 20. Be there!",
-    "startDate": "2026-06-20T18:30:00+05:30",
-    "endDate": "2026-06-20T20:45:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Gate No. 1, Bahadur Shah Zafar Marg, inside Shaheedi park, Balmiki Basti, Vikram Nagar, New Delhi, Delhi, 110002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.63445520000000000000",
-        "longitude": "77.24131700000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "523.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Project Otenga",
-      "url": "https://urbanaut.app/partner/project-otenga"
-    },
-    "url": "https://urbanaut.app/spot/radiohead-tribute",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Open Mic",
-    "description": "\u2728 OPEN MIC AT THE IMMERSION ROOM \u2728Step into an evening of raw expression, creativity, and community as voices take center stage at The Immersion Room.This Open Mic is a space for you to listen, feel, and connect through the power of performance. From heartfelt poetry and soulful music to storytelling, stand-up comedy, and spoken word \u2014 every performance brings something unique to the room.As an audience member, you\u2019re not just watching a show \u2014 you\u2019re part of the energy. Expect an intimate, inspiring atmosphere where creativity flows freely and every voice is celebrated.\u2728 What to Expect:\u2022 Live performances across multiple art forms\u2022 Emerging and experienced artists sharing the stage\u2022 An intimate, community-driven creative evening\u2022 Music, laughter, emotion, and storytelling\u2022 A safe and welcoming space for artistic expression\ud83d\udcc5 Saturday, June 20\ud83d\udd55 Gates Open: 6:00 PM\ud83d\udccd The Immersion Room, DLF Phase 1Come as you are, sit back, and experience an evening where every story has a stage. \u2728",
-    "startDate": "2026-06-20T18:30:00+05:30",
-    "endDate": "2026-06-20T20:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "E5, Market Rd, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46575680000000000000",
-        "longitude": "77.09909929999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "299.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Immersion Room",
-      "url": "https://urbanaut.app/partner/theimmersionroom"
-    },
-    "url": "https://urbanaut.app/spot/aerial-yoga",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Table For Ten| Food Club - Latin American Edition",
-    "description": "Table for Ten is an intimate, 6-course, shared experience designed around a simple idea: that food is never just food. It holds the power to transport you to places, build memories and get you out of your comfort zone. For our next event, we\u2019re taking you on a flavour journey at Atticus with a thoughtfully curated Latin-inspired menu, immersive games, and a little Zindagi Na Milegi Dobara magic.New cuisines can be intimidating to try alone, and this event seeks to demystify that. It is not a theme party or a screening, yet we aim to capture some of the spirit of the movie at our event.During the event, you will:have a Latin-inspired six course mealhear directly from the chef about how they built each courseengage in games and activities capturing the spirit of Zindagi Na Milegi Dobaraexchange postcards with bucket list items from someone else at the tableWho Are We: We are Diya and Sanjula, a non-profit fundraiser who spends all her money trying out the new 'it' restaurant in town, and a therapist who would have been a food critic in another life. Between us, we share a belief that food is far more than what ends up on a plate. We can be contacted on Instagram @spoonsofdelhi or on WhatsApp at +91 8448577626 for any queries.",
-    "startDate": "2026-06-20T19:00:00+05:30",
-    "endDate": "2026-06-20T21:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "1st floor, N, 11, N Block, Greater Kailash I, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55641200000000000000",
-        "longitude": "77.23344600000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1950.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Table for Ten",
-      "url": "https://urbanaut.app/partner/table-for-ten"
-    },
-    "url": "https://urbanaut.app/spot/table-for-ten-food-club-latin-american-edition",
-    "keywords": [
-      "Leisure",
-      "Premium",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "A Spanish Summer Table at Paprika Tokri",
-    "description": "There is something about a warm Spanish summer table that asks you to slow down.A cold sip of something bright. Small plates passed from hand to hand. The smell of saffron, garlic, olive oil, and smoked paprika in the air. Laughter carrying across the table. The ease of arriving, settling in, and letting the evening unfold.For this edition of Paprika Tokri Supper Club, we are bringing that feeling to the farm.A Spanish Summer Table is an intimate supper built around tapas-style small plates, cocktails, and a Spanish-inspired summer menu shaped by melon, peppers, citrus, almonds, saffron, wine, candlelight, and the warmth of being together.We begin with a Clarified Bloody Mar\u00eda and small plates at the table, before moving slowly into a Spanish-inspired supper with piment\u00f3n butter roast chicken, farm pumpkin steak, saffron arroz meloso, and Spanish caramel custard to finish.This is not a rushed dinner. It is an evening to arrive, settle in, eat slowly, and share the table.Event DetailsDate: Saturday, 20 June 2026Time: 7:30 PM onwardsVenue: Paprika Tokri Farm, DelhiPrice: \u20b93,500 per personSeats: LimitedMENUTo beginClarified Bloody Mar\u00edatomato water, tequila, smoked paprika, citrus, olive brineSmall platesMelon, Manchego & Mintcold melon, Manchego, mint, black pepper, olive oilCucumber Boqueronesvinegar-cured cucumber ribbons, garlic, parsley, olive oil, chilliCharred Pepper, Olive & Caper Saladroasted bell peppers, olives, capers, garlic, parsley, olive oil, vinegarPadr\u00f3n-Style Green Chilliesblistered mild green chillies, olive oil, flaky saltStuffed Morels with Ajo Blancocream cheese and mushroom stuffing, chilled almond-garlic sauceKing Trumpet \"Scallops\"smoked paprika aioli, lemon, herbs, crispy garlicPrawn Pinchossmoked paprika, garlic, lemon, olive oilBefore the mainAgua de Valencia Spritzorange, sparkling wine, gin, citrusAt the tablePiment\u00f3n Butter Roast Chickensaffron arroz meloso, citrus-garlic chicken jus, charred summer beansFarm Pumpkin Steaksaffron arroz meloso, mojo rojo, crispy chickpeas, toasted pine nuts, Manchego shavings, herbsTo finishSpanish Caramel Custarddark caramel, orange zestPlease note:This is a fixed-menu supper club. Prior reservation is required. Kindly inform us about any dietary restrictions or allergies at the time of booking.",
-    "startDate": "2026-06-20T19:30:00+05:30",
-    "endDate": "2026-06-20T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Kh-29/2, Meher Farm, D. I. G. Estate, Aya Nagar Extension Jonapur Link Rd, Jona Pur, Jaunapur, New Delhi, Delhi 110047, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46915150000000000000",
-        "longitude": "77.14380680000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Paprika Tokri",
-      "url": "https://urbanaut.app/partner/paprika-tokri"
-    },
-    "url": "https://urbanaut.app/spot/a-spanish-summer-table-at-paprika-tokri",
-    "keywords": [
-      "Leisure",
-      "Premium",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Ruins, Trails Hiking & Picnic Escape",
     "description": "This sunrise hiking experience takes you through forest trails, old ruins, and scenic viewpoints for a refreshing early morning escape. It is a beginner-friendly outing that blends nature, light adventure, and storytelling, making it ideal for solo plans, couples, or small groups. Along the way, you can enjoy interesting stories, fun group moments, and a calm forest-bathing break before settling in for a picnic breakfast. The experience is a lovely mix of exploration, history, and connection, all wrapped into a peaceful morning outdoors.Beginner-friendly sunrise hike through forest trails and offbeat paths.Explore old ruins, hidden corners, and scenic viewpoints along the way.Enjoy storytelling around local legends, myths, and history.Take part in fun group games and a calming forest-bathing pause.Curated picnic breakfast included as part of the experience.Great for solo plans, couples, and small groups looking for a refreshing morning outdoors.Arrival & Meet-Up At 5:00 A.M.\u2022 Assemble by 5:00 A.M. at the meeting point for check-in and a short introduction.\u2022 The experience will begin at 5:15 A.M. sharp, so arriving on time will help you settle in comfortably before the hike starts.Briefing & Warm-Up\u2022 Meet the hike leaders, get a short safety briefing, and ease into the experience with a light ice-breaker and stories about the trail.Sunrise Hike Through Trails & Ruins\u2022 Begin the guided walk through forest trails, offbeat paths, and old ruins while taking in the fresh morning air and scenic views.Stories, Games & Forest Pause\u2022 Pause along the way for local legends, hidden history, fun group activities, and a calm forest-bathing moment.Picnic Breakfast & Wrap Up At 8:00-8:30 A.M\u2022 Unwind with a picnic breakfast in a scenic spot before making your way back with the group, wrapping up the experience by around 800-8:30 A.M.",
@@ -1192,6 +1041,43 @@
       "History & heritage",
       "Food & drink",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "#lecture33: How to Create Trustworthy DPI",
+    "description": "#lecture33After a short summer break, we're excited to be back with another Pint of View lecture and we're returning with a question that quietly shapes all of our digital lives.Every day, most of us unlock our phones, make a UPI payment, verify our identity with Aadhaar, or access digital public services without giving it a second thought. These systems have become so seamless that we rarely stop to ask a simple question:The real question isn't whether these systems work most of the time. It's whether we can be confident they'll behave correctly when it matters most. Can that confidence come from testing alone, or is there a way to prove it mathematically?As India continues to build one of the world's most ambitious Digital Public Infrastructure (DPI) ecosystems, trust is no longer just a policy question it's a technical one. A single flaw in software handling identity, financial transactions, or personal data can have consequences at an unprecedented scale.In this session, Dr. Vaishnavi Sundararajan, Assistant Professor at IIT Delhi, will introduce us to the fascinating world of formal verification, a branch of computer science that uses mathematics and logic to prove that software systems are secure, privacy-preserving, and function exactly as intended.Together, we'll explore questions that don't usually make it into everyday conversations about technology. Is strong encryption enough? Can software really be proven to be secure? How do governments know that systems handling billions of transactions won't fail in unexpected ways? And as India's Digital Personal Data Protection Act begins to shape how personal data is governed, what role can mathematical proofs play in building digital systems people can genuinely trust?Whether you're interested in technology, public policy, cybersecurity, mathematics, or simply curious about the invisible systems that power everyday life, this conversation offers an opportunity to look beneath the surface of the digital world we rely on every day.Event detailsSaturday, 27 June 20264:00 PM \u2013 6:00 PMThe Pint Room, Vasant Vihar, New DelhiJoin us for an evening of thoughtful conversation, fresh perspectives, and the kind of questions that stay with you long after the lecture ends.",
+    "startDate": "2026-06-27T16:00:00+05:30",
+    "endDate": "2026-06-27T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "D Block, D12, Market, above Bank Of India, Vasant Vihar, New Delhi, Delhi 110057, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.56148770000000000000",
+        "longitude": "77.15542750000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "899.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Pint of View Delhi NCR",
+      "url": "https://urbanaut.app/partner/pint-of-view-delhi-ncr"
+    },
+    "url": "https://urbanaut.app/spot/lecture33-how-to-create-trustworthy-dpi",
+    "keywords": [
+      "Leisure",
+      "Live GIG",
       "URBANAUT"
     ]
   },
