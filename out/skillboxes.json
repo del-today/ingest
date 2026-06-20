@@ -485,7 +485,7 @@
       "description": "Sick Tour, Kolkata’s long-running celebration of brutal music, after making louder impact in Delhi, it makes its way to Bangalore. After four successful editions featuring 25+ artists, this chapter brings a tightly packed",
       "endDate": "2026-07-17T23:59:00",
       "identifier": "com.skillboxes.37457",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/UG1zL1hBZVA4Z245UTRtcFd6a2ZVdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1781795644fke2YkdriRxJQNSO.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/UG1zL1hBZVA4Z245UTRtcFd6a2ZVdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1781878559RSjt97iCMqgnRJ2B.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Music Festivals"
@@ -501,7 +501,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "*750 Cover Charge Applicable (Redeemable)\n",
-            "inventoryLevel": 30,
+            "inventoryLevel": 24,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/bengaluru-underground-fest-sbgpjdod"
          },
@@ -539,7 +539,7 @@
       "description": "About the artist: Musalman is a mixed media performance which mixes storytelling with short films and sketches through which Falah Faisal leads you through the experiences that inspire",
       "endDate": "2026-06-25T20:00:00",
       "identifier": "com.skillboxes.37452",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YkM5YUkzb1JFbnltd25oanVpNnR6UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1781784849BH80kQShGpTdQsoa.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YkM5YUkzb1JFbnltd25oanVpNnR6UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1781861111wu1uQd7jYvu18nY1.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Comedy Events"
@@ -571,7 +571,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "BILLION ENTERTAINMENT PRESENTS — TWO RIVERS TOUR · BANGALORE 25th July · HamiltonThe Two Rivers Tour arrives in Bangalore — and the city's huge Northeast co",
+      "description": "BILLION ENTERTAINMENT PRESENTS — TWO RIVERS TOUR · BANGALORE 25th July · Hamilton\r\n\r\n \r\n\r\nThe Two Rivers Tour arrives in Bangalore — and the city's huge Northeast c",
       "endDate": "2026-07-25T23:59:00",
       "identifier": "com.skillboxes.37448",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/eFFUbWlFQjRUSThaaXZuOVhRK3liZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1781787834yJ3D95ukUpKyCPoS.jpg.webp",
@@ -595,7 +595,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "INR 500 cover charge apply\n",
-            "inventoryLevel": 24,
+            "inventoryLevel": 22,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/aj-maisnam-tuhin-handique-two-rivers-tour-bng-sbfvrbxg"
          },
@@ -722,7 +722,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free entry to the event Till 6PM Only, Post 6PM additional cover charges of INR 2000/- applicable per head.\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 999,
             "name": "Male Pass",
             "url": "https://www.skillboxes.com/events/ticket/paradisco-x-somad-pool-party-bengaluru-at-oia-mansion"
          }
@@ -935,11 +935,11 @@
          "geo": {
             "@type": "GeoCoordinates",
             "latitude": "12.937676",
-            "longitude": "77.62698619999999"
+            "longitude": "77.6269862"
          },
          "name": "Magique"
       },
-      "name": "Sound of Magique Ft. Skywalkerz",
+      "name": "Skywalkerz Live At Magique | Sunday",
       "offers": [
          {
             "@type": "Offer",
@@ -1678,7 +1678,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 985,
+            "inventoryLevel": 972,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/freak-opera-ft-yonti-gst-more-theburrowblr"
          }
@@ -2341,7 +2341,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charge of INR 500 per individual applicable at gate.\nFully redeemable on Food and beverages",
-            "inventoryLevel": 79,
+            "inventoryLevel": 54,
             "name": "Phase 2",
             "url": "https://www.skillboxes.com/events/ticket/the-think-floydian"
          },
@@ -3337,14 +3337,6 @@
       },
       "name": "Electric Monsoon By The Real Divas of Bangalore",
       "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "⚠️ IMPORTANT: An additional ₹500 venue cover charge per person is mandatory and payable directly at Jacks Bar upon entry. Event ticket price does not include the venue cover charge.\n₹500 cover charge is fully redeemable on food and beverages at the venue. Entry will only be permitted after payment of the applicable cover charge.",
-            "inventoryLevel": 12,
-            "name": "Early Birdie",
-            "url": "https://www.skillboxes.com/events/ticket/electric-monsoon-by-the-real-divas-of-bangalore"
-         },
          {
             "@type": "Offer",
             "availability": "InStock",
