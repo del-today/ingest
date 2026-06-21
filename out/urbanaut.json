@@ -2,80 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "FILTERED FREQUENCIES EP. 3 AT WORLD MUSIC DAY",
-    "description": "In celebration of World Music Day, we are proud to partner with Project Otenga to host a vibrant day of live music. This special event brings together a diverse lineup of talented musicians performing together to celebrate the universal language of music.The day opens with Indian Classical Musicians and enrolls into a saga of Raga's followed by Electronic Takeover and an empaneled discussion on Music as the key subject, while ending with acoustic sounds. ",
-    "startDate": "2026-06-21T10:00:00+05:30",
-    "endDate": "2026-06-21T20:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Gate No. 1, Bahadur Shah Zafar Marg, inside Shaheedi park, Balmiki Basti, Vikram Nagar, New Delhi, Delhi, 110002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.63445520000000000000",
-        "longitude": "77.24131700000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "450.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "VIBE IN",
-      "url": "https://urbanaut.app/partner/vibe-in"
-    },
-    "url": "https://urbanaut.app/spot/filteredfrequenciesvibein",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Festival",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Father's Day Celebration at ASUR Microbrewery",
-    "description": "This Father\u2019s Day: Skip the Clich\u00e9. Celebrate Big. \ud83d\ude80Let\u2019s be real\u2014Dad doesn't want another sleepy Sunday brunch or a generic tie. He wants great food, good vibes, and genuine catch-up time with his favorite people!This Sunday, take him out to Asur Microbrewery in Moti Nagar for a total flavor upgrade. We\u2019re firing up the ovens for hot, bubbling wood-fired pizzas and pouring fresh craft beer straight from our tanks.It\u2019s the ultimate, no-stress family hangout he actually wants. Spaces are limited, so choose your pass below, book your table, and let\u2019s make it a day to remember! \u2728",
-    "startDate": "2026-06-21T18:00:00+05:30",
-    "endDate": "2026-06-21T23:59:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Third Floor, 6A, Shivaji Marg, Moti Nagar, Karampura Industrial Area, Karam, New Delhi, Delhi, 110015, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.66239710000000000000",
-        "longitude": "77.15236970000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "999.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Asur - Microbrewery",
-      "url": "https://urbanaut.app/partner/asur-microbrewery"
-    },
-    "url": "https://urbanaut.app/spot/fathers-day-celebration-at-asur-microbrewery",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "5 Day Summer Camp",
     "description": "New Delhi Nature Society brings you a  fun-filled 5-day summer camp for children to explore nature and build a strong bond with the environment.Day 1: Forest Walk at Sanjay VanDay 2: Animal Interaction at Sainik FarmsDay 3: Tree Climbing at Nehru ParkDay 4: Farming at ChattarpurDay 5: Treasure Hunt at Lodhi GardenSafe, guided outdoor adventures with expert naturalists. Let your child enjoy a screen-free summer full of learning, play, and nature!Limited seats! \ud83c\udf31",
     "startDate": "2026-06-22T07:30:00+05:30",
@@ -1105,6 +1031,82 @@
     "url": "https://urbanaut.app/spot/mutualfunds101",
     "keywords": [
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Punjab Before Borders | Edition 1 Supper Club",
+    "description": "Punjab Before Borders \u2014 Edition 1A curated supper club celebrating Punjab\u2019s rich culinary and cultural heritage.Enjoy a 7-course meal inspired by traditional Punjabi recipes, paired with soulful folk music that sets a nostalgic, immersive atmosphere.An evening of food, music, and shared heritage.",
+    "startDate": "2026-07-04T19:00:00+05:30",
+    "endDate": "2026-07-04T23:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "New Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.61392980000000000000",
+        "longitude": "77.20882820000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Khoj",
+      "url": "https://urbanaut.app/partner/kho"
+    },
+    "url": "https://urbanaut.app/spot/punjab-before-borders-edition-1-supper-club",
+    "keywords": [
+      "Pop-up Event",
+      "History & heritage",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Taylor Swift Theme Party & Vinyl Listening",
+    "description": "Calling all Swifties! \ud83d\udc96Join us for an evening dedicated to Taylor Swift, filled with music, dancing, games, and glittering showgirl energy.\ud83c\udfb6 Vinyl listening session of The Life of a Showgirl\u2728 Taylor-inspired ramp walk\ud83c\udfb2 Fun Swiftie games & challenges\ud83d\udc83 Dance party featuring your favorite Taylor hits\ud83d\udcf8 Photo moments & friendship bracelet exchangesDress Code: Bejewelled \u2022 Glam \u2022 Showgirl \ud83d\udc8e\ud83d\udcc5 5 July 2026| \ud83d\udccd Siyah Arthouse | \u23f0 4-8pmCome dressed in your favorite era and ready to shake it off. \u2728**Please Note:** The venue has a mandatory cover charge of \u20b9250 per person, which is separate from the event ticket price. This amount is fully redeemable against food and beverages purchased at the venue.",
+    "startDate": "2026-07-05T16:00:00+05:30",
+    "endDate": "2026-07-05T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Siyah Arthouse, 3rd Floor 261, Plot 8, Westend Marg, Saidulajab, Saket, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.51653950000000000000",
+        "longitude": "77.19738550000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Shoshabaazi",
+      "url": "https://urbanaut.app/partner/shoshabaazi"
+    },
+    "url": "https://urbanaut.app/spot/taylor-swift-theme-party-vinyl-listening",
+    "keywords": [
+      "Music",
+      "Food & drink",
+      "Art & culture",
       "URBANAUT"
     ]
   }

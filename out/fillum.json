@@ -1,1 +1,138 @@
-[]
+[
+  {
+    "@type": "ScreeningEvent",
+    "name": "Kangbo Aloti(2025)",
+    "url": "https://fillum.in/screening/5619",
+    "startDate": "2026-06-22T18:30:00+05:30",
+    "endDate": "2026-06-22T18:30:00+05:30",
+    "description": "Free and open to all.",
+    "location": {
+      "@type": "Place",
+      "name": "C. D. Deshmukh Auditorium, India International Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "India International Centre"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Nudo Mixteco(2021)",
+    "url": "https://fillum.in/screening/5608",
+    "startDate": "2026-06-25T18:00:00+05:30",
+    "endDate": "2026-06-25T18:00:00+05:30",
+    "description": "Free entry. Post-screening discussion.",
+    "location": {
+      "@type": "Place",
+      "name": "Instituto Cervantes",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Instituto Cervantes Nueva Delhi"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Joseph's Son(2023)",
+    "url": "https://fillum.in/screening/5620",
+    "startDate": "2026-06-25T18:30:00+05:30",
+    "endDate": "2026-06-25T18:30:00+05:30",
+    "description": "Free and open to all.",
+    "location": {
+      "@type": "Place",
+      "name": "C. D. Deshmukh Auditorium, India International Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "India International Centre"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "All the Colours of the World Are Between Black and White(2023)",
+    "url": "https://fillum.in/screening/5704",
+    "startDate": "2026-06-25T18:30:00+05:30",
+    "endDate": "2026-06-25T18:30:00+05:30",
+    "description": "Free entry.",
+    "location": {
+      "@type": "Place",
+      "name": "M. L. Bhartia Auditorium, Alliance Fran\u00e7aise",
+      "address": "Lodhi Road, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Alliance Fran\u00e7aise de Delhi"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Tenfa(2026)",
+    "url": "https://fillum.in/screening/5737",
+    "startDate": "2026-06-25T18:30:00+05:30",
+    "endDate": "2026-06-25T18:30:00+05:30",
+    "description": "Free entry. Post-screening discussion with the filmmaker.",
+    "location": {
+      "@type": "Place",
+      "name": "Press Club of India, Raisina Road",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fillum"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Apollo 13(1995)",
+    "url": "https://fillum.in/screening/5734",
+    "startDate": "2026-06-26T14:30:00+05:30",
+    "endDate": "2026-06-26T14:30:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "American Center, Kasturba Gandhi Marg",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "American Center New Delhi"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Love & Revolution(2023)",
+    "url": "https://fillum.in/screening/5609",
+    "startDate": "2026-06-26T18:00:00+05:30",
+    "endDate": "2026-06-26T18:00:00+05:30",
+    "description": "Free entry. Post-screening discussion.",
+    "location": {
+      "@type": "Place",
+      "name": "Instituto Cervantes",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Instituto Cervantes Nueva Delhi"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Loondry For One(2026)",
+    "url": "https://fillum.in/screening/5720",
+    "startDate": "2026-06-28T10:00:00+05:30",
+    "endDate": "2026-06-28T10:00:00+05:30",
+    "description": "Loondry For One is a coming-of-age comedy about a young woman rolling her own version of Sisyphus\u2019 boulder uphill. But what happens when the laundry finally gets done and there\u2019s nothing left to..more",
+    "location": {
+      "@type": "Place",
+      "name": "Mool, B-17, Basement, South Extension II, Block B",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Pitara"
+    }
+  }
+]
