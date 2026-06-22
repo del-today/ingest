@@ -1,23 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "Kangbo Aloti(2025)",
-    "url": "https://fillum.in/screening/5619",
-    "startDate": "2026-06-22T18:30:00+05:30",
-    "endDate": "2026-06-22T18:30:00+05:30",
-    "description": "Free and open to all.",
-    "location": {
-      "@type": "Place",
-      "name": "C. D. Deshmukh Auditorium, India International Centre",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "India International Centre"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "Nudo Mixteco(2021)",
     "url": "https://fillum.in/screening/5608",
     "startDate": "2026-06-25T18:00:00+05:30",
@@ -120,19 +103,36 @@
   },
   {
     "@type": "ScreeningEvent",
-    "name": "Loondry For One(2026)",
-    "url": "https://fillum.in/screening/5720",
-    "startDate": "2026-06-28T10:00:00+05:30",
-    "endDate": "2026-06-28T10:00:00+05:30",
-    "description": "Loondry For One is a coming-of-age comedy about a young woman rolling her own version of Sisyphus\u2019 boulder uphill. But what happens when the laundry finally gets done and there\u2019s nothing left to..more",
+    "name": "Auto Queens(2025)",
+    "url": "https://fillum.in/screening/5739",
+    "startDate": "2026-06-26T18:00:00+05:30",
+    "endDate": "2026-06-26T18:00:00+05:30",
+    "description": "The screening of AutoQueens and Tenfa will be followed by a Q&A with the directors Nihaarika Negi and Sraiyanti",
     "location": {
       "@type": "Place",
-      "name": "Mool, B-17, Basement, South Extension II, Block B",
-      "address": "South Ex II, New Delhi"
+      "name": "Alliance Fran\u00e7aise (ML Bhartia auditorium)",
+      "address": "Lodhi Road, New Delhi"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Pitara"
+      "name": "Indie Talkies CSH"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Tenfa(2026)",
+    "url": "https://fillum.in/screening/5740",
+    "startDate": "2026-06-26T18:00:00+05:30",
+    "endDate": "2026-06-26T18:00:00+05:30",
+    "description": "The screening of Tenfa and AutoQueens will be followed by a Q&A with the directors Nihaarika Negi and Sraiyanti",
+    "location": {
+      "@type": "Place",
+      "name": "Alliance Fran\u00e7aise (ML Bhartia auditorium)",
+      "address": "Lodhi Road, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Indie Talkies CSH"
     }
   }
 ]
