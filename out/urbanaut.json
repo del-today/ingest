@@ -964,6 +964,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Raat Ke Afsane : Qutub Minar",
+    "description": "Experience the magic of Qutub Minar like never before\u2014under the stars and glowing lights. This is a guided heritage walk led by a historian, who will take you through the stunning Qutub complex after dark. As the entire site is beautifully illuminated at night, the minaret shines like Delhi\u2019s very own Eiffel Tower\u2014majestic, mysterious, and unforgettable.Walk through centuries of history, discover forgotten stories, and explore Delhi\u2019s medieval past through engaging storytelling. The play of light, shadow, and silence transforms this heritage site into something truly cinematicPlaces we will cover : 1. Mughal Serai2. Alai Minar3. Iltutmish Tomb4. Qutub Minar5. Iron Pilar6. 27 Jain and hindu temples7. Alai Darwaza8. Alauddin Khilji grave and madarsa .Important Points:  1. Details of the heritage walk will be mailed to you when you book the tickets2. No guided fees for kids below 5.3. Medium of communication : Hindi and English4. Please note that in case of unavoidable external reasons such as (weather conditions, political rallies, VIP movement, powercut) the walk may be canceled. The participant has the liberty to take another walk by the company against the payment they have made within 30 days since the date of the registered walk.5. The company does not have refund policy.",
+    "startDate": "2026-06-28T18:30:00+05:30",
+    "endDate": "2026-06-28T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Qutub Minar Complex Rd, Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52371860000000000000",
+        "longitude": "77.18469040000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/raat-ke-afsane-qutub-minar",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Soundgasms with Mohit - music production workshop",
     "description": "A 4-Week Music Production Workshop with Mohit Sen GuptaWhat does it take to turn an idea into a finished piece of music?Soundgasms with Mohit is a four-week deep dive into the art and craft of music production, led by producer, composer, and educator Mohit Sain Gupta. Designed for aspiring producers, musicians, artists, and curious beginners, this workshop focuses on the entire journey, from the first spark of an idea to a track that\u2019s ready to be shared with the world.Across four weeks, Mohit will break down his creative process and introduce participants to the tools, techniques, and workflows used in contemporary music production. Through live demonstrations, hands-on exercises, and group feedback, you\u2019ll learn how to build beats, shape sounds, arrange ideas, and bring your musical vision to life.What You\u2019ll Learn\u2022\u2060 \u2060The fundamentals of music production\u2022\u2060 \u2060Beat-making and rhythm programming\u2022\u2060 \u2060Melody, harmony, and arrangement\u2022\u2060 \u2060Working with DAWs and production software\u2022\u2060 \u2060Sampling and sound selection\u2022\u2060 \u2060Recording and audio processing basics\u2022\u2060 \u2060Mixing fundamentals\u2022\u2060 \u2060Building an efficient creative workflow\u2022\u2060 \u2060Taking a track from concept to completionWho Is This For?\u2022\u2060 \u2060Aspiring music producers\u2022\u2060 \u2060Independent artists and musicians\u2022\u2060 \u2060Songwriters looking to self-produce\u2022\u2060 \u2060Creatives curious about electronic music and beat-making\u2022\u2060 \u2060Complete beginners looking for a place to startWorkshop Details\u2022\u2060 \u2060Duration: 4 Weeks\u2022\u2060 \u2060Format: In-person, interactive sessions\u2022\u2060 \u2060-Capacity: Limited to 20 participantsonly limited slots for participants to choose to attend only one session(2 classes)\u2022-\u2060 \u2060Led by: Mohit Sen GuptaWith only 20 seats available, Soundgasms is designed to be intimate, collaborative, and hands-on, giving every participant the opportunity to learn, experiment, and receive direct guidance throughout the program.Whether you\u2019re opening production software for the first time or looking to refine your process, this workshop will help you understand not just how to make music, but how to develop a creative practice of your own.20 participants. 4 weeks. One journey from idea to finished sound.29th June - 22nd July, 2026, 4pm-6pm, every Monday and Wednesday. Venue: Baithak, Gully Labs store, Panchsheel Park ",
