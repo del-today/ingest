@@ -594,6 +594,41 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Am I The Asshole",
+    "description": "Bringing the internet's favourite question to life. Am I the Asshole is a live event where our host and guests tackle the eternal question: were they the asshole?Come watch a live panel debate real world dilemmas, shocking online threads, and anonymous submissions straight from the audience. No filters. No holding back. You hold the voting power. You decide who's right.Event Flow6:30 PM-Doors open6:30 PM-People can drink and submit their AITA questions (mix and match from online and in person situations)7:00 PM-The host introduces themselves and a guest or two (TBD)7:00 to 7:20-Hosts and guests do a personal AITA of their own. Audience takes a vote.7:20 to 7:30-Choose an AITA from the audience. Discuss and audience takes a vote.7:30 to 7:40-Choose an AITA from online submissions. Discuss and audience takes a vote.7:40 to 7:50-Choose an AITA from the audience. Discuss and audience takes a vote.7:50 to 8:00-Final thoughts and good night.8:00 to 10:00-Music and drinks around the store.",
+    "startDate": "2026-06-27T18:30:00+05:30",
+    "endDate": "2026-06-27T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "628.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
+    },
+    "url": "https://urbanaut.app/spot/am-i-the-asshole",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Night Heritage walk :  Humayun's Tomb & Museum",
     "description": "Step into the grandeur of Humayun's Tomb with us for an immersive Night heritage walk that goes beyond stone and symmetry.Curated by Darwesh Heritage Walks in collaboration with Sabhyata Foundation.We will not only explore the monument\u2019s magnificent architecture, its Persian influences, and its place in the evolution of Mughal design \u2014 but also rediscover Humayun himself, perhaps the most underestimated of the Mughals. His struggles, exile, return, and legacy shaped the empire in ways we rarely pause to notice.\"Driven from his throne, yet never from his destiny's embrace,Humayun's return laid the path on which Akbar would leave his trace\"Our journey will then continue to the Humayun's Tomb Museum \u2014 because no visit to the tomb is truly complete without experiencing the stories, artefacts, and narratives preserved there.Come, walk through history \u2014 and meet the emperor behind the monument.",
     "startDate": "2026-06-27T19:00:00+05:30",
