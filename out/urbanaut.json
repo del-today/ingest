@@ -109,6 +109,43 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Friday Table",
+    "description": "OverviewA Friday evening dinner. Home-cooked food, a small table, and people you don't know yet but might want to.No theme, no agenda, no networking. Just dinner with strangers who are also a little tired of surface-level socialising. The food is the excuse. The people are the point. If you've been looking for a table to pull up a chair to, this one's for you.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to expectDinner: Home-cooked food, served and eaten together. Nothing fancy, nothing performative. Just a meal that gives everyone a reason to be in the same room.Conversation: The kind that doesn't have an agenda. You might talk about everything or nothing in particular. Either way, you'll leave having actually spoken to someone.Details\ud83d\uddd3\ufe0f Date: 26th June\u23f0 Time: 7:30 pm onwards\ud83d\udccd Location: Nirvana Country, Sector 50, Gurgaon\ud83c\udf9f\ufe0f Contribution: \u20b9900 ",
+    "startDate": "2026-06-26T19:30:00+05:30",
+    "endDate": "2026-06-26T22:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Nirvana Country, Sector 50, Gurugram, Haryana, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41242990000000000000",
+        "longitude": "77.06652000000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "900.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/friday-table",
+    "keywords": [
+      "Leisure",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Rocky Trails & Sunrise Picnic at Mangar Lake",
     "description": "This sunrise hiking experience takes you through rocky trails, scenic ridge lines, and a beautiful lakeside setting for a refreshing morning outdoors. It blends light adventure, calm nature moments, and fun group interactions, making it a great pick for beginners, couples, friends, and solo plans. The experience also includes a guided hike with experienced leaders, a curated picnic breakfast, storytelling, fun group activities, and basic first-aid support. It is a well-rounded outdoor escape that brings together movement, views, conversation, and a memorable breakfast in nature.Arrival & Meet-Up At 5:00 A.M.\u2022 Assemble by 5:00 A.M. at the meeting point for check-in and a short introduction.\u2022 The experience will begin at 5:15 A.M. sharp, so arriving on time will help you settle in comfortably before the hike starts.Briefing & Warm-Up\u2022 Meet the hike leaders, get a short safety briefing, and ease into the experience with a light ice-breaker and stories about the trail.Sunrise Hike Through Trails & Ruins\u2022 Begin the guided walk through forest trails, offbeat paths, and old ruins while taking in the fresh morning air and scenic views.Stories, Games & Forest Pause\u2022 Pause along the way for local legends, hidden history, fun group activities, and a calm forest-bathing moment.Picnic Breakfast & Wrap Up At 8:00-8:30 A.M.\u2022 Unwind with a picnic breakfast in a scenic spot before making your way back with the group, wrapping up the experience by around 8:30 A.M.",
@@ -706,6 +743,42 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Overthinkers Anonymous",
+    "description": "OverviewA gentle support circle for thoughts that feel a little too loud.A space to speak, reflect, or simply sit among people who understand emotional overwhelm.This edition explores a different kind of loneliness \u2014 the kind that exists even when life looks socially full. We'll talk about emotional disconnection, feeling unseen, surface-level conversations, difficulty forming close relationships, and why so many of us feel alone even when we're surrounded by people.Say as much or as little as you want. Come as you are.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to expectSharing: The session is built around honest conversation. People share what is on their mind, what they are carrying, what they keep coming back to.Group Discussion: We talk it through together. No advice unless asked, no pressure to have it figured out. Just people listening and being listened to.Details\ud83d\uddd3\ufe0f Date: 28th June (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Thamel, Golf Course Ext. Road\ud83c\udf9f\ufe0f Contribution: \u20b9700",
+    "startDate": "2026-06-28T11:30:00+05:30",
+    "endDate": "2026-06-28T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ground Floor, AIPL Joy Central, GF-01, Golf Course Ext Rd, Sector 65, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40537820000000000000",
+        "longitude": "77.06050050000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/overthinkers-anonymous",
+    "keywords": [
+      "Wellness",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Exaaj- An Assamese Lunch",
     "description": "Exaaj khabole ahibo. Come have a meal with us. On 28th June, we\u2019re bringing Assam to Sidecar.In Assamese, Exaaj means a meal. Not just food on a plate, but the act of gathering around a table, sharing stories, and being fed with care. For one afternoon, The Nourished Ritual brings that spirit to Delhi with a menu inspired by Bohag Bihu and the flavours of an Assamese home kitchen.Expect river fish, bamboo shoot, fiddlehead fern, pitikas, dal tenga and dishes that rarely make it onto restaurant menus, cooked the way they\u2019ve always been cooked.No tasting menu. No fine dining theatrics. Just a proper Assamese meal shared around the table.\u20b92,800 veg thaali (AI) \u00b7 \u20b93,500 non-veg thaali (AI)(Includes set thaali and two cocktails)",
@@ -1004,7 +1077,7 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Soundgasms with Mohit - music production workshop",
-    "description": "A 4-Week Music Production Workshop with Mohit Sen GuptaWhat does it take to turn an idea into a finished piece of music?Soundgasms with Mohit is a four-week deep dive into the art and craft of music production, led by producer, composer, and educator Mohit Sain Gupta. Designed for aspiring producers, musicians, artists, and curious beginners, this workshop focuses on the entire journey, from the first spark of an idea to a track that\u2019s ready to be shared with the world.Across four weeks, Mohit will break down his creative process and introduce participants to the tools, techniques, and workflows used in contemporary music production. Through live demonstrations, hands-on exercises, and group feedback, you\u2019ll learn how to build beats, shape sounds, arrange ideas, and bring your musical vision to life.What You\u2019ll Learn\u2022\u2060 \u2060The fundamentals of music production\u2022\u2060 \u2060Beat-making and rhythm programming\u2022\u2060 \u2060Melody, harmony, and arrangement\u2022\u2060 \u2060Working with DAWs and production software\u2022\u2060 \u2060Sampling and sound selection\u2022\u2060 \u2060Recording and audio processing basics\u2022\u2060 \u2060Mixing fundamentals\u2022\u2060 \u2060Building an efficient creative workflow\u2022\u2060 \u2060Taking a track from concept to completionWho Is This For?\u2022\u2060 \u2060Aspiring music producers\u2022\u2060 \u2060Independent artists and musicians\u2022\u2060 \u2060Songwriters looking to self-produce\u2022\u2060 \u2060Creatives curious about electronic music and beat-making\u2022\u2060 \u2060Complete beginners looking for a place to startWorkshop Details\u2022\u2060 \u2060Duration: 4 Weeks\u2022\u2060 \u2060Format: In-person, interactive sessions\u2022\u2060 \u2060-Capacity: Limited to 20 participantsonly limited slots for participants to choose to attend only one session(2 classes)\u2022-\u2060 \u2060Led by: Mohit Sen GuptaWith only 20 seats available, Soundgasms is designed to be intimate, collaborative, and hands-on, giving every participant the opportunity to learn, experiment, and receive direct guidance throughout the program.Whether you\u2019re opening production software for the first time or looking to refine your process, this workshop will help you understand not just how to make music, but how to develop a creative practice of your own.20 participants. 4 weeks. One journey from idea to finished sound.29th June - 22nd July, 2026, 4pm-6pm, every Monday and Wednesday. Venue: Baithak, Gully Labs store, Panchsheel Park ",
+    "description": "A 4-Week Music Production Workshop with Mohit SenGuptaWhat does it take to turn an idea into a finished piece of music?Soundgasms with Mohit is a four-week deep dive into the art and craft of music production, led by producer, composer, and educator Mohit SenGupta. Designed for aspiring producers, musicians, artists, and curious beginners, this workshop focuses on the entire journey, from the first spark of an idea to a track that\u2019s ready to be shared with the world.Across four weeks, Mohit will break down his creative process and introduce participants to the tools, techniques, and workflows used in contemporary music production. Through live demonstrations, hands-on exercises, and group feedback, you\u2019ll learn how to build beats, shape sounds, arrange ideas, and bring your musical vision to life.What You\u2019ll Learn\u2022\u2060 \u2060The fundamentals of music production\u2022\u2060 \u2060Beat-making and rhythm programming\u2022\u2060 \u2060Melody, harmony, and arrangement\u2022\u2060 \u2060Working with DAWs and production software\u2022\u2060 \u2060Sampling and sound selection\u2022\u2060 \u2060Recording and audio processing basics\u2022\u2060 \u2060Mixing fundamentals\u2022\u2060 \u2060Building an efficient creative workflow\u2022\u2060 \u2060Taking a track from concept to completionWho Is This For?\u2022\u2060 \u2060Aspiring music producers\u2022\u2060 \u2060Independent artists and musicians\u2022\u2060 \u2060Songwriters looking to self-produce\u2022\u2060 \u2060Creatives curious about electronic music and beat-making\u2022\u2060 \u2060Complete beginners looking for a place to startWorkshop Details\u2022\u2060 \u2060Duration: 4 Weeks\u2022\u2060 \u2060Format: In-person, interactive sessions\u2022\u2060 \u2060-Capacity: Limited to 20 participantsonly limited slots for participants to choose to attend only one session(2 classes)\u2022-\u2060 \u2060Led by: Mohit SenGuptaWith only 20 seats available, Soundgasms is designed to be intimate, collaborative, and hands-on, giving every participant the opportunity to learn, experiment, and receive direct guidance throughout the program.Whether you\u2019re opening production software for the first time or looking to refine your process, this workshop will help you understand not just how to make music, but how to develop a creative practice of your own.20 participants. 4 weeks. One journey from idea to finished sound.29th June - 22nd July, 2026, 4pm-6pm, every Monday and Wednesday.Venue: Baithak, Gully Labs store, Panchsheel Park",
     "startDate": "2026-06-29T16:00:00+05:30",
     "endDate": "2026-06-29T18:00:00+05:30",
     "location": {
@@ -1069,6 +1142,44 @@
     "url": "https://urbanaut.app/spot/mutualfunds101",
     "keywords": [
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Apartment Cafe Supper Club",
+    "description": "Apartment Caf\u00e9: A Melbourne-Inspired Brunch Experience By V's Supper Stories4th July | 12:00pm - 3pm5th July | 12:00pm - 3pmFor one weekend, we're bringing a little bit of Melbourne's caf\u00e9 culture to Delhi.Expect a leisurely brunch featuring house-made granola, toasted banana bread, corn fritters with avocado and whipped feta, shakshuka, mushrooms on toast, brioche French toast with caramelised bananas, good coffee, and shared tables.Designed around the idea of slow mornings and long conversations, Apartment Caf\u00e9 is less about rushing through a meal and more about taking your time.Come for the brunch. Stay for the company.What's Included:Full Melbourne-inspired brunch menuCoffee bar Limited seats available.",
+    "startDate": "2026-07-04T12:00:00+05:30",
+    "endDate": "2026-07-05T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "10West, Sant Nagar, Sainik Farm, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52049300000000000000",
+        "longitude": "77.20161399999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "V's Supper Stories",
+      "url": "https://urbanaut.app/partner/vsupperstories"
+    },
+    "url": "https://urbanaut.app/spot/apartmentcafe",
+    "keywords": [
+      "Local",
+      "Pop-up Event",
+      "Food & drink",
       "URBANAUT"
     ]
   },
