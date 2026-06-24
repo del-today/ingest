@@ -525,7 +525,7 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Mughal Princess\u2019s World Through Food",
+    "name": "Mughal Princesses\u2019 World Through Food",
     "description": "Dastarkhwan-e-BegamaatZaikanama presents two lunches at the dastarkhwan of the Mughal BegamaatTwo women, a century apart, recovered through what they ate.The official record kept the wars and lost the women. Gulbadan wrote the household down herself because no one else would. Jahanara ran a court and a city and left her mark on Delhi\u2019s streets. This is their world, rebuilt from the period\u2019s own logic and read through the cloth they gathered around. No table. A dastarkhwan, the spread laid on the ground that a meal sits on and a household forms around.Six courses each lunch, served family-style.Gulbadan. The early Mughal world, still in motion. A dastarkhwan rolled up at dawn and unrolled by the next river. Exile, return, Kabul remembered across three kingdoms, a palate carrying Central Asia in a fold of fabric and slowly learning Hindustan.Jahanara. The same cloth, a hundred years on, spread across marble. The empire has stopped moving. Rosewater, saffron, the confidence of a court at its height, and a princess who shaped the city it ruled from.One lunch leaves home. The other arrives. Together they trace a single line, from the tent to the marble, from longing to power.The dishes stay between us and the guests who sit down to them. Seats are limited.\ud83d\uddd3\ufe0f 27\u201328 June 2026\ud83d\udd5c 1:30 PM onwards\ud83d\udccd South Delhi",
     "startDate": "2026-06-27T13:30:00+05:30",
     "endDate": "2026-06-28T15:30:00+05:30",
@@ -784,7 +784,7 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Am I The Asshole",
+    "name": "Am I The Asshole?",
     "description": "Bringing the internet's favourite question to life. Am I the Asshole is a live event where our host and guests tackle the eternal question: were they the asshole?Come watch a live panel debate real world dilemmas, shocking online threads, and anonymous submissions straight from the audience. No filters. No holding back. You hold the voting power. You decide who's right.Event Flow6:30 PM-Doors open6:30 PM-People can drink and submit their AITA questions (mix and match from online and in person situations)7:00 PM-The host introduces themselves and a guest or two (TBD)7:00 to 7:20-Hosts and guests do a personal AITA of their own. Audience takes a vote.7:20 to 7:30-Choose an AITA from the audience. Discuss and audience takes a vote.7:30 to 7:40-Choose an AITA from online submissions. Discuss and audience takes a vote.7:40 to 7:50-Choose an AITA from the audience. Discuss and audience takes a vote.7:50 to 8:00-Final thoughts and good night.8:00 to 10:00-Music and drinks around the store.",
     "startDate": "2026-06-27T18:30:00+05:30",
     "endDate": "2026-06-27T22:00:00+05:30",
@@ -1447,6 +1447,43 @@
       "Leisure",
       "Wellness",
       "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ScreeningEvent",
+    "name": "F1 Austrian Grand Prix Screening",
+    "description": "Austrian Grand Prix Screening at the BaithakEngines on. Beers open. Race day at Gully Labs.Round 8 of the 2026 F1 World Championship is happening this Sunday and we're watching it the right way. Cold Proost in hand, BRB snacks on the table, and a room that actually loses its mind when someone overtakes into turn one.The championship is a mess right now. Antonelli leads. Hamilton just won in Barcelona out of nowhere. Russell is lurking. 71 laps around the Red Bull Ring - the shortest, most chaotic track on the calendar - and anything can happen.Come for the race. Stay for the chaos.What's Included\ud83c\udf7a Unlimited Proost beer\ud83c\udf5f BRB snacksThe Details\ud83d\udccd Baithak, Gully Labs Store, Panchsheel Park, New Delhi\ud83d\uddd3\ufe0f Sunday, June 28\ud83d\udeaa Doors open at 6:00 PM\ud83c\udfc1 Lights out at 6:30 PMFree entry. Limited space.",
+    "startDate": "2026-06-28T18:30:00+05:30",
+    "endDate": "2026-06-28T21:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "628.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
+    },
+    "url": "https://urbanaut.app/spot/f1-austrian-grand-prix-screening",
+    "keywords": [
+      "Leisure",
+      "Food & drink",
       "URBANAUT"
     ]
   },
