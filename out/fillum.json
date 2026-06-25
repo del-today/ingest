@@ -120,14 +120,48 @@
   },
   {
     "@type": "ScreeningEvent",
-    "name": "Pyaasa(1957)",
-    "url": "https://fillum.in/screening/5748",
-    "startDate": "2026-06-27T16:30:00+05:30",
-    "endDate": "2026-06-27T16:30:00+05:30",
-    "description": "Snacks \u2022 Drinks \u2022 DiscussionVenue is walking distance from Kailash Colony Market, Greater Kailash Market",
+    "name": "Seven Samurai(1954)",
+    "url": "https://fillum.in/screening/5651",
+    "startDate": "2026-06-27T12:00:00+05:30",
+    "endDate": "2026-06-27T12:00:00+05:30",
+    "description": "This three-hour ride from Akira Kurosawa, featuring legendary actors Toshiro Mifune and Takashi Shimura, seamlessly weaves philosophy and entertainment, delicate human emotions and relentless action..more",
     "location": {
       "@type": "Place",
-      "name": "iPley music Studio, GK-1, South-Delhi",
+      "name": "Mool, South Ex II",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "El Topo(1970)",
+    "url": "https://fillum.in/screening/5655",
+    "startDate": "2026-06-27T12:00:00+05:30",
+    "endDate": "2026-06-27T12:00:00+05:30",
+    "description": "El Topo is quintessentially psychedelic and often described as an acid Western film, and the surreal symbolism, iconoclastic imagery, and dream logic employed showcase its trippy, metaphoric element..more",
+    "location": {
+      "@type": "Place",
+      "name": "Niv Art Centre, Saket",
+      "address": "Sainik Farm, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "The Silence(1963)",
+    "url": "https://fillum.in/screening/5755",
+    "startDate": "2026-06-27T12:15:00+05:30",
+    "endDate": "2026-06-27T12:15:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "iPley Music Studio, GK-1, South-Delhi",
       "address": "Delhi"
     },
     "organizer": {
