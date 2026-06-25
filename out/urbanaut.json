@@ -2,42 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "The Midlife Crisis | Online",
-    "description": "The idea of a \"midlife crisis\" has been around for decades. But is that really what most people experience?Join us for an open conversation about the realities of midlife: what changes, what surprises us, and what this phase of life can make possible.We often hear midlife described as a crisis. Yet for many people, it feels more like a transition. A period of questioning, recalibration, and new possibilities.Work may feel different. Relationships evolve. Priorities shift. What once seemed important may no longer hold the same meaning, while new interests, aspirations, and ways of living begin to emerge.This 90-minute online sharing circle offers a space to reflect on these changes, hear diverse perspectives, and connect with others navigating their own midlife journey. Whether you're rethinking work, relationships, identity, purpose, or what comes next, this conversation invites curiosity rather than certainty.Come as you are. Leave with new perspectives, fresh questions, and a sense that you are not navigating this transition alone.",
-    "startDate": "2026-06-25T18:30:00+05:30",
-    "endDate": "2026-06-25T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "New Delhi, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.61392980000000000000",
-        "longitude": "77.20882820000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Zuva Life",
-      "url": "https://urbanaut.app/partner/zuvalife"
-    },
-    "url": "https://urbanaut.app/spot/midlifecrisis-delhi",
-    "keywords": [
-      "Virtual",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "5 Day Summer Camp",
     "description": "New Delhi Nature Society brings you a  fun-filled 5-day summer camp for children to explore nature and build a strong bond with the environment.Day 1: Forest Walk at Sanjay VanDay 2: Animal Interaction at Sainik FarmsDay 3: Tree Climbing at Nehru ParkDay 4: Farming at ChattarpurDay 5: Treasure Hunt at Lodhi GardenSafe, guided outdoor adventures with expert naturalists. Let your child enjoy a screen-free summer full of learning, play, and nature!Limited seats! \ud83c\udf31",
     "startDate": "2026-06-26T07:30:00+05:30",
@@ -747,7 +711,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Am I The Asshole?",
-    "description": "Bringing the internet's favourite question to life. Am I the Asshole is a live event where our host and guests tackle the eternal question: were they the asshole?Come watch a live panel debate real world dilemmas, shocking online threads, and anonymous submissions straight from the audience. No filters. No holding back. You hold the voting power. You decide who's right.Event Flow6:30 PM-Doors open6:30 PM-People can drink and submit their AITA questions (mix and match from online and in person situations)7:00 PM-The host introduces themselves and a guest or two (TBD)7:00 to 7:20-Hosts and guests do a personal AITA of their own. Audience takes a vote.7:20 to 7:30-Choose an AITA from the audience. Discuss and audience takes a vote.7:30 to 7:40-Choose an AITA from online submissions. Discuss and audience takes a vote.7:40 to 7:50-Choose an AITA from the audience. Discuss and audience takes a vote.7:50 to 8:00-Final thoughts and good night.8:00 to 10:00-Music and drinks around the store.",
+    "description": "Bringing the internet's favourite question to life. Am I the Asshole is a live event where our host and guests tackle the eternal question: were they the asshole?Come watch a live panel debate real world dilemmas, shocking online threads, and anonymous submissions straight from the audience. No filters. No holding back. You hold the voting power. You decide who's right.",
     "startDate": "2026-06-27T18:30:00+05:30",
     "endDate": "2026-06-27T22:00:00+05:30",
     "location": {
@@ -1711,6 +1675,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Begum & her Hookah heritage walk : Chandni Chowk",
+    "description": "Join us as we excavate the little known stories of the women who through the changing and often challenging times have continued to enrich the city\u2019s historical and cultural landscape. We will meander through streets around the Chandni Chowk area, sharing stories of Begums, shadows Empresses, Nautch girls, Milk mothers, Havelis and Harems. As we walk the by-lanes of Shahjahanabad looking for stories of the bygone era, making the women who shaped the city and its history our focus, you can relish a special snack at an age old shop on the way.Milestones of our journey will be:1.\tDigambar Jain Temple (Lal Mandir), Sunehri Masjid, Gauri Shankar temple, Sis Ganj Gurudwara\t2.\tBegum Samru Ki haveli3.\tDariba Kalan (Silver Street): The Street of the Incomparable Pearl4.\tKinari Bazaar(Wedding street)5.\tNaughara  (Nine Jain houses)6.\tParanthe wali Gali 7.\tTownhall building8.\tLala Chunnamal ki Haveli9.\tFatehpuri Masjid : (Built in 1650s by emperor Shahjahan\u2019s wife Fatehpuri Begum)10.\tKhari Baoli (the biggest spice market in Asia)",
+    "startDate": "2026-07-05T08:00:00+05:30",
+    "endDate": "2026-07-05T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Chandni Chowk, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.65053310000000000000",
+        "longitude": "77.23033699999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/begum-her-hookah-heritage-walk-chandni-chowk",
+    "keywords": [
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Taylor Swift Theme Party & Vinyl Listening",
     "description": "Calling all Swifties! \ud83d\udc96Join us for an evening dedicated to Taylor Swift, filled with music, dancing, games, and glittering showgirl energy.\ud83c\udfb6 Vinyl listening session of The Life of a Showgirl\u2728 Taylor-inspired ramp walk\ud83c\udfb2 Fun Swiftie games & challenges\ud83d\udc83 Dance party featuring your favorite Taylor hits\ud83d\udcf8 Photo moments & friendship bracelet exchangesDress Code: Bejewelled \u2022 Glam \u2022 Showgirl \ud83d\udc8e\ud83d\udcc5 5 July 2026| \ud83d\udccd Siyah Arthouse | \u23f0 4-8pmCome dressed in your favorite era and ready to shake it off. \u2728**Please Note:** The venue has a mandatory cover charge of \u20b9250 per person, which is separate from the event ticket price. This amount is fully redeemable against food and beverages purchased at the venue.",
@@ -1789,7 +1791,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Slow Burn - A 4 Course Drinking Experience",
-    "description": "Step into The Love Hotel for an immersive cocktail tasting experience featuring four expertly crafted cocktails, a welcome shot on arrival, and four perfectly paired bite-sized dishes. Inspired by the playful charm and nostalgia of Japanese retro love hotels, this curated flight is designed to take you on a journey of bold flavours, unexpected pairings, and unforgettable moments.",
+    "description": "Tucked into a corner of Lodhi Colony, The Love Hotel is Delhi's best-kept secret \u2014 a 20-seat cocktail room that takes its cues from the love hotels of Japan. It's intimate without being intense, flirtatious without trying too hard.Slow Burn is a four-course cocktail tasting built for this room \u2014 but where most tasting menus put food at the centre, here the cocktails play hero.It begins the second you walk in with a welcome shot. From there, four cocktails unfold in sequence \u2014 each its own chapter, drawn from the same five-taste philosophy that powers The Love Hotel's acclaimed program. Every pour lands with a course of tapas alongside it.An evening where the spirit leads, and the plate follows. And with only twenty seats, the room stays intimate & exclusive.",
     "startDate": "2026-07-09T18:00:00+05:30",
     "endDate": "2026-07-09T00:00:00+05:30",
     "location": {
@@ -1818,6 +1820,81 @@
     "url": "https://urbanaut.app/spot/slow-burn-martini-cocktail-tasting-menu",
     "keywords": [
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Partition 1947 & Delhi heritage walk @Purana Qila",
+    "description": "Join Us for Partition 1947 & Delhi heritage walk & Baithak at Purana QilaA heritage experience curated by Darwesh heritage walks in collaboration with Sabhyata Foundation at one of the refugee camps in Delhi i.e. the Purana QilaFrom nuclear proliferation to terrorism, the Partition of India continues to cast its shadow even today. Join us for a Baithak that seeks to understand the complex experiences of Partition\u2014an event that remains deeply misunderstood both within and beyond the subcontinent. Through facts, poetry, literature, photographs, paintings, and personal belongings, we will revisit this significant chapter of history. Discover how Partition shaped Delhi\u2019s culture and internal geography.Kuch Pal Purana Qila Ke Naam! (suitable for 10 years & above)*Duration: 2 hours approx * Language: A blend of Hindi, Urdu & English(Special invitation to senior citizens, as this session involves less walking!)* Baithak Host: Nitika-Meeting point: Purana Qila ticket counter --Nearest metro station: Supreme Court- Instagram: Darwesh_taleweavers",
+    "startDate": "2026-07-12T08:00:00+05:30",
+    "endDate": "2026-07-12T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Mathura Rd, Near Delhi Zoo, J65V+RFH, Pragati Maidan, New Delhi, Delhi 110001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.60957440000000000000",
+        "longitude": "77.24373709999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/purqheritage",
+    "keywords": [
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "INNER CHILD",
+    "description": "INNER Child: An Evening of Colour, Clay & ConversationWhere: Project OtengaWhen: Saturday, 18th July, 2026Time: 3:30 PM \u2013 8:00 PM\u2022 A soft evening of art, clay, and connection.\u2022 Come play, create, and reconnect. \ud83c\udf3f\u2022 Colour, clay, music, and mindful moments.\u2022 An immersive journey back to your inner child.",
+    "startDate": "2026-07-18T15:30:00+05:30",
+    "endDate": "2026-07-18T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Bahadur Shah Zafar Marg, Balmiki Basti, Vikram Nagar, New Delhi, Delhi, 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.63437330000000000000",
+        "longitude": "77.24172150000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2600.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Project Otenga",
+      "url": "https://urbanaut.app/partner/project-otenga"
+    },
+    "url": "https://urbanaut.app/spot/inner-child",
+    "keywords": [
+      "Leisure",
+      "Pop-up Event",
       "URBANAUT"
     ]
   },
@@ -1861,6 +1938,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Safdarjung Tomb: Night Heritage Walk",
+    "description": "Safdarjung\u2019s Tomb Night Heritage Walk(curated by Darwesh heritage walks in collaboration with Sabhyata Foundation)Join us for a journey into the fading glow of Mughal splendour at Safdarjung's Tomb \u2014 often called the *last flicker of Mughal grandeur* in Delhi.Built in 1754 for Safdarjung, the powerful Nawab of Awadh and Prime Minister of the Mughal court, this monument stands at the twilight of an empire \u2014 grand in ambition, yet carrying within it the quiet signs of decline.Its story is as fascinating as its form. From courtly intrigues and shifting loyalties to the architectural choices that reveal a changing political landscape, Safdarjung\u2019s life opens a compelling window into 18th-century Delhi.We will also trace a lesser-known layer of its history \u2014 how this tomb was constructed by reusing material from a pre-existing Mughal structure, quite literally building one memory over another.To truly understand Delhi \u2014 its rise, its resilience, and its gradual transitions \u2014 a visit to Safdarjung\u2019s Tomb is essential.Come, walk with us through the final chapter of Mughal architectural brilliance \u2014 where grandeur meets gravity, and history lingers in every arch.",
+    "startDate": "2026-07-18T18:00:00+05:30",
+    "endDate": "2026-07-18T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Airforce Golf Course, Delhi Race Club, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.58941560000000000000",
+        "longitude": "77.21062190000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/safdtombwalk",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Badass Begum: Women Architecture in Old Delhi",
     "description": "Badass Begums: An Old Delhi Heritage WalkA guided heritage walk through the lanes of Old Delhi exploring the stories of the women who shaped its history. The walk focuses on the lives, influence and cultural presence of the Begums of Mughal-era Delhi.Led by author and historian Anoushika Jain, the experience shares stories of women who contributed to politics, culture, art, food traditions and social life. The walk is designed as a storytelling experience with narration and interaction along the route.The walk takes participants through Old Delhi and concludes with a curated food experience. It also includes select takeaways for participants.Language of communication is Hindi and English.",
@@ -1898,6 +2013,82 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "MATKI",
+    "description": "Join us for MATKI\u2014an immersive evening of storytelling, live music, interaction, and a specially curated dining experience shared around one table.\ud83d\udccd Project Otenga, Delhi\ud83d\udcc5 Sunday, 19 July 2026\u23f0 7:00 PM onwardsLeave with stories, conversations, and memories worth carrying.\ud83c\udf9f\ufe0f BOOK NOW TO AVAIL EARLY BIRD DISCOUNT.",
+    "startDate": "2026-07-19T19:00:00+05:30",
+    "endDate": "2026-07-19T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gate No. 1, Bahadur Shah Zafar Marg, inside Shaheedi park, Balmiki Basti, Vikram Nagar, New Delhi, Delhi, 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.63445520000000000000",
+        "longitude": "77.24131700000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1200.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Project Otenga",
+      "url": "https://urbanaut.app/partner/project-otenga"
+    },
+    "url": "https://urbanaut.app/spot/matki",
+    "keywords": [
+      "Live GIG",
+      "Food & drink",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Sacred Footsteps : Sufi Trail of Mehrauli",
+    "description": "Step into the mystical lanes and forgotten ruins of Mehrauli and the enchanting Mehrauli Archaeological Park through the lens of Sufism.Sacred Footsteps: Sufi trails \ud83d\udc63 of MehrauliJoin us for a deeply immersive heritage walk where history, spirituality, poetry, and love legends intertwine. Together, we will explore medieval ruins, hidden stories, sacred spaces, and the Sufi imagination that once shaped the soul of Mehrauli.Curated by Darwesh Heritage Walks, in collaboration with Sabhyata Foundation.Along the way, we will also revisit the timeless love legend of Heer\u2013Ranjha through a Sufi lens \u2014 not merely as a romance, but as a metaphor for divine longing & surrender.The walk will conclude with a visit to a living Sufi space where we reflect upon the continuing spiritual traditions that still breathe within Mehrauli today.\ud83d\udccd Mehrauli Archaeological Park & Village\ud83d\udcc5 25th July\u23f0 8:00 AM onwardsMeeting point: Outside Qutub Minar ticket counter.    \ud83d\udcde 99 99 8 96427Curated by Darwesh Heritage Walks, in collaboration with Sabhyata Foundation.(Please note: The fee being charged is not for entry into any monument or shrine . It is purely for the curated and guided storytelling experience.)",
+    "startDate": "2026-07-25T08:00:00+05:30",
+    "endDate": "2026-07-25T10:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52447540000000000000",
+        "longitude": "77.18552059999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/sufiwalkmehrauli",
+    "keywords": [
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Bazar-i-Husn :  exploring Tawaif culture",
     "description": "Step into the world of grace, wit, and artistry as we explore the lives of Tawaifs\u2014the courtesans who once defined high culture, poetry, and performance in Delhi. This walk takes you through old city lanes that once echoed with ghazals, thumris, and the quiet power of women who shaped taste and tradition.Uncover the layered stories of kothas\u2014not as places of shame, but as salons of sophistication, resistance, and refined art. Let\u2019s reclaim these narratives and see history through a different lens.",
@@ -1927,6 +2118,44 @@
       "url": "https://urbanaut.app/partner/enrouteindianhistory"
     },
     "url": "https://urbanaut.app/spot/bazar-i-husn-exploring-tawaif-culture",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Nizamuddin Heritage walk on Sufism and Poetry",
+    "description": " SUFISM & POETRY IN NIZAMUDDIN BASTI An immersive heritage walk through the lanes, stories, music, and living traditions of one of Delhi\u2019s most evocative historic quarters (Nizamuddin Basti)Join Darwesh Heritage Walks for an evening exploring the layered world of Sufi thought, medieval Delhi, oral traditions, poetry, music, and the cultural landscape that evolved around the spiritual legacy of Hazrat Nizamuddin Auliya and Amir Khusrau.From forgotten Ghalib ki Mazaar and medieval structures to poetic memories carried through the basti\u2019s winding lanes, this walk seeks to understand how love, devotion, mysticism, and art shaped the soul of the city.The walk includes storytelling, historical interpretation, and discussions around Sufism, poetry, architecture, and the intangible cultural heritage associated with the area.Disclaimer:  The tour route is in public areas over which we have no control/preferred access. \"Monument entry fee (if any) shall be payable separately to the requisite authorities only in the manner prescribed by such authorities.\"",
+    "startDate": "2026-07-26T17:00:00+05:30",
+    "endDate": "2026-07-26T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Bharat Scouts and Guides Marg, opposite Humayun Tomb Park, Nizamuddin, Hazrat Nizamuddin, National Zoological Park, Sundar Nagar, New Delhi, Delhi 110013, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59564670000000000000",
+        "longitude": "77.24516910000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/sufinizwalk",
     "keywords": [
       "Walking Tour",
       "History & heritage",
