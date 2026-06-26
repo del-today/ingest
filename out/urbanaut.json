@@ -228,7 +228,7 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Hot Girls Do Pilates | SWAG x BASI (Model Town)",
-    "description": "Let\u2019s make your Sunday morning extra feel-good with Hot Girs Do Pilates, a guided pilates experience by SWAG \ud83d\udc9bWe have both reformer and mat pilates, but spots are limited!Come and feel fitter in the company of like-minded women, and stayback for a quick coffee/tea and some chit-chat!",
+    "description": "Let\u2019s make your Sunday morning extra feel-good with Hot Girs Do Pilates, a guided pilates experience by SWAG \ud83d\udc9b We have both reformer and mat pilates, but spots are limited!Come and feel fitter in the company of like-minded women, and stayback for a quick coffee/tea and some chit-chat!",
     "startDate": "2026-06-27T11:00:00+05:30",
     "endDate": "2026-06-27T12:00:00+05:30",
     "location": {
@@ -245,7 +245,7 @@
     "typicalAgeRange": "25+",
     "offers": {
       "@type": "Offer",
-      "price": "1399.00",
+      "price": "999.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -703,44 +703,6 @@
     },
     "url": "https://urbanaut.app/spot/am-i-the-asshole",
     "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Night Heritage walk :  Humayun's Tomb & Museum",
-    "description": "Step into the grandeur of Humayun's Tomb with us for an immersive Night heritage walk that goes beyond stone and symmetry.Curated by Darwesh Heritage Walks in collaboration with Sabhyata Foundation.We will not only explore the monument\u2019s magnificent architecture, its Persian influences, and its place in the evolution of Mughal design \u2014 but also rediscover Humayun himself, perhaps the most underestimated of the Mughals. His struggles, exile, return, and legacy shaped the empire in ways we rarely pause to notice.\"Driven from his throne, yet never from his destiny's embrace,Humayun's return laid the path on which Akbar would leave his trace\"Our journey will then continue to the Humayun's Tomb Museum \u2014 because no visit to the tomb is truly complete without experiencing the stories, artefacts, and narratives preserved there.Come, walk through history \u2014 and meet the emperor behind the monument.",
-    "startDate": "2026-06-27T19:00:00+05:30",
-    "endDate": "2026-06-27T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Hazrat Nizamuddin Aulia Dargah, Mathura Rd, Nizamuddin, Nizamuddin East, New Delhi, Delhi 110013, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59328480000000000000",
-        "longitude": "77.25074920000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "800.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "DARWESH_TALEWEAVERS",
-      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
-    },
-    "url": "https://urbanaut.app/spot/humayuntomb",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
       "URBANAUT"
     ]
   },
@@ -1527,6 +1489,42 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "uL: Does Virtue Survive Darwinian Competition?",
+    "description": "Join us for a lecture that takes on one of the oldest puzzles in human behaviour:Why do good people stay good, even when no one is watching?About the LectureWe like to believe that virtue is its own reward. But the world doesn't always work that way. Opportunists cut corners. Free riders coast on the honesty of others. And in a system governed by competition and survival, you'd expect the cheaters to win, eventually.And yet, they don't. Not always.This raises a question that has puzzled economists, biologists, and philosophers alike: In a Darwinian world built on the survival of the fittest, why hasn't virtue been driven to extinction?This lecture draws on evolutionary game theory \u2014 a field that uses the logic of strategy and competition to understand how behaviours survive and spread \u2014 to explore why cooperation persists in a world that seems designed to reward selfishness.About the SpeakerBrishti Guha has a PhD from Princeton University. After teaching abroad, she now teaches economics at Jawaharlal Nehru University (JNU), specialising in game theory, law and economics, behavioural economics, and institutions.She has published extensively in international academic journals and writes prolifically in the popular press \u2014 not only about economics, but also about her other area of deep interest: ancient India and Sanskrit literature. She has published translations, retellings, and essays on these topics in literary magazines, and has an upcoming book with Westland that innovatively uses her own translations from Sanskrit literature to shed light on ancient Indian history.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-07-04T16:00:00+05:30",
+    "endDate": "2026-07-04T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shop No. R3, Ground & Mezzanine, M3M IFC, Golf Estate Rd, Badshahpur, Sector 66, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40556660000000000000",
+        "longitude": "77.05821920000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "550.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/ul-does-virtue-survive-darwinian-competition",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Raat ke Afsane: Sunder Nursery",
     "description": "Join us for a beautiful evening heritage walk through Sunder Nursery, where history, architecture, and nature come together in one of Delhi's most remarkable cultural landscapes.As the monuments light up against the night sky, discover the stories hidden within this historic garden that has witnessed centuries of Delhi's evolution. Led by a historian and storyteller, this walk explores the rich heritage of the site, its Mughal-era monuments, ongoing conservation efforts, and the layers of history that continue to emerge through archaeological discoveries.Places and highlights coveredHistoric Mughal-era tombs and garden structures illuminated after sunsetBeautifully restored water channels and landscaped gardens inspired by Persian and Mughal traditionsStories of the site's transformation from a historic garden space to a celebrated heritage parkRare flora, diverse birdlife, and the ecological significance of the landscapeInsights into the conservation and restoration work that brought the monuments back to lifeAs day turns to night, experience Sunder Nursery in a completely different light, where heritage, storytelling, and nature create an unforgettable evening in the heart of Delhi.",
@@ -1859,6 +1857,42 @@
     "keywords": [
       "Leisure",
       "Pop-up Event",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "uL: One Ring To Rule Them All",
+    "description": "Join us for a lecture that reveals the one thing connecting ocean tides, black hole collisions, and the ground beneath your feet:Waves.About the LectureWhy does the rhythm of the ocean mirror the behaviour of subatomic particles? How can we \"hear\" the collision of black holes billions of light-years away \u2014 and what does that tell us about the ground we're standing on?The same question, asked at different scales.This lecture is a tour of the physical world through its most fundamental language: wave mechanics \u2014 the hidden thread that weaves through the fabric of reality. From the simple beauty of waves on a beach to the complex patterns of our changing climate, from sound and light to the quantum fields that make up existence itself, we'll journey across scales of time and space to discover something extraordinary.The universe does not just contain waves. It is composed of them.The session explores:How a single mathematical idea has the potential to connect phenomena across wildly different scalesWhat waves on a beach, seismic tremors, and gravitational waves have in commonHow we detect events happening billions of light-years away \u2014 by listeningWhy quantum mechanics tells us that at its deepest level, reality itself oscillatesAbout the SpeakerSuprit Singh is an Assistant Professor in the Department of Physics at IIT Delhi. A theoretical and observational physicist, his research spans classical and quantum gravity, cosmology, astrophysical magnetic fields, and the solar corona.He completed his doctorate at IUCAA Pune in 2014 and held fellowships as a SERB Overseas and MITACS Accelerate Fellow at the University of New Brunswick, Fredericton, before joining the IIT Delhi faculty.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-07-18T16:00:00+05:30",
+    "endDate": "2026-07-18T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Commercial Complex B 6/7-22 Opp Deer Park, Block B6, Humayunpur, Safdarjung Enclave, New Delhi, Delhi 110029, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55958340000000000000",
+        "longitude": "77.19693000000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "699.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/ul-one-ring-to-rule-them-all",
+    "keywords": [
+      "Food & drink",
       "URBANAUT"
     ]
   },
