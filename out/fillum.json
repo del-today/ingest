@@ -1,23 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "Apollo 13(1995)",
-    "url": "https://fillum.in/screening/5734",
-    "startDate": "2026-06-26T14:30:00+05:30",
-    "endDate": "2026-06-26T14:30:00+05:30",
-    "description": "",
-    "location": {
-      "@type": "Place",
-      "name": "American Center, Kasturba Gandhi Marg",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "American Center New Delhi"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "Love & Revolution(2023)",
     "url": "https://fillum.in/screening/5609",
     "startDate": "2026-06-26T18:00:00+05:30",
@@ -99,6 +82,57 @@
     "organizer": {
       "@type": "Organization",
       "name": "SomeArt"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "A Separation(2011)",
+    "url": "https://fillum.in/screening/5656",
+    "startDate": "2026-06-27T14:30:00+05:30",
+    "endDate": "2026-06-27T14:30:00+05:30",
+    "description": "When his wife leaves him, Nader hires a young woman to take care of his senile father. But he doesn\u2019t know his new maid is not only pregnant but also working without her unstable husband\u2019s permi..more",
+    "location": {
+      "@type": "Place",
+      "name": "Niv Art Centre, Saket",
+      "address": "Sainik Farm, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Pyaasa(1957)",
+    "url": "https://fillum.in/screening/5748",
+    "startDate": "2026-06-27T16:30:00+05:30",
+    "endDate": "2026-06-27T16:30:00+05:30",
+    "description": "Snacks \u2022 Drinks \u2022 DiscussionVenue is walking distance from Kailash Colony Market, Greater Kailash Market",
+    "location": {
+      "@type": "Place",
+      "name": "iPley music Studio, GK-1, South-Delhi",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "SomeArt"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Winter Light(1963)",
+    "url": "https://fillum.in/screening/5672",
+    "startDate": "2026-06-27T17:00:00+05:30",
+    "endDate": "2026-06-27T17:00:00+05:30",
+    "description": "\u201cGod, why hast thou forsaken me?\u201dWith Winter Light, Ingmar Bergman explores the search for redemption in a meaningless existence. Small-town pastor Tomas Ericsson (Gunnar Bj\u00f6rnstrand) perf..more",
+    "location": {
+      "@type": "Place",
+      "name": "Niv Art Centre, Saket",
+      "address": "Sainik Farm, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
     }
   }
 ]

@@ -147,7 +147,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Fully redeemable cover charges of INR 500 applicable at the doors\n",
-            "inventoryLevel": 433,
+            "inventoryLevel": 431,
             "name": "Entry",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-green-park-shauharty-da-rookhs"
          }
@@ -923,7 +923,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 100,
+            "inventoryLevel": 93,
             "name": "Guestlist - Couple",
             "url": "https://www.skillboxes.com/events/ticket/centigrade-club-nights-ft-dobe-27th-june-pangeo-sbrasgbf"
          },
@@ -931,7 +931,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Female till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 98,
+            "inventoryLevel": 95,
             "name": "Guestlist - Female",
             "url": "https://www.skillboxes.com/events/ticket/centigrade-club-nights-ft-dobe-27th-june-pangeo-sbrasgbf"
          }
@@ -1144,7 +1144,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional redeemable cover charge INR 500/- per individual applicable at gate.\n",
-            "inventoryLevel": 63,
+            "inventoryLevel": 61,
             "name": "Phase 1 Pass",
             "url": "https://www.skillboxes.com/events/ticket/og-lucifer-poore-dil-se-india-tour-bangalore-sblsvuna"
          },
@@ -1152,7 +1152,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional redeemable cover charge INR 500/- per individual applicable at gate.\n",
-            "inventoryLevel": 29,
+            "inventoryLevel": 28,
             "name": "Meet & Greet Pass",
             "url": "https://www.skillboxes.com/events/ticket/og-lucifer-poore-dil-se-india-tour-bangalore-sblsvuna"
          },
@@ -1245,7 +1245,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 98,
+            "inventoryLevel": 97,
             "name": "Live Screening Pass",
             "url": "https://www.skillboxes.com/events/ticket/formula-1-austria-grand-prix-26-live-screening-watson-s-indiranagar-bangalore-sbkutygv"
          }
@@ -1449,7 +1449,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 47,
+            "inventoryLevel": 46,
             "name": "SINGLE ENTRY",
             "url": "https://www.skillboxes.com/events/ticket/jazz-and-blues-sbieyedo"
          },
@@ -2017,35 +2017,35 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "About Jamaica Moana:\r\n\r\nJamaica Moana is a Sydney-based Māori (Ngāpuhi/Tainui) and Samoan artist, rapper, songwriter, and creative director whose work bridges contemporary music, cultural storytelling, and queer expressio",
+      "description": "About Jamaica Moana:\n\nJamaica Moana is a Sydney-based Māori (Ngāpuhi/Tainui) and Samoan artist, rapper, songwriter, and creative director whose work bridges contemporary music, cultural storytelling, and queer expre",
       "endDate": "2026-06-28T23:59:00",
       "identifier": "com.skillboxes.37162",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YkM5YUkzb1JFbnltd25oanVpNnR6UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1780994762QQ8xVImTO1RTIxPI.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YkM5YUkzb1JFbnltd25oanVpNnR6UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1782406023tIyWZJwxmXd4TwIJ.jpg.webp",
       "isAccessibleForFree": true,
       "keywords": [
          "Club Gigs - Music"
       ],
       "location": {
          "@type": "Place",
-         "address": "Bengaluru, Karnataka, India",
+         "address": null,
          "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "12.9715987",
-            "longitude": "77.5945627"
+            "latitude": null,
+            "longitude": null
          },
-         "name": "The Humming Tree"
+         "name": null
       },
       "name": "THT & Australian Consulate-General present Jamaica Moana",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 394,
+            "inventoryLevel": 365,
             "name": "THT & Australian Consulate-General present Jamaica Moana",
             "url": "https://www.skillboxes.com/events/ticket/tht-australian-consulate-general-present-jamaica-moana"
          }
       ],
-      "startDate": "2026-06-28T21:00:00",
+      "startDate": "2026-06-28T20:00:00",
       "url": "https://www.skillboxes.com/events/tht-australian-consulate-general-present-jamaica-moana"
    },
    {
@@ -2257,7 +2257,7 @@
       "description": "The Queen of Indian Pop Arrives at ICB Bangalore ✨🎤\n\nSome voices don't just sing songs.\n\nThey become part of our memories.\n&#1",
       "endDate": "2026-08-29T23:59:00",
       "identifier": "com.skillboxes.37038",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/Y3JMN0xyTy9ieVR1MmlHcEp3VFlxdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1782310523B3giLizgkPuAcudk.png.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1782386066oJc7jzcZS79pwdMy.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Live Event"
@@ -2585,7 +2585,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charges applicable at gates.\n",
-            "inventoryLevel": 976,
+            "inventoryLevel": 974,
             "name": "Early Bird Pass",
             "url": "https://www.skillboxes.com/events/ticket/privilege-presents-prada2000-india-tour-bangalore-1"
          },
@@ -2593,7 +2593,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charges applicable at gates.\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 999,
             "name": "Early Bird VIP Pass",
             "url": "https://www.skillboxes.com/events/ticket/privilege-presents-prada2000-india-tour-bangalore-1"
          },
@@ -2673,7 +2673,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket grants entry to all two days of the event.\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 998,
             "name": "Season Pass",
             "url": "https://www.skillboxes.com/events/ticket/ad-design-show-2026-bangalore-1"
          }
@@ -2851,7 +2851,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Standard venue cover charges apply\n",
-            "inventoryLevel": 91,
+            "inventoryLevel": 89,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/bangalore-endless-pursuits-tour-by-time-throttle"
          },
