@@ -2,44 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Rocky Trails & Sunrise Picnic at Mangar Lake",
-    "description": "This sunrise hiking experience takes you through rocky trails, scenic ridge lines, and a beautiful lakeside setting for a refreshing morning outdoors. It blends light adventure, calm nature moments, and fun group interactions, making it a great pick for beginners, couples, friends, and solo plans. The experience also includes a guided hike with experienced leaders, a curated picnic breakfast, storytelling, fun group activities, and basic first-aid support. It is a well-rounded outdoor escape that brings together movement, views, conversation, and a memorable breakfast in nature.Arrival & Meet-Up At 5:00 A.M.\u2022 Assemble by 5:00 A.M. at the meeting point for check-in and a short introduction.\u2022 The experience will begin at 5:15 A.M. sharp, so arriving on time will help you settle in comfortably before the hike starts.Briefing & Warm-Up\u2022 Meet the hike leaders, get a short safety briefing, and ease into the experience with a light ice-breaker and stories about the trail.Sunrise Hike Through Trails & Ruins\u2022 Begin the guided walk through forest trails, offbeat paths, and old ruins while taking in the fresh morning air and scenic views.Stories, Games & Forest Pause\u2022 Pause along the way for local legends, hidden history, fun group activities, and a calm forest-bathing moment.Picnic Breakfast & Wrap Up At 8:00-8:30 A.M.\u2022 Unwind with a picnic breakfast in a scenic spot before making your way back with the group, wrapping up the experience by around 8:30 A.M.",
-    "startDate": "2026-06-27T05:00:00+05:30",
-    "endDate": "2026-12-26T09:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "95VP+C6C, Mangar, Haryana 121004, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.39356250000000000000",
-        "longitude": "77.18551560000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1770.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Trail It Hiking and Outdoors",
-      "url": "https://urbanaut.app/partner/trail-it-hiking-and-outdoors"
-    },
-    "url": "https://urbanaut.app/spot/picnicatmangarlake",
-    "keywords": [
-      "Adventure",
-      "Premium",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "The Lift & Glow - Face Yoga & Conscious Care",
     "description": "On popular demand, the Lift & Glow - Face Yoga & Conscious Care Experience is back. Expect healthy face ageing rituals, radiant skin longevity routines, mindful self-care, nourishment, community and sustainable wellness brand discovery with an opportunity to slow down and reconnect with yourself.Inclusions : \ud83d\udc81\ud83c\udffb\u200d\u2640\ufe0fFace Yoga & wellness - lymphatic drainage exercises, non-invasive face muscle sculpting and toning techniques for a glow and lifted skin appearance. PDF of exercises after the event \ud83c\udf43Skin Ayurveda Dosha Analysis \ud83c\udf37Gua Sha and Kansa wand guidance \ud83c\udf37Skin Vitality and Depuffing techniques \ud83e\uddc9Skin Elixir / Healthy beverage by Greenr cafe \ud83d\udc6f\u200d\u2642\ufe0fSustainable Kidswear showcase by @aumorekids at exclusive event pricing \ud83d\udecd\ufe0fWellness Goodie giveaway featuring Himalayan handcrafted skincare by Roots Essentials and more \ud83e\uddd8\ud83c\udffb\u200d\u2640\ufe0fBreathwork to release facial stagnation \ud83c\udf37Marma Point guidance for sinus and migraine relief ",
     "startDate": "2026-06-27T10:00:00+05:30",
@@ -1337,6 +1299,44 @@
       "Leisure",
       "Premium",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Rocky Trails & Sunrise Picnic at Mangar Lake",
+    "description": "This sunrise hiking experience takes you through rocky trails, scenic ridge lines, and a beautiful lakeside setting for a refreshing morning outdoors. It blends light adventure, calm nature moments, and fun group interactions, making it a great pick for beginners, couples, friends, and solo plans. The experience also includes a guided hike with experienced leaders, a curated picnic breakfast, storytelling, fun group activities, and basic first-aid support. It is a well-rounded outdoor escape that brings together movement, views, conversation, and a memorable breakfast in nature.Arrival & Meet-Up At 5:00 A.M.\u2022 Assemble by 5:00 A.M. at the meeting point for check-in and a short introduction.\u2022 The experience will begin at 5:15 A.M. sharp, so arriving on time will help you settle in comfortably before the hike starts.Briefing & Warm-Up\u2022 Meet the hike leaders, get a short safety briefing, and ease into the experience with a light ice-breaker and stories about the trail.Sunrise Hike Through Trails & Ruins\u2022 Begin the guided walk through forest trails, offbeat paths, and old ruins while taking in the fresh morning air and scenic views.Stories, Games & Forest Pause\u2022 Pause along the way for local legends, hidden history, fun group activities, and a calm forest-bathing moment.Picnic Breakfast & Wrap Up At 8:00-8:30 A.M.\u2022 Unwind with a picnic breakfast in a scenic spot before making your way back with the group, wrapping up the experience by around 8:30 A.M.",
+    "startDate": "2026-07-04T05:00:00+05:30",
+    "endDate": "2026-12-26T09:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "95VP+C6C, Mangar, Haryana 121004, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.39356250000000000000",
+        "longitude": "77.18551560000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1770.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Trail It Hiking and Outdoors",
+      "url": "https://urbanaut.app/partner/trail-it-hiking-and-outdoors"
+    },
+    "url": "https://urbanaut.app/spot/picnicatmangarlake",
+    "keywords": [
+      "Adventure",
+      "Premium",
+      "Guided tour",
       "URBANAUT"
     ]
   },
