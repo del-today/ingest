@@ -40,26 +40,6 @@
     ]
   },
   {
-    "@type": "ScreeningEvent",
-    "name": "KNMA Matinee",
-    "url": "https://www.knma.org/whats-on/events/knma-matinee",
-    "startDate": "2026-05-09T10:00:00+05:30",
-    "endDate": "2026-06-27T18:00:00+05:30",
-    "description": "Film Screening",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
     "@type": "ExhibitionEvent",
     "name": "Pata Dekhabo?",
     "url": "https://www.knma.org/whats-on/exhibitions/pata-dekhabo",
@@ -69,26 +49,6 @@
     "location": {
       "@type": "Place",
       "name": "KNMA Art Passage",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "EducationEvent",
-    "name": "KNMA Art Hours",
-    "url": "https://www.knma.org/whats-on/workshops/knma-art-hours",
-    "startDate": "2026-06-17T10:00:00+05:30",
-    "endDate": "2026-06-27T18:00:00+05:30",
-    "description": "Art Hours",
-    "location": {
-      "@type": "Place",
-      "name": "UTSAV The Square, GMR Aerocity",
       "address": "New Delhi"
     },
     "organizer": {
