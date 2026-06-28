@@ -1,79 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "FLOW STATE",
-    "description": "A Range Artists\u2019 Intervention Date : Sunday, June 28, 2026Time : 3PM - 8PMVenue : Gallery XXLEarly bird ticket price : INR 1000/- including taxesLast minute tickets : INR 1250/- including taxes\"It was like floating. I was carried on by the flow.\"\u2014 Mihaly Csikszentmih\u00e1lyi, Flow (1990)What happens when the process becomes the artwork?Gallery XXL and Range Artists Collective invites you into an evening that resists the finished art object and instead inquires into one that unfolds, accumulates, and dissolves in real time. Flow is their first intervention: a response to the ongoing exhibition Paper and Play, where visitors step out of the role of audience and into the work itself.Rooted in psychologist Mihaly Csikszentmih\u00e1lyi's concept of the flow state, the rare condition of complete immersion where action and consciousness melt together, the evening is structured around participation, presence, and process.Segment I: Process as ArtworkOpen Studio Interventions by:Live Painting & Collective Mark-Making \u2014 ShreyshtPaper Mosaics & Collage \u2014 DevnaWax, Ink & Material Experiments \u2014 SaloniTypography & Spatial Interventions \u2014 PranjalSculpture, Fashion & Identity \u2014 FarisMovement Activation \u2014 Priyanka SarkarSegment II: Paper to SystemPerformances and Generative Environments by:Generative Media & Projection Mapping \u2014 ParamExperimental Film & Glitch Dreamscapes \u2014 AdvaitaCinema as Process: Film Performance \u2014 Priyanka Sarkar with beatnykLive Coding & Algorithmic Sound \u2014 beatnykImmersive Sonic Landscapes \u2014 ImerohiMovement Performance \u2014 Mishka GargArtist Bios:Priyanka aka ANKA works across film, movement, sound, and performance. Her practice approaches cinema as a living process where documentation, memory, improvisation, and embodiment continually intersect. @priyankaaasarkarMishka Garg is a movement artist, performer, choreographer and facilitator. Her mediums include movement, photography, films and visuals in the service of aesthetic storytelling, experimentation and higher embodied freedom. @mishkagargShreysht works through live painting and collective image-making, using participation and accumulation as tools for creating evolving visual environments. @shreyshtwadhwaPranjal operates across postmodern typography, graphic design, and curatorial practice, investigating how ideas translate across mediums, disciplines, and communities. @pranjpgSaloni works through material experimentation, embracing imperfection, error, and transformation as methodologies for play and discovery. @saloniimahajanFaris works across fashion, drag, performance, and visual storytelling, exploring questions of identity, belonging, transformation, and self-authorship. @phares__wheelParam is an interdisciplinary artist working with photography, generative systems, projection mapping, and computational media to examine relationships between technology, perception, and image-making. @parmejaaanAdvaita creates experimental films and digital dreamscapes where manipulated imagery, glitch aesthetics, speculative narratives, and surreal visual worlds collide. @sikotropiixImerohi works across electronic music, sound design, and live performance, creating immersive sonic environments that explore atmosphere, memory, and perception. @imerohiibeatnyk explores computational creativity through live coding, algorithmic music, and audiovisual systems, treating code as both instrument and artistic medium. @beatnykDevna works through collage, painting, paper mosaics, and body-based interventions, exploring home, memory, belonging, and process-led forms of making. @de_vigeon",
-    "startDate": "2026-06-28T15:00:00+05:30",
-    "endDate": "2026-06-28T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "2nd Floor, A-277, Block A, Defence Colony, New Delhi, Delhi 110024, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.57405660000000000000",
-        "longitude": "77.22903090000001000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1000.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Gallery XXL",
-      "url": "https://urbanaut.app/partner/galleryxxl"
-    },
-    "url": "https://urbanaut.app/spot/flow-state",
-    "keywords": [
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "ScreeningEvent",
-    "name": "F1 Austrian Grand Prix Screening",
-    "description": "Austrian Grand Prix Screening at the BaithakEngines on. Beers open. Race day at Gully Labs.Round 8 of the 2026 F1 World Championship is happening this Sunday and we're watching it the right way. Cold Proost in hand, BRB snacks on the table, and a room that actually loses its mind when someone overtakes into turn one.The championship is a mess right now. Antonelli leads. Hamilton just won in Barcelona out of nowhere. Russell is lurking. 71 laps around the Red Bull Ring - the shortest, most chaotic track on the calendar - and anything can happen.Come for the race. Stay for the chaos.What's Included\ud83c\udf7a Unlimited Proost beer\ud83c\udf5f BRB snacksThe Details\ud83d\udccd Baithak, Gully Labs Store, Panchsheel Park, New Delhi\ud83d\uddd3\ufe0f Sunday, June 28\ud83d\udeaa Doors open at 6:00 PM\ud83c\udfc1 Lights out at 6:30 PMFree entry. Limited space.",
-    "startDate": "2026-06-28T18:30:00+05:30",
-    "endDate": "2026-06-28T21:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54778550000000000000",
-        "longitude": "77.21136729999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "628.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Gully Labs",
-      "url": "https://urbanaut.app/partner/baithak"
-    },
-    "url": "https://urbanaut.app/spot/f1-austrian-grand-prix-screening",
-    "keywords": [
-      "Leisure",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Soundgasms with Mohit - music production workshop",
     "description": "A 4-Week Music Production Workshop with Mohit SenGuptaWhat does it take to turn an idea into a finished piece of music?Soundgasms with Mohit is a four-week deep dive into the art and craft of music production, led by producer, composer, and educator Mohit SenGupta. Designed for aspiring producers, musicians, artists, and curious beginners, this workshop focuses on the entire journey, from the first spark of an idea to a track that\u2019s ready to be shared with the world.Across four weeks, Mohit will break down his creative process and introduce participants to the tools, techniques, and workflows used in contemporary music production. Through live demonstrations, hands-on exercises, and group feedback, you\u2019ll learn how to build beats, shape sounds, arrange ideas, and bring your musical vision to life.What You\u2019ll Learn\u2022\u2060 \u2060The fundamentals of music production\u2022\u2060 \u2060Beat-making and rhythm programming\u2022\u2060 \u2060Melody, harmony, and arrangement\u2022\u2060 \u2060Working with DAWs and production software\u2022\u2060 \u2060Sampling and sound selection\u2022\u2060 \u2060Recording and audio processing basics\u2022\u2060 \u2060Mixing fundamentals\u2022\u2060 \u2060Building an efficient creative workflow\u2022\u2060 \u2060Taking a track from concept to completionWho Is This For?\u2022\u2060 \u2060Aspiring music producers\u2022\u2060 \u2060Independent artists and musicians\u2022\u2060 \u2060Songwriters looking to self-produce\u2022\u2060 \u2060Creatives curious about electronic music and beat-making\u2022\u2060 \u2060Complete beginners looking for a place to startWorkshop Details\u2022\u2060 \u2060Duration: 4 Weeks\u2022\u2060 \u2060Format: In-person, interactive sessions\u2022\u2060 \u2060-Capacity: Limited to 20 participantsonly limited slots for participants to choose to attend only one session(2 classes)\u2022-\u2060 \u2060Led by: Mohit SenGuptaWith only 20 seats available, Soundgasms is designed to be intimate, collaborative, and hands-on, giving every participant the opportunity to learn, experiment, and receive direct guidance throughout the program.Whether you\u2019re opening production software for the first time or looking to refine your process, this workshop will help you understand not just how to make music, but how to develop a creative practice of your own.20 participants. 4 weeks. One journey from idea to finished sound.29th June - 22nd July, 2026, 4pm-6pm, every Monday and Wednesday.Venue: Baithak, Gully Labs store, Panchsheel Park",
@@ -448,7 +375,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Begum & her Hookah heritage walk : Chandni Chowk",
-    "description": "Join us as we excavate the little known stories of the women who through the changing and often challenging times have continued to enrich the city\u2019s historical and cultural landscape. We will meander through streets around the Chandni Chowk area, sharing stories of Begums, shadows Empresses, Nautch girls, Milk mothers, Havelis and Harems. As we walk the by-lanes of Shahjahanabad looking for stories of the bygone era, making the women who shaped the city and its history our focus, you can relish a special snack at an age old shop on the way.Milestones of our journey will be:1.\tDigambar Jain Temple (Lal Mandir), Sunehri Masjid, Gauri Shankar temple, Sis Ganj Gurudwara\t2.\tBegum Samru Ki haveli3.\tDariba Kalan (Silver Street): The Street of the Incomparable Pearl4.\tKinari Bazaar(Wedding street)5.\tNaughara  (Nine Jain houses)6.\tParanthe wali Gali 7.\tTownhall building8.\tLala Chunnamal ki Haveli9.\tFatehpuri Masjid : (Built in 1650s by emperor Shahjahan\u2019s wife Fatehpuri Begum)10.\tKhari Baoli (the biggest spice market in Asia)",
+    "description": "Join us as we excavate the little known stories of the women who through the changing and often challenging times have continued to enrich the city\u2019s historical and cultural landscape. We will meander through streets around the Chandni Chowk area, sharing stories of Begums, shadows Empresses, Nautch girls, Milk mothers, Havelis and Harems.In this walk we walk the by-lanes of Shahjahanabad looking for stories of the bygone era, making the women who shaped the city and its history our focus.Milestones of our journey will be:1.\tDigambar Jain Temple (Lal Mandir), Sunehri Masjid, Gauri Shankar temple, Sis Ganj Gurudwara2.\tBegum Samru Ki haveli3.\tDariba Kalan (Silver Street): The Street of the Incomparable Pearl4.\tKinari Bazaar(Wedding street)5.\tNaughara (Nine Jain houses)6.\tParanthe wali Gali7.\tTownhall building8.\tLala Chunnamal ki Haveli9.\tFatehpuri Masjid : (Built in 1650s by emperor Shahjahan\u2019s wife Fatehpuri Begum)10.\tKhari Baoli (the biggest spice market in Asia)",
     "startDate": "2026-07-05T08:00:00+05:30",
     "endDate": "2026-07-05T10:00:00+05:30",
     "location": {
@@ -704,6 +631,42 @@
     "keywords": [
       "Leisure",
       "Pop-up Event",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "uL: Beyond The Tiger; Mega Mammal Futures In India",
+    "description": "Join us for a lecture that asks a question India rarely pauses to consider:How do a billion people share a country with 3,600 tigers, 900 lions, and 28,000 elephants?About the LectureIn 1972, India staged a quiet coup. The lion \u2014 regal, heraldic, national symbol since independence \u2014 was replaced by the tiger as national animal. Decades later, the elephant was declared a national heritage animal. States claimed their own: the lion for Gujarat, the rhino for Assam.These are political gestures. But behind them lies a far older and more complicated story.For centuries, India's mega mammals have been revered and feared, worshipped and avoided. They have been symbols of power and objects of terror. And today, every one of them occupies a fraction of the range it held just two hundred years ago.The usual story here is one of gloom and decline. But this lecture takes a different path. Drawing on history, ecology, and the messy overlap between human and animal worlds, it asks not just what went wrong \u2014 but what went right. How have states and societies related to these enormous animals across centuries? When and why did conflicts become truly intense? And is there ground for hope?The past cannot give easy answers. But by showing us how we arrived at this juncture, it can equip us to think more clearly about the choices ahead.About the SpeakerMahesh Rangarajan teaches History and Environmental Studies at Ashoka University, Sonipat. He studied at Hindu College, University of Delhi, and at Balliol and Nuffield Colleges, Oxford, where he was a Rhodes Scholar. He has taught at Jadavpur, Cornell, Delhi, and Krea Universities, and at the National Centre for Biological Sciences, Bengaluru.His books include Fencing the Forest (1996), India's Wildlife History (2001), and Nature and Nation (2015). His edited works include The Oxford Anthology of Indian Wildlife (1999), and recent co-edited volumes Nature Contested (2026) and India's Forests (2026).He is fascinated by film music of the '60s and '70s, and rock \u2014 and yes, he finds ways to relate these to animals, history, and ecology.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-07-18T16:00:00+05:30",
+    "endDate": "2026-07-18T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/ul-beyond-the-tiger",
+    "keywords": [
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -1114,6 +1077,42 @@
     "keywords": [
       "History & heritage",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "uL: Badass Begums, The Women Of The Mughal Era",
+    "description": "Join us for a lecture that steps into a side of Delhi's history that rarely makes it into textbooks: The women who built this city.About the LectureWhen we think of Mughal Delhi, we think of emperors. We think of conquest, succession, and the men whose names are carved into monuments. But behind \u2014 and often alongside \u2014 those names were formidable women whose influence shaped the city through architecture, politics, philanthropy, and patronage.They commissioned buildings. They brokered power. They funded entire neighbourhoods. And then, almost entirely, they were written out of the story.Drawing on rare paintings, forgotten anecdotes, and lesser-known archival stories, historian and author Anoushka Jain brings these women back into the history of the city they helped create.The session explores:Who the Mughal women behind Delhi's architecture and politics really wereHow begums and princesses wielded influence through patronage, charity, and urban designThe stories and images that have been overlooked or erased from mainstream historical narrativesWhat these legacies reveal about women, power, and public life in Mughal IndiaAbout the SpeakerAnoushka Jain is a historian, author, and founder of Enroute Indian History, a heritage initiative dedicated to uncovering and sharing India's lesser-known histories. She is the author of Badass Begums (HarperCollins India), a book that explores the lives of remarkable women who shaped the cultural and political landscape of Delhi.Her work has appeared in The Hindu, The Indian Express, Scroll.in, The Print, Hindustan Times, The Times of India, and Vogue India.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-07-30T19:00:00+05:30",
+    "endDate": "2026-07-30T20:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Hotel Broadway, 4/15A, Asaf Ali Rd, Chatta lal Miya, Chandni Mahal, Chandni Chowk, Delhi, New Delhi, Delhi 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64105660000000000000",
+        "longitude": "77.23791410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/ul-badass-begums-the-women-of-the-mughal-era",
+    "keywords": [
+      "Food & drink",
       "URBANAUT"
     ]
   }
