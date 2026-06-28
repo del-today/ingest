@@ -4,7 +4,7 @@
     "@type": "Event",
     "name": "BADDY WITH BADDIES | GK 1",
     "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.10:50 AM Meet up and Warm up Time11:00 AM Game TimeSee you on court!",
-    "startDate": "2026-06-27T11:00:00+05:30",
+    "startDate": "2026-06-28T11:00:00+05:30",
     "endDate": "2026-06-28T12:00:00+05:30",
     "location": {
       "@type": "Place",
@@ -34,82 +34,6 @@
       "Leisure",
       "Wellness",
       "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Mughal Princesses\u2019 World Through Food",
-    "description": "Dastarkhwan-e-BegamaatZaikanama presents two lunches at the dastarkhwan of the Mughal BegamaatTwo women, a century apart, recovered through what they ate.The official record kept the wars and lost the women. Gulbadan wrote the household down herself because no one else would. Jahanara ran a court and a city and left her mark on Delhi\u2019s streets. This is their world, rebuilt from the period\u2019s own logic and read through the cloth they gathered around. No table. A dastarkhwan, the spread laid on the ground that a meal sits on and a household forms around.Six courses each lunch, served family-style.Gulbadan. The early Mughal world, still in motion. A dastarkhwan rolled up at dawn and unrolled by the next river. Exile, return, Kabul remembered across three kingdoms, a palate carrying Central Asia in a fold of fabric and slowly learning Hindustan.Jahanara. The same cloth, a hundred years on, spread across marble. The empire has stopped moving. Rosewater, saffron, the confidence of a court at its height, and a princess who shaped the city it ruled from.One lunch leaves home. The other arrives. Together they trace a single line, from the tent to the marble, from longing to power.The dishes stay between us and the guests who sit down to them. Seats are limited.\ud83d\uddd3\ufe0f 27\u201328 June 2026\ud83d\udd5c 1:30 PM onwards\ud83d\udccd South Delhi",
-    "startDate": "2026-06-27T13:30:00+05:30",
-    "endDate": "2026-06-28T15:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Safdarjung Enclave, New Delhi, Delhi 110029, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.56472600000000000000",
-        "longitude": "77.19491640000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The House of Zaikanama by Aali Kumar",
-      "url": "https://urbanaut.app/partner/the-house-of-zaikanama-by-aali-kumar"
-    },
-    "url": "https://urbanaut.app/spot/mughal-princesss-world-through-food",
-    "keywords": [
-      "History & heritage",
-      "Food & drink",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Ruins, Trails Hiking & Picnic Escape",
-    "description": "This sunrise hiking experience takes you through forest trails, old ruins, and scenic viewpoints for a refreshing early morning escape. It is a beginner-friendly outing that blends nature, light adventure, and storytelling, making it ideal for solo plans, couples, or small groups. Along the way, you can enjoy interesting stories, fun group moments, and a calm forest-bathing break before settling in for a picnic breakfast. The experience is a lovely mix of exploration, history, and connection, all wrapped into a peaceful morning outdoors.Beginner-friendly sunrise hike through forest trails and offbeat paths.Explore old ruins, hidden corners, and scenic viewpoints along the way.Enjoy storytelling around local legends, myths, and history.Take part in fun group games and a calming forest-bathing pause.Curated picnic breakfast included as part of the experience.Great for solo plans, couples, and small groups looking for a refreshing morning outdoors.Arrival & Meet-Up At 5:00 A.M.\u2022 Assemble by 5:00 A.M. at the meeting point for check-in and a short introduction.\u2022 The experience will begin at 5:15 A.M. sharp, so arriving on time will help you settle in comfortably before the hike starts.Briefing & Warm-Up\u2022 Meet the hike leaders, get a short safety briefing, and ease into the experience with a light ice-breaker and stories about the trail.Sunrise Hike Through Trails & Ruins\u2022 Begin the guided walk through forest trails, offbeat paths, and old ruins while taking in the fresh morning air and scenic views.Stories, Games & Forest Pause\u2022 Pause along the way for local legends, hidden history, fun group activities, and a calm forest-bathing moment.Picnic Breakfast & Wrap Up At 8:00-8:30 A.M\u2022 Unwind with a picnic breakfast in a scenic spot before making your way back with the group, wrapping up the experience by around 800-8:30 A.M.",
-    "startDate": "2026-06-28T05:00:00+05:30",
-    "endDate": "2026-12-27T09:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "G5PJ+PMP Sanjay Van, New Mehrauli Road, Block B, Qutab Institutional Area, New Delhi, Delhi 110016, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53698790000000000000",
-        "longitude": "77.18188470000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1770.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Trail It Hiking and Outdoors",
-      "url": "https://urbanaut.app/partner/trail-it-hiking-and-outdoors"
-    },
-    "url": "https://urbanaut.app/spot/sanjayvanexperience",
-    "keywords": [
-      "Adventure",
-      "Premium",
-      "Guided tour",
       "URBANAUT"
     ]
   },
@@ -332,6 +256,44 @@
     "keywords": [
       "Pop-up Event",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Mughal Princesses\u2019 World Through Food",
+    "description": "Dastarkhwan-e-BegamaatZaikanama presents two lunches at the dastarkhwan of the Mughal BegamaatTwo women, a century apart, recovered through what they ate.The official record kept the wars and lost the women. Gulbadan wrote the household down herself because no one else would. Jahanara ran a court and a city and left her mark on Delhi\u2019s streets. This is their world, rebuilt from the period\u2019s own logic and read through the cloth they gathered around. No table. A dastarkhwan, the spread laid on the ground that a meal sits on and a household forms around.Six courses each lunch, served family-style.Gulbadan. The early Mughal world, still in motion. A dastarkhwan rolled up at dawn and unrolled by the next river. Exile, return, Kabul remembered across three kingdoms, a palate carrying Central Asia in a fold of fabric and slowly learning Hindustan.Jahanara. The same cloth, a hundred years on, spread across marble. The empire has stopped moving. Rosewater, saffron, the confidence of a court at its height, and a princess who shaped the city it ruled from.One lunch leaves home. The other arrives. Together they trace a single line, from the tent to the marble, from longing to power.The dishes stay between us and the guests who sit down to them. Seats are limited.\ud83d\uddd3\ufe0f 27\u201328 June 2026\ud83d\udd5c 1:30 PM onwards\ud83d\udccd South Delhi",
+    "startDate": "2026-06-28T13:30:00+05:30",
+    "endDate": "2026-06-28T15:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Safdarjung Enclave, New Delhi, Delhi 110029, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.56472600000000000000",
+        "longitude": "77.19491640000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The House of Zaikanama by Aali Kumar",
+      "url": "https://urbanaut.app/partner/the-house-of-zaikanama-by-aali-kumar"
+    },
+    "url": "https://urbanaut.app/spot/mughal-princesss-world-through-food",
+    "keywords": [
+      "History & heritage",
+      "Food & drink",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -1002,6 +964,44 @@
       "Pop-up Event",
       "History & heritage",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Ruins, Trails Hiking & Picnic Escape",
+    "description": "This sunrise hiking experience takes you through forest trails, old ruins, and scenic viewpoints for a refreshing early morning escape. It is a beginner-friendly outing that blends nature, light adventure, and storytelling, making it ideal for solo plans, couples, or small groups. Along the way, you can enjoy interesting stories, fun group moments, and a calm forest-bathing break before settling in for a picnic breakfast. The experience is a lovely mix of exploration, history, and connection, all wrapped into a peaceful morning outdoors.Beginner-friendly sunrise hike through forest trails and offbeat paths.Explore old ruins, hidden corners, and scenic viewpoints along the way.Enjoy storytelling around local legends, myths, and history.Take part in fun group games and a calming forest-bathing pause.Curated picnic breakfast included as part of the experience.Great for solo plans, couples, and small groups looking for a refreshing morning outdoors.Arrival & Meet-Up At 5:00 A.M.\u2022 Assemble by 5:00 A.M. at the meeting point for check-in and a short introduction.\u2022 The experience will begin at 5:15 A.M. sharp, so arriving on time will help you settle in comfortably before the hike starts.Briefing & Warm-Up\u2022 Meet the hike leaders, get a short safety briefing, and ease into the experience with a light ice-breaker and stories about the trail.Sunrise Hike Through Trails & Ruins\u2022 Begin the guided walk through forest trails, offbeat paths, and old ruins while taking in the fresh morning air and scenic views.Stories, Games & Forest Pause\u2022 Pause along the way for local legends, hidden history, fun group activities, and a calm forest-bathing moment.Picnic Breakfast & Wrap Up At 8:00-8:30 A.M\u2022 Unwind with a picnic breakfast in a scenic spot before making your way back with the group, wrapping up the experience by around 800-8:30 A.M.",
+    "startDate": "2026-07-05T05:00:00+05:30",
+    "endDate": "2026-12-27T09:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "G5PJ+PMP Sanjay Van, New Mehrauli Road, Block B, Qutab Institutional Area, New Delhi, Delhi 110016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53698790000000000000",
+        "longitude": "77.18188470000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1770.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Trail It Hiking and Outdoors",
+      "url": "https://urbanaut.app/partner/trail-it-hiking-and-outdoors"
+    },
+    "url": "https://urbanaut.app/spot/sanjayvanexperience",
+    "keywords": [
+      "Adventure",
+      "Premium",
+      "Guided tour",
       "URBANAUT"
     ]
   },
