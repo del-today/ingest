@@ -1,5 +1,30 @@
 [
   {
+    "@type": "Event",
+    "name": "Open Day / Peers 2026",
+    "url": "https://khojstudios.org/event/open-day-peers-2026/",
+    "startDate": "2026-07-03T10:00:00+05:30",
+    "endDate": "2026-07-03T10:00:00+05:30",
+    "description": "Khoj is delighted to host the\u00a0Peers 2026 Open Day on Friday, 3rd July at 6:00 PM\u00a0onwards at Khoj Studios \u2013 S17, Khirkee Extension. Now in its 22nd edition, Peers continues to serve as a springboard for emerging artists at a pivotal moment in their practice. The residency offers time, space, and support to experiment, reflect, [\u2026]",
+    "location": {
+      "@type": "Place",
+      "name": "KHOJ Studios",
+      "address": "S-17, Khirkee Extension, Malviya Nagar, New Delhi 110017",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.6453",
+        "longitude": "77.1851"
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "KHOJ International Artists' Association"
+    },
+    "keywords": [
+      "KHOJ"
+    ]
+  },
+  {
     "@type": "EducationEvent",
     "name": "Fundamentals of Arts Management | Pune",
     "url": "https://khojstudios.org/event/fundamentals-of-arts-management-pune-2/",
