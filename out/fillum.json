@@ -1,23 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "Homecoming(2023)",
-    "url": "https://fillum.in/screening/5705",
-    "startDate": "2026-06-30T18:30:00+05:30",
-    "endDate": "2026-06-30T18:30:00+05:30",
-    "description": "Free entry.",
-    "location": {
-      "@type": "Place",
-      "name": "M. L. Bhartia Auditorium, Alliance Fran\u00e7aise",
-      "address": "Lodhi Road, New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Alliance Fran\u00e7aise de Delhi"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "The Patriot(2000)",
     "url": "https://fillum.in/screening/5763",
     "startDate": "2026-07-02T14:00:00+05:30",
@@ -35,6 +18,23 @@
   },
   {
     "@type": "ScreeningEvent",
+    "name": "If I Could Tell You(2024)",
+    "url": "https://fillum.in/screening/5780",
+    "startDate": "2026-07-02T18:00:00+05:30",
+    "endDate": "2026-07-02T18:00:00+05:30",
+    "description": "Free entry. No registration required. Post-screening discussion with the filmmaker.",
+    "location": {
+      "@type": "Place",
+      "name": "Press Club of India, Raisina Road",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fillum"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "The Miracles of the Namiya General Store(2017)",
     "url": "https://fillum.in/screening/5759",
     "startDate": "2026-07-04T11:30:00+05:30",
@@ -48,6 +48,108 @@
     "organizer": {
       "@type": "Organization",
       "name": "The Japan Foundation"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Pierrot le Fou(1965)",
+    "url": "https://fillum.in/screening/5774",
+    "startDate": "2026-07-04T12:00:00+05:30",
+    "endDate": "2026-07-04T12:00:00+05:30",
+    "description": "Dissatisfied in marriage and life, Ferdinand (Jean-Paul Belmondo) takes to the road with the babysitter, his ex-lover Marianne Renoir (Anna Karina), and leaves the bourgeois world behind.Yet th..more",
+    "location": {
+      "@type": "Place",
+      "name": "mool, south ex II",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Madhumati(1958)",
+    "url": "https://fillum.in/screening/5777",
+    "startDate": "2026-07-04T12:10:00+05:30",
+    "endDate": "2026-07-04T12:10:00+05:30",
+    "description": "Snacks | Drinks | DiscussionWalking distance from GK-1 Market & Kailash Colony Market.",
+    "location": {
+      "@type": "Place",
+      "name": "iPley Music Studio, GK-1, South Delhi",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "SomeArt"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Fellini's Casanova(1976)",
+    "url": "https://fillum.in/screening/5770",
+    "startDate": "2026-07-04T14:00:00+05:30",
+    "endDate": "2026-07-04T14:00:00+05:30",
+    "description": "Federico Fellini's Casanova transforms the legendary seducer into a profoundly tragic figure, tracing a life driven by endless desire yet incapable of genuine intimacy. Rather than celebrating roman..more",
+    "location": {
+      "@type": "Place",
+      "name": "mool, South Ex II",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Autumn Sonata(1978)",
+    "url": "https://fillum.in/screening/5775",
+    "startDate": "2026-07-04T16:30:00+05:30",
+    "endDate": "2026-07-04T16:30:00+05:30",
+    "description": "Autumn Sonata was the only collaboration between cinema\u2019s two great Bergmans: Ingmar and Ingrid, the monumental star of Casablanca. The grande dame, playing an icy concert pianist, is matched beat..more",
+    "location": {
+      "@type": "Place",
+      "name": "mool, South Ex II",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Kaagaz Ke Phool(1959)",
+    "url": "https://fillum.in/screening/5778",
+    "startDate": "2026-07-04T16:30:00+05:30",
+    "endDate": "2026-07-04T16:30:00+05:30",
+    "description": "Snacks | Drinks | DiscussionWalking Distance from GK-1 Market & Kailash Colony Market",
+    "location": {
+      "@type": "Place",
+      "name": "iPley Music Studio, GK-1, South Delhi",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "SomeArt"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "The Decameron(1971)",
+    "url": "https://fillum.in/screening/5771",
+    "startDate": "2026-07-05T12:00:00+05:30",
+    "endDate": "2026-07-05T12:00:00+05:30",
+    "description": "Film #1 from Pier Paolo Pasolini's 'Trilogy of Life'In the early 1970s, the great Italian poet, philosopher, and filmmaker Pier Paolo Pasolini brought to the screen a trio of masterpieces of med..more",
+    "location": {
+      "@type": "Place",
+      "name": "mool, South Ex II",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
     }
   }
 ]
