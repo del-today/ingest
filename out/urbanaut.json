@@ -449,7 +449,7 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "GFT: Is Business Education Already Outdated?",
+    "name": "GFT: Understanding BizSchool in the Age of AI",
     "description": "Join us for a lecture that asks one of the most urgent questions facing higher education today: Are universities preparing students for the future\u2014or for a world that has already disappeared?About the LectureArtificial intelligence is transforming finance, management, consulting, and business faster than most institutions can redesign their curricula.While classrooms continue to teach frameworks developed decades ago, workplaces increasingly reward adaptability, AI literacy, systems thinking, and ethical judgement over routine expertise.This lecture explores what happens when education struggles to keep pace with technological change.Drawing on nearly two decades of experience across academia, research, and industry, the session examines how finance, technology, and management are converging\u2014and why the skills that mattered yesterday may no longer be enough tomorrow.Together, we'll explore:Why traditional business education is under increasing pressureHow AI is changing finance, accounting, and organisational decision-makingThe widening gap between classroom learning and workplace expectationsWhy adaptability may become more valuable than specialisationWhat the future role of teachers, universities, and students might look likeRather than presenting AI as either a miracle or a catastrophe, this lecture argues for something more difficult: learning how to think critically, ethically, and creatively in partnership with intelligent machines.About the SpeakerDr. Yogesh Kumar Jain is Professor and Deputy Dean at IILM University, Greater Noida, with over twenty years of experience spanning higher education, finance, research, and institutional leadership.His work focuses on finance, FinTech, artificial intelligence, business analytics, and digital transformation. Alongside teaching and academic leadership, he serves as a Research Fellow at INTI International University, Malaysia, has supervised doctoral research, delivered keynote lectures internationally, and published extensively on AI-driven finance, blockchain, sustainability, and emerging technologies.His work is driven by a simple conviction: education should prepare people not just for their first job, but for a lifetime of change.PS: Your ticket includes a 250/- coupon redeemable on F&B About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from St. Stephen's, Delhi who wanted learning to feel warm, social and alive. Each event is an invitation to spend an evening with an idea.",
     "startDate": "2026-07-05T17:00:00+05:30",
     "endDate": "2026-07-05T19:00:00+05:30",
@@ -736,6 +736,42 @@
       "Leisure",
       "Wellness",
       "Pop-up Event",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "uL: When Did The News Stop Asking Questions?",
+    "description": "Join us for a lecture that confronts something most of us have quietly accepted:That the news is broken, and we're all living inside the wreckage.About the LectureAround 2010\u20132012, something shifted in Indian media. Reporters stopped going to the ground. Anchors became the story. Debate replaced inquiry. And what started as a cost-cutting decision inside newsrooms \u2014 cheaper to fill airtime with argument than with reporting \u2014 rippled outward into your family dinner table, your city's politics, your ability to trust the person sitting next to you.This isn't a talk about fake news. It's about what happens when the system that's supposed to inform a society becomes the thing that destabilises it.When investigative journalism declines, people don't just get less information. They get more certainty from louder voices. One anchor's opinion gets repeated across five channels. That repetition becomes a \"fact.\" Your uncle shares it on WhatsApp. Your city believes it. A demolition happens. A mob gathers. And no one can trace it back to the moment a news channel decided that performance was cheaper than reporting.The contagion is real. Aggressive anchoring increases aggression in how families argue about politics. Sensational coverage of one story crowds out systemic issues \u2014 healthcare, economy, corruption. When journalism stops asking \"why,\" citizens stop asking it too.You can mute the news. You can delete Twitter. But if the system that shapes what your city believes, what your kids learn, what your government does \u2014 if that system is broken \u2014 you're not opting out. You're just operating with less information than everyone else.About the SpeakerManisha Pande is the Editor-in-Chief of Newslaundry and the host and writer of TV Newsance, one of India's most popular media satire shows. Over more than a decade, she has tracked, critiqued, and held accountable the institutions that shape how India understands itself \u2014 with sharp analysis and a refusal to look away.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-07-11T15:00:00+05:30",
+    "endDate": "2026-07-11T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Eldeco Centre, Block A, Shivalik Colony, Malviya Nagar, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52806900000000000000",
+        "longitude": "77.20516300000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/ul-when-the-news-stopped-asking-questions",
+    "keywords": [
+      "Food & drink",
       "URBANAUT"
     ]
   },
