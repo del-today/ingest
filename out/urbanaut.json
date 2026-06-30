@@ -715,6 +715,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Jimmno Exhibition",
+    "description": "Welcome to Jimmno's First-Ever Curated Exclusive ExhibitionFor the first time, Jimmno brings together 11 one-of-a-kind brands from Jaipur for an exclusive, limited-entry exhibition on 18th July.Rooted in the spirit of Rajasthan and Gujarat, this is a celebration of craftsmanship, thoughtful design, and brands that share the same warmth, ethos, and love for timeless creations.To keep the experience intimate, entry is by registration only. Simply book your preferred slot:12:00 PM \u2013 2:00 PM3:00 PM \u2013 5:00 PM5:00 PM \u2013 7:00 PM",
+    "startDate": "2026-07-18T12:00:00+05:30",
+    "endDate": "2026-07-18T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "A 26/13, A Block, DLF Phase 1, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.47312200000000000000",
+        "longitude": "77.09348580000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "999.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Jimmno",
+      "url": "https://urbanaut.app/partner/100peoplesupper"
+    },
+    "url": "https://urbanaut.app/spot/jimmno-exhibition",
+    "keywords": [
+      "Premium",
+      "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "INNER CHILD",
     "description": "INNER Child: An Evening of Colour, Clay & ConversationWhere: Project OtengaWhen: Saturday, 18th July, 2026Time: 3:30 PM \u2013 8:00 PM\u2022 A soft evening of art, clay, and connection.\u2022 Come play, create, and reconnect. \ud83c\udf3f\u2022 Colour, clay, music, and mindful moments.\u2022 An immersive journey back to your inner child.",
