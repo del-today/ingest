@@ -1,6 +1,82 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "BADDY WITH BADDIES | Vasant Kunj",
+    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.7:50 PM Meet up and Warm up Time8:00 PM Game TimeSee you on court!",
+    "startDate": "2026-07-01T20:00:00+05:30",
+    "endDate": "2026-07-01T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "inside DAV Public School, near Fortis Hospital, Pocket 1, Sector B, Vasant Kunj, New Delhi, Delhi 110070, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52084540000000000000",
+        "longitude": "77.16146610000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "250.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag13",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Matcha Circle",
+    "description": "OverviewA shared matcha-making experience where simple acts of whisking, pouring, and preparing create calm.People gather over matcha, conversation, and the quiet rhythm of making something by hand. One cup at a time.Matcha Experience: A Taste of CalmExperience the calming art of green tea in a session dedicated to mindfulness and flavor. This gathering is designed to help you slow down and appreciate the details of a centuries old tradition. \"The Matcha Circle\" offers a peaceful space to learn, taste, and connect at the end of a long week.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to ExpectGuided Introduction: Learn about the history and the unique process of preparing matcha from farm to cup.The Ritual: Watch and learn how the tea is whisked to create its signature froth and deep flavor.Tasting Session: Enjoy a premium matcha drink prepared just for you at Cha & Co.Quiet Conversation: Join a small group setting to talk about finding moments of peace in a busy week over a comforting cup.Details\ud83d\uddd3\ufe0f Date: 3rd July (Friday)\u23f0 Time: 6:30 PM\ud83d\udccd Location: Cha & Co, Grand View High Street\ud83c\udf75 Inclusion: Matcha drink included\ud83c\udf9f\ufe0f Fee: \u20b9700",
+    "startDate": "2026-07-03T18:30:00+05:30",
+    "endDate": "2026-07-03T20:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ireo Grand View High Street, Sector 58, Gurugram, Haryana 122098, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41560020000000000000",
+        "longitude": "77.10258329999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/matcha-experience",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Vietnamese supper club by chef gulzi",
     "description": "Course 1-Green MANGO SALAD-As fresh as it can get ,the delicious raw mango salad is fresh,vibrant with contrasting flavours & textures.Course 2-Fresh Spring rollsWe know them as Rice paper rolls but In vietnam you call these  Fresh Spring roll.Made fresh with greens & herbs this is their go to snack.We bring to you a delicious version of itCourse 3-Vietnamese PhoThere is nothing that a bowl of soup /pho cant fix,your natural collagen with all the goodness:)Course 4-Braised Lemongrass fish with Lemongrass Rice congee& Braised fresh vegetables in spicy lemongrass stockCourse 5-Nem Luimake your own with Herbs,lettuce,Chicken/Veg goodnesscommunal dish that brings everyone togetherCourse 6Fresh coconut icecream with fresh coconut & Mango*WE CATER TO ALL DIETARY AND HEALTH REQUIREMENTS*DO CONTACT 9910070342 IF YOU HAVE ANY REQUIREMENTS",
@@ -34,6 +110,44 @@
       "Leisure",
       "Premium",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Hot Girls Do Pilates | Defence Colony",
+    "description": "Let\u2019s make your Sunday morning extra feel-good with Hot Girls Do Pilates, a guided pilates experience by SWAG \ud83d\udc9bThis is a reformer pilates session with limited spots!Come and feel fitter in the company of like-minded women, and stayback for some chit-chat!",
+    "startDate": "2026-07-04T11:00:00+05:30",
+    "endDate": "2026-07-04T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "A322, Block A, Defence Colony, New Delhi, Delhi 110024, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.57351930000000000000",
+        "longitude": "77.22945200000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1399.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag15",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Workshop",
       "URBANAUT"
     ]
   },
@@ -108,6 +222,43 @@
       "Premium",
       "Wellness",
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Drafting Table",
+    "description": "OverviewA quiet writing circle for thoughts that haven\u2019t fully formed yet.Through short writing sprints and reflective prompts, people return to the practice ofputting words on paper, slowly and honestly. A place to begin.ThemeA quiet writing session around the stories hidden inside forgotten objects.In this edition of The Drafting Table, every participant receives a mysterious object card.It could be a torn letter, a cracked mirror, a sealed envelope, a child's wooden toy, or something else carrying the feeling of an unfinished story.Through two guided writing sprints, you'll write fiction scenes or stories centered on the object.There are no right answers and no writing experience needed. Just a prompt, uninterrupted writing time, and the freedom to imagine.At the end, anyone who wishes can share what they wrote with the group.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to ExpectA Short Intro: We open with a brief framing of the theme and a prompt to get you started. No pressure to use it, just a way in.Writing Time: The bulk of the session is yours. Quiet, unhurried time to write whatever the character needs you to write.Open Mic: We close with an optional read-aloud. Share what you wrote, or just listen. Both are completely fine.Details\ud83d\uddd3\ufe0f Date: 4th July (Saturday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Joaah Cafe, Ireo City Central\ud83c\udf9f\ufe0f Fee: \u20b9700",
+    "startDate": "2026-07-04T11:30:00+05:30",
+    "endDate": "2026-07-04T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shop No. 18,19,28, Ascott Ireo City Central, behind Jagdish Store, Alahawas, Sector 59, Gurugram, Haryana 122011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40773430000000000000",
+        "longitude": "77.10356910000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/the-drafting-table",
+    "keywords": [
+      "Workshop",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -188,6 +339,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "SMASH LIKE A GIRL (Tennis | Delhi)",
+    "description": "\u200bHi girls! It\u2019s time to Smash Like a Girl \u2014 because we\u2019re finally bringing you TENNIS!This is a women-only, beginner-friendly, guided tennis meet-up.4:50 PM Meet Up & Warm Up5:00 PM Game TimeSee you on court!",
+    "startDate": "2026-07-04T17:00:00+05:30",
+    "endDate": "2026-07-04T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "J6HH+MMC, Barakhamba Rd, Todermal Road Area, Mandi House, New Delhi, Delhi 110001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.62917610000000000000",
+        "longitude": "77.22913750000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "495.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag14",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "GFT: How Ads Invented What Feels Natural",
     "description": "Join us for a lecture that asks a deceptively simple question: What if many of the things you consider \"normal\" were carefully manufactured?About the LectureWe like to think our preferences are our own. That diamonds naturally symbolise love. That pink belongs to girls and blue to boys. That coffee breaks are an ordinary part of working life.But none of these ideas were inevitable.Over the last century, advertising has done far more than persuade us to buy products. It has quietly reshaped culture itself, transforming commercial campaigns into social conventions and making the radical feel entirely ordinary.This lecture traces the hidden history of how advertising manufactures common sense. Moving across some of the most influential campaigns of the twentieth century, the session explores how marketing has repeatedly blurred the line between persuasion and reality.Along the way, we'll explore:How advertising creates social norms rather than simply responding to themWhy some of the world's most successful campaigns sold ideas before they sold productsThe subtle relationship between commerce, culture, and everyday behaviourWhat it means to recognise \"normal\" as something that is constantly being designedUltimately, this lecture invites us to see advertising differently\u2014not as background noise, but as one of the most powerful cultural forces of the modern world.About the SpeakerAnish Dasgupta is a communications strategist, marketing consultant, and educator with over two decades of experience building award-winning campaigns across both the private and non-profit sectors.An alumnus of MICA, he has worked with leading global brands including Volkswagen, HSBC, Microsoft India, Nestl\u00e9, Reckitt, Kotak Mahindra Bank, and GSK, while holding strategic roles at agencies such as Publicis, McCann, Havas, and VML. Alongside consulting, he teaches marketing and communication, bringing together industry experience with a deep curiosity about how media shapes the way we think, feel, and behave.PS: Your Ticket Includes a 250/- Coupon Redeemable on F&B About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from St. Stephen's, Delhi who wanted learning to feel warm, social and alive. Each event is an invitation to spend an evening with an idea.",
     "startDate": "2026-07-04T17:00:00+05:30",
@@ -254,6 +443,120 @@
     "keywords": [
       "Walking Tour",
       "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Pickleball with SWAG | North Delhi",
+    "description": "Pickleball with SWAG is now in North Delhi!This is a women-only, beginner-friendly pickleball meet-up.5:50 PM Meet up and Warm up Time6:00 PM Game TimeSee you on court!",
+    "startDate": "2026-07-04T18:00:00+05:30",
+    "endDate": "2026-07-04T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Best Business Park, plot no. P, 2, Netaji Subhash Place, Shakurpur, New delhi, Delhi, 110034, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.69189930000000000000",
+        "longitude": "77.14738650000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "379.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag17",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Pickleball with SWAG ( Delhi | Saket)",
+    "description": "Pickleball with SWAG is back!This is a women-only, beginner-friendly pickleball meet-up.4:50 PM Meet up and Warm up Time5:00 PM Game TimeSee you on court!",
+    "startDate": "2026-07-04T19:00:00+05:30",
+    "endDate": "2026-07-04T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "NEW GREEN FIELD SCHOOL, school, Ashok Vihar, Saket, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52369810000000000000",
+        "longitude": "77.20874010000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "360.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag24",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "BADDY WITH BADDIES | Saket",
+    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.7:50 PM Meet up and Warm up Time8:00 PM Game TimeSee you on court!",
+    "startDate": "2026-07-04T19:00:00+05:30",
+    "endDate": "2026-07-04T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "inside NEW GREEN FIELD SCHOOL, behind PVR Anupam Saket, Ashok Vihar, Saket, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52371090000000000000",
+        "longitude": "77.20874630000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "250.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag18",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
       "URBANAUT"
     ]
   },
@@ -410,6 +713,157 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Parkour with SWAG",
+    "description": "Ready to surprise yourself?This women-only parkour session is your chance to move in ways you never thought you could - in a supportive, judgment-free space built just for you by SWAG. No experience needed. No pressure. Just you, your body, and a whole lot of fun.A coach by Delhi Rock will guide you through everything from safe landings to vaults and jumps, at a pace that works for you. You'll leave feeling stronger, braver, and a little bit unstoppable.Bring: Come in comfortable activewear and carry a water bottle.Get ready for a fun, energizing Sunday afternoon with a community of like-minded women. Just bring your energy, curiosity, and love for trying something new!The venue is in the Squash and Badminton Stadium on Siri Fort Road.",
+    "startDate": "2026-07-05T11:00:00+05:30",
+    "endDate": "2026-07-05T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Siri Fort, New Delhi, Delhi 110049, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55326250000000000000",
+        "longitude": "77.22100110000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "400.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag20",
+    "keywords": [
+      "Adventure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Climb Like A Girl",
+    "description": "Climb Like A Girl is back! Get ready for a fun, energizing climbing session. It is a beginner-friendly, women-only meetup. The session will be guided by professionals at The Delhi Rock. Just bring your energy, curiosity, and love for trying something new! The venue is in the Squash and Badminton Stadium on Siri Fort Road.",
+    "startDate": "2026-07-05T11:00:00+05:30",
+    "endDate": "2026-07-05T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Siri Fort, New Delhi, Delhi 110049, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55326250000000000000",
+        "longitude": "77.22100110000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "400.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag19",
+    "keywords": [
+      "Adventure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Hot Girls Do Pilates | SWAG x BASI (Model Town)",
+    "description": "Let\u2019s make your Sunday morning extra feel-good with Hot Girs Do Pilates, a guided pilates experience by SWAG \ud83d\udc9bWe have both reformer and mat pilates, but spots are limited!Come and feel fitter in the company of like-minded women, and stayback for a quick coffee/tea and some chit-chat!",
+    "startDate": "2026-07-05T11:00:00+05:30",
+    "endDate": "2026-07-05T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "2nd Floor, Model Town, F-14/17, near vodafone store, Model Town Phase 2, Phase 2, Model Town, new delhi, Delhi, 110033, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.70579230000000000000",
+        "longitude": "77.19057350000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "999.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag16",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Art of Folding",
+    "description": "The Art of FoldingOverviewA quiet practice of shaping and stillness.Using origami as a meditative, hands-on experience, participants slow down through simple folds and repetitive movement. One fold at a time.No fancy paper needed. This is a hands-on origami session using whatever you have lying around at home. Blinkit bags, newspapers, old book pages, packaging paper. If it folds, it works. Come make something with it.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to ExpectYour Blinkit bag is invited.Bring Your Paper: Blinkit bags, newspapers, old book pages, packaging paper, unused sheets. Anything works.Beginner-Friendly Shapes: We will work through cranes, butterflies, and doves together. No experience needed, just hands and patience.Fold Together: A quiet, unhurried session. You leave with something you made.We are making Sonobe LampDetails\ud83d\uddd3\ufe0f Date: 5th July (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Cha & Co, Grand View High Street\ud83c\udf9f\ufe0f Fee: \u20b9700",
+    "startDate": "2026-07-05T11:30:00+05:30",
+    "endDate": "2026-07-05T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ireo Grand View High Street, Sector 58, Gurugram, Haryana 122098, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41560020000000000000",
+        "longitude": "77.10258329999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/the-art-of-folding",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Taylor Swift Theme Party & Vinyl Listening",
     "description": "Calling all Swifties! \ud83d\udc96Join us for an evening dedicated to Taylor Swift, filled with music, dancing, games, and glittering showgirl energy.\ud83c\udfb6 Vinyl listening session of The Life of a Showgirl\u2728 Taylor-inspired ramp walk\ud83c\udfb2 Fun Swiftie games & challenges\ud83d\udc83 Dance party featuring your favorite Taylor hits\ud83d\udcf8 Photo moments & friendship bracelet exchangesDress Code: Bejewelled \u2022 Glam \u2022 Showgirl \ud83d\udc8e\ud83d\udcc5 5 July 2026| \ud83d\udccd Siyah Arthouse | \u23f0 4-8pmCome dressed in your favorite era and ready to shake it off. \u2728**Please Note:** The venue has a mandatory cover charge of \u20b9250 per person, which is separate from the event ticket price. This amount is fully redeemable against food and beverages purchased at the venue.",
@@ -478,6 +932,82 @@
     },
     "url": "https://urbanaut.app/spot/gft-is-business-education-already-outdated",
     "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Pickleball with SWAG | Gurugram",
+    "description": "The SWAG Pickleball Party is you perfect sunday evening plan!This is a women-only, beginner-friendly meet-up.See you on court!",
+    "startDate": "2026-07-05T18:00:00+05:30",
+    "endDate": "2026-07-05T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Sportyzo Sports Academy, Sector 65, Gurugram, Haryana 122101, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40450950000000000000",
+        "longitude": "77.07416250000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "360.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag23",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "BADDY WITH BADDIES (Gurugram)",
+    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.5:50 PM Meet up and Warm up Time6:00 PM Game TimeSee you on court!",
+    "startDate": "2026-07-05T18:00:00+05:30",
+    "endDate": "2026-07-05T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Sportyzo Badminton Academy, Emaar emerald hills, Golf Course Ext Rd, opposite Ivory Block, Sector 65, Gurugram, Haryana 122011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40465650000000000000",
+        "longitude": "77.07401440000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "250.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag22",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
       "URBANAUT"
     ]
   },
@@ -741,6 +1271,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Procrastireaders",
+    "description": "OverviewA slow reading circle designed around comfort, not pressure.Step into the wizarding world and celebrate the boy who lived, in true Procrastireaders style. Our \"Harry Potter's Birthday Edition\" is a cozy get together for anyone who grew up waiting for their Hogwarts letter. Come celebrate July 31st a little early, with fellow readers who still believe in magic, mischief, and a good butterbeer.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life's complexities from mental well being to personal growth with empathy and shared human connection.What to ExpectThe Concept: A relaxed, nostalgia filled session for anyone who has ever reread the series or wished their birthday came with an owl. Come as you are, no wands required.The Activities: Quizzes, house sorting conversations, favourite character debates, and a little friendly chaos over who really deserved Hermione.Shared Stories: We will talk about which book hit hardest, which character we related to most, and how the series shaped the way many of us fell in love with reading in the first place.Low Stakes: No pressure to have read every book seven times. Whether you are a die hard Potterhead or someone who just watched the movies, everyone is welcome at the table.Details\ud83d\uddd3\ufe0f Date: 11th July (Saturday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Unlocked, 32nd Avenue\u2615 Inclusion: Coffee included\ud83c\udf9f\ufe0f Fee: \u20b9700",
+    "startDate": "2026-07-11T11:30:00+05:30",
+    "endDate": "2026-07-11T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "32nd Avenue, Sector 15 Part 2, Sector 15, Gurugram, Haryana 122001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46162590000000000000",
+        "longitude": "77.05002540000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/the-procrastireaders",
+    "keywords": [
+      "Leisure",
+      "Pop-up Event",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "uL: When Did The News Stop Asking Questions?",
     "description": "Join us for a lecture that confronts something most of us have quietly accepted:That the news is broken, and we're all living inside the wreckage.About the LectureAround 2010\u20132012, something shifted in Indian media. Reporters stopped going to the ground. Anchors became the story. Debate replaced inquiry. And what started as a cost-cutting decision inside newsrooms \u2014 cheaper to fill airtime with argument than with reporting \u2014 rippled outward into your family dinner table, your city's politics, your ability to trust the person sitting next to you.This isn't a talk about fake news. It's about what happens when the system that's supposed to inform a society becomes the thing that destabilises it.When investigative journalism declines, people don't just get less information. They get more certainty from louder voices. One anchor's opinion gets repeated across five channels. That repetition becomes a \"fact.\" Your uncle shares it on WhatsApp. Your city believes it. A demolition happens. A mob gathers. And no one can trace it back to the moment a news channel decided that performance was cheaper than reporting.The contagion is real. Aggressive anchoring increases aggression in how families argue about politics. Sensational coverage of one story crowds out systemic issues \u2014 healthcare, economy, corruption. When journalism stops asking \"why,\" citizens stop asking it too.You can mute the news. You can delete Twitter. But if the system that shapes what your city believes, what your kids learn, what your government does \u2014 if that system is broken \u2014 you're not opting out. You're just operating with less information than everyone else.About the SpeakerManisha Pande is the Editor-in-Chief of Newslaundry and the host and writer of TV Newsance, one of India's most popular media satire shows. Over more than a decade, she has tracked, critiqued, and held accountable the institutions that shape how India understands itself \u2014 with sharp analysis and a refusal to look away.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
@@ -772,6 +1340,42 @@
     "url": "https://urbanaut.app/spot/ul-when-the-news-stopped-asking-questions",
     "keywords": [
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Cinema Circle",
+    "description": "OverviewA shared film-watching experience designed to feel cozy, intentional, and communal.People gather to slow down, watch together, and stay a little longer with the stories thatunfold on screen. Films, shared quietly.ThemeImtiaz Ali EditionThis month, we are diving into the world of Imtiaz Ali, a filmmaker known for stories about people finding themselves, often in the middle of losing everything else. Identity, love, and the quiet unraveling that happens when someone stops performing who they think they should be. Come watch it with us and find out who you meet on screen.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to ExpectWatch Together: We screen Weapons as a group. No prior viewing required, just show up.Discussion: Once the film ends, we talk through it. The psychology, the fear, the behaviour, whatever stayed with you.Details\ud83d\uddd3\ufe0f Date: 11 July (Saturday)\u23f0 Time: 6:00 PM\ud83d\udccd Location: Malibu Town, Gurugram\u2615 Inclusions: Diet Coke and snacks included\ud83c\udf9f\ufe0f Fee: \u20b9700",
+    "startDate": "2026-07-11T18:00:00+05:30",
+    "endDate": "2026-07-11T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Tower-4, MALIBU TOWNE, Malibu Towne, Sector 47, Gurugram, Haryana 122018, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.42324330000000000000",
+        "longitude": "77.04097460000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/cinema-circle",
+    "keywords": [
+      "Leisure",
       "URBANAUT"
     ]
   },
@@ -810,6 +1414,42 @@
       "History & heritage",
       "Guided tour",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Overthinkers Anonymous",
+    "description": "OverviewA gentle support circle for thoughts that feel a little too loud.A space to speak, reflect, or simply sit among people who understand emotional overwhelm.This edition explores a different kind of loneliness \u2014 the kind that exists even when life looks socially full. We'll talk about emotional disconnection, feeling unseen, surface-level conversations, difficulty forming close relationships, and why so many of us feel alone even when we're surrounded by people.Say as much or as little as you want. Come as you are.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to expectSharing: The session is built around honest conversation. People share what is on their mind, what they are carrying, what they keep coming back to.Group Discussion: We talk it through together. No advice unless asked, no pressure to have it figured out. Just people listening and being listened to.Details\ud83d\uddd3\ufe0f Date: 12th July (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Thamel, DLF Phase 1\ud83c\udf9f\ufe0f Contribution: \u20b9700",
+    "startDate": "2026-07-12T11:30:00+05:30",
+    "endDate": "2026-07-12T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shop No. 139, The shopping mall, Arjun Marg, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46589090000000000000",
+        "longitude": "77.09964640000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/overthinkers-anonymous",
+    "keywords": [
+      "Wellness",
       "URBANAUT"
     ]
   },
@@ -956,6 +1596,42 @@
       "Local",
       "Festival",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Procrastireaders : Books & Coffee Tasting",
+    "description": "The Procrastireaders: Books & Coffee TastingOverviewA slow reading circle designed around comfort, not pressure.People come together to read, exchange thoughts, and return to books in a way that feels lighter and more approachable. Stories, shared slowly.If you have been wanting to get back to reading but find it hard to make the time at home, this is for you. The Procrastireaders is a dedicated space to finally open that book you have been meaning to finish. It is a slow paced morning designed for quiet reading and great coffee in the company of others who are doing the same.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to expectBring Your Own Book: Whether it is a novel you started months ago or a new non fiction find, bring along whatever you are currently reading.Dedicated Reading Time: Enjoy a block of quiet, uninterrupted time to sink into your book without the distractions of chores or your phone.Shared Atmosphere: The comfort of reading alongside a small group of people who are also prioritizing their love for books.Coffee & Chat: A low pressure chance to talk about what you are reading (or why you have been procrastinating) over a coffee at Unlocked.Details\ud83d\uddd3\ufe0f Date: 18th July (Saturday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Sushant Lok Phase 1\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes Coffee)",
+    "startDate": "2026-07-18T11:30:00+05:30",
+    "endDate": "2026-07-18T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Sushant Lok Phase I, Sector 43, Gurugram, Haryana 122009, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46344120000000000000",
+        "longitude": "77.07675569999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/books-and-coffee-tasting",
+    "keywords": [
+      "Leisure",
       "URBANAUT"
     ]
   },
@@ -1147,6 +1823,43 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Open SketchBook",
+    "description": "Open SketchBookOverviewA slower way of seeing what\u2019s already there.People gather outdoors to observe, sketch, and spend time noticing details that often go unseen. No pressure. Just attention.Our core belief is that you do not need to leave the city to feel grounded. In a world where everyone is distracted, we pause as a group to give our attention to one shared thing. Sketching becomes the medium to notice small, living details in urban spaces that we usually rush through.You do not need to be an artist to enjoy sketching. Open SketchBook is a session for anyone who wants to explore drawing as a way to relax and observe the world. It is about the process of putting pencil to paper rather than the final masterpiece.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to expectGuided Observation: Learn simple ways to look at objects or spaces and translate them into lines and shapes.Creative Freedom: A judgment free zone where you can experiment with sketching without worrying about \"doing it right.\"Tactile Experience: Use your new diary and pencil kit to capture what you see in the moment.Relaxed Environment: Enjoy a late afternoon at Greenr with a small group of people who just want to create and connect.Details\ud83d\uddd3\ufe0f Date: 18th July (Saturday)\u23f0 Time: 5:30 PM\ud83d\udccd Location: Greenr, Golf Course Ext Road\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes an A6 diary)",
+    "startDate": "2026-07-18T17:30:00+05:30",
+    "endDate": "2026-07-18T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "First Floor, Grand View High Street, Golf Course Ext Rd, Sector 58, Gurugram, Haryana 122098, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41623070000000000000",
+        "longitude": "77.10243700000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/open-sketchbook",
+    "keywords": [
+      "Leisure",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Safdarjung Tomb: Night Heritage Walk",
     "description": "Safdarjung\u2019s Tomb Night Heritage Walk(curated by Darwesh heritage walks in collaboration with Sabhyata Foundation)Join us for a journey into the fading glow of Mughal splendour at Safdarjung's Tomb \u2014 often called the *last flicker of Mughal grandeur* in Delhi.Built in 1754 for Safdarjung, the powerful Nawab of Awadh and Prime Minister of the Mughal court, this monument stands at the twilight of an empire \u2014 grand in ambition, yet carrying within it the quiet signs of decline.Its story is as fascinating as its form. From courtly intrigues and shifting loyalties to the architectural choices that reveal a changing political landscape, Safdarjung\u2019s life opens a compelling window into 18th-century Delhi.We will also trace a lesser-known layer of its history \u2014 how this tomb was constructed by reusing material from a pre-existing Mughal structure, quite literally building one memory over another.To truly understand Delhi \u2014 its rise, its resilience, and its gradual transitions \u2014 a visit to Safdarjung\u2019s Tomb is essential.Come, walk with us through the final chapter of Mughal architectural brilliance \u2014 where grandeur meets gravity, and history lingers in every arch.",
     "startDate": "2026-07-18T18:00:00+05:30",
@@ -1216,6 +1929,43 @@
     "keywords": [
       "History & heritage",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Overthinkers Anonymous - Relationships Edition",
+    "description": "Before You BlameOverviewA space for the relationships you carry but rarely talk about. People gather to finally say the things they've held back from a parent, a partner, a coworker, an in-law, anyone they can't avoid and can't quite be honest with. Said out loud, finally.Most relationship conflicts are not just about what happened; they are about how we interpret what happened. This session focuses on exploring how our thoughts shape our connections and why friction often feels more intense than the situation warrants. \"Before You Blame\" is a reflective workshop designed to help you look at your assumptions and inner patterns, moving you from reactivity toward steadiness and emotional responsibility.What is Stories of Hope?We are a community-led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities, from mental well-being to personal growth, with empathy and shared human connection.What to ExpectPattern Recognition: Explore how common emotional triggers and ego-driven patterns shape conflicts in marriage, family, or work.Internal Focus: Instead of trying to fix others, we gently shift the focus inward to understand our own interpretations and responses.Practical Tools: Learn actionable ways to question stressful thoughts and practice perspective shifts using real-life scenarios.Safe Exploration: A supportive, non-judgmental environment for honest discussion. This is a space for learning and reflection, not a lecture or therapy.Key TakeawaysClarity: Gain a deeper understanding of recurring relationship dynamics.Responsiveness: Walk away with tools to help you respond thoughtfully instead of reacting impulsively.Emotional Ownership: Build the internal steadiness needed to navigate life without requiring others to change first.Details\ud83d\uddd3\ufe0f Date: 12th July (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Joaah Cafe",
+    "startDate": "2026-07-19T11:30:00+05:30",
+    "endDate": "2026-07-19T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shop No. 18,19,28, Ascott Ireo City Central, behind Jagdish Store, Alahawas, Sector 59, Gurugram, Haryana 122011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40773430000000000000",
+        "longitude": "77.10356910000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "700.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/before-you-blame",
+    "keywords": [
+      "Wellness",
+      "Workshop",
       "URBANAUT"
     ]
   },
@@ -1364,6 +2114,42 @@
       "History & heritage",
       "Guided tour",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Listening Room",
+    "description": "The Listening Room: A Space for Deep ListeningOverviewIn a world that is always talking, we rarely get the chance to truly listen. The Listening Room is a unique session dedicated to the art of being present. It is a space to share, to hear others, and to practice the kind of attention that builds real connection and empathy.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to expectActive Listening: Practice being fully present while others speak without the need to interrupt or give immediate advice.Shared Stories: A safe environment to share your own thoughts or experiences and feel truly heard by a small group.Quiet Reflection: Moments of silence to process what has been shared and to notice how deep listening changes our perspective.Supportive Connection: A morning at Greenr focused on human presence and the simple power of witnessing each other\u2019s stories.Details\ud83d\uddd3\ufe0f Date: 25th July (Saturday)\u23f0 Time: 11:00 AM\ud83d\udccd Location: Greenr, Golf Course Ext Road\ud83c\udf9f\ufe0f Contribution: \u20b9700",
+    "startDate": "2026-07-25T11:00:00+05:30",
+    "endDate": "2026-07-25T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "First Floor, Grand View High Street, Golf Course Ext Rd, Sector 58, Gurugram, Haryana 122098, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41623070000000000000",
+        "longitude": "77.10243700000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/listening-room",
+    "keywords": [
+      "Wellness",
       "URBANAUT"
     ]
   },
