@@ -1,23 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "The Patriot(2000)",
-    "url": "https://fillum.in/screening/5763",
-    "startDate": "2026-07-02T14:00:00+05:30",
-    "endDate": "2026-07-02T14:00:00+05:30",
-    "description": "",
-    "location": {
-      "@type": "Place",
-      "name": "American Center, Kasturba Gandhi Marg",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "American Center New Delhi"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "If I Could Tell You(2024)",
     "url": "https://fillum.in/screening/5780",
     "startDate": "2026-07-02T18:00:00+05:30",
@@ -142,6 +125,23 @@
     "startDate": "2026-07-05T12:00:00+05:30",
     "endDate": "2026-07-05T12:00:00+05:30",
     "description": "Film #1 from Pier Paolo Pasolini's 'Trilogy of Life'In the early 1970s, the great Italian poet, philosopher, and filmmaker Pier Paolo Pasolini brought to the screen a trio of masterpieces of med..more",
+    "location": {
+      "@type": "Place",
+      "name": "mool, South Ex II",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "The Canterbury Tales(1972)",
+    "url": "https://fillum.in/screening/5772",
+    "startDate": "2026-07-05T14:00:00+05:30",
+    "endDate": "2026-07-05T14:00:00+05:30",
+    "description": "Film #2 from Pier Paolo Pasolini's 'Trilogy of Life'Eight of Geoffrey Chaucer\u2019s lusty tales come to life on-screen in Pier Paolo Pasolini\u2019s gutsy and delirious The Canterbury Tales, which wa..more",
     "location": {
       "@type": "Place",
       "name": "mool, South Ex II",
