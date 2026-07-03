@@ -1,44 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "The Matcha Circle",
-    "description": "OverviewA shared matcha-making experience where simple acts of whisking, pouring, and preparing create calm.People gather over matcha, conversation, and the quiet rhythm of making something by hand. One cup at a time.Matcha Experience: A Taste of CalmExperience the calming art of green tea in a session dedicated to mindfulness and flavor. This gathering is designed to help you slow down and appreciate the details of a centuries old tradition. \"The Matcha Circle\" offers a peaceful space to learn, taste, and connect at the end of a long week.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to ExpectGuided Introduction: Learn about the history and the unique process of preparing matcha from farm to cup.The Ritual: Watch and learn how the tea is whisked to create its signature froth and deep flavor.Tasting Session: Enjoy a premium matcha drink prepared just for you at Cha & Co.Quiet Conversation: Join a small group setting to talk about finding moments of peace in a busy week over a comforting cup.Details\ud83d\uddd3\ufe0f Date: 3rd July (Friday)\u23f0 Time: 6:30 PM\ud83d\udccd Location: Cha & Co, Grand View High Street\ud83c\udf75 Inclusion: Matcha drink included\ud83c\udf9f\ufe0f Fee: \u20b9700",
-    "startDate": "2026-07-03T18:30:00+05:30",
-    "endDate": "2026-07-03T20:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Ireo Grand View High Street, Sector 58, Gurugram, Haryana 122098, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.41560020000000000000",
-        "longitude": "77.10258329999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "661.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/matcha-experience",
-    "keywords": [
-      "Leisure",
-      "Workshop",
-      "History & heritage",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Vietnamese supper club by chef gulzi",
     "description": "Course 1-Green MANGO SALAD-As fresh as it can get ,the delicious raw mango salad is fresh,vibrant with contrasting flavours & textures.Course 2-Fresh Spring rollsWe know them as Rice paper rolls but In vietnam you call these  Fresh Spring roll.Made fresh with greens & herbs this is their go to snack.We bring to you a delicious version of itCourse 3-Vietnamese PhoThere is nothing that a bowl of soup /pho cant fix,your natural collagen with all the goodness:)Course 4-Braised Lemongrass fish with Lemongrass Rice congee& Braised fresh vegetables in spicy lemongrass stockCourse 5-Nem Luimake your own with Herbs,lettuce,Chicken/Veg goodnesscommunal dish that brings everyone togetherCourse 6Fresh coconut icecream with fresh coconut & Mango*WE CATER TO ALL DIETARY AND HEALTH REQUIREMENTS*DO CONTACT 9910070342 IF YOU HAVE ANY REQUIREMENTS",
@@ -1051,6 +1013,43 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "TUESDAY GAME NIGHT",
+    "description": "Hey everyone! Joining us for Game Night this Tuesday?\ud83d\udcc5 7th July | 7:00 PM onwards\ud83d\udccd Project Otenga, Delhi\ud83d\udcb0 \u20b9300 per personWe're playing some absolute favourites \u2014 Azul, Kingdomino & Herbaceous. Whether you're a seasoned player or just board-game-curious, come as you are!",
+    "startDate": "2026-07-07T19:00:00+05:30",
+    "endDate": "2026-07-07T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gate No. 1, Bahadur Shah Zafar Marg, inside Shaheedi park, Balmiki Basti, Vikram Nagar, New Delhi, Delhi, 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.63445520000000000000",
+        "longitude": "77.24131700000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "300.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Project Otenga",
+      "url": "https://urbanaut.app/partner/project-otenga"
+    },
+    "url": "https://urbanaut.app/spot/tuesday-game-night",
+    "keywords": [
+      "Leisure",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Slow Burn - A 4 Course Drinking Experience",
     "description": "Tucked into a corner of Lodhi Colony, The Love Hotel is Delhi's best-kept secret \u2014 a 20-seat cocktail room that takes its cues from the love hotels of Japan. It's intimate without being intense, flirtatious without trying too hard.Slow Burn is a four-course cocktail tasting built for this room \u2014 but where most tasting menus put food at the centre, here the cocktails play hero.It begins the second you walk in with a welcome shot. From there, four cocktails unfold in sequence \u2014 each its own chapter, drawn from the same five-taste philosophy that powers The Love Hotel's acclaimed program. Every pour lands with a course of tapas alongside it.An evening where the spirit leads, and the plate follows. And with only twenty seats, the room stays intimate & exclusive.",
@@ -1482,6 +1481,9 @@
     },
     "url": "https://urbanaut.app/spot/the-sultanates-canvas-sayyid-grace-lodhi-might-14685",
     "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
       "URBANAUT"
     ]
   },
