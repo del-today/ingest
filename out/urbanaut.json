@@ -2336,40 +2336,5 @@
       "Food & drink",
       "URBANAUT"
     ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "World Cup Watch party : Spain vs Austria",
-    "description": "Gully Labs x WeFootballin. Game Night at Gully Labs, Panchsheel Park. July 3rd, 12:00 AM onwards.unlimited beer, Red Bull, or whatever gets you through extra time. plus beer pong and the first 10 to arrive walk out with an exclusive GL jersey.",
-    "startDate": "2026-07-03T00:00:00+05:30",
-    "endDate": "2026-07-03T03:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54778550000000000000",
-        "longitude": "77.21136729999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1048.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Gully Labs",
-      "url": "https://urbanaut.app/partner/baithak"
-    },
-    "url": "https://urbanaut.app/spot/world-cup-watch-party-spain-vs-austria",
-    "keywords": [
-      "URBANAUT"
-    ]
   }
 ]
