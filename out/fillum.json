@@ -5,7 +5,7 @@
     "url": "https://fillum.in/screening/5759",
     "startDate": "2026-07-04T11:30:00+05:30",
     "endDate": "2026-07-04T11:30:00+05:30",
-    "description": "",
+    "description": "Registration closed.",
     "location": {
       "@type": "Place",
       "name": "The Japan Foundation, Green Park",
@@ -120,11 +120,45 @@
   },
   {
     "@type": "ScreeningEvent",
+    "name": "Weekend(1967)",
+    "url": "https://fillum.in/screening/5789",
+    "startDate": "2026-07-05T12:10:00+05:30",
+    "endDate": "2026-07-05T12:10:00+05:30",
+    "description": "Snacks | Drinks | DiscussionWalking Distance to GK-1 Market & Kailash Colony Market",
+    "location": {
+      "@type": "Place",
+      "name": "iPley Music Studio, GK-1, South Delhi",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "SomeArt"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "The Canterbury Tales(1972)",
     "url": "https://fillum.in/screening/5772",
     "startDate": "2026-07-05T14:00:00+05:30",
     "endDate": "2026-07-05T14:00:00+05:30",
     "description": "Film #2 from Pier Paolo Pasolini's 'Trilogy of Life'Eight of Geoffrey Chaucer\u2019s lusty tales come to life on-screen in Pier Paolo Pasolini\u2019s gutsy and delirious The Canterbury Tales, which wa..more",
+    "location": {
+      "@type": "Place",
+      "name": "mool, South Ex II",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Arabian Nights(1974)",
+    "url": "https://fillum.in/screening/5773",
+    "startDate": "2026-07-05T16:00:00+05:30",
+    "endDate": "2026-07-05T16:00:00+05:30",
+    "description": "Film #3 from Pier Paolo Pasolini's 'Trilogy of Life'Pier Paolo Pasolini traveled to Africa, Nepal, and the Middle East to realize this ambitious cinematic treatment of a selection of stories fro..more",
     "location": {
       "@type": "Place",
       "name": "mool, South Ex II",

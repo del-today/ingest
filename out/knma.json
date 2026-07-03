@@ -20,15 +20,15 @@
     ]
   },
   {
-    "@type": "ExhibitionEvent",
-    "name": "Pata Dekhabo?",
-    "url": "https://www.knma.org/whats-on/exhibitions/pata-dekhabo",
-    "startDate": "2026-05-22T10:00:00+05:30",
-    "endDate": "2026-11-22T18:00:00+05:30",
-    "description": "Pattachitra",
+    "@type": "EducationEvent",
+    "name": "Curator-led Walkthrough: TYEB MEHTA Retrospective",
+    "url": "https://www.knma.org/whats-on/guided-tours/curated-walkthrough-tyeb-mehta-retrospective",
+    "startDate": "2026-04-18T10:00:00+05:30",
+    "endDate": "2026-07-25T18:00:00+05:30",
+    "description": "",
     "location": {
       "@type": "Place",
-      "name": "KNMA Art Passage",
+      "name": "KNMA, New Delhi",
       "address": "New Delhi"
     },
     "organizer": {
@@ -40,15 +40,15 @@
     ]
   },
   {
-    "@type": "EducationEvent",
-    "name": "Material and Memory",
-    "url": "https://www.knma.org/whats-on/workshops/material-and-memory-saturday-family-workshop-whats-on-at-knma",
-    "startDate": "2026-07-04T10:00:00+05:30",
-    "endDate": "2026-07-04T10:00:00+05:30",
-    "description": "",
+    "@type": "ExhibitionEvent",
+    "name": "Pata Dekhabo?",
+    "url": "https://www.knma.org/whats-on/exhibitions/pata-dekhabo",
+    "startDate": "2026-05-22T10:00:00+05:30",
+    "endDate": "2026-11-22T18:00:00+05:30",
+    "description": "Pattachitra",
     "location": {
       "@type": "Place",
-      "name": "KNMA, New Delhi",
+      "name": "KNMA Art Passage",
       "address": "New Delhi"
     },
     "organizer": {
@@ -120,12 +120,72 @@
     ]
   },
   {
+    "@type": "EducationEvent",
+    "name": "Continuous Narration in Art",
+    "url": "https://www.knma.org/whats-on/workshops/continuous-narration-in-art",
+    "startDate": "2026-07-18T10:00:00+05:30",
+    "endDate": "2026-07-18T10:00:00+05:30",
+    "description": "Saturday Family Workshop",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Khatta Meetha",
+    "url": "https://www.knma.org/whats-on/workshops/khatta-meetha",
+    "startDate": "2026-07-18T10:00:00+05:30",
+    "endDate": "2026-07-18T10:00:00+05:30",
+    "description": "Artist in Me",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
     "@type": "Event",
     "name": "IF ONLY (PLAY)",
     "url": "https://www.knma.org/whats-on/events/if-only-play",
     "startDate": "2026-07-22T10:00:00+05:30",
     "endDate": "2026-07-24T18:00:00+05:30",
     "description": "WeekendsatKNMA",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Critical Material",
+    "url": "https://www.knma.org/whats-on/workshops/critical-material",
+    "startDate": "2026-07-25T10:00:00+05:30",
+    "endDate": "2026-07-26T18:00:00+05:30",
+    "description": "Standalone",
     "location": {
       "@type": "Place",
       "name": "KNMA, New Delhi",
