@@ -1,155 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Hot Girls Do Pilates | Defence Colony",
-    "description": "Let\u2019s make your Sunday morning extra feel-good with Hot Girls Do Pilates, a guided pilates experience by SWAG \ud83d\udc9bThis is a reformer pilates session with limited spots!Come and feel fitter in the company of like-minded women, and stayback for some chit-chat!",
-    "startDate": "2026-07-04T11:00:00+05:30",
-    "endDate": "2026-07-04T12:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "A322, Block A, Defence Colony, New Delhi, Delhi 110024, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.57351930000000000000",
-        "longitude": "77.22945200000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1399.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag15",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "In Her Interest by Zerodha - Mutual Funds 101, Delhi",
-    "description": "Women have a complicated relationship with money. And it starts early. Many families shield their daughters from anything related to \u2018finance\u2019, but this well-meaning protection ends up being a disservice. For when these young women step into the real world, they lack the confidence to make financial decisions -\u00a0not because they\u2019re incapable, but because they were never given information on budgeting, savings, and investments. Later in life, many continue to rely on their partners for investment decisions. This dependency on others will only stop when they have the right information and toolkit to take back control. That\u2019s where we come in.We come back with our second 'In Her Interest'  session on 4th July in Delhi and will focus on one core idea:Mutual Funds 101 - all you need to know.\ufeffThe session will be led by two amazing experts who truly get it.Shilpa Bhaskar GoleCertified Financial Planner\u00ae (CFP\u00ae) | Founder NerdyBird Wealth Advisory LLP - a Non-Individual SEBI Registered Investment Adviser (RIA)Neha SinghFounder at Womoneysta | Certified Financial Planner | SEBI-registered Once you buy a ticket, you also get to send a question that the speakers will address during the session.Note: Each session is theme-based. This session is about understanding Mutual Funds - we are not talking stocks and shares.",
-    "startDate": "2026-07-04T11:00:00+05:30",
-    "endDate": "2026-07-04T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Mehrauli-Gurgaon Rd, Heritage City, Sector 25, Gurugram, Haryana 122009, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.48090850000000000000",
-        "longitude": "77.08027980000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "892.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "In Her Interest by Zerodha",
-      "url": "https://urbanaut.app/partner/inherinterest"
-    },
-    "url": "https://urbanaut.app/spot/mutualfunds101",
-    "keywords": [
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Aerial Yoga Workshop",
-    "description": "Experience yoga from an entirely new perspective.Join us for a premium Aerial Yoga Workshop where traditional yoga meets the freedom of movement in an aerial hammock. Designed for beginners and experienced practitioners alike, this immersive session combines mindful movement, deep stretching, strength-building, balance, and playful exploration.Using the support of the hammock, you'll safely explore inversions, improve flexibility, strengthen your core, and decompress your spine while moving through guided flows in a welcoming environment.Whether you're looking to try something new, build confidence, improve mobility, or simply enjoy a unique wellness experience, this workshop offers the perfect blend of challenge, relaxation, and fun.What you'll experience:\u2022 Guided aerial yoga flow suitable for first-timers\u2022 Deep assisted stretches using the hammock\u2022 Strength and core activation exercises\u2022 Beginner-friendly inversions and floating relaxation\u2022 Breathwork and mindful movement\u2022 A calming final relaxation in the hammockLeave feeling lighter, stronger, more flexible, and deeply refreshed.",
-    "startDate": "2026-07-04T11:30:00+05:30",
-    "endDate": "2026-07-04T12:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "E5, Market Rd, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46575680000000000000",
-        "longitude": "77.09909929999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1299.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Immersion Room",
-      "url": "https://urbanaut.app/partner/theimmersionroom"
-    },
-    "url": "https://urbanaut.app/spot/aerial-yoga-workshop-hammock-yoga-workshop-at-tir-gurugram",
-    "keywords": [
-      "Premium",
-      "Wellness",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "The Drafting Table",
-    "description": "OverviewA quiet writing circle for thoughts that haven\u2019t fully formed yet.Through short writing sprints and reflective prompts, people return to the practice ofputting words on paper, slowly and honestly. A place to begin.ThemeA quiet writing session around the stories hidden inside forgotten objects.In this edition of The Drafting Table, every participant receives a mysterious object card.It could be a torn letter, a cracked mirror, a sealed envelope, a child's wooden toy, or something else carrying the feeling of an unfinished story.Through two guided writing sprints, you'll write fiction scenes or stories centered on the object.There are no right answers and no writing experience needed. Just a prompt, uninterrupted writing time, and the freedom to imagine.At the end, anyone who wishes can share what they wrote with the group.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to ExpectA Short Intro: We open with a brief framing of the theme and a prompt to get you started. No pressure to use it, just a way in.Writing Time: The bulk of the session is yours. Quiet, unhurried time to write whatever the character needs you to write.Open Mic: We close with an optional read-aloud. Share what you wrote, or just listen. Both are completely fine.Details\ud83d\uddd3\ufe0f Date: 4th July (Saturday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Joaah Cafe, Ireo City Central\ud83c\udf9f\ufe0f Fee: \u20b9700",
-    "startDate": "2026-07-04T11:30:00+05:30",
-    "endDate": "2026-07-04T13:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Shop No. 18,19,28, Ascott Ireo City Central, behind Jagdish Store, Alahawas, Sector 59, Gurugram, Haryana 122011, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.40773430000000000000",
-        "longitude": "77.10356910000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "661.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/the-drafting-table",
-    "keywords": [
-      "Workshop",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Apartment Cafe Supper Club",
     "description": "Apartment Caf\u00e9: A Melbourne-Inspired Brunch Experience By V's Supper Stories4th July | 12:00pm - 3pm5th July | 12:00pm - 3pmFor one weekend, we're bringing a little bit of Melbourne's caf\u00e9 culture to Delhi.Expect a leisurely brunch featuring house-made granola, toasted banana bread, corn fritters with avocado and whipped feta, shakshuka, mushrooms on toast, brioche French toast with caramelised bananas, good coffee, and shared tables.Designed around the idea of slow mornings and long conversations, Apartment Caf\u00e9 is less about rushing through a meal and more about taking your time.Come for the brunch. Stay for the company.What's Included:Full Melbourne-inspired brunch menuCoffee bar Limited seats available.",
@@ -2046,7 +1897,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "MATKI",
-    "description": "Join us for MATKI\u2014an immersive evening of storytelling, live music, interaction, and a specially curated dining experience shared around one table.\ud83d\udccd Project Otenga, Delhi\ud83d\udcc5 Sunday, 19 July 2026\u23f0 7:00 PM onwardsLeave with stories, conversations, and memories worth carrying.\ud83c\udf9f\ufe0f BOOK NOW TO AVAIL EARLY BIRD DISCOUNT.",
+    "description": "Join us for MATKI\u2014an immersive evening of storytelling, live music, interaction, and a specially curated dining experience shared around one table.\ud83d\udccd Project Otenga, Delhi\ud83d\udcc5 Sunday, 19 July 2026\u23f0 7:00 PM onwardsLeave with stories, conversations, and memories worth carrying.",
     "startDate": "2026-07-19T19:00:00+05:30",
     "endDate": "2026-07-19T21:00:00+05:30",
     "location": {
@@ -2151,6 +2002,45 @@
     "url": "https://urbanaut.app/spot/listening-room",
     "keywords": [
       "Wellness",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Cultures In Bloom : Himachal Edit",
+    "description": "\u201cCultures in Bloom\u201d is a sensory feast of Himachal\u2019s living food traditions from breads and sweets to savoury dishes and pickles, all rooted in fermentation. Expect interactive tastings, soulful storytelling, and a celebration of heritage where food is alive and culture is shared. In collaboration with TenaciousBeehive, this experience blends mountain authenticity with creative flair, bringing Himachal\u2019s cultural flavours to life.Facilitator: Nitika Kuthiala and Tenaciousbeehive team.",
+    "startDate": "2026-07-25T12:30:00+05:30",
+    "endDate": "2026-07-25T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gate No. 1, Bahadur Shah Zafar Marg, inside Shaheedi park, Balmiki Basti, Vikram Nagar, New Delhi, Delhi, 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.63445520000000000000",
+        "longitude": "77.24131700000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1799.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Project Otenga",
+      "url": "https://urbanaut.app/partner/project-otenga"
+    },
+    "url": "https://urbanaut.app/spot/culture-in-bloom-himachal-edit",
+    "keywords": [
+      "Wellness",
+      "Eco Friendly",
+      "Food & drink",
+      "Art & culture",
       "URBANAUT"
     ]
   },
