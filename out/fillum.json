@@ -1,19 +1,53 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "Arabian Nights(1974)",
-    "url": "https://fillum.in/screening/5773",
-    "startDate": "2026-07-05T16:00:00+05:30",
-    "endDate": "2026-07-05T16:00:00+05:30",
-    "description": "Film #3 from Pier Paolo Pasolini's 'Trilogy of Life'Pier Paolo Pasolini traveled to Africa, Nepal, and the Middle East to realize this ambitious cinematic treatment of a selection of stories fro..more",
+    "name": "Short Film Collection",
+    "url": "https://fillum.in/event/5782",
+    "startDate": "2026-07-07T16:30:00+05:30",
+    "endDate": "2026-07-07T16:30:00+05:30",
+    "description": "\u00b7 Newly Dead by Sneha Gupta\u00b7 Nazar by Siddhanth Nigam\u00b7 Flowers by Darshit Chudasma\u00b7 The Third Place by Sarth Kapil",
     "location": {
       "@type": "Place",
-      "name": "mool, South Ex II",
-      "address": "South Ex II, New Delhi"
+      "name": "TOT Studio, Lajpat Nagar",
+      "address": "Delhi"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Out of Sequence"
+      "name": "Sneha Gupta"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Khidki Gaav - If on a Winter's Night(2025)",
+    "url": "https://fillum.in/screening/5784",
+    "startDate": "2026-07-07T18:00:00+05:30",
+    "endDate": "2026-07-07T18:00:00+05:30",
+    "description": "Free entry. No registration required.",
+    "location": {
+      "@type": "Place",
+      "name": "C. D. Deshmukh Auditorium, India International Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "India International Centre"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Magazine(2026)",
+    "url": "https://fillum.in/screening/5802",
+    "startDate": "2026-07-13T18:30:00+05:30",
+    "endDate": "2026-07-13T18:30:00+05:30",
+    "description": "Free entry. No registration required.",
+    "location": {
+      "@type": "Place",
+      "name": "C. D. Deshmukh Auditorium, India International Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "India International Centre"
     }
   }
 ]
