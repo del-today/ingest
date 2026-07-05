@@ -1,82 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Apartment Cafe Supper Club",
-    "description": "Apartment Caf\u00e9: A Melbourne-Inspired Brunch Experience By V's Supper Stories4th July | 12:00pm - 3pm5th July | 12:00pm - 3pmFor one weekend, we're bringing a little bit of Melbourne's caf\u00e9 culture to Delhi.Expect a leisurely brunch featuring house-made granola, toasted banana bread, corn fritters with avocado and whipped feta, shakshuka, mushrooms on toast, brioche French toast with caramelised bananas, good coffee, and shared tables.Designed around the idea of slow mornings and long conversations, Apartment Caf\u00e9 is less about rushing through a meal and more about taking your time.Come for the brunch. Stay for the company.What's Included:Full Melbourne-inspired brunch menuCoffee bar Limited seats available.",
-    "startDate": "2026-07-04T12:00:00+05:30",
-    "endDate": "2026-07-05T15:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "10West, Sant Nagar, Sainik Farm, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52049300000000000000",
-        "longitude": "77.20161399999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3000.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "V's Supper Stories",
-      "url": "https://urbanaut.app/partner/vsupperstories"
-    },
-    "url": "https://urbanaut.app/spot/apartmentcafe",
-    "keywords": [
-      "Local",
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Begum & her Hookah heritage walk : Chandni Chowk",
-    "description": "Join us as we excavate the little known stories of the women who through the changing and often challenging times have continued to enrich the city\u2019s historical and cultural landscape. We will meander through streets around the Chandni Chowk area, sharing stories of Begums, shadows Empresses, Nautch girls, Milk mothers, Havelis and Harems.In this walk we walk the by-lanes of Shahjahanabad looking for stories of the bygone era, making the women who shaped the city and its history our focus.Milestones of our journey will be:1.\tDigambar Jain Temple (Lal Mandir), Sunehri Masjid, Gauri Shankar temple, Sis Ganj Gurudwara2.\tBegum Samru Ki haveli3.\tDariba Kalan (Silver Street): The Street of the Incomparable Pearl4.\tKinari Bazaar(Wedding street)5.\tNaughara (Nine Jain houses)6.\tParanthe wali Gali7.\tTownhall building8.\tLala Chunnamal ki Haveli9.\tFatehpuri Masjid : (Built in 1650s by emperor Shahjahan\u2019s wife Fatehpuri Begum)10.\tKhari Baoli (the biggest spice market in Asia)",
-    "startDate": "2026-07-05T08:00:00+05:30",
-    "endDate": "2026-07-05T10:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Chandni Chowk, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.65053310000000000000",
-        "longitude": "77.23033699999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "800.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "DARWESH_TALEWEAVERS",
-      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
-    },
-    "url": "https://urbanaut.app/spot/begum-her-hookah-heritage-walk-chandni-chowk",
-    "keywords": [
-      "History & heritage",
-      "Guided tour",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Immersive Yogilates at The Immersion Room",
     "description": "Yogilates: Beach Edition \ud83c\udfd6\ufe0f\ud83c\udf0aA 1-hour immersive movement experience inspired by the rhythm of the sea.Escape the city's pace and step into a beach-inspired wellness experience where movement, music, immersive visuals, and refreshing summer sips come together.This isn't just another fitness class\u2014it's a carefully curated sensory journey that blends the mindful flow of Yoga with the strength and precision of Pilates, leaving you feeling stronger, lighter, and completely refreshed.\ud83c\udf0a What Makes This Experience SpecialTwo disciplines. One seamless flow.Experience every movement through two unique approaches:\u2022 Yoga\u2014 mindful alignment, breath, flexibility, and balance.\u2022 Pilates \u2014 deep core activation, strength, control, and stability.Rather than separating the practices, they are woven together into one continuous sequence, creating an experience that feels fluid, energising, and immersive from beginning to end.\u2600\ufe0f The Beach ExperienceImagine moving beside the ocean\u2014without leaving the city.Expect calming beach-inspired visuals, uplifting music, intentional movement, and a refreshing post-session summer sip that completes the experience.Every detail has been thoughtfully designed to help you disconnect from everyday life and reconnect with your body.\u2728 What You Can Expect\u2022 An immersive Yoga + Pilates flow\u2022 Full-body strengthening with deep core activation\u2022 Improved flexibility, posture, balance, and mobility\u2022 Breath-led movement that builds awareness and reduces stress\u2022 A welcoming practice suitable for all experience levels\u2022 Refreshing summer sips after classYou'll leave feeling energised, grounded, and refreshed\u2014as though you've just spent the morning by the beach.Come for the workout. Stay for the escape.",
@@ -261,6 +185,44 @@
     "keywords": [
       "Leisure",
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Apartment Cafe Supper Club",
+    "description": "Apartment Caf\u00e9: A Melbourne-Inspired Brunch Experience By V's Supper Stories4th July | 12:00pm - 3pm5th July | 12:00pm - 3pmFor one weekend, we're bringing a little bit of Melbourne's caf\u00e9 culture to Delhi.Expect a leisurely brunch featuring house-made granola, toasted banana bread, corn fritters with avocado and whipped feta, shakshuka, mushrooms on toast, brioche French toast with caramelised bananas, good coffee, and shared tables.Designed around the idea of slow mornings and long conversations, Apartment Caf\u00e9 is less about rushing through a meal and more about taking your time.Come for the brunch. Stay for the company.What's Included:Full Melbourne-inspired brunch menuCoffee bar Limited seats available.",
+    "startDate": "2026-07-05T12:00:00+05:30",
+    "endDate": "2026-07-05T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "10West, Sant Nagar, Sainik Farm, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52049300000000000000",
+        "longitude": "77.20161399999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "V's Supper Stories",
+      "url": "https://urbanaut.app/partner/vsupperstories"
+    },
+    "url": "https://urbanaut.app/spot/apartmentcafe",
+    "keywords": [
+      "Local",
+      "Pop-up Event",
+      "Food & drink",
       "URBANAUT"
     ]
   },
