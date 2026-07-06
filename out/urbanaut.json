@@ -2,6 +2,41 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Spain vs Portugal",
+    "description": "Join us for an exciting screening of Spain \ud83c\uddea\ud83c\uddf8 vs Portugal \ud83c\uddf5\ud83c\uddf9 \u26bd Round of 16 on 6th July, Monday, 10:30 PM onwards.Venue: Gully Labs, Local Shopping Center, 14, Panchsheel Park, New Delhi, Delhi 110017Registration Fee: \u20b9999 per personIncludes: games night + unlimited beer + match screeningLimited spots only \u2014 register now to confirm your entry!",
+    "startDate": "2026-07-07T00:00:00+05:30",
+    "endDate": "2026-07-07T02:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1048.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
+    },
+    "url": "https://urbanaut.app/spot/spain-vs-portugal",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "TUESDAY GAME NIGHT",
     "description": "Hey everyone! Joining us for Game Night this Tuesday?\ud83d\udcc5 7th July | 7:00 PM onwards\ud83d\udccd Project Otenga, Delhi\ud83d\udcb0 \u20b9300 per personWe're playing some absolute favourites \u2014 Azul, Kingdomino & Herbaceous. Whether you're a seasoned player or just board-game-curious, come as you are!",
     "startDate": "2026-07-07T19:00:00+05:30",
@@ -986,6 +1021,44 @@
       "url": "https://urbanaut.app/partner/darwesh_taleweavers"
     },
     "url": "https://urbanaut.app/spot/safdtombwalk",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Raat Ke Afsane : Qutub Minar",
+    "description": "Experience the magic of Qutub Minar like never before\u2014under the stars and glowing lights. This is a guided heritage walk led by a historian, who will take you through the stunning Qutub complex after dark. As the entire site is beautifully illuminated at night, the minaret shines like Delhi\u2019s very own Eiffel Tower\u2014majestic, mysterious, and unforgettable.Walk through centuries of history, discover forgotten stories, and explore Delhi\u2019s medieval past through engaging storytelling. The play of light, shadow, and silence transforms this heritage site into something truly cinematicPlaces we will cover : 1. Mughal Serai2. Alai Minar3. Iltutmish Tomb4. Qutub Minar5. Iron Pilar6. 27 Jain and hindu temples7. Alai Darwaza8. Alauddin Khilji grave and madarsa .Important Points:  1. Details of the heritage walk will be mailed to you when you book the tickets2. No guided fees for kids below 5.3. Medium of communication : Hindi and English4. Please note that in case of unavoidable external reasons such as (weather conditions, political rallies, VIP movement, powercut) the walk may be canceled. The participant has the liberty to take another walk by the company against the payment they have made within 30 days since the date of the registered walk.5. The company does not have refund policy.",
+    "startDate": "2026-07-18T18:30:00+05:30",
+    "endDate": "2026-07-25T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Qutub Minar Complex Rd, Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52371860000000000000",
+        "longitude": "77.18469040000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/raat-ke-afsane-qutub-minar",
     "keywords": [
       "Walking Tour",
       "History & heritage",
