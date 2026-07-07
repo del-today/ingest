@@ -1,43 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "TUESDAY GAME NIGHT",
-    "description": "Hey everyone! Joining us for Game Night this Tuesday?\ud83d\udcc5 7th July | 7:00 PM onwards\ud83d\udccd Project Otenga, Delhi\ud83d\udcb0 \u20b9300 per personWe're playing some absolute favourites \u2014 Azul, Kingdomino & Herbaceous. Whether you're a seasoned player or just board-game-curious, come as you are!",
-    "startDate": "2026-07-07T19:00:00+05:30",
-    "endDate": "2026-07-07T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Gate No. 1, Bahadur Shah Zafar Marg, inside Shaheedi park, Balmiki Basti, Vikram Nagar, New Delhi, Delhi, 110002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.63445520000000000000",
-        "longitude": "77.24131700000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "300.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Project Otenga",
-      "url": "https://urbanaut.app/partner/project-otenga"
-    },
-    "url": "https://urbanaut.app/spot/tuesday-game-night",
-    "keywords": [
-      "Leisure",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Slow Burn - A 4 Course Drinking Experience",
     "description": "Tucked into a corner of Lodhi Colony, The Love Hotel is Delhi's best-kept secret \u2014 a 20-seat cocktail room that takes its cues from the love hotels of Japan. It's intimate without being intense, flirtatious without trying too hard.Slow Burn is a four-course cocktail tasting built for this room \u2014 but where most tasting menus put food at the centre, here the cocktails play hero.It begins the second you walk in with a welcome shot. From there, four cocktails unfold in sequence \u2014 each its own chapter, drawn from the same five-taste philosophy that powers The Love Hotel's acclaimed program. Every pour lands with a course of tapas alongside it.An evening where the spirit leads, and the plate follows. And with only twenty seats, the room stays intimate & exclusive.",
@@ -1432,6 +1395,42 @@
       "url": "https://urbanaut.app/partner/unlecture"
     },
     "url": "https://urbanaut.app/spot/ul-the-secret-history-of-indian-sci-fi",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Emotion, Memory & Decision-Making Across Species",
+    "description": "Join us for a lecture that asks a question stranger than it first sounds: can a fish feel, remember, and decide the way you do?About the LectureEmotions and memories guide our decisions so that we remain safe, healthy, and able to pursue long-term goals. Fish and rodents are widely used as animal models to understand clinical disorders marked by emotion and impulsivity \u2014 depression, addiction, suicide \u2014 yet a wide gap remains between animal and human studies. We don't actually know if a fish or a rodent can think, feel, or behave the way we do.In this talk, we ask whether emotion and memory shape decision-making across fish, rodents, and humans, how this question can be tested, and what some of the results reveal. It's interdisciplinary work aimed at improving clinical insight \u2014 and, perhaps, helping us understand ourselves and what might genuinely be unique about human behaviour.About the SpeakerDr. Varsha Singh is a Professor at the Indian Institute of Technology Delhi, working at the intersection of neuroscience, behaviour, and cognition. Her interdisciplinary research uses animal models to probe questions about emotion, memory, and decision-making that have direct bearing on how we understand human mental health and behaviour.PS: Your Ticket Includes a 250/- Coupon Redeemable on F&BAbout unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from St. Stephen's, Delhi who wanted learning to feel warm, social and alive. Each event is an invitation to spend an evening with an idea.",
+    "startDate": "2026-07-26T17:00:00+05:30",
+    "endDate": "2026-07-26T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "No 59, PVR Priya Complex, Basant Lok, Vasant Vihar, New Delhi, Delhi 110057, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55719760000000000000",
+        "longitude": "77.16396630000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/emotion-memory-decision-making-across-species",
     "keywords": [
       "Food & drink",
       "URBANAUT"
