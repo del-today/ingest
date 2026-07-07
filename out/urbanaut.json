@@ -2,41 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "World Cup Watch Party: Spain vs Portugal",
-    "description": "Join us for an exciting screening of Spain \ud83c\uddea\ud83c\uddf8 vs Portugal \ud83c\uddf5\ud83c\uddf9 \u26bd Round of 16 on 6th July, Monday, 10:30 PM onwards.Venue: Gully Labs, Local Shopping Center, 14, Panchsheel Park, New Delhi, Delhi 110017Registration Fee: \u20b9999 per personIncludes: games night + unlimited beer + match screeningLimited spots only \u2014 register now to confirm your entry!",
-    "startDate": "2026-07-07T00:00:00+05:30",
-    "endDate": "2026-07-07T02:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54778550000000000000",
-        "longitude": "77.21136729999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1048.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Gully Labs",
-      "url": "https://urbanaut.app/partner/baithak"
-    },
-    "url": "https://urbanaut.app/spot/spain-vs-portugal",
-    "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "TUESDAY GAME NIGHT",
     "description": "Hey everyone! Joining us for Game Night this Tuesday?\ud83d\udcc5 7th July | 7:00 PM onwards\ud83d\udccd Project Otenga, Delhi\ud83d\udcb0 \u20b9300 per personWe're playing some absolute favourites \u2014 Azul, Kingdomino & Herbaceous. Whether you're a seasoned player or just board-game-curious, come as you are!",
     "startDate": "2026-07-07T19:00:00+05:30",
