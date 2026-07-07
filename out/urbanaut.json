@@ -1142,6 +1142,42 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Lala And The Pursuit of Moolah",
+    "description": "Join us for a lecture that asks a question most business textbooks skip entirely: what did Indian entrepreneurship look like centuries before the word \"startup\" existed?About the LectureIndian entrepreneurship remains strikingly under-represented in mainstream business literature. The balance tilted slightly with the government's enthusiasm for Startup India and its unicorns, but Indian entrepreneurship has a history stretching back hundreds of years before Zomato and Zerodha became household names. Most of us remain unaware of how Indian tradesmen and entrepreneurs innovated financial instruments, credit systems, accounting practices, and contract management long before these ideas appeared in Harvard textbooks \u2014 and of how much of that legacy has since faded into obscurity.About the SpeakerDr. Nihar Amoncar is Pro Vice Chancellor at IILM University and Director of the IILM School of Management. He completed his PhD in Family Business Strategy on a full scholarship from the University of South Wales, and has won several global awards for his research on traditional business communities, including the Best Paper Award at the Academy of Marketing. He is a Fellow of Higher Education (UK), serves on the Board of the Academy of Marketing's Special Interest Group on Entrepreneurship and Marketing, and is the Asia representative of GRCME (USA).PS: Your Ticket Includes a 250/- Coupon Redeemable on F&BAbout unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from St. Stephen's, Delhi who wanted learning to feel warm, social and alive. Each event is an invitation to spend an evening with an idea.",
+    "startDate": "2026-07-19T17:00:00+05:30",
+    "endDate": "2026-07-19T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Basement, Ground floor and First floor Building no. 12, Panchsheel Community Centre, Shahpur Jat, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54805190000000000000",
+        "longitude": "77.21147640000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/lala-and-the-pursuit-of-moolah",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Haunted Walk: Mehrauli Archaeological Park",
     "description": "Join us for a hauntingly beautiful night walk through the Mehrauli Archaeological Park, a place where centuries of Delhi\u2019s history come alive\u2014alongside tales of the unseen. In this special segment, Ruhaani Raatein, we delve into the world of djinns, the mystical beings believed to reside in this ancient land.Guided by a historian and storyteller, we\u2019ll explore how djinns are viewed and worshipped in Islamic traditions, and how folklore continues to shape the spiritual character of Mehrauli even today.Our walk will take you through: The tomb of Jamali Kamali, often called the Gay Taj Mahal for its poetic mystique and timeless love story A haunting 500-year-old baoli (stepwell)The remnants of a British-era swimming pool, hidden in plain sight A peaceful lakeside caf\u00e9, perfect for ending the evening with a quiet reflection or a warm chaiAs night falls and shadows grow, let the stories guide you through one of Delhi\u2019s oldest, most magical spaces\u2014where the past is never truly past.",
@@ -1473,6 +1509,41 @@
     "keywords": [
       "History & heritage",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "You Didn't Choose The Image; It's Deciding For You",
+    "description": "Join us for a lecture that asks a deceptively simple question: who actually gets to decide what a hero, a victim, or a good life looks like?About the LectureWe don't choose the images that come to define us, and yet they decide more than we realise. A single gaze on a movie poster decides who counts as a hero. A familiar narrative arc decides who counts as a believable victim. A curated feed decides what a good life is supposed to look like.This talk moves through three of the speaker's own published studies \u2014 on Malayalam movie poster semiotics, on how Bollywood narratives construct the \"ideal\" rape victim, and on Instagram, loneliness, and FoMO among young Indians \u2014 to trace one quiet mechanism running underneath very different parts of Indian media. By the end, the question isn't really about posters, films, or apps. It's about who gets to build the image in the first place, and what we do with the gap between it and our own lives.About the SpeakerLydia Glory Jose is an Assistant Professor in the Department of Media and Journalism at IILM University, Gurugram, where she teaches media studies, visual communication, and research methods. Before academia, she worked as a journalist with Malayala Manorama, an experience that continues to shape how she reads Indian media \u2014 from the inside, not as an outsider looking in. Her research sits at the intersection of representation, visual semiotics, and digital media, published in Springer Nature's Sexuality and Culture, Palabra Clave, and the International Journal of Semiotics and Visual Rhetoric, and cited by the Times of India. Multilingual in Malayalam, Hindi, English, and Arabic, she remains, at heart, more interested in what an image is doing to us than in what it appears to be showing us.PS: Your Ticket Includes a 250/- Coupon Redeemable on F&BAbout unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from St. Stephen's, Delhi who wanted learning to feel warm, social and alive. Each event is an invitation to spend an evening with an idea.",
+    "startDate": "2026-07-30T19:00:00+05:30",
+    "endDate": "2026-07-30T20:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "No 59, PVR Priya Complex, Basant Lok, Vasant Vihar, New Delhi, Delhi 110057, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55737140000000000000",
+        "longitude": "77.16439730000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/you-didnt-choose-the-image-its-deciding-for-you",
+    "keywords": [
       "URBANAUT"
     ]
   },
