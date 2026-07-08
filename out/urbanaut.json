@@ -587,6 +587,43 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Soul Strings Jamming Session",
+    "description": "Before there were playlists, there were mehfils.Join us for a soulful jamming session with Soul Strings Project. An evening of timeless ghazals, retro Bollywood melodies, and heartfelt conversations accompanied by food, drinks, and the warm old-world setting of Chor Bizarre.",
+    "startDate": "2026-07-12T18:30:00+05:30",
+    "endDate": "2026-07-12T20:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Hotel Broadway, 4/15A, Asaf Ali Rd, Chatta lal Miya, Chandni Mahal, Chandni Chowk, Delhi, New Delhi, Delhi 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64105660000000000000",
+        "longitude": "77.23791410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "262.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Chor Bizarre",
+      "url": "https://urbanaut.app/partner/chor-bizarre"
+    },
+    "url": "https://urbanaut.app/spot/soul-strings-jamming-session",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "ALT EFF Film Club x GuruJal Gurugram | 17th July",
     "description": "A brilliant selection of cinematic, poetic, diverse pieces of environmental storytelling that are short enough to get you hooked and never long enough to bore!Would You Still Love Me If I Was A Sticky Frog?SheraPapillon (Butterfly)\u00a0All activities, including discussions and refreshments, will occur between 7:00 and 9:00 PM.\u00a0What's Included?Exclusive screenings of the world's best environmental cinemaAccess to a community of environmentally inclined, film-loving peopleA chance to express yourself at ALT EFF VoicesPost-film discussions.About Film Club: If you are tired of the outrage cycle, doomscrolling collapse, and the looming AI takeover narrative. If you have caught yourself going numb just to cope. We see you.All Living Things Environmental Film Festival is back with the third season of Film Club. A monthly meet up across 12 cities over 5 months, orbiting environmental cinema that cracks you open without trapping you in doom and gloom.It is a room full of people choosing to show up in cities whose infrastructure persuades you to stay home, choosing to sit together, watch together, and turn private anxiety into collective imagination. Messy. Human. Honest conversation.\u00a0With snacks. Always snacks.",
     "startDate": "2026-07-17T19:00:00+05:30",
