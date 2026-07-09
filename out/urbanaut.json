@@ -1,6 +1,42 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Slow Burn - A 4 Course Drinking Experience",
+    "description": "Tucked into a corner of Lodhi Colony, The Love Hotel is Delhi's best-kept secret \u2014 a 20-seat cocktail room that takes its cues from the love hotels of Japan. It's intimate without being intense, flirtatious without trying too hard.Slow Burn is a four-course cocktail tasting built for this room \u2014 but where most tasting menus put food at the centre, here the cocktails play hero.It begins the second you walk in with a welcome shot. From there, four cocktails unfold in sequence \u2014 each its own chapter, drawn from the same five-taste philosophy that powers The Love Hotel's acclaimed program. Every pour lands with a course of tapas alongside it.An evening where the spirit leads, and the plate follows. And with only twenty seats, the room stays intimate & exclusive.",
+    "startDate": "2026-07-09T18:00:00+05:30",
+    "endDate": "2026-07-10T00:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Main Market, 28, Lodhi Rd, Block 13, Lodi Colony, New Delhi, Delhi, 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.58474620000000000000",
+        "longitude": "77.22387390000002000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3200.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Love Hotel",
+      "url": "https://urbanaut.app/partner/the-love-hotel"
+    },
+    "url": "https://urbanaut.app/spot/slow-burn-martini-cocktail-tasting-menu",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Redesigning Work in Midlife | Online",
     "description": "For many professionals, midlife is no longer about winding down, it is about redesigning work on their own terms. As careers evolve and priorities shift, many people begin asking: What could the next chapter of my work look like?This conversation explores how experienced professionals are building fulfilling careers beyond a single job title or employer. Through the journeys of three speakers with different career paths, we will look at the many ways people continue to stay engaged, relevant and economically active.You'll hear from:Sanjay Gopinath - Marketing Leader | Startup Ecosystem BuilderSanjay has built a successful corporate career while consciously expanding his professional identity beyond a single role. Alongside his leadership work, he contributes through mentoring, teaching, industry initiatives, and supporting the startup ecosystem\u2014offering a perspective on how professionals can create impact while staying within the corporate world.Praphul Misra - 4x Startup Builder | AdTech InnovatorAfter years in the corporate world, Praphul chose the entrepreneurial path, building multiple ventures while continuing to advise, consult, and invest in startups. He'll share the realities of creating something from scratch and navigating a career driven by curiosity and innovation.Abhijeet Kabra - Board Member | CEO | Angel Investor | Startup AdvisorAbhijeet has intentionally designed a portfolio career that spans board positions, startup advisory, angel investing, and executive leadership. His journey offers a glimpse into how experience can evolve into a diverse and meaningful portfolio of work.Together, they'll share what prompted their transitions, what they carried forward from earlier careers, what changed along the way, and what new possibilities emerged.Throughout the session, participants will also take part in interactive polls and have the opportunity to ask questions during a live Q&A.By the end of the session, you'll:Discover different models for designing your next phase of work.Understand the differences between corporate portfolio careers, entrepreneurship and fully independent portfolio careers.Reflect on which pathway feels most relevant to you.Leave with ideas and inspiration to explore your own next chapter.Whether you're actively planning a career transition or simply curious about what's possible, this conversation offers practical insights and real stories from people who have successfully redesigned their work.",
@@ -104,6 +140,44 @@
     "url": "https://urbanaut.app/spot/redesigningworkinmidlifedelhi",
     "keywords": [
       "Virtual",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Gully Labs' World Cup Watch Party",
+    "description": "FOR THE LOVE OF THE GAME \u26bdSome people plan their lives around kickoff. This is for them.For 11 days, Baithak transforms into football headquarters. We're screening every major knockout clash of the FIFA World Cup - bringing together fans, rivalries, celebrations, heartbreaks, and everything that makes football more than just a game.Whether you're here to scream at the referee, celebrate a last-minute winner, or debate tactics with complete strangers, this is where you'll want to watch it.Screening Schedule\ud83c\uddeb\ud83c\uddf7 France vs Morocco\ud83d\udcc5 10 July\ud83d\udd5c 1:30 AM\ud83c\uddea\ud83c\uddf8 Spain vs Belgium\ud83d\udcc5 11 July\ud83d\udd67 12:30 AM\ud83c\uddf3\ud83c\uddf4 Norway vs England\ud83d\udcc5 12 July\ud83d\udd5d 2:30 AM\ud83c\udde6\ud83c\uddf7 Argentina vs Switzerland\ud83d\udcc5 12 July\ud83d\udd61 6:30 AMSemis and finals TBDExpect matchday vibes, football conversations, giveaways, and a room full of people who care just as much as you do.Throughout 9\u201319 July, we're bringing For The Love Of The Game to life with:\u26bd Live World Cup screenings\ud83c\udfc6 1v1 & 2v2 Volta Tournaments\ud83c\udf81 Exclusive giveaways\ud83c\udfb5 A World Cup Final Block PartyUnlimited Proost beer, Redbull, and BRB chips on the house. ",
+    "startDate": "2026-07-09T22:30:00+05:30",
+    "endDate": "2026-07-19T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1048.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
+    },
+    "url": "https://urbanaut.app/spot/gully-labs-world-cup-watch-party-14973",
+    "keywords": [
+      "Leisure",
+      "Food & drink",
+      "Active",
       "URBANAUT"
     ]
   },
@@ -372,7 +446,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Cinema Circle",
-    "description": "OverviewA shared film-watching experience designed to feel cozy, intentional, and communal.People gather to slow down, watch together, and stay a little longer with the stories thatunfold on screen. Films, shared quietly.ThemeImtiaz Ali EditionThis month, we are diving into the world of Imtiaz Ali, a filmmaker known for stories about people finding themselves, often in the middle of losing everything else. Identity, love, and the quiet unraveling that happens when someone stops performing who they think they should be. Come watch it with us and find out who you meet on screen.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to ExpectWatch Together: We screen Weapons as a group. No prior viewing required, just show up.Discussion: Once the film ends, we talk through it. The psychology, the fear, the behaviour, whatever stayed with you.Details\ud83d\uddd3\ufe0f Date: 11 July (Saturday)\u23f0 Time: 6:00 PM\ud83d\udccd Location: Malibu Town, Gurugram\u2615 Inclusions: Diet Coke and snacks included\ud83c\udf9f\ufe0f Fee: \u20b9700",
+    "description": "OverviewA shared film-watching experience designed to feel cozy, intentional, and communal.People gather to slow down, watch together, and stay a little longer with the stories thatunfold on screen. Films, shared quietly.ThemeImtiaz Ali EditionThis month, we are diving into the world of Imtiaz Ali, a filmmaker known for stories about people finding themselves, often in the middle of losing everything else. Identity, love, and the quiet unraveling that happens when someone stops performing who they think they should be. Come watch it with us and find out who you meet on screen.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to ExpectWatch Together: We screen Tamasha as a group. No prior viewing required, just show up.Discussion: Once the film ends, we talk through it. The psychology, the fear, the behaviour, whatever stayed with you.Details\ud83d\uddd3\ufe0f Date: 11 July (Saturday)\u23f0 Time: 6:00 PM\ud83d\udccd Location: Malibu Town, Gurugram\u2615 Inclusions: Diet Coke, snacks and beer sponsored by Kati Patang\ud83c\udf9f\ufe0f Fee: \u20b9700",
     "startDate": "2026-07-11T18:00:00+05:30",
     "endDate": "2026-07-11T21:00:00+05:30",
     "location": {
@@ -401,6 +475,44 @@
     "url": "https://urbanaut.app/spot/cinema-circle",
     "keywords": [
       "Leisure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Gully Labs 1v1 Tournament day",
+    "description": "Think you've got game?Step into a fast-paced 1v1 knockout where every match is first to 2 goals or 5 minutes\u2014whichever comes first. No teammates. No excuses. Just you, the ball, and one chance to prove yourself.Tournament Format\u26bd 1v1 knockout tournament\u23f1\ufe0f First to 2 goals or end of 5 minutes\ud83c\udfc6 Single elimination\ud83d\udc5f Open to all skill levelsWhat's Up for Grabs?\ud83e\udd47 Champion wins:Exclusive Gully Labs Football Edition ShoeNivia Football KitEvery registered participant receives free entry to the FIFA World Cup Quarter Final Screening immediately after the tournament.Energy drinks by Red Bull\ud83d\udcc5 Date: 11 July\ud83d\udd61 Time: 6:30 PM onwards\ud83d\udccd Venue: Park outside Gully Labs Store, Panchsheel Park, New DelhiBring your A-game. Stay for the football. Leave with bragging rights - or better.",
+    "startDate": "2026-07-11T18:30:00+05:30",
+    "endDate": "2026-07-11T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "99.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
+    },
+    "url": "https://urbanaut.app/spot/gully-labs-1v1-tournament-day",
+    "keywords": [
+      "Local",
+      "Festival",
+      "Active",
       "URBANAUT"
     ]
   },
@@ -522,8 +634,8 @@
     "@type": "Event",
     "name": "Hot Girls Do Hyrox",
     "description": "HOT GIRLS DO HYROX!Yet to hop on to the HYROX train? As Delhi prepares to host Hyrox, SWAG is here with a women-only, high-intensity 6KM \u2013 6 Station HYROX Simulation, a relay challenge designed to capture the essence of HYROX racing in a fast, accessible format.Expect a fitness party starting with a warm-up, followed by the much awaited HYROX Simulation, all with a sprinkle of fun challenges. We have limited spots! Book yours now!",
-    "startDate": "2026-07-12T10:00:00+05:30",
-    "endDate": "2026-07-12T12:00:00+05:30",
+    "startDate": "2026-07-12T08:15:00+05:30",
+    "endDate": "2026-07-12T10:15:00+05:30",
     "location": {
       "@type": "Place",
       "address": "LG 06, DLF Star Mall, NH8, Block A, Sector 30, Gurugram, Haryana 122001, India",
@@ -1522,7 +1634,7 @@
     "name": "Mahfil-e-Dastangoi",
     "description": "Chor Bizarre hosts a Mahfil-e-Dastangoi, the 13th-century art of storytelling, once heard in royal courts and public gatherings across the subcontinent.Directed by Syed Sahil Agha and performed by Sahil Sharma and Shadab Khan, the evening journeys through the history of the Red Fort, the food traditions of Old Delhi, and the many stories that have shaped the city we know today.Join us for an immersive evening where storytelling, history, and culture come together in the heart of Old Delhi.",
     "startDate": "2026-07-19T17:30:00+05:30",
-    "endDate": "2026-07-19T19:00:00+05:30",
+    "endDate": "2026-07-19T20:00:00+05:30",
     "location": {
       "@type": "Place",
       "address": "Hotel Broadway, 4/15A, Asaf Ali Rd, Chatta lal Miya, Chandni Mahal, Chandni Chowk, Delhi, New Delhi, Delhi 110002, India",
