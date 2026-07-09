@@ -2,42 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Slow Burn - A 4 Course Drinking Experience",
-    "description": "Tucked into a corner of Lodhi Colony, The Love Hotel is Delhi's best-kept secret \u2014 a 20-seat cocktail room that takes its cues from the love hotels of Japan. It's intimate without being intense, flirtatious without trying too hard.Slow Burn is a four-course cocktail tasting built for this room \u2014 but where most tasting menus put food at the centre, here the cocktails play hero.It begins the second you walk in with a welcome shot. From there, four cocktails unfold in sequence \u2014 each its own chapter, drawn from the same five-taste philosophy that powers The Love Hotel's acclaimed program. Every pour lands with a course of tapas alongside it.An evening where the spirit leads, and the plate follows. And with only twenty seats, the room stays intimate & exclusive.",
-    "startDate": "2026-07-09T18:00:00+05:30",
-    "endDate": "2026-07-10T00:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Main Market, 28, Lodhi Rd, Block 13, Lodi Colony, New Delhi, Delhi, 110003, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.58474620000000000000",
-        "longitude": "77.22387390000002000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3200.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Love Hotel",
-      "url": "https://urbanaut.app/partner/the-love-hotel"
-    },
-    "url": "https://urbanaut.app/spot/slow-burn-martini-cocktail-tasting-menu",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
     "name": "Gully Labs' World Cup Watch Party",
     "description": "FOR THE LOVE OF THE GAME \u26bdSome people plan their lives around kickoff. This is for them.For 11 days, Baithak transforms into football headquarters. We're screening every major knockout clash of the FIFA World Cup - bringing together fans, rivalries, celebrations, heartbreaks, and everything that makes football more than just a game.Whether you're here to scream at the referee, celebrate a last-minute winner, or debate tactics with complete strangers, this is where you'll want to watch it.Screening Schedule\ud83c\uddeb\ud83c\uddf7 France vs Morocco\ud83d\udcc5 10 July\ud83d\udd5c 1:30 AM\ud83c\uddea\ud83c\uddf8 Spain vs Belgium\ud83d\udcc5 11 July\ud83d\udd67 12:30 AM\ud83c\uddf3\ud83c\uddf4 Norway vs England\ud83d\udcc5 12 July\ud83d\udd5d 2:30 AM\ud83c\udde6\ud83c\uddf7 Argentina vs Switzerland\ud83d\udcc5 12 July\ud83d\udd61 6:30 AMSemis and finals TBDExpect matchday vibes, football conversations, giveaways, and a room full of people who care just as much as you do.Throughout 9\u201319 July, we're bringing For The Love Of The Game to life with:\u26bd Live World Cup screenings\ud83c\udfc6 1v1 & 2v2 Volta Tournaments\ud83c\udf81 Exclusive giveaways\ud83c\udfb5 A World Cup Final Block PartyUnlimited Proost beer, Redbull, and BRB chips on the house. ",
     "startDate": "2026-07-09T22:30:00+05:30",
@@ -76,8 +40,8 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Miles Before Muffins!",
-    "description": "A foodie's dream workout!A little run, a lot of fun, and endless delicious moments. Miles Before Muffins is a women-only, beginner-friendly relay challenge, filled with yummy goodies by Foodstories! It will play out as a team challenge where each member runs a lap of the track inside the mall, completes a bakery challenge and tags the next team mate. Expect a morning full of laughter, running, and drooling!\ud83d\udccd Food Stories, The Indian Mall, Vasant Kunj\u23f0 8:00 AM \u2013 10:00 AM\ud83d\uddd3\ufe0f 11th July 2026What\u2019s waiting for you:\ud83c\udfc3\u200d\u2640\ufe0f Fun Run\ud83e\udd50 Exciting Bakery Challenges\ud83c\udf70 Delicious Food Experience by Food Stories\ud83c\udf89 Good vibes & new connectionsCome solo or bring your foodie squad - either way, you\u2019re leaving with happy memories, a full heart, and a satisfied sweet tooth.Let's earn the calories, shall we? \ud83e\uddc1\u2728",
+    "name": "The Salad Sprint!",
+    "description": "A healthy foodie\u2019s dream morning.A little run, a lot of fun, and a delicious finish. Join us for a women-only, beginner-friendly 3K Run + Scavenger Hunt, ending with fresh salads and great conversations at Food Stories.\ud83d\udccd Food Stories, Ambience Mall, Vasant Kunj\u23f0 8:00 AM \u2013 10:00 AM\ud83d\uddd3\ufe0f 11th July 2026What\u2019s waiting for you:\u2022 A relaxed 3K community run outside Ambience Mall.\u2022 A fun scavenger hunt with exciting challenges\u2022 Fresh, wholesome salads by Food Stories\u2022 New friends, great conversations, and plenty of laughsCome solo or bring your foodie squad \u2014 either way, you\u2019ll leave with happy memories, a full heart, and a very satisfying brunch. Let\u2019s earn our greens. \ud83e\udd57",
     "startDate": "2026-07-11T08:00:00+05:30",
     "endDate": "2026-07-11T10:00:00+05:30",
     "location": {
