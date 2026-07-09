@@ -39,7 +39,7 @@
     "url": "https://fillum.in/screening/5811",
     "startDate": "2026-07-11T12:00:00+05:30",
     "endDate": "2026-07-11T12:00:00+05:30",
-    "description": "",
+    "description": "The concept of machines developing souls, while explored within the realm of science fiction, has tangible connections to ongoing discussions surrounding technological singularity.The singulari..more",
     "location": {
       "@type": "Place",
       "name": "mool, South Ex II",
@@ -52,11 +52,28 @@
   },
   {
     "@type": "ScreeningEvent",
+    "name": "Stalker(1979)",
+    "url": "https://fillum.in/screening/5819",
+    "startDate": "2026-07-11T12:10:00+05:30",
+    "endDate": "2026-07-11T12:10:00+05:30",
+    "description": "Experience Andrei Tarkovsky's visionary masterpiece, Stalker\u2014a haunting and philosophical journey through the mysterious Zone that explores faith, desire, and the human condition.Your ticket i..more",
+    "location": {
+      "@type": "Place",
+      "name": "iPley Music Studio, GK-1",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "SomeArt"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "Kingmaker(2022)",
     "url": "https://fillum.in/screening/5812",
     "startDate": "2026-07-11T14:00:00+05:30",
     "endDate": "2026-07-11T14:00:00+05:30",
-    "description": "",
+    "description": "A fierce strategist promises the presidency to an idealistic politician, but their opposing paths to victory lead to betrayal and conflict.",
     "location": {
       "@type": "Place",
       "name": "mool, South Ex II",
@@ -65,6 +82,40 @@
     "organizer": {
       "@type": "Organization",
       "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "La Strada(1954)",
+    "url": "https://fillum.in/screening/5817",
+    "startDate": "2026-07-11T16:00:00+05:30",
+    "endDate": "2026-07-11T16:00:00+05:30",
+    "description": "The timeless world of La Strada, Federico Fellini's Academy Award-winning masterpiece that beautifully explores love, loneliness, innocence, and the search for meaning. A landmark of Italian cinema,..more",
+    "location": {
+      "@type": "Place",
+      "name": "iPley Music Studio, GK-1",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "SomeArt"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "When a City Rises(2021)",
+    "url": "https://fillum.in/screening/5821",
+    "startDate": "2026-07-11T16:00:00+05:30",
+    "endDate": "2026-07-11T16:00:00+05:30",
+    "description": "Free entry.",
+    "location": {
+      "@type": "Place",
+      "name": "Mool, South Ex 2",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Camera Commune"
     }
   },
   {
@@ -90,57 +141,6 @@
     "url": "https://fillum.in/screening/5785",
     "startDate": "2026-07-16T18:30:00+05:30",
     "endDate": "2026-07-16T18:30:00+05:30",
-    "description": "Free entry. No registration required.",
-    "location": {
-      "@type": "Place",
-      "name": "C. D. Deshmukh Auditorium, India International Centre",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "India International Centre"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Shorts In Spotlight \u2013 Volume 3",
-    "url": "https://fillum.in/event/5810",
-    "startDate": "2026-07-18T12:00:00+05:30",
-    "endDate": "2026-07-18T12:00:00+05:30",
-    "description": "What if the most extraordinary stories were hidden in the most ordinary moments?Shorts In Spotlight, powered by Short Film Tour, returns to The Piano Man with its third edition\u2014an afternoon of..more",
-    "location": {
-      "@type": "Place",
-      "name": "The Piano Man",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Short Film Tour"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Whispers of the Mountains(2025)",
-    "url": "https://fillum.in/screening/5786",
-    "startDate": "2026-07-20T18:30:00+05:30",
-    "endDate": "2026-07-20T18:30:00+05:30",
-    "description": "Free entry. No registration required.",
-    "location": {
-      "@type": "Place",
-      "name": "C. D. Deshmukh Auditorium, India International Centre",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "India International Centre"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Yakasi\u2019s Daughter(2025)",
-    "url": "https://fillum.in/screening/5787",
-    "startDate": "2026-07-21T18:30:00+05:30",
-    "endDate": "2026-07-21T18:30:00+05:30",
     "description": "Free entry. No registration required.",
     "location": {
       "@type": "Place",
