@@ -103,6 +103,23 @@
   },
   {
     "@type": "ScreeningEvent",
+    "name": "Gulaal(2009)",
+    "url": "https://fillum.in/screening/5827",
+    "startDate": "2026-07-11T19:00:00+05:30",
+    "endDate": "2026-07-11T19:00:00+05:30",
+    "description": "Home screening set up with a projector and speaker, followed by a discussion. Please feel free to bring your own snacks. Please do not consume or carry any alcohol.RSVPs will be confirmed by Sat..more",
+    "location": {
+      "@type": "Place",
+      "name": "IP Extension, Patparganj",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Work in Progress Film Club"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "Magazine(2026)",
     "url": "https://fillum.in/screening/5802",
     "startDate": "2026-07-13T18:30:00+05:30",
@@ -133,6 +150,23 @@
     "organizer": {
       "@type": "Organization",
       "name": "India International Centre"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Lost Illusions(2021)",
+    "url": "https://fillum.in/screening/5823",
+    "startDate": "2026-07-16T18:30:00+05:30",
+    "endDate": "2026-07-16T18:30:00+05:30",
+    "description": "Free entry.",
+    "location": {
+      "@type": "Place",
+      "name": "M. L. Bhartia Auditorium, Alliance Fran\u00e7aise",
+      "address": "Lodhi Road, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Alliance Fran\u00e7aise de Delhi"
     }
   }
 ]

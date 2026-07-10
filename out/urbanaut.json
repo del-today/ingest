@@ -4,7 +4,7 @@
     "@type": "FoodEvent",
     "name": "Gully Labs' World Cup Watch Party",
     "description": "FOR THE LOVE OF THE GAME \u26bdSome people plan their lives around kickoff. This is for them.For 11 days, Baithak transforms into football headquarters. We're screening every major knockout clash of the FIFA World Cup - bringing together fans, rivalries, celebrations, heartbreaks, and everything that makes football more than just a game.Whether you're here to scream at the referee, celebrate a last-minute winner, or debate tactics with complete strangers, this is where you'll want to watch it.Screening Schedule\ud83c\uddeb\ud83c\uddf7 France vs Morocco\ud83d\udcc5 10 July\ud83d\udd5c 1:30 AM\ud83c\uddea\ud83c\uddf8 Spain vs Belgium\ud83d\udcc5 11 July\ud83d\udd67 12:30 AM\ud83c\uddf3\ud83c\uddf4 Norway vs England\ud83d\udcc5 12 July\ud83d\udd5d 2:30 AM\ud83c\udde6\ud83c\uddf7 Argentina vs Switzerland\ud83d\udcc5 12 July\ud83d\udd61 6:30 AMSemis and finals TBDExpect matchday vibes, football conversations, giveaways, and a room full of people who care just as much as you do.Throughout 9\u201319 July, we're bringing For The Love Of The Game to life with:\u26bd Live World Cup screenings\ud83c\udfc6 1v1 & 2v2 Volta Tournaments\ud83c\udf81 Exclusive giveaways\ud83c\udfb5 A World Cup Final Block PartyUnlimited Proost beer, Redbull, and BRB chips on the house. ",
-    "startDate": "2026-07-09T22:30:00+05:30",
+    "startDate": "2026-07-10T22:30:00+05:30",
     "endDate": "2026-07-19T23:30:00+05:30",
     "location": {
       "@type": "Place",
@@ -76,44 +76,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Pilates & Sound Healing",
-    "description": "Step into a day of complete wellness at Elan Studio, East Patel Nagar. This immersive event brings together the transformative power of Pilates, the calming vibrations of Sound Healing, and the restorative energy of Crystal Healing. Designed to help you move better, relax deeper, and restore completely, each session is a unique blend of physical exercise and holistic therapies. With 6 batches of 2 hours each, and only 5 participants per session, you\u2019ll experience personalized attention in a serene studio environment. Whether you\u2019re seeking balance, relaxation, or rejuvenation, this event is the perfect opportunity to reconnect with yourself.",
-    "startDate": "2026-07-11T09:00:00+05:30",
-    "endDate": "2026-07-11T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "11/19, Block 11, East Patel Nagar, Patel Nagar, New Delhi, Delhi 110008, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.64540180000000000000",
-        "longitude": "77.17269200000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2000.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Elan Pilates",
-      "url": "https://urbanaut.app/partner/elan-pilates"
-    },
-    "url": "https://urbanaut.app/spot/pilates-sound-healing",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Pop-up Event",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Hot Girls Do Pilates | Defence Colony",
     "description": "Let\u2019s make your Sunday morning extra feel-good with Hot Girls Do Pilates, a guided pilates experience by SWAG \ud83d\udc9bThis is a reformer pilates session with limited spots!Come and feel fitter in the company of like-minded women, and stayback for some chit-chat!",
@@ -147,6 +109,44 @@
       "Leisure",
       "Wellness",
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Pilates & Sound Healing",
+    "description": "Step into a day of complete wellness at Elan Studio, East Patel Nagar. This immersive event brings together the transformative power of Pilates, the calming vibrations of Sound Healing, and the restorative energy of Crystal Healing. Designed to help you move better, relax deeper, and restore completely, each session is a unique blend of physical exercise and holistic therapies. With 6 batches of 2 hours each, and only 5 participants per session, you\u2019ll experience personalized attention in a serene studio environment. Whether you\u2019re seeking balance, relaxation, or rejuvenation, this event is the perfect opportunity to reconnect with yourself.",
+    "startDate": "2026-07-11T11:00:00+05:30",
+    "endDate": "2026-07-11T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "11/19, Block 11, East Patel Nagar, Patel Nagar, New Delhi, Delhi 110008, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64540180000000000000",
+        "longitude": "77.17269200000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Elan Pilates",
+      "url": "https://urbanaut.app/partner/elan-pilates"
+    },
+    "url": "https://urbanaut.app/spot/pilates-sound-healing",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Pop-up Event",
       "URBANAUT"
     ]
   },
@@ -374,43 +374,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Celebrating Monsoon with Feast & Fables",
-    "description": "The earth is wet. Quishy. Sowing has just happened. We all wait for the first shoot to sprout -- seed breaks open. Spreading its energy. Bringing happiness on the face of the one who nurtures.Everyone needs food. From the richest man in the world to the poorest -- metaphorically as well literally. So food growing and nurturing is a talk of passion and love. Of poetry, of nuskha. Of community and companionships.Bring your stories. We shall share ours. Adda will follow. And of course a special guest will regale us with lots of conversation, poetry and more.This is just for EIGHT personsTentative MenuTwo veg and Two NV startersVeg Chop and Chicken ChopDumplings -- peas and carrots filled and mutton keema filledMain Coursestart withEchoder dalna; kumdo saag; Masoor Daal with aam, lau ghontoVegetarianJhengey posto; Potoler DolmaNon - VegetarianApricot Keema; Chingdi Dolma some citrus as palate cleanserAmda chutney Sweeet dishPayesh & PeetheyAam Peethey ",
-    "startDate": "2026-07-11T18:30:00+05:30",
-    "endDate": "2026-07-11T22:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Chittaranjan Park, New Delhi, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53978420000000000000",
-        "longitude": "77.24897260000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3000.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Lucheefoodstory",
-      "url": "https://urbanaut.app/partner/lucheefoodstory"
-    },
-    "url": "https://urbanaut.app/spot/sat-july-11th-celebrating-monsoon",
-    "keywords": [
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Run Like A Girl",
     "description": "The SWAG RUN is back!This Sunday morning, step out for a 3 KM run followed by a fun football game with the girlies!This is a women-only, beginner-friendly meet-up. We will meet at the Deer Park Gate, opposite Centre for Sight, start with a warm-up, a 3KM run and then a fun game of football. Please carry a bottle of water and wear comfortable clothing and shoes for the best experience. See you Sunday!  ",
@@ -520,6 +483,43 @@
       "Adventure",
       "Wellness",
       "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Out of Sequence 2.0",
+    "description": "Out of Sequence 2.0 - A Visual and Listening RitualOut of Sequence turns 1 year old. Please see our latest post on Instagram here to know more about what we do.Schedule for this Session Reception - 11:00 AM to 12 PMGates will open at 11am and remain open till 12pm.Segment 1 - Focus (Doors and Lights will shut at 12 PM)Film Screenings - 12 PM - David Lynch - The Art Life - 1h30min1:30 PM - David Lynch Cooks Quinoa - 30 min ***2PM - Lunch and Coffee Break - 30 min***Listening Session and Deep Dive 2:30 PM - Geogaddi by Boards of Canada. 1h 6 min3:30 PM - Analysis - 45 min.4:30 PM - Discussion and Design Showcase by the Founder.Segment 2 - Social Mixer and Games - 5 PM Onwards 5 PM - Bar Opens, Art Market Opens, Evening Playlist Begins (please find our selection below), Letterboxd Exchange. 1h.6 PM - Casino Opens, remains open till 9 PM. 3h***7:30 PM - Dinner***8:30 PM - Closing Remarks. Our Journey and Future Plans.9 PM - Event Closes.Evening Playlist -5 PM - Tame Impala - The Slow Rush - 1h6PM - The Strokes - Room on Fire - 33min6:30 PM - Frank Ocean - Blonde - 1 hr 7:30 PM - Kendrick Lamar - DAMN - 1 hr.Ticket includes food and coffee.Please register as soon as possible to help us get a sense of food and beverage requirements.",
+    "startDate": "2026-07-12T11:00:00+05:30",
+    "endDate": "2026-07-12T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "B-17, Basement, South Extension II, Block B, New Delhi, Delhi 110049, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.56514880000000000000",
+        "longitude": "77.21944630000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence",
+      "url": "https://urbanaut.app/partner/outofsequence"
+    },
+    "url": "https://urbanaut.app/spot/outofsequence",
+    "keywords": [
+      "Music",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -1527,7 +1527,7 @@
     "@type": "Event",
     "name": "Mahfil-e-Dastangoi",
     "description": "Chor Bizarre hosts a Mahfil-e-Dastangoi, the 13th-century art of storytelling, once heard in royal courts and public gatherings across the subcontinent.Directed by Syed Sahil Agha and performed by Sahil Sharma and Shadab Khan, the evening journeys through the history of the Red Fort, the food traditions of Old Delhi, and the many stories that have shaped the city we know today.Join us for an immersive evening where storytelling, history, and culture come together in the heart of Old Delhi.",
-    "startDate": "2026-07-19T17:30:00+05:30",
+    "startDate": "2026-07-19T18:30:00+05:30",
     "endDate": "2026-07-19T20:00:00+05:30",
     "location": {
       "@type": "Place",

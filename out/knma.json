@@ -100,6 +100,46 @@
     ]
   },
   {
+    "@type": "TheaterEvent",
+    "name": "Memory \u2013 Dismembering \u2013 Remembering \u2013 Kin Tsugi",
+    "url": "https://www.knma.org/whats-on/performing-arts/memory-dismembering-remembering-kin-tsugi",
+    "startDate": "2026-07-14T10:00:00+05:30",
+    "endDate": "2026-07-14T10:00:00+05:30",
+    "description": "Theatre",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "TheaterEvent",
+    "name": "What\u2019s Alive?",
+    "url": "https://www.knma.org/whats-on/performing-arts/whats-alive",
+    "startDate": "2026-07-17T10:00:00+05:30",
+    "endDate": "2026-07-17T10:00:00+05:30",
+    "description": "Dance",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
     "@type": "Event",
     "name": "Chaar Phool Hai Aur Duniya Hai",
     "url": "https://www.knma.org/whats-on/events/chaar-phool-hai-aur-duniya-hai",
