@@ -209,7 +209,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "499.00",
+      "price": "550.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -413,6 +413,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Nature Walk - Tughlaqabad Biodiversity Park",
+    "description": "Tughlaqabad Biodiversity Park Nature WalkEscape the city\u2019s hustle and discover one of Delhi\u2019s hidden natural treasures at Tughlaqabad Biodiversity Park. Spread across nearly 200 acres, the park has been developed to restore the unique semi-arid ecosystems of the Aravalli landscape surrounding the historic Tughlaqabad Fort. It features native forests, grasslands, wetlands, rocky ridges, and diverse wildlife, making it an ideal destination for nature lovers and bird enthusiasts.Join us for a guided nature walk as we explore the park\u2019s rich biodiversity, observe birds, butterflies, reptiles, and native flora, and learn about the importance of ecological restoration and conservation. Whether you\u2019re a beginner or an experienced naturalist, this immersive experience offers a refreshing opportunity to reconnect with nature and appreciate one of Delhi\u2019s most remarkable green spaces.Walk conducted by: Verhean Khanna",
+    "startDate": "2026-07-12T08:00:00+05:30",
+    "endDate": "2026-07-12T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "D-100, Ma Anandmayee Marg Pocket D, Okhla Phase I, New, Okhla Industrial Estate, New Delhi, Delhi 110044, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.51980400000000000000",
+        "longitude": "77.27608930000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "350.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "New Delhi Nature Society",
+      "url": null
+    },
+    "url": "https://urbanaut.app/spot/nature-walk-tughlaqabad-biodiversity-park",
+    "keywords": [
+      "Adventure",
+      "Eco Friendly",
+      "Walking Tour",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Partition 1947 & Delhi heritage walk @Purana Qila",
     "description": "Join Us for Partition 1947 & Delhi heritage walk & Baithak at Purana QilaA heritage experience curated by Darwesh heritage walks in collaboration with Sabhyata Foundation at one of the refugee camps in Delhi i.e. the Purana QilaFrom nuclear proliferation to terrorism, the Partition of India continues to cast its shadow even today. Join us for a Baithak that seeks to understand the complex experiences of Partition\u2014an event that remains deeply misunderstood both within and beyond the subcontinent. Through facts, poetry, literature, photographs, paintings, and personal belongings, we will revisit this significant chapter of history. Discover how Partition shaped Delhi\u2019s culture and internal geography.Kuch Pal Purana Qila Ke Naam! (suitable for 10 years & above)*Duration: 2 hours approx * Language: A blend of Hindi, Urdu & English(Special invitation to senior citizens, as this session involves less walking!)* Baithak Host: Nitika-Meeting point: Purana Qila ticket counter --Nearest metro station: Supreme Court- Instagram: Darwesh_taleweavers",
     "startDate": "2026-07-12T08:00:00+05:30",
@@ -452,7 +491,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Hot Girls Do Hyrox",
-    "description": "HOT GIRLS DO HYROX!Yet to hop on to the HYROX train? As Delhi prepares to host Hyrox, SWAG is here with a women-only, high-intensity 6KM \u2013 6 Station HYROX Simulation, a relay challenge designed to capture the essence of HYROX racing in a fast, accessible format.Expect a fitness party starting with a warm-up, followed by the much awaited HYROX Simulation, all with a sprinkle of fun challenges. We have limited spots! Book yours now!",
+    "description": "HOT GIRLS DO HYROX!Yet to hop on to the HYROX train? As Delhi prepares to host Hyrox, SWAG is here with a women-only, high-intensity 8 KM \u2013 8 Station HYROX Simulation, a relay challenge designed to capture the essence of HYROX racing in a fast, accessible format.Expect a fitness party starting with a warm-up, followed by the much awaited HYROX Simulation, all with a sprinkle of fun challenges.We have limited spots! Book yours now!",
     "startDate": "2026-07-12T08:15:00+05:30",
     "endDate": "2026-07-12T10:15:00+05:30",
     "location": {
@@ -1010,6 +1049,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Nature Walk - Shakti Sthal / Shanti Van",
+    "description": "Shakti Sthal is more than a memorial. It is a peaceful green landscape where history and nature come together. During this guided nature walk, participants will explore its lush gardens, native trees, seasonal flowers, and rich birdlife while learning about the ecological importance of Delhi\u2019s urban green spaces. The walk offers a refreshing opportunity to connect with nature, observe wildlife, and enjoy the tranqulity of one of the city\u2019s beautiful open spaces. Join us for an engaging experience that blends environmental awareness, biodiversity, and mindful exploration.",
+    "startDate": "2026-07-18T07:00:00+05:30",
+    "endDate": "2026-07-18T09:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Mahatma Gandhi Marg, between, and, Shanti Van, Raj Ghat, New Delhi, Delhi, 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64405370000000000000",
+        "longitude": "77.24897450000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "350.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "New Delhi Nature Society",
+      "url": null
+    },
+    "url": "https://urbanaut.app/spot/nature-walk-shakti-sthal-shanti-van",
+    "keywords": [
+      "Adventure",
+      "Eco Friendly",
+      "Walking Tour",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "The Procrastireaders : Books & Coffee Tasting",
     "description": "The Procrastireaders: Books & Coffee TastingOverviewA slow reading circle designed around comfort, not pressure.People come together to read, exchange thoughts, and return to books in a way that feels lighter and more approachable. Stories, shared slowly.If you have been wanting to get back to reading but find it hard to make the time at home, this is for you. The Procrastireaders is a dedicated space to finally open that book you have been meaning to finish. It is a slow paced morning designed for quiet reading and great coffee in the company of others who are doing the same.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to expectBring Your Own Book: Whether it is a novel you started months ago or a new non fiction find, bring along whatever you are currently reading.Dedicated Reading Time: Enjoy a block of quiet, uninterrupted time to sink into your book without the distractions of chores or your phone.Shared Atmosphere: The comfort of reading alongside a small group of people who are also prioritizing their love for books.Coffee & Chat: A low pressure chance to talk about what you are reading (or why you have been procrastinating) over a coffee at Unlocked.Details\ud83d\uddd3\ufe0f Date: 18th July (Saturday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Sushant Lok Phase 1\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes Coffee)",
     "startDate": "2026-07-18T11:30:00+05:30",
@@ -1040,6 +1118,41 @@
     "url": "https://urbanaut.app/spot/books-and-coffee-tasting",
     "keywords": [
       "Leisure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Street Smart: Virtual Edition",
+    "description": "We all have our own quiet rules for staying safe online\u2013 the things we never share, the links we don't click, the \"text me when you get home\" texts we send without thinking twice. But have we ever actually compared notes?Street Smart: Virtual Edition is an interactive workshop that turns your everyday digital habits into a conversation about design, safety, and responsibility. We will unpack the small, often invisible digital survival strategies we have all built for ourselves, and explore what they reveal about how safe (or unsafe) our online spaces really are \u2013 and who is responsible for making them better.No prior knowledge needed, just you, your habits, and zero judgment :)",
+    "startDate": "2026-07-18T12:00:00+05:30",
+    "endDate": "2026-07-18T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.70405920000000000000",
+        "longitude": "77.10249019999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Text When You Get Home",
+      "url": "https://urbanaut.app/partner/text-when-you-get-home"
+    },
+    "url": "https://urbanaut.app/spot/streetsmart2delhi",
+    "keywords": [
       "URBANAUT"
     ]
   },
@@ -1337,6 +1450,80 @@
     "keywords": [
       "Walking Tour",
       "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Bapus's Table 5th Edition by Bapu's Curries",
+    "description": "Bapu's Curries is the story of a man who spent a lifetime collecting memories through food. Umesh Khaitan, affectionately known as Bapu, is a lawyer by profession but a cook, traveller and storyteller at heart. For decades, he has explored India's regional cuisines, travelled in search of ingredients, documented family traditions, and created recipes that celebrate both heritage and experimentation. Every dish in the book carries a memory\u2014of his parents, his travels, his family, or a simple moment in the kitchen. Co-authored by his daughter Shreeparna Khaitan and culinary collaborator Surbhi Anand, Bapu's Curries became a way of preserving these stories for generations to come. But we soon realised that some stories are best experienced around a table rather than read on a page. That thought gave birth to Bapu's Table\u2014an intimate dining experience where guests come together to savour thoughtfully curated menus inspired by the book, while sharing conversations, memories and the joy of slowing down over a meal. Over the last four editions, Bapu's Table has grown into a community of people who arrive as strangers and leave having shared stories over food. On 18th July, we are delighted to host the 5th Edition of Bapu's Table, a celebration of the many moods of the mango\u2014taking India's most-loved summer fruit beyond the familiar and weaving it through every course in Bapu's signature style. We would love for you to join us around the table and become a part of the story.",
+    "startDate": "2026-07-18T19:00:00+05:30",
+    "endDate": "2026-07-18T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Safdarjung Development Area, Hauz Khas, New Delhi, Delhi 110016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55068470000000000000",
+        "longitude": "77.20052120000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "3000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bapu's Table by Bapu's Curries",
+      "url": "https://urbanaut.app/partner/bapus-table-by-bapus-curries"
+    },
+    "url": "https://urbanaut.app/spot/bapus-curries",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Nature Walk - Kamla Nehru Ridge",
+    "description": "Step into one of Delhi\u2019s oldest and most fascinating green spaces with our guided Nature Walk at Kamla Nehru Ridge. Part of the ancient Aravalli range, this beautiful forest is often called the \u201cGreen Lungs of Delhi\u201d and offers a unique blend of biodiversity, history, and peaceful walking trails. Participants will explore native flora, observe a variety of birds, butterflies, and other urban wildlife, and discover the ecological importance of the Ridge in maintaining Delhi\u2019s environment. Along the way, we\u2019ll also uncover stories of historic landmarks connected to the 1857 uprising, making this walk a perfect mix of nature, heritage, and learning. Whether you\u2019re a beginner or a nature enthusiast, this experience promises a refreshing escape into the wild heart of the city. The walk will be conducted by Verhean Khanna.",
+    "startDate": "2026-07-19T07:00:00+05:30",
+    "endDate": "2026-07-19T09:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "West Of, Hindu Rao Marg, near Pir Ghaib, Kamla Nehru Ridge, Civil Lines, New Delhi, Delhi, 110007, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.67609430000000000000",
+        "longitude": "77.21225100000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "350.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "New Delhi Nature Society",
+      "url": null
+    },
+    "url": "https://urbanaut.app/spot/nature-walk-kamla-nehru-ridge",
+    "keywords": [
+      "Adventure",
+      "Eco Friendly",
+      "Walking Tour",
       "Guided tour",
       "URBANAUT"
     ]

@@ -1,23 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "An Engineered Dream(2018)",
-    "url": "https://fillum.in/screening/5816",
-    "startDate": "2026-07-10T15:00:00+05:30",
-    "endDate": "2026-07-10T15:00:00+05:30",
-    "description": "By Youth for Climate India",
-    "location": {
-      "@type": "Place",
-      "name": "South Ex",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Fillum"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "Ghost in the Shell(1995)",
     "url": "https://fillum.in/screening/5811",
     "startDate": "2026-07-11T12:00:00+05:30",
