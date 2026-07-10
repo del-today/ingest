@@ -41,7 +41,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "The Salad Sprint!",
-    "description": "A healthy foodie\u2019s dream morning.A little run, a lot of fun, and a delicious finish. Join us for a women-only, beginner-friendly 3K Run + Scavenger Hunt, ending with fresh salads and great conversations at Food Stories.\ud83d\udccd Food Stories, Ambience Mall, Vasant Kunj\u23f0 8:00 AM \u2013 10:00 AM\ud83d\uddd3\ufe0f 11th July 2026What\u2019s waiting for you:\u2022 A relaxed 3K community run outside Ambience Mall.\u2022 A fun scavenger hunt with exciting challenges\u2022 Fresh, wholesome salads by Food Stories\u2022 New friends, great conversations, and plenty of laughsCome solo or bring your foodie squad \u2014 either way, you\u2019ll leave with happy memories, a full heart, and a very satisfying brunch. Let\u2019s earn our greens. \ud83e\udd57",
+    "description": "A healthy foodie\u2019s dream morning.A little run, a lot of fun, and a delicious finish.Join us for a women-only, beginner-friendly 3K Run + Scavenger Hunt, ending with fresh salads and great conversations at Food Stories.\ud83d\udccd Food Stories, Ambience Mall, Vasant Kunj\u23f0 8:00 AM \u2013 10:00 AM\ud83d\uddd3\ufe0f 11th July 2026What\u2019s waiting for you:\u2022 A relaxed 3K community run outside Ambience Mall.\u2022 A fun scavenger hunt with exciting challenges\u2022 Fresh, wholesome salads by Food Stories\u2022 New friends, great conversations, and plenty of laughsCome solo or bring your foodie squad \u2014 either way, you\u2019ll leave with happy memories, a full heart, and a very satisfying brunch. Let\u2019s earn our greens. \ud83e\udd57",
     "startDate": "2026-07-11T08:00:00+05:30",
     "endDate": "2026-07-11T10:00:00+05:30",
     "location": {
@@ -190,6 +190,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Anmol Reads Book Club meet-up",
+    "description": "Get ready for a reading adventure with us, we read silently for almost an hour, then we introduce ourselves and our books, and in the end a surprise literary activity awaits us!we welcome everyone, and all of us get along extremely well and the latter is left on the host!Most of us will stay for Lunch, so you already have a beautiful brunch plan here :)Hope to see you soon!Ps: A lot of banter is included in the ticket!",
+    "startDate": "2026-07-11T12:00:00+05:30",
+    "endDate": "2026-07-11T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gurugram, Haryana, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.45949650000000000000",
+        "longitude": "77.02663830000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "149.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Anmol Reads",
+      "url": "https://urbanaut.app/partner/anmol-read"
+    },
+    "url": "https://urbanaut.app/spot/anmol-reads-book-club-meet-up",
+    "keywords": [
+      "Wellness",
+      "Eco Friendly",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "uL: When Did The News Stop Asking Questions?",
     "description": "Join us for a lecture that confronts something most of us have quietly accepted:That the news is broken, and we're all living inside the wreckage.About the LectureAround 2010\u20132012, something shifted in Indian media. Reporters stopped going to the ground. Anchors became the story. Debate replaced inquiry. And what started as a cost-cutting decision inside newsrooms \u2014 cheaper to fill airtime with argument than with reporting \u2014 rippled outward into your family dinner table, your city's politics, your ability to trust the person sitting next to you.This isn't a talk about fake news. It's about what happens when the system that's supposed to inform a society becomes the thing that destabilises it.When investigative journalism declines, people don't just get less information. They get more certainty from louder voices. One anchor's opinion gets repeated across five channels. That repetition becomes a \"fact.\" Your uncle shares it on WhatsApp. Your city believes it. A demolition happens. A mob gathers. And no one can trace it back to the moment a news channel decided that performance was cheaper than reporting.The contagion is real. Aggressive anchoring increases aggression in how families argue about politics. Sensational coverage of one story crowds out systemic issues \u2014 healthcare, economy, corruption. When journalism stops asking \"why,\" citizens stop asking it too.You can mute the news. You can delete Twitter. But if the system that shapes what your city believes, what your kids learn, what your government does \u2014 if that system is broken \u2014 you're not opting out. You're just operating with less information than everyone else.About the SpeakerManisha Pande is the Editor-in-Chief of Newslaundry and the host and writer of TV Newsance, one of India's most popular media satire shows. Over more than a decade, she has tracked, critiqued, and held accountable the institutions that shape how India understands itself \u2014 with sharp analysis and a refusal to look away.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
@@ -331,6 +369,43 @@
     "url": "https://urbanaut.app/spot/cinema-circle",
     "keywords": [
       "Leisure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Celebrating Monsoon with Feast & Fables",
+    "description": "The earth is wet. Quishy. Sowing has just happened. We all wait for the first shoot to sprout -- seed breaks open. Spreading its energy. Bringing happiness on the face of the one who nurtures.Everyone needs food. From the richest man in the world to the poorest -- metaphorically as well literally. So food growing and nurturing is a talk of passion and love. Of poetry, of nuskha. Of community and companionships.Bring your stories. We shall share ours. Adda will follow. And of course a special guest will regale us with lots of conversation, poetry and more.This is just for EIGHT personsTentative MenuTwo veg and Two NV startersVeg Chop and Chicken ChopDumplings -- peas and carrots filled and mutton keema filledMain Coursestart withEchoder dalna; kumdo saag; Masoor Daal with aam, lau ghontoVegetarianJhengey posto; Potoler DolmaNon - VegetarianApricot Keema; Chingdi Dolma some citrus as palate cleanserAmda chutney Sweeet dishPayesh & PeetheyAam Peethey ",
+    "startDate": "2026-07-11T18:30:00+05:30",
+    "endDate": "2026-07-11T22:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Chittaranjan Park, New Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53978420000000000000",
+        "longitude": "77.24897260000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Lucheefoodstory",
+      "url": "https://urbanaut.app/partner/lucheefoodstory"
+    },
+    "url": "https://urbanaut.app/spot/sat-july-11th-celebrating-monsoon",
+    "keywords": [
+      "Pop-up Event",
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -1603,6 +1678,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Bushcraft Workshop",
+    "description": "\ud83c\udf32 Bushcraft Workshop: Unleash Your Inner Wilderness Survivor at Forest Spirit Learning, Gurgaon! \ud83d\udd25Get ready for an unforgettable adventure into the heart of nature!Join us for a Bushcraft Workshop at Forest Spirit Learning in Gurgaon \u2014 a thrilling 4-hour immersion where you\u2019ll master essential survival skills, reconnect with the wild, and have a blast doing it. Perfect for adventure seekers of all ages \u2014 kids, families, teens, and adults \u2014 this program turns the forest into your ultimate playground.Why This Workshop Will Be Epic:We\u2019ll keep it intimate and high-quality with a maximum of just 10 participants so everyone gets personalized guidance from experienced instructors.No crowds, just pure focus on fun, learning, and memorable moments in the great outdoors.Highlights of the Adventure:\u2013 Master Fire Starting \u2014 Learn ancient techniques to spark a roaring bonfire from scratch (even in tricky conditions!).\u2013 Pure Water Mastery \u2014 Filter and purify water like a true survivor.\u2013 Shelter Building \u2014 Pitch a tent and construct emergency natural shelters.\u2013 Knot Mastery \u2014 Tie essential knots that hold strong in any situation.\u2013 Emergency Signalling \u2014 Master ways to call for help and stay safe.\u2013 Bonfire Feast \u2014 Cook delicious potatoes right in the glowing embers \u2014 nothing tastes better than forest-cooked food!\u2013 First Aid Basics \u2014 Quick, practical skills to handle minor injuries in the wild.Additional Exciting Activities We\u2019ll Include:\u2013 Foraging for safe, edible plants and natural resources.\u2013 Wildlife tracking and reading nature\u2019s signs.\u2013 Building simple tools or natural cordage from the environment.\u2013 Basic navigation using the sun, stars, and landmarks.By the end, you\u2019ll feel empowered, confident, and deeply connected to the forest!Duration: 4 hours of pure excitement.  Location: Forest Spirit Learning, Gurgaon.Refreshments: We\u2019ll provide light snacks, drinks, and post-activity treats to keep your energy high.  What to Bring: Comfortable outdoor clothes, sturdy shoes, a water bottle, sunscreen/insect repellent, and your sense of adventure.We strongly encourage you to bring your own survival bag/kit if you have one \u2014 we\u2019ll review and enhance it together!Essential Items for Your Survival Bag/KitHere\u2019s a recommended starter list for a compact, effective bushcraft/survival kit (pack light but smart):\u2013 Fire-starting tools \u2014 Lighter/matches, ferro rod, tinder (cotton balls, dry bark, etc.).\u2013 Knife \u2014 A sturdy fixed-blade bushcraft knife (with sheath).\u2013 Water purification \u2014 Tablets, filter straw, or small pot for boiling.\u2013 Cordage \u2014 Paracord or natural rope (at least 10-15 meters).\u2013 Shelter \u2014 Lightweight tarp, emergency blanket, or small tent.\u2013 First Aid \u2014 Basic kit with bandages, antiseptic, tweezers, pain relief, and personal meds.\u2013 Navigation \u2014 Compass, small map/whistle, signal mirror.\u2013 Multi-tool\u2013 Food/Water \u2014 Energy bars, reusable container.\u2013 Extra \u2014 Headlamp/flashlight with batteries, gloves, notepad/pen, trash bag (leave no trace!).We\u2019ll provide a full printable checklist when you register.Pricing\u20b91,500 per person (including all materials, instruction, refreshments, and a take-home bushcraft tip sheet).This pricing reflects our commitment to quality instruction, safe equipment, and a premium intimate experience in a beautiful natural setting.Early bird or group discounts may apply for families registering together.Spots are strictly limited to 10 \u2014 secure yours now before they vanish!This is more than just a workshop; it\u2019s a transformative adventure that will leave you inspired, skilled, and craving more time in the wild.Ready to awaken your inner survivor?Forest Spirit Learning \u2013 Where Nature Teaches Best. \ud83c\udf3f\ud83d\udd25See you under the trees! \ud83c\udfd5\ufe0f",
+    "startDate": "2026-07-19T15:00:00+05:30",
+    "endDate": "2026-07-19T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "9X6P+79, Sector 79, Gurugram, Haryana 122012, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.36068670000000000000",
+        "longitude": "76.98595100000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "New Delhi Nature Society",
+      "url": null
+    },
+    "url": "https://urbanaut.app/spot/bushcraft-workshop",
+    "keywords": [
+      "Adventure",
+      "Workshop",
+      "Eco Friendly",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "uL: Physics Across Frontiers",
     "description": "Join us for a lecture that takes you to the edges of what we think we know about reality, and shows you why the universe keeps proving us wrong.About the LectureOur intuition about the laws of nature comes from what we can see, touch, and measure in everyday life. Drop a ball, it falls. Push something, it moves. The world behaves, more or less, the way you'd expect.But physics has a habit of breaking its own rules.When objects travel close to the speed of light, time slows down. When things become impossibly small, they stop behaving like things at all. At every frontier \u2014 from Newton to Einstein, from Einstein to the architects of the Standard Model of Particle Physics \u2014 the greatest leaps in understanding have required scientists to abandon their most cherished assumptions and follow the data, however strange it looked.This lecture traces that journey across the frontiers of physics: the moments where intuition collided with reality. From the elegance of classical mechanics to the bizarre certainties of quantum physics, it asks what happens when the universe refuses to behave the way we think it should.The session explores:Why our everyday intuition about physics breaks down at extreme speeds and scalesHow Newton's laws gave way to Einstein's \u2014 and why Einstein's weren't enough eitherWhat the Standard Model of Particle Physics reveals about the deep structure of realityWhy every great leap in physics required abandoning assumptions, not just refining themThe frontier we stand at today \u2014 and why it may be the most challenging one yetAbout the SpeakerAbhishek Iyer's journey through physics took him from Fergusson College, Pune to IIT Kharagpur, and then to the Indian Institute of Science, Bangalore for a PhD \u2014 where most of his time was spent thinking about extra dimensions: the idea that space might hide more directions than we can perceive. He spent three years at the Tata Institute of Fundamental Research in Mumbai, two years at INFN Naples (also the birthplace of pizza), and continued at IP2I Lyon, the gastronomical capital of France, before arriving at IIT Delhi \u2014 still asking a similar set of questions.Fun fact: He is likely to be found at one of Delhi's many monuments on the weekends.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
@@ -1787,6 +1900,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Nature Walk - Jahanpanah City Forest",
+    "description": "Escape the city\u2019s hustle and immerse yourself in the tranquil wilderness of Jahanpanah City Forest, one of South Delhi\u2019s largest urban forests. Spread across more than 400 acres, this green oasis offers shaded walking trails, rich biodiversity, and opportunities to spot birds, butterflies, peacocks, nilgai, and a variety of native trees. Join Verhean Khanna for a guided nature walk as we explore the forest\u2019s hidden beauty, learn about its fascinating ecosystem, and reconnect with nature through observation, storytelling, and mindful exploration. Whether you\u2019re a birdwatcher, photographer, or simply looking for a peaceful morning outdoors, this walk promises a refreshing and memorable experience.",
+    "startDate": "2026-07-25T07:00:00+05:30",
+    "endDate": "2026-07-25T09:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "G6MP+4GF, walkway, Jahanpanah City Forest, New Delhi, Delhi 110044, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53280450000000000000",
+        "longitude": "77.23629009999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "350.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "New Delhi Nature Society",
+      "url": null
+    },
+    "url": "https://urbanaut.app/spot/nature-walk-jahanpanah-city-forest",
+    "keywords": [
+      "Adventure",
+      "Eco Friendly",
+      "Walking Tour",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Sacred Footsteps : Sufi Trail of Mehrauli",
     "description": "Step into the mystical lanes and forgotten ruins of Mehrauli and the enchanting Mehrauli Archaeological Park through the lens of Sufism.Sacred Footsteps: Sufi trails \ud83d\udc63 of MehrauliJoin us for a deeply immersive heritage walk where history, spirituality, poetry, and love legends intertwine. Together, we will explore medieval ruins, hidden stories, sacred spaces, and the Sufi imagination that once shaped the soul of Mehrauli.Curated by Darwesh Heritage Walks, in collaboration with Sabhyata Foundation.Along the way, we will also revisit the timeless love legend of Heer\u2013Ranjha through a Sufi lens \u2014 not merely as a romance, but as a metaphor for divine longing & surrender.The walk will conclude with a visit to a living Sufi space where we reflect upon the continuing spiritual traditions that still breathe within Mehrauli today.\ud83d\udccd Mehrauli Archaeological Park & Village\ud83d\udcc5 25th July\u23f0 8:00 AM onwardsMeeting point: Outside Qutub Minar ticket counter.    \ud83d\udcde 99 99 8 96427Curated by Darwesh Heritage Walks, in collaboration with Sabhyata Foundation.(Please note: The fee being charged is not for entry into any monument or shrine . It is purely for the curated and guided storytelling experience.)",
     "startDate": "2026-07-25T08:00:00+05:30",
@@ -1900,6 +2052,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Nature Walk - Sunder Nursery",
+    "description": "Escape into one of Delhi\u2019s most beautiful green spaces with a guided Nature Walk at Sunder Nursery. Explore a unique blend of lush gardens, native trees, tranquil lakes, vibrant flowers, butterflies, birds, and restored Mughal-era monuments as you wander through scenic trails. Home to over 300 tree species, diverse birdlife, and a thriving biodiversity zone, Sunder Nursery offers an unforgettable experience where nature, history, and conservation come together. Join Verhean Khanna for an engaging walk that will help you discover the incredible wildlife, ecology, and hidden stories of this urban oasis. Whether you\u2019re a nature enthusiast, photographer, or simply looking for a peaceful escape, this walk promises a refreshing and enriching experience.          ",
+    "startDate": "2026-07-26T07:00:00+05:30",
+    "endDate": "2026-07-26T09:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Bharat Scouts and Guides Marg, opposite Humayun Tomb Park, Nizamuddin, Hazrat Nizamuddin, National Zoological Park, Sundar Nagar, New Delhi, Delhi 110013, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59564670000000000000",
+        "longitude": "77.24516910000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "350.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "New Delhi Nature Society",
+      "url": null
+    },
+    "url": "https://urbanaut.app/spot/nature-walk-sunder-nursery",
+    "keywords": [
+      "Adventure",
+      "Eco Friendly",
+      "Walking Tour",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Bazar-i-Husn :  exploring Tawaif culture",
     "description": "Step into the world of grace, wit, and artistry as we explore the lives of Tawaifs\u2014the courtesans who once defined high culture, poetry, and performance in Delhi. This walk takes you through old city lanes that once echoed with ghazals, thumris, and the quiet power of women who shaped taste and tradition.Uncover the layered stories of kothas\u2014not as places of shame, but as salons of sophistication, resistance, and refined art. Let\u2019s reclaim these narratives and see history through a different lens.",
     "startDate": "2026-07-26T07:30:00+05:30",
@@ -1931,6 +2122,43 @@
     "keywords": [
       "Walking Tour",
       "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Sodhilecious Factory Visit",
+    "description": "What if we told you most food brands would never let you see their kitchen? We would.At Sodhilecious Bakery, we\u2019re opening our factory to customers \u2014 no filters, no hiding.Come see for yourself:\u2028\u2714\ufe0f How hygienically your food is actually made\u2028\u2714\ufe0f The real ingredients we use (no marketing gimmicks)\u2028\u2714\ufe0f The process behind every bite you trustThis isn\u2019t a \u201ctour\u201d. It\u2019s full transparency. Plus, you get:\u2028\u2022 A snack box\u2028\u2022 Hands-on activities\u2028\u2022 Real-time product sampling",
+    "startDate": "2026-07-26T12:00:00+05:30",
+    "endDate": "2026-08-09T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "C277+MWG, Begumpur Khatola, Sector 74, Gurugram, Haryana 122101, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41419400000000000000",
+        "longitude": "77.01483259999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "236.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sodhilecious",
+      "url": "https://urbanaut.app/partner/sodhilecious"
+    },
+    "url": "https://urbanaut.app/spot/sodhilecious-factory-visit-15018",
+    "keywords": [
+      "Food & drink",
       "Guided tour",
       "URBANAUT"
     ]
