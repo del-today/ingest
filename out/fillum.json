@@ -1,40 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "Ghost in the Shell(1995)",
-    "url": "https://fillum.in/screening/5811",
-    "startDate": "2026-07-11T12:00:00+05:30",
-    "endDate": "2026-07-11T12:00:00+05:30",
-    "description": "The concept of machines developing souls, while explored within the realm of science fiction, has tangible connections to ongoing discussions surrounding technological singularity.The singulari..more",
-    "location": {
-      "@type": "Place",
-      "name": "mool, South Ex II",
-      "address": "South Ex II, New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Out of Sequence"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Stalker(1979)",
-    "url": "https://fillum.in/screening/5819",
-    "startDate": "2026-07-11T12:10:00+05:30",
-    "endDate": "2026-07-11T12:10:00+05:30",
-    "description": "Experience Andrei Tarkovsky's visionary masterpiece, Stalker\u2014a haunting and philosophical journey through the mysterious Zone that explores faith, desire, and the human condition.Your ticket i..more",
-    "location": {
-      "@type": "Place",
-      "name": "iPley Music Studio, GK-1",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "SomeArt"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "Kingmaker(2022)",
     "url": "https://fillum.in/screening/5812",
     "startDate": "2026-07-11T14:00:00+05:30",
@@ -103,6 +69,57 @@
   },
   {
     "@type": "ScreeningEvent",
+    "name": "Out of Sequence 2.0",
+    "url": "https://fillum.in/event/5840",
+    "startDate": "2026-07-12T12:00:00+05:30",
+    "endDate": "2026-07-12T12:00:00+05:30",
+    "description": "Out of Sequence was born on 12 July 2025. One year later, we return with Out of Sequence 2.0, a day-long experience that moves from intentional, focused engagement with art to an evening of play, co..more",
+    "location": {
+      "@type": "Place",
+      "name": "Mool, South Ex 2",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Harlan County U.S.A.(1977)",
+    "url": "https://fillum.in/screening/5828",
+    "startDate": "2026-07-12T16:00:00+05:30",
+    "endDate": "2026-07-12T16:00:00+05:30",
+    "description": "Organized by Progressive Artists' League.Free entry. Post-screening discussion. For any queries, contact on WhatsApp at 9667707585.",
+    "location": {
+      "@type": "Place",
+      "name": "267 - 3rd floor, Pocket B, Sukhdev Vihar",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Studio Montage"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Cinergy: Astitva",
+    "url": "https://fillum.in/event/5838",
+    "startDate": "2026-07-12T18:00:00+05:30",
+    "endDate": "2026-07-12T18:00:00+05:30",
+    "description": "Cinergy: Astitiva is a one-of-a-kind cultural experience that brings together independent films, live music, stand-up comedy, and art under one roof.More than an event, it's a space where storie..more",
+    "location": {
+      "@type": "Place",
+      "name": "Siyah Arthouse, Saket",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Cinergy Club"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "Magazine(2026)",
     "url": "https://fillum.in/screening/5802",
     "startDate": "2026-07-13T18:30:00+05:30",
@@ -116,40 +133,6 @@
     "organizer": {
       "@type": "Organization",
       "name": "India International Centre"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Adamya(2026)",
-    "url": "https://fillum.in/screening/5785",
-    "startDate": "2026-07-16T18:30:00+05:30",
-    "endDate": "2026-07-16T18:30:00+05:30",
-    "description": "Free entry. No registration required.",
-    "location": {
-      "@type": "Place",
-      "name": "C. D. Deshmukh Auditorium, India International Centre",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "India International Centre"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Lost Illusions(2021)",
-    "url": "https://fillum.in/screening/5823",
-    "startDate": "2026-07-16T18:30:00+05:30",
-    "endDate": "2026-07-16T18:30:00+05:30",
-    "description": "Free entry.",
-    "location": {
-      "@type": "Place",
-      "name": "M. L. Bhartia Auditorium, Alliance Fran\u00e7aise",
-      "address": "Lodhi Road, New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Alliance Fran\u00e7aise de Delhi"
     }
   }
 ]

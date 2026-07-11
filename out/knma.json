@@ -80,26 +80,6 @@
     ]
   },
   {
-    "@type": "EducationEvent",
-    "name": "Blue Impressions",
-    "url": "https://www.knma.org/whats-on/workshops/blue-impressions",
-    "startDate": "2026-07-11T10:00:00+05:30",
-    "endDate": "2026-07-11T10:00:00+05:30",
-    "description": "",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
     "@type": "TheaterEvent",
     "name": "Memory \u2013 Dismembering \u2013 Remembering \u2013 Kin Tsugi",
     "url": "https://www.knma.org/whats-on/performing-arts/memory-dismembering-remembering-kin-tsugi",
