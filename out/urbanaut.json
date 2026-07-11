@@ -40,154 +40,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Anmol Reads Book Club meet-up",
-    "description": "Get ready for a reading adventure with us, we read silently for almost an hour, then we introduce ourselves and our books, and in the end a surprise literary activity awaits us!we welcome everyone, and all of us get along extremely well and the latter is left on the host!Most of us will stay for Lunch, so you already have a beautiful brunch plan here :)Hope to see you soon!Ps: A lot of banter is included in the ticket!",
-    "startDate": "2026-07-11T12:00:00+05:30",
-    "endDate": "2026-07-11T14:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Gurugram, Haryana, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.45949650000000000000",
-        "longitude": "77.02663830000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "149.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Anmol Reads",
-      "url": "https://urbanaut.app/partner/anmol-read"
-    },
-    "url": "https://urbanaut.app/spot/anmol-reads-book-club-meet-up",
-    "keywords": [
-      "Wellness",
-      "Eco Friendly",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "uL: When Did The News Stop Asking Questions?",
-    "description": "Join us for a lecture that confronts something most of us have quietly accepted:That the news is broken, and we're all living inside the wreckage.About the LectureAround 2010\u20132012, something shifted in Indian media. Reporters stopped going to the ground. Anchors became the story. Debate replaced inquiry. And what started as a cost-cutting decision inside newsrooms \u2014 cheaper to fill airtime with argument than with reporting \u2014 rippled outward into your family dinner table, your city's politics, your ability to trust the person sitting next to you.This isn't a talk about fake news. It's about what happens when the system that's supposed to inform a society becomes the thing that destabilises it.When investigative journalism declines, people don't just get less information. They get more certainty from louder voices. One anchor's opinion gets repeated across five channels. That repetition becomes a \"fact.\" Your uncle shares it on WhatsApp. Your city believes it. A demolition happens. A mob gathers. And no one can trace it back to the moment a news channel decided that performance was cheaper than reporting.The contagion is real. Aggressive anchoring increases aggression in how families argue about politics. Sensational coverage of one story crowds out systemic issues \u2014 healthcare, economy, corruption. When journalism stops asking \"why,\" citizens stop asking it too.You can mute the news. You can delete Twitter. But if the system that shapes what your city believes, what your kids learn, what your government does \u2014 if that system is broken \u2014 you're not opting out. You're just operating with less information than everyone else.About the SpeakerManisha Pande is the Editor-in-Chief of Newslaundry and the host and writer of TV Newsance, one of India's most popular media satire shows. Over more than a decade, she has tracked, critiqued, and held accountable the institutions that shape how India understands itself \u2014 with sharp analysis and a refusal to look away.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
-    "startDate": "2026-07-11T15:00:00+05:30",
-    "endDate": "2026-07-11T17:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Eldeco Centre, Block A, Shivalik Colony, Malviya Nagar, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52806900000000000000",
-        "longitude": "77.20516300000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "550.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/ul-when-the-news-stopped-asking-questions",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Khel Khayal Kagaz",
-    "description": "An interactive exploration of music, storytelling and pop-ups with Pratyush GuptaJoin us at Gallery XXL for a multi-sensory journey with author, designer and musician Pratyush Gupta. Step inside his celebrated pop-up book, Master of the 7 Swars, where Indian classical music comes alive through color, shadow and play. The participants will then dive into a hands-on workshop to craft their very own pop-up creations that move with their imagination.Date : Saturday, July 11, 2026Time : 4 - 6 PMAge group : 8+ yearsVenue : Gallery XXLTicket price : INR 500/- including taxes*All materials will be provided at the venueBioPratyush Gupta is a designer, musician and children\u2019s book author. He splits his time shaping brand identities, crafting pop-up books (like Swarpeti, his love letter to Indian classical music) and singing to his plants.",
-    "startDate": "2026-07-11T16:00:00+05:30",
-    "endDate": "2026-07-11T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "2nd Floor, A-277, Block A, Defence Colony, New Delhi, Delhi 110024, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.57405660000000000000",
-        "longitude": "77.22903090000001000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Gallery XXL",
-      "url": "https://urbanaut.app/partner/galleryxxl"
-    },
-    "url": "https://urbanaut.app/spot/khelkhayalkagaz",
-    "keywords": [
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "SMASH LIKE A GIRL (Tennis | Delhi)",
-    "description": "\u200bHi girls! It\u2019s time to Smash Like a Girl \u2014 because we\u2019re finally bringing you TENNIS!This is a women-only, beginner-friendly, guided tennis meet-up.4:50 PM Meet Up & Warm Up5:00 PM Game TimeSee you on court!",
-    "startDate": "2026-07-11T17:00:00+05:30",
-    "endDate": "2026-07-11T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "J6HH+MMC, Barakhamba Rd, Todermal Road Area, Mandi House, New Delhi, Delhi 110001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.62917610000000000000",
-        "longitude": "77.22913750000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "495.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag28",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Cinema Circle",
     "description": "OverviewA shared film-watching experience designed to feel cozy, intentional, and communal.People gather to slow down, watch together, and stay a little longer with the stories thatunfold on screen. Films, shared quietly.ThemeImtiaz Ali EditionThis month, we are diving into the world of Imtiaz Ali, a filmmaker known for stories about people finding themselves, often in the middle of losing everything else. Identity, love, and the quiet unraveling that happens when someone stops performing who they think they should be. Come watch it with us and find out who you meet on screen.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to ExpectWatch Together: We screen Tamasha as a group. No prior viewing required, just show up.Discussion: Once the film ends, we talk through it. The psychology, the fear, the behaviour, whatever stayed with you.Details\ud83d\uddd3\ufe0f Date: 11 July (Saturday)\u23f0 Time: 6:00 PM\ud83d\udccd Location: Malibu Town, Gurugram\u2615 Inclusions: Diet Coke, snacks and beer sponsored by Kati Patang\ud83c\udf9f\ufe0f Fee: \u20b9700",
     "startDate": "2026-07-11T18:00:00+05:30",
@@ -255,6 +107,44 @@
     "keywords": [
       "Local",
       "Festival",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Gully Labs' World Cup Watch Party",
+    "description": "FOR THE LOVE OF THE GAME \u26bdSome people plan their lives around kickoff. This is for them.For 11 days, Baithak transforms into football headquarters. We're screening every major knockout clash of the FIFA World Cup - bringing together fans, rivalries, celebrations, heartbreaks, and everything that makes football more than just a game.Whether you're here to scream at the referee, celebrate a last-minute winner, or debate tactics with complete strangers, this is where you'll want to watch it.Screening Schedule\ud83c\uddeb\ud83c\uddf7 France vs Morocco\ud83d\udcc5 10 July\ud83d\udd5c 1:30 AM\ud83c\uddea\ud83c\uddf8 Spain vs Belgium\ud83d\udcc5 11 July\ud83d\udd67 12:30 AM\ud83c\uddf3\ud83c\uddf4 Norway vs England\ud83d\udcc5 12 July\ud83d\udd5d 2:30 AM\ud83c\udde6\ud83c\uddf7 Argentina vs Switzerland\ud83d\udcc5 12 July\ud83d\udd61 6:30 AMSemis and finals TBDExpect matchday vibes, football conversations, giveaways, and a room full of people who care just as much as you do.Throughout 9\u201319 July, we're bringing For The Love Of The Game to life with:\u26bd Live World Cup screenings\ud83c\udfc6 1v1 & 2v2 Volta Tournaments\ud83c\udf81 Exclusive giveaways\ud83c\udfb5 A World Cup Final Block PartyUnlimited Proost beer, Redbull, and BRB chips on the house. ",
+    "startDate": "2026-07-11T22:30:00+05:30",
+    "endDate": "2026-07-19T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1048.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
+    },
+    "url": "https://urbanaut.app/spot/gully-labs-world-cup-watch-party-14973",
+    "keywords": [
+      "Leisure",
+      "Food & drink",
       "Active",
       "URBANAUT"
     ]
