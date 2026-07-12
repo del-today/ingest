@@ -1,82 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Gully Labs' World Cup Watch Party",
-    "description": "FOR THE LOVE OF THE GAME \u26bdSome people plan their lives around kickoff. This is for them.For 11 days, Baithak transforms into football headquarters. We're screening every major knockout clash of the FIFA World Cup - bringing together fans, rivalries, celebrations, heartbreaks, and everything that makes football more than just a game.Whether you're here to scream at the referee, celebrate a last-minute winner, or debate tactics with complete strangers, this is where you'll want to watch it.Screening Schedule\ud83c\uddeb\ud83c\uddf7 France vs Morocco\ud83d\udcc5 10 July\ud83d\udd5c 1:30 AM\ud83c\uddea\ud83c\uddf8 Spain vs Belgium\ud83d\udcc5 11 July\ud83d\udd67 12:30 AM\ud83c\uddf3\ud83c\uddf4 Norway vs England\ud83d\udcc5 12 July\ud83d\udd5d 2:30 AM\ud83c\udde6\ud83c\uddf7 Argentina vs Switzerland\ud83d\udcc5 12 July\ud83d\udd61 6:30 AMSemis and finals TBDExpect matchday vibes, football conversations, giveaways, and a room full of people who care just as much as you do.Throughout 9\u201319 July, we're bringing For The Love Of The Game to life with:\u26bd Live World Cup screenings\ud83c\udfc6 1v1 & 2v2 Volta Tournaments\ud83c\udf81 Exclusive giveaways\ud83c\udfb5 A World Cup Final Block PartyUnlimited Proost beer, Redbull, and BRB chips on the house. ",
-    "startDate": "2026-07-11T22:30:00+05:30",
-    "endDate": "2026-07-19T23:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54778550000000000000",
-        "longitude": "77.21136729999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1048.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Gully Labs",
-      "url": "https://urbanaut.app/partner/baithak"
-    },
-    "url": "https://urbanaut.app/spot/gully-labs-world-cup-watch-party-14973",
-    "keywords": [
-      "Leisure",
-      "Food & drink",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Run Like A Girl",
-    "description": "The SWAG RUN is back!This Sunday morning, step out for a 3 KM run followed by a fun football game with the girlies!This is a women-only, beginner-friendly meet-up. We will meet at the Deer Park Gate, opposite Centre for Sight, start with a warm-up, a 3KM run and then a fun game of football. Please carry a bottle of water and wear comfortable clothing and shoes for the best experience. See you Sunday!  ",
-    "startDate": "2026-07-12T07:00:00+05:30",
-    "endDate": "2026-07-12T09:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Deer Park, Hauz Khas, New Delhi, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55495230000000000000",
-        "longitude": "77.19164970000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag-run",
-    "keywords": [
-      "Adventure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Nature Walk - Tughlaqabad Biodiversity Park",
     "description": "Tughlaqabad Biodiversity Park Nature WalkEscape the city\u2019s hustle and discover one of Delhi\u2019s hidden natural treasures at Tughlaqabad Biodiversity Park. Spread across nearly 200 acres, the park has been developed to restore the unique semi-arid ecosystems of the Aravalli landscape surrounding the historic Tughlaqabad Fort. It features native forests, grasslands, wetlands, rocky ridges, and diverse wildlife, making it an ideal destination for nature lovers and bird enthusiasts.Join us for a guided nature walk as we explore the park\u2019s rich biodiversity, observe birds, butterflies, reptiles, and native flora, and learn about the importance of ecological restoration and conservation. Whether you\u2019re a beginner or an experienced naturalist, this immersive experience offers a refreshing opportunity to reconnect with nature and appreciate one of Delhi\u2019s most remarkable green spaces.Walk conducted by: Verhean Khanna",
@@ -560,6 +484,44 @@
       "Live GIG",
       "Music",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Gully Labs' World Cup Watch Party",
+    "description": "FOR THE LOVE OF THE GAME \u26bdSome people plan their lives around kickoff. This is for them.For 11 days, Baithak transforms into football headquarters. We're screening every major knockout clash of the FIFA World Cup - bringing together fans, rivalries, celebrations, heartbreaks, and everything that makes football more than just a game.Whether you're here to scream at the referee, celebrate a last-minute winner, or debate tactics with complete strangers, this is where you'll want to watch it.Screening Schedule\ud83c\uddeb\ud83c\uddf7 France vs Morocco\ud83d\udcc5 10 July\ud83d\udd5c 1:30 AM\ud83c\uddea\ud83c\uddf8 Spain vs Belgium\ud83d\udcc5 11 July\ud83d\udd67 12:30 AM\ud83c\uddf3\ud83c\uddf4 Norway vs England\ud83d\udcc5 12 July\ud83d\udd5d 2:30 AM\ud83c\udde6\ud83c\uddf7 Argentina vs Switzerland\ud83d\udcc5 12 July\ud83d\udd61 6:30 AMSemis and finals TBDExpect matchday vibes, football conversations, giveaways, and a room full of people who care just as much as you do.Throughout 9\u201319 July, we're bringing For The Love Of The Game to life with:\u26bd Live World Cup screenings\ud83c\udfc6 1v1 & 2v2 Volta Tournaments\ud83c\udf81 Exclusive giveaways\ud83c\udfb5 A World Cup Final Block PartyUnlimited Proost beer, Redbull, and BRB chips on the house. ",
+    "startDate": "2026-07-14T22:30:00+05:30",
+    "endDate": "2026-07-19T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1048.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
+    },
+    "url": "https://urbanaut.app/spot/gully-labs-world-cup-watch-party-14973",
+    "keywords": [
+      "Leisure",
+      "Food & drink",
+      "Active",
       "URBANAUT"
     ]
   },
