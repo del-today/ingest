@@ -1,81 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Out of Sequence 2.0",
-    "description": "Out of Sequence 2.0 - A Visual and Listening RitualOut of Sequence turns 1 year old. Please see our latest post on Instagram here to know more about what we do.Schedule for this Session Reception - 11:00 AM to 12 PMGates will open at 11am and remain open till 12pm.Segment 1 - Focus (Doors and Lights will shut at 12 PM)Film Screenings - 12 PM - David Lynch - The Art Life - 1h30min1:30 PM - David Lynch Cooks Quinoa - 30 min ***2PM - Lunch and Coffee Break - 30 min***Listening Session and Deep Dive 2:30 PM - Geogaddi by Boards of Canada. 1h 6 min3:30 PM - Analysis - 45 min.4:30 PM - Discussion and Design Showcase by the Founder.Segment 2 - Social Mixer and Games - 5 PM Onwards 5 PM - Bar Opens, Art Market Opens, Evening Playlist Begins (please find our selection below), Letterboxd Exchange. 1h.6 PM - Casino Opens, remains open till 9 PM. 3h***7:30 PM - Dinner***8:30 PM - Closing Remarks. Our Journey and Future Plans.9 PM - Event Closes.Evening Playlist -5 PM - Tame Impala - The Slow Rush - 1h6PM - The Strokes - Room on Fire - 33min6:30 PM - Frank Ocean - Blonde - 1 hr 7:30 PM - Kendrick Lamar - DAMN - 1 hr.Ticket includes food and coffee.Please register as soon as possible to help us get a sense of food and beverage requirements.",
-    "startDate": "2026-07-12T11:00:00+05:30",
-    "endDate": "2026-07-12T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "B-17, Basement, South Extension II, Block B, New Delhi, Delhi 110049, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.56514880000000000000",
-        "longitude": "77.21944630000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Out of Sequence",
-      "url": "https://urbanaut.app/partner/outofsequence"
-    },
-    "url": "https://urbanaut.app/spot/outofsequence",
-    "keywords": [
-      "Music",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Ghazal-e-Shaam by RaagRoom GK-1",
-    "description": "Shaam-e-Ghazal invites you to an intimate evening where timeless poetry meets soulful melodies and the rich traditions of Hindustani music come alive.Presented by The Raag Room GK-1, this special gathering features the soulful vocals of Saleem Raja, the rhythmic brilliance of Rasheed Niyazi on tabla, and the expressive melodies of Rajab Ali Khan on sarangi.Join us for an evening of ghazals, poetry, and musical conversations that celebrate nostalgia, romance, and the enduring beauty of Urdu verse.Location : iPley Music Studio, GK-1Date : 12 July 2026Time : 6.30 PM onwards",
-    "startDate": "2026-07-12T18:30:00+05:30",
-    "endDate": "2026-07-12T20:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "E-201, Greater Kailash-1, Block E, Greater Kailash I, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55094060000000000000",
-        "longitude": "77.24364390000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "699.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "SomeArt",
-      "url": "https://urbanaut.app/partner/someart"
-    },
-    "url": "https://urbanaut.app/spot/ghazal-e-shaam-by-raagroom-gk-1",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Gully Labs' World Cup Watch Party",
     "description": "FOR THE LOVE OF THE GAME \u26bdSome people plan their lives around kickoff. This is for them.For 11 days, Baithak transforms into football headquarters. We're screening every major knockout clash of the FIFA World Cup - bringing together fans, rivalries, celebrations, heartbreaks, and everything that makes football more than just a game.Whether you're here to scream at the referee, celebrate a last-minute winner, or debate tactics with complete strangers, this is where you'll want to watch it.Screening Schedule\ud83c\uddeb\ud83c\uddf7 France vs Morocco\ud83d\udcc5 10 July\ud83d\udd5c 1:30 AM\ud83c\uddea\ud83c\uddf8 Spain vs Belgium\ud83d\udcc5 11 July\ud83d\udd67 12:30 AM\ud83c\uddf3\ud83c\uddf4 Norway vs England\ud83d\udcc5 12 July\ud83d\udd5d 2:30 AM\ud83c\udde6\ud83c\uddf7 Argentina vs Switzerland\ud83d\udcc5 12 July\ud83d\udd61 6:30 AMSemis and finals TBDExpect matchday vibes, football conversations, giveaways, and a room full of people who care just as much as you do.Throughout 9\u201319 July, we're bringing For The Love Of The Game to life with:\u26bd Live World Cup screenings\ud83c\udfc6 1v1 & 2v2 Volta Tournaments\ud83c\udf81 Exclusive giveaways\ud83c\udfb5 A World Cup Final Block PartyUnlimited Proost beer, Redbull, and BRB chips on the house. ",
@@ -704,6 +629,44 @@
     "keywords": [
       "History & heritage",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Mehrauli Heritage Walk- A city within city!",
+    "description": "Trace 1,000 years of Delhi\u2019s story in Mehrauli, where Sultans, Sufis and everyday bazaar life still share the same streets. This architect-led, story-rich trail connects built heritage with everyday life \u2013 from Mughal-era alleys and stepwells to Sufi shrines and local sweet shops, making history accessible, engaging and child-friendly.",
+    "startDate": "2026-07-19T09:00:00+05:30",
+    "endDate": "2026-07-19T10:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Anuvrat Marg, opposite Qutab Minar Metro Station, Christian Colony, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52020410000000000000",
+        "longitude": "77.18767900000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "450.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Riwayat Walks",
+      "url": "https://urbanaut.app/partner/riwayatwalks"
+    },
+    "url": "https://urbanaut.app/spot/mehrauli-heritage-walk-a-city-within-city-15052",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
       "URBANAUT"
     ]
   },
@@ -1445,44 +1408,6 @@
     "url": "https://urbanaut.app/spot/ul-badass-begums-the-women-of-the-mughal-era",
     "keywords": [
       "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Delhi School of Ideas - Gully Labs x unLecture",
-    "description": "The Delhi School of Ideas by Gully labs x unLecture: How Weird Can Research Get?What happens when research leaves the classroom and lands in a bar? Gully Labs teams up with unLecture, the Delhi community known for bringing big ideas out of lecture halls and into caf\u00e9s and bars, for the first edition of Delhi School of Ideas, dedicated to strange questions, curious minds, and conversations that refuse to stay academic.This edition asks a simple question: How weird can research get?Expect a series of short, sharp presentations where speakers unpack their most unusual ideas, experiments, and niche obsessions. From unexpected cultural insights to bizarre innovations and wonderfully unnecessary investigations, we've got it all.The catch? You\u2019ll be hearing all of this with unlimited Proost beer and BRB chips on the house.Whether it\u2019s niche anthropology, obscure design experiments, hyper-specific cultural rabbit holes, or research nobody asked for but everyone wants to hear, this is a night for intellectual chaos and delightful curiosity.Come for the drinks. Stay for the ideas. Leave with at least one question you didn\u2019t know you needed answered.12th July | The Baithak, Gully Labs, Panchsheel | Gates open 4: 30pm.",
-    "startDate": "2026-07-12T17:00:00+05:30",
-    "endDate": "2026-07-12T19:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54778550000000000000",
-        "longitude": "77.21136729999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1294.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Gully Labs",
-      "url": "https://urbanaut.app/partner/baithak"
-    },
-    "url": "https://urbanaut.app/spot/delhi-school-of-ideas-gully-labs-x-unlecture",
-    "keywords": [
-      "Leisure",
-      "Live GIG",
-      "Art & culture",
       "URBANAUT"
     ]
   }
