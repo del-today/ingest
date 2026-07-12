@@ -1,23 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "Out of Sequence 2.0",
-    "url": "https://fillum.in/event/5840",
-    "startDate": "2026-07-12T12:00:00+05:30",
-    "endDate": "2026-07-12T12:00:00+05:30",
-    "description": "Out of Sequence was born on 12 July 2025. One year later, we return with Out of Sequence 2.0, a day-long experience that moves from intentional, focused engagement with art to an evening of play, co..more",
-    "location": {
-      "@type": "Place",
-      "name": "Mool, South Ex 2",
-      "address": "South Ex II, New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Out of Sequence"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "Harlan County U.S.A.(1977)",
     "url": "https://fillum.in/screening/5828",
     "startDate": "2026-07-12T16:00:00+05:30",
@@ -56,6 +39,91 @@
     "url": "https://fillum.in/screening/5802",
     "startDate": "2026-07-13T18:30:00+05:30",
     "endDate": "2026-07-13T18:30:00+05:30",
+    "description": "Free entry. No registration required.",
+    "location": {
+      "@type": "Place",
+      "name": "C. D. Deshmukh Auditorium, India International Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "India International Centre"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Turtle Walker(2024)",
+    "url": "https://fillum.in/screening/5839",
+    "startDate": "2026-07-15T17:30:00+05:30",
+    "endDate": "2026-07-15T17:30:00+05:30",
+    "description": "Neighbourhood screening. RSVP Request based. Entry on confirmation.",
+    "location": {
+      "@type": "Place",
+      "name": "Vasant Vihar",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kriti Film Club"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Adamya(2026)",
+    "url": "https://fillum.in/screening/5785",
+    "startDate": "2026-07-16T18:30:00+05:30",
+    "endDate": "2026-07-16T18:30:00+05:30",
+    "description": "Free entry. No registration required.",
+    "location": {
+      "@type": "Place",
+      "name": "C. D. Deshmukh Auditorium, India International Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "India International Centre"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Lost Illusions(2021)",
+    "url": "https://fillum.in/screening/5823",
+    "startDate": "2026-07-16T18:30:00+05:30",
+    "endDate": "2026-07-16T18:30:00+05:30",
+    "description": "Free entry.",
+    "location": {
+      "@type": "Place",
+      "name": "M. L. Bhartia Auditorium, Alliance Fran\u00e7aise",
+      "address": "Lodhi Road, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Alliance Fran\u00e7aise de Delhi"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Shorts In Spotlight \u2013 Volume 3",
+    "url": "https://fillum.in/event/5810",
+    "startDate": "2026-07-18T12:00:00+05:30",
+    "endDate": "2026-07-18T12:00:00+05:30",
+    "description": "What if the most extraordinary stories were hidden in the most ordinary moments?Shorts In Spotlight, powered by Short Film Tour, returns to The Piano Man with its third edition\u2014an afternoon of..more",
+    "location": {
+      "@type": "Place",
+      "name": "The Piano Man",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Short Film Tour"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Whispers of the Mountains(2025)",
+    "url": "https://fillum.in/screening/5786",
+    "startDate": "2026-07-20T18:30:00+05:30",
+    "endDate": "2026-07-20T18:30:00+05:30",
     "description": "Free entry. No registration required.",
     "location": {
       "@type": "Place",
