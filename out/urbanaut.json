@@ -3,7 +3,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Gully Labs' World Cup Watch Party",
-    "description": "FOR THE LOVE OF THE GAME \u26bdSome people plan their lives around kickoff. This is for them.For 11 days, Baithak transforms into football headquarters. We're screening every major knockout clash of the FIFA World Cup - bringing together fans, rivalries, celebrations, heartbreaks, and everything that makes football more than just a game.Whether you're here to scream at the referee, celebrate a last-minute winner, or debate tactics with complete strangers, this is where you'll want to watch it.Screening Schedule\ud83c\uddeb\ud83c\uddf7 France vs Morocco\ud83d\udcc5 10 July\ud83d\udd5c 1:30 AM\ud83c\uddea\ud83c\uddf8 Spain vs Belgium\ud83d\udcc5 11 July\ud83d\udd67 12:30 AM\ud83c\uddf3\ud83c\uddf4 Norway vs England\ud83d\udcc5 12 July\ud83d\udd5d 2:30 AM\ud83c\udde6\ud83c\uddf7 Argentina vs Switzerland\ud83d\udcc5 12 July\ud83d\udd61 6:30 AMSemis and finals TBDExpect matchday vibes, football conversations, giveaways, and a room full of people who care just as much as you do.Throughout 9\u201319 July, we're bringing For The Love Of The Game to life with:\u26bd Live World Cup screenings\ud83c\udfc6 1v1 & 2v2 Volta Tournaments\ud83c\udf81 Exclusive giveaways\ud83c\udfb5 A World Cup Final Block PartyUnlimited Proost beer, Redbull, and BRB chips on the house. ",
+    "description": ".:\u26bd Live World Cup screenings\ud83c\udfc6 1v1 & 2v2 Volta Tournaments\ud83c\udf81 Exclusive giveaways\ud83c\udfb5 A World Cup Final Block PartyUnlimited Proost beer, Redbull, and BRB chips on the house.FOR THE LOVE OF THE GAME \u26bdSome people plan their lives around kickoff. This is for them.For 11 days, Baithak transforms into football headquarters. We're screening every major knockout clash of the FIFA World Cup - bringing together fans, rivalries, celebrations, heartbreaks, and everything that makes football more than just a game.Whether you're here to scream at the referee, celebrate a last-minute winner, or debate tactics with complete strangers, this is where you'll want to watch it.Screening Schedule\ud83c\uddeb\ud83c\uddf7 France vs Morocco\ud83d\udcc5 10 July\ud83d\udd5c 1:30 AM\ud83c\uddea\ud83c\uddf8 Spain vs Belgium\ud83d\udcc5 11 July\ud83d\udd67 12:30 AM\ud83c\uddf3\ud83c\uddf4 Norway vs England\ud83d\udcc5 12 July\ud83d\udd5d 2:30 AM\ud83c\udde6\ud83c\uddf7 Argentina vs Switzerland\ud83d\udcc5 12 July\ud83d\udd61 6:30 AM\ud83c\uddeb\ud83c\uddf7 France vs Spain \ud83c\uddea\ud83c\uddf8\ud83d\udcc5 15 July\ud83d\udd67 12:30 AM\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f England vs Argentina \ud83c\udde6\ud83c\uddf7\ud83d\udcc5 16 July\ud83d\udd67 12:30 AM and finals TBDExpect matchday vibes, football conversations, giveaways, and a room full of people who care just as much as you do.Throughout 9\u201319 July, we're bringing For The Love Of The Game to life with:\u26bd Live World Cup screenings\ud83c\udfc6 1v1 & 2v2 Volta Tournaments\ud83c\udf81 Exclusive giveaways\ud83c\udfb5 A World Cup Final Block PartyUnlimited Proost beer, Redbull, and BRB chips on the house.",
     "startDate": "2026-07-14T22:30:00+05:30",
     "endDate": "2026-07-19T23:30:00+05:30",
     "location": {
@@ -33,6 +33,44 @@
     "keywords": [
       "Leisure",
       "Food & drink",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "BADDY WITH BADDIES",
+    "description": "Grab your racket and bring your best energy - it's time for Baddy with Baddies \ud83c\udff8\u2728, a women-only badminton meet-up where the only goal is to have fun.Whether you've got a sneaky smash up your sleeve or you're simply looking for a fun way to move, this session is all about friendly rallies, big laughs, and moving your body in great company. Expect good vibes, and a community of women who are here to play, cheer each other on, and enjoy the sport.So if you've been looking for an excuse to get back on the court (or step onto one for the first time), this is it.\ud83d\udcc5 Wednesday, 15th July\ud83d\udd57 8:00 PM \u2013 9:00 PMCome solo or with your girls - you'll leave with a great workout, a few new friends, and probably plans for a rematch.",
+    "startDate": "2026-07-15T20:00:00+05:30",
+    "endDate": "2026-07-15T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "near Qutab Minar Metro Station, Aam Bagh, Ladha Sarai Village, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.51514850000000000000",
+        "longitude": "77.18640390000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "299.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag13",
+    "keywords": [
+      "Leisure",
+      "Wellness",
       "Active",
       "URBANAUT"
     ]
@@ -149,6 +187,44 @@
       "Eco Friendly",
       "Walking Tour",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Hot Girls Do Pilates | Defence Colony",
+    "description": "Let\u2019s make your Sunday morning extra feel-good with Hot Girls Do Pilates, a guided pilates experience by SWAG \ud83d\udc9bThis is a reformer pilates session with limited spots!Come and feel fitter in the company of like-minded women, and stayback for some chit-chat!",
+    "startDate": "2026-07-18T11:00:00+05:30",
+    "endDate": "2026-07-18T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "A322, Block A, Defence Colony, New Delhi, Delhi 110024, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.57351930000000000000",
+        "longitude": "77.22945200000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1399.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag21",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Active",
       "URBANAUT"
     ]
   },
@@ -448,6 +524,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "SMASH LIKE A GIRL (Tennis)",
+    "description": "Ready to serve, rally, and smash your way into something new? Join us for Smash Like A Girl \ud83c\udfbe\u2728, a women-only guided tennis session that's all about learning the game, moving your body, and having an absolute blast on court.Whether you're picking up a racket for the first time or brushing up on your skills, you'll be rallying, laughing, and celebrating every little win together. Led by a coach, this beginner-friendly session will help you build confidence with the basics while keeping things light, playful, and action-packed. \ud83d\udcc5  Saturday, 18th July\ud83d\udd60 5:45 PM \u2013 6:45 PMWhat to bring:Wear comfortable activewear and sports shoes.Tennis balls will be provided. You can either bring you own racquet or rent one while booking. Come solo or bring your girls - either way, you'll leave with a new skill, a great workout, and plenty of reasons to get back on the court.",
+    "startDate": "2026-07-18T17:45:00+05:30",
+    "endDate": "2026-07-18T18:45:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "J6HH+MMC, Barakhamba Rd, Todermal Road Area, Mandi House, New Delhi, Delhi 110001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.62917610000000000000",
+        "longitude": "77.22913750000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "495.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag28",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Safdarjung Tomb: Night Heritage Walk",
     "description": "Safdarjung\u2019s Tomb Night Heritage Walk(curated by Darwesh heritage walks in collaboration with Sabhyata Foundation)Join us for a journey into the fading glow of Mughal splendour at Safdarjung's Tomb \u2014 often called the *last flicker of Mughal grandeur* in Delhi.Built in 1754 for Safdarjung, the powerful Nawab of Awadh and Prime Minister of the Mughal court, this monument stands at the twilight of an empire \u2014 grand in ambition, yet carrying within it the quiet signs of decline.Its story is as fascinating as its form. From courtly intrigues and shifting loyalties to the architectural choices that reveal a changing political landscape, Safdarjung\u2019s life opens a compelling window into 18th-century Delhi.We will also trace a lesser-known layer of its history \u2014 how this tomb was constructed by reusing material from a pre-existing Mughal structure, quite literally building one memory over another.To truly understand Delhi \u2014 its rise, its resilience, and its gradual transitions \u2014 a visit to Safdarjung\u2019s Tomb is essential.Come, walk with us through the final chapter of Mughal architectural brilliance \u2014 where grandeur meets gravity, and history lingers in every arch.",
     "startDate": "2026-07-18T18:00:00+05:30",
@@ -672,6 +786,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Hot Girls Do Pilates | Model Town",
+    "description": "Let\u2019s make your Sunday morning extra feel-good with Hot Girls Do Pilates, a guided reformer pilates experience by SWAG \ud83d\udc9bSpots are limited! Come and feel fitter in the company of like-minded women, and stay back for a quick coffee/tea and some chit-chat!",
+    "startDate": "2026-07-19T11:00:00+05:30",
+    "endDate": "2026-07-19T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "2nd Floor, Model Town, F-14/17, near vodafone store, Model Town Phase 2, Phase 2, Model Town, new delhi, Delhi, 110033, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.70579230000000000000",
+        "longitude": "77.19057350000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1399.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag27",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Overthinkers Anonymous - Relationships Edition",
     "description": "Before You BlameOverviewA space for the relationships you carry but rarely talk about. People gather to finally say the things they've held back from a parent, a partner, a coworker, an in-law, anyone they can't avoid and can't quite be honest with. Said out loud, finally.Most relationship conflicts are not just about what happened; they are about how we interpret what happened. This session focuses on exploring how our thoughts shape our connections and why friction often feels more intense than the situation warrants. \"Before You Blame\" is a reflective workshop designed to help you look at your assumptions and inner patterns, moving you from reactivity toward steadiness and emotional responsibility.What is Stories of Hope?We are a community-led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities, from mental well-being to personal growth, with empathy and shared human connection.What to ExpectPattern Recognition: Explore how common emotional triggers and ego-driven patterns shape conflicts in marriage, family, or work.Internal Focus: Instead of trying to fix others, we gently shift the focus inward to understand our own interpretations and responses.Practical Tools: Learn actionable ways to question stressful thoughts and practice perspective shifts using real-life scenarios.Safe Exploration: A supportive, non-judgmental environment for honest discussion. This is a space for learning and reflection, not a lecture or therapy.Key TakeawaysClarity: Gain a deeper understanding of recurring relationship dynamics.Responsiveness: Walk away with tools to help you respond thoughtfully instead of reacting impulsively.Emotional Ownership: Build the internal steadiness needed to navigate life without requiring others to change first.Details\ud83d\uddd3\ufe0f Date: 12th July (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Joaah Cafe",
@@ -746,6 +898,42 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "#lecture35: Why Women Don't Orgasm",
+    "description": "Why is the clitoris still treated like a mysterious bonus feature when it is literally the only human organ designed purely for pleasure?In Why Women Don't Orgasm (And Whose Fault Is It, Anyway?): A Live Investigation into Sex Ed, the Clitoris, and 3,000 Years of Bad Information, Dr Tanaya (better known online as Dr Cuterus) takes us on a funny, furious, and fascinating journey through the history of how women\u2019s pleasure got ignored, misunderstood, medicalised, shamed, and occasionally just\u2026 erased from the textbooks (literally).This isn\u2019t a lecture about awkward conversations.It\u2019s a lecture about how knowledge is created, how misinformation survives for centuries, and why asking better questions can fundamentally change the way we understand ourselves.Whether you\u2019re interested in science, medicine, psychology, history, gender, or simply enjoy questioning things you\u2019ve always taken for granted, we think you\u2019ll leave seeing the human body a little differently.And this time come prepared with your questions!YOUR TICKETS INCLUDESA 45-minute live lectureAudience Q&AOne complimentary beer or mocktailABOUT THE SPEAKERDr Tanaya is a doctor, author, and sexual health educator who has spent years making conversations about bodies, sex, periods, pleasure, and reproductive health feel less shameful and more understandable for millions of people online. In this talk, she unpacks how bad anatomy, patriarchal science, cultural discomfort, and centuries of misinformation have shaped the way we think about sex, women\u2019s orgasms, and why so many people still know so little about one of the body\u2019s most important pleasure organs, or even where it is.From the clitoris\u2019 surprisingly dramatic scientific history to the very real orgasm gap in heterosexual relationships, we\u2019ll explore what defines good sex, whose pleasure gets prioritised, and Everything Nobody Tells You About Your Body - which also happens to be the title of her bestselling book.Disclaimer\u2022 By attending, you consent to being photographed and/or filmed. Event photos and videos may be used by Pint of View for promotional purposes.\u2022 Alcohol will not be served to attendees below 25 years. Your complimentary drink may be exchanged for a mocktail or another non-alcoholic beverage. Please carry a valid government-issued ID.",
+    "startDate": "2026-07-19T16:00:00+05:30",
+    "endDate": "2026-07-19T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Eldeco Centre, Hauz Rani, Malviya Nagar, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52840100000000000000",
+        "longitude": "77.20589749999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1299.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Pint of View Delhi NCR",
+      "url": "https://urbanaut.app/partner/pint-of-view-delhi-ncr"
+    },
+    "url": "https://urbanaut.app/spot/lecture35-why-women-dont-orgasm",
+    "keywords": [
+      "Wellness",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "uL: Physics Across Frontiers",
     "description": "Join us for a lecture that takes you to the edges of what we think we know about reality, and shows you why the universe keeps proving us wrong.About the LectureOur intuition about the laws of nature comes from what we can see, touch, and measure in everyday life. Drop a ball, it falls. Push something, it moves. The world behaves, more or less, the way you'd expect.But physics has a habit of breaking its own rules.When objects travel close to the speed of light, time slows down. When things become impossibly small, they stop behaving like things at all. At every frontier \u2014 from Newton to Einstein, from Einstein to the architects of the Standard Model of Particle Physics \u2014 the greatest leaps in understanding have required scientists to abandon their most cherished assumptions and follow the data, however strange it looked.This lecture traces that journey across the frontiers of physics: the moments where intuition collided with reality. From the elegance of classical mechanics to the bizarre certainties of quantum physics, it asks what happens when the universe refuses to behave the way we think it should.The session explores:Why our everyday intuition about physics breaks down at extreme speeds and scalesHow Newton's laws gave way to Einstein's \u2014 and why Einstein's weren't enough eitherWhat the Standard Model of Particle Physics reveals about the deep structure of realityWhy every great leap in physics required abandoning assumptions, not just refining themThe frontier we stand at today \u2014 and why it may be the most challenging one yetAbout the SpeakerAbhishek Iyer's journey through physics took him from Fergusson College, Pune to IIT Kharagpur, and then to the Indian Institute of Science, Bangalore for a PhD \u2014 where most of his time was spent thinking about extra dimensions: the idea that space might hide more directions than we can perceive. He spent three years at the Tata Institute of Fundamental Research in Mumbai, two years at INFN Naples (also the birthplace of pizza), and continued at IP2I Lyon, the gastronomical capital of France, before arriving at IIT Delhi \u2014 still asking a similar set of questions.Fun fact: He is likely to be found at one of Delhi's many monuments on the weekends.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
@@ -777,6 +965,44 @@
     "url": "https://urbanaut.app/spot/ul-physics-across-frontiers",
     "keywords": [
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Play Like A Girl",
+    "description": "SWAG girls, this one's for you.We're turning an ordinary evening into the ultimate girls' playground.We'll kick things off with a feel-good 3 KM Community Run, through Lodhi Gardens before heading to The Blue Court for an evening full of play! Pick up a shuttle, grab the paddle or swing the bat. Pickleball, Cricket, Badminton, we are playing it all!No pressure. No judgement. Just a bunch of SWAG Girlies showing up, laughing through the misses, celebrating the wins, and creating memories!Here's the game plan:5:00 PM \u2013 Meet at Athula Bridge, Lodhi Garden.5:10 PM \u2013 Warm-up5:20 PM \u2013 3 KM run through Lodhi Garden (ending at The Blue Court, DTEA Senior Secondary School, Lodhi Estate)6:00 PM \u2013 Cool down6 - 7 PM \u2013 Badminton & Pickleball6 \u2013 7:30 PM \u2013 CricketCome solo or with your girls. This isn't just another sports meet-up. It's a SWAG exclusive -made for women who are ready to play, cheer, and have way too much fun doing it.",
+    "startDate": "2026-07-19T17:00:00+05:30",
+    "endDate": "2026-07-19T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Lodhi Rd, Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59309590000000000000",
+        "longitude": "77.21967939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag-run",
+    "keywords": [
+      "Adventure",
+      "Wellness",
+      "Active",
       "URBANAUT"
     ]
   },
