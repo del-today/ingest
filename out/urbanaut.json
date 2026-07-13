@@ -267,6 +267,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Anmol Reads Book Club meet-up",
+    "description": "Get ready for a reading adventure with us, we read silently for almost an hour, then we introduce ourselves and our books, and in the end a surprise literary activity awaits us!we welcome everyone, and all of us get along extremely well and the latter is left on the host!Most of us will stay for Lunch, so you already have a beautiful brunch plan here :)Hope to see you soon!Ps: A lot of banter is included in the ticket!",
+    "startDate": "2026-07-18T12:00:00+05:30",
+    "endDate": "2026-07-18T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ground Floor, AIPL Joy Central, GF-01, Golf Course Ext Rd, Sector 65, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40537820000000000000",
+        "longitude": "77.06050050000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "149.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Anmol Reads",
+      "url": "https://urbanaut.app/partner/anmol-read"
+    },
+    "url": "https://urbanaut.app/spot/anmol-reads-book-club-meet-up",
+    "keywords": [
+      "Wellness",
+      "Eco Friendly",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Street Smart: Virtual Edition",
     "description": "We all have our own quiet rules for staying safe online\u2013 the things we never share, the links we don't click, the \"text me when you get home\" texts we send without thinking twice. But have we ever actually compared notes?Street Smart: Virtual Edition is an interactive workshop that turns your everyday digital habits into a conversation about design, safety, and responsibility. We will unpack the small, often invisible digital survival strategies we have all built for ourselves, and explore what they reveal about how safe (or unsafe) our online spaces really are \u2013 and who is responsible for making them better.No prior knowledge needed, just you, your habits, and zero judgment :)",
     "startDate": "2026-07-18T12:00:00+05:30",
@@ -334,6 +372,44 @@
       "Premium",
       "Pop-up Event",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Hot Girls Do Hyrox",
+    "description": "SWAG x PUMA x SPARTAN FITNESSHOT GIRLS DO HYROX!Yet to hop on to the HYROX train? As Delhi prepares to host Hyrox, SWAG is here with a women-only, high-intensity HYROX Simulation, a team challenge designed to capture the essence of HYROX racing in a fast, accessible format.Expect a 8 Stations - 8*500m Running Simulation at a SPARTAN FITNESS, an elite fitness destination, access to Sauna & Cold Plunge, collagen drinks by RESET, fitness challenges, prizes and yummy snacks!We have limited spots! Book yours now!",
+    "startDate": "2026-07-18T14:00:00+05:30",
+    "endDate": "2026-07-18T16:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "3rd floor, AIPL JOY GALLERY, Badshahpur, Sector 66, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40500560000000000000",
+        "longitude": "77.05737400000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "399.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/hyrox",
+    "keywords": [
+      "Adventure",
+      "Wellness",
+      "Active",
       "URBANAUT"
     ]
   },
