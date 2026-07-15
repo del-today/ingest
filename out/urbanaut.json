@@ -471,7 +471,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "999.00",
+      "price": "499.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -743,6 +743,42 @@
     },
     "url": "https://urbanaut.app/spot/bapus-curries",
     "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Mixology Masterclass",
+    "description": "Mixology Masterclass | Learn from an Expert MixologistStep behind the bar and discover the art of crafting exceptional cocktails in an immersive, hands-on Mixology Masterclass.Whether you\u2019re a cocktail enthusiast, aspiring bartender, or simply looking for a unique experience, this workshop is designed to help you master professional techniques used in leading luxury hospitality brands.What You\u2019ll Experience\u2022 Learn from an expert mixologist with experience at JW Marriott, Novotel & Striker Priv\u00e9\u2022 Craft your own signature cocktail from scratch\u2022 Understand bar tools, glassware, balancing flavours and mixing techniques\u2022 Work with premium ingredients and professional equipment\u2022 Take home expert tips, recipes and bartending techniques\u2022 Certificate of ParticipationCover \t\tCharge are required to pay at Venue Gate Rupees 250",
+    "startDate": "2026-07-18T20:30:00+05:30",
+    "endDate": "2026-07-18T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "ShellBeacon Patio Cafe, 3rd Floor, 1A/1, Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55470520000000000000",
+        "longitude": "77.19515770000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Wavelength",
+      "url": "https://urbanaut.app/partner/wavelength"
+    },
+    "url": "https://urbanaut.app/spot/wavelength",
+    "keywords": [
+      "Food & drink",
       "URBANAUT"
     ]
   },

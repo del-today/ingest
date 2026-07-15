@@ -1,23 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "Turtle Walker(2024)",
-    "url": "https://fillum.in/screening/5839",
-    "startDate": "2026-07-15T17:30:00+05:30",
-    "endDate": "2026-07-15T17:30:00+05:30",
-    "description": "Neighbourhood screening. RSVP Request based. Entry on confirmation.",
-    "location": {
-      "@type": "Place",
-      "name": "Vasant Vihar",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kriti Film Club"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "Adamya(2026)",
     "url": "https://fillum.in/screening/5785",
     "startDate": "2026-07-16T18:30:00+05:30",
