@@ -1,44 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Gully Labs' World Cup Watch Party",
-    "description": ".:\u26bd Live World Cup screenings\ud83c\udfc6 1v1 & 2v2 Volta Tournaments\ud83c\udf81 Exclusive giveaways\ud83c\udfb5 A World Cup Final Block PartyUnlimited Proost beer, Redbull, and BRB chips on the house.FOR THE LOVE OF THE GAME \u26bdSome people plan their lives around kickoff. This is for them.For 11 days, Baithak transforms into football headquarters. We're screening every major knockout clash of the FIFA World Cup - bringing together fans, rivalries, celebrations, heartbreaks, and everything that makes football more than just a game.Whether you're here to scream at the referee, celebrate a last-minute winner, or debate tactics with complete strangers, this is where you'll want to watch it.Screening Schedule\ud83c\uddeb\ud83c\uddf7 France vs Morocco\ud83d\udcc5 10 July\ud83d\udd5c 1:30 AM\ud83c\uddea\ud83c\uddf8 Spain vs Belgium\ud83d\udcc5 11 July\ud83d\udd67 12:30 AM\ud83c\uddf3\ud83c\uddf4 Norway vs England\ud83d\udcc5 12 July\ud83d\udd5d 2:30 AM\ud83c\udde6\ud83c\uddf7 Argentina vs Switzerland\ud83d\udcc5 12 July\ud83d\udd61 6:30 AM\ud83c\uddeb\ud83c\uddf7 France vs Spain \ud83c\uddea\ud83c\uddf8\ud83d\udcc5 15 July\ud83d\udd67 12:30 AM\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f England vs Argentina \ud83c\udde6\ud83c\uddf7\ud83d\udcc5 16 July\ud83d\udd67 12:30 AM and finals TBDExpect matchday vibes, football conversations, giveaways, and a room full of people who care just as much as you do.Throughout 9\u201319 July, we're bringing For The Love Of The Game to life with:\u26bd Live World Cup screenings\ud83c\udfc6 1v1 & 2v2 Volta Tournaments\ud83c\udf81 Exclusive giveaways\ud83c\udfb5 A World Cup Final Block PartyUnlimited Proost beer, Redbull, and BRB chips on the house.",
-    "startDate": "2026-07-14T22:30:00+05:30",
-    "endDate": "2026-07-15T23:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54778550000000000000",
-        "longitude": "77.21136729999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1048.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Gully Labs",
-      "url": "https://urbanaut.app/partner/baithak"
-    },
-    "url": "https://urbanaut.app/spot/gully-labs-world-cup-watch-party-14973",
-    "keywords": [
-      "Leisure",
-      "Food & drink",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "BADDY WITH BADDIES",
     "description": "Grab your racket and bring your best energy - it's time for Baddy with Baddies \ud83c\udff8\u2728, a women-only badminton meet-up where the only goal is to have fun.Whether you've got a sneaky smash up your sleeve or you're simply looking for a fun way to move, this session is all about friendly rallies, big laughs, and moving your body in great company. Expect good vibes, and a community of women who are here to play, cheer each other on, and enjoy the sport.So if you've been looking for an excuse to get back on the court (or step onto one for the first time), this is it.\ud83d\udcc5 Wednesday, 15th July\ud83d\udd57 8:00 PM \u2013 9:00 PMCome solo or with your girls - you'll leave with a great workout, a few new friends, and probably plans for a rematch.",
@@ -71,6 +33,44 @@
     "keywords": [
       "Leisure",
       "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Gully Labs' World Cup Watch Party",
+    "description": ".:\u26bd Live World Cup screenings\ud83c\udfc6 1v1 & 2v2 Volta Tournaments\ud83c\udf81 Exclusive giveaways\ud83c\udfb5 A World Cup Final Block PartyUnlimited Proost beer, Redbull, and BRB chips on the house.FOR THE LOVE OF THE GAME \u26bdSome people plan their lives around kickoff. This is for them.For 11 days, Baithak transforms into football headquarters. We're screening every major knockout clash of the FIFA World Cup - bringing together fans, rivalries, celebrations, heartbreaks, and everything that makes football more than just a game.Whether you're here to scream at the referee, celebrate a last-minute winner, or debate tactics with complete strangers, this is where you'll want to watch it.Screening Schedule\ud83c\uddeb\ud83c\uddf7 France vs Morocco\ud83d\udcc5 10 July\ud83d\udd5c 1:30 AM\ud83c\uddea\ud83c\uddf8 Spain vs Belgium\ud83d\udcc5 11 July\ud83d\udd67 12:30 AM\ud83c\uddf3\ud83c\uddf4 Norway vs England\ud83d\udcc5 12 July\ud83d\udd5d 2:30 AM\ud83c\udde6\ud83c\uddf7 Argentina vs Switzerland\ud83d\udcc5 12 July\ud83d\udd61 6:30 AM\ud83c\uddeb\ud83c\uddf7 France vs Spain \ud83c\uddea\ud83c\uddf8\ud83d\udcc5 15 July\ud83d\udd67 12:30 AM\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f England vs Argentina \ud83c\udde6\ud83c\uddf7\ud83d\udcc5 16 July\ud83d\udd67 12:30 AM and finals TBDExpect matchday vibes, football conversations, giveaways, and a room full of people who care just as much as you do.Throughout 9\u201319 July, we're bringing For The Love Of The Game to life with:\u26bd Live World Cup screenings\ud83c\udfc6 1v1 & 2v2 Volta Tournaments\ud83c\udf81 Exclusive giveaways\ud83c\udfb5 A World Cup Final Block PartyUnlimited Proost beer, Redbull, and BRB chips on the house.",
+    "startDate": "2026-07-15T22:30:00+05:30",
+    "endDate": "2026-07-15T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1048.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
+    },
+    "url": "https://urbanaut.app/spot/gully-labs-world-cup-watch-party-14973",
+    "keywords": [
+      "Leisure",
+      "Food & drink",
       "Active",
       "URBANAUT"
     ]
