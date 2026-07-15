@@ -787,43 +787,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Badass Begum: Women Architecture in Old Delhi",
-    "description": "Badass Begums: An Old Delhi Heritage WalkA guided heritage walk through the lanes of Old Delhi exploring the stories of the women who shaped its history. The walk focuses on the lives, influence and cultural presence of the Begums of Mughal-era Delhi.Led by author and historian Anoushika Jain, the experience shares stories of women who contributed to politics, culture, art, food traditions and social life. The walk is designed as a storytelling experience with narration and interaction along the route.The walk takes participants through Old Delhi and concludes with a curated food experience. It also includes select takeaways for participants.Language of communication is Hindi and English.",
-    "startDate": "2026-07-19T07:30:00+05:30",
-    "endDate": "2026-07-19T09:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Chandni Chowk, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.65053310000000000000",
-        "longitude": "77.23033699999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "900.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Enroute Indian History",
-      "url": "https://urbanaut.app/partner/enrouteindianhistory"
-    },
-    "url": "https://urbanaut.app/spot/badass-begum-women-architecture-in-old-delhi",
-    "keywords": [
-      "History & heritage",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Mehrauli Heritage Walk- A city within city!",
     "description": "Trace 1,000 years of Delhi\u2019s story in Mehrauli, where Sultans, Sufis and everyday bazaar life still share the same streets. This architect-led, story-rich trail connects built heritage with everyday life \u2013 from Mughal-era alleys and stepwells to Sufi shrines and local sweet shops, making history accessible, engaging and child-friendly.",
@@ -1602,6 +1565,43 @@
     "url": "https://urbanaut.app/spot/ul-the-secret-history-of-indian-sci-fi",
     "keywords": [
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Festivals of Shahjahanabad by Rana Safvi",
+    "description": "Kathika is delighted to host a special edition of Baithak Pe Charcha with celebrated author and historian Rana Safvi, as she takes audiences on a captivating journey through the vibrant festivals and seasonal traditions of Shahjahanabad. Set against the intimate, heritage-rich backdrop of Kathika\u2019s Haveli, this interactive baithak, \"Festivals of Shahjahanabad: Revisiting Phool Walon Ki Sair and Other Seasonal Celebrations,\" will rediscover the shared cultural heritage that once defined the heart of Old Delhi.Through fascinating anecdotes, historical accounts and personal reflections, eminent historian Rana Safvi will revisit the story of Phool Walon Ki Sair and other cherished seasonal celebrations that brought together communities across faiths and traditions. Audiences will gain a deeper understanding of how these festivals shaped the social and cultural life of Shahjahanabad, preserving its spirit of harmony, celebration, and collective memory. This promises to be an enriching evening of storytelling, history, and conversation that brings the city's living heritage vividly to life.",
+    "startDate": "2026-07-26T16:00:00+05:30",
+    "endDate": "2026-07-26T17:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64610280000000000000",
+        "longitude": "77.22736410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kathika Cultural Centre and Museum",
+      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
+    },
+    "url": "https://urbanaut.app/spot/festivals-of-shahjahanabad-by-rana-safvi",
+    "keywords": [
+      "History & heritage",
+      "Art & culture",
       "URBANAUT"
     ]
   },
