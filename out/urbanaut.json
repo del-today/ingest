@@ -339,43 +339,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "INNER CHILD",
-    "description": "INNER Child: An Evening of Colour, Clay & ConversationWhere: Project OtengaWhen: Saturday, 18th July, 2026Time: 3:30 PM \u2013 8:00 PM\u2022 A soft evening of art, clay, and connection.\u2022 Come play, create, and reconnect. \ud83c\udf3f\u2022 Colour, clay, music, and mindful moments.\u2022 An immersive journey back to your inner child.",
-    "startDate": "2026-07-18T15:30:00+05:30",
-    "endDate": "2026-07-18T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Bahadur Shah Zafar Marg, Balmiki Basti, Vikram Nagar, New Delhi, Delhi, 110002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.63437330000000000000",
-        "longitude": "77.24172150000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2600.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Project Otenga",
-      "url": "https://urbanaut.app/partner/project-otenga"
-    },
-    "url": "https://urbanaut.app/spot/inner-child",
-    "keywords": [
-      "Leisure",
-      "Pop-up Event",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "uL: Beyond The Tiger; Mega Mammal Futures In India",
     "description": "Join us for a lecture that asks a question India rarely pauses to consider:How do a billion people share a country with 3,600 tigers, 900 lions, and 28,000 elephants?About the LectureIn 1972, India staged a quiet coup. The lion \u2014 regal, heraldic, national symbol since independence \u2014 was replaced by the tiger as national animal. Decades later, the elephant was declared a national heritage animal. States claimed their own: the lion for Gujarat, the rhino for Assam.These are political gestures. But behind them lies a far older and more complicated story.For centuries, India's mega mammals have been revered and feared, worshipped and avoided. They have been symbols of power and objects of terror. And today, every one of them occupies a fraction of the range it held just two hundred years ago.The usual story here is one of gloom and decline. But this lecture takes a different path. Drawing on history, ecology, and the messy overlap between human and animal worlds, it asks not just what went wrong \u2014 but what went right. How have states and societies related to these enormous animals across centuries? When and why did conflicts become truly intense? And is there ground for hope?The past cannot give easy answers. But by showing us how we arrived at this juncture, it can equip us to think more clearly about the choices ahead.About the SpeakerMahesh Rangarajan teaches History and Environmental Studies at Ashoka University, Sonipat. He studied at Hindu College, University of Delhi, and at Balliol and Nuffield Colleges, Oxford, where he was a Rhodes Scholar. He has taught at Jadavpur, Cornell, Delhi, and Krea Universities, and at the National Centre for Biological Sciences, Bengaluru.His books include Fencing the Forest (1996), India's Wildlife History (2001), and Nature and Nation (2015). His edited works include The Oxford Anthology of Indian Wildlife (1999), and recent co-edited volumes Nature Contested (2026) and India's Forests (2026).He is fascinated by film music of the '60s and '70s, and rock \u2014 and yes, he finds ways to relate these to animals, history, and ecology.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
@@ -431,7 +394,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "999.00",
+      "price": "699.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -1450,6 +1413,42 @@
       "Leisure",
       "Food & drink",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Buenos Vinos: A Spanish & South American Wine Tasting",
+    "description": "Delhi, we're bringing a little Latin magic to your next Saturday night. \ud83c\udf77\u2728Join Sommelier Devati Mallick (Founder & Curator, Drink With D Wine Experiences) at Latoya for Buenos Vinos! We'll journey from the sun-drenched vineyards of Spain to the spectacular and underrated wine regions of South America, tasting five incredible wines along the way. Expect expressive Tempranillo, juicy Malbec, and a few delicious surprises we're keeping under wraps for now. We'll snack on Latoya's flavour-packed Latin-inspired small plates, specially chosen to bring every sip to life.If you've been to a Drink With D tasting before, you already know this is so much more than a wine tasting. It's an evening of stories, shared tables, endless conversations and meeting the city's friendliest wine community. You'll surely leave with a few new wine friends!And because we're at Latoya, don't make plans after. Stay back, soak in the lively Latin vibes, enjoy the music, and let the night unfold.Seats are limited, so book your spot now and come raise a glass with us. Salud! \ud83c\udf77",
+    "startDate": "2026-07-25T17:00:00+05:30",
+    "endDate": "2026-07-25T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Eldeco Centre, Hauz Rani, Malviya Nagar, New Delhi, Delhi, 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52853160000000000000",
+        "longitude": "77.20587560000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2750.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Drink With D",
+      "url": "https://urbanaut.app/partner/drinkwithd"
+    },
+    "url": "https://urbanaut.app/spot/wine-tasting-buenos-vinos-delhi",
+    "keywords": [
+      "Leisure",
       "URBANAUT"
     ]
   },
