@@ -671,6 +671,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Gully Labs' World Cup Watch Party",
+    "description": ".:\u26bd Live World Cup screenings\ud83c\udfc6 1v1 & 2v2 Volta Tournaments\ud83c\udf81 Exclusive giveaways\ud83c\udfb5 A World Cup Final Block PartyUnlimited Proost beer, Redbull, and BRB chips on the house.FOR THE LOVE OF THE GAME \u26bdSome people plan their lives around kickoff. This is for them.For 11 days, Baithak transforms into football headquarters. We're screening every major knockout clash of the FIFA World Cup - bringing together fans, rivalries, celebrations, heartbreaks, and everything that makes football more than just a game.Whether you're here to scream at the referee, celebrate a last-minute winner, or debate tactics with complete strangers, this is where you'll want to watch it.Screening Schedule\ud83c\uddeb\ud83c\uddf7 France vs Morocco\ud83d\udcc5 10 July\ud83d\udd5c 1:30 AM\ud83c\uddea\ud83c\uddf8 Spain vs Belgium\ud83d\udcc5 11 July\ud83d\udd67 12:30 AM\ud83c\uddf3\ud83c\uddf4 Norway vs England\ud83d\udcc5 12 July\ud83d\udd5d 2:30 AM\ud83c\udde6\ud83c\uddf7 Argentina vs Switzerland\ud83d\udcc5 12 July\ud83d\udd61 6:30 AM\ud83c\uddeb\ud83c\uddf7 France vs Spain \ud83c\uddea\ud83c\uddf8\ud83d\udcc5 15 July\ud83d\udd67 12:30 AM\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f England vs Argentina \ud83c\udde6\ud83c\uddf7\ud83d\udcc5 16 July\ud83d\udd67 12:30 AM and finals TBDExpect matchday vibes, football conversations, giveaways, and a room full of people who care just as much as you do.Throughout 9\u201319 July, we're bringing For The Love Of The Game to life with:\u26bd Live World Cup screenings\ud83c\udfc6 1v1 & 2v2 Volta Tournaments\ud83c\udf81 Exclusive giveaways\ud83c\udfb5 A World Cup Final Block PartyUnlimited Proost beer, Redbull, and BRB chips on the house.",
+    "startDate": "2026-07-18T23:30:00+05:30",
+    "endDate": "2026-07-18T23:58:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1260.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
+    },
+    "url": "https://urbanaut.app/spot/gully-labs-world-cup-watch-party-14973",
+    "keywords": [
+      "Leisure",
+      "Food & drink",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Nature Walk - Kamla Nehru Ridge",
     "description": "Step into one of Delhi\u2019s oldest and most fascinating green spaces with our guided Nature Walk at Kamla Nehru Ridge. Part of the ancient Aravalli range, this beautiful forest is often called the \u201cGreen Lungs of Delhi\u201d and offers a unique blend of biodiversity, history, and peaceful walking trails. Participants will explore native flora, observe a variety of birds, butterflies, and other urban wildlife, and discover the ecological importance of the Ridge in maintaining Delhi\u2019s environment. Along the way, we\u2019ll also uncover stories of historic landmarks connected to the 1857 uprising, making this walk a perfect mix of nature, heritage, and learning. Whether you\u2019re a beginner or a nature enthusiast, this experience promises a refreshing escape into the wild heart of the city. The walk will be conducted by Verhean Khanna.",
@@ -1891,6 +1929,42 @@
       "url": "https://urbanaut.app/partner/unlecture"
     },
     "url": "https://urbanaut.app/spot/ul-badass-begums-the-women-of-the-mughal-era",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Table For Ten | Food Club - Kerala Edition",
+    "description": "Table for Ten: The Heirloom EditionTable for Ten is an intimate, 7-course, shared experience built around a simple idea: food is never just food. It carries memories, histories, and the people who came before us. This edition takes that idea and looks at it through Kerala's cuisine. Every dish on the table has a history. Some recipes survived because families passed them down, some because they solved a problem and some simply because enough people decided they were worth keeping. Through shared activities and fun games, we will explore what gets carried forward across generations and what changes along the way (both food and otherwise). Our menu also looks at Malayali cuisine beyond dosa and idli!MenuKulukki Sarbath: Kerala's signature shaken lemon cooler with a spicy twistBanana Chips, Pappadam & Pickled Vegetables: Traditional crispy and savoury accompaniments to begin your mealBeetroot Kappa Salad // Chicken Kondattam: A refreshing salad of tapioca chips and beetroot with Kerala flavours // Crispy fried chicken tossed in soy sauce, chilli and curry leaf seasoningV for Vendekka // Buff Double Fry: Crispy, spice-marinated okra served as a starter // Crisp buffalo meat thinly sliced and double-fried with roasted Kerala spicesAppam with Vegetable Stew // Appam with Mutton Mappas: Thin, lacey rice flour pancakes with a delicate coconut milk based veg curry // ...mutton curryPuttu & Kadala Curry // Chicken Kizhi Porotta: Steamed rice cakes paired with Kerala-style black chickpea curry // Flaky Malabar porotta wrapped with spiced chicken and steamed in a banana leafPazham Pori, Coconut Jaggery Ice Cream & Sulaimani: Kerala-style banana fritters served with handcrafted coconut jaggery ice cream and a cup of black tea to seal the dealNote: If there's a specific non-vegetarian protein you don't eat, you'll be served the vegetarian alternative for that course.Who Are WeWe are Diya and Sanjula, a non-profit fundraiser who spends all her money trying out the new 'it' restaurant in town, and a therapist who would have been a food critic in another life. Between us, we share a belief that food is far more than what ends up on a plate. Reach us on Instagram @spoonsofdelhi_ or WhatsApp at +91 8448577626 for any queries.",
+    "startDate": "2026-07-31T19:00:00+05:30",
+    "endDate": "2026-07-31T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "First Floor, Commons, DLF Avenue Mall, AV-242, Saket District Centre, District Centre, Sector 6, Saket, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52857920000000000000",
+        "longitude": "77.21622980000001000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2039.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Table for Ten",
+      "url": "https://urbanaut.app/partner/table-for-ten"
+    },
+    "url": "https://urbanaut.app/spot/table-for-ten-food-club-kerala-edition",
     "keywords": [
       "Food & drink",
       "URBANAUT"
