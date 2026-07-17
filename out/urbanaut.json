@@ -103,7 +103,7 @@
     "organizer": {
       "@type": "Organization",
       "name": "New Delhi Nature Society",
-      "url": null
+      "url": "https://urbanaut.app/partner/new-delhi-nature-society-312"
     },
     "url": "https://urbanaut.app/spot/nature-walk-shakti-sthal-shanti-van",
     "keywords": [
@@ -303,7 +303,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Hot Girls Do Hyrox",
-    "description": "SWAG x PUMA x SPARTAN FITNESSHOT GIRLS DO HYROX!Yet to hop on to the HYROX train? As Delhi prepares to host Hyrox, SWAG is here with a women-only, high-intensity HYROX Simulation, a team challenge designed to capture the essence of HYROX racing in a fast, accessible format.Expect a 8 Stations - 8*500m Running Simulation at a SPARTAN FITNESS, an elite fitness destination, access to Sauna & Cold Plunge, collagen drinks by RESET, fitness challenges, prizes and yummy snacks!We have limited spots! Book yours now!",
+    "description": "SWAG x PUMA x SPARTAN FITNESSHOT GIRLS DO HYROX!Yet to hop on to the HYROX train? As Delhi prepares to host Hyrox, SWAG is here with a women-only, high-intensity HYROX Simulation, a team challenge designed to capture the essence of HYROX racing in a fast, accessible format.Expect a 8 Stations - 8*500m Running Simulation at a SPARTAN FITNESS, an elite fitness destination, access to Sauna & Cold Plunge, recovery by RESET and protein snacks by PHAB!We have limited spots! Book yours now!",
     "startDate": "2026-07-18T14:00:00+05:30",
     "endDate": "2026-07-18T16:00:00+05:30",
     "location": {
@@ -735,7 +735,7 @@
     "organizer": {
       "@type": "Organization",
       "name": "New Delhi Nature Society",
-      "url": null
+      "url": "https://urbanaut.app/partner/new-delhi-nature-society-312"
     },
     "url": "https://urbanaut.app/spot/nature-walk-kamla-nehru-ridge",
     "keywords": [
@@ -752,7 +752,7 @@
     "name": "Badass Begum: Women Architecture in Old Delhi",
     "description": "Badass Begums: An Old Delhi Heritage WalkA guided heritage walk through the lanes of Old Delhi exploring the stories of the women who shaped its history. The walk focuses on the lives, influence and cultural presence of the Begums of Mughal-era Delhi.Led by author and historian Anoushika Jain, the experience shares stories of women who contributed to politics, culture, art, food traditions and social life. The walk is designed as a storytelling experience with narration and interaction along the route.The walk takes participants through Old Delhi and concludes with a curated food experience. It also includes select takeaways for participants.Language of communication is Hindi and English.",
     "startDate": "2026-07-19T07:30:00+05:30",
-    "endDate": "2026-07-19T09:00:00+05:30",
+    "endDate": "2026-08-29T09:30:00+05:30",
     "location": {
       "@type": "Place",
       "address": "Chandni Chowk, Delhi, India",
@@ -923,7 +923,7 @@
     "organizer": {
       "@type": "Organization",
       "name": "New Delhi Nature Society",
-      "url": null
+      "url": "https://urbanaut.app/partner/new-delhi-nature-society-312"
     },
     "url": "https://urbanaut.app/spot/bushcraft-workshop",
     "keywords": [
@@ -990,7 +990,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "799.00",
+      "price": "499.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -1064,7 +1064,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "499.00",
+      "price": "350.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -1193,6 +1193,80 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
+    "name": "Tuesday Board Game Night",
+    "description": "This Tuesday, skip the screens. Bring your dad for Codenames. Bring your kid to Azul. Most importantly, bring yourself for the laughter you didn\u2019t know you missed.\ud83d\udccdProject Otenga, Shaheedi Park, ITO\u23f0 7:00 PM onwards\ud83d\uddd3\ufe0f 21 July & 28 JulyAll the games will be taught during the evening by our expert game facilitator and there is no requirement to know the games before \ud83c\udf38\ud83e\udd0dThe coupons for tickets are redeemable.",
+    "startDate": "2026-07-21T19:00:00+05:30",
+    "endDate": "2026-07-28T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gate No. 1, Bahadur Shah Zafar Marg, inside Shaheedi park, Balmiki Basti, Vikram Nagar, New Delhi, Delhi, 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.63445520000000000000",
+        "longitude": "77.24131700000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "300.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Project Otenga",
+      "url": "https://urbanaut.app/partner/project-otenga"
+    },
+    "url": "https://urbanaut.app/spot/tuesday-board-game-night-15184",
+    "keywords": [
+      "Leisure",
+      "Food & drink",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "SideRoom with NatureMorte",
+    "description": "Who tells the story when a work of art is made by many hands?Contemporary art is increasingly shaped not by the lone artist in a studio, but by the accumulated craft, memory, and expertise of communities whose names rarely appear on the wall label. This panel brings together artists, curators, and creative directors to examine what this shift means, and what it demands of us ethically, aesthetically, and practically.The conversation is anchored in Exposed Spine, the new solo exhibition by visual artist Neeraj Patel, developed in collaboration with Jaipur Rugs. When an artist enters the knowledge world of an artisan community, does collaboration become authorship? Appropriation? This is a panel discussion, but not the kind where you sit in rows and stare at a podium. It's an evening at one of Delhi's best galleries, with genuinely fascinating people on stage, drinks in hand, and the kind of crowd that shows up when art, craft, and ideas are all in the same room at once.On the panel:Peter Nagy, Director-Founder, Nature MorteRutvi Chaudhary, Director and Creative Director, Jaipur RugsPremjish Achari, Curator and WriterNeeraj Patel, Visual ArtistModerated by Sibdas Sengupta, Artist and Curator23rd July \u00b7 Wednesday \u00b7 7 PM onwardsNature Morte, Dhan Mill, New DelhiDrinks by Sepoy & Co and Woodsmen \u2014 because good conversations deserve good company.",
+    "startDate": "2026-07-23T19:00:00+05:30",
+    "endDate": "2026-07-23T20:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "G53M+JX7 The Dhan Mill, D-Block, Pocket D, Dr Ambedkar Colony, Chhatarpur, New Delhi, Delhi 110074, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.50404160000000000000",
+        "longitude": "77.18493230000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/sideroom-with-naturemorte",
+    "keywords": [
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
     "name": "Where Time Becomes Taste",
     "description": "The dinner is an invitation to slow down, linger and savour the depth that only time can create. Throughout the meal, we will explore ingredients like fermented chillies, bamboo shoots, gundruk, tungtap, axone, and other preserved and fermented staples. Each ingredient tells a story of patience and how time transforms each element when left to slowly adapt to their environment.",
     "startDate": "2026-07-24T19:30:00+05:30",
@@ -1255,7 +1329,7 @@
     "organizer": {
       "@type": "Organization",
       "name": "New Delhi Nature Society",
-      "url": null
+      "url": "https://urbanaut.app/partner/new-delhi-nature-society-312"
     },
     "url": "https://urbanaut.app/spot/nature-walk-jahanpanah-city-forest",
     "keywords": [
@@ -1593,7 +1667,7 @@
     "organizer": {
       "@type": "Organization",
       "name": "New Delhi Nature Society",
-      "url": null
+      "url": "https://urbanaut.app/partner/new-delhi-nature-society-312"
     },
     "url": "https://urbanaut.app/spot/nature-walk-sunder-nursery",
     "keywords": [
