@@ -35,6 +35,40 @@
   },
   {
     "@type": "ScreeningEvent",
+    "name": "Love(2015)",
+    "url": "https://fillum.in/screening/5869",
+    "startDate": "2026-07-19T12:00:00+05:30",
+    "endDate": "2026-07-19T12:00:00+05:30",
+    "description": "Gaspar No\u00e9's 'Love' strips romance down to its rawest elements; desire, obsession, jealousy, memory, and regret, though dismissed by some as pornography and embraced by others as one of the most vu..more",
+    "location": {
+      "@type": "Place",
+      "name": "Niv Art Centre, Saket",
+      "address": "Sainik Farm, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "12 Angry Men(1957)",
+    "url": "https://fillum.in/screening/5870",
+    "startDate": "2026-07-19T15:00:00+05:30",
+    "endDate": "2026-07-19T15:00:00+05:30",
+    "description": "One room. Twelve men. One verdict that could decide the difference between life and death.Often regarded as one of the greatest films ever made, 12 Angry Men is a masterclass in storytelling tha..more",
+    "location": {
+      "@type": "Place",
+      "name": "Niv Art Centre, Saket",
+      "address": "Sainik Farm, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "Finding the Language - Shorts Package",
     "url": "https://fillum.in/event/5851",
     "startDate": "2026-07-19T16:00:00+05:30",
@@ -52,19 +86,19 @@
   },
   {
     "@type": "ScreeningEvent",
-    "name": "The Seventh Seal(1957)",
-    "url": "https://fillum.in/screening/5867",
-    "startDate": "2026-07-19T18:00:00+05:30",
-    "endDate": "2026-07-19T18:00:00+05:30",
-    "description": "",
+    "name": "Nostalgia(1983)",
+    "url": "https://fillum.in/screening/5871",
+    "startDate": "2026-07-19T16:30:00+05:30",
+    "endDate": "2026-07-19T16:30:00+05:30",
+    "description": "A Russian poet travels through the mist-covered landscapes of Italy in search of traces left behind by another artist, only to find himself confronted by memory, longing, and the quiet ache of being..more",
     "location": {
       "@type": "Place",
-      "name": "Niv Art Centre, Neb Sarai",
-      "address": "Sainik Farm, New Delhi"
+      "name": "iPley Music Studio, GK-1",
+      "address": "Delhi"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Films From Underground"
+      "name": "SomeArt"
     }
   }
 ]
