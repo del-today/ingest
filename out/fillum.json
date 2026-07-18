@@ -66,5 +66,39 @@
       "@type": "Organization",
       "name": "SomeArt"
     }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Whispers of the Mountains(2025)",
+    "url": "https://fillum.in/screening/5786",
+    "startDate": "2026-07-20T18:30:00+05:30",
+    "endDate": "2026-07-20T18:30:00+05:30",
+    "description": "Free entry. No registration required.",
+    "location": {
+      "@type": "Place",
+      "name": "C. D. Deshmukh Auditorium, India International Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "India International Centre"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Yakasi\u2019s Daughter(2025)",
+    "url": "https://fillum.in/screening/5787",
+    "startDate": "2026-07-21T18:30:00+05:30",
+    "endDate": "2026-07-21T18:30:00+05:30",
+    "description": "Free entry. No registration required.",
+    "location": {
+      "@type": "Place",
+      "name": "C. D. Deshmukh Auditorium, India International Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "India International Centre"
+    }
   }
 ]
