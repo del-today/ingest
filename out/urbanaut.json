@@ -1,118 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Mehrauli Heritage Walk- A city within city!",
-    "description": "Trace 1,000 years of Delhi\u2019s story in Mehrauli, where Sultans, Sufis and everyday bazaar life still share the same streets. This architect-led, story-rich trail connects built heritage with everyday life \u2013 from Mughal-era alleys and stepwells to Sufi shrines and local sweet shops, making history accessible, engaging and child-friendly.",
-    "startDate": "2026-07-19T09:00:00+05:30",
-    "endDate": "2026-07-19T10:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Anuvrat Marg, opposite Qutab Minar Metro Station, Christian Colony, Mehrauli, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52020410000000000000",
-        "longitude": "77.18767900000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "450.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Riwayat Walks",
-      "url": "https://urbanaut.app/partner/riwayatwalks"
-    },
-    "url": "https://urbanaut.app/spot/mehrauli-heritage-walk-a-city-within-city-15052",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Hot Girls Do Pilates | Model Town",
-    "description": "Let\u2019s make your Sunday morning extra feel-good with Hot Girls Do Pilates, a guided reformer pilates experience by SWAG \ud83d\udc9bSpots are limited! Come and feel fitter in the company of like-minded women, and stay back for a quick coffee/tea and some chit-chat!",
-    "startDate": "2026-07-19T11:00:00+05:30",
-    "endDate": "2026-07-19T12:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "2nd Floor, Model Town, F-14/17, near vodafone store, Model Town Phase 2, Phase 2, Model Town, new delhi, Delhi, 110033, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.70579230000000000000",
-        "longitude": "77.19057350000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1399.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag27",
-    "keywords": [
-      "Wellness",
-      "Workshop",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Overthinkers Anonymous - Relationships Edition",
-    "description": "Before You BlameOverviewA space for the relationships you carry but rarely talk about. People gather to finally say the things they've held back from a parent, a partner, a coworker, an in-law, anyone they can't avoid and can't quite be honest with. Said out loud, finally.Most relationship conflicts are not just about what happened; they are about how we interpret what happened. This session focuses on exploring how our thoughts shape our connections and why friction often feels more intense than the situation warrants. \"Before You Blame\" is a reflective workshop designed to help you look at your assumptions and inner patterns, moving you from reactivity toward steadiness and emotional responsibility.What is Stories of Hope?We are a community-led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities, from mental well-being to personal growth, with empathy and shared human connection.What to ExpectPattern Recognition: Explore how common emotional triggers and ego-driven patterns shape conflicts in marriage, family, or work.Internal Focus: Instead of trying to fix others, we gently shift the focus inward to understand our own interpretations and responses.Practical Tools: Learn actionable ways to question stressful thoughts and practice perspective shifts using real-life scenarios.Safe Exploration: A supportive, non-judgmental environment for honest discussion. This is a space for learning and reflection, not a lecture or therapy.Key TakeawaysClarity: Gain a deeper understanding of recurring relationship dynamics.Responsiveness: Walk away with tools to help you respond thoughtfully instead of reacting impulsively.Emotional Ownership: Build the internal steadiness needed to navigate life without requiring others to change first.Details\ud83d\uddd3\ufe0f Date: 12th July (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Joaah Cafe",
-    "startDate": "2026-07-19T11:30:00+05:30",
-    "endDate": "2026-07-19T13:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Shop No. 18,19,28, Ascott Ireo City Central, behind Jagdish Store, Alahawas, Sector 59, Gurugram, Haryana 122011, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.40773430000000000000",
-        "longitude": "77.10356910000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "700.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/before-you-blame",
-    "keywords": [
-      "Wellness",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Bushcraft Workshop",
     "description": "\ud83c\udf32 Bushcraft Workshop: Unleash Your Inner Wilderness Survivor at Forest Spirit Learning, Gurgaon! \ud83d\udd25Get ready for an unforgettable adventure into the heart of nature!Join us for a Bushcraft Workshop at Forest Spirit Learning in Gurgaon \u2014 a thrilling 4-hour immersion where you\u2019ll master essential survival skills, reconnect with the wild, and have a blast doing it. Perfect for adventure seekers of all ages \u2014 kids, families, teens, and adults \u2014 this program turns the forest into your ultimate playground.Why This Workshop Will Be Epic:We\u2019ll keep it intimate and high-quality with a maximum of just 10 participants so everyone gets personalized guidance from experienced instructors.No crowds, just pure focus on fun, learning, and memorable moments in the great outdoors.Highlights of the Adventure:\u2013 Master Fire Starting \u2014 Learn ancient techniques to spark a roaring bonfire from scratch (even in tricky conditions!).\u2013 Pure Water Mastery \u2014 Filter and purify water like a true survivor.\u2013 Shelter Building \u2014 Pitch a tent and construct emergency natural shelters.\u2013 Knot Mastery \u2014 Tie essential knots that hold strong in any situation.\u2013 Emergency Signalling \u2014 Master ways to call for help and stay safe.\u2013 Bonfire Feast \u2014 Cook delicious potatoes right in the glowing embers \u2014 nothing tastes better than forest-cooked food!\u2013 First Aid Basics \u2014 Quick, practical skills to handle minor injuries in the wild.Additional Exciting Activities We\u2019ll Include:\u2013 Foraging for safe, edible plants and natural resources.\u2013 Wildlife tracking and reading nature\u2019s signs.\u2013 Building simple tools or natural cordage from the environment.\u2013 Basic navigation using the sun, stars, and landmarks.By the end, you\u2019ll feel empowered, confident, and deeply connected to the forest!Duration: 4 hours of pure excitement.  Location: Forest Spirit Learning, Gurgaon.Refreshments: We\u2019ll provide light snacks, drinks, and post-activity treats to keep your energy high.  What to Bring: Comfortable outdoor clothes, sturdy shoes, a water bottle, sunscreen/insect repellent, and your sense of adventure.We strongly encourage you to bring your own survival bag/kit if you have one \u2014 we\u2019ll review and enhance it together!Essential Items for Your Survival Bag/KitHere\u2019s a recommended starter list for a compact, effective bushcraft/survival kit (pack light but smart):\u2013 Fire-starting tools \u2014 Lighter/matches, ferro rod, tinder (cotton balls, dry bark, etc.).\u2013 Knife \u2014 A sturdy fixed-blade bushcraft knife (with sheath).\u2013 Water purification \u2014 Tablets, filter straw, or small pot for boiling.\u2013 Cordage \u2014 Paracord or natural rope (at least 10-15 meters).\u2013 Shelter \u2014 Lightweight tarp, emergency blanket, or small tent.\u2013 First Aid \u2014 Basic kit with bandages, antiseptic, tweezers, pain relief, and personal meds.\u2013 Navigation \u2014 Compass, small map/whistle, signal mirror.\u2013 Multi-tool\u2013 Food/Water \u2014 Energy bars, reusable container.\u2013 Extra \u2014 Headlamp/flashlight with batteries, gloves, notepad/pen, trash bag (leave no trace!).We\u2019ll provide a full printable checklist when you register.Pricing\u20b91,500 per person (including all materials, instruction, refreshments, and a take-home bushcraft tip sheet).This pricing reflects our commitment to quality instruction, safe equipment, and a premium intimate experience in a beautiful natural setting.Early bird or group discounts may apply for families registering together.Spots are strictly limited to 10 \u2014 secure yours now before they vanish!This is more than just a workshop; it\u2019s a transformative adventure that will leave you inspired, skilled, and craving more time in the wild.Ready to awaken your inner survivor?Forest Spirit Learning \u2013 Where Nature Teaches Best. \ud83c\udf3f\ud83d\udd25See you under the trees! \ud83c\udfd5\ufe0f",
@@ -256,78 +144,6 @@
       "Adventure",
       "Wellness",
       "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Lala And The Pursuit of Moolah",
-    "description": "Join us for a lecture that asks a question most business textbooks skip entirely: what did Indian entrepreneurship look like centuries before the word \"startup\" existed?About the LectureIndian entrepreneurship remains strikingly under-represented in mainstream business literature. The balance tilted slightly with the government's enthusiasm for Startup India and its unicorns, but Indian entrepreneurship has a history stretching back hundreds of years before Zomato and Zerodha became household names. Most of us remain unaware of how Indian tradesmen and entrepreneurs innovated financial instruments, credit systems, accounting practices, and contract management long before these ideas appeared in Harvard textbooks \u2014 and of how much of that legacy has since faded into obscurity.About the SpeakerDr. Nihar Amoncar is Pro Vice Chancellor at IILM University and Director of the IILM School of Management. He completed his PhD in Family Business Strategy on a full scholarship from the University of South Wales, and has won several global awards for his research on traditional business communities, including the Best Paper Award at the Academy of Marketing. He is a Fellow of Higher Education (UK), serves on the Board of the Academy of Marketing's Special Interest Group on Entrepreneurship and Marketing, and is the Asia representative of GRCME (USA).PS: Your Ticket Includes a 250/- Coupon Redeemable on F&BAbout unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from St. Stephen's, Delhi who wanted learning to feel warm, social and alive. Each event is an invitation to spend an evening with an idea.",
-    "startDate": "2026-07-19T17:00:00+05:30",
-    "endDate": "2026-07-19T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Basement, Ground floor and First floor Building no. 12, Panchsheel Community Centre, Shahpur Jat, Panchsheel Park, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54805190000000000000",
-        "longitude": "77.21147640000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "350.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/lala-and-the-pursuit-of-moolah",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Haunted Walk: Mehrauli Archaeological Park",
-    "description": "Join us for a hauntingly beautiful night walk through the Mehrauli Archaeological Park, a place where centuries of Delhi\u2019s history come alive\u2014alongside tales of the unseen. In this special segment, Ruhaani Raatein, we delve into the world of djinns, the mystical beings believed to reside in this ancient land.Guided by a historian and storyteller, we\u2019ll explore how djinns are viewed and worshipped in Islamic traditions, and how folklore continues to shape the spiritual character of Mehrauli even today.Our walk will take you through: The tomb of Jamali Kamali, often called the Gay Taj Mahal for its poetic mystique and timeless love story A haunting 500-year-old baoli (stepwell)The remnants of a British-era swimming pool, hidden in plain sight A peaceful lakeside caf\u00e9, perfect for ending the evening with a quiet reflection or a warm chaiAs night falls and shadows grow, let the stories guide you through one of Delhi\u2019s oldest, most magical spaces\u2014where the past is never truly past.",
-    "startDate": "2026-07-19T17:00:00+05:30",
-    "endDate": "2026-07-19T18:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Anuvrat Marg, opposite Qutab Minar Metro Station, Christian Colony, Mehrauli, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52020410000000000000",
-        "longitude": "77.18767900000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "650.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Enroute Indian History",
-      "url": "https://urbanaut.app/partner/enrouteindianhistory"
-    },
-    "url": "https://urbanaut.app/spot/haunted-walk-mehrauli-archaeological-park",
-    "keywords": [
-      "Adventure",
       "URBANAUT"
     ]
   },
@@ -812,6 +628,43 @@
       "Eco Friendly",
       "Food & drink",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Make your own Mo:Mo with Triyata \ud83e\udd5f",
+    "description": "Have a look at how it went last time - https://www.instagram.com/reel/Dah1tiaTgfk/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==If you've ever thought, \"Making mo:mo looks easy, I could do that,\" this is your chance to prove it.Triyata Chhetri is hosting the Mo:Mo Masterclass at Thamel this time and she's here to show you how to casually pleat the most perfect mo:mo. She makes it look effortless, and somehow she's even better at teaching it. No experience needed \u2014 just bring the vibes, she'll handle the skills.What You'll ExperienceUnder the guidance of Triyata and our chefs, you'll:\u2022 Make fresh mo:mo dough from scratch\u2022 Learn two traditional folding styles \u2014 the classic round and elegant moon shape\u2022 Fill your mo:mo with your choice of vegetable or paneer filling (the filling is premade)\u2022 Master the techniques of steaming and pan-frying mo:mo to perfection\u2022 Plate your creations and enjoy them fresh with our signature house-made chutneysThis is a relaxed, interactive, and fun culinary experience designed for food lovers of all skill levels.Perfect For\u2022 Date nights\u2022 Couples and friends\u2022 Families\u2022 Food enthusiasts looking to learn something newPlease Note\u2022 Arrive 15 minutes early for check-in\u2022 Dietary requirements can be accommodated with advance notice\u2022 Spaces are limited and booking is essential",
+    "startDate": "2026-07-25T15:00:00+05:30",
+    "endDate": "2026-07-25T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shop No. 139, The shopping mall, Arjun Marg, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46589090000000000000",
+        "longitude": "77.09964640000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "999.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Thamel",
+      "url": "https://urbanaut.app/partner/thamel"
+    },
+    "url": "https://urbanaut.app/spot/makewithtriyata",
+    "keywords": [
+      "Workshop",
+      "Food & drink",
       "URBANAUT"
     ]
   },
