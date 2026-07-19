@@ -2,45 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Nature Walk - Kamla Nehru Ridge",
-    "description": "Step into one of Delhi\u2019s oldest and most fascinating green spaces with our guided Nature Walk at Kamla Nehru Ridge. Part of the ancient Aravalli range, this beautiful forest is often called the \u201cGreen Lungs of Delhi\u201d and offers a unique blend of biodiversity, history, and peaceful walking trails. Participants will explore native flora, observe a variety of birds, butterflies, and other urban wildlife, and discover the ecological importance of the Ridge in maintaining Delhi\u2019s environment. Along the way, we\u2019ll also uncover stories of historic landmarks connected to the 1857 uprising, making this walk a perfect mix of nature, heritage, and learning. Whether you\u2019re a beginner or a nature enthusiast, this experience promises a refreshing escape into the wild heart of the city. The walk will be conducted by Verhean Khanna.",
-    "startDate": "2026-07-19T07:00:00+05:30",
-    "endDate": "2026-07-19T09:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "West Of, Hindu Rao Marg, near Pir Ghaib, Kamla Nehru Ridge, Civil Lines, New Delhi, Delhi, 110007, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.67609430000000000000",
-        "longitude": "77.21225100000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "350.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "New Delhi Nature Society",
-      "url": "https://urbanaut.app/partner/new-delhi-nature-society-312"
-    },
-    "url": "https://urbanaut.app/spot/nature-walk-kamla-nehru-ridge",
-    "keywords": [
-      "Adventure",
-      "Eco Friendly",
-      "Walking Tour",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Mehrauli Heritage Walk- A city within city!",
     "description": "Trace 1,000 years of Delhi\u2019s story in Mehrauli, where Sultans, Sufis and everyday bazaar life still share the same streets. This architect-led, story-rich trail connects built heritage with everyday life \u2013 from Mughal-era alleys and stepwells to Sufi shrines and local sweet shops, making history accessible, engaging and child-friendly.",
     "startDate": "2026-07-19T09:00:00+05:30",
