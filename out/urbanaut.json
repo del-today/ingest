@@ -76,6 +76,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "BADDY WITH BADDIES",
+    "description": "Grab your racket and bring your best energy - it's time for Baddy with Baddies \ud83c\udff8\u2728, a women-only badminton meet-up where the only goal is to have fun.Whether you've got a sneaky smash up your sleeve or you're simply looking for a fun way to move, this session is all about friendly rallies, big laughs, and moving your body in great company. Expect good vibes, and a community of women who are here to play, cheer each other on, and enjoy the sport.So if you've been looking for an excuse to get back on the court (or step onto one for the first time), this is it.\ud83d\udcc5 Wednesday, 23rd July\ud83d\udd57 8:00 PM \u2013 9:00 PMCome solo or with your girls - you'll leave with a great workout, a few new friends, and probably plans for a rematch.",
+    "startDate": "2026-07-23T20:00:00+05:30",
+    "endDate": "2026-07-23T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "near Qutab Minar Metro Station, Aam Bagh, Ladha Sarai Village, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.51514850000000000000",
+        "longitude": "77.18640390000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "299.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/baddy",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "uL: The Subtle Neuroscience Of Not Reacting",
     "description": "Join in for a lecture that reveals what's actually happening in your brain in that half-second before you decide whether to handle something with grace, or make it a whole thing.About the LectureHow do you turn neuroscience research on the default mode network, the posterior insula, and the interoceptive network into strategies you can actually use? On the commute home. In the meeting. In the conversation you've been dreading.Chartered Psychologist Martyn Stewart draws on groundbreaking work from Daniel Kahneman and Lisa Feldman-Barrett to explain what's really going on beneath the surface, and how to work with your brain rather than against it. Turns out your brain isn't reacting to the world. It's predicting it. And once you understand that, a lot of things start to make more sense.The session explores:How your brain constructs emotional responses through a process called degeneracyWhy your brain is a prediction device orchestrating events before they even happenHow to use your default mode network as an anchor for mental stabilityReal-time strategies for emotional regulation you can apply immediatelyBring a pen, a story, and an open mind.About the SpeakerMartyn Stewart is a Chartered Psychologist with the British Psychological Society \u2014 the highest level of professional recognition in the field, with 25 years of international experience as a speaker, educator, and author. His training programmes have been delivered at Manchester City Football Club, UK government departments, and organisations across the Middle East.About unLecture unLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
     "startDate": "2026-07-24T19:00:00+05:30",
@@ -368,43 +406,6 @@
       "Eco Friendly",
       "Food & drink",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Make your own Mo:Mo with Triyata \ud83e\udd5f",
-    "description": "Have a look at how it went last time - https://www.instagram.com/reel/Dah1tiaTgfk/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==If you've ever thought, \"Making mo:mo looks easy, I could do that,\" this is your chance to prove it.Triyata Chhetri is hosting the Mo:Mo Masterclass at Thamel this time and she's here to show you how to casually pleat the most perfect mo:mo. She makes it look effortless, and somehow she's even better at teaching it. No experience needed \u2014 just bring the vibes, she'll handle the skills.What You'll ExperienceUnder the guidance of Triyata and our chefs, you'll:\u2022 Make fresh mo:mo dough from scratch\u2022 Learn two traditional folding styles \u2014 the classic round and elegant moon shape\u2022 Fill your mo:mo with your choice of vegetable or paneer filling (the filling is premade)\u2022 Master the techniques of steaming and pan-frying mo:mo to perfection\u2022 Plate your creations and enjoy them fresh with our signature house-made chutneysThis is a relaxed, interactive, and fun culinary experience designed for food lovers of all skill levels.Perfect For\u2022 Date nights\u2022 Couples and friends\u2022 Families\u2022 Food enthusiasts looking to learn something newPlease Note\u2022 Arrive 15 minutes early for check-in\u2022 Dietary requirements can be accommodated with advance notice\u2022 Spaces are limited and booking is essential",
-    "startDate": "2026-07-25T15:00:00+05:30",
-    "endDate": "2026-07-25T17:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Shop No. 139, The shopping mall, Arjun Marg, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46589090000000000000",
-        "longitude": "77.09964640000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "999.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Thamel",
-      "url": "https://urbanaut.app/partner/thamel"
-    },
-    "url": "https://urbanaut.app/spot/makewithtriyata",
-    "keywords": [
-      "Workshop",
-      "Food & drink",
       "URBANAUT"
     ]
   },
