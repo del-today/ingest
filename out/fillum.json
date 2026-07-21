@@ -100,5 +100,56 @@
       "@type": "Organization",
       "name": "Fillum"
     }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Victoria(2024)",
+    "url": "https://fillum.in/screening/5803",
+    "startDate": "2026-07-27T18:30:00+05:30",
+    "endDate": "2026-07-27T18:30:00+05:30",
+    "description": "Free entry. No registration required.",
+    "location": {
+      "@type": "Place",
+      "name": "C. D. Deshmukh Auditorium, India International Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "India International Centre"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Cured(2020)",
+    "url": "https://fillum.in/screening/5849",
+    "startDate": "2026-07-29T15:00:00+05:30",
+    "endDate": "2026-07-29T15:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "New Delhi LGBTQIA+ Centre, A-86, East of Kailash",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fillum"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "We(2022)",
+    "url": "https://fillum.in/screening/5835",
+    "startDate": "2026-07-30T18:30:00+05:30",
+    "endDate": "2026-07-30T18:30:00+05:30",
+    "description": "Free entry.",
+    "location": {
+      "@type": "Place",
+      "name": "M. L. Bhartia Auditorium, Alliance Fran\u00e7aise",
+      "address": "Lodhi Road, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Alliance Fran\u00e7aise de Delhi"
+    }
   }
 ]
