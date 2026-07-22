@@ -1,44 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Tuesday Board Game Night",
-    "description": "This Tuesday, skip the screens. Bring your dad for Codenames. Bring your kid to Azul. Most importantly, bring yourself for the laughter you didn\u2019t know you missed.\ud83d\udccdProject Otenga, Shaheedi Park, ITO\u23f0 7:00 PM onwards\ud83d\uddd3\ufe0f 21 July & 28 JulyAll the games will be taught during the evening by our expert game facilitator and there is no requirement to know the games before \ud83c\udf38\ud83e\udd0dThe coupons for tickets are redeemable.",
-    "startDate": "2026-07-21T19:00:00+05:30",
-    "endDate": "2026-07-28T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Gate No. 1, Bahadur Shah Zafar Marg, inside Shaheedi park, Balmiki Basti, Vikram Nagar, New Delhi, Delhi, 110002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.63445520000000000000",
-        "longitude": "77.24131700000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "300.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Project Otenga",
-      "url": "https://urbanaut.app/partner/project-otenga"
-    },
-    "url": "https://urbanaut.app/spot/tuesday-board-game-night-15184",
-    "keywords": [
-      "Leisure",
-      "Food & drink",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "SideRoom with NatureMorte",
     "description": "Who tells the story when a work of art is made by many hands?Contemporary art is increasingly shaped not by the lone artist in a studio, but by the accumulated craft, memory, and expertise of communities whose names rarely appear on the wall label. This panel brings together artists, curators, and creative directors to examine what this shift means, and what it demands of us ethically, aesthetically, and practically.The conversation is anchored in Exposed Spine, the new solo exhibition by visual artist Neeraj Patel, developed in collaboration with Jaipur Rugs. When an artist enters the knowledge world of an artisan community, does collaboration become authorship? Appropriation? This is a panel discussion, but not the kind where you sit in rows and stare at a podium. It's an evening at one of Delhi's best galleries, with genuinely fascinating people on stage, drinks in hand, and the kind of crowd that shows up when art, craft, and ideas are all in the same room at once.On the panel:Peter Nagy, Director-Founder, Nature MorteRutvi Chaudhary, Director and Creative Director, Jaipur RugsPremjish Achari, Curator and WriterNeeraj Patel, Visual ArtistModerated by Sibdas Sengupta, Artist and Curator23rd July \u00b7 Wednesday \u00b7 7 PM onwardsNature Morte, Dhan Mill, New DelhiDrinks by Sepoy & Co and Woodsmen \u2014 because good conversations deserve good company.",
@@ -108,42 +70,6 @@
       "Leisure",
       "Wellness",
       "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "uL: The Subtle Neuroscience Of Not Reacting",
-    "description": "Join in for a lecture that reveals what's actually happening in your brain in that half-second before you decide whether to handle something with grace, or make it a whole thing.About the LectureHow do you turn neuroscience research on the default mode network, the posterior insula, and the interoceptive network into strategies you can actually use? On the commute home. In the meeting. In the conversation you've been dreading.Chartered Psychologist Martyn Stewart draws on groundbreaking work from Daniel Kahneman and Lisa Feldman-Barrett to explain what's really going on beneath the surface, and how to work with your brain rather than against it. Turns out your brain isn't reacting to the world. It's predicting it. And once you understand that, a lot of things start to make more sense.The session explores:How your brain constructs emotional responses through a process called degeneracyWhy your brain is a prediction device orchestrating events before they even happenHow to use your default mode network as an anchor for mental stabilityReal-time strategies for emotional regulation you can apply immediatelyBring a pen, a story, and an open mind.About the SpeakerMartyn Stewart is a Chartered Psychologist with the British Psychological Society \u2014 the highest level of professional recognition in the field, with 25 years of international experience as a speaker, educator, and author. His training programmes have been delivered at Manchester City Football Club, UK government departments, and organisations across the Middle East.About unLecture unLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
-    "startDate": "2026-07-24T19:00:00+05:30",
-    "endDate": "2026-07-24T20:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "E-17, Market Ln, Hauz Khas Market, Block E, Hauz Khas, Delhi, New Delhi, Delhi 110016, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55122750000000000000",
-        "longitude": "77.20838499999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/ul-the-subtle-neuroscience-of-not-reacting",
-    "keywords": [
-      "Leisure",
       "URBANAUT"
     ]
   },
@@ -404,44 +330,6 @@
     "keywords": [
       "Wellness",
       "Eco Friendly",
-      "Food & drink",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "The Cartographic Paradox",
-    "description": "Join us for a lecture and workshop that begins with a deceptively simple question:What if the best way to understand a story is to draw a map of it?About the LectureFrom Treasure Island to Middle-earth, maps have lived at the heart of literature. We unfold them at the start of novels, trace routes with our fingers, lose ourselves in coastlines that don't exist. They feel like companions to the written word \u2014 helpful, decorative, secondary.But maps are far more than that. They are powerful narrative artefacts in their own right.Maps appear to tell the truth. They reassure us that the world is real, ordered, knowable. Yet every map is also an act of imagination \u2014 compressing vast territories into symbols, erasing details, privileging one perspective over another, transforming landscapes into stories.This lecture-cum-workshop explores the rich, tangled relationship between maps and literary imagination. Together, we'll journey through some of literature's most memorable cartographies, asking how maps shape our reading, and what they reveal about the worlds \u2014 both real and invented \u2014 that we inhabit.But the exploration doesn't stop at fiction. If stories can be mapped, can lives? What would a cartography of memory look like? What hidden regions of yourself might emerge if you treated identity not as a fixed point, but as a landscape?The session explores:Why maps have held such enduring power in literary culture \u2014 from adventure fiction to memoirHow maps function as texts that can be \"read\" for narrative, ideology, and desireWhat happens when we map not territories but experiences, memories, and identitiesThe creative potential of cartography as a tool for self-discovery and world-buildingPart lecture, part creative workshop \u2014 this is a session built for curiosity, reflection, and imaginative play. Through discussion and hands-on exercises, we'll experiment with mapping as a method of storytelling, narrative design, and understanding who we are.Welcome, cartographer.PS. Every ticket includes a 300/- coupon redeemable on F&B.About the SpeakerVaibhav Dwivedi is an Assistant Professor of English at St. Stephen's College, University of Delhi. He is currently pursuing his PhD at the University of Delhi, working on the intersection of fantastic literature and the house as an architectural and narrative space. His research interests include literature of the weird, cartography, and narratology. Alongside his academic work, he is engaged with theatre and photography \u2014 practices that inform and enrich his teaching.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
-    "startDate": "2026-07-25T16:00:00+05:30",
-    "endDate": "2026-07-25T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M-18, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53378190000000000000",
-        "longitude": "77.24240429999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/the-cartographic-paradox",
-    "keywords": [
-      "Leisure",
       "Food & drink",
       "Art & culture",
       "URBANAUT"
@@ -713,42 +601,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "uL: The Secret History of Indian Sci-Fi",
-    "description": "Join us for a lecture that uncovers a literary tradition most people don't know exists:India's own history of science fiction.About the LectureThere's a popular belief that science fiction is a Western genre \u2014 born in the laboratories and imaginations of Europe and America, with no real history or roots in India.But from the late nineteenth century, Indian writers were already using the tools of science fiction to grapple with the forces reshaping their world: industrialisation, colonialism, modernity, and the promise \u2014 and threat \u2014 of technology. This lecture traces that long, fascinating, and largely forgotten history. It explores how Indian writers adapted science fiction to the specificities of their world, and asks what it means that an entire literary tradition has been hiding in plain sight.The session explores:Why India's science fiction history has been overlooked \u2014 and what that erasure tells usThe pioneering speculative writing of Bose, Hossain, and other early Indian authorsHow post-Independence writers brought Indian scientific culture into the genreThe ways contemporary Indian sci-fi engages with themes from caste to climate to AIThis is a talk for anyone who loves stories about the future \u2014 and wants to discover that India has been writing them for longer than almost anyone realises.About the SpeakerGautam Bhatia is a writer, reviewer, and editor based in New Delhi. He is the author of The Sentence, and the science fiction duology The Wall and The Horizon, and serves as coordinating editor of the science fiction magazine Strange Horizons. In his other life, he is a constitutional lawyer and public commentator on civil and constitutional rights in India.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive. unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
-    "startDate": "2026-07-26T15:00:00+05:30",
-    "endDate": "2026-07-26T17:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Eldeco Centre, Block A, Shivalik Colony, Malviya Nagar, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52806900000000000000",
-        "longitude": "77.20516300000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/ul-the-secret-history-of-indian-sci-fi",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Festivals of Shahjahanabad by Rana Safvi",
     "description": "Kathika is delighted to host a special edition of Baithak Pe Charcha with celebrated author and historian Rana Safvi, as she takes audiences on a captivating journey through the vibrant festivals and seasonal traditions of Shahjahanabad. Set against the intimate, heritage-rich backdrop of Kathika\u2019s Haveli, this interactive baithak, \"Festivals of Shahjahanabad: Revisiting Phool Walon Ki Sair and Other Seasonal Celebrations,\" will rediscover the shared cultural heritage that once defined the heart of Old Delhi.Through fascinating anecdotes, historical accounts and personal reflections, eminent historian Rana Safvi will revisit the story of Phool Walon Ki Sair and other cherished seasonal celebrations that brought together communities across faiths and traditions. Audiences will gain a deeper understanding of how these festivals shaped the social and cultural life of Shahjahanabad, preserving its spirit of harmony, celebration, and collective memory. This promises to be an enriching evening of storytelling, history, and conversation that brings the city's living heritage vividly to life.",
@@ -892,6 +744,44 @@
     "keywords": [
       "History & heritage",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Tuesday Board Game Night",
+    "description": "This Tuesday, skip the screens. Bring your dad for Codenames. Bring your kid to Azul. Most importantly, bring yourself for the laughter you didn\u2019t know you missed.\ud83d\udccdProject Otenga, Shaheedi Park, ITO\u23f0 7:00 PM onwards\ud83d\uddd3\ufe0f 21 July & 28 JulyAll the games will be taught during the evening by our expert game facilitator and there is no requirement to know the games before \ud83c\udf38\ud83e\udd0dThe coupons for tickets are redeemable.",
+    "startDate": "2026-07-28T19:00:00+05:30",
+    "endDate": "2026-07-28T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gate No. 1, Bahadur Shah Zafar Marg, inside Shaheedi park, Balmiki Basti, Vikram Nagar, New Delhi, Delhi, 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.63445520000000000000",
+        "longitude": "77.24131700000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "300.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Project Otenga",
+      "url": "https://urbanaut.app/partner/project-otenga"
+    },
+    "url": "https://urbanaut.app/spot/tuesday-board-game-night-15184",
+    "keywords": [
+      "Leisure",
+      "Food & drink",
+      "Active",
       "URBANAUT"
     ]
   },
