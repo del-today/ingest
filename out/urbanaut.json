@@ -715,6 +715,42 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Overthinkers Anonymous",
+    "description": "OverviewA gentle support circle for thoughts that feel a little too loud.A space to speak, reflect, or simply sit among people who understand emotional overwhelm.This edition explores a different kind of loneliness \u2014 the kind that exists even when life looks socially full. We'll talk about emotional disconnection, feeling unseen, surface-level conversations, difficulty forming close relationships, and why so many of us feel alone even when we're surrounded by people.Say as much or as little as you want. Come as you are.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to expectSharing: The session is built around honest conversation. People share what is on their mind, what they are carrying, what they keep coming back to.Group Discussion: We talk it through together. No advice unless asked, no pressure to have it figured out. Just people listening and being listened to.Details\ud83d\uddd3\ufe0f Date: 26th July (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Thamel, AIPL Joy Central\ud83c\udf9f\ufe0f Contribution: \u20b9700",
+    "startDate": "2026-07-26T11:30:00+05:30",
+    "endDate": "2026-07-26T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ground Floor, AIPL Joy Central, GF-01, Golf Course Ext Rd, Sector 65, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40537820000000000000",
+        "longitude": "77.06050050000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/overthinkers-anonymous",
+    "keywords": [
+      "Wellness",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Sodhilecious Factory Visit",
     "description": "What if we told you most food brands would never let you see their kitchen? We would.At Sodhilecious Bakery, we\u2019re opening our factory to customers \u2014 no filters, no hiding.Come see for yourself:\u2028\u2714\ufe0f How hygienically your food is actually made\u2028\u2714\ufe0f The real ingredients we use (no marketing gimmicks)\u2028\u2714\ufe0f The process behind every bite you trustThis isn\u2019t a \u201ctour\u201d. It\u2019s full transparency. Plus, you get:\u2028\u2022 A snack box\u2028\u2022 Hands-on activities\u2028\u2022 Real-time product sampling",
@@ -1124,6 +1160,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Matcha Circle",
+    "description": "OverviewA shared matcha-making experience where simple acts of whisking, pouring, and preparing create calm.People gather over matcha, conversation, and the quiet rhythm of making something by hand. One cup at a time.Matcha Experience: A Taste of CalmExperience the calming art of green tea in a session dedicated to mindfulness and flavor. This gathering is designed to help you slow down and appreciate the details of a centuries old tradition. \"The Matcha Circle\" offers a peaceful space to learn, taste, and connect at the end of a long week.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to ExpectGuided Introduction: Learn about the history and the unique process of preparing matcha from farm to cup.The Ritual: Watch and learn how the tea is whisked to create its signature froth and deep flavor.Tasting Session: Enjoy a premium matcha drink prepared just for you at Cha & Co.Quiet Conversation: Join a small group setting to talk about finding moments of peace in a busy week over a comforting cup.Details\ud83d\uddd3\ufe0f Date: 31st July (Friday)\u23f0 Time: 6:30 PM\ud83d\udccd Location: Cha & Co, Grand View High Street\ud83c\udf75 Inclusion: Matcha drink included\ud83c\udf9f\ufe0f Fee: \u20b9700",
+    "startDate": "2026-07-31T18:30:00+05:30",
+    "endDate": "2026-07-31T20:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ireo Grand View High Street, Sector 58, Gurugram, Haryana 122098, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41560020000000000000",
+        "longitude": "77.10258329999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/matcha-experience",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Table For Ten | Food Club - Kerala Edition",
     "description": "Table for Ten: The Heirloom EditionTable for Ten is an intimate, 7-course, shared experience built around a simple idea: food is never just food. It carries memories, histories, and the people who came before us. This edition takes that idea and looks at it through Kerala's cuisine. Every dish on the table has a history. Some recipes survived because families passed them down, some because they solved a problem and some simply because enough people decided they were worth keeping. Through shared activities and fun games, we will explore what gets carried forward across generations and what changes along the way (both food and otherwise). Our menu also looks at Malayali cuisine beyond dosa and idli!MenuKulukki Sarbath: Kerala's signature shaken lemon cooler with a spicy twistBanana Chips, Pappadam & Pickled Vegetables: Traditional crispy and savoury accompaniments to begin your mealBeetroot Kappa Salad // Chicken Kondattam: A refreshing salad of tapioca chips and beetroot with Kerala flavours // Crispy fried chicken tossed in soy sauce, chilli and curry leaf seasoningV for Vendekka // Buff Double Fry: Crispy, spice-marinated okra served as a starter // Crisp buffalo meat thinly sliced and double-fried with roasted Kerala spicesAppam with Vegetable Stew // Appam with Mutton Mappas: Thin, lacey rice flour pancakes with a delicate coconut milk based veg curry // ...mutton curryPuttu & Kadala Curry // Chicken Kizhi Porotta: Steamed rice cakes paired with Kerala-style black chickpea curry // Flaky Malabar porotta wrapped with spiced chicken and steamed in a banana leafPazham Pori, Coconut Jaggery Ice Cream & Sulaimani: Kerala-style banana fritters served with handcrafted coconut jaggery ice cream and a cup of black tea to seal the dealNote: If there's a specific non-vegetarian protein you don't eat, you'll be served the vegetarian alternative for that course.Who Are WeWe are Diya and Sanjula, a non-profit fundraiser who spends all her money trying out the new 'it' restaurant in town, and a therapist who would have been a food critic in another life. Between us, we share a belief that food is far more than what ends up on a plate. Reach us on Instagram @spoonsofdelhi_ or WhatsApp at +91 8448577626 for any queries.",
@@ -1200,6 +1274,43 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Drafting Table",
+    "description": "OverviewA quiet writing circle for thoughts that haven\u2019t fully formed yet.Through short writing sprints and reflective prompts, people return to the practice ofputting words on paper, slowly and honestly. A place to begin.ThemeIn this edition of the Drafting Table: The Map That Lies.Every fantasy map is wrong somewhere. This session, write the moment your character notices the ground doesn't match the paper anymore.Then decide- keep walking, or start asking who drew the map in the first place.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to ExpectA Short Intro: We open with a brief framing of the theme and a prompt to get you started. No pressure to use it, just a way in.Writing Time: The bulk of the session is yours. Quiet, unhurried time to write whatever the character needs you to write.Open Mic: We close with an optional read-aloud. Share what you wrote, or just listen. Both are completely fine.Details\ud83d\uddd3\ufe0f Date: 1st August (Saturday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Joaah Cafe, Ireo City Central\ud83c\udf9f\ufe0f Fee: \u20b9700",
+    "startDate": "2026-08-01T11:30:00+05:30",
+    "endDate": "2026-08-01T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shop No. 18,19,28, Ascott Ireo City Central, behind Jagdish Store, Alahawas, Sector 59, Gurugram, Haryana 122011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40773430000000000000",
+        "longitude": "77.10356910000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/the-drafting-table",
+    "keywords": [
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Jalakhya: An Odia Evening of Snacks & Stories",
     "description": "In Odisha, Jalakhya is more than a word for snacks. It is that familiar golden-hour ritual when the day begins to slow down, friends gather around the table, stories get longer, and plates keep filling up.With this supper club, Rosei Ghara brings that feeling to Delhi through an intimate, multi-course journey across Odisha\u2019s much-loved snack culture. Hosted at a private residence, Jalakhya is designed to feel less like a restaurant meal and more like being welcomed into an Odia home for an evening of food, conversation and togetherness.The experience begins with a guguni salad & crunchy Berhampur papad, alongside chilled fresh coconut water.From there, the table moves through crisp, tangy gup-chup and a generous chop basket. Guests can choose between chicken and mutton chops or vegetarian versions made with nadia aloo and kancha kadali, served with ambula rai dip. This course is paired with cooling tanka torani.No Odia snack table would be complete without dahi bara aloo dum\u2014soft baras soaked in spiced curd and served with warm, comforting aloo dum.The next course reimagines a heartier Odia favourite: a mini whole-wheat roti folded around either boneless mutton kassa or mushroom kassa, with fresh salad and garlic hung curd. Think of it as an Odia-style mini taco, paired with a bright and refreshing ambula fizz.The evening ends on a sweet note with creamy coconut ice cream, crisp mini khaja, and a cup of aromatic Koraput coffee.What makes Jalakhya special is not only the food, but the way it is meant to be enjoyed\u2014slowly, together, and with plenty of conversation. This is a table inspired by childhood evenings, neighbourhood favourites, roadside stalls, family recipes and the simple joy of sharing snacks with people you love.Come hungry. Stay for the stories.Please note: This is a seated set-menu experience hosted at a private residence. The complete menu will be served to all guests, with vegetarian and non-vegetarian options available for select courses. The menu is tentative and may change slightly depending on seasonality and ingredient availability.",
@@ -1232,6 +1343,43 @@
     "keywords": [
       "Pop-up Event",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Art of Folding",
+    "description": "The Art of FoldingOverviewA quiet practice of shaping and stillness.Using origami as a meditative, hands-on experience, participants slow down through simple folds and repetitive movement. One fold at a time.No fancy paper needed. This is a hands-on origami session using whatever you have lying around at home. Blinkit bags, newspapers, old book pages, packaging paper. If it folds, it works. Come make something with it.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.ThemeFor the Pets We Love\tA quiet way to celebrate the animals who bring us comfort, joy, and companionship.Details\ud83d\uddd3\ufe0f Date: 2nd August (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Cha & Co, Grand View High Street\ud83c\udf9f\ufe0f Fee: \u20b9700",
+    "startDate": "2026-08-02T11:30:00+05:30",
+    "endDate": "2026-08-02T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ireo Grand View High Street, Sector 58, Gurugram, Haryana 122098, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41560020000000000000",
+        "longitude": "77.10258329999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/the-art-of-folding",
+    "keywords": [
+      "Leisure",
+      "Workshop",
       "URBANAUT"
     ]
   },
