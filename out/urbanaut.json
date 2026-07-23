@@ -2,42 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "SideRoom with NatureMorte",
-    "description": "Who tells the story when a work of art is made by many hands?Contemporary art is increasingly shaped not by the lone artist in a studio, but by the accumulated craft, memory, and expertise of communities whose names rarely appear on the wall label. This panel brings together artists, curators, and creative directors to examine what this shift means, and what it demands of us ethically, aesthetically, and practically.The conversation is anchored in Exposed Spine, the new solo exhibition by visual artist Neeraj Patel, developed in collaboration with Jaipur Rugs. When an artist enters the knowledge world of an artisan community, does collaboration become authorship? Appropriation? This is a panel discussion, but not the kind where you sit in rows and stare at a podium. It's an evening at one of Delhi's best galleries, with genuinely fascinating people on stage, drinks in hand, and the kind of crowd that shows up when art, craft, and ideas are all in the same room at once.On the panel:Peter Nagy, Director-Founder, Nature MorteRutvi Chaudhary, Director and Creative Director, Jaipur RugsPremjish Achari, Curator and WriterNeeraj Patel, Visual ArtistModerated by Sibdas Sengupta, Artist and Curator23rd July \u00b7 Wednesday \u00b7 7 PM onwardsNature Morte, Dhan Mill, New DelhiDrinks by Sepoy & Co and Woodsmen \u2014 because good conversations deserve good company.",
-    "startDate": "2026-07-23T19:00:00+05:30",
-    "endDate": "2026-07-23T20:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "G53M+JX7 The Dhan Mill, D-Block, Pocket D, Dr Ambedkar Colony, Chhatarpur, New Delhi, Delhi 110074, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.50404160000000000000",
-        "longitude": "77.18493230000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/sideroom-with-naturemorte",
-    "keywords": [
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "BADDY WITH BADDIES | Mehrauli",
     "description": "Grab your racket and bring your best energy - it's time for Baddy with Baddies \ud83c\udff8\u2728, a women-only badminton meet-up where the only goal is to have fun.Whether you've got a sneaky smash up your sleeve or you're simply looking for a fun way to move, this session is all about friendly rallies, big laughs, and moving your body in great company. Expect good vibes, and a community of women who are here to play, cheer each other on, and enjoy the sport.So if you've been looking for an excuse to get back on the court (or step onto one for the first time), this is it.\ud83d\udcc5 Wednesday, 23rd July\ud83d\udd57 8:00 PM \u2013 9:00 PMCome solo or with your girls - you'll leave with a great workout, a few new friends, and probably plans for a rematch.",
     "startDate": "2026-07-23T20:00:00+05:30",
@@ -1424,6 +1388,42 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
+    "name": "Zerodha Bootcamp: The FIRE Edition | Gurgaon",
+    "description": "What to expectThis is a 3-hour in-person bootcamp, not a webinar, not a panel discussion, not a pitch for financial products. It's a structured, no-fluff session designed to give you a clear-headed look at what financial independence actually requires and what it realistically takes to get there.Ravi Handa will walk you through the numbers, the math, the common mistakes, and the decisions that actually move the needle in Hindi and English, so nothing gets lost in translation.By the time you leave, you'll have a much clearer answer to the question most people spend years avoiding: how much is enough, and am I on track?What's covered\u2014 The FIRE number: how to calculate what you actually need, not what sounds impressive\u2014 The savings rate question: why how much you save matters more than what you earn\u2014 Investment strategies that make early retirement achievable, not just theoretical\u2014 The mistakes people make in their 30s that cost them a decade of compounding\u2014 What happens after FIRE, the part nobody talks about enoughWho this is forAnyone who has thought about retiring before 60, whether that's a vague wish or a plan you're actively building. You don't need to be an expert investor. You don't need to already have a corpus. You just need to be willing to look at your finances honestly for three hours.Gurgaon's workforce is one of India's most financially capable, high earners, ambitious savers, people who have the means but not always the framework. This session is built for exactly that audience.About the speakerRavi Handa is the founder of Handa Uncle, an AI-powered platform built to simplify personal finance for Indian families. Having spent over a decade teaching and mentoring hundreds of thousands of learners, he now helps people navigate investing, retirement planning, and financial independence through practical, evidence-based frameworks.",
+    "startDate": "2026-08-08T16:00:00+05:30",
+    "endDate": "2026-08-08T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "DLF Cyber Park, Phase II, Udyog Vihar, City:, Gurugram, Haryana 122016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.50270370000000000000",
+        "longitude": "77.09102490000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "376.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Zerodha Varsity Bootcamp",
+      "url": "https://urbanaut.app/partner/zerodha-varsity-bootcamp"
+    },
+    "url": "https://urbanaut.app/spot/zerodha-bootcamp-the-fire-edition-gurgaon",
+    "keywords": [
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
     "name": "Kalighat Painting with delectable Bengali Food",
     "description": "Step into the vibrant world of 19th-century Bengal through an immersive cultural experience that brings together art, storytelling, music, and food. This guided Kalighat painting workshop is led by acclaimed folk artists Sushama Chitrakar and Sanjay Chitrakar, who have devoted over 25 years to preserving and practising this iconic art form. Nationally recognised for their work, their paintings have been exhibited across India, making this a rare opportunity to learn directly from master artisans. The session begins with a live demonstration of the Kalighat painting process: from traditional colour mixing and the fundamentals of drawing to brushwork and composition. Along the way, the artists will share the folk songs traditionally sung while creating these paintings, as well as the stories, social commentary, and mythology that have long been depicted through this distinctive style.To complement the artistic journey, the experience features thoughtfully curated Bengali snack pairings inspired by the culinary traditions of the era, creating a sensory exploration of Bengal's rich cultural heritage. Guests will also have the opportunity to browse and purchase original Kalighat paintings created by the artists, offering a chance to take home an authentic piece of this living tradition.Whether you're an art enthusiast, a culture lover, or simply looking for a unique afternoon experience, this workshop offers an intimate introduction to one of India's most celebrated folk art traditions.Meet Your HostHi, I'm Shramana, a marketing professional born in Kolkata, now based in Delhi, with a deep love for India's art and food traditions. I started curating these experiences to make age-old crafts more accessible to the art-curious while creating meaningful opportunities for master artisans to share their knowledge. I believe cultural heritage thrives when it's experienced. Through intimate workshops, I hope to build a community that celebrates traditional arts, supports artisan livelihoods, and carries these legacies forward together.",
     "startDate": "2026-08-08T17:30:00+05:30",
@@ -1646,43 +1646,6 @@
       "Workshop",
       "Walking Tour",
       "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Badass Begum: Women Architecture in Old Delhi",
-    "description": "Badass Begums: An Old Delhi Heritage WalkA guided heritage walk through the lanes of Old Delhi exploring the stories of the women who shaped its history. The walk focuses on the lives, influence and cultural presence of the Begums of Mughal-era Delhi.Led by author and historian Anoushika Jain, the experience shares stories of women who contributed to politics, culture, art, food traditions and social life. The walk is designed as a storytelling experience with narration and interaction along the route.The walk takes participants through Old Delhi and concludes with a curated food experience. It also includes select takeaways for participants.Language of communication is Hindi and English.",
-    "startDate": "2026-08-29T07:30:00+05:30",
-    "endDate": "2026-08-29T09:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Chandni Chowk, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.65053310000000000000",
-        "longitude": "77.23033699999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "900.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Enroute Indian History",
-      "url": "https://urbanaut.app/partner/enrouteindianhistory"
-    },
-    "url": "https://urbanaut.app/spot/badass-begum-women-architecture-in-old-delhi",
-    "keywords": [
-      "History & heritage",
-      "Food & drink",
       "URBANAUT"
     ]
   },
