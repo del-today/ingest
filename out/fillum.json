@@ -69,6 +69,23 @@
   },
   {
     "@type": "ScreeningEvent",
+    "name": "Persona(1966)",
+    "url": "https://fillum.in/screening/5881",
+    "startDate": "2026-07-25T16:30:00+05:30",
+    "endDate": "2026-07-25T16:30:00+05:30",
+    "description": "Ingmar Bergman's groundbreaking psychological drama and one of the most influential films in cinema history. The story follows a young nurse caring for a famous actress who has mysteriously stopped ..more",
+    "location": {
+      "@type": "Place",
+      "name": "iPley Music Studio, GK-1",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "SomeArt"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "Raghu Rai: An Unframed Portrait(2018)",
     "url": "https://fillum.in/event/5862",
     "startDate": "2026-07-25T19:00:00+05:30",
@@ -133,23 +150,6 @@
     "organizer": {
       "@type": "Organization",
       "name": "Fillum"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "We(2022)",
-    "url": "https://fillum.in/screening/5835",
-    "startDate": "2026-07-30T18:30:00+05:30",
-    "endDate": "2026-07-30T18:30:00+05:30",
-    "description": "Free entry.",
-    "location": {
-      "@type": "Place",
-      "name": "M. L. Bhartia Auditorium, Alliance Fran\u00e7aise",
-      "address": "Lodhi Road, New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Alliance Fran\u00e7aise de Delhi"
     }
   }
 ]
