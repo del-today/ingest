@@ -1,6 +1,23 @@
 [
   {
     "@type": "ScreeningEvent",
+    "name": "Third Week(2024)",
+    "url": "https://fillum.in/screening/5883",
+    "startDate": "2026-07-24T18:00:00+05:30",
+    "endDate": "2026-07-24T18:00:00+05:30",
+    "description": "Free entry.",
+    "location": {
+      "@type": "Place",
+      "name": "M. L. Bhartia Auditorium, Alliance Fran\u00e7aise",
+      "address": "Lodhi Road, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Aravali International Film Festival"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "Monsoon Premieres: Pehli Tareekh & Memories of a Kiss",
     "url": "https://fillum.in/event/5861",
     "startDate": "2026-07-24T19:00:00+05:30",
@@ -52,6 +69,23 @@
   },
   {
     "@type": "ScreeningEvent",
+    "name": "Cinergy x Live Originals: Expressions",
+    "url": "https://fillum.in/event/5882",
+    "startDate": "2026-07-25T18:00:00+05:30",
+    "endDate": "2026-07-25T18:00:00+05:30",
+    "description": "Cinergy: Expressions is more than an event, it's a gathering of artists, audiences, and voices coming together at a time when expression matters the most.In light of the current circumstances, w..more",
+    "location": {
+      "@type": "Place",
+      "name": "Siyah Arthouse, Saket",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Cinergy Club"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "Raghu Rai: An Unframed Portrait(2018)",
     "url": "https://fillum.in/event/5862",
     "startDate": "2026-07-25T19:00:00+05:30",
@@ -65,6 +99,23 @@
     "organizer": {
       "@type": "Organization",
       "name": "Kriti Film Club"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Palestine 36(2025)",
+    "url": "https://fillum.in/screening/5884",
+    "startDate": "2026-07-25T19:00:00+05:30",
+    "endDate": "2026-07-25T19:00:00+05:30",
+    "description": "The film screening will be preceded by book release and panel discussion on the Hindi translation of Ghassan Kanafani\u2019s short stories - 'Gaza se Khat aur Anya Kahaniya' starting at 5 PM.",
+    "location": {
+      "@type": "Place",
+      "name": "Palestine Embassy, Chanakyapuri",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fillum"
     }
   },
   {
@@ -99,23 +150,6 @@
     "organizer": {
       "@type": "Organization",
       "name": "India International Centre"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Cured(2020)",
-    "url": "https://fillum.in/screening/5849",
-    "startDate": "2026-07-29T15:00:00+05:30",
-    "endDate": "2026-07-29T15:00:00+05:30",
-    "description": "",
-    "location": {
-      "@type": "Place",
-      "name": "New Delhi LGBTQIA+ Centre, A-86, East of Kailash",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Fillum"
     }
   }
 ]

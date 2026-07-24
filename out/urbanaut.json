@@ -417,7 +417,7 @@
     "name": "Raat Ke Afsane : Qutub Minar",
     "description": "Experience the magic of Qutub Minar like never before\u2014under the stars and glowing lights. This is a guided heritage walk led by a historian, who will take you through the stunning Qutub complex after dark. As the entire site is beautifully illuminated at night, the minaret shines like Delhi\u2019s very own Eiffel Tower\u2014majestic, mysterious, and unforgettable.Walk through centuries of history, discover forgotten stories, and explore Delhi\u2019s medieval past through engaging storytelling. The play of light, shadow, and silence transforms this heritage site into something truly cinematicPlaces we will cover : 1. Mughal Serai2. Alai Minar3. Iltutmish Tomb4. Qutub Minar5. Iron Pilar6. 27 Jain and hindu temples7. Alai Darwaza8. Alauddin Khilji grave and madarsa .Important Points:  1. Details of the heritage walk will be mailed to you when you book the tickets2. No guided fees for kids below 5.3. Medium of communication : Hindi and English4. Please note that in case of unavoidable external reasons such as (weather conditions, political rallies, VIP movement, powercut) the walk may be canceled. The participant has the liberty to take another walk by the company against the payment they have made within 30 days since the date of the registered walk.5. The company does not have refund policy.",
     "startDate": "2026-07-25T18:30:00+05:30",
-    "endDate": "2026-07-25T20:00:00+05:30",
+    "endDate": "2026-08-29T20:00:00+05:30",
     "location": {
       "@type": "Place",
       "address": "Qutub Minar Complex Rd, Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
@@ -569,7 +569,7 @@
     "name": "Bazar-i-Husn :  exploring Tawaif culture",
     "description": "Step into the world of grace, wit, and artistry as we explore the lives of Tawaifs\u2014the courtesans who once defined high culture, poetry, and performance in Delhi. This walk takes you through old city lanes that once echoed with ghazals, thumris, and the quiet power of women who shaped taste and tradition.Uncover the layered stories of kothas\u2014not as places of shame, but as salons of sophistication, resistance, and refined art. Let\u2019s reclaim these narratives and see history through a different lens.",
     "startDate": "2026-07-26T07:30:00+05:30",
-    "endDate": "2026-07-26T09:00:00+05:30",
+    "endDate": "2026-08-30T09:00:00+05:30",
     "location": {
       "@type": "Place",
       "address": "Chawri Bazar, Chandni Chowk, Delhi, 110006, India",
@@ -747,43 +747,6 @@
       "Leisure",
       "History & heritage",
       "Food & drink",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Festivals of Shahjahanabad by Rana Safvi",
-    "description": "Kathika is delighted to host a special edition of Baithak Pe Charcha with celebrated author and historian Rana Safvi, as she takes audiences on a captivating journey through the vibrant festivals and seasonal traditions of Shahjahanabad. Set against the intimate, heritage-rich backdrop of Kathika\u2019s Haveli, this interactive baithak, \"Festivals of Shahjahanabad: Revisiting Phool Walon Ki Sair and Other Seasonal Celebrations,\" will rediscover the shared cultural heritage that once defined the heart of Old Delhi.Through fascinating anecdotes, historical accounts and personal reflections, eminent historian Rana Safvi will revisit the story of Phool Walon Ki Sair and other cherished seasonal celebrations that brought together communities across faiths and traditions. Audiences will gain a deeper understanding of how these festivals shaped the social and cultural life of Shahjahanabad, preserving its spirit of harmony, celebration, and collective memory. This promises to be an enriching evening of storytelling, history, and conversation that brings the city's living heritage vividly to life.",
-    "startDate": "2026-07-26T16:00:00+05:30",
-    "endDate": "2026-07-26T17:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.64610280000000000000",
-        "longitude": "77.22736410000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kathika Cultural Centre and Museum",
-      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
-    },
-    "url": "https://urbanaut.app/spot/festivals-of-shahjahanabad-by-rana-safvi",
-    "keywords": [
-      "History & heritage",
       "Art & culture",
       "URBANAUT"
     ]
@@ -1236,6 +1199,43 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Bazm-i-Havelis : Chandni Chowk",
+    "description": "Havelis of Chandni Chowk: Stories Behind the DoorsA guided heritage walk through the historic lanes of Chandni Chowk exploring the grand havelis of Shahjahanabad. The walk introduces participants to the architectural and cultural heritage of old Delhi, once home to merchants, poets and noble families.Through storytelling, the experience highlights the history of these havelis, their architectural features such as courtyards, jharokhas and wooden doors, and their transformation over time from the Mughal era to the present day.The walk offers insights into the social, cultural and economic life of historic Delhi as participants explore selected haveli sites in the area.Language of communication is Hindi and English.",
+    "startDate": "2026-08-02T07:30:00+05:30",
+    "endDate": "2026-08-02T09:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Chandni Chowk, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.65053310000000000000",
+        "longitude": "77.23033699999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/bazm-i-havelis-chandni-chowk",
+    "keywords": [
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "The Art of Folding",
     "description": "The Art of FoldingOverviewA quiet practice of shaping and stillness.Using origami as a meditative, hands-on experience, participants slow down through simple folds and repetitive movement. One fold at a time.No fancy paper needed. This is a hands-on origami session using whatever you have lying around at home. Blinkit bags, newspapers, old book pages, packaging paper. If it folds, it works. Come make something with it.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.ThemeFor the Pets We Love\tA quiet way to celebrate the animals who bring us comfort, joy, and companionship.Details\ud83d\uddd3\ufe0f Date: 2nd August (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Cha & Co, Grand View High Street\ud83c\udf9f\ufe0f Fee: \u20b9700",
@@ -1268,6 +1268,43 @@
     "keywords": [
       "Leisure",
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Raat ke afsaane  : Lodhi Garden Walk",
+    "description": "father\u2019s Day Special: Lodhi Garden Heritage WalkCelebrate this father\u2019s Day with an evening of stories, nature, and togetherness at one of Delhi\u2019s most beautiful historic spaces \u2014 Lodhi Garden.This special walk is open for everyone, but with a heartfelt twist \u2014 book your ticket and bring your father along with you Because some experiences are meant to be shared with the one who matters most.Explore the monuments, architecture, hidden narratives, and lesser-known stories of the Lodhi period, while spending meaningful time walking, talking, and creating memories together.",
+    "startDate": "2026-08-02T18:00:00+05:30",
+    "endDate": "2026-08-02T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Lodhi Rd, Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59309590000000000000",
+        "longitude": "77.21967939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/fathers-day-special-lodhi-garden-walk",
+    "keywords": [
+      "Walking Tour",
+      "Guided tour",
       "URBANAUT"
     ]
   },
@@ -1461,6 +1498,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "National Museum (Indus Valley Civilisation)",
+    "description": "Step into the fascinating world of the Indus Valley Civilization at the iconic National Museum and uncover the mysteries of one of the world\u2019s oldest urban cultures. From advanced city planning and drainage systems to intricate seals, jewellery, pottery, and trade networks, this walk takes you deep into the lives of a civilization that flourished over 4,500 years ago.Explore the stories hidden behind ancient artefacts, decode symbols that still remain unsolved, and discover how the people of Harappa and Mohenjo-Daro were far ahead of their time. Whether you\u2019re a history enthusiast, a curious explorer, or someone who simply loves untold stories, this immersive museum experience promises a journey through India\u2019s remarkable ancient past.Join us as history comes alive \u2014 one artefact, one mystery, and one story at a time.",
+    "startDate": "2026-08-16T16:30:00+05:30",
+    "endDate": "2026-08-16T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Janpath Rd, Central Secretariat, Kartavya Path, New Delhi, Delhi 110011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.61183900000000000000",
+        "longitude": "77.21829500000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/national-museum-indus-valley-civilisation",
+    "keywords": [
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Fireflies Workshop",
     "description": "\ud83c\udf1f Join Us for an Enchanting Evening: Fireflies at Hauz Khas \ud83c\udf1fPrepare to be mesmerized by one of nature\u2019s most magical displays! New Delhi Nature Society is thrilled to invite you to an exclusive event that promises to light up your senses and spark your curiosity.As twilight descends upon the charming and historic Hauz Khas area, we will guide you to a secret location where fireflies dance in the night, creating a breathtaking spectacle of bioluminescence. This hidden gem offers an intimate and serene setting for you to witness this enchanting natural phenomenon.What to Expect:\u2728 Guided Firefly Tour \u2013 Learn about these fascinating creatures and their ecological significance.\ud83c\udf3f Nature Walk \u2013 Immerse yourself in the beauty of the surroundings as night falls. \ud83c\udf42 What to Bring:Comfortable walking shoesA camera (without flash) to capture the momentA sense of wonder and curiosityWater bottleImportant Note: Due to the sensitive nature of the event location, exact details will be provided only upon confirmation of your attendance. Space is limited, so please secure your spot quickly.Don\u2019t miss this opportunity to experience the magic of fireflies in one of Delhi\u2019s most enchanting locations. We look forward to sharing this unforgettable night with you!",
@@ -1494,6 +1569,82 @@
       "Workshop",
       "Walking Tour",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "ALT EFF Film Club x GuruJal Gurugram | 21st August",
+    "description": "The August screening brings you a cinematically brilliant film, The Giants.Synopsis:The Giants portrays the deep connection between trees and humans through the life of Australian environmental hero and the Australian parliament\u2019s first openly gay member, Bob Brown. The film follows Brown's journey from a passionate advocate to a central figure in green politics, intertwining his story with the life cycle of the ancient trees he protects. This epic and cinematic film highlights Brown\u2019s activism and sparks urgent conversations about forest preservation and environmental rights.All activities, including discussions and refreshments, will occur between 7:00 and 9:00 PM.\u00a0What's Included?Exclusive screenings of the world's best environmental cinemaAccess to a community of environmentally inclined, film-loving peopleA chance to express yourself at ALT EFF VoicesPost-film discussions.About Film Club: If you are tired of the outrage cycle, doomscrolling collapse, and the looming AI takeover narrative. If you have caught yourself going numb just to cope. We see you.All Living Things Environmental Film Festival is back with the third season of Film Club. A monthly meet up across 12 cities over 5 months, orbiting environmental cinema that cracks you open without trapping you in doom and gloom.It is a room full of people choosing to show up in cities whose infrastructure persuades you to stay home, choosing to sit together, watch together, and turn private anxiety into collective imagination. Messy. Human. Honest conversation.\u00a0With snacks. Always snacks.Student Discount50% off for students with a valid ID (& must bring ID to the screening).CODE: ALTSTUDENT",
+    "startDate": "2026-08-21T19:00:00+05:30",
+    "endDate": "2026-08-21T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "6/9, F-2, Block F, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46430350000000000000",
+        "longitude": "77.09600040000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "354.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "All Living Things Environmental Film Festival",
+      "url": "https://urbanaut.app/partner/alteff-filmclub"
+    },
+    "url": "https://urbanaut.app/spot/alteff-filmclub-gurugram",
+    "keywords": [
+      "Local",
+      "Festival",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "ALT EFF Film Club x Remakery Delhi | 21st August",
+    "description": "The August screening brings you a cinematically brilliant film, The Giants.Synopsis:The Giants portrays the deep connection between trees and humans through the life of Australian environmental hero and the Australian parliament\u2019s first openly gay member, Bob Brown. The film follows Brown's journey from a passionate advocate to a central figure in green politics, intertwining his story with the life cycle of the ancient trees he protects. This epic and cinematic film highlights Brown\u2019s activism and sparks urgent conversations about forest preservation and environmental rights.\u00a0All activities, including discussions and refreshments, will occur between 7:00 and 9:00 PM.\u00a0What's Included?Exclusive screenings of the world's best environmental cinemaAccess to a community of environmentally inclined, film-loving peopleA chance to express yourself at ALT EFF VoicesPost-film discussions.About Film Club: If you are tired of the outrage cycle, doomscrolling collapse, and the looming AI takeover narrative. If you have caught yourself going numb just to cope. We see you.All Living Things Environmental Film Festival is back with the third season of Film Club. A monthly meet up across 12 cities over 5 months, orbiting environmental cinema that cracks you open without trapping you in doom and gloom.It is a room full of people choosing to show up in cities whose infrastructure persuades you to stay home, choosing to sit together, watch together, and turn private anxiety into collective imagination. Messy. Human. Honest conversation.\u00a0With snacks. Always snacks.Student Discount50% off for students with a valid ID (& must bring ID to the screening).CODE: ALTSTUDENT",
+    "startDate": "2026-08-21T19:00:00+05:30",
+    "endDate": "2026-08-21T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "R 84, opposite Select Citywalk, Block J, Khirki Extension, Malviya Nagar, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53209050000000000000",
+        "longitude": "77.21784699999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "354.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "All Living Things Environmental Film Festival",
+      "url": "https://urbanaut.app/partner/alteff-filmclub"
+    },
+    "url": "https://urbanaut.app/spot/alteff-filmclub-delhi",
+    "keywords": [
+      "Local",
+      "Festival",
+      "Art & culture",
       "URBANAUT"
     ]
   },
