@@ -2,6 +2,40 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Patrice Baumel @ Mirage Bangalore",
+      "endDate": "2026-08-14T23:59:00",
+      "identifier": "com.skillboxes.38673",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/STJTQlp1Q25mekRBMnhqRno2czM4Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1784893707GziGuumdDWPHz5RS.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "6th Floor, 1 Sobha, Sobha Mall, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9753013",
+            "longitude": "77.60249449999999"
+         },
+         "name": "Mirage"
+      },
+      "name": "Patrice Baumel @ Mirage Bangalore",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 200,
+            "name": "Phase 1 Pass",
+            "url": "https://www.skillboxes.com/events/ticket/patrice-baumel-mirage-bangalore-sbeyipnf"
+         }
+      ],
+      "startDate": "2026-08-14T20:00:00",
+      "url": "https://www.skillboxes.com/events/patrice-baumel-mirage-bangalore-sbeyipnf"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "What happens when we stop chasing perfection?In an age where algorithms can generate music, polish performances, and erase every flaw, Comfortably Dumb is a quiet act of resistance. It ce",
       "endDate": "2026-09-05T23:59:00",
       "identifier": "com.skillboxes.38654",

@@ -584,7 +584,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "650.00",
+      "price": "700.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -1163,17 +1163,55 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Jalakhya: An Odia Evening of Snacks & Stories",
-    "description": "In Odisha, Jalakhya is more than a word for snacks. It is that familiar golden-hour ritual when the day begins to slow down, friends gather around the table, stories get longer, and plates keep filling up.With this supper club, Rosei Ghara brings that feeling to Delhi through an intimate, multi-course journey across Odisha\u2019s much-loved snack culture. Hosted at a private residence, Jalakhya is designed to feel less like a restaurant meal and more like being welcomed into an Odia home for an evening of food, conversation and togetherness.The experience begins with a guguni salad & crunchy Berhampur papad, alongside chilled fresh coconut water.From there, the table moves through crisp, tangy gup-chup and a generous chop basket. Guests can choose between chicken and mutton chops or vegetarian versions made with nadia aloo and kancha kadali, served with ambula rai dip. This course is paired with cooling tanka torani.No Odia snack table would be complete without dahi bara aloo dum\u2014soft baras soaked in spiced curd and served with warm, comforting aloo dum.The next course reimagines a heartier Odia favourite: a mini whole-wheat roti folded around either boneless mutton kassa or mushroom kassa, with fresh salad and garlic hung curd. Think of it as an Odia-style mini taco, paired with a bright and refreshing ambula fizz.The evening ends on a sweet note with creamy coconut ice cream, crisp mini khaja, and a cup of aromatic Koraput coffee.What makes Jalakhya special is not only the food, but the way it is meant to be enjoyed\u2014slowly, together, and with plenty of conversation. This is a table inspired by childhood evenings, neighbourhood favourites, roadside stalls, family recipes and the simple joy of sharing snacks with people you love.Come hungry. Stay for the stories.Please note: This is a seated set-menu experience hosted at a private residence. The complete menu will be served to all guests, with vegetarian and non-vegetarian options available for select courses. The menu is tentative and may change slightly depending on seasonality and ingredient availability.",
-    "startDate": "2026-08-01T18:00:00+05:30",
-    "endDate": "2026-08-02T20:30:00+05:30",
+    "name": "Latin American Supper Brunch",
+    "description": "Summer Edition of  our Latin American Supper Brunch Welcome to V\u2019s Supper Stories, where food is slow, stories are shared, and the table is the experience.This isn\u2019t a restaurant. It\u2019s a quiet corner of Saket, New Delhi, where once a week, 12\u201314 guests gather around one long table. No menus in hand. No loud music. Just seasonally inspired dishes, soft conversation, and the kind of atmosphere you remember long after dessert.On the menu - Pomelo & Apple Ceviche, Summer Tomato Tostada, Salsa Matcha Corn Pops, Brazilian Prawn Moqueca, Summer Vegetable Moqueca, Coconut Lime Rice and Tres Leches. Come solo or a +1. Come curious. Come for the quiet joy of a meal made with care.We\u2019re based in Saket, New Delhi \u2014 and the exact address is shared 24 hours before, because the feeling of discovery is part of what makes it special.Follow along at @vsupperstories for glimpses of the table, the food, and the people who bring it to life.",
+    "startDate": "2026-08-01T12:30:00+05:30",
+    "endDate": "2026-08-09T15:00:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "E-20, Jangpura, Block E, Jungpura Extension, New Delhi, Delhi 110014, India",
+      "address": "Saiyad ul Ajaib, Sainik Farm, New Delhi, Delhi 110030, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.58085040000000000000",
-        "longitude": "77.24396879999999000000"
+        "latitude": "28.52035400000000000000",
+        "longitude": "77.20257900000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3100.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "V's Supper Stories",
+      "url": "https://urbanaut.app/partner/vsupperstories"
+    },
+    "url": "https://urbanaut.app/spot/latinamericansupper",
+    "keywords": [
+      "Premium",
+      "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Where the Rain comes alive: Huaz-e-shamsi",
+    "description": "Explore Outdoors - Safely & ResponsiblyHave you heard about the summer palace of Mughal dynasty in Delhi? Tucked in the urban village of Mehrauli this beautiful for palace is a shadow of its past. It still is a major centre for the annual flower festival - Phool Walo Ki Sair (Sair-e-Gul).Along the fort is a beautiful water reservoir that not only reflects the pool but was one of the most beautiful waterworks and orchard garden surpassing even Hauz Khas. Take this walk to explore the unexplored parts of Delhi.",
+    "startDate": "2026-08-01T16:00:00+05:30",
+    "endDate": "2026-08-01T17:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Mehrauli, New Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52048820000000000000",
+        "longitude": "77.17868690000000000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -1181,19 +1219,20 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "2500.00",
+      "price": "700.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Rosei Ghara",
-      "url": "https://urbanaut.app/partner/roseighara"
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
     },
-    "url": "https://urbanaut.app/spot/jalakhya-an-odia-evening-of-snacks-stories",
+    "url": "https://urbanaut.app/spot/raat-ke-afsane-safdarjung-tomb",
     "keywords": [
-      "Pop-up Event",
-      "Food & drink",
+      "Adventure",
+      "Walking Tour",
+      "History & heritage",
       "URBANAUT"
     ]
   },
@@ -1460,6 +1499,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "In Search Of Djinns : Kotla Feroz Shah Walk",
+    "description": "The walk takes you inside the fort of the 14th century ruler Firoz Shah Tughlaq built for his new capital Firozabad. The Kushak-e- Firoz (the Palace of Firoz) was strategically built at the banks of River Yamuna. The fort faced riverfront and lush green plains, its staircase leading you to the banks. It has a functioning mosque, a circular baoli (stepwell) known to have water snakes and a hypnotic effect on its visitors (it has recently been barricaded). The fort also has the magnificent Ashokan Pillar in Pali text erected at a height. It is confounding to any visitor how almost 27 tonne of heavy weighing monolith pillar was taken from Haryana and planted inside the fort at such a great height!Every Thursday evening Djinn (supernatural creatures in Islamic mythology) worship is performed in the complex, with visitors leaving their wish list, and a thread tied to the lattice for the Djinns to fulfill their wishes! The fort in recent years has gained the reputation of being haunted, because of the strong belief of Djinns inhabiting the fort.",
+    "startDate": "2026-08-09T07:30:00+05:30",
+    "endDate": "2026-08-09T09:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "J6MV+X87, Balmiki Basti, Vikram Nagar, New Delhi, Delhi, 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.63491590000000000000",
+        "longitude": "77.24330530000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "700.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/in-search-of-djinns-kotla-feroz-shah-walk",
+    "keywords": [
+      "Adventure",
+      "Walking Tour",
+      "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Fireflies Workshop",
     "description": "\ud83c\udf1f Join Us for an Enchanting Evening: Fireflies at Hauz Khas \ud83c\udf1fPrepare to be mesmerized by one of nature\u2019s most magical displays! New Delhi Nature Society is thrilled to invite you to an exclusive event that promises to light up your senses and spark your curiosity.As twilight descends upon the charming and historic Hauz Khas area, we will guide you to a secret location where fireflies dance in the night, creating a breathtaking spectacle of bioluminescence. This hidden gem offers an intimate and serene setting for you to witness this enchanting natural phenomenon.What to Expect:\u2728 Guided Firefly Tour \u2013 Learn about these fascinating creatures and their ecological significance.\ud83c\udf3f Nature Walk \u2013 Immerse yourself in the beauty of the surroundings as night falls. \ud83c\udf42 What to Bring:Comfortable walking shoesA camera (without flash) to capture the momentA sense of wonder and curiosityWater bottleImportant Note: Due to the sensitive nature of the event location, exact details will be provided only upon confirmation of your attendance. Space is limited, so please secure your spot quickly.Don\u2019t miss this opportunity to experience the magic of fireflies in one of Delhi\u2019s most enchanting locations. We look forward to sharing this unforgettable night with you!",
@@ -1688,6 +1765,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Haunted Walk: Purana Quila",
+    "description": "Ruhani Raatein: Haunted Walk at Purana QilaAs the sun sets behind Delhis ancient ramparts, join us for a moonlit journey through one of the city s oldest forts-Purana Qila, where history whispers and shadows linger.From ghostly legends to chilling ruins, this walk blends myth, mystery, and Mughal-era memories. Are the tales true? Were voices heard in the dark? Come find out for yourself, if you dare.Not just a walk-this is an experience that tingles your spine and stirs your soul.",
+    "startDate": "2026-08-22T17:00:00+05:30",
+    "endDate": "2026-08-22T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Mathura Rd, Near Delhi Zoo, J65V+RFH, Pragati Maidan, New Delhi, Delhi 110001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.60957440000000000000",
+        "longitude": "77.24373709999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "700.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/haunted-walk-purana-quila",
+    "keywords": [
+      "Adventure",
+      "Walking Tour",
+      "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Fireflies Workshop",
     "description": "\ud83c\udf1f Join Us for an Enchanting Evening: Fireflies at Hauz Khas \ud83c\udf1fPrepare to be mesmerized by one of nature\u2019s most magical displays! New Delhi Nature Society is thrilled to invite you to an exclusive event that promises to light up your senses and spark your curiosity.As twilight descends upon the charming and historic Hauz Khas area, we will guide you to a secret location where fireflies dance in the night, creating a breathtaking spectacle of bioluminescence. This hidden gem offers an intimate and serene setting for you to witness this enchanting natural phenomenon.What to Expect:\u2728 Guided Firefly Tour \u2013 Learn about these fascinating creatures and their ecological significance.\ud83c\udf3f Nature Walk \u2013 Immerse yourself in the beauty of the surroundings as night falls. \ud83c\udf42 What to Bring:Comfortable walking shoesA camera (without flash) to capture the momentA sense of wonder and curiosityWater bottleImportant Note: Due to the sensitive nature of the event location, exact details will be provided only upon confirmation of your attendance. Space is limited, so please secure your spot quickly.Don\u2019t miss this opportunity to experience the magic of fireflies in one of Delhi\u2019s most enchanting locations. We look forward to sharing this unforgettable night with you!",
@@ -1721,6 +1836,44 @@
       "Workshop",
       "Walking Tour",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Craft Museum & Pottery Workshop",
+    "description": "Discover the Art and Craft of IndiaStep into the fascinating world of Indian craftsmanship at the National Crafts Museum, one of India\u2019s largest and most celebrated museums dedicated to traditional arts and crafts.Explore its beautiful galleries and discover a remarkable collection of antique artefacts, intricate pottery, exquisite embroidery, woodwork, and traditional carvings. Along the way, uncover fascinating historical stories, interesting facts, and intriguing anecdotes that bring these timeless crafts to life.To make the experience even more special, get hands-on with a fun pottery workshop and try your hand at creating something of your own!Come explore, learn, and create with us. Hope to see you there!",
+    "startDate": "2026-08-23T16:00:00+05:30",
+    "endDate": "2026-08-23T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Bhairon Marg, Pragati Maidan, New Delhi, Delhi 110001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.61361110000000000000",
+        "longitude": "77.24249999999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/craft-museum-pottery-workshop",
+    "keywords": [
+      "Leisure",
+      "Guided tour",
+      "Art & culture",
       "URBANAUT"
     ]
   },
