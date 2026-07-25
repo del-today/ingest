@@ -2,81 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Yogalates - Yoga & Pilates",
-    "description": "Discover balance and strength with Yogalates Pilates & Yoga \u2014 a 60\u2011minute guided session blending mindful yoga and reformer Pilates. This unique fusion enhances flexibility, posture, and core stability while promoting calm and focus. With only five participants per batch, each session offers personalized guidance in a serene studio setting.\ud83d\udccd Elan Pilates, East Patel Nagar\ud83d\udcc5 25th July, SaturdayKey Highlights:Mindful Movement for body awareness and relaxationCore Strength & Flexibility through balanced Pilates routinesStress Relief and improved postureSmall Group Focus for tailored attention",
-    "startDate": "2026-07-25T07:00:00+05:30",
-    "endDate": "2026-07-25T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "11/19, Block 11, East Patel Nagar, Patel Nagar, New Delhi, Delhi 110008, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.64540180000000000000",
-        "longitude": "77.17269200000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1000.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Elan Pilates",
-      "url": "https://urbanaut.app/partner/elan-pilates"
-    },
-    "url": "https://urbanaut.app/spot/yogalates-yoga-pilates",
-    "keywords": [
-      "Wellness",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Nature Walk - Jahanpanah City Forest",
-    "description": "Escape the city\u2019s hustle and immerse yourself in the tranquil wilderness of Jahanpanah City Forest, one of South Delhi\u2019s largest urban forests. Spread across more than 400 acres, this green oasis offers shaded walking trails, rich biodiversity, and opportunities to spot birds, butterflies, peacocks, nilgai, and a variety of native trees. Join Verhean Khanna for a guided nature walk as we explore the forest\u2019s hidden beauty, learn about its fascinating ecosystem, and reconnect with nature through observation, storytelling, and mindful exploration. Whether you\u2019re a birdwatcher, photographer, or simply looking for a peaceful morning outdoors, this walk promises a refreshing and memorable experience.",
-    "startDate": "2026-07-25T07:00:00+05:30",
-    "endDate": "2026-07-25T09:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "G6MP+4GF, walkway, Jahanpanah City Forest, New Delhi, Delhi 110044, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53280450000000000000",
-        "longitude": "77.23629009999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "350.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "New Delhi Nature Society",
-      "url": "https://urbanaut.app/partner/new-delhi-nature-society-312"
-    },
-    "url": "https://urbanaut.app/spot/nature-walk-jahanpanah-city-forest",
-    "keywords": [
-      "Adventure",
-      "Eco Friendly",
-      "Walking Tour",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Sacred Footsteps : Sufi Trail of Mehrauli",
     "description": "Step into the mystical lanes and forgotten ruins of Mehrauli and the enchanting Mehrauli Archaeological Park through the lens of Sufism.Sacred Footsteps: Sufi trails \ud83d\udc63 of MehrauliJoin us for a deeply immersive heritage walk where history, spirituality, poetry, and love legends intertwine. Together, we will explore medieval ruins, hidden stories, sacred spaces, and the Sufi imagination that once shaped the soul of Mehrauli.Curated by Darwesh Heritage Walks, in collaboration with Sabhyata Foundation.Along the way, we will also revisit the timeless love legend of Heer\u2013Ranjha through a Sufi lens \u2014 not merely as a romance, but as a metaphor for divine longing & surrender.The walk will conclude with a visit to a living Sufi space where we reflect upon the continuing spiritual traditions that still breathe within Mehrauli today.\ud83d\udccd Mehrauli Archaeological Park & Village\ud83d\udcc5 25th July\u23f0 8:00 AM onwardsMeeting point: Outside Qutub Minar ticket counter.    \ud83d\udcde 99 99 8 96427Curated by Darwesh Heritage Walks, in collaboration with Sabhyata Foundation.(Please note: The fee being charged is not for entry into any monument or shrine . It is purely for the curated and guided storytelling experience.)",
     "startDate": "2026-07-25T08:00:00+05:30",
@@ -109,6 +34,42 @@
       "History & heritage",
       "Guided tour",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Yogalates - Yoga & Pilates",
+    "description": "Discover balance and strength with Yogalates Pilates & Yoga \u2014 a 60\u2011minute guided session blending mindful yoga and reformer Pilates. This unique fusion enhances flexibility, posture, and core stability while promoting calm and focus. With only five participants per batch, each session offers personalized guidance in a serene studio setting.\ud83d\udccd Elan Pilates, East Patel Nagar\ud83d\udcc5 25th July, SaturdayKey Highlights:Mindful Movement for body awareness and relaxationCore Strength & Flexibility through balanced Pilates routinesStress Relief and improved postureSmall Group Focus for tailored attention",
+    "startDate": "2026-07-25T10:00:00+05:30",
+    "endDate": "2026-07-25T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "11/19, Block 11, East Patel Nagar, Patel Nagar, New Delhi, Delhi 110008, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64540180000000000000",
+        "longitude": "77.17269200000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Elan Pilates",
+      "url": "https://urbanaut.app/partner/elan-pilates"
+    },
+    "url": "https://urbanaut.app/spot/yogalates-yoga-pilates",
+    "keywords": [
+      "Wellness",
       "URBANAUT"
     ]
   },
