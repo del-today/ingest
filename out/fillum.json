@@ -1,87 +1,53 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "No Regrets for Our Youth(1946)",
-    "url": "https://fillum.in/screening/5822",
-    "startDate": "2026-07-25T15:00:00+05:30",
-    "endDate": "2026-07-25T15:00:00+05:30",
-    "description": "Free entry.",
+    "name": "A Taxi Driver(2017)",
+    "url": "https://fillum.in/screening/5886",
+    "startDate": "2026-07-26T12:00:00+05:30",
+    "endDate": "2026-07-26T12:00:00+05:30",
+    "description": "A Seoul taxi driver reluctantly drives a foreign journalist into Gwangju during the 1980 military crackdown, only to find himself witnessing history firsthand.Though set in South Korea, the film..more",
     "location": {
       "@type": "Place",
-      "name": "Mool, South Ex 2",
+      "name": "mool, South Ex II",
       "address": "South Ex II, New Delhi"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Camera Commune"
+      "name": "Out of Sequence"
     }
   },
   {
     "@type": "ScreeningEvent",
-    "name": "Persona(1966)",
-    "url": "https://fillum.in/screening/5881",
-    "startDate": "2026-07-25T16:30:00+05:30",
-    "endDate": "2026-07-25T16:30:00+05:30",
-    "description": "Ingmar Bergman's groundbreaking psychological drama and one of the most influential films in cinema history. The story follows a young nurse caring for a famous actress who has mysteriously stopped ..more",
+    "name": "Snowpiercer(2013)",
+    "url": "https://fillum.in/screening/5888",
+    "startDate": "2026-07-26T15:00:00+05:30",
+    "endDate": "2026-07-26T15:00:00+05:30",
+    "description": "As a rebellion moves from the tail to the engine, Bong Joon-ho turns science fiction into a sharp critique of power.Drawing on Louis Althusser's ideas of the Repressive State Apparatus (RSA) and..more",
     "location": {
       "@type": "Place",
-      "name": "iPley Music Studio, GK-1",
-      "address": "Delhi"
+      "name": "mool, south ex II",
+      "address": "South Ex II, New Delhi"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "SomeArt"
+      "name": "Out of Sequence"
     }
   },
   {
     "@type": "ScreeningEvent",
-    "name": "Cinergy x Live Originals: Expressions",
-    "url": "https://fillum.in/event/5882",
-    "startDate": "2026-07-25T18:00:00+05:30",
-    "endDate": "2026-07-25T18:00:00+05:30",
-    "description": "Cinergy: Expressions is more than an event, it's a gathering of artists, audiences, and voices coming together at a time when expression matters the most.In light of the current circumstances, w..more",
+    "name": "The Battle of Algiers(1966)",
+    "url": "https://fillum.in/screening/5887",
+    "startDate": "2026-07-26T17:30:00+05:30",
+    "endDate": "2026-07-26T17:30:00+05:30",
+    "description": "Set during the Algerian struggle for independence from French colonial rule, The Battle of Algiers chronicles the escalating conflict between anti-colonial resistance and the occupying state with re..more",
     "location": {
       "@type": "Place",
-      "name": "Siyah Arthouse, Saket",
-      "address": "Delhi"
+      "name": "mool, south ex II",
+      "address": "South Ex II, New Delhi"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Cinergy Club"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Raghu Rai: An Unframed Portrait(2018)",
-    "url": "https://fillum.in/event/5862",
-    "startDate": "2026-07-25T19:00:00+05:30",
-    "endDate": "2026-07-25T19:00:00+05:30",
-    "description": "Post-screening conversation with the filmmaker, Avani Rai.",
-    "location": {
-      "@type": "Place",
-      "name": "Gulmohar, India Habitat Centre",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kriti Film Club"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Palestine 36(2025)",
-    "url": "https://fillum.in/screening/5884",
-    "startDate": "2026-07-25T19:00:00+05:30",
-    "endDate": "2026-07-25T19:00:00+05:30",
-    "description": "The film screening will be preceded by book release and panel discussion on the Hindi translation of Ghassan Kanafani\u2019s short stories - 'Gaza se Khat aur Anya Kahaniya' starting at 5 PM.",
-    "location": {
-      "@type": "Place",
-      "name": "Palestine Embassy, Chanakyapuri",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Fillum"
+      "name": "Out of Sequence"
     }
   },
   {
@@ -99,23 +65,6 @@
     "organizer": {
       "@type": "Organization",
       "name": "Fillum"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Victoria(2024)",
-    "url": "https://fillum.in/screening/5803",
-    "startDate": "2026-07-27T18:30:00+05:30",
-    "endDate": "2026-07-27T18:30:00+05:30",
-    "description": "Free entry. No registration required.",
-    "location": {
-      "@type": "Place",
-      "name": "C. D. Deshmukh Auditorium, India International Centre",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "India International Centre"
     }
   }
 ]

@@ -20,26 +20,6 @@
     ]
   },
   {
-    "@type": "EducationEvent",
-    "name": "Curator-led Walkthrough: TYEB MEHTA Retrospective",
-    "url": "https://www.knma.org/whats-on/guided-tours/curated-walkthrough-tyeb-mehta-retrospective",
-    "startDate": "2026-04-18T10:00:00+05:30",
-    "endDate": "2026-07-25T18:00:00+05:30",
-    "description": "",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
     "@type": "ExhibitionEvent",
     "name": "Pata Dekhabo?",
     "url": "https://www.knma.org/whats-on/exhibitions/pata-dekhabo",
@@ -64,7 +44,7 @@
     "name": "KNMA Art Hours",
     "url": "https://www.knma.org/whats-on/workshops/knma-art-hours",
     "startDate": "2026-06-17T10:00:00+05:30",
-    "endDate": "2026-07-26T18:00:00+05:30",
+    "endDate": "2026-08-09T18:00:00+05:30",
     "description": "Art Hours",
     "location": {
       "@type": "Place",
