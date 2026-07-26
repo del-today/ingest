@@ -1,1 +1,138 @@
-[]
+[
+  {
+    "@type": "ScreeningEvent",
+    "name": "Victoria(2024)",
+    "url": "https://fillum.in/screening/5803",
+    "startDate": "2026-07-27T18:30:00+05:30",
+    "endDate": "2026-07-27T18:30:00+05:30",
+    "description": "Free entry. No registration required.",
+    "location": {
+      "@type": "Place",
+      "name": "C. D. Deshmukh Auditorium, India International Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "India International Centre"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Escuchar las im\u00e1genes(2025)",
+    "url": "https://fillum.in/screening/5855",
+    "startDate": "2026-07-28T18:30:00+05:30",
+    "endDate": "2026-07-28T18:30:00+05:30",
+    "description": "Free entry. No registration required. Intro and post-screening discussion.",
+    "location": {
+      "@type": "Place",
+      "name": "Instituto Cervantes",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Instituto Cervantes Nueva Delhi"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Cured(2020)",
+    "url": "https://fillum.in/screening/5849",
+    "startDate": "2026-07-29T15:00:00+05:30",
+    "endDate": "2026-07-29T15:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "New Delhi LGBTQIA+ Centre, A-86, East of Kailash",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fillum"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "We Never Truly Leave: Short Film Collection",
+    "url": "https://fillum.in/event/5885",
+    "startDate": "2026-07-29T18:30:00+05:30",
+    "endDate": "2026-07-29T18:30:00+05:30",
+    "description": "What remains when we leave? What continues to travel with us? Join for Session 2 as part of the film series Responding from the Mountains: A Cinematic Geography of the Caribbean, featuring six short..more",
+    "location": {
+      "@type": "Place",
+      "name": "Instituto Cervantes",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Instituto Cervantes Nueva Delhi"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "We(2022)",
+    "url": "https://fillum.in/screening/5835",
+    "startDate": "2026-07-30T18:30:00+05:30",
+    "endDate": "2026-07-30T18:30:00+05:30",
+    "description": "Free entry.",
+    "location": {
+      "@type": "Place",
+      "name": "M. L. Bhartia Auditorium, Alliance Fran\u00e7aise",
+      "address": "Lodhi Road, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Alliance Fran\u00e7aise de Delhi"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Battle Royale(2000)",
+    "url": "https://fillum.in/screening/5868",
+    "startDate": "2026-08-02T15:30:00+05:30",
+    "endDate": "2026-08-02T15:30:00+05:30",
+    "description": "A screening of the 2000 classic Battle Royale.",
+    "location": {
+      "@type": "Place",
+      "name": "Niv Art Centre,IGNOU CHOWK, Block A 1, Neb Sarai, Sainik Farm",
+      "address": "Sainik Farm, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "M!ME"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Sophie Scholl: The Final Days(2005)",
+    "url": "https://fillum.in/screening/5836",
+    "startDate": "2026-08-04T19:00:00+05:30",
+    "endDate": "2026-08-04T19:00:00+05:30",
+    "description": "Free entry. Post-screening discussion with Vani Subramanian.",
+    "location": {
+      "@type": "Place",
+      "name": "Siddhartha Hall, Goethe-Institut",
+      "address": "Lodhi Road, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Goethe-Institut New Delhi"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Akira(1988)",
+    "url": "https://fillum.in/screening/5866",
+    "startDate": "2026-08-09T12:00:00+05:30",
+    "endDate": "2026-08-09T12:00:00+05:30",
+    "description": "Screening the greatest Anime film ever made.",
+    "location": {
+      "@type": "Place",
+      "name": "Niv Art Centre,IGNOU CHOWK, Block A 1, Neb Sarai, Sainik Farm",
+      "address": "Sainik Farm, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "M!ME"
+    }
+  }
+]
