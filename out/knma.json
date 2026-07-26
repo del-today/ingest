@@ -1,26 +1,6 @@
 [
   {
     "@type": "ExhibitionEvent",
-    "name": "TYEB MEHTA Bearing Weight (with the lightness of being)",
-    "url": "https://www.knma.org/whats-on/exhibitions/tyeb-mehta-bearing-weight",
-    "startDate": "2026-02-05T10:00:00+05:30",
-    "endDate": "2026-07-26T18:00:00+05:30",
-    "description": "Painting",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "ExhibitionEvent",
     "name": "Pata Dekhabo?",
     "url": "https://www.knma.org/whats-on/exhibitions/pata-dekhabo",
     "startDate": "2026-05-22T10:00:00+05:30",
@@ -49,26 +29,6 @@
     "location": {
       "@type": "Place",
       "name": "UTSAV The Square, GMR Aerocity",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "EducationEvent",
-    "name": "Critical Material",
-    "url": "https://www.knma.org/whats-on/workshops/critical-material",
-    "startDate": "2026-07-25T10:00:00+05:30",
-    "endDate": "2026-07-26T18:00:00+05:30",
-    "description": "Standalone",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA, New Delhi",
       "address": "New Delhi"
     },
     "organizer": {
