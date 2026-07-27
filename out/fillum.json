@@ -69,6 +69,23 @@
   },
   {
     "@type": "ScreeningEvent",
+    "name": "Wild Strawberries(1957)",
+    "url": "https://fillum.in/screening/5890",
+    "startDate": "2026-08-01T16:30:00+05:30",
+    "endDate": "2026-08-01T16:30:00+05:30",
+    "description": "A journey across roads, memories, dreams, and the quiet truths we carry within.Join us for a screening of Ingmar Bergman's timeless masterpiece **Wild Strawberries (1957)\u2014a deeply moving explo..more",
+    "location": {
+      "@type": "Place",
+      "name": "iPley Music Studio, GK-1",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "SomeArt"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "Battle Royale(2000)",
     "url": "https://fillum.in/screening/5868",
     "startDate": "2026-08-02T15:30:00+05:30",

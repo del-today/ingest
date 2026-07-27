@@ -2,6 +2,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Pickleball with SWAG | Saket",
+    "description": "Pickleball with SWAG is back!This is a women-only, beginner-friendly pickleball meet-up.7:50 PM Meet up and Warm up Time8:00 PM Game TimeSee you on court!",
+    "startDate": "2026-07-28T20:00:00+05:30",
+    "endDate": "2026-07-28T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "NEW GREEN FIELD SCHOOL, school, Ashok Vihar, Saket, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52369810000000000000",
+        "longitude": "77.20874010000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "360.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swagpickleball",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "You Didn't Choose The Image; It's Deciding For You",
     "description": "Join us for a lecture that asks a deceptively simple question: who actually gets to decide what a hero, a victim, or a good life looks like?About the LectureWe don't choose the images that come to define us, and yet they decide more than we realise. A single gaze on a movie poster decides who counts as a hero. A familiar narrative arc decides who counts as a believable victim. A curated feed decides what a good life is supposed to look like.This talk moves through three of the speaker's own published studies \u2014 on Malayalam movie poster semiotics, on how Bollywood narratives construct the \"ideal\" rape victim, and on Instagram, loneliness, and FoMO among young Indians \u2014 to trace one quiet mechanism running underneath very different parts of Indian media. By the end, the question isn't really about posters, films, or apps. It's about who gets to build the image in the first place, and what we do with the gap between it and our own lives.About the SpeakerLydia Glory Jose is an Assistant Professor in the Department of Media and Journalism at IILM University, Gurugram, where she teaches media studies, visual communication, and research methods. Before academia, she worked as a journalist with Malayala Manorama, an experience that continues to shape how she reads Indian media \u2014 from the inside, not as an outsider looking in. Her research sits at the intersection of representation, visual semiotics, and digital media, published in Springer Nature's Sexuality and Culture, Palabra Clave, and the International Journal of Semiotics and Visual Rhetoric, and cited by the Times of India. Multilingual in Malayalam, Hindi, English, and Arabic, she remains, at heart, more interested in what an image is doing to us than in what it appears to be showing us.PS: Your Ticket Includes a 250/- Coupon Redeemable on F&BAbout unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from St. Stephen's, Delhi who wanted learning to feel warm, social and alive. Each event is an invitation to spend an evening with an idea.",
     "startDate": "2026-07-30T19:00:00+05:30",
@@ -74,7 +112,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "BADDY WITH BADDIES | Mehrauli",
-    "description": "Grab your racket and bring your best energy - it's time for Baddy with Baddies \ud83c\udff8\u2728, a women-only badminton meet-up where the only goal is to have fun.Whether you've got a sneaky smash up your sleeve or you're simply looking for a fun way to move, this session is all about friendly rallies, big laughs, and moving your body in great company. Expect good vibes, and a community of women who are here to play, cheer each other on, and enjoy the sport.So if you've been looking for an excuse to get back on the court (or step onto one for the first time), this is it.\ud83d\udcc5 Wednesday, 23rd July\ud83d\udd57 8:00 PM \u2013 9:00 PMCome solo or with your girls - you'll leave with a great workout, a few new friends, and probably plans for a rematch.",
+    "description": "Grab your racket and bring your best energy - it's time for Baddy with Baddies \ud83c\udff8\u2728, a women-only badminton meet-up where the only goal is to have fun.Whether you've got a sneaky smash up your sleeve or you're simply looking for a fun way to move, this session is all about friendly rallies, big laughs, and moving your body in great company. Expect good vibes, and a community of women who are here to play, cheer each other on, and enjoy the sport.So if you've been looking for an excuse to get back on the court (or step onto one for the first time), this is it.\ud83d\udcc5 Thursday, 30th July\ud83d\udd57 8:00 PM \u2013 9:00 PMCome solo or with your girls - you'll leave with a great workout, a few new friends, and probably plans for a rematch.",
     "startDate": "2026-07-30T20:00:00+05:30",
     "endDate": "2026-07-30T21:00:00+05:30",
     "location": {
