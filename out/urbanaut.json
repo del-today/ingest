@@ -263,7 +263,7 @@
     "name": "Latin American Supper Brunch",
     "description": "Summer Edition of  our Latin American Supper Brunch Welcome to V\u2019s Supper Stories, where food is slow, stories are shared, and the table is the experience.This isn\u2019t a restaurant. It\u2019s a quiet corner of Saket, New Delhi, where once a week, 12\u201314 guests gather around one long table. No menus in hand. No loud music. Just seasonally inspired dishes, soft conversation, and the kind of atmosphere you remember long after dessert.On the menu - Pomelo & Apple Ceviche, Summer Tomato Tostada, Salsa Matcha Corn Pops, Brazilian Prawn Moqueca, Summer Vegetable Moqueca, Coconut Lime Rice and Tres Leches. Come solo or a +1. Come curious. Come for the quiet joy of a meal made with care.We\u2019re based in Saket, New Delhi \u2014 and the exact address is shared 24 hours before, because the feeling of discovery is part of what makes it special.Follow along at @vsupperstories for glimpses of the table, the food, and the people who bring it to life.",
     "startDate": "2026-08-01T12:30:00+05:30",
-    "endDate": "2026-08-09T15:00:00+05:30",
+    "endDate": "2026-08-02T15:00:00+05:30",
     "location": {
       "@type": "Place",
       "address": "Saiyad ul Ajaib, Sainik Farm, New Delhi, Delhi 110030, India",
@@ -330,6 +330,44 @@
       "Adventure",
       "Walking Tour",
       "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Shaam-e-Qutub :  Evening heritage walk",
+    "description": "We are delighted to invite you to a special *evening heritage walk at Qutub Minar*, curated by Darwesh Heritage Walks in collaboration with Sabhyata Foundation.**Date: 1st Aug, 2026**Time: 6:00 p.m. onwardsExperience the magic of one of Delhi\u2019s most iconic monuments as it transforms at dusk\u2014when the Qutub Minar complex is beautifully lit and wrapped in an almost timeless charm.This walk takes you through the story of Delhi\u2019s first capital at Mehrauli, tracing the rise of the Tomars and Chauhans, and the arrival of the Delhi Sultanate under the early Turko-Afghan rulers. As the evening sets in, the illuminated ruins, soaring minar, and intricate carvings create a truly immersive atmosphere\u2014perfect for experiencing history not just as a narrative, but as a living, breathing space.During this walk, we will explore:* The origins of Delhi\u2019s earliest city at Mehrauli* The political transitions from Rajput to Sultanate rule* The architectural brilliance of the Qutub complex and its symbolism* The stories hidden in its mosque, pillars, and inscriptionsJoin us for an unforgettable evening of storytelling, history, and exploration\u2014where the past comes alive under the soft glow of lights.We look forward to having you with us.(Please note: the fee is not for access to the site, but rather for curation of this experience)(Doesn't include monument entry ticket) ",
+    "startDate": "2026-08-01T18:00:00+05:30",
+    "endDate": "2026-08-01T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52447540000000000000",
+        "longitude": "77.18552059999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/qutubwalk",
+    "keywords": [
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -410,6 +448,41 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Blood on the Clocktower",
+    "description": "\u200bDuring a hellish thunderstorm, a scream echoes through the sleepy town of Ravenswood Bluff. The townsfolk rush to investigate and find the beloved local storyteller has been murdered, their body hanging limp from the clocktower. As blood drips onto the cobblestones below, a realisation slowly dawns\u2026 a demon has been unleashed, killing by night and taking on human form by day. Can good find the demon in time? Or will evil overrun this once peaceful town?What is BotC?\u200bBlood on the Clocktower is a game of murder and mystery, lies and logic, deduction and deception for five-to-twenty courageous players and one devious storyteller.\u200bA social game played in person, seated in a circle, each player receives either a \u2018good\u2019 or \u2018evil\u2019 token with their unique character on it. Good players share information to solve the mystery whilst evil players lie about who they are and what they know. The good team wins if they can piece together their knowledge, trust each other, and execute the demon. The evil team wins if the demon can sow distrust, evade detection, and wipe out the town.",
+    "startDate": "2026-08-02T15:00:00+05:30",
+    "endDate": "2026-08-02T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "19, Raj Niwas Marg, Ludlow Castle, Civil Lines, New Delhi, Delhi, 110054, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.67351150000000000000",
+        "longitude": "77.22280760000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "215.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Table Top Games Club",
+      "url": "https://urbanaut.app/partner/the-table-top-games-club"
+    },
+    "url": "https://urbanaut.app/spot/blood-on-the-clocktower-delhi",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Raat ke afsaane  : Lodhi Garden Walk",
     "description": "father\u2019s Day Special: Lodhi Garden Heritage WalkCelebrate this father\u2019s Day with an evening of stories, nature, and togetherness at one of Delhi\u2019s most beautiful historic spaces \u2014 Lodhi Garden.This special walk is open for everyone, but with a heartfelt twist \u2014 book your ticket and bring your father along with you Because some experiences are meant to be shared with the one who matters most.Explore the monuments, architecture, hidden narratives, and lesser-known stories of the Lodhi period, while spending meaningful time walking, talking, and creating memories together.",
     "startDate": "2026-08-02T18:00:00+05:30",
@@ -440,6 +513,44 @@
     "url": "https://urbanaut.app/spot/fathers-day-special-lodhi-garden-walk",
     "keywords": [
       "Walking Tour",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Night Heritage walk :  Humayun's Tomb & Museum",
+    "description": "Step into the grandeur of Humayun's Tomb with us for an immersive Night heritage walk that goes beyond stone and symmetry.Curated by Darwesh Heritage Walks in collaboration with Sabhyata Foundation.We will not only explore the monument\u2019s magnificent architecture, its Persian influences, and its place in the evolution of Mughal design \u2014 but also rediscover Humayun himself, perhaps the most underestimated of the Mughals. His struggles, exile, return, and legacy shaped the empire in ways we rarely pause to notice.\"Driven from his throne, yet never from his destiny's embrace,Humayun's return laid the path on which Akbar would leave his trace\"Our journey will then continue to the Humayun's Tomb Museum \u2014 because no visit to the tomb is truly complete without experiencing the stories, artefacts, and narratives preserved there.Come, walk through history \u2014 and meet the emperor behind the monument.",
+    "startDate": "2026-08-02T19:00:00+05:30",
+    "endDate": "2026-08-02T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Hazrat Nizamuddin Aulia Dargah, Mathura Rd, Nizamuddin, Nizamuddin East, New Delhi, Delhi 110013, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59328480000000000000",
+        "longitude": "77.25074920000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/humayuntombwalk",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
       "Guided tour",
       "URBANAUT"
     ]
@@ -479,6 +590,82 @@
       "Workshop",
       "Walking Tour",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Kamla Nagar Monsoon Walk",
+    "description": "Kamal Nagar Monsoon Walk \ud83c\udf7d\ufe0fDelhi Food Walks invites you to a specially curated Kamal Nagar Monsoon Walk with Mr. Anubhav Sapra.Step beyond the usual caf\u00e9s and discover the neighbourhood through its legendary eateries, beloved local institutions, and hidden gems that have been serving generations of Delhiites. From the iconic Shudh Desi Tea Stall and timeless chaat favourites to tucked-away street food treasures, this walk brings together the authentic flavours that make Kamal Nagar a true food lover\u2019s destination.As the monsoon adds its own charm to the bustling streets, enjoy an evening filled with delicious food, fascinating stories, local history, and the vibrant culture that has shaped one of North Delhi\u2019s most loved markets.\ud83d\udcc5 Date: 8 August \ud83d\udd54 Time: 5:00 PM onwards\ud83d\udcb0 Charges: \u20b91,500 per person\ud83c\udf99\ufe0f Hosted by: Mr. Anubhav Sapra\ud83d\udccd Organised by: Delhi Food WalksCome hungry and join us as we uncover the flavours, stories, and hidden gems of Kamal Nagar\u2014one delicious bite at a time. \u2614\ud83c\udf75\ud83c\udf2e",
+    "startDate": "2026-08-08T05:00:00+05:30",
+    "endDate": "2026-08-08T08:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Kamla Nagar, Delhi, 110007, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.68091110000000000000",
+        "longitude": "77.20458670000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1575.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Delhi Food Walks",
+      "url": "https://urbanaut.app/partner/delhifoodwalks"
+    },
+    "url": "https://urbanaut.app/spot/kamla-nagar-monsoon-walk",
+    "keywords": [
+      "Walking Tour",
+      "Food & drink",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Latin American Supper Brunch August",
+    "description": "Summer Edition of  our Latin American Supper Brunch Welcome to V\u2019s Supper Stories, where food is slow, stories are shared, and the table is the experience.This isn\u2019t a restaurant. It\u2019s a quiet corner of Saket, New Delhi, where once a week, 12\u201314 guests gather around one long table. No menus in hand. No loud music. Just seasonally inspired dishes, soft conversation, and the kind of atmosphere you remember long after dessert.On the menu - Pomelo & Apple Ceviche, Summer Tomato Tostada, Salsa Matcha Corn Pops, Brazilian Prawn Moqueca, Summer Vegetable Moqueca, Coconut Lime Rice and Tres Leches. Come solo or a +1. Come curious. Come for the quiet joy of a meal made with care.We\u2019re based in Saket, New Delhi \u2014 and the exact address is shared 24 hours before, because the feeling of discovery is part of what makes it special.Follow along at @vsupperstories for glimpses of the table, the food, and the people who bring it to life.",
+    "startDate": "2026-08-08T12:30:00+05:30",
+    "endDate": "2026-08-09T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Saiyad ul Ajaib, Sainik Farm, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52035400000000000000",
+        "longitude": "77.20257900000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3100.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "V's Supper Stories",
+      "url": "https://urbanaut.app/partner/vsupperstories"
+    },
+    "url": "https://urbanaut.app/spot/latinamericansupperaug",
+    "keywords": [
+      "Premium",
+      "Pop-up Event",
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -558,6 +745,81 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Copy of Jalakhya: An Odia Evening of Snacks & Stories",
+    "description": "In Odisha, Jalakhya is more than a word for snacks. It is that familiar golden-hour ritual when the day begins to slow down, friends gather around the table, stories get longer, and plates keep filling up.With this supper club, Rosei Ghara brings that feeling to Delhi through an intimate, multi-course journey across Odisha\u2019s much-loved snack culture. Hosted at a private residence, Jalakhya is designed to feel less like a restaurant meal and more like being welcomed into an Odia home for an evening of food, conversation and togetherness.The experience begins with a guguni salad & crunchy Berhampur papad, alongside chilled fresh coconut water.From there, the table moves through crisp, tangy gup-chup and a generous chop basket. Guests can choose between chicken and mutton chops or vegetarian versions made with nadia aloo and kancha kadali, served with ambula rai dip. This course is paired with cooling tanka torani.No Odia snack table would be complete without dahi bara aloo dum\u2014soft baras soaked in spiced curd and served with warm, comforting aloo dum.The next course reimagines a heartier Odia favourite: a mini whole-wheat roti folded around either boneless mutton kassa or mushroom kassa, with fresh salad and garlic hung curd. Think of it as an Odia-style mini taco, paired with a bright and refreshing ambula fizz.The evening ends on a sweet note with creamy coconut ice cream, crisp mini khaja, and a cup of aromatic Koraput coffee.What makes Jalakhya special is not only the food, but the way it is meant to be enjoyed\u2014slowly, together, and with plenty of conversation. This is a table inspired by childhood evenings, neighbourhood favourites, roadside stalls, family recipes and the simple joy of sharing snacks with people you love.Come hungry. Stay for the stories.Please note: This is a seated set-menu experience hosted at a private residence. The complete menu will be served to all guests, with vegetarian and non-vegetarian options available for select courses. The menu is tentative and may change slightly depending on seasonality and ingredient availability.",
+    "startDate": "2026-08-08T18:00:00+05:30",
+    "endDate": "2026-08-08T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "E-20, Jangpura, Block E, Jungpura Extension, New Delhi, Delhi 110014, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.58085040000000000000",
+        "longitude": "77.24396879999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Rosei Ghara",
+      "url": "https://urbanaut.app/partner/roseighara"
+    },
+    "url": "https://urbanaut.app/spot/8thaugust",
+    "keywords": [
+      "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Raat Ke Afsane : Qutub Minar",
+    "description": "Experience the magic of Qutub Minar like never before\u2014under the stars and glowing lights. This is a guided heritage walk led by a historian, who will take you through the stunning Qutub complex after dark. As the entire site is beautifully illuminated at night, the minaret shines like Delhi\u2019s very own Eiffel Tower\u2014majestic, mysterious, and unforgettable.Walk through centuries of history, discover forgotten stories, and explore Delhi\u2019s medieval past through engaging storytelling. The play of light, shadow, and silence transforms this heritage site into something truly cinematicPlaces we will cover : 1. Mughal Serai2. Alai Minar3. Iltutmish Tomb4. Qutub Minar5. Iron Pilar6. 27 Jain and hindu temples7. Alai Darwaza8. Alauddin Khilji grave and madarsa .Important Points:  1. Details of the heritage walk will be mailed to you when you book the tickets2. No guided fees for kids below 5.3. Medium of communication : Hindi and English4. Please note that in case of unavoidable external reasons such as (weather conditions, political rallies, VIP movement, powercut) the walk may be canceled. The participant has the liberty to take another walk by the company against the payment they have made within 30 days since the date of the registered walk.5. The company does not have refund policy.",
+    "startDate": "2026-08-08T18:30:00+05:30",
+    "endDate": "2026-08-29T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Qutub Minar Complex Rd, Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52371860000000000000",
+        "longitude": "77.18469040000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/raat-ke-afsane-qutub-minar",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Fireflies Workshop",
     "description": "\ud83c\udf1f Join Us for an Enchanting Evening: Fireflies at Hauz Khas \ud83c\udf1fPrepare to be mesmerized by one of nature\u2019s most magical displays! New Delhi Nature Society is thrilled to invite you to an exclusive event that promises to light up your senses and spark your curiosity.As twilight descends upon the charming and historic Hauz Khas area, we will guide you to a secret location where fireflies dance in the night, creating a breathtaking spectacle of bioluminescence. This hidden gem offers an intimate and serene setting for you to witness this enchanting natural phenomenon.What to Expect:\u2728 Guided Firefly Tour \u2013 Learn about these fascinating creatures and their ecological significance.\ud83c\udf3f Nature Walk \u2013 Immerse yourself in the beauty of the surroundings as night falls. \ud83c\udf42 What to Bring:Comfortable walking shoesA camera (without flash) to capture the momentA sense of wonder and curiosityWater bottleImportant Note: Due to the sensitive nature of the event location, exact details will be provided only upon confirmation of your attendance. Space is limited, so please secure your spot quickly.Don\u2019t miss this opportunity to experience the magic of fireflies in one of Delhi\u2019s most enchanting locations. We look forward to sharing this unforgettable night with you!",
@@ -590,6 +852,44 @@
     "keywords": [
       "Workshop",
       "Walking Tour",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Humayun's Tomb : Heritage Walk",
+    "description": "About the ExperienceExplore the Humayun's Tomb complex on a guided heritage walk and learn about its history, architecture, and cultural significance. Built in the 16th century by Haji Begum in memory of Emperor Humayun, the monument is one of the earliest examples of Mughal garden tomb architecture in India.The walk covers the main mausoleum along with other important monuments within the complex, including Isa Khan's Tomb, Arab Sarai, Barber's Tomb, the mosque, and Afsarwala's Tomb. Throughout the experience, the storyteller will share historical context, architectural features, and interesting facts about the site.The walk is conducted at a comfortable pace and includes opportunities for questions and photography.",
+    "startDate": "2026-08-09T07:30:00+05:30",
+    "endDate": "2026-08-09T09:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Hazrat Nizamuddin Aulia Dargah, Mathura Rd, Nizamuddin, Nizamuddin East, New Delhi, Delhi 110013, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59328480000000000000",
+        "longitude": "77.25074920000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/humayuns-tomb-heritage-walk",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
       "Guided tour",
       "URBANAUT"
     ]
@@ -1008,6 +1308,81 @@
       "Leisure",
       "Guided tour",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Raat ke Afsane : Safdarjung Tomb",
+    "description": "Safdarjung Tomb Walk: Stories After SunsetA guided heritage walk through the Safdarjung Tomb complex exploring the history, architecture and cultural significance of one of the last grand monuments of the Mughal era in Delhi.The walk highlights the transition from late Mughal power to emerging regional influences and explores the political, cultural and artistic context in which the monument was built. Participants will learn about its architecture, design elements and historical importance in Delhi\u2019s heritage landscape.The experience is conducted during the evening, allowing participants to view the monument in a calm and atmospheric setting while engaging with its history through guided storytelling.Language of communication is Hindi and English.",
+    "startDate": "2026-08-23T17:30:00+05:30",
+    "endDate": "2026-08-23T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Airforce Golf Course, Delhi Race Club, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.58941560000000000000",
+        "longitude": "77.21062190000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/heritage-walk-safdarjung-tomb-raat-ke-afsane",
+    "keywords": [
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Bazar-i-Husn :  exploring Tawaif culture",
+    "description": "Step into the world of grace, wit, and artistry as we explore the lives of Tawaifs\u2014the courtesans who once defined high culture, poetry, and performance in Delhi. This walk takes you through old city lanes that once echoed with ghazals, thumris, and the quiet power of women who shaped taste and tradition.Uncover the layered stories of kothas\u2014not as places of shame, but as salons of sophistication, resistance, and refined art. Let\u2019s reclaim these narratives and see history through a different lens.",
+    "startDate": "2026-08-30T07:30:00+05:30",
+    "endDate": "2026-08-30T09:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Chawri Bazar, Chandni Chowk, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64820100000000000000",
+        "longitude": "77.22695350000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "700.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/bazar-i-husn-exploring-tawaif-culture",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
       "URBANAUT"
     ]
   },
