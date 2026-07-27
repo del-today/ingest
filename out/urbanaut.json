@@ -1,43 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Sodhilecious Factory Visit",
-    "description": "What if we told you most food brands would never let you see their kitchen? We would.At Sodhilecious Bakery, we\u2019re opening our factory to customers \u2014 no filters, no hiding.Come see for yourself:\u2028\u2714\ufe0f How hygienically your food is actually made\u2028\u2714\ufe0f The real ingredients we use (no marketing gimmicks)\u2028\u2714\ufe0f The process behind every bite you trustThis isn\u2019t a \u201ctour\u201d. It\u2019s full transparency. Plus, you get:\u2028\u2022 A snack box\u2028\u2022 Hands-on activities\u2028\u2022 Real-time product sampling",
-    "startDate": "2026-07-26T12:00:00+05:30",
-    "endDate": "2026-08-09T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "C277+MWG, Begumpur Khatola, Sector 74, Gurugram, Haryana 122101, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.41419400000000000000",
-        "longitude": "77.01483259999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "236.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sodhilecious",
-      "url": "https://urbanaut.app/partner/sodhilecious"
-    },
-    "url": "https://urbanaut.app/spot/sodhilecious-factory-visit-15018",
-    "keywords": [
-      "Food & drink",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "You Didn't Choose The Image; It's Deciding For You",
     "description": "Join us for a lecture that asks a deceptively simple question: who actually gets to decide what a hero, a victim, or a good life looks like?About the LectureWe don't choose the images that come to define us, and yet they decide more than we realise. A single gaze on a movie poster decides who counts as a hero. A familiar narrative arc decides who counts as a believable victim. A curated feed decides what a good life is supposed to look like.This talk moves through three of the speaker's own published studies \u2014 on Malayalam movie poster semiotics, on how Bollywood narratives construct the \"ideal\" rape victim, and on Instagram, loneliness, and FoMO among young Indians \u2014 to trace one quiet mechanism running underneath very different parts of Indian media. By the end, the question isn't really about posters, films, or apps. It's about who gets to build the image in the first place, and what we do with the gap between it and our own lives.About the SpeakerLydia Glory Jose is an Assistant Professor in the Department of Media and Journalism at IILM University, Gurugram, where she teaches media studies, visual communication, and research methods. Before academia, she worked as a journalist with Malayala Manorama, an experience that continues to shape how she reads Indian media \u2014 from the inside, not as an outsider looking in. Her research sits at the intersection of representation, visual semiotics, and digital media, published in Springer Nature's Sexuality and Culture, Palabra Clave, and the International Journal of Semiotics and Visual Rhetoric, and cited by the Times of India. Multilingual in Malayalam, Hindi, English, and Arabic, she remains, at heart, more interested in what an image is doing to us than in what it appears to be showing us.PS: Your Ticket Includes a 250/- Coupon Redeemable on F&BAbout unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from St. Stephen's, Delhi who wanted learning to feel warm, social and alive. Each event is an invitation to spend an evening with an idea.",
@@ -666,6 +629,43 @@
       "Adventure",
       "Walking Tour",
       "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Sodhilecious Factory Visit",
+    "description": "What if we told you most food brands would never let you see their kitchen? We would.At Sodhilecious Bakery, we\u2019re opening our factory to customers \u2014 no filters, no hiding.Come see for yourself:\u2028\u2714\ufe0f How hygienically your food is actually made\u2028\u2714\ufe0f The real ingredients we use (no marketing gimmicks)\u2028\u2714\ufe0f The process behind every bite you trustThis isn\u2019t a \u201ctour\u201d. It\u2019s full transparency. Plus, you get:\u2028\u2022 A snack box\u2028\u2022 Hands-on activities\u2028\u2022 Real-time product sampling",
+    "startDate": "2026-08-09T12:00:00+05:30",
+    "endDate": "2026-08-09T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "C277+MWG, Begumpur Khatola, Sector 74, Gurugram, Haryana 122101, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41419400000000000000",
+        "longitude": "77.01483259999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "236.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sodhilecious",
+      "url": "https://urbanaut.app/partner/sodhilecious"
+    },
+    "url": "https://urbanaut.app/spot/sodhilecious-factory-visit-15018",
+    "keywords": [
+      "Food & drink",
+      "Guided tour",
       "URBANAUT"
     ]
   },
