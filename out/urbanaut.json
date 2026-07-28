@@ -2,17 +2,17 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Pickleball with SWAG | Saket",
-    "description": "Pickleball with SWAG is back!This is a women-only, beginner-friendly pickleball meet-up.7:50 PM Meet up and Warm up Time8:00 PM Game TimeSee you on court!",
-    "startDate": "2026-07-28T20:00:00+05:30",
-    "endDate": "2026-07-28T21:00:00+05:30",
+    "name": "BADDY WITH BADDIES | Gurugram",
+    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.7:50 PM Meet up and Warm up Time8:00 PM Game TimeSee you on court!",
+    "startDate": "2026-07-29T20:00:00+05:30",
+    "endDate": "2026-07-29T21:00:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "NEW GREEN FIELD SCHOOL, school, Ashok Vihar, Saket, New Delhi, Delhi 110017, India",
+      "address": "Sportyzo Badminton Academy, Emaar emerald hills, Golf Course Ext Rd, opposite Ivory Block, Sector 65, Gurugram, Haryana 122011, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.52369810000000000000",
-        "longitude": "77.20874010000000000000"
+        "latitude": "28.40465650000000000000",
+        "longitude": "77.07401440000000000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -20,7 +20,7 @@
     "typicalAgeRange": "25+",
     "offers": {
       "@type": "Offer",
-      "price": "360.00",
+      "price": "325.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -29,7 +29,7 @@
       "name": "Sweat Like a Girl",
       "url": "https://urbanaut.app/partner/sweat-like-a-girl"
     },
-    "url": "https://urbanaut.app/spot/swagpickleball",
+    "url": "https://urbanaut.app/spot/swag35",
     "keywords": [
       "Leisure",
       "Wellness",
@@ -298,6 +298,81 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Bakery run",
+    "description": "A healthy foodie\u2019s dream morning.A little run, a lot of fun, and a delicious finish.Join us for a women-only, beginner-friendly 3K Run + Scavenger Hunt, ending with fresh salads and great conversations at Food Stories.\ud83d\udccd Food Stories, Ambience Mall, Vasant Kunj\u23f0 8:00 AM \u2013 10:00 AM\ud83d\uddd3\ufe0f 11th July 2026What\u2019s waiting for you:\u2022 A relaxed 3K community run outside Ambience Mall.\u2022 A fun scavenger hunt with exciting challenges\u2022 Fresh, wholesome salads by Food Stories\u2022 New friends, great conversations, and plenty of laughsCome solo or bring your foodie squad \u2014 either way, you\u2019ll leave with happy memories, a full heart, and a very satisfying brunch. Let\u2019s earn our greens. \ud83e\udd57",
+    "startDate": "2026-08-01T07:00:00+05:30",
+    "endDate": "2026-08-01T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ground Floor, Ambience Mall, Ambience Island, Vasant Kunj II, Vasant Kunj, New Delhi, Delhi 110070, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54154910000000000000",
+        "longitude": "77.15531680000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "399.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag39",
+    "keywords": [
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Friendship day",
+    "description": "coming soonnnnn........",
+    "startDate": "2026-08-01T07:00:00+05:30",
+    "endDate": "2026-08-01T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Two Horizon Centre, Horizon Colony, Sector 43, Gurugram, Haryana 122009, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.45058350000000000000",
+        "longitude": "77.09732009999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "349.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/friendship-day",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "The Drafting Table",
     "description": "OverviewA quiet writing circle for thoughts that haven\u2019t fully formed yet.Through short writing sprints and reflective prompts, people return to the practice ofputting words on paper, slowly and honestly. A place to begin.ThemeIn this edition of the Drafting Table: The Map That Lies.Every fantasy map is wrong somewhere. This session, write the moment your character notices the ground doesn't match the paper anymore.Then decide- keep walking, or start asking who drew the map in the first place.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to ExpectA Short Intro: We open with a brief framing of the theme and a prompt to get you started. No pressure to use it, just a way in.Writing Time: The bulk of the session is yours. Quiet, unhurried time to write whatever the character needs you to write.Open Mic: We close with an optional read-aloud. Share what you wrote, or just listen. Both are completely fine.Details\ud83d\uddd3\ufe0f Date: 1st August (Saturday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Joaah Cafe, Ireo City Central\ud83c\udf9f\ufe0f Fee: \u20b9700",
@@ -412,6 +487,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Play Like A Girl",
+    "description": "SWAG girls, this one's for you.We're turning an ordinary evening into the ultimate girls' playground. Pick up a shuttle, grab the paddle or kick the ball. Pickleball, Football, Badminton, we are playing it all!No pressure. No judgement. Just a bunch of SWAG Girlies showing up, laughing through the misses, celebrating the wins, and creating memories!5:50 PM \u2013 Meet Up & Warm Up6 - 7 PM \u2013 Game TimeCome solo or with your girls. This isn't just another sports meet-up. It's a SWAG exclusive -made for women who are ready to play, cheer, and have way too much fun doing it.",
+    "startDate": "2026-08-01T17:00:00+05:30",
+    "endDate": "2026-08-01T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Opposite Bunglow No.46, Sector 4, Lodhi Estate, Lodhi Estate, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59422390000000000000",
+        "longitude": "77.22559430000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "349.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag38",
+    "keywords": [
+      "Adventure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Shaam-e-Qutub :  Evening heritage walk",
     "description": "We are delighted to invite you to a special *evening heritage walk at Qutub Minar*, curated by Darwesh Heritage Walks in collaboration with Sabhyata Foundation.**Date: 1st Aug, 2026**Time: 6:00 p.m. onwardsExperience the magic of one of Delhi\u2019s most iconic monuments as it transforms at dusk\u2014when the Qutub Minar complex is beautifully lit and wrapped in an almost timeless charm.This walk takes you through the story of Delhi\u2019s first capital at Mehrauli, tracing the rise of the Tomars and Chauhans, and the arrival of the Delhi Sultanate under the early Turko-Afghan rulers. As the evening sets in, the illuminated ruins, soaring minar, and intricate carvings create a truly immersive atmosphere\u2014perfect for experiencing history not just as a narrative, but as a living, breathing space.During this walk, we will explore:* The origins of Delhi\u2019s earliest city at Mehrauli* The political transitions from Rajput to Sultanate rule* The architectural brilliance of the Qutub complex and its symbolism* The stories hidden in its mosque, pillars, and inscriptionsJoin us for an unforgettable evening of storytelling, history, and exploration\u2014where the past comes alive under the soft glow of lights.We look forward to having you with us.(Please note: the fee is not for access to the site, but rather for curation of this experience)(Doesn't include monument entry ticket) ",
     "startDate": "2026-08-01T18:00:00+05:30",
@@ -518,6 +631,82 @@
     "keywords": [
       "Leisure",
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "BADDY WITH BADDIES (Gurugram)",
+    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.5:50 PM Meet up and Warm up Time6:00 PM Game TimeSee you on court!",
+    "startDate": "2026-08-02T18:00:00+05:30",
+    "endDate": "2026-08-02T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Sportyzo Badminton Academy, Emaar emerald hills, Golf Course Ext Rd, opposite Ivory Block, Sector 65, Gurugram, Haryana 122011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40465650000000000000",
+        "longitude": "77.07401440000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "250.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag34",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Pickleball with SWAG | Gurugram",
+    "description": "The SWAG Pickleball Party is you perfect sunday evening plan!This is a women-only, beginner-friendly meet-up.See you on court!",
+    "startDate": "2026-08-02T18:00:00+05:30",
+    "endDate": "2026-08-02T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Sportyzo Sports Academy, Sector 65, Gurugram, Haryana 122101, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40450950000000000000",
+        "longitude": "77.07416250000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "360.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag32",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
       "URBANAUT"
     ]
   },
