@@ -335,43 +335,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Bakery run",
-    "description": "A healthy foodie\u2019s dream morning.A little run, a lot of fun, and a delicious finish.Join us for a women-only, beginner-friendly 3K Run + Scavenger Hunt, ending with fresh salads and great conversations at Food Stories.\ud83d\udccd Food Stories, Ambience Mall, Vasant Kunj\u23f0 8:00 AM \u2013 10:00 AM\ud83d\uddd3\ufe0f 11th July 2026What\u2019s waiting for you:\u2022 A relaxed 3K community run outside Ambience Mall.\u2022 A fun scavenger hunt with exciting challenges\u2022 Fresh, wholesome salads by Food Stories\u2022 New friends, great conversations, and plenty of laughsCome solo or bring your foodie squad \u2014 either way, you\u2019ll leave with happy memories, a full heart, and a very satisfying brunch. Let\u2019s earn our greens. \ud83e\udd57",
-    "startDate": "2026-08-01T07:00:00+05:30",
-    "endDate": "2026-08-01T10:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Ground Floor, Ambience Mall, Ambience Island, Vasant Kunj II, Vasant Kunj, New Delhi, Delhi 110070, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54154910000000000000",
-        "longitude": "77.15531680000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "399.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag39",
-    "keywords": [
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Friendship day",
     "description": "coming soonnnnn........",
@@ -628,6 +591,43 @@
     "keywords": [
       "History & heritage",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Cookie Quest",
+    "description": "A healthy foodie\u2019s dream morning.A little run, a lot of fun, and a delicious finish.Join us for a women-only, beginner-friendly 3K Run + Scavenger Hunt, ending with fresh salads and great conversations at Food Stories.\ud83d\udccd Food Stories, Ambience Mall, Vasant Kunj\u23f0 8:00 AM \u2013 10:00 AM\ud83d\uddd3\ufe0f 11th July 2026What\u2019s waiting for you:\u2022 A relaxed 3K community run outside Ambience Mall.\u2022 A fun scavenger hunt with exciting challenges\u2022 Fresh, wholesome salads by Food Stories\u2022 New friends, great conversations, and plenty of laughsCome solo or bring your foodie squad \u2014 either way, you\u2019ll leave with happy memories, a full heart, and a very satisfying brunch. Let\u2019s earn our greens. \ud83e\udd57",
+    "startDate": "2026-08-02T08:00:00+05:30",
+    "endDate": "2026-08-02T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ground Floor, Ambience Mall, Ambience Island, Vasant Kunj II, Vasant Kunj, New Delhi, Delhi 110070, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54154910000000000000",
+        "longitude": "77.15531680000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "399.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag39",
+    "keywords": [
+      "Wellness",
+      "Active",
       "URBANAUT"
     ]
   },
@@ -1232,6 +1232,42 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Overthinkers Anonymous",
+    "description": "OverviewA gentle support circle for thoughts that feel a little too loud.A space to speak, reflect, or simply sit among people who understand emotional overwhelm.This edition explores a different kind of loneliness \u2014 the kind that exists even when life looks socially full. We'll talk about emotional disconnection, feeling unseen, surface-level conversations, difficulty forming close relationships, and why so many of us feel alone even when we're surrounded by people.Say as much or as little as you want. Come as you are.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to expectSharing: The session is built around honest conversation. People share what is on their mind, what they are carrying, what they keep coming back to.Group Discussion: We talk it through together. No advice unless asked, no pressure to have it figured out. Just people listening and being listened to.Details\ud83d\uddd3\ufe0f Date: 9th August (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Thamel, Arjun Marg\ud83c\udf9f\ufe0f Contribution: \u20b9700",
+    "startDate": "2026-08-09T11:30:00+05:30",
+    "endDate": "2026-08-09T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ground Floor, AIPL Joy Central, GF-01, Golf Course Ext Rd, Sector 65, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40537820000000000000",
+        "longitude": "77.06050050000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/overthinkers-anonymous",
+    "keywords": [
+      "Wellness",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Sodhilecious Factory Visit",
     "description": "What if we told you most food brands would never let you see their kitchen? We would.At Sodhilecious Bakery, we\u2019re opening our factory to customers \u2014 no filters, no hiding.Come see for yourself:\u2028\u2714\ufe0f How hygienically your food is actually made\u2028\u2714\ufe0f The real ingredients we use (no marketing gimmicks)\u2028\u2714\ufe0f The process behind every bite you trustThis isn\u2019t a \u201ctour\u201d. It\u2019s full transparency. Plus, you get:\u2028\u2022 A snack box\u2028\u2022 Hands-on activities\u2028\u2022 Real-time product sampling",
@@ -1340,6 +1376,115 @@
       "Workshop",
       "Walking Tour",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Procrastireaders : Books & Coffee Tasting",
+    "description": "The Procrastireaders: Books & Coffee TastingOverviewA slow reading circle designed around comfort, not pressure.People come together to read, exchange thoughts, and return to books in a way that feels lighter and more approachable. Stories, shared slowly.If you have been wanting to get back to reading but find it hard to make the time at home, this is for you. The Procrastireaders is a dedicated space to finally open that book you have been meaning to finish. It is a slow paced morning designed for quiet reading and great coffee in the company of others who are doing the same.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to expectBring Your Own Book: Whether it is a novel you started months ago or a new non fiction find, bring along whatever you are currently reading.Dedicated Reading Time: Enjoy a block of quiet, uninterrupted time to sink into your book without the distractions of chores or your phone.Shared Atmosphere: The comfort of reading alongside a small group of people who are also prioritizing their love for books.Coffee & Chat: A low pressure chance to talk about what you are reading (or why you have been procrastinating) over a coffee at Unlocked.Details\ud83d\uddd3\ufe0f Date: 15th August (Saturday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Malibu Town, Sector 47, Gurgaon\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes Coffee)",
+    "startDate": "2026-08-15T11:30:00+05:30",
+    "endDate": "2026-08-15T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Malibu Towne, Sector 47, Gurugram, Haryana 122018, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.42337070000000000000",
+        "longitude": "77.04630980000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/books-and-coffee-tasting",
+    "keywords": [
+      "Leisure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Cinema Circle",
+    "description": "OverviewA shared film-watching experience designed to feel cozy, intentional, and communal.People gather to slow down, watch together, and stay a little longer with the stories thatunfold on screen. Films, shared quietly.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to ExpectWatch Together: We screen Tamasha as a group. No prior viewing required, just show up.Discussion: Once the film ends, we talk through it. The psychology, the fear, the behaviour, whatever stayed with you.Details\ud83d\uddd3\ufe0f Date: 15 August (Saturday)\u23f0 Time: 6:00 PM\ud83d\udccd Location: Malibu Town, Gurugram\u2615 Inclusions: Diet Coke, snacks \ud83c\udf9f\ufe0f Fee: \u20b9700",
+    "startDate": "2026-08-15T18:00:00+05:30",
+    "endDate": "2026-08-15T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Tower-4, MALIBU TOWNE, Malibu Towne, Sector 47, Gurugram, Haryana 122018, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.42324330000000000000",
+        "longitude": "77.04097460000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/cinema-circle",
+    "keywords": [
+      "Leisure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Open SketchBook",
+    "description": "Open SketchBookOverviewA slower way of seeing what\u2019s already there.People gather outdoors to observe, sketch, and spend time noticing details that often go unseen. No pressure. Just attention.Our core belief is that you do not need to leave the city to feel grounded. In a world where everyone is distracted, we pause as a group to give our attention to one shared thing. Sketching becomes the medium to notice small, living details in urban spaces that we usually rush through.You do not need to be an artist to enjoy sketching. Open SketchBook is a session for anyone who wants to explore drawing as a way to relax and observe the world. It is about the process of putting pencil to paper rather than the final masterpiece.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to expectGuided Observation: Learn simple ways to look at objects or spaces and translate them into lines and shapes.Creative Freedom: A judgment free zone where you can experiment with sketching without worrying about \"doing it right.\"Tactile Experience: Use your new diary and pencil kit to capture what you see in the moment.Relaxed Environment: Enjoy a late afternoon at Greenr with a small group of people who just want to create and connect.Details\ud83d\uddd3\ufe0f Date: 16th August (Sunday)\u23f0 Time: 5:30 PM\ud83d\udccd Location: Greenr, Golf Course Ext Road\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes an A6 diary)",
+    "startDate": "2026-08-16T11:00:00+05:30",
+    "endDate": "2026-08-16T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "First Floor, Grand View High Street, Golf Course Ext Rd, Sector 58, Gurugram, Haryana 122098, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41623070000000000000",
+        "longitude": "77.10243700000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/open-sketchbook",
+    "keywords": [
+      "Leisure",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -1536,6 +1681,42 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "The Listening Room",
+    "description": "The Listening Room: A Space for Deep ListeningOverviewIn a world that is always talking, we rarely get the chance to truly listen. The Listening Room is a unique session dedicated to the art of being present. It is a space to share, to hear others, and to practice the kind of attention that builds real connection and empathy.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to expectActive Listening: Practice being fully present while others speak without the need to interrupt or give immediate advice.Shared Stories: A safe environment to share your own thoughts or experiences and feel truly heard by a small group.Quiet Reflection: Moments of silence to process what has been shared and to notice how deep listening changes our perspective.Supportive Connection: A morning at Greenr focused on human presence and the simple power of witnessing each other\u2019s stories.Details\ud83d\uddd3\ufe0f Date: 22nd August (Saturday)\u23f0 Time: 11:00 AM\ud83d\udccd Location: Greenr, Golf Course Ext Road\ud83c\udf9f\ufe0f Contribution: \u20b9700",
+    "startDate": "2026-08-22T11:00:00+05:30",
+    "endDate": "2026-08-22T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "First Floor, Grand View High Street, Golf Course Ext Rd, Sector 58, Gurugram, Haryana 122098, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41623070000000000000",
+        "longitude": "77.10243700000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/listening-room",
+    "keywords": [
+      "Wellness",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Haunted Walk: Purana Quila",
     "description": "Ruhani Raatein: Haunted Walk at Purana QilaAs the sun sets behind Delhis ancient ramparts, join us for a moonlit journey through one of the city s oldest forts-Purana Qila, where history whispers and shadows linger.From ghostly legends to chilling ruins, this walk blends myth, mystery, and Mughal-era memories. Are the tales true? Were voices heard in the dark? Come find out for yourself, if you dare.Not just a walk-this is an experience that tingles your spine and stirs your soul.",
     "startDate": "2026-08-22T17:00:00+05:30",
@@ -1687,6 +1868,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "The Procrastireaders",
+    "description": "OverviewA slow reading circle designed around comfort, not pressure.This chapter of Procrastireaders steps out of the pages and into the scene of the crime, solving instead of just reading. You'll get a floor plan, real evidence cards, and secrets that only come out clue by clue, so the story unfolds the way a good twist should. Come with your sharpest theories and your best poker face, because this time the ending is in your hands, not the author's.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life's complexities from mental well being to personal growth with empathy and shared human connection.What to ExpectThe Concept: A relaxed, nostalgia filled session for anyone who has ever reread the series or wished their birthday came with an owl. Come as you are, no wands required.The Activities: Quizzes, house sorting conversations, favourite character debates, and a little friendly chaos over who really deserved Hermione.Shared Stories: We will talk about which book hit hardest, which character we related to most, and how the series shaped the way many of us fell in love with reading in the first place.Low Stakes: No pressure to have read every book seven times. Whether you are a die hard Potterhead or someone who just watched the movies, everyone is welcome at the table.Details\ud83d\uddd3\ufe0f Date: 29th August (Saturday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Unlocked, 32nd Avenue\u2615 Inclusion: Coffee included\ud83c\udf9f\ufe0f Fee: \u20b9700",
+    "startDate": "2026-08-29T11:30:00+05:30",
+    "endDate": "2026-08-29T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "32nd Avenue, Sector 15 Part 2, Sector 15, Gurugram, Haryana 122001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46162590000000000000",
+        "longitude": "77.05002540000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/the-procrastireaders",
+    "keywords": [
+      "Leisure",
+      "Pop-up Event",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Bazar-i-Husn :  exploring Tawaif culture",
     "description": "Step into the world of grace, wit, and artistry as we explore the lives of Tawaifs\u2014the courtesans who once defined high culture, poetry, and performance in Delhi. This walk takes you through old city lanes that once echoed with ghazals, thumris, and the quiet power of women who shaped taste and tradition.Uncover the layered stories of kothas\u2014not as places of shame, but as salons of sophistication, resistance, and refined art. Let\u2019s reclaim these narratives and see history through a different lens.",
     "startDate": "2026-08-30T07:30:00+05:30",
@@ -1719,6 +1938,42 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Overthinkers Anonymous - Relationships Edition",
+    "description": "Overthinkers Anonymous (Relationships Editions)OverviewA space for the relationships you carry but rarely talk about. People gather to finally say the things they've held back from a parent, a partner, a coworker, an in-law, anyone they can't avoid and can't quite be honest with. Said out loud, finally.Most relationship conflicts are not just about what happened; they are about how we interpret what happened. This session focuses on exploring how our thoughts shape our connections and why friction often feels more intense than the situation warrants. \"Before You Blame\" is a reflective workshop designed to help you look at your assumptions and inner patterns, moving you from reactivity toward steadiness and emotional responsibility.What is Stories of Hope?We are a community-led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities, from mental well-being to personal growth, with empathy and shared human connection.What to ExpectPattern Recognition: Explore how common emotional triggers and ego-driven patterns shape conflicts in marriage, family, or work.Internal Focus: Instead of trying to fix others, we gently shift the focus inward to understand our own interpretations and responses.Practical Tools: Learn actionable ways to question stressful thoughts and practice perspective shifts using real-life scenarios.Safe Exploration: A supportive, non-judgmental environment for honest discussion. This is a space for learning and reflection, not a lecture or therapy.Key TakeawaysClarity: Gain a deeper understanding of recurring relationship dynamics.Responsiveness: Walk away with tools to help you respond thoughtfully instead of reacting impulsively.Emotional Ownership: Build the internal steadiness needed to navigate life without requiring others to change first.Details\ud83d\uddd3\ufe0f Date: 30th August (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Joaah Cafe",
+    "startDate": "2026-08-30T11:30:00+05:30",
+    "endDate": "2026-08-30T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shop No. 18,19,28, Ascott Ireo City Central, behind Jagdish Store, Alahawas, Sector 59, Gurugram, Haryana 122011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40773430000000000000",
+        "longitude": "77.10356910000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "700.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/before-you-blame",
+    "keywords": [
+      "Wellness",
       "URBANAUT"
     ]
   },
