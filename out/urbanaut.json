@@ -148,6 +148,43 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Stranger dinner",
+    "description": "A cozy evening of great food\ud83c\udf72 laughter, and conversations that go beyond the usual introductions.No awkward small talk, just engaging games, thoughtful conversation prompts, friendship mixers, and a table full of people who showed up to connect\ud83d\ude0d\u2728Come for the dinner. Stay for the stories. Leave with meaningful connections,\ud83d\ude04Venue\ud83d\udccd: Another Fine Dine, Dlf phase 5, Gurgaon https://maps.app.goo.gl/BX5fdJiZcXyinXv39?g_st=acNote: Ticket includes meetup entry. Food & beverages are charged as per actuals Join our whatsapp group: https://chat.whatsapp.com/DvtOfR438vSBINjaIT8KYF?s=cl&p=a&mlu=0&ilr=4&amv=2",
+    "startDate": "2026-07-30T20:30:00+05:30",
+    "endDate": "2026-07-30T23:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ground Floor, Golf Course Rd, DLF Phase 5, Sector 43, Gurugram, Haryana 122009, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.45468340000000000000",
+        "longitude": "77.09718629999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "299.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Socialhub",
+      "url": "https://urbanaut.app/partner/socialhub"
+    },
+    "url": "https://urbanaut.app/spot/stranger-dinner",
+    "keywords": [
+      "Leisure",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "The Matcha Circle",
     "description": "OverviewA shared matcha-making experience where simple acts of whisking, pouring, and preparing create calm.People gather over matcha, conversation, and the quiet rhythm of making something by hand. One cup at a time.Matcha Experience: A Taste of CalmExperience the calming art of green tea in a session dedicated to mindfulness and flavor. This gathering is designed to help you slow down and appreciate the details of a centuries old tradition. \"The Matcha Circle\" offers a peaceful space to learn, taste, and connect at the end of a long week.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to ExpectGuided Introduction: Learn about the history and the unique process of preparing matcha from farm to cup.The Ritual: Watch and learn how the tea is whisked to create its signature froth and deep flavor.Tasting Session: Enjoy a premium matcha drink prepared just for you at Cha & Co.Quiet Conversation: Join a small group setting to talk about finding moments of peace in a busy week over a comforting cup.Details\ud83d\uddd3\ufe0f Date: 31st July (Friday)\u23f0 Time: 6:30 PM\ud83d\udccd Location: Cha & Co, Grand View High Street\ud83c\udf75 Inclusion: Matcha drink included\ud83c\udf9f\ufe0f Fee: \u20b9700",
@@ -449,6 +486,41 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Blood on the Clocktower",
+    "description": "\u200bDuring a hellish thunderstorm, a scream echoes through the sleepy town of Ravenswood Bluff. The townsfolk rush to investigate and find the beloved local storyteller has been murdered, their body hanging limp from the clocktower. As blood drips onto the cobblestones below, a realisation slowly dawns\u2026 a demon has been unleashed, killing by night and taking on human form by day. Can good find the demon in time? Or will evil overrun this once peaceful town?What is BotC?\u200bBlood on the Clocktower is a game of murder and mystery, lies and logic, deduction and deception for five-to-twenty courageous players and one devious storyteller.\u200bA social game played in person, seated in a circle, each player receives either a \u2018good\u2019 or \u2018evil\u2019 token with their unique character on it. Good players share information to solve the mystery whilst evil players lie about who they are and what they know. The good team wins if they can piece together their knowledge, trust each other, and execute the demon. The evil team wins if the demon can sow distrust, evade detection, and wipe out the town.",
+    "startDate": "2026-08-01T15:00:00+05:30",
+    "endDate": "2026-08-01T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gate no 3, 4/23-B, Asaf Ali Rd, opp. Metro Station, Chatta lal Miya, Delhi Gate, Daryaganj, New Delhi, Delhi, 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64083430000000000000",
+        "longitude": "77.23897370000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Table Top Games Club",
+      "url": "https://urbanaut.app/partner/the-table-top-games-club"
+    },
+    "url": "https://urbanaut.app/spot/blood-on-the-clocktower-delhi",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Where the Rain comes alive: Hauz-e-shamsi",
     "description": "Explore the Hidden Summer Palace of the MughalsDiscover a lesser-known chapter of Delhi's history on a guided heritage walk through the historic summer retreat of the Mughal era in Mehrauli.Explore the historic fort complex, admire its ancient water reservoir, and learn about the water systems, gardens, architecture, and traditions that once shaped this remarkable heritage site. Through engaging storytelling, uncover the forgotten history of the palace and its connection with Delhi's rich cultural past.Experience an offbeat heritage trail and discover a fascinating side of Mehrauli.Places Covered1 Mughal-era Summer Palace2 Historic Fort Complex3 Ancient Water Reservoir4 Remains of the Orchard Gardens5 Heritage Structures within the Complex",
     "startDate": "2026-08-01T16:00:00+05:30",
@@ -481,44 +553,6 @@
       "Adventure",
       "Walking Tour",
       "History & heritage",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Play Like A Girl",
-    "description": "SWAG girls, this one's for you.We're turning an ordinary evening into the ultimate girls' playground. Pick up a shuttle, grab the paddle or kick the ball. Pickleball, Football, Badminton, we are playing it all!No pressure. No judgement. Just a bunch of SWAG Girlies showing up, laughing through the misses, celebrating the wins, and creating memories!5:50 PM \u2013 Meet Up & Warm Up6 - 7 PM \u2013 Game TimeCome solo or with your girls. This isn't just another sports meet-up. It's a SWAG exclusive -made for women who are ready to play, cheer, and have way too much fun doing it.",
-    "startDate": "2026-08-01T17:00:00+05:30",
-    "endDate": "2026-08-01T19:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Opposite Bunglow No.46, Sector 4, Lodhi Estate, Lodhi Estate, New Delhi, Delhi 110003, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59422390000000000000",
-        "longitude": "77.22559430000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "349.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag38",
-    "keywords": [
-      "Adventure",
-      "Wellness",
-      "Active",
       "URBANAUT"
     ]
   },
@@ -637,82 +671,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "BADDY WITH BADDIES (Gurugram)",
-    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.5:50 PM Meet up and Warm up Time6:00 PM Game TimeSee you on court!",
-    "startDate": "2026-08-02T18:00:00+05:30",
-    "endDate": "2026-08-02T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Sportyzo Badminton Academy, Emaar emerald hills, Golf Course Ext Rd, opposite Ivory Block, Sector 65, Gurugram, Haryana 122011, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.40465650000000000000",
-        "longitude": "77.07401440000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "250.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag34",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Pickleball with SWAG | Gurugram",
-    "description": "The SWAG Pickleball Party is you perfect sunday evening plan!This is a women-only, beginner-friendly meet-up.See you on court!",
-    "startDate": "2026-08-02T18:00:00+05:30",
-    "endDate": "2026-08-02T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Sportyzo Sports Academy, Sector 65, Gurugram, Haryana 122101, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.40450950000000000000",
-        "longitude": "77.07416250000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "360.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag32",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Raat ke afsaane  : Lodhi Garden Walk",
     "description": "Lodhi Garden Heritage WalkStep into the rich history of Delhi with an evening heritage walk through the beautiful and historic Lodhi Garden.Explore the magnificent monuments, striking architecture, hidden narratives, and lesser-known stories of the Lodhi period as you discover the history that surrounds this iconic green space.Join us for an engaging journey through history, culture, and architecture, and experience Lodhi Garden through stories that bring its past to life.",
     "startDate": "2026-08-02T18:00:00+05:30",
@@ -818,6 +776,42 @@
     "url": "https://urbanaut.app/spot/slow-burn-martini-cocktail-tasting-menu",
     "keywords": [
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Adapting Alone",
+    "description": "Adapting Alone: How Young People Are Redesigning Their Lives Around Climate ChangeClimate change doesn't always announce itself through a heatwave or a flood.More often, it reshapes the everyday. Leaving home earlier to avoid the heat. Carrying extra water because you don't know where you'll find a refill. Taking an auto because waiting at a bus stop without shade feels unbearable.While we\u2019ve accepted these adaptations as normal, they reveal a striking fact: young people are constantly adapting to a changing climate, often with little support from the institutions around them.Based on conversations with over 3,000 young people across 60 neighbourhoods in India, Mudito's latest research asks a simple but urgent question: Why has adapting to climate change become an individual responsibility?Join us for a conversation with incredible panelists as we explore the invisible work of adaptation, who is left to do it alone, and what it would take for our institutions to catch up.Date: August 7, 2026Time: 7 PM - 8 PM",
+    "startDate": "2026-08-07T19:00:00+05:30",
+    "endDate": "2026-08-07T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.70405920000000000000",
+        "longitude": "77.10249019999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mudito",
+      "url": "https://urbanaut.app/partner/mudito"
+    },
+    "url": "https://urbanaut.app/spot/adaptingalonedelhi",
+    "keywords": [
+      "Virtual",
       "URBANAUT"
     ]
   },
@@ -977,7 +971,7 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Zerodha Bootcamp: The FIRE Edition | Gurgaon",
-    "description": "What to expectThis is a 3-hour in-person bootcamp, not a webinar, not a panel discussion, not a pitch for financial products. It's a structured, no-fluff session designed to give you a clear-headed look at what financial independence actually requires and what it realistically takes to get there.Ravi Handa will walk you through the numbers, the math, the common mistakes, and the decisions that actually move the needle in Hindi and English, so nothing gets lost in translation.By the time you leave, you'll have a much clearer answer to the question most people spend years avoiding: how much is enough, and am I on track?What's covered\u2014 The FIRE number: how to calculate what you actually need, not what sounds impressive\u2014 The savings rate question: why how much you save matters more than what you earn\u2014 Investment strategies that make early retirement achievable, not just theoretical\u2014 The mistakes people make in their 30s that cost them a decade of compounding\u2014 What happens after FIRE, the part nobody talks about enoughWho this is forAnyone who has thought about retiring before 60, whether that's a vague wish or a plan you're actively building. You don't need to be an expert investor. You don't need to already have a corpus. You just need to be willing to look at your finances honestly for three hours.Gurgaon's workforce is one of India's most financially capable, high earners, ambitious savers, people who have the means but not always the framework. This session is built for exactly that audience.About the speakerRavi Handa is the founder of Handa Uncle, an AI-powered platform built to simplify personal finance for Indian families. Having spent over a decade teaching and mentoring hundreds of thousands of learners, he now helps people navigate investing, retirement planning, and financial independence through practical, evidence-based frameworks.",
+    "description": "What to expectThis is a 3-hour in-person bootcamp, not a webinar, not a panel discussion, not a pitch for financial products. It's a structured, no-fluff session designed to give you a clear-headed look at what financial independence actually requires and what it realistically takes to get there.Ravi Handa will walk you through the numbers, the math, the common mistakes, and the decisions that actually move the needle in Hindi and English, so nothing gets lost in translation.By the time you leave, you'll have a much clearer answer to the question most people spend years avoiding: how much is enough, and am I on track?What's covered\u2014 The FIRE number: how to calculate what you actually need, not what sounds impressive\u2014 The savings rate question: why how much you save matters more than what you earn\u2014 Investment strategies that make early retirement achievable, not just theoretical\u2014 The mistakes people make in their 30s that cost them a decade of compounding\u2014 What happens after FIRE, the part nobody talks about enoughWho this is forAnyone who has thought about retiring before 60, whether that's a vague wish or a plan you're actively building. You don't need to be an expert investor. You don't need to already have a corpus. You just need to be willing to look at your finances honestly for three hours.Gurgaon's workforce is one of India's most financially capable, high earners, ambitious savers, people who have the means but not always the framework. This session is built for exactly that audience.About the speakerRavi Handa is the founder of Handa Uncle, an AI-powered platform built to simplify personal finance for Indian families. Having spent over a decade teaching and mentoring hundreds of thousands of learners, he now helps people navigate investing, retirement planning, and financial independence through practical, evidence-based frameworks.Tickets priced at: Rs. 399/- only. Limited seats available. ",
     "startDate": "2026-08-08T16:00:00+05:30",
     "endDate": "2026-08-08T19:00:00+05:30",
     "location": {
@@ -1732,7 +1726,7 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Level 1 - I LIKE TO MOVE IT MOVE IT! EARLY BIRD",
-    "description": "I LIKE TO MOVE IT, MOVE IT! Dancing for Non-Dancers is a playful movement and body-awareness practice. It invites you to rediscover movement not as performance or technique, but as a process of curiosity.The programme expands movement vocabulary, deepens mind-body awareness and develops a broader appreciation of what dance can be.Participants leave with a deeper understanding of their bodies and movement patterns, greater responsiveness to music and rhythm and practical tools that support mobility, adaptability, physical wellbeing and long-term vitality.(Warning: Side effects may include increased spontaneity, killer dance moves and unexpected joy.)Every WEDNESDAY (5-7pm) and every SATURDAY (11am-1pm) for the month of SEPTEMBER, 2026Rs. 15,000/- for the month, Level 1 courseEarly bird (till August 15): Rs. 12,000/-(Please click on the 'Sept 2nd 5:00-5:01pm' option for ticket booking - this entitles you to the FULL MONTH of classes)**ABOUT SHENAShena Gamat is a theatre practitioner, voice artist and learning & development professional with over two decades of experience in performance and facilitation. Her background spans film, international theatre tours and voice work.Shena has built a magazine, run a theatre company, been on leadership teams, built grassroots programmes, created communities and facilitated learning. She is a qualified Movement Therapist and the founder of It\u2019s All Good, an initiative for fun and engaging experiences that foster insight and empowerment.Her sessions combine theatre tools, voice work, learning design and behavioural frameworks to help participants connect to their own presence and live with clarity & confidence.*ABOUT IT\u2019S ALL GOODThe Science and Art of JoyIAG is an initiative aimed at returning to joy in a complex world. IAG offers workshops, talks, performances and micro-festivals that explore the human condition, delving into how to live with ease and clarity (and humour!).Insta : https://www.instagram.com/itsallgood.space*ZAAZEN WELLNESSZaazen is a holistic wellness sanctuary for both men and women. A space designed for anyone seeking to slow down, restore, and reconnect at any stage of life.Reimagined in 2025, Zaazen brings together therapeutic bodywork, recovery practices, movement, and modern wellness treatments within a calm, refined setting. Today, it stands as an integrative hub for overall wellbeing, supporting balance, longevity, and a more intentional way of living.https://zaazenwellness.com/**FURTHER DETAILS ON 'I LIKE TO MOVE IT, MOVE IT!':LEVEL 1 - ONE MONTH COURSE, September 2026Focus: Body Awareness, Wellbeing & Movement FoundationsA one-month journey for people who don't think of themselves as 'dancers'.Curriculum | What we will explore:\u2022\tBody awareness and learning to listen to the body's signals\u2022\tBasic anatomy for movement\u2022\tAlignment, balance and coordination\u2022\tMobility, strength and movement efficiency\u2022\tBreath, energy and presence\u2022\tDifferent ways of moving through space\u2022\tImagination as a tool for movement\u2022\tBuilding confidence and comfort in your own bodyBy the end of the course you will:\u2022\tFeel more at home in your body\u2022\tMove with greater ease, confidence and freedom\u2022\tDevelop greater body awareness and self-understanding\u2022\tImprove mobility, coordination and physical wellbeing\u2022\tDiscover new ways of expressing yourself through movement\u2022\tBuild a strong foundation for further explorationLEVEL 2 (Available to those who have completed Level 1)Focus: Music, Space & Creative ExpressionLevel 2 expands the focus from the inner world to the world around us. Building on the foundations developed in Level 1, participants explore movement in relationship to music, space, objects, imagination and creative expression, while continuing to develop strength, confidence and overall health & wellbeing.Curriculum | What we'll explore:\u2022\tListening and responding to music\u2022\tRhythm, timing and musicality\u2022\tMoving in relationship to space and environment\u2022\tWorking with objects and others\u2022\tImprovisation and creative exploration\u2022\tUnderstanding connecting tissues and communicatorsBy the end of the course you will:\u2022\tDevelop a stronger connection to music and rhythm\u2022\tFeel more confident exploring and creating dance/movement\u2022\tExpand your expressive and creative range\u2022\tDiscover new ways of relating to the space and objects around you\u2022\tCultivate mind-body agility and integrated wellbeing\u2022\tExperience movement as a source of vitality, expression and play",
+    "description": "I LIKE TO MOVE IT, MOVE IT! Dancing for Non-Dancers is a playful movement and body-awareness practice. It invites you to rediscover movement not as performance or technique, but as a process of curiosity.The programme expands movement vocabulary, deepens mind-body awareness and develops a broader appreciation of what dance can be.Participants leave with a deeper understanding of their bodies and movement patterns, greater responsiveness to music and rhythm and practical tools that support mobility, adaptability, physical wellbeing and long-term vitality.(Warning: Side effects may include increased spontaneity, killer dance moves and unexpected joy.)Every WEDNESDAY (5-7pm) and every SATURDAY (11am-1pm) for the month of SEPTEMBER, 2026Rs. 15,000/- for the month, Level 1 courseEarly bird (till August 15): Rs. 12,000/-(Please click on the 'Sept 2nd 5:00-5:01pm' option for ticket booking - this entitles you to the FULL MONTH of classes)Further details on what we will explore during the course are mentioned below.**ABOUT SHENAShena Gamat is a theatre practitioner, voice artist and learning & development professional with over two decades of experience in performance and facilitation. Her background spans film, international theatre tours and voice work.Shena has built a magazine, run a theatre company, been on leadership teams, built grassroots programmes, created communities and facilitated learning. She is a qualified Movement Therapist and the founder of It\u2019s All Good, an initiative for fun and engaging experiences that foster insight and empowerment.Her sessions combine theatre tools, voice work, learning design and behavioural frameworks to help participants connect to their own presence and live with clarity & confidence.*ABOUT IT\u2019S ALL GOODThe Science and Art of JoyIAG is an initiative aimed at returning to joy in a complex world. IAG offers workshops, talks, performances and micro-festivals that explore the human condition, delving into how to live with ease and clarity (and humour!).Insta : https://www.instagram.com/itsallgood.space*ZAAZEN WELLNESSZaazen is a holistic wellness sanctuary for both men and women. A space designed for anyone seeking to slow down, restore, and reconnect at any stage of life.Reimagined in 2025, Zaazen brings together therapeutic bodywork, recovery practices, movement, and modern wellness treatments within a calm, refined setting. Today, it stands as an integrative hub for overall wellbeing, supporting balance, longevity, and a more intentional way of living.https://zaazenwellness.com/**FURTHER DETAILS ON 'I LIKE TO MOVE IT, MOVE IT!':LEVEL 1 - ONE MONTH COURSE, September 2026Focus: Body Awareness, Wellbeing & Movement FoundationsA one-month journey for people who don't think of themselves as 'dancers'.Curriculum | What we will explore:\u2022\tBody awareness and learning to listen to the body's signals\u2022\tBasic anatomy for movement\u2022\tAlignment, balance and coordination\u2022\tMobility, strength and movement efficiency\u2022\tBreath, energy and presence\u2022\tDifferent ways of moving through space\u2022\tImagination as a tool for movement\u2022\tBuilding confidence and comfort in your own bodyBy the end of the course you will:\u2022\tFeel more at home in your body\u2022\tMove with greater ease, confidence and freedom\u2022\tDevelop greater body awareness and self-understanding\u2022\tImprove mobility, coordination and physical wellbeing\u2022\tDiscover new ways of expressing yourself through movement\u2022\tBuild a strong foundation for further explorationLEVEL 2 (Available to those who have completed Level 1)Focus: Music, Space & Creative ExpressionLevel 2 expands the focus from the inner world to the world around us. Building on the foundations developed in Level 1, participants explore movement in relationship to music, space, objects, imagination and creative expression, while continuing to develop strength, confidence and overall health & wellbeing.Curriculum | What we'll explore:\u2022\tListening and responding to music\u2022\tRhythm, timing and musicality\u2022\tMoving in relationship to space and environment\u2022\tWorking with objects and others\u2022\tImprovisation and creative exploration\u2022\tUnderstanding connecting tissues and communicatorsBy the end of the course you will:\u2022\tDevelop a stronger connection to music and rhythm\u2022\tFeel more confident exploring and creating dance/movement\u2022\tExpand your expressive and creative range\u2022\tDiscover new ways of relating to the space and objects around you\u2022\tCultivate mind-body agility and integrated wellbeing\u2022\tExperience movement as a source of vitality, expression and play",
     "startDate": "2026-09-02T17:00:00+05:30",
     "endDate": "2026-09-02T17:01:00+05:30",
     "location": {
