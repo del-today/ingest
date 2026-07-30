@@ -306,47 +306,13 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charges of INR 1500 applicable at gates.\n",
-            "inventoryLevel": 180,
+            "inventoryLevel": 175,
             "name": "Phase 1 Pass",
             "url": "https://www.skillboxes.com/events/ticket/patrice-baumel-mirage-bangalore-sbeyipnf"
          }
       ],
       "startDate": "2026-08-14T20:00:00",
       "url": "https://www.skillboxes.com/events/patrice-baumel-mirage-bangalore-sbeyipnf"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "What happens when we stop chasing perfection?\r\n\r\n \r\n\r\nIn an age where algorithms can generate music, polish performances, and erase every flaw, Comfortably Dumb is a quiet act of resistance. It celebrates the things that make mu",
-      "endDate": "2026-09-05T23:59:00",
-      "identifier": "com.skillboxes.38654",
-      "image": "http://www.skillboxes.com/servers/v3/app/phplib/placeholders/video.svg",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "763, 100 Feet Rd, HAL 2nd Stage, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560008, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9711178",
-            "longitude": "77.6410673"
-         },
-         "name": "THE HUMMING TREE"
-      },
-      "name": "Comfortably Dumb | Album Launch Experience",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 24,
-            "name": "Early Bird Pass",
-            "url": "https://www.skillboxes.com/events/ticket/comfortably-dumb-album-launch-experience-sbditoxu"
-         }
-      ],
-      "startDate": "2026-09-05T20:00:00",
-      "url": "https://www.skillboxes.com/events/comfortably-dumb-album-launch-experience-sbditoxu"
    },
    {
       "@context": "https://schema.org",
@@ -698,14 +664,14 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "(Please carry a valid college ID card for venue entry verification)\n",
-            "inventoryLevel": 987,
+            "inventoryLevel": 982,
             "name": "Student Pass",
             "url": "https://www.skillboxes.com/events/ticket/primordium-vol-2-sberkfse"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 975,
+            "inventoryLevel": 970,
             "name": "Phase 1 Pass",
             "url": "https://www.skillboxes.com/events/ticket/primordium-vol-2-sberkfse"
          },
@@ -746,15 +712,15 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Additional cover of 1000 applicable at the gates, fully redeemable on FnB\n",
-            "inventoryLevel": 81,
+            "description": "Additional cover of 500 applicable at the gates, fully redeemable on FnB\n",
+            "inventoryLevel": 73,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/oafbiggigs-ed-9-pacifist-rascals-of-the-first-order-simplemanradio-sbaoeihd"
          },
          {
             "@type": "Offer",
             "availability": "SoldOut",
-            "description": "Additional cover of 1000 applicable at the gates, fully redeemable on FnB\n",
+            "description": "Additional cover of 500 applicable at the gates, fully redeemable on FnB\n",
             "inventoryLevel": 0,
             "name": "Early Bird Pass",
             "url": "https://www.skillboxes.com/events/ticket/oafbiggigs-ed-9-pacifist-rascals-of-the-first-order-simplemanradio-sbaoeihd"
@@ -789,7 +755,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 161,
+            "inventoryLevel": 141,
             "name": "Regular Pass",
             "url": "https://www.skillboxes.com/events/ticket/krsnanubhavam-acharya-anugraham-sbwkykwc"
          }
