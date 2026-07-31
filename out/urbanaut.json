@@ -1,80 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "The Matcha Circle",
-    "description": "OverviewA shared matcha-making experience where simple acts of whisking, pouring, and preparing create calm.People gather over matcha, conversation, and the quiet rhythm of making something by hand. One cup at a time.Matcha Experience: A Taste of CalmExperience the calming art of green tea in a session dedicated to mindfulness and flavor. This gathering is designed to help you slow down and appreciate the details of a centuries old tradition. \"The Matcha Circle\" offers a peaceful space to learn, taste, and connect at the end of a long week.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to ExpectGuided Introduction: Learn about the history and the unique process of preparing matcha from farm to cup.The Ritual: Watch and learn how the tea is whisked to create its signature froth and deep flavor.Tasting Session: Enjoy a premium matcha drink prepared just for you at Cha & Co.Quiet Conversation: Join a small group setting to talk about finding moments of peace in a busy week over a comforting cup.Details\ud83d\uddd3\ufe0f Date: 31st July (Friday)\u23f0 Time: 6:30 PM\ud83d\udccd Location: Cha & Co, Grand View High Street\ud83c\udf75 Inclusion: Matcha drink included\ud83c\udf9f\ufe0f Fee: \u20b9700",
-    "startDate": "2026-07-31T18:30:00+05:30",
-    "endDate": "2026-07-31T20:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Ireo Grand View High Street, Sector 58, Gurugram, Haryana 122098, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.41560020000000000000",
-        "longitude": "77.10258329999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "661.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/matcha-experience",
-    "keywords": [
-      "Leisure",
-      "Workshop",
-      "History & heritage",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Table For Ten | Food Club - Kerala Edition",
-    "description": "Table for Ten: The Heirloom EditionTable for Ten is an intimate, 7-course, shared experience built around a simple idea: food is never just food. It carries memories, histories, and the people who came before us. This edition takes that idea and looks at it through Kerala's cuisine. Every dish on the table has a history. Some recipes survived because families passed them down, some because they solved a problem and some simply because enough people decided they were worth keeping. Through shared activities and fun games, we will explore what gets carried forward across generations and what changes along the way (both food and otherwise). Our menu also looks at Malayali cuisine beyond dosa and idli!MenuKulukki Sarbath: Kerala's signature shaken lemon cooler with a spicy twistBanana Chips, Pappadam & Pickled Vegetables: Traditional crispy and savoury accompaniments to begin your mealBeetroot Kappa Salad // Chicken Kondattam: A refreshing salad of tapioca chips and beetroot with Kerala flavours // Crispy fried chicken tossed in soy sauce, chilli and curry leaf seasoningV for Vendekka // Buff Double Fry: Crispy, spice-marinated okra served as a starter // Crisp buffalo meat thinly sliced and double-fried with roasted Kerala spicesAppam with Vegetable Stew // Appam with Mutton Mappas: Thin, lacey rice flour pancakes with a delicate coconut milk based veg curry // ...mutton curryPuttu & Kadala Curry // Chicken Kizhi Porotta: Steamed rice cakes paired with Kerala-style black chickpea curry // Flaky Malabar porotta wrapped with spiced chicken and steamed in a banana leafPazham Pori, Coconut Jaggery Ice Cream & Sulaimani: Kerala-style banana fritters served with handcrafted coconut jaggery ice cream and a cup of black tea to seal the dealNote: If there's a specific non-vegetarian protein you don't eat, you'll be served the vegetarian alternative for that course.Who Are WeWe are Diya and Sanjula, a non-profit fundraiser who spends all her money trying out the new 'it' restaurant in town, and a therapist who would have been a food critic in another life. Between us, we share a belief that food is far more than what ends up on a plate. Reach us on Instagram @spoonsofdelhi_ or WhatsApp at +91 8448577626 for any queries.",
-    "startDate": "2026-07-31T19:00:00+05:30",
-    "endDate": "2026-07-31T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "First Floor, Commons, DLF Avenue Mall, AV-242, Saket District Centre, District Centre, Sector 6, Saket, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52857920000000000000",
-        "longitude": "77.21622980000001000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2039.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Table for Ten",
-      "url": "https://urbanaut.app/partner/table-for-ten"
-    },
-    "url": "https://urbanaut.app/spot/table-for-ten-food-club-kerala-edition",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Korean Inspired Supper Club by Chef Gulzi",
     "description": "Korean Supper Club by Chef GulziStep into an evening inspired by bold vibrant flavours of Korea.This fun ,intimate supper club brings korean inspired dishes comforting classics ,thoughtfully curated with the fresh ingredients and seasonal produceExpect smoky,umami,spicy and tangy flavoured shared in true korean spiritThis supper is a celebration of great food,warm conversations and unforgettable hospitalitycome hungry ,leave inspired",
@@ -340,7 +266,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Cookie Quest",
-    "description": "A foodie\u2019s dream morning made special with you buddy!!A little run, a lot of fun, and a delicious finish. The Cookie Quest is the ultimate Scavenger Hunt! Run around the mall, find all you need for the workshop and spend the best time baking cookies with your friend. There will be hygiene goodies from Sirona for everyone!Coming solo? You will go back with a new buddy!\ud83d\udccd Food Stories, Ambience Mall, Vasant Kunj\u23f0 8:00 AM \u2013 10:00 AM\ud83d\uddd3\ufe0f 2nd August 2026What\u2019s waiting for you:\u2022 Run + Scavneger Hunt across Ambience Mall.\u2022 A cookie making workshop.\u2022 We eat what we bake!\u2022 New friends, great conversations, and plenty of laughs\u2022 Goodies by SironaCome solo or bring your foodie squad - either way, you\u2019ll leave with happy memories, a full heart, and a sugar rush!",
+    "description": "A foodie\u2019s dream morning made special with you buddy!!A little run, a lot of fun, and a delicious finish. The Cookie Quest is the ultimate Scavenger Hunt! Run around the mall, find all you need for the workshop and spend the best time baking cookies with your friend. There will be hygiene goodies from Sirona for everyone!Coming solo? You will go back with a new buddy!\ud83d\udccd Food Stories, Ambience Mall, Vasant Kunj\u23f0 8:00 AM \u2013 10:00 AM\ud83d\uddd3\ufe0f 2nd August 2026What\u2019s waiting for you:\u2022 Run + Scavneger Hunt across Ambience Mall.\u2022 A cookie making workshop.\u2022 We eat what we bake!\u2022 New friends, great conversations, and plenty of laughs\u2022 Goodies from SironaCome solo or bring your foodie squad - either way, you\u2019ll leave with happy memories, a full heart, and a sugar rush!",
     "startDate": "2026-08-02T08:00:00+05:30",
     "endDate": "2026-08-02T10:00:00+05:30",
     "location": {
@@ -788,6 +714,43 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
+    "name": "Thread Carefully: DIY Journal/Photo Embroidery",
+    "description": "Your hands. Some thread. And a forever keepsake.Join us for an afternoon of photo & diary embroidery \u2014 meditative, tactile, and genuinely addictive once you pick up the needle. You'll learn to cross-stitch onto kraft diaries and/or printed photographs, adding texture and florals to your memories that deserve more.Choose your adventure:Embroider a photograph \u2014 bring your photo to life with thread and patternsEmbroider a diary \u2014 turn something ordinary into a keepsakeOr do both \u2014 why choose?Before you arrive, send us one cinematic or dramatic photo of yours (It doesn't need to have you in it \u2014 a cityscape, your pet, a random photo you're proud of all work, as long as it's got a strong moody, feel) at thegoodmessclub@gmail.com \u2014 we'll have it printed and ready for you on the day.Optional: Bring your cinematic photographs or soft-cover journal \u2014 they\u2019ll look stunning when embroidered.\ud83d\udcc5 Friday, 8 Aug \ud83d\udd52 3:00 PM \u2013 6:00 PM \ud83d\udccd Venue Kokoy, Sector 23 Gurgaon",
+    "startDate": "2026-08-08T15:30:00+05:30",
+    "endDate": "2026-08-08T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Plot 703, opposite Ansal Plaza, Sector 23, Gurugram, Haryana 122017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.51175300000000000000",
+        "longitude": "77.04351580000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Good Mess Club",
+      "url": "https://urbanaut.app/partner/the-good-mess-club"
+    },
+    "url": "https://urbanaut.app/spot/thread-carefully-diy-journal",
+    "keywords": [
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
     "name": "Zerodha Bootcamp: The FIRE Edition | Gurgaon",
     "description": "What to expectThis is a 3-hour in-person bootcamp, not a webinar, not a panel discussion, not a pitch for financial products. It's a structured, no-fluff session designed to give you a clear-headed look at what financial independence actually requires and what it realistically takes to get there.Ravi Handa will walk you through the numbers, the math, the common mistakes, and the decisions that actually move the needle in Hindi and English, so nothing gets lost in translation.By the time you leave, you'll have a much clearer answer to the question most people spend years avoiding: how much is enough, and am I on track?What's covered\u2014 The FIRE number: how to calculate what you actually need, not what sounds impressive\u2014 The savings rate question: why how much you save matters more than what you earn\u2014 Investment strategies that make early retirement achievable, not just theoretical\u2014 The mistakes people make in their 30s that cost them a decade of compounding\u2014 What happens after FIRE, the part nobody talks about enoughWho this is forAnyone who has thought about retiring before 60, whether that's a vague wish or a plan you're actively building. You don't need to be an expert investor. You don't need to already have a corpus. You just need to be willing to look at your finances honestly for three hours.Gurgaon's workforce is one of India's most financially capable, high earners, ambitious savers, people who have the means but not always the framework. This session is built for exactly that audience.About the speakerRavi Handa is the founder of Handa Uncle, an AI-powered platform built to simplify personal finance for Indian families. Having spent over a decade teaching and mentoring hundreds of thousands of learners, he now helps people navigate investing, retirement planning, and financial independence through practical, evidence-based frameworks.Tickets priced at: Rs. 399/- only. Limited seats available. ",
     "startDate": "2026-08-08T16:00:00+05:30",
@@ -856,6 +819,42 @@
       "Workshop",
       "History & heritage",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Wine Tasting: Battle of the Somms!",
+    "description": "Delhi, are you ready to battle it out for the best wines? \u2694\ufe0f\ud83c\udf77After three sold-out editions across Goa, Bangalore and Mumbai, Battle of the Somms is finally making its way to Delhi, and we're taking over the city's coolest speakeasy bar, Rumour, for one unforgettable evening.This isn't your usual wine tasting. It's an all-out wine showdown!Sommeliers Devati Mallick and Gargi Kothari go head-to-head, each presenting three spectacular Italian wines they've personally chosen to champion. Six wines. Two sommeliers. One winner. And the best part? YOU decide who the winning Somm is!Expect vibrant sparklings to top appellation reds, exciting producers, and fascinating stories behind every bottle. Add to that some playful rivalry, plenty of banter, and a room full of wine lovers ready to back their favourite Somm.Come hang out with us for an epic wine battle, meet fellow wine lovers, discover new wines, share opinions (loudly encouraged this time!), and spend an evening with a fun wine community.This battle happens for one night only, and seats are super limited. Choose your side. Cast your votes. May the best Somm win. \ud83c\udf77",
+    "startDate": "2026-08-08T18:00:00+05:30",
+    "endDate": "2026-08-08T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "12, Basant Lok, Vasant Vihar, New Delhi, Delhi 110057, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55844520000000000000",
+        "longitude": "77.16439330000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Drink With D",
+      "url": "https://urbanaut.app/partner/drinkwithd"
+    },
+    "url": "https://urbanaut.app/spot/battle-of-the-somms-wine-tasting-delhi",
+    "keywords": [
+      "Leisure",
       "URBANAUT"
     ]
   },
@@ -1678,6 +1677,44 @@
       "Workshop",
       "Walking Tour",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "August Spl : 1857 & Dilli - heritage walk in Ridge",
+    "description": "1857 UPRISING & DILLI: (A heritage walk at the Mutiny Memorial & it's neighbourhood in Kamla Nehru Ridge )The year 1857 marked a turning point in Indian history. What began as a sepoy mutiny in Meerut soon transformed into a widespread rebellion against British colonial rule. Within days, the rebelling sepoys marched to Delhi, a city symbolic of imperial power, where they declared the aging Mughal emperor Bahadur Shah Zafar as the leader of the uprising.The Mutiny Memorial, now known as Ajitgarh, is a prominent monument located on the Delhi Ridge, near Kashmere Gate. It was constructed in 1863 by the British to honor their soldiers and officials who died during the 1857 uprising.Let\u2019s explore the stories of the 1857 uprising and its impacts, at the Mutiny Memorial (a haunted site ) &  its neighborhood landmarks (Ashokan Pillar, Baoli, Pir Ghaib Hunting Lodge & the Hindu Rao Hospital)",
+    "startDate": "2026-08-22T08:00:00+05:30",
+    "endDate": "2026-08-22T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Kamla Nehru Ridge, Civil Lines, Delhi, 110007, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.67132190000000000000",
+        "longitude": "77.21076200000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/1857delhii",
+    "keywords": [
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
       "URBANAUT"
     ]
   },
