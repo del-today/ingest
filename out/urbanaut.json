@@ -1238,6 +1238,81 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Delhi Solitaire Open - Morning",
+    "description": "\u2728 *Delhi, are you ready? *\u2728The Mahjong Network \u00d7 Forevermark \u00d7 The Tile Club proudly present Delhi Solitaire Open - Delhi\u2019s First Friendly Mahjong Tournament \u2014 with exciting prizes up for grabs! \ud83c\udc04\ud83c\udfc6Spend a beautiful morning or afternoon at Forevermark, browse their exquisite jewellery collection, and then take your seat for an afternoon of friendly competition, great gameplay, and fabulous prizes.\ud83d\udcc5 Wednesday, 12 August 2026Session 1: 11:00 AM \u2013 1:00 PM\ud83d\udccd Forevermark, South Extension 1 , Delhi\ud83d\udcb0 Entry Fee: \u20b92,500 per player\u203c\ufe0f Players must know Passport and ATF Goulash.16 seats available per slot.Register now to be part of Delhi\u2019s very first friendly mahjong tournament!",
+    "startDate": "2026-08-12T11:00:00+05:30",
+    "endDate": "2026-08-12T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "39, Mahatma Gandhi Rd, South Extension I, Block F, New Delhi, Delhi 110049, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.56910310000000000000",
+        "longitude": "77.21964849999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Mahjong Network",
+      "url": "https://urbanaut.app/partner/the-mahjong-network"
+    },
+    "url": "https://urbanaut.app/spot/delhi-solitaire-open-morning",
+    "keywords": [
+      "Leisure",
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Delhi Solitaire Open - Afternoon",
+    "description": "\u2728 *Delhi, are you ready? *\u2728The Mahjong Network \u00d7 Forevermark \u00d7 The Tile Club proudly present Delhi Solitaire Open - Delhi\u2019s First Friendly Mahjong Tournament \u2014 with exciting prizes up for grabs! \ud83c\udc04\ud83c\udfc6Spend a beautiful morning or afternoon at Forevermark, browse their exquisite jewellery collection, and then take your seat for an afternoon of friendly competition, great gameplay, and fabulous prizes.\ud83d\udcc5 Wednesday, 12 August 2026Session 1: 2:30PM to 4:30PM\ud83d\udccd Forevermark, South Extension 1 , Delhi\ud83d\udcb0 Entry Fee: \u20b92,500 per player\u203c\ufe0f Players must know Passport and ATF Goulash.16 seats available per slot.Register now to be part of Delhi\u2019s very first friendly mahjong tournament!",
+    "startDate": "2026-08-12T14:30:00+05:30",
+    "endDate": "2026-08-12T16:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "39, Mahatma Gandhi Rd, South Extension I, Block F, New Delhi, Delhi 110049, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.56910310000000000000",
+        "longitude": "77.21964849999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Mahjong Network",
+      "url": "https://urbanaut.app/partner/the-mahjong-network"
+    },
+    "url": "https://urbanaut.app/spot/delhi-solitaire-open-afternoon",
+    "keywords": [
+      "Leisure",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Launching The Table Top Games Club @ Karol Bagh",
     "description": "\ud83c\udfb2 The Table Top Games Club Launch Night \u2014 Featuring Blood on the Clocktower\u200bJoin us for the launch of The Table Top Games Club at Steve and Dodo Cafe, Karol Bagh! \ud83c\udf89\u200bWe\u2019re kicking things off with Blood on the Clocktower, the acclaimed social deduction game of mystery, deception, teamwork and betrayal. Villagers must work together to uncover the Demon hiding among them \u2014 but in Ravenswood Bluff, everyone has something to say, and not everyone can be trusted. \ud83d\ude08\ud83d\udd70\ufe0f\u200bWhether you\u2019re a seasoned tabletop gamer or completely new to board games, come along, meet new people, bluff your friends, make accusations, and enjoy an evening around the table.\u200b\ud83c\udfb2 Featured Game: Blood on the Clocktower\ud83d\udcc5 Friday, 14 August 2026\u23f0 7:00 PM onwards\ud83d\udccd Steve and Dodo Cafe, Karol Bagh, Delhi\ud83c\udf9f\ufe0f Entry: \u20b9199 per person\u200bWe also play Catan, Sequence, Exploding Kittens, Deep Sea Adventure, Skull, Flip 7, Jaipur, Coup, Secret Hitler, Road Trip, Kabutar, Uninvited Guests to the Wedding and more.\u200bCome for the games. Stay for the people. Find your table. \ud83c\udfb2\u200bLimited seats \u2014 advance registration recommended.",
     "startDate": "2026-08-14T19:00:00+05:30",
