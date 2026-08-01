@@ -1,1 +1,121 @@
-[]
+[
+  {
+    "@type": "ScreeningEvent",
+    "name": "Battle Royale(2000)",
+    "url": "https://fillum.in/screening/5868",
+    "startDate": "2026-08-02T15:30:00+05:30",
+    "endDate": "2026-08-02T15:30:00+05:30",
+    "description": "A screening of the 2000 classic Battle Royale.",
+    "location": {
+      "@type": "Place",
+      "name": "Niv Art Centre,IGNOU CHOWK, Block A 1, Neb Sarai, Sainik Farm",
+      "address": "Sainik Farm, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "M!ME"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "The Seventh Seal(1957)",
+    "url": "https://fillum.in/screening/5894",
+    "startDate": "2026-08-02T16:30:00+05:30",
+    "endDate": "2026-08-02T16:30:00+05:30",
+    "description": "What would you ask if Death sat across from you?Step into one of the most iconic films in the history of world cinema. **The Seventh Seal (1957) by Ingmar Bergman is a haunting and visually unfo..more",
+    "location": {
+      "@type": "Place",
+      "name": "iPley Music Studio, GK-1",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "SomeArt"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Home Town Edition #3",
+    "url": "https://fillum.in/event/5895",
+    "startDate": "2026-08-02T18:30:00+05:30",
+    "endDate": "2026-08-02T18:30:00+05:30",
+    "description": "Films From Underground presents Hometown Edition #3 \u2014 keeping the spirit of indie cinema alive, one homegrown story at a time.Four films. Four voices. One evening that won't find its way to a ..more",
+    "location": {
+      "@type": "Place",
+      "name": "Fort City, Hauz Khas",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Films From Underground"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Partners of the Heart(2002)",
+    "url": "https://fillum.in/screening/5914",
+    "startDate": "2026-08-04T18:30:00+05:30",
+    "endDate": "2026-08-04T18:30:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "Lecture Room I, IIC Annexe",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "India International Centre"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Sophie Scholl: The Final Days(2005)",
+    "url": "https://fillum.in/screening/5836",
+    "startDate": "2026-08-04T19:00:00+05:30",
+    "endDate": "2026-08-04T19:00:00+05:30",
+    "description": "Free entry. Post-screening discussion with Vani Subramanian.",
+    "location": {
+      "@type": "Place",
+      "name": "Siddhartha Hall, Goethe-Institut",
+      "address": "Lodhi Road, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Goethe-Institut New Delhi"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Two Poets and a River(2021)",
+    "url": "https://fillum.in/screening/5915",
+    "startDate": "2026-08-05T18:30:00+05:30",
+    "endDate": "2026-08-05T18:30:00+05:30",
+    "description": "Free entry. Followed by a post screening discussion with the film-maker.",
+    "location": {
+      "@type": "Place",
+      "name": "Lecture Room I, IIC Annexe",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "India International Centre"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Oscurana / La Bonga",
+    "url": "https://fillum.in/event/5918",
+    "startDate": "2026-08-05T18:30:00+05:30",
+    "endDate": "2026-08-05T18:30:00+05:30",
+    "description": "Caminar en la oscuridad (Walking in the Dark) of the film series - Responding from the Mountains: A Cinematic Geography of the Caribbean. Through two powerful films from Colombia, Honduras and Mexic..more",
+    "location": {
+      "@type": "Place",
+      "name": "Instituto Cervantes",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Instituto Cervantes Nueva Delhi"
+    }
+  }
+]
