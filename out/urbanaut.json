@@ -1,46 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Korean Inspired Supper Club by Chef Gulzi",
-    "description": "Korean Supper Club by Chef GulziStep into an evening inspired by bold vibrant flavours of Korea.This fun ,intimate supper club brings korean inspired dishes comforting classics ,thoughtfully curated with the fresh ingredients and seasonal produceExpect smoky,umami,spicy and tangy flavoured shared in true korean spiritThis supper is a celebration of great food,warm conversations and unforgettable hospitalitycome hungry ,leave inspired",
-    "startDate": "2026-07-31T19:30:00+05:30",
-    "endDate": "2026-08-01T22:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Asian Games Village Complex, Siri Fort, New Delhi, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54751660000000000000",
-        "longitude": "77.21895940000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1899.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "SupperClubbyChefgulzi",
-      "url": null
-    },
-    "url": "https://urbanaut.app/spot/korean-inspired-supper-club-by-chef-gulzi",
-    "keywords": [
-      "Leisure",
-      "Local",
-      "Adventure",
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "The Drafting Table",
     "description": "OverviewA quiet writing circle for thoughts that haven\u2019t fully formed yet.Through short writing sprints and reflective prompts, people return to the practice ofputting words on paper, slowly and honestly. A place to begin.ThemeIn this edition of the Drafting Table: The Map That Lies.Every fantasy map is wrong somewhere. This session, write the moment your character notices the ground doesn't match the paper anymore.Then decide- keep walking, or start asking who drew the map in the first place.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to ExpectA Short Intro: We open with a brief framing of the theme and a prompt to get you started. No pressure to use it, just a way in.Writing Time: The bulk of the session is yours. Quiet, unhurried time to write whatever the character needs you to write.Open Mic: We close with an optional read-aloud. Share what you wrote, or just listen. Both are completely fine.Details\ud83d\uddd3\ufe0f Date: 1st August (Saturday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Joaah Cafe, Ireo City Central\ud83c\udf9f\ufe0f Fee: \u20b9700",
@@ -222,6 +182,46 @@
       "History & heritage",
       "Guided tour",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Korean Inspired Supper Club by Chef Gulzi",
+    "description": "Korean Supper Club by Chef GulziStep into an evening inspired by bold vibrant flavours of Korea.This fun ,intimate supper club brings korean inspired dishes comforting classics ,thoughtfully curated with the fresh ingredients and seasonal produceExpect smoky,umami,spicy and tangy flavoured shared in true korean spiritThis supper is a celebration of great food,warm conversations and unforgettable hospitalitycome hungry ,leave inspired",
+    "startDate": "2026-08-01T19:30:00+05:30",
+    "endDate": "2026-08-01T22:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Asian Games Village Complex, Siri Fort, New Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54751660000000000000",
+        "longitude": "77.21895940000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1899.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "SupperClubbyChefgulzi",
+      "url": null
+    },
+    "url": "https://urbanaut.app/spot/korean-inspired-supper-club-by-chef-gulzi",
+    "keywords": [
+      "Leisure",
+      "Local",
+      "Adventure",
+      "Pop-up Event",
+      "Food & drink",
       "URBANAUT"
     ]
   },
