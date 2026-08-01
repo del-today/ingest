@@ -1,43 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "The Drafting Table",
-    "description": "OverviewA quiet writing circle for thoughts that haven\u2019t fully formed yet.Through short writing sprints and reflective prompts, people return to the practice ofputting words on paper, slowly and honestly. A place to begin.ThemeIn this edition of the Drafting Table: The Map That Lies.Every fantasy map is wrong somewhere. This session, write the moment your character notices the ground doesn't match the paper anymore.Then decide- keep walking, or start asking who drew the map in the first place.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to ExpectA Short Intro: We open with a brief framing of the theme and a prompt to get you started. No pressure to use it, just a way in.Writing Time: The bulk of the session is yours. Quiet, unhurried time to write whatever the character needs you to write.Open Mic: We close with an optional read-aloud. Share what you wrote, or just listen. Both are completely fine.Details\ud83d\uddd3\ufe0f Date: 1st August (Saturday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Joaah Cafe, Ireo City Central\ud83c\udf9f\ufe0f Fee: \u20b9700",
-    "startDate": "2026-08-01T11:30:00+05:30",
-    "endDate": "2026-08-01T13:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Shop No. 18,19,28, Ascott Ireo City Central, behind Jagdish Store, Alahawas, Sector 59, Gurugram, Haryana 122011, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.40773430000000000000",
-        "longitude": "77.10356910000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "661.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/the-drafting-table",
-    "keywords": [
-      "Workshop",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Latin American Supper Brunch",
     "description": "Summer Edition of  our Latin American Supper Brunch Welcome to V\u2019s Supper Stories, where food is slow, stories are shared, and the table is the experience.This isn\u2019t a restaurant. It\u2019s a quiet corner of Saket, New Delhi, where once a week, 12\u201314 guests gather around one long table. No menus in hand. No loud music. Just seasonally inspired dishes, soft conversation, and the kind of atmosphere you remember long after dessert.On the menu - Pomelo & Apple Ceviche, Summer Tomato Tostada, Salsa Matcha Corn Pops, Brazilian Prawn Moqueca, Summer Vegetable Moqueca, Coconut Lime Rice and Tres Leches. Come solo or a +1. Come curious. Come for the quiet joy of a meal made with care.We\u2019re based in Saket, New Delhi \u2014 and the exact address is shared 24 hours before, because the feeling of discovery is part of what makes it special.Follow along at @vsupperstories for glimpses of the table, the food, and the people who bring it to life.",
@@ -106,44 +69,6 @@
     },
     "url": "https://urbanaut.app/spot/blood-on-the-clocktower-delhi",
     "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Where the Rain comes alive: Hauz-e-shamsi",
-    "description": "Explore the Hidden Summer Palace of the MughalsDiscover a lesser-known chapter of Delhi's history on a guided heritage walk through the historic summer retreat of the Mughal era in Mehrauli.Explore the historic fort complex, admire its ancient water reservoir, and learn about the water systems, gardens, architecture, and traditions that once shaped this remarkable heritage site. Through engaging storytelling, uncover the forgotten history of the palace and its connection with Delhi's rich cultural past.Experience an offbeat heritage trail and discover a fascinating side of Mehrauli.Places Covered1 Mughal-era Summer Palace2 Historic Fort Complex3 Ancient Water Reservoir4 Remains of the Orchard Gardens5 Heritage Structures within the Complex",
-    "startDate": "2026-08-01T16:00:00+05:30",
-    "endDate": "2026-08-01T17:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Mehrauli, New Delhi, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52048820000000000000",
-        "longitude": "77.17868690000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "700.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Enroute Indian History",
-      "url": "https://urbanaut.app/partner/enrouteindianhistory"
-    },
-    "url": "https://urbanaut.app/spot/where-the-rain-comes-alive-hauz-e-shamsi",
-    "keywords": [
-      "Adventure",
-      "Walking Tour",
-      "History & heritage",
       "URBANAUT"
     ]
   },
@@ -675,6 +600,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "From Mughals to Mutiny: Walk through the Lal Qila",
+    "description": "This is a heritage walk, being organized by Silsila, through Shah Jahan's imperial citadel, where architecture, courtly life and history come together to tell the story of Dilli. Built as the ceremonial heart of Shahjahanabad, the Red Fort went beyond being a royal residence. It was a carefully designed world of power, culture and artistic excellence. \ud83d\udc63From the bustling Chhatta Bazaar and the grandeur of the Diwan-i-Khas to the Hammam, Moti Masjid and Salimgarh Fort, this walk follows the Qila's remarkable transformation; from the seat of Mughal sovereignty to the upheavals of 1857 and its enduring place in India's freedom story.In this walk, we experience the Red Fort far more than a UNESCO World Heritage Site, but as a living archive of empire, resilience and memory; where every gateway, pavilion and courtyard reflects a different chapter of India's past. \u2728\ufe0fKnow Your Walk Leader:\ud83d\udcac Tavishi is a researcher & PhD scholar at IIT Jammu. She is also a former journalist, writer, radio presenter & history enthusiast with an MA in History from the University of Delhi. Tavishi is a keen observer of the city & its urban history & life, exploring how spaces, stories & people together shape Delhi\u2019s evolving identity.",
+    "startDate": "2026-08-08T11:00:00+05:30",
+    "endDate": "2026-08-08T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.65615920000000000000",
+        "longitude": "77.24102030000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "225.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Silsila Heritage",
+      "url": "https://urbanaut.app/partner/silsilaheritage"
+    },
+    "url": "https://urbanaut.app/spot/from-mughals-to-mutiny-walk-through-the-lal-qila",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Latin American Supper Brunch August",
     "description": "Summer Edition of  our Latin American Supper Brunch Welcome to V\u2019s Supper Stories, where food is slow, stories are shared, and the table is the experience.This isn\u2019t a restaurant. It\u2019s a quiet corner of Saket, New Delhi, where once a week, 12\u201314 guests gather around one long table. No menus in hand. No loud music. Just seasonally inspired dishes, soft conversation, and the kind of atmosphere you remember long after dessert.On the menu - Pomelo & Apple Ceviche, Summer Tomato Tostada, Salsa Matcha Corn Pops, Brazilian Prawn Moqueca, Summer Vegetable Moqueca, Coconut Lime Rice and Tres Leches. Come solo or a +1. Come curious. Come for the quiet joy of a meal made with care.We\u2019re based in Saket, New Delhi \u2014 and the exact address is shared 24 hours before, because the feeling of discovery is part of what makes it special.Follow along at @vsupperstories for glimpses of the table, the food, and the people who bring it to life.",
@@ -715,7 +678,7 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Thread Carefully: DIY Journal/Photo Embroidery",
-    "description": "Your hands. Some thread. And a forever keepsake.Join us for an afternoon of photo & diary embroidery \u2014 meditative, tactile, and genuinely addictive once you pick up the needle. You'll learn to cross-stitch onto kraft diaries and/or printed photographs, adding texture and florals to your memories that deserve more.Choose your adventure:Embroider a photograph \u2014 bring your photo to life with thread and patternsEmbroider a diary \u2014 turn something ordinary into a keepsakeOr do both \u2014 why choose?Before you arrive, send us one cinematic or dramatic photo of yours (It doesn't need to have you in it \u2014 a cityscape, your pet, a random photo you're proud of all work, as long as it's got a strong moody, feel) at thegoodmessclub@gmail.com \u2014 we'll have it printed and ready for you on the day.Optional: Bring your cinematic photographs or soft-cover journal \u2014 they\u2019ll look stunning when embroidered.\ud83d\udcc5 Friday, 8 Aug \ud83d\udd52 3:00 PM \u2013 6:00 PM \ud83d\udccd Venue Kokoy, Sector 23 Gurgaon",
+    "description": "Your hands. Some thread. And a forever keepsake.Join us for an afternoon of photo & diary embroidery \u2014 meditative, tactile, and genuinely addictive once you pick up the needle. You'll learn to cross-stitch onto kraft diaries and/or printed photographs, adding texture and florals to your memories that deserve more.Choose your adventure:Embroider a photograph \u2014 bring your photo to life with thread and patternsEmbroider a diary \u2014 turn something ordinary into a keepsakeOr do both \u2014 why choose?Before you arrive, send us one cinematic or dramatic photo of yours (It doesn't need to have you in it \u2014 a cityscape, your pet, a random photo you're proud of all work, as long as it's got a strong moody, feel) at thegoodmessclub@gmail.com \u2014 we'll have it printed and ready for you on the day.Optional: Bring your cinematic photographs or soft-cover journal \u2014 they\u2019ll look stunning when embroidered.\ud83d\udcc5 Saturday, 8 Aug \ud83d\udd52 3:00 PM \u2013 6:00 PM \ud83d\udccd Venue Kokoy, Sector 23 Gurgaon",
     "startDate": "2026-08-08T15:30:00+05:30",
     "endDate": "2026-08-08T18:00:00+05:30",
     "location": {
