@@ -1,81 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Latin American Supper Brunch",
-    "description": "Summer Edition of  our Latin American Supper Brunch Welcome to V\u2019s Supper Stories, where food is slow, stories are shared, and the table is the experience.This isn\u2019t a restaurant. It\u2019s a quiet corner of Saket, New Delhi, where once a week, 12\u201314 guests gather around one long table. No menus in hand. No loud music. Just seasonally inspired dishes, soft conversation, and the kind of atmosphere you remember long after dessert.On the menu - Pomelo & Apple Ceviche, Summer Tomato Tostada, Salsa Matcha Corn Pops, Brazilian Prawn Moqueca, Summer Vegetable Moqueca, Coconut Lime Rice and Tres Leches. Come solo or a +1. Come curious. Come for the quiet joy of a meal made with care.We\u2019re based in Saket, New Delhi \u2014 and the exact address is shared 24 hours before, because the feeling of discovery is part of what makes it special.Follow along at @vsupperstories for glimpses of the table, the food, and the people who bring it to life.",
-    "startDate": "2026-08-01T12:30:00+05:30",
-    "endDate": "2026-08-02T15:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Saiyad ul Ajaib, Sainik Farm, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52035400000000000000",
-        "longitude": "77.20257900000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3100.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "V's Supper Stories",
-      "url": "https://urbanaut.app/partner/vsupperstories"
-    },
-    "url": "https://urbanaut.app/spot/latinamericansupper",
-    "keywords": [
-      "Premium",
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Bazm-i-Havelis : Chandni Chowk",
-    "description": "Havelis of Chandni Chowk: Stories Behind the DoorsA guided heritage walk through the historic lanes of Chandni Chowk exploring the grand havelis of Shahjahanabad. The walk introduces participants to the architectural and cultural heritage of old Delhi, once home to merchants, poets and noble families.Through storytelling, the experience highlights the history of these havelis, their architectural features such as courtyards, jharokhas and wooden doors, and their transformation over time from the Mughal era to the present day.The walk offers insights into the social, cultural and economic life of historic Delhi as participants explore selected haveli sites in the area.Language of communication is Hindi and English.",
-    "startDate": "2026-08-02T07:30:00+05:30",
-    "endDate": "2026-08-02T09:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Chandni Chowk, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.65053310000000000000",
-        "longitude": "77.23033699999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "650.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Enroute Indian History",
-      "url": "https://urbanaut.app/partner/enrouteindianhistory"
-    },
-    "url": "https://urbanaut.app/spot/bazm-i-havelis-chandni-chowk",
-    "keywords": [
-      "History & heritage",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Cookie Quest",
     "description": "A foodie\u2019s dream morning made special with you buddy!!A little run, a lot of fun, and a delicious finish. The Cookie Quest is the ultimate Scavenger Hunt! Run around the mall, find all you need for the workshop and spend the best time baking cookies with your friend. There will be hygiene goodies from Sirona for everyone!Coming solo? You will go back with a new buddy!\ud83d\udccd Food Stories, Ambience Mall, Vasant Kunj\u23f0 8:00 AM \u2013 10:00 AM\ud83d\uddd3\ufe0f 2nd August 2026What\u2019s waiting for you:\u2022 Run + Scavneger Hunt across Ambience Mall.\u2022 A cookie making workshop.\u2022 We eat what we bake!\u2022 New friends, great conversations, and plenty of laughs\u2022 Goodies from SironaCome solo or bring your foodie squad - either way, you\u2019ll leave with happy memories, a full heart, and a sugar rush!",
@@ -183,6 +108,44 @@
     "keywords": [
       "Leisure",
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Latin American Supper Brunch",
+    "description": "Summer Edition of  our Latin American Supper Brunch Welcome to V\u2019s Supper Stories, where food is slow, stories are shared, and the table is the experience.This isn\u2019t a restaurant. It\u2019s a quiet corner of Saket, New Delhi, where once a week, 12\u201314 guests gather around one long table. No menus in hand. No loud music. Just seasonally inspired dishes, soft conversation, and the kind of atmosphere you remember long after dessert.On the menu - Pomelo & Apple Ceviche, Summer Tomato Tostada, Salsa Matcha Corn Pops, Brazilian Prawn Moqueca, Summer Vegetable Moqueca, Coconut Lime Rice and Tres Leches. Come solo or a +1. Come curious. Come for the quiet joy of a meal made with care.We\u2019re based in Saket, New Delhi \u2014 and the exact address is shared 24 hours before, because the feeling of discovery is part of what makes it special.Follow along at @vsupperstories for glimpses of the table, the food, and the people who bring it to life.",
+    "startDate": "2026-08-02T12:30:00+05:30",
+    "endDate": "2026-08-02T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Saiyad ul Ajaib, Sainik Farm, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52035400000000000000",
+        "longitude": "77.20257900000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3100.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "V's Supper Stories",
+      "url": "https://urbanaut.app/partner/vsupperstories"
+    },
+    "url": "https://urbanaut.app/spot/latinamericansupper",
+    "keywords": [
+      "Premium",
+      "Pop-up Event",
+      "Food & drink",
       "URBANAUT"
     ]
   },
