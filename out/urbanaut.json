@@ -1,82 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Latin American Supper Brunch",
-    "description": "Summer Edition of  our Latin American Supper Brunch Welcome to V\u2019s Supper Stories, where food is slow, stories are shared, and the table is the experience.This isn\u2019t a restaurant. It\u2019s a quiet corner of Saket, New Delhi, where once a week, 12\u201314 guests gather around one long table. No menus in hand. No loud music. Just seasonally inspired dishes, soft conversation, and the kind of atmosphere you remember long after dessert.On the menu - Pomelo & Apple Ceviche, Summer Tomato Tostada, Salsa Matcha Corn Pops, Brazilian Prawn Moqueca, Summer Vegetable Moqueca, Coconut Lime Rice and Tres Leches. Come solo or a +1. Come curious. Come for the quiet joy of a meal made with care.We\u2019re based in Saket, New Delhi \u2014 and the exact address is shared 24 hours before, because the feeling of discovery is part of what makes it special.Follow along at @vsupperstories for glimpses of the table, the food, and the people who bring it to life.",
-    "startDate": "2026-08-02T12:30:00+05:30",
-    "endDate": "2026-08-02T15:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Saiyad ul Ajaib, Sainik Farm, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52035400000000000000",
-        "longitude": "77.20257900000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3100.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "V's Supper Stories",
-      "url": "https://urbanaut.app/partner/vsupperstories"
-    },
-    "url": "https://urbanaut.app/spot/latinamericansupper",
-    "keywords": [
-      "Premium",
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Play Like A Girl",
-    "description": "SWAG girls, this one's for you! We want to turn this Friendship Day into the ultimate girls' playdate!We'll kick things off with a feel-good 3 KM Community Run, through Lodhi Gardens before heading to The Blue Court for an evening full of play! Pick up a shuttle, grab the paddle or swing the bat. Pickleball, Cricket, Badminton, we are playing it all! Just like old times...It's Friendship Day, of course we have a buddy pass, challenges you can win with your friends and much more! Eprise drinks will be there to keep you hydrated!Coming solo? It's the best place to make new friends.No pressure. No judgement. Just a bunch of SWAG Girlies showing up, laughing through the misses, celebrating the wins, and creating memories!Here's the game plan:5:00 PM \u2013 Meet at Athula Bridge, Lodhi Garden.5:10 PM \u2013 Warm-up5:20 PM \u2013 3 KM run through Lodhi Garden (ending at The Blue Court, DTEA Senior Secondary School, Lodhi Estate)6:00 PM \u2013 Cool down6 - 7 PM \u2013 Badminton & Pickleball6 \u2013 7:30 PM \u2013 Cricket7 - 7:30 PM - Buddy ChallengesCome solo or with your girls. This isn't just another sports meet-up. It's a SWAG exclusive -made for women who are ready to play, cheer, and have way too much fun doing it.",
-    "startDate": "2026-08-02T17:00:00+05:30",
-    "endDate": "2026-08-02T19:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Lodhi Rd, Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59309590000000000000",
-        "longitude": "77.21967939999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swagames",
-    "keywords": [
-      "Adventure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Night Heritage walk :  Humayun's Tomb & Museum",
     "description": "Step into the grandeur of Humayun's Tomb with us for an immersive Night heritage walk that goes beyond stone and symmetry.Curated by Darwesh Heritage Walks in collaboration with Sabhyata Foundation.We will not only explore the monument\u2019s magnificent architecture, its Persian influences, and its place in the evolution of Mughal design \u2014 but also rediscover Humayun himself, perhaps the most underestimated of the Mughals. His struggles, exile, return, and legacy shaped the empire in ways we rarely pause to notice.\"Driven from his throne, yet never from his destiny's embrace,Humayun's return laid the path on which Akbar would leave his trace\"Our journey will then continue to the Humayun's Tomb Museum \u2014 because no visit to the tomb is truly complete without experiencing the stories, artefacts, and narratives preserved there.Come, walk through history \u2014 and meet the emperor behind the monument.",
@@ -264,44 +188,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Run Like A Girl",
-    "description": "SWAG girls, this one's for you.We're turning an ordinary evening into the ultimate girls' playground. Pick up a shuttle, grab the paddle or kick the ball. Pickleball, Football, Badminton, we are playing it all!No pressure. No judgement. Just a bunch of SWAG Girlies showing up, laughing through the misses, celebrating the wins, and creating memories!5:50 PM \u2013 Meet Up & Warm Up6 - 7 PM \u2013 Game TimeCome solo or with your girls. This isn't just another sports meet-up. It's a SWAG exclusive -made for women who are ready to play, cheer, and have way too much fun doing it.",
-    "startDate": "2026-08-08T08:00:00+05:30",
-    "endDate": "2026-08-08T10:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "NH-8, Ambience Island, DLF Phase 3, Sector 24, Gurugram, Haryana 122002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.50487480000000000000",
-        "longitude": "77.09695940000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag45",
-    "keywords": [
-      "Adventure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Partition 1947 & Delhi heritage walk @Purana Qila",
     "description": "Join Us for Partition 1947 & Delhi heritage walk & Baithak at Purana Qila Curated by Darwesh heritage walks in collaboration with Sabhyata FoundationFrom nuclear proliferation to terrorism, the Partition of India continues to cast its shadow even today. Join us for a Baithak that seeks to understand the complex experiences of Partition\u2014an event that remains deeply misunderstood both within and beyond the subcontinent. Through facts, poetry, literature, photographs, paintings, and personal belongings, we will revisit this significant chapter of history. Discover how Partition shaped Delhi\u2019s culture and internal geography.Why at Purana Qila: because it was used as a refugee camp in 1947 & afterwards.Kuch Pal Purana Qila Ke Naam! (suitable for 10 years & above)* Duration: 2.5 hours approx * Language: A blend of Hindi, Urdu & English(Special invitation to senior citizens, as this session involves less walking!)* Baithak Host: Nitika-Meeting point: Purana Qila ticket counter --Nearest metro station: Supreme Court- Instagram: Darwesh_taleweavers",
     "startDate": "2026-08-08T08:00:00+05:30",
@@ -372,6 +258,41 @@
       "Premium",
       "Pop-up Event",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "IAG Afternoon #1 Biases Bingo",
+    "description": "IAG Afternoons are small, hosted gatherings built around fascinating ideas.An IAG Afternoon is not a conventional workshop, lecture or networking event. It is a carefully hosted social experience with an interesting idea at its heart.The intention is simple:Come curious. Spend a lovely afternoon. Leave with something to think about.Each IAG Afternoon explores one idea connected to the experience of being human - how we think, feel, relate, make decisions, understand ourselves and make sense of the world around us.The ideas may draw on psychology, behavioural science, philosophy, culture, relationships, creativity or everyday life. They are brought to life through a combination of games, activities, stories, conversation and reflection.IAG AFTERNOON #1BIASES BINGOWhat to expectWe\u2019re thrilled to partner with SHACK COFFEE CO. for the first of our IAG Afternoons.This time, we\u2019re exploring biases and blind spots: the mental shortcuts and patterns that influence what we notice, how we interpret information and the 'speed dial' conclusions our wonderful brains make about people and situations.Drawing on ideas from cognitive psychology and behavioural science, we\u2019ll explore some of the biases that shape everyday thinking and look into why they can often be so difficult to recognise.Whether you\u2019re already familiar with concepts such as confirmation bias, the halo effect and fundamental attribution error or are encountering them for the first time, there\u2019ll be opportunities to test what you know and to look at familiar ideas in new ways.You\u2019ll also have time to relax, chat and get to know the other people in the room (if you want to!)Your afternoon includes:\u2022\tA couple of playful, game-inspired experiences, facilitated by Shena Gamat\u2022\tInteresting ideas drawn from psychology and behavioural science\u2022\tConversation, connection and fresh perspectives\u2022\tOne beverage\u2022\tA small IAG takeaway to take homeDuration: Approximately 2 hours, 3-5pmContribution: \u20b9500 per personABOUT SHENA GAMATShena is a theatre practitioner, voice artist and corporate trainer with over two decades of experience in performance and facilitation. Her background spans film, international theatre tours and voice work.She has built a magazine, run a theatre company, been on leadership teams, built grassroots programmes, created communities and facilitated learning.Most recently, she is the founder of It\u2019s All Good, a platform that curates immersive micro-festivals, experiences and workshops focused on joy, well-being & community engagement.Her sessions combine theatre tools, voice work, learning design and behavioural frameworks to help participants connect to their own presence and live with clarity & confidence.She is also a certified Learning & Development Manager.ABOUT SHACK COFFEE CO.Shack Coffee Co. is about a 14 years old reboot of a cafe project. Shack is still about three things.1. Tasty coffee. We roast our coffee, which is without jargon and fuss.2. Delicious food. We prepare everything in house. We obsess about rustic Italian food such as panini.3. A real place for bootstrappers. It's about real connections, and not a fancy meet up.ABOUT IT'S ALL GOOD | The Science and Art of JoyMany people feel stuck, exasperated, low, or just plain bored in their lives. We provide a platform for fun and engaging experiences that foster insight and empowerment.Connect | Learn | Thrive!INSTAGRAM LINK CLICK HERE",
+    "startDate": "2026-08-08T15:00:00+05:30",
+    "endDate": "2026-08-08T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "143 A, Ground Floor, Shahpur Jat, Siri Fort, New Delhi, Delhi 110049, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54782230000000000000",
+        "longitude": "77.21647519999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "IT'S ALL GOOD",
+      "url": "https://urbanaut.app/partner/itsallgood"
+    },
+    "url": "https://urbanaut.app/spot/iag-afternoon-1",
+    "keywords": [
       "URBANAUT"
     ]
   },
@@ -929,6 +850,41 @@
     "keywords": [
       "Food & drink",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "'Mind Your Language' by Dr. Medusssa",
+    "description": "About the lectureLanguage is what defines us as a species. It is what makes us, humans, the cut above the rest, the top G, the alpha. Language is also a weapon. In the hands of the State, it is a tool of provocation, manipulation, and even dissemination. In the hands of the citizens, it is a tool to inspire, dissent and fight. What else? Let's find out.Join us for a lecture with Dr. Madri Kakoti, Assistant Professor at the University of Lucknow and widely known as @dr.medusssa on Instagram. *Every ticket includes a \u20b9500 redeemable cover charge, which can be adjusted against your final bill.",
+    "startDate": "2026-08-09T15:00:00+05:30",
+    "endDate": "2026-08-09T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1250.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Dead Politics Society",
+      "url": "https://urbanaut.app/partner/dead-politics-society"
+    },
+    "url": "https://urbanaut.app/spot/mind-your-language-by-dr-madri-kakoti",
+    "keywords": [
       "URBANAUT"
     ]
   },
