@@ -1,44 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Night Heritage walk :  Humayun's Tomb & Museum",
-    "description": "Step into the grandeur of Humayun's Tomb with us for an immersive Night heritage walk that goes beyond stone and symmetry.Curated by Darwesh Heritage Walks in collaboration with Sabhyata Foundation.We will not only explore the monument\u2019s magnificent architecture, its Persian influences, and its place in the evolution of Mughal design \u2014 but also rediscover Humayun himself, perhaps the most underestimated of the Mughals. His struggles, exile, return, and legacy shaped the empire in ways we rarely pause to notice.\"Driven from his throne, yet never from his destiny's embrace,Humayun's return laid the path on which Akbar would leave his trace\"Our journey will then continue to the Humayun's Tomb Museum \u2014 because no visit to the tomb is truly complete without experiencing the stories, artefacts, and narratives preserved there.Come, walk through history \u2014 and meet the emperor behind the monument.",
-    "startDate": "2026-08-02T19:00:00+05:30",
-    "endDate": "2026-08-02T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Hazrat Nizamuddin Aulia Dargah, Mathura Rd, Nizamuddin, Nizamuddin East, New Delhi, Delhi 110013, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59328480000000000000",
-        "longitude": "77.25074920000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "800.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "DARWESH_TALEWEAVERS",
-      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
-    },
-    "url": "https://urbanaut.app/spot/humayuntombwalk",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Slow Burn - A 4 Course Drinking Experience",
     "description": "Tucked into a corner of Lodhi Colony, The Love Hotel is Delhi's best-kept secret \u2014 a 20-seat cocktail room that takes its cues from the love hotels of Japan. It's intimate without being intense, flirtatious without trying too hard.Slow Burn is a four-course cocktail tasting built for this room \u2014 but where most tasting menus put food at the centre, here the cocktails play hero.It begins the second you walk in with a welcome shot. From there, four cocktails unfold in sequence \u2014 each its own chapter, drawn from the same five-taste philosophy that powers The Love Hotel's acclaimed program. Every pour lands with a course of tapas alongside it.An evening where the spirit leads, and the plate follows. And with only twenty seats, the room stays intimate & exclusive.",
@@ -144,6 +106,44 @@
       "Workshop",
       "Walking Tour",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Road To THE ISAND",
+    "description": "The journey to The Island begins here.Road to The Island is the first chapter of our flagship IP\u2014bringing together electronic music, art, creativity, and community for an experience that goes beyond the dance floor.The night unfolds across two distinct spaces: ARENA and BAZAAR.ARENAA carefully curated electronic music experience featuring **House, Afro House, Indie Dance, Disco, and more**, with a dance floor built around great music, immersive energy, and unforgettable moments.BAZAARStep away from the music and explore a curated collection of experiences designed to spark curiosity and self-expression. CLOTHING: Discover thoughtfully curated apparel from The KRYP and wear a piece of the culture. TAROT READER: Have your cards read and discover what the universe might have in store. FLASH TATTOO: Choose from a selection of temporary flash tattoo designs and wear a piece of the night with you. ORIGINAL ARTWORK: Discover and shop original artworks created by independent artists.Music. Art. Creativity. Self-expression. A room full of people worth meeting.Road to The Island is only the beginning.Come for the music. Stay for the experience.Welcome to The Island.\u200bEntry is via our guestlist. There is a mandatory cover charge of Rs. 500 which is fully redeemable at the venue.Terms & ConditionsMandatory \u20b9500 cover charge is applicable per person.Rs. 500 cover is fully redeemable at the venueClub rules apply \u2013 management reserves the right of admissionZero tolerance for bad vibes. Any violence or inappropriate behaviour gets you kicked out-no second chances.",
+    "startDate": "2026-08-07T21:00:00+05:30",
+    "endDate": "2026-08-07T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Second Floor, PVR Priya, Basant Lok, Vasant Vihar, New Delhi, Delhi 110057, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55749080000000000000",
+        "longitude": "77.16440010000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "590.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Subcultural Music",
+      "url": "https://urbanaut.app/partner/subcultural-music"
+    },
+    "url": "https://urbanaut.app/spot/road-to-the-isand",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -1143,6 +1143,45 @@
     "url": "https://urbanaut.app/spot/cinema-circle",
     "keywords": [
       "Leisure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Epiloguers Club: Silent Reading Session 16 Aug",
+    "description": "What to expect?\u200bShow up with a book you are currently reading or a book off of your dusty shelf and settle in silently to an hour of quiet reading in nature's lap.\u200bWe'll have literary ice-breakers, followed by an hour of silent reading, after which you can choose to talk about your bookish interests, recent reads, the book you were reading in the meet today. Possibilities are endless.We know how difficult it often is to get a quiet space to get that reading goal of yours closer. So we decided to use this format to provide that space.Who we are?\u200bWe are The Epiloguers Club, a book club for the people who after finishing a book crave to share their thoughts and invite discussion.\u200bOur name comes from the epilogue, that final, quiet space at the end of a story where loose ends are gathered and story settles in with its sigh or boom. We live in that space. We pull it apart, debate it, and keep it alive long after the book is closed.\u200bOur meets follow a bring-your-own-book format built around a conceptual theme, which means you arrive with one book and usually leave with twelve recommendations and at least three new interpretations of your own.    \u200bThis is our first silent reading session to take off the pressure from the usual meets.\u200bYou can follow us on Instagram for more updates: @the_epiloguers_clubTerms and ConditionsTickets once booked are non-refundable, non-modifiable, and non-transferable, except if the event is cancelled by the organiser. Entry is permitted only upon presenting a valid booking confirmation.\u200bSpots are limited and allocated on a first-come, first-served basis.\u200bPlease arrive at least 15 minutes before the event begins. Join silently without disturbing others.\u200bThe organisers reserve the right remove any participant whose behaviour is disruptive, abusive, or inappropriate.\u200bPhotography and videography may take place during the event. By attending, participants consent to being photographed or recorded for The Epiloguers Club\u2019s promotional and social media purposes.\u200bParticipants are responsible for their own safety & personal belongings. The organisers, platform and the venue shall not be liable for any injury, loss, theft, or damage.\u200bIn case of unforeseen circumstances (force majeure, venue restrictions, weather, or emergencies), the event may be rescheduled or modified at the organizers' discretion. Any updates will be communicated to registered participants, usually through whatsapp.\u200bThe Epiloguers Club\u2019s reserves the right to make changes to the event schedule, activities, or venue if required to ensure the smooth conduct of the experience.\u200bThe platform acts solely as a ticketing facilitator and is not responsible for event management or safety.",
+    "startDate": "2026-08-16T11:00:00+05:30",
+    "endDate": "2026-08-16T12:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Nehru park, Ramnagar, Chanakyapuri, New Delhi, Delhi 110021, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59096880000000000000",
+        "longitude": "77.19320030000002000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Epiloguers Club",
+      "url": "https://urbanaut.app/partner/the-epiloguers-club"
+    },
+    "url": "https://urbanaut.app/spot/the-epiloguers-club-silent-reading-session-16-aug",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Workshop",
+      "Art & culture",
       "URBANAUT"
     ]
   },
