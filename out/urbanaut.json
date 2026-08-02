@@ -1,118 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Cookie Quest",
-    "description": "A foodie\u2019s dream morning made special with you buddy!!A little run, a lot of fun, and a delicious finish. The Cookie Quest is the ultimate Scavenger Hunt! Run around the mall, find all you need for the workshop and spend the best time baking cookies with your friend. There will be hygiene goodies from Sirona for everyone!Coming solo? You will go back with a new buddy!\ud83d\udccd Food Stories, Ambience Mall, Vasant Kunj\u23f0 8:00 AM \u2013 10:00 AM\ud83d\uddd3\ufe0f 2nd August 2026What\u2019s waiting for you:\u2022 Run + Scavneger Hunt across Ambience Mall.\u2022 A cookie making workshop.\u2022 We eat what we bake!\u2022 New friends, great conversations, and plenty of laughs\u2022 Goodies from SironaCome solo or bring your foodie squad - either way, you\u2019ll leave with happy memories, a full heart, and a sugar rush!",
-    "startDate": "2026-08-02T08:00:00+05:30",
-    "endDate": "2026-08-02T10:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Ground Floor, Ambience Mall, Ambience Island, Vasant Kunj II, Vasant Kunj, New Delhi, Delhi 110070, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54154910000000000000",
-        "longitude": "77.15531680000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "349.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag39",
-    "keywords": [
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Groove Like A Girl",
-    "description": "Grab your bestie-or come solo-and hit the dance floor for the ultimate throwback party this Friendship Day.We're dancing our way through the songs that raised us: 2000s Bollywood bangers, Disney sing-alongs, One Direction anthems, Taylor Swift favourites, and iconic early 2010s hits. Expect a high-energy, beginner-friendly dance workout where the only goal is to have fun. Once we've danced our hearts out, we'll head to SHIFT (the coffee is on us) and there\u2019s Subko Coffee on the house(all classics - ice latte, cold coffee etc), conversations, and a relaxed community hangout.Whether you're catching up with old friends or meeting new ones, this is your chance to celebrate friendship, nostalgia, and good vibes.\u2728 Buddy Tickets for duos who do everything together.\u2728 Solo Tickets for anyone who's ready to make new friends. Because nothing says friendship like dancing to the songs you both still know by heart.",
-    "startDate": "2026-08-02T09:00:00+05:30",
-    "endDate": "2026-08-02T11:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Magnum Global Park, The Boulevard, Sector 58, Gurugram, Haryana 122102, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.41158530000000000000",
-        "longitude": "77.10725540000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "549.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/friendship-day",
-    "keywords": [
-      "Wellness",
-      "Workshop",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "The Art of Folding",
-    "description": "The Art of FoldingOverviewA quiet practice of shaping and stillness.Using origami as a meditative, hands-on experience, participants slow down through simple folds and repetitive movement. One fold at a time.No fancy paper needed. This is a hands-on origami session using whatever you have lying around at home. Blinkit bags, newspapers, old book pages, packaging paper. If it folds, it works. Come make something with it.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.ThemeFor the Pets We Love\tA quiet way to celebrate the animals who bring us comfort, joy, and companionship.Details\ud83d\uddd3\ufe0f Date: 2nd August (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Cha & Co, Grand View High Street\ud83c\udf9f\ufe0f Fee: \u20b9700",
-    "startDate": "2026-08-02T11:30:00+05:30",
-    "endDate": "2026-08-02T13:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Ireo Grand View High Street, Sector 58, Gurugram, Haryana 122098, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.41560020000000000000",
-        "longitude": "77.10258329999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "661.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/the-art-of-folding",
-    "keywords": [
-      "Leisure",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Latin American Supper Brunch",
     "description": "Summer Edition of  our Latin American Supper Brunch Welcome to V\u2019s Supper Stories, where food is slow, stories are shared, and the table is the experience.This isn\u2019t a restaurant. It\u2019s a quiet corner of Saket, New Delhi, where once a week, 12\u201314 guests gather around one long table. No menus in hand. No loud music. Just seasonally inspired dishes, soft conversation, and the kind of atmosphere you remember long after dessert.On the menu - Pomelo & Apple Ceviche, Summer Tomato Tostada, Salsa Matcha Corn Pops, Brazilian Prawn Moqueca, Summer Vegetable Moqueca, Coconut Lime Rice and Tres Leches. Come solo or a +1. Come curious. Come for the quiet joy of a meal made with care.We\u2019re based in Saket, New Delhi \u2014 and the exact address is shared 24 hours before, because the feeling of discovery is part of what makes it special.Follow along at @vsupperstories for glimpses of the table, the food, and the people who bring it to life.",
@@ -184,43 +72,6 @@
       "Adventure",
       "Wellness",
       "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Raat ke afsaane  : Lodhi Garden Walk",
-    "description": "Lodhi Garden Heritage WalkStep into the rich history of Delhi with an evening heritage walk through the beautiful and historic Lodhi Garden.Explore the magnificent monuments, striking architecture, hidden narratives, and lesser-known stories of the Lodhi period as you discover the history that surrounds this iconic green space.Join us for an engaging journey through history, culture, and architecture, and experience Lodhi Garden through stories that bring its past to life.",
-    "startDate": "2026-08-02T18:00:00+05:30",
-    "endDate": "2026-08-02T19:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Lodhi Rd, Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59309590000000000000",
-        "longitude": "77.21967939999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "650.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Enroute Indian History",
-      "url": "https://urbanaut.app/partner/enrouteindianhistory"
-    },
-    "url": "https://urbanaut.app/spot/fathers-day-special-lodhi-garden-walk",
-    "keywords": [
-      "Walking Tour",
-      "Guided tour",
       "URBANAUT"
     ]
   },
@@ -407,6 +258,44 @@
       "Walking Tour",
       "Food & drink",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Run Like A Girl",
+    "description": "SWAG girls, this one's for you.We're turning an ordinary evening into the ultimate girls' playground. Pick up a shuttle, grab the paddle or kick the ball. Pickleball, Football, Badminton, we are playing it all!No pressure. No judgement. Just a bunch of SWAG Girlies showing up, laughing through the misses, celebrating the wins, and creating memories!5:50 PM \u2013 Meet Up & Warm Up6 - 7 PM \u2013 Game TimeCome solo or with your girls. This isn't just another sports meet-up. It's a SWAG exclusive -made for women who are ready to play, cheer, and have way too much fun doing it.",
+    "startDate": "2026-08-08T08:00:00+05:30",
+    "endDate": "2026-08-08T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "NH-8, Ambience Island, DLF Phase 3, Sector 24, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.50487480000000000000",
+        "longitude": "77.09695940000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag45",
+    "keywords": [
+      "Adventure",
+      "Wellness",
+      "Active",
       "URBANAUT"
     ]
   },
