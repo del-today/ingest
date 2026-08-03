@@ -117,5 +117,56 @@
       "@type": "Organization",
       "name": "Out of Sequence"
     }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Tetsuo: The Iron Man(1989)",
+    "url": "https://fillum.in/screening/5926",
+    "startDate": "2026-08-08T18:00:00+05:30",
+    "endDate": "2026-08-08T18:00:00+05:30",
+    "description": "A \"metal fetishist\" (Shin'ya Tsukamoto), driven mad by the maggots wriggling in the wound he's made to embed metal into his flesh, runs out into the night and is accidentally run down by a Japanese ..more",
+    "location": {
+      "@type": "Place",
+      "name": "mool, south ex II",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Akira(1988)",
+    "url": "https://fillum.in/screening/5866",
+    "startDate": "2026-08-09T12:00:00+05:30",
+    "endDate": "2026-08-09T12:00:00+05:30",
+    "description": "Screening the greatest Anime film ever made.",
+    "location": {
+      "@type": "Place",
+      "name": "Niv Art Centre,IGNOU CHOWK, Block A 1, Neb Sarai, Sainik Farm",
+      "address": "Sainik Farm, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "M!ME"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Outsider: Freud(2024)",
+    "url": "https://fillum.in/screening/5916",
+    "startDate": "2026-08-10T18:30:00+05:30",
+    "endDate": "2026-08-10T18:30:00+05:30",
+    "description": "Free entry.",
+    "location": {
+      "@type": "Place",
+      "name": "Lecture Room I, IIC Annexe",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "India International Centre"
+    }
   }
 ]

@@ -2,6 +2,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Baddy with Baddies | Mehrauli",
+    "description": "Grab your racket and bring your best energy - it's time for Baddy with Baddies \ud83c\udff8\u2728, a women-only badminton meet-up where the only goal is to have fun.Whether you've got a sneaky smash up your sleeve or you're simply looking for a fun way to move, this session is all about friendly rallies, big laughs, and moving your body in great company. Expect good vibes, and a community of women who are here to play, cheer each other on, and enjoy the sport.So if you've been looking for an excuse to get back on the court (or step onto one for the first time), this is it.\ud83d\udcc5 Wednesday, 5th August\ud83d\udd57 8:00 PM \u2013 9:00 PMCome solo or with your girls - you'll leave with a great workout, a few new friends, and probably plans for a rematch.",
+    "startDate": "2026-08-05T20:00:00+05:30",
+    "endDate": "2026-08-05T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "near Qutab Minar Metro Station, Aam Bagh, Ladha Sarai Village, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.51514850000000000000",
+        "longitude": "77.18640390000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "299.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/baddy",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Grounds For Thought: August Lineup",
     "description": "Grounds for Thought: August 2026A Blue Tokai \u00d7 unLecture SeriesFour Thursday evenings. Four very different conversations. Grounds for Thought is a monthly series where Blue Tokai and unLecture bring researchers, scientists, and thinkers out of their institutions and into a coffee shops. The format is simple: an expert, a room full of curious people, and a conversation that goes somewhere a classroom rarely does.6th August: Shambhavi TiwariPossessed: The Ghost, The Asylum, The Priest, and the PeopleWhen someone in rural India is \"possessed by a ghost,\" they encounter not just their family and their priest, but eventually \u2014 often \u2014 a psychiatrist. Two completely different frameworks for what has gone wrong, and what healing looks like. This session uses spirit possession across Indian cultural contexts to examine what happens when indigenous knowledge systems and clinical medicine cross paths. PhD researcher Shambhavi Tiwari, who has spent years in this space, asks: superstition, myth, knowledge system, or something else entirely?13th August: Dr. Vishwas ChitaleZoom In, Zoom Out: What India's Climate Risk Looks Like at Ground LevelEveryone has heard the national climate numbers. But zoom into a district, and the picture changes entirely \u2014 neighbouring areas with opposite risk profiles, and disaster plans built on averages too coarse to catch where the real danger sits. Dr. Vishwas Chitale, Fellow at CEEW, will walk us through India's climate risk from the national level down to your own neighbourhood \u2014 and then hand the tool to the room. Participants will pull up their own hometown's actual climate risk profile live, using CRAVIS, CEEW's climate intelligence platform. You'll leave having done a small piece of the research yourself.20th August: Antara ChakrabartyFrom Village to Viral: How Folk Music Got a Second LifeA seventeenth-century Sufi verse now has a hundred million YouTube views. The songs of Lalon Fakir, Bengal's wandering poet-saint, are uniting two Bengals and two centuries through a single melody. This session traces folk music's remarkable journey \u2014 from Punjab's Sufi shrines and Bengal's riverside Baul gatherings to studio stages and streaming platforms \u2014 and asks the questions nobody quite wants to answer. Who owns a folk song? What happens when heritage becomes entertainment? Does something get lost in translation, or does it simply learn a new way to survive? Expect live music, a few surprises, and a fresh way of listening to songs you may already love.27th August: Sunaina SaxenaWhat is a Clean Street Worth?Why are two seemingly identical houses priced so differently? This session explores one of environmental economics' most elegant tools, hedonic pricing, to answer a question most of us have never thought to ask: does the cleanliness of a neighbourhood have a measurable economic value? Through stories, discussion, and simple examples, researcher Sunaina Saxena explores how clean streets, reliable waste collection, and a healthy living environment become embedded in housing prices \u2014 and what that reveals about our cities and the choices we make about where we live.",
     "startDate": "2026-08-06T18:30:00+05:30",
@@ -68,6 +106,82 @@
     "url": "https://urbanaut.app/spot/slow-burn-martini-cocktail-tasting-menu",
     "keywords": [
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Pickleball with SWAG | Gurugram",
+    "description": "The SWAG Pickleball Party is your perfect evening plan!This is a women-only, beginner-friendly meet-up.See you on court!",
+    "startDate": "2026-08-06T20:00:00+05:30",
+    "endDate": "2026-08-06T21:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Sportyzo Sports Academy, Sector 65, Gurugram, Haryana 122101, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40450950000000000000",
+        "longitude": "77.07416250000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "360.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag23",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Baddy with Baddies | Gurugram",
+    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.8:20 PM Meet up and Warm up Time8:30 PM Game TimeSee you on court!",
+    "startDate": "2026-08-06T20:30:00+05:30",
+    "endDate": "2026-08-06T21:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Sportyzo Badminton Academy, Emaar emerald hills, Golf Course Ext Rd, opposite Ivory Block, Sector 65, Gurugram, Haryana 122011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40465650000000000000",
+        "longitude": "77.07401440000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "279.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag22",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
       "URBANAUT"
     ]
   },
@@ -300,6 +414,41 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Blood on the Clocktower - Trouble Brewing",
+    "description": "\u200bDuring a hellish thunderstorm, a scream echoes through the sleepy town of Ravenswood Bluff. The townsfolk rush to investigate and find the beloved local storyteller has been murdered, their body hanging limp from the clocktower. As blood drips onto the cobblestones below, a realisation slowly dawns\u2026 a demon has been unleashed, killing by night and taking on human form by day. Can good find the demon in time? Or will evil overrun this once peaceful town?What is BotC?\u200bBlood on the Clocktower is a game of murder and mystery, lies and logic, deduction and deception for five-to-twenty courageous players and one devious storyteller.\u200bA social game played in person, seated in a circle, each player receives either a \u2018good\u2019 or \u2018evil\u2019 token with their unique character on it. Good players share information to solve the mystery whilst evil players lie about who they are and what they know. The good team wins if they can piece together their knowledge, trust each other, and execute the demon. The evil team wins if the demon can sow distrust, evade detection, and wipe out the town.",
+    "startDate": "2026-08-08T15:00:00+05:30",
+    "endDate": "2026-08-08T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gate no 3, 4/23-B, Asaf Ali Rd, opp. Metro Station, Chatta lal Miya, Delhi Gate, Daryaganj, New Delhi, Delhi, 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64083430000000000000",
+        "longitude": "77.23897370000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "215.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Table Top Games Club",
+      "url": "https://urbanaut.app/partner/the-table-top-games-club"
+    },
+    "url": "https://urbanaut.app/spot/blood-on-the-clocktower-trouble-brewing-15588",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "IAG Afternoon #1 Biases Bingo",
     "description": "IAG Afternoons are small, hosted gatherings built around fascinating ideas.An IAG Afternoon is not a conventional workshop, lecture or networking event. It is a carefully hosted social experience with an interesting idea at its heart.The intention is simple:Come curious. Spend a lovely afternoon. Leave with something to think about.Each IAG Afternoon explores one idea connected to the experience of being human - how we think, feel, relate, make decisions, understand ourselves and make sense of the world around us.The ideas may draw on psychology, behavioural science, philosophy, culture, relationships, creativity or everyday life. They are brought to life through a combination of games, activities, stories, conversation and reflection.IAG AFTERNOON #1BIASES BINGOWhat to expectWe\u2019re thrilled to partner with SHACK COFFEE CO. for the first of our IAG Afternoons.This time, we\u2019re exploring biases and blind spots: the mental shortcuts and patterns that influence what we notice, how we interpret information and the 'speed dial' conclusions our wonderful brains make about people and situations.Drawing on ideas from cognitive psychology and behavioural science, we\u2019ll explore some of the biases that shape everyday thinking and look into why they can often be so difficult to recognise.Whether you\u2019re already familiar with concepts such as confirmation bias, the halo effect and fundamental attribution error or are encountering them for the first time, there\u2019ll be opportunities to test what you know and to look at familiar ideas in new ways.You\u2019ll also have time to relax, chat and get to know the other people in the room (if you want to!)Your afternoon includes:\u2022\tA couple of playful, game-inspired experiences, facilitated by Shena Gamat\u2022\tInteresting ideas drawn from psychology and behavioural science\u2022\tConversation, connection and fresh perspectives\u2022\tOne beverage\u2022\tA small IAG takeaway to take homeDuration: Approximately 2 hours, 3-5pmContribution: \u20b9500 per personABOUT SHENA GAMATShena is a theatre practitioner, voice artist and corporate trainer with over two decades of experience in performance and facilitation. Her background spans film, international theatre tours and voice work.She has built a magazine, run a theatre company, been on leadership teams, built grassroots programmes, created communities and facilitated learning.Most recently, she is the founder of It\u2019s All Good, a platform that curates immersive micro-festivals, experiences and workshops focused on joy, well-being & community engagement.Her sessions combine theatre tools, voice work, learning design and behavioural frameworks to help participants connect to their own presence and live with clarity & confidence.She is also a certified Learning & Development Manager.ABOUT SHACK COFFEE CO.Shack Coffee Co. is about a 14 years old reboot of a cafe project. Shack is still about three things.1. Tasty coffee. We roast our coffee, which is without jargon and fuss.2. Delicious food. We prepare everything in house. We obsess about rustic Italian food such as panini.3. A real place for bootstrappers. It's about real connections, and not a fancy meet up.ABOUT IT'S ALL GOOD | The Science and Art of JoyMany people feel stuck, exasperated, low, or just plain bored in their lives. We provide a platform for fun and engaging experiences that foster insight and empowerment.Connect | Learn | Thrive!INSTAGRAM LINK CLICK HERE",
     "startDate": "2026-08-08T15:00:00+05:30",
@@ -513,6 +662,44 @@
       "Workshop",
       "History & heritage",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Smash Like A Girl (Tennis) | Delhi",
+    "description": "\u200bHi girls! It\u2019s time to Smash Like a Girl \u2014 because we\u2019re finally bringing you TENNIS!This is a women-only, beginner-friendly, guided tennis meet-up.5:35 PM Meet Up & Warm Up5:45 PM Game TimeSee you on court!",
+    "startDate": "2026-08-08T17:45:00+05:30",
+    "endDate": "2026-08-08T18:45:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "J6HH+MMC, Barakhamba Rd, Todermal Road Area, Mandi House, New Delhi, Delhi 110001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.62917610000000000000",
+        "longitude": "77.22913750000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "495.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag40",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
       "URBANAUT"
     ]
   },
@@ -927,6 +1114,82 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Dunk Like A Girl",
+    "description": "SWAG's first-ever Basketball Session is here!Grab your sneakers and bring your best energy - it's time for Dunk Like A Girl \ud83c\udff8\u2728, a women-only basketball meet-up where the only goal is to have fun.Whether you've played before or you're trying basketball for the first time, everyone is welcome. We'll play easy games, cheer each other on, and enjoy an hour full of movement, fun, and good vibes.So if you've been looking for an excuse to get back on the court (or step onto one for the first time), this is it.\ud83d\udcc5 Wednesday, 9th August\ud83d\udd57 6:00 PM \u2013 7:00 PMCome solo or with your girls - you'll leave with a great workout, a few new friends, and probably plans for a rematch.",
+    "startDate": "2026-08-09T18:00:00+05:30",
+    "endDate": "2026-08-09T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Nandi Vithi Rd, N Block, Greater Kailash I, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55579910000000000000",
+        "longitude": "77.23527080000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "199.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/basketball-w-swag",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Baddy with Baddies | GK 1",
+    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.5:50 PM Meet up and Warm up Time6:00 PM Game TimeSee you on court!",
+    "startDate": "2026-08-09T18:00:00+05:30",
+    "endDate": "2026-08-09T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Nandi Vithi Rd, N Block, Greater Kailash I, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55579910000000000000",
+        "longitude": "77.23527080000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "295.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag41",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Safdarjung Tomb Night Heritage Walk",
     "description": "Safdarjung\u2019s Tomb Heritage Walkcurated by Darwesh heritage walks in collaboration with Sabhyata Foundation.Join us for a journey into the fading glow of Mughal splendour at Safdarjung's Tomb \u2014 often called the *last flicker of Mughal grandeur* in Delhi.Built in 1754 for Safdarjung, the powerful Nawab of Awadh and Prime Minister of the Mughal court, this monument stands at the twilight of an empire \u2014 grand in ambition, yet carrying within it the quiet signs of decline.Its story is as fascinating as its form. From courtly intrigues and shifting loyalties to the architectural choices that reveal a changing political landscape, Safdarjung\u2019s life opens a compelling window into 18th-century Delhi.We will also trace a lesser-known layer of its history \u2014 how this tomb was constructed by reusing material from a pre-existing Mughal structure, quite literally building one memory over another.To truly understand Delhi \u2014 its rise, its resilience, and its gradual transitions \u2014 a visit to Safdarjung\u2019s Tomb is essential.Come, walk with us through the final chapter of Mughal architectural brilliance \u2014 where grandeur meets gravity, and history lingers in every arch.",
     "startDate": "2026-08-09T18:00:00+05:30",
@@ -1107,6 +1370,43 @@
     },
     "url": "https://urbanaut.app/spot/launching-the-table-top-games-club-karol-bagh",
     "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "A 4-course dessert tasting supper",
+    "description": " We are hosting a dessert tasting experience for people who believe dessert deserves its own evening.This is a four-course dessert menu, served course by course, with a cocktail. We are hosting just 8 guests each evening, making it an intimate and fun way to meet new people in the city over great desserts and conversation.\ud83d\udccd Gurgaon (exact location shared 24 hours before the event)Pull up a chair with us. You never know whom you'll meet at The Other Seat.Menu attached.Hope to see you at the table,\u2028The Other Seat",
+    "startDate": "2026-08-14T19:30:00+05:30",
+    "endDate": "2026-08-15T16:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gurugram, Haryana, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.45949650000000000000",
+        "longitude": "77.02663830000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3150.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "THE OTHER SEAT",
+      "url": "https://urbanaut.app/partner/the-other-seat"
+    },
+    "url": "https://urbanaut.app/spot/a-4-course-dessert-tasting-supper",
+    "keywords": [
+      "Pop-up Event",
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -1632,6 +1932,44 @@
     "keywords": [
       "History & heritage",
       "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Epiloguers Club: Book Club Meet on 23rd August",
+    "description": "August theme: Escapism Into Adrenaline RushDedicated to Keigo HigashinoJoin us this month in our book-club meet honoring Keigo Higashino, where escapism meets mystery and detective fiction, and thrillers & suspense becomes a way to chase clues, dodge fear, and look closer at the truth.What to expect?Bring any mystery, thriller, detective fiction that fits the theme, Higashino is welcome, not required. We\u2019ll discuss where the story makes you complicit, what you assumed, and whether the thrill comes more from the external chase or the internal reckoning. Some of our recommendations are mentioned here.Show up with a book you have recently read which fits the theme and enjoy a stimulating conversation over coffee with other book lovers. We'll have literary ice-breakers, followed by a guided discussion about your book, in which you can tell us why you picked it, why it fits the theme, plot, setting, pace, what you liked or disliked about it, anything & everything, as long as it is spoiler-free. After this we will open the floor for other readers to ask you questions and do some deep diving.Don\u2019t worry, it\u2019s a safe space and a leisure activity, not a test. Sit back, enjoy, please do engage & ask questions & clarifications from other readers; but most importantly arrive in the discussions from a place of curiosity instead of judgment.Please arrive at the cafe by 11:45 AM so we can settle in and start together at Noon!Who we are?We are The Epiloguers Club, a book club for the people who after finishing a book crave to share their thoughts and invite discussion.Our name comes from the epilogue, that final, quiet space at the end of a story where loose ends are gathered and story settles in with its sigh or boom. We live in that space. We pull it apart, debate it, and keep it alive long after the book is closed.Our meets follow a bring-your-own-book format built around a conceptual theme, which means you arrive with one book and usually leave with twelve recommendations and at least three new interpretations of your own.You can follow us on Instagram for more updates: @the_epiloguers_clubEvent Terms & Conditions:Tickets once booked are non-refundable, non-modifiable, and non-transferable, except if the event is cancelled by the organiser. Entry is permitted only upon presenting a valid booking confirmation.Spots are limited and allocated on a first-come, first-served basis.Please arrive at least 15 minutes before the event begins. Late entry may be restricted to avoid disturbing the experience.The organisers reserve the right to refuse entry or remove any participant whose behaviour is disruptive, abusive, or inappropriate.Photography and videography may take place during the event. By attending, participants consent to being photographed or recorded for The Epiloguers Club\u2019s promotional and social media purposes.Participants are responsible for their own safety & personal belongings. The organisers, platform and the venue shall not be liable for any injury, loss, theft, or damage.In case of unforeseen circumstances (force majeure, venue restrictions, weather, or emergencies), the event may be rescheduled or modified at the organizers' discretion. Any updates will be communicated to registered participants, usually through whatsapp.The Epiloguers Club\u2019s reserves the right to make changes to the event schedule, activities, or venue if required to ensure the smooth conduct of the experience.The platform acts solely as a ticketing facilitator and is not responsible for event management or safety.",
+    "startDate": "2026-08-23T11:45:00+05:30",
+    "endDate": "2026-08-23T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "South Delhi, New Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.49291980000000000000",
+        "longitude": "77.18479210000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Epiloguers Club",
+      "url": "https://urbanaut.app/partner/the-epiloguers-club"
+    },
+    "url": "https://urbanaut.app/spot/the-epiloguers-club-august-bookclub-theme-meet",
+    "keywords": [
+      "Leisure",
+      "Workshop",
       "Art & culture",
       "URBANAUT"
     ]
