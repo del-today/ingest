@@ -280,7 +280,7 @@
     "typicalAgeRange": "25+",
     "offers": {
       "@type": "Offer",
-      "price": "590.00",
+      "price": "500.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -370,6 +370,42 @@
       "History & heritage",
       "Guided tour",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Cyanotype Workshop",
+    "description": "The workshop on the Cyanotype Process is an immersive one-day workshop where the participants learn the historic 19th century printmaking process and get to create their own unique handmade prints on both paper & fabric and take them home.What You'll ExperienceGain an introduction to Cyanotype through guided learning and hands-on practice.History of Cyanotype: Learn about the origin of Cyanotype, an alternative printing technique through a brief presentation.Science of Cyanotype: Mix chemicals and coat your own surfaces in a hands-on darkroom setting. Creation & Patience: Compose with natural elements and watch your images develop through light and time.Your Final Prints: Wash and finish the prints you've created to take home.",
+    "startDate": "2026-08-08T11:15:00+05:30",
+    "endDate": "2026-08-16T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shri Ganesh Mandir Marg, Sector 28, DLF Phase IV, Gurugram, Haryana 122009, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46961600000000000000",
+        "longitude": "77.08038510000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "4000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Museo Camera",
+      "url": "https://urbanaut.app/partner/museo-camera"
+    },
+    "url": "https://urbanaut.app/spot/cyanotype-workshop-15572",
+    "keywords": [
+      "Workshop",
       "URBANAUT"
     ]
   },
@@ -1114,82 +1150,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Dunk Like A Girl",
-    "description": "SWAG's first-ever Basketball Session is here!Grab your sneakers and bring your best energy - it's time for Dunk Like A Girl \ud83c\udff8\u2728, a women-only basketball meet-up where the only goal is to have fun.Whether you've played before or you're trying basketball for the first time, everyone is welcome. We'll play easy games, cheer each other on, and enjoy an hour full of movement, fun, and good vibes.So if you've been looking for an excuse to get back on the court (or step onto one for the first time), this is it.\ud83d\udcc5 Wednesday, 9th August\ud83d\udd57 6:00 PM \u2013 7:00 PMCome solo or with your girls - you'll leave with a great workout, a few new friends, and probably plans for a rematch.",
-    "startDate": "2026-08-09T18:00:00+05:30",
-    "endDate": "2026-08-09T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Nandi Vithi Rd, N Block, Greater Kailash I, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55579910000000000000",
-        "longitude": "77.23527080000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "199.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/basketball-w-swag",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Baddy with Baddies | GK 1",
-    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.5:50 PM Meet up and Warm up Time6:00 PM Game TimeSee you on court!",
-    "startDate": "2026-08-09T18:00:00+05:30",
-    "endDate": "2026-08-09T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Nandi Vithi Rd, N Block, Greater Kailash I, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55579910000000000000",
-        "longitude": "77.23527080000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "295.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag41",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Safdarjung Tomb Night Heritage Walk",
     "description": "Safdarjung\u2019s Tomb Heritage Walkcurated by Darwesh heritage walks in collaboration with Sabhyata Foundation.Join us for a journey into the fading glow of Mughal splendour at Safdarjung's Tomb \u2014 often called the *last flicker of Mughal grandeur* in Delhi.Built in 1754 for Safdarjung, the powerful Nawab of Awadh and Prime Minister of the Mughal court, this monument stands at the twilight of an empire \u2014 grand in ambition, yet carrying within it the quiet signs of decline.Its story is as fascinating as its form. From courtly intrigues and shifting loyalties to the architectural choices that reveal a changing political landscape, Safdarjung\u2019s life opens a compelling window into 18th-century Delhi.We will also trace a lesser-known layer of its history \u2014 how this tomb was constructed by reusing material from a pre-existing Mughal structure, quite literally building one memory over another.To truly understand Delhi \u2014 its rise, its resilience, and its gradual transitions \u2014 a visit to Safdarjung\u2019s Tomb is essential.Come, walk with us through the final chapter of Mughal architectural brilliance \u2014 where grandeur meets gravity, and history lingers in every arch.",
     "startDate": "2026-08-09T18:00:00+05:30",
@@ -1394,7 +1354,7 @@
     "typicalAgeRange": "25+",
     "offers": {
       "@type": "Offer",
-      "price": "3150.00",
+      "price": "2890.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -2241,7 +2201,7 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Level 1 - I LIKE TO MOVE IT MOVE IT! EARLY BIRD",
-    "description": "I LIKE TO MOVE IT, MOVE IT! Dancing for Non-Dancers is a playful movement and body-awareness practice. It invites you to rediscover movement not as performance or technique, but as a process of curiosity.The programme expands movement vocabulary, deepens mind-body awareness and develops a broader appreciation of what dance can be.Participants leave with a deeper understanding of their bodies and movement patterns, greater responsiveness to music and rhythm and practical tools that support mobility, adaptability, physical wellbeing and long-term vitality.(Warning: Side effects may include increased spontaneity, killer dance moves and unexpected joy.)Every WEDNESDAY (5-7pm) and every SATURDAY (11am-1pm) for the month of SEPTEMBER, 2026Rs. 15,000/- for the month, Level 1 courseEarly bird (till August 15): Rs. 12,000/-(Please click on the 'Sept 2nd 5:00-5:01pm' option for ticket booking - this entitles you to the FULL MONTH of classes)Further details on what we will explore during the course are mentioned below.**ABOUT SHENAShena Gamat is a theatre practitioner, voice artist and learning & development professional with over two decades of experience in performance and facilitation. Her background spans film, international theatre tours and voice work.Shena has built a magazine, run a theatre company, been on leadership teams, built grassroots programmes, created communities and facilitated learning. She is a qualified Movement Therapist and the founder of It\u2019s All Good, an initiative for fun and engaging experiences that foster insight and empowerment.Her sessions combine theatre tools, voice work, learning design and behavioural frameworks to help participants connect to their own presence and live with clarity & confidence.*ABOUT IT\u2019S ALL GOODThe Science and Art of JoyIAG is an initiative aimed at returning to joy in a complex world. IAG offers workshops, talks, performances and micro-festivals that explore the human condition, delving into how to live with ease and clarity (and humour!).Insta : https://www.instagram.com/itsallgood.space*ZAAZEN WELLNESSZaazen is a holistic wellness sanctuary for both men and women. A space designed for anyone seeking to slow down, restore, and reconnect at any stage of life.Reimagined in 2025, Zaazen brings together therapeutic bodywork, recovery practices, movement, and modern wellness treatments within a calm, refined setting. Today, it stands as an integrative hub for overall wellbeing, supporting balance, longevity, and a more intentional way of living.https://zaazenwellness.com/**FURTHER DETAILS ON 'I LIKE TO MOVE IT, MOVE IT!':LEVEL 1 - ONE MONTH COURSE, September 2026Focus: Body Awareness, Wellbeing & Movement FoundationsA one-month journey for people who don't think of themselves as 'dancers'.Curriculum | What we will explore:\u2022\tBody awareness and learning to listen to the body's signals\u2022\tBasic anatomy for movement\u2022\tAlignment, balance and coordination\u2022\tMobility, strength and movement efficiency\u2022\tBreath, energy and presence\u2022\tDifferent ways of moving through space\u2022\tImagination as a tool for movement\u2022\tBuilding confidence and comfort in your own bodyBy the end of the course you will:\u2022\tFeel more at home in your body\u2022\tMove with greater ease, confidence and freedom\u2022\tDevelop greater body awareness and self-understanding\u2022\tImprove mobility, coordination and physical wellbeing\u2022\tDiscover new ways of expressing yourself through movement\u2022\tBuild a strong foundation for further explorationLEVEL 2 (Available to those who have completed Level 1)Focus: Music, Space & Creative ExpressionLevel 2 expands the focus from the inner world to the world around us. Building on the foundations developed in Level 1, participants explore movement in relationship to music, space, objects, imagination and creative expression, while continuing to develop strength, confidence and overall health & wellbeing.Curriculum | What we'll explore:\u2022\tListening and responding to music\u2022\tRhythm, timing and musicality\u2022\tMoving in relationship to space and environment\u2022\tWorking with objects and others\u2022\tImprovisation and creative exploration\u2022\tUnderstanding connecting tissues and communicatorsBy the end of the course you will:\u2022\tDevelop a stronger connection to music and rhythm\u2022\tFeel more confident exploring and creating dance/movement\u2022\tExpand your expressive and creative range\u2022\tDiscover new ways of relating to the space and objects around you\u2022\tCultivate mind-body agility and integrated wellbeing\u2022\tExperience movement as a source of vitality, expression and play",
+    "description": "I LIKE TO MOVE IT, MOVE IT! Dancing for Non-Dancers is a playful movement and body-awareness practice. It invites you to rediscover movement not as performance or technique, but as a process of curiosity.The programme expands movement vocabulary, deepens mind-body awareness and develops a broader appreciation of what dance can be.Participants leave with a deeper understanding of their bodies and movement patterns, greater responsiveness to music and rhythm and practical tools that support mobility, adaptability, physical wellbeing and long-term vitality.(Warning: Side effects may include increased spontaneity, killer dance moves and unexpected joy.)Every WEDNESDAY (5-7pm) and every SATURDAY (11am-1pm) for the month of SEPTEMBER, 2026Rs. 15,000/- for the month, Level 1 courseEarly bird (till August 20): Rs. 12,000/-(Please click on the 'Sept 2nd 5:00-5:01pm' option for ticket booking - this entitles you to the FULL MONTH of classes)Further details on what we will explore during the course are mentioned below.**ABOUT SHENAShena Gamat is a theatre practitioner, voice artist and learning & development professional with over two decades of experience in performance and facilitation. Her background spans film, international theatre tours and voice work.Shena has built a magazine, run a theatre company, been on leadership teams, built grassroots programmes, created communities and facilitated learning. She is a qualified Movement Therapist and the founder of It\u2019s All Good, an initiative for fun and engaging experiences that foster insight and empowerment.Her sessions combine theatre tools, voice work, learning design and behavioural frameworks to help participants connect to their own presence and live with clarity & confidence.*ABOUT IT\u2019S ALL GOODThe Science and Art of JoyIAG is an initiative aimed at returning to joy in a complex world. IAG offers workshops, talks, performances and micro-festivals that explore the human condition, delving into how to live with ease and clarity (and humour!).Insta : https://www.instagram.com/itsallgood.space*ZAAZEN WELLNESSZaazen is a holistic wellness sanctuary for both men and women. A space designed for anyone seeking to slow down, restore, and reconnect at any stage of life.Reimagined in 2025, Zaazen brings together therapeutic bodywork, recovery practices, movement, and modern wellness treatments within a calm, refined setting. Today, it stands as an integrative hub for overall wellbeing, supporting balance, longevity, and a more intentional way of living.https://zaazenwellness.com/**FURTHER DETAILS ON 'I LIKE TO MOVE IT, MOVE IT!':LEVEL 1 - ONE MONTH COURSE, September 2026Focus: Body Awareness, Wellbeing & Movement FoundationsA one-month journey for people who don't think of themselves as 'dancers'.Curriculum | What we will explore:\u2022\tBody awareness and learning to listen to the body's signals\u2022\tBasic anatomy for movement\u2022\tAlignment, balance and coordination\u2022\tMobility, strength and movement efficiency\u2022\tBreath, energy and presence\u2022\tDifferent ways of moving through space\u2022\tImagination as a tool for movement\u2022\tBuilding confidence and comfort in your own bodyBy the end of the course you will:\u2022\tFeel more at home in your body\u2022\tMove with greater ease, confidence and freedom\u2022\tDevelop greater body awareness and self-understanding\u2022\tImprove mobility, coordination and physical wellbeing\u2022\tDiscover new ways of expressing yourself through movement\u2022\tBuild a strong foundation for further explorationLEVEL 2 (Available to those who have completed Level 1)Focus: Music, Space & Creative ExpressionLevel 2 expands the focus from the inner world to the world around us. Building on the foundations developed in Level 1, participants explore movement in relationship to music, space, objects, imagination and creative expression, while continuing to develop strength, confidence and overall health & wellbeing.Curriculum | What we'll explore:\u2022\tListening and responding to music\u2022\tRhythm, timing and musicality\u2022\tMoving in relationship to space and environment\u2022\tWorking with objects and others\u2022\tImprovisation and creative exploration\u2022\tUnderstanding connecting tissues and communicatorsBy the end of the course you will:\u2022\tDevelop a stronger connection to music and rhythm\u2022\tFeel more confident exploring and creating dance/movement\u2022\tExpand your expressive and creative range\u2022\tDiscover new ways of relating to the space and objects around you\u2022\tCultivate mind-body agility and integrated wellbeing\u2022\tExperience movement as a source of vitality, expression and play",
     "startDate": "2026-09-02T17:00:00+05:30",
     "endDate": "2026-09-02T17:01:00+05:30",
     "location": {
