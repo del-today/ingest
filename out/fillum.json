@@ -35,6 +35,23 @@
   },
   {
     "@type": "ScreeningEvent",
+    "name": "Cesar and Rosalie(1972)",
+    "url": "https://fillum.in/screening/5958",
+    "startDate": "2026-08-06T18:30:00+05:30",
+    "endDate": "2026-08-06T18:30:00+05:30",
+    "description": "Free entry. French film with English subtitles. No registration required.",
+    "location": {
+      "@type": "Place",
+      "name": "M. L. Bhartia Auditorium, Alliance Fran\u00e7aise",
+      "address": "Lodhi Road, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Alliance Fran\u00e7aise de Delhi"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "Masculin F\u00e9minin(1966)",
     "url": "https://fillum.in/screening/5923",
     "startDate": "2026-08-08T12:00:00+05:30",
@@ -103,6 +120,23 @@
   },
   {
     "@type": "ScreeningEvent",
+    "name": "Borderlands(2021)",
+    "url": "https://fillum.in/screening/5947",
+    "startDate": "2026-08-09T11:30:00+05:30",
+    "endDate": "2026-08-09T11:30:00+05:30",
+    "description": "Free entry. Post-screening discussion with the filmmaker. This programming is part of MOOL, a 20 South Asian artist exhibition curated by Shaleen Wadhwana and presented by Exhibit320.",
+    "location": {
+      "@type": "Place",
+      "name": "CCA Building, Bikaner House",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fillum"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "Akira(1988)",
     "url": "https://fillum.in/screening/5866",
     "startDate": "2026-08-09T12:00:00+05:30",
@@ -120,19 +154,19 @@
   },
   {
     "@type": "ScreeningEvent",
-    "name": "Outsider: Freud(2024)",
-    "url": "https://fillum.in/screening/5916",
-    "startDate": "2026-08-10T18:30:00+05:30",
-    "endDate": "2026-08-10T18:30:00+05:30",
-    "description": "Free entry.",
+    "name": "MOSH",
+    "url": "https://fillum.in/event/5946",
+    "startDate": "2026-08-09T14:00:00+05:30",
+    "endDate": "2026-08-09T14:00:00+05:30",
+    "description": "Mosh is a 3 part experience that builds upon The Ganzfeld Experiment.Mosh is a journey that starts with sensory overload (Part I), is bridged by sensory deprivation (Part II), and ends with sensor..more",
     "location": {
       "@type": "Place",
-      "name": "Lecture Room I, IIC Annexe",
-      "address": "Delhi"
+      "name": "Mool, South Ex 2",
+      "address": "South Ex II, New Delhi"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "India International Centre"
+      "name": "Out of Sequence"
     }
   }
 ]
