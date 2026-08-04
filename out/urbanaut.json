@@ -299,44 +299,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Kamla Nagar Monsoon Walk",
-    "description": "Kamal Nagar Monsoon Walk \ud83c\udf7d\ufe0fDelhi Food Walks invites you to a specially curated Kamal Nagar Monsoon Walk with Mr. Anubhav Sapra.Step beyond the usual caf\u00e9s and discover the neighbourhood through its legendary eateries, beloved local institutions, and hidden gems that have been serving generations of Delhiites. From the iconic Shudh Desi Tea Stall and timeless chaat favourites to tucked-away street food treasures, this walk brings together the authentic flavours that make Kamal Nagar a true food lover\u2019s destination.As the monsoon adds its own charm to the bustling streets, enjoy an evening filled with delicious food, fascinating stories, local history, and the vibrant culture that has shaped one of North Delhi\u2019s most loved markets.\ud83d\udcc5 Date: 8 August'2026 (Saturday)\ud83d\udd54 Time: 5:00 PM onwards\ud83d\udcb0 Charges: \u20b91,500 per person\ud83c\udf99\ufe0f Hosted by: Mr. Anubhav Sapra\ud83d\udccd Organised by: Delhi Food WalksCome hungry and join us as we uncover the flavours, stories, and hidden gems of Kamal Nagar\u2014one delicious bite at a time. \u2614\ud83c\udf75\ud83c\udf2e",
-    "startDate": "2026-08-08T05:00:00+05:30",
-    "endDate": "2026-08-08T08:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Kamla Nagar, Delhi, 110007, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.68091110000000000000",
-        "longitude": "77.20458670000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1575.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Delhi Food Walks",
-      "url": "https://urbanaut.app/partner/delhifoodwalks"
-    },
-    "url": "https://urbanaut.app/spot/kamla-nagar-monsoon-walk",
-    "keywords": [
-      "Walking Tour",
-      "Food & drink",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Partition 1947 & Delhi heritage walk @Purana Qila",
     "description": "Join Us for Partition 1947 & Delhi heritage walk & Baithak at Purana Qila Curated by Darwesh heritage walks in collaboration with Sabhyata FoundationFrom nuclear proliferation to terrorism, the Partition of India continues to cast its shadow even today. Join us for a Baithak that seeks to understand the complex experiences of Partition\u2014an event that remains deeply misunderstood both within and beyond the subcontinent. Through facts, poetry, literature, photographs, paintings, and personal belongings, we will revisit this significant chapter of history. Discover how Partition shaped Delhi\u2019s culture and internal geography.Why at Purana Qila: because it was used as a refugee camp in 1947 & afterwards.Kuch Pal Purana Qila Ke Naam! (suitable for 10 years & above)* Duration: 2.5 hours approx * Language: A blend of Hindi, Urdu & English(Special invitation to senior citizens, as this session involves less walking!)* Baithak Host: Nitika-Meeting point: Purana Qila ticket counter --Nearest metro station: Supreme Court- Instagram: Darwesh_taleweavers",
@@ -660,6 +622,44 @@
     "url": "https://urbanaut.app/spot/zerodha-bootcamp-the-fire-edition-gurgaon",
     "keywords": [
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Kamla Nagar Monsoon Walk",
+    "description": "Kamal Nagar Monsoon Walk \ud83c\udf7d\ufe0fDelhi Food Walks invites you to a specially curated Kamal Nagar Monsoon Walk with Mr. Anubhav Sapra.Step beyond the usual caf\u00e9s and discover the neighbourhood through its legendary eateries, beloved local institutions, and hidden gems that have been serving generations of Delhiites. From the iconic Shudh Desi Tea Stall and timeless chaat favourites to tucked-away street food treasures, this walk brings together the authentic flavours that make Kamal Nagar a true food lover\u2019s destination.As the monsoon adds its own charm to the bustling streets, enjoy an evening filled with delicious food, fascinating stories, local history, and the vibrant culture that has shaped one of North Delhi\u2019s most loved markets.\ud83d\udcc5 Date: 8 August'2026 (Saturday)\ud83d\udd54 Time: 5:00 PM onwards\ud83d\udcb0 Charges: \u20b91,500 per person\ud83c\udf99\ufe0f Hosted by: Mr. Anubhav Sapra\ud83d\udccd Organised by: Delhi Food WalksCome hungry and join us as we uncover the flavours, stories, and hidden gems of Kamal Nagar\u2014one delicious bite at a time. \u2614\ud83c\udf75\ud83c\udf2e",
+    "startDate": "2026-08-08T17:00:00+05:30",
+    "endDate": "2026-08-08T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Kamla Nagar, Delhi, 110007, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.68091110000000000000",
+        "longitude": "77.20458670000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1575.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Delhi Food Walks",
+      "url": "https://urbanaut.app/partner/delhifoodwalks"
+    },
+    "url": "https://urbanaut.app/spot/kamla-nagar-monsoon-walk",
+    "keywords": [
+      "Walking Tour",
+      "Food & drink",
+      "Guided tour",
       "URBANAUT"
     ]
   },
@@ -1337,7 +1337,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "A 4-course dessert tasting supper",
-    "description": " We are hosting a dessert tasting experience for people who believe dessert deserves its own evening.This is a four-course dessert menu, served course by course, with a cocktail. We are hosting just 8 guests each evening, making it an intimate and fun way to meet new people in the city over great desserts and conversation.\ud83d\udccd Gurgaon (exact location shared 24 hours before the event)Pull up a chair with us. You never know whom you'll meet at The Other Seat.Menu attached.Hope to see you at the table,\u2028The Other Seat",
+    "description": "At The Other Seat, no two tables are the same. Every month, we create a brand-new dining experience with a fresh menu and theme.This edition is all about dessert\u2014a 4-course pre-plated tasting menu paired with a signature cocktail. Think creative desserts, great conversations, and a table of people who all showed up for something a little different. Only 8 seats.\ud83d\udccd Gurgaon (exact location shared 24 hours before the event)Pull up a chair with us. You never know whom you'll meet at The Other Seat.Menu attached.Hope to see you at the table,The Other Seat",
     "startDate": "2026-08-14T19:30:00+05:30",
     "endDate": "2026-08-15T16:00:00+05:30",
     "location": {
@@ -1596,6 +1596,45 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Lippan Art Workshop",
+    "description": "Discover the beautiful mud-and-mirror craft of Kutch, reimagined as a mandala you'll be proud to hang. You'll build up raised clay patterns and set glinting mirrors into your design, learning a traditional technique with a calm, rhythmic flow. Equal parts heritage and hands-on joy, it's ideal for anyone who loves detail and texture. All materials and your finished piece included. Tea, coffee and dry snacks complimentary. \u20b9950/-",
+    "startDate": "2026-08-19T12:00:00+05:30",
+    "endDate": "2026-08-19T14:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "N.S-5, Munirka Marg, next to MTNL Office, Indian Air Lines & Air India Estate, Vasant Vihar, New Delhi, Delhi 110057, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55951440000000000000",
+        "longitude": "77.15727950000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "950.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Oasis Art Studio",
+      "url": "https://urbanaut.app/partner/oasis-art-studio"
+    },
+    "url": "https://urbanaut.app/spot/lippan-art-workshop",
+    "keywords": [
+      "Local",
+      "Workshop",
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "ALT EFF Film Club x GuruJal Gurugram | 21st August",
     "description": "The August screening brings you a cinematically brilliant film, The Giants.Synopsis:The Giants portrays the deep connection between trees and humans through the life of Australian environmental hero and the Australian parliament\u2019s first openly gay member, Bob Brown. The film follows Brown's journey from a passionate advocate to a central figure in green politics, intertwining his story with the life cycle of the ancient trees he protects. This epic and cinematic film highlights Brown\u2019s activism and sparks urgent conversations about forest preservation and environmental rights.All activities, including discussions and refreshments, will occur between 7:00 and 9:00 PM.\u00a0What's Included?Exclusive screenings of the world's best environmental cinemaAccess to a community of environmentally inclined, film-loving peopleA chance to express yourself at ALT EFF VoicesPost-film discussions.About Film Club: If you are tired of the outrage cycle, doomscrolling collapse, and the looming AI takeover narrative. If you have caught yourself going numb just to cope. We see you.All Living Things Environmental Film Festival is back with the third season of Film Club. A monthly meet up across 12 cities over 5 months, orbiting environmental cinema that cracks you open without trapping you in doom and gloom.It is a room full of people choosing to show up in cities whose infrastructure persuades you to stay home, choosing to sit together, watch together, and turn private anxiety into collective imagination. Messy. Human. Honest conversation.\u00a0With snacks. Always snacks.Student Discount50% off for students with a valid ID (& must bring ID to the screening).CODE: ALTSTUDENT",
@@ -1784,6 +1823,43 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Northern Lights",
+    "description": "Paint the magic of the aurora onto canvas, with sweeping ribbons of green and blue against a starlit sky. We'll guide you through blending, layering, and adding a snowy tree line, so even first-time painters walk away with a piece that glows. All acrylics, canvas, and brushes provided. Tea, coffee and dry snacks complimentary.",
+    "startDate": "2026-08-22T16:00:00+05:30",
+    "endDate": "2026-08-22T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "N.S-5, Munirka Marg, next to MTNL Office, Indian Air Lines & Air India Estate, Vasant Vihar, New Delhi, Delhi 110057, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55951440000000000000",
+        "longitude": "77.15727950000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "944.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Oasis Art Studio",
+      "url": "https://urbanaut.app/partner/oasis-art-studio"
+    },
+    "url": "https://urbanaut.app/spot/northern-lights",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Haunted Walk: Purana Quila",
     "description": "Ruhani Raatein: Haunted Walk at Purana QilaAs the sun sets behind Delhis ancient ramparts, join us for a moonlit journey through one of the city s oldest forts-Purana Qila, where history whispers and shadows linger.From ghostly legends to chilling ruins, this walk blends myth, mystery, and Mughal-era memories. Are the tales true? Were voices heard in the dark? Come find out for yourself, if you dare.Not just a walk-this is an experience that tingles your spine and stirs your soul.",
@@ -1855,6 +1931,44 @@
       "Workshop",
       "Walking Tour",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Quiet Grandeur: Tales of Trees and Tombs",
+    "description": "Sunder Nursery is easily one of the most soul-soothing spots in Delhi\u2014it\u2019s that perfect mix of Mughal grandeur and lush botany. Beyond the manicured lawns of Sunder Nursery lies a 16th-century saga waiting to be told. Join us for a heritage walk, where we swap the city noise for tales of Mughal architecture, restored grandeur, and the secrets of the trees & monuments that stood the test of time.As the monsoon rains wash over Delhi, step into a living tapestry where history and nature breathe as one. On this walk, we will wander through Delhi\u2019s premier arboretum, alive with the earthy scent of wet soil and water channels. Supported by SeasonWatch, as part of their August Tree Festival.",
+    "startDate": "2026-08-23T08:00:00+05:30",
+    "endDate": "2026-08-23T09:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Bharat Scouts and Guides Marg, opposite Humayun Tomb Park, Nizamuddin, Hazrat Nizamuddin, National Zoological Park, Sundar Nagar, New Delhi, Delhi 110013, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59564670000000000000",
+        "longitude": "77.24516910000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "600.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mera \u0936\u0939\u0930 \u2013 My City Walks",
+      "url": "https://urbanaut.app/partner/merasheharmycitywalks"
+    },
+    "url": "https://urbanaut.app/spot/the-quiet-grandeur-tales-of-trees-and-tombs-15617",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Art & culture",
       "URBANAUT"
     ]
   },

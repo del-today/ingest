@@ -1,40 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "Partners of the Heart(2002)",
-    "url": "https://fillum.in/screening/5914",
-    "startDate": "2026-08-04T18:30:00+05:30",
-    "endDate": "2026-08-04T18:30:00+05:30",
-    "description": "",
-    "location": {
-      "@type": "Place",
-      "name": "Lecture Room I, IIC Annexe",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "India International Centre"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Sophie Scholl: The Final Days(2005)",
-    "url": "https://fillum.in/screening/5836",
-    "startDate": "2026-08-04T19:00:00+05:30",
-    "endDate": "2026-08-04T19:00:00+05:30",
-    "description": "Free entry. Post-screening discussion with Vani Subramanian.",
-    "location": {
-      "@type": "Place",
-      "name": "Siddhartha Hall, Goethe-Institut",
-      "address": "Lodhi Road, New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Goethe-Institut New Delhi"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "Two Poets and a River(2021)",
     "url": "https://fillum.in/screening/5915",
     "startDate": "2026-08-05T18:30:00+05:30",
