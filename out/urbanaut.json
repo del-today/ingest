@@ -1263,6 +1263,46 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "21 Days of Reset with Nature",
+    "description": "Holistic Wellbeing Program by Reset with NatureFacilitated by Muskaan & KarishmaStarting from 10th August till 31st AugustEscape the chaos of Delhi and reconnect with yourself through daily nature walks + unique therapeutic activities designed to destress, regulate your nervous system, and boost mental & physical wellbeing.What you\u2019ll experience every day:Guided nature walks to ground, refresh, and breathe freelyRelaxing, unique therapeutic practices including:Nervous system regulationExpressive artInner child healingGuided meditationAnd more calming techniquesWhy this is important for people living in Delhi:Constant hustle and urban stress take a heavy toll on your mind and bodyLimited access to green spaces makes intentional nature time essentialFast-paced city life leaves little room for restWhy this is going to be so much fun (and a must-attend!):Fresh air, beautiful green spaces, and a supportive community every single dayCreative, uplifting activities that feel more like play than \u201cwork on yourself\u201dLaugh, reflect, heal, and bond with like-minded people on the same journey21 days of small joyful habits that leave you feeling lighter, happier, and truly resetThis isn\u2019t just another wellness program \u2014 it\u2019s your daily dose of peace, joy, and connection in the middle of city life.Follow Reset with Nature on Instagram and join Muskaan & Karishma for an unforgettable 21-day reset you won\u2019t want to miss!Who can be part of this holistic wellness experience: 18 years above",
+    "startDate": "2026-08-10T07:00:00+05:30",
+    "endDate": "2026-08-31T08:15:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59368140000000000000",
+        "longitude": "77.22183380000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Reset with Nature",
+      "url": "https://urbanaut.app/partner/reset-with-nature"
+    },
+    "url": "https://urbanaut.app/spot/21-days-of-reset-with-nature",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Eco Friendly",
+      "Walking Tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Delhi Solitaire Open - Morning",
     "description": "\u2728 *Delhi, are you ready? *\u2728The Mahjong Network \u00d7 Forevermark \u00d7 The Tile Club proudly present Delhi Solitaire Open - Delhi\u2019s First Friendly Mahjong Tournament \u2014 with exciting prizes up for grabs! \ud83c\udc04\ud83c\udfc6Spend a beautiful morning or afternoon at Forevermark, browse their exquisite jewellery collection, and then take your seat for an afternoon of friendly competition, great gameplay, and fabulous prizes.\ud83d\udcc5 Wednesday, 12 August 2026Session 1: 11:00 AM \u2013 1:00 PM\ud83d\udccd Forevermark, South Extension 1 , Delhi\ud83d\udcb0 Entry Fee: \u20b92,500 per player\u203c\ufe0f Players must know Passport and ATF Goulash.16 seats available per slot.Register now to be part of Delhi\u2019s very first friendly mahjong tournament!",
@@ -1893,6 +1933,41 @@
     "url": "https://urbanaut.app/spot/listening-room",
     "keywords": [
       "Wellness",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Making of a Serial Offender",
+    "description": "Join us for an evening that begins with a simple question: what does a serial offender look like? The answer may be more unsettling than you think.About the LectureThe point is not that everyone is a criminal. The point is that none of us can recognise one by looking.This lecture explores how criminal profiling moved beyond outdated assumptions about \"criminal faces\" to become one of the most fascinating tools in modern investigations. Drawing from forensic psychology, criminology, and real-world case studies, the session examines how investigators attempt to understand offenders through behaviour rather than appearance.Together, we'll explore:Why humans are often poor judges of who is capable of violenceThe evolution of criminal profiling, from early theories to modern investigative psychologyHow crime scene behaviour can reveal patterns of motive, planning, control, and escalationThe origins of behavioural profiling and the rise of the FBI's Behavioural Science UnitWhat famous serial offender cases reveal about fantasy, victim selection, and criminal developmentWhy serial offending remains understudied in IndiaHow forensic psychologists and investigators use Behavioural Evidence Analysis to reconstruct offender behaviourMoving beyond sensationalism and popular crime shows, this lecture examines the deeper psychological and social questions that profiling raises. Why do some individuals cross lines that most never do? What can behaviour tell us about risk, intent, and future offending? And how can India build more rigorous behavioural science frameworks for criminal investigation?Part psychology, part criminology, and part investigative science, this session offers a rare glimpse into the complex process of understanding criminal behaviour.About the SpeakerMr. Rithin Joseph is an Assistant Professor at the School of Behavioural Forensics, National Forensic Sciences University (NFSU), Delhi. Specialising in Criminology and Forensic Psychology, his work focuses on criminal profiling, deception detection, investigative psychology, and forensic behavioural analysis. He has published multiple research papers and presented over twenty-one papers at national and international conferences.Mr. Joseph has specialised training in a range of forensic investigative techniques, including Polygraph, Brain Electrical Oscillation Signature Profiling (BEOS), Suspect Detection System (SDS), Layered Voice Analysis (LVA), and EyeDetect. He currently serves as Co-Investigator on an ICSSR-funded research project examining the prediction of recidivism among first-time offenders in conflict with the law. He is also the co-author of \"Crime as the Cause of Criminality\" and \"BRICS: Unravelling the Abyss.\"A Gold Medalist in Criminology from the National Forensic Sciences University and recipient of the Young Criminologist Award 2024, he continues to contribute to research in criminal psychology, offender behaviour, and investigative science while mentoring postgraduate students and pursuing doctoral research in Criminal Psychology.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-08-22T12:00:00+05:30",
+    "endDate": "2026-08-22T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "32nd avenue, Sector 15 Part 2, Sector 15, Gurugram, Haryana 122001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46145160000000000000",
+        "longitude": "77.04983410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/the-making-of-a-serial-offender-15640",
+    "keywords": [
       "URBANAUT"
     ]
   },
