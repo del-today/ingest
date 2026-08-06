@@ -262,7 +262,7 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Road To THE ISAND",
+    "name": "Road To THE ISLAND",
     "description": "The journey to The Island begins here.Road to The Island is the first chapter of our flagship IP\u2014bringing together electronic music, art, creativity, and community for an experience that goes beyond the dance floor.The night unfolds across two distinct spaces: ARENA and BAZAAR.ARENAA carefully curated electronic music experience featuring **House, Afro House, Indie Dance, Disco, and more**, with a dance floor built around great music, immersive energy, and unforgettable moments.BAZAARStep away from the music and explore a curated collection of experiences designed to spark curiosity and self-expression. CLOTHING: Discover thoughtfully curated apparel from The KRYP and wear a piece of the culture. TAROT READER: Have your cards read and discover what the universe might have in store. FLASH TATTOO: Choose from a selection of temporary flash tattoo designs and wear a piece of the night with you. ORIGINAL ARTWORK: Discover and shop original artworks created by independent artists.Music. Art. Creativity. Self-expression. A room full of people worth meeting.Road to The Island is only the beginning.Come for the music. Stay for the experience.Welcome to The Island.\u200bEntry is via our guestlist. There is a mandatory cover charge of Rs. 500 which is fully redeemable at the venue.Terms & ConditionsMandatory \u20b9500 cover charge is applicable per person.Rs. 500 cover is fully redeemable at the venueClub rules apply \u2013 management reserves the right of admissionZero tolerance for bad vibes. Any violence or inappropriate behaviour gets you kicked out-no second chances.",
     "startDate": "2026-08-07T21:00:00+05:30",
     "endDate": "2026-08-07T23:30:00+05:30",
@@ -930,6 +930,45 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Mental Health Hike",
+    "description": "A two-hour guided nature walk that blends adventure, history, and deep presence.We\u2019ll begin by climbing the first fortified wall of Delhi within Sanjay Van, offering sweeping views over the forest canopy. We will walk through centuries old rocks, forest area, and open clearings where the city fades into the background.Along the way, we will engage in simple sensory grounding practices:Feel the texture of bark and stone under your fingersListen to the sounds of birds and wind Breathe in the scent of dry earth and wild herbs Sense your feet meeting the ancient path These moments of quiet attention create an experience that is simultaneously invigorating and restorative: the challenge of the climb and uneven terrain, the curiosity of discovering hidden corners of Sanjay Van, and the steadying effect of moving slowly and noticing deeply.Carry a bottle of water with you and come ready to walk, climb, listen, and return a little more grounded than when you began.",
+    "startDate": "2026-08-09T06:30:00+05:30",
+    "endDate": "2026-08-09T08:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "G5PJ+PMP Sanjay Van, New Mehrauli Road, Block B, Qutab Institutional Area, New Delhi, Delhi 110016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53698790000000000000",
+        "longitude": "77.18188470000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Reset with Nature",
+      "url": "https://urbanaut.app/partner/reset-with-nature"
+    },
+    "url": "https://urbanaut.app/spot/mental-health-hike",
+    "keywords": [
+      "Leisure",
+      "Adventure",
+      "Eco Friendly",
+      "Walking Tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Glow Run",
     "description": "Glow Run | Glowfest at Broadway x SWAGLace up and join us for Glow Run, Glowfest's signature community run in collaboration with SWAG an All Girls Run.Kickstart your day with an energising 3K run, connect with a vibrant community, enjoy a freshly brewed coffee, and indulge in curated beauty experiences waiting for you at the finish line. Whether you're a seasoned runner or simply looking for a fun morning out, Glow Run is all about movement, community, and feeling your best.Here's the plan!3K Community Glow RunCoffee on the house by MoonwalkExpress Hairstyling by Moxie BeautySkin Analysis by KorinMiScalp Analysis by SHRDSPF Pit Stop by KindlifeBlush Like You've Just Worked Out Beauty Station by Dream BeautySee you there!",
@@ -1418,6 +1457,41 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Am I The Asshole?",
+    "description": "Bringing the internet's favourite question to life. Am I the Asshole is a live event where our host and guests tackle the eternal question: were they the asshole?Come watch a live panel debate real world dilemmas, shocking online threads, and anonymous submissions straight from the audience. No filters. No holding back. You hold the voting power. You decide who's right.",
+    "startDate": "2026-08-14T06:00:00+05:30",
+    "endDate": "2026-08-14T07:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "628.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
+    },
+    "url": "https://urbanaut.app/spot/am-i-the-asshole",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Onam Sadhya by Chef Kartik x Cocobay",
     "description": "Celebrate Onam with an Authentic Sadhya at CocobayGet ready to indulge in the rich, traditional flavors of Kerala this festive season! In anticipation of Onam, Cocobay South Indian Cafe brings you a thoughtfully curated Onam Sadhya experience designed by Chef Kartik. Served on a vibrant banana leaf, this grand feast features an array of authentic preparations\u2014from crispy banana chips and savory side dishes to aromatic rice and comforting payasam\u2014crafted to capture the true spirit of togetherness and celebration.A Culinary Journey in GurgaonWhether you are hosting family or enjoying a preview feast with friends, join us at our new location on Golf Course Road to savor every bit of this seasonal specialty. Available for a limited time from August 14th to 16th at \u20b9995 (+GST) per person, with convenient delivery options right to your doorstep. Space is limited for this special festive preview\u2014reserve your meal early and celebrate Onam with the timeless taste of home!",
@@ -1455,43 +1529,8 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Launching The Table Top Games Club @ Karol Bagh",
-    "description": "\ud83c\udfb2 The Table Top Games Club Launch Night \u2014 Featuring Blood on the Clocktower\u200bJoin us for the launch of The Table Top Games Club at Steve and Dodo Cafe, Karol Bagh! \ud83c\udf89\u200bWe\u2019re kicking things off with Blood on the Clocktower, the acclaimed social deduction game of mystery, deception, teamwork and betrayal. Villagers must work together to uncover the Demon hiding among them \u2014 but in Ravenswood Bluff, everyone has something to say, and not everyone can be trusted. \ud83d\ude08\ud83d\udd70\ufe0f\u200bWhether you\u2019re a seasoned tabletop gamer or completely new to board games, come along, meet new people, bluff your friends, make accusations, and enjoy an evening around the table.\u200b\ud83c\udfb2 Featured Game: Blood on the Clocktower\ud83d\udcc5 Friday, 14 August 2026\u23f0 7:00 PM onwards\ud83d\udccd Steve and Dodo Cafe, Karol Bagh, Delhi\ud83c\udf9f\ufe0f Entry: \u20b9199 per person\u200bWe also play Catan, Sequence, Exploding Kittens, Deep Sea Adventure, Skull, Flip 7, Jaipur, Coup, Secret Hitler, Road Trip, Kabutar, Uninvited Guests to the Wedding and more.\u200bCome for the games. Stay for the people. Find your table. \ud83c\udfb2\u200bLimited seats \u2014 advance registration recommended.",
-    "startDate": "2026-08-14T19:00:00+05:30",
-    "endDate": "2026-08-14T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "4/8, Saraswati Marg, Block 4, WEA, Karol Bagh, New Delhi, Delhi, 110005, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.64745740000000000000",
-        "longitude": "77.18832830000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "215.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Table Top Games Club",
-      "url": "https://urbanaut.app/partner/the-table-top-games-club"
-    },
-    "url": "https://urbanaut.app/spot/launching-the-table-top-games-club-karol-bagh",
-    "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "A 4-course dessert tasting supper",
+    "name": "A 4-Course Dessert Tasting Supper",
     "description": "At The Other Seat, no two tables are the same. Every month, we create a brand-new dining experience with a fresh menu and theme.This edition is all about dessert\u2014a 4-course pre-plated tasting menu paired with a signature cocktail. Think creative desserts, great conversations, and a table of people who all showed up for something a little different. Only 8 seats.\ud83d\udccd Gurgaon (exact location shared 24 hours before the event)Pull up a chair with us. You never know whom you'll meet at The Other Seat.Menu attached.Hope to see you at the table,The Other Seat",
     "startDate": "2026-08-14T19:30:00+05:30",
     "endDate": "2026-08-15T16:00:00+05:30",
@@ -2352,6 +2391,46 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Clay in the Wild",
+    "description": "2-Hour Nature Pottery ExperienceStep into a gentle rhythm of nature and creativity in this two-hour immersive session. We begin with a slow, mindful nature walk-gathering inspiration, textures, and a few fallen leaves or flowers before settling in to work with our hands.Using soft air-dry clay, you\u2019ll shape your own trinket trays and small plates, real botanical one-of-a-kind imprints. This is more than craft it\u2019s a quiet conversation with the natural world:Feel the cool clay respond to your touch Discover patterns hidden in leaves, bark, and wild stems Create functional pieces that carry the forest\u2019s memory home Come ready to walk, gather, imprint, and shape. You\u2019ll leave with handmade trays and plates that hold both beauty and the calm of time spent deeply engaged with nature.",
+    "startDate": "2026-08-23T17:30:00+05:30",
+    "endDate": "2026-08-23T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Nehru park, Ramnagar, Chanakyapuri, New Delhi, Delhi 110021, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59096880000000000000",
+        "longitude": "77.19320030000002000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "999.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Reset with Nature",
+      "url": "https://urbanaut.app/partner/reset-with-nature"
+    },
+    "url": "https://urbanaut.app/spot/clay-in-the-wild",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Eco Friendly",
+      "Walking Tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Raat ke Afsane : Safdarjung Tomb",
     "description": "Safdarjung Tomb Walk: Stories After SunsetA guided heritage walk through the Safdarjung Tomb complex exploring the history, architecture and cultural significance of one of the last grand monuments of the Mughal era in Delhi.The walk highlights the transition from late Mughal power to emerging regional influences and explores the political, cultural and artistic context in which the monument was built. Participants will learn about its architecture, design elements and historical importance in Delhi\u2019s heritage landscape.The experience is conducted during the evening, allowing participants to view the monument in a calm and atmospheric setting while engaging with its history through guided storytelling.Language of communication is Hindi and English.",
     "startDate": "2026-08-23T17:30:00+05:30",
@@ -2417,6 +2496,114 @@
       "url": "https://urbanaut.app/partner/padmanabham"
     },
     "url": "https://urbanaut.app/spot/onam-sadhya-at-padmanabham-delhi",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Draavin Canteen's Onam Sadhya | Amar Colony",
+    "description": "The season of togetherness is almost here, and there's no better way to celebrate than over a traditional Onam Sadhya. Join us at Draavin Canteen for an authentic 25-item feast, served on a banana leaf and inspired by the timeless flavours and traditions of Kerala.A Sadhya isn't just about abundance - it's about balance. Every dish comes together to represent the six Ayurvedic tastes, creating a meal that is as thoughtful as it is memorable. More than a feast, it's a celebration of harvest, gratitude, and homecoming, with traditions passed down through generations.Whether you're celebrating with family, catching up with friends, or simply craving a taste of home, this is an invitation to slow down, share a wholesome meal, and experience the warmth of Onam together.Reserve your seats in advance and join us for a festive meal filled with authentic flavours, warm conversations, and the joy of celebrating Onam at Draavin Canteen.",
+    "startDate": "2026-08-25T12:30:00+05:30",
+    "endDate": "2026-08-28T22:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ground Floor, Amar Colony E-127, 4, Block E, Amar Colony, Lajpat Nagar, New Delhi, Delhi 110024, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55974520000000000000",
+        "longitude": "77.24321130000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1363.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Draavin Canteen",
+      "url": "https://urbanaut.app/partner/draavin-canteen"
+    },
+    "url": "https://urbanaut.app/spot/draavin-canteens-onam-sadhya-amar-colony",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Draavin Canteen's Onam Sadhya | Gurgaon",
+    "description": "The season of togetherness is almost here, and there's no better way to celebrate than over a traditional Onam Sadhya. Join us at Draavin Canteen for an authentic 25-item feast, served on a banana leaf and inspired by the timeless flavours and traditions of Kerala.A Sadhya isn't just about abundance - it's about balance. Every dish comes together to represent the six Ayurvedic tastes, creating a meal that is as thoughtful as it is memorable. More than a feast, it's a celebration of harvest, gratitude, and homecoming, with traditions passed down through generations.Whether you're celebrating with family, catching up with friends, or simply craving a taste of home, this is an invitation to slow down, share a wholesome meal, and experience the warmth of Onam together.Reserve your seats in advance and join us for a festive meal filled with authentic flavours, warm conversations, and the joy of celebrating Onam at Draavin Canteen.",
+    "startDate": "2026-08-26T12:30:00+05:30",
+    "endDate": "2026-08-27T22:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Draavin Canteen, Ground Floor 01, DLF Downtown 2, Ambience Island, DLF Phase 3, Sector 24, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.50324520000000000000",
+        "longitude": "77.09551940000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1363.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Draavin Canteen",
+      "url": "https://urbanaut.app/partner/draavin-canteen"
+    },
+    "url": "https://urbanaut.app/spot/draavincanteengurgaon",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Draavin Canteen's Onam Sadhya | Moti Nagar",
+    "description": "The season of togetherness is almost here, and there's no better way to celebrate than over a traditional Onam Sadhya. Join us at Draavin Canteen for an authentic 25-item feast, served on a banana leaf and inspired by the timeless flavours and traditions of Kerala.A Sadhya isn't just about abundance - it's about balance. Every dish comes together to represent the six Ayurvedic tastes, creating a meal that is as thoughtful as it is memorable. More than a feast, it's a celebration of harvest, gratitude, and homecoming, with traditions passed down through generations.Whether you're celebrating with family, catching up with friends, or simply craving a taste of home, this is an invitation to slow down, share a wholesome meal, and experience the warmth of Onam together.Reserve your seats in advance and join us for a festive meal filled with authentic flavours, warm conversations, and the joy of celebrating Onam at Draavin Canteen.",
+    "startDate": "2026-08-28T12:30:00+05:30",
+    "endDate": "2026-08-28T22:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "F&B),3rd Floor, Shop No 305, DLF MidTown Plaza, Moti Nagar, Karampura Industrial Area, Moti Nagar, New Delhi, Delhi, 110015, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.66344190000000000000",
+        "longitude": "77.15370530000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1363.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Draavin Canteen",
+      "url": "https://urbanaut.app/partner/draavin-canteen"
+    },
+    "url": "https://urbanaut.app/spot/draavincanteenmotinagar",
     "keywords": [
       "Food & drink",
       "URBANAUT"
