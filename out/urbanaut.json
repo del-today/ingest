@@ -443,44 +443,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "The Mahjong Table",
-    "description": "Spend an afternoon discovering the timeless game of Mahjong at Chor Bizarre. Whether you're a first-time player or a seasoned enthusiast, this guided session combines learning and gameplay in a warm, social setting. Beginners will be introduced to the fundamentals by experienced instructors, while returning players can enjoy friendly rounds with fellow enthusiasts. Your ticket includes one beverage and a signature chaat, making for an afternoon of culture, conversation and play.",
-    "startDate": "2026-08-08T16:00:00+05:30",
-    "endDate": "2026-08-08T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Hotel Broadway, 4/15A, Asaf Ali Rd, Chatta lal Miya, Chandni Mahal, Chandni Chowk, Delhi, New Delhi, Delhi 110002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.64105660000000000000",
-        "longitude": "77.23791410000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "3255.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Chor Bizarre",
-      "url": "https://urbanaut.app/partner/chor-bizarre"
-    },
-    "url": "https://urbanaut.app/spot/the-mahjong-table",
-    "keywords": [
-      "Leisure",
-      "Food & drink",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Zerodha Bootcamp: The FIRE Edition | Gurgaon",
     "description": "What to expectThis is a 3-hour in-person bootcamp, not a webinar, not a panel discussion, not a pitch for financial products. It's a structured, no-fluff session designed to give you a clear-headed look at what financial independence actually requires and what it realistically takes to get there.Ravi Handa will walk you through the numbers, the math, the common mistakes, and the decisions that actually move the needle in Hindi and English, so nothing gets lost in translation.By the time you leave, you'll have a much clearer answer to the question most people spend years avoiding: how much is enough, and am I on track?What's covered\u2014 The FIRE number: how to calculate what you actually need, not what sounds impressive\u2014 The savings rate question: why how much you save matters more than what you earn\u2014 Investment strategies that make early retirement achievable, not just theoretical\u2014 The mistakes people make in their 30s that cost them a decade of compounding\u2014 What happens after FIRE, the part nobody talks about enoughWho this is forAnyone who has thought about retiring before 60, whether that's a vague wish or a plan you're actively building. You don't need to be an expert investor. You don't need to already have a corpus. You just need to be willing to look at your finances honestly for three hours.Gurgaon's workforce is one of India's most financially capable, high earners, ambitious savers, people who have the means but not always the framework. This session is built for exactly that audience.About the speakerRavi Handa is the founder of Handa Uncle, an AI-powered platform built to simplify personal finance for Indian families. Having spent over a decade teaching and mentoring hundreds of thousands of learners, he now helps people navigate investing, retirement planning, and financial independence through practical, evidence-based frameworks.Tickets priced at: Rs. 399/- only. Limited seats available. ",
@@ -688,7 +650,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "2300.00",
+      "price": "2415.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
