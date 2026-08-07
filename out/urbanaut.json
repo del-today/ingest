@@ -4,7 +4,7 @@
     "@type": "Event",
     "name": "Kathika Cultural Experience",
     "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
-    "startDate": "2026-08-06T11:30:00+05:30",
+    "startDate": "2026-08-07T11:30:00+05:30",
     "endDate": "2026-08-31T14:00:00+05:30",
     "location": {
       "@type": "Place",
@@ -34,78 +34,6 @@
       "Music",
       "History & heritage",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Grounds For Thought: August Lineup",
-    "description": "Grounds for Thought: August 2026A Blue Tokai \u00d7 unLecture SeriesFour Thursday evenings. Four very different conversations. Grounds for Thought is a monthly series where Blue Tokai and unLecture bring researchers, scientists, and thinkers out of their institutions and into a coffee shops. The format is simple: an expert, a room full of curious people, and a conversation that goes somewhere a classroom rarely does.6th August: Shambhavi TiwariPossessed: The Ghost, The Asylum, The Priest, and the PeopleWhen someone in rural India is \"possessed by a ghost,\" they encounter not just their family and their priest, but eventually \u2014 often \u2014 a psychiatrist. Two completely different frameworks for what has gone wrong, and what healing looks like. This session uses spirit possession across Indian cultural contexts to examine what happens when indigenous knowledge systems and clinical medicine cross paths. PhD researcher Shambhavi Tiwari, who has spent years in this space, asks: superstition, myth, knowledge system, or something else entirely?13th August: Dr. Vishwas ChitaleZoom In, Zoom Out: What India's Climate Risk Looks Like at Ground LevelEveryone has heard the national climate numbers. But zoom into a district, and the picture changes entirely \u2014 neighbouring areas with opposite risk profiles, and disaster plans built on averages too coarse to catch where the real danger sits. Dr. Vishwas Chitale, Fellow at CEEW, will walk us through India's climate risk from the national level down to your own neighbourhood \u2014 and then hand the tool to the room. Participants will pull up their own hometown's actual climate risk profile live, using CRAVIS, CEEW's climate intelligence platform. You'll leave having done a small piece of the research yourself.20th August: Antara ChakrabartyFrom Village to Viral: How Folk Music Got a Second LifeA seventeenth-century Sufi verse now has a hundred million YouTube views. The songs of Lalon Fakir, Bengal's wandering poet-saint, are uniting two Bengals and two centuries through a single melody. This session traces folk music's remarkable journey \u2014 from Punjab's Sufi shrines and Bengal's riverside Baul gatherings to studio stages and streaming platforms \u2014 and asks the questions nobody quite wants to answer. Who owns a folk song? What happens when heritage becomes entertainment? Does something get lost in translation, or does it simply learn a new way to survive? Expect live music, a few surprises, and a fresh way of listening to songs you may already love.27th August: Sunaina SaxenaWhat is a Clean Street Worth?Why are two seemingly identical houses priced so differently? This session explores one of environmental economics' most elegant tools, hedonic pricing, to answer a question most of us have never thought to ask: does the cleanliness of a neighbourhood have a measurable economic value? Through stories, discussion, and simple examples, researcher Sunaina Saxena explores how clean streets, reliable waste collection, and a healthy living environment become embedded in housing prices \u2014 and what that reveals about our cities and the choices we make about where we live.",
-    "startDate": "2026-08-06T18:30:00+05:30",
-    "endDate": "2026-08-27T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "No A/57 to A/59, DDA Shopping Complex, Block F, Defence Colony, New Delhi, Delhi 110024, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.56615030000000000000",
-        "longitude": "77.23328000000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "550.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/grounds-for-thought-august-lineup",
-    "keywords": [
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Slow Burn - A 4 Course Drinking Experience",
-    "description": "Tucked into a corner of Lodhi Colony, The Love Hotel is Delhi's best-kept secret \u2014 a 20-seat cocktail room that takes its cues from the love hotels of Japan. It's intimate without being intense, flirtatious without trying too hard.Slow Burn is a four-course cocktail tasting built for this room \u2014 but where most tasting menus put food at the centre, here the cocktails play hero.It begins the second you walk in with a welcome shot. From there, four cocktails unfold in sequence \u2014 each its own chapter, drawn from the same five-taste philosophy that powers The Love Hotel's acclaimed program. Every pour lands with a course of tapas alongside it.An evening where the spirit leads, and the plate follows. And with only twenty seats, the room stays intimate & exclusive.",
-    "startDate": "2026-08-06T19:00:00+05:30",
-    "endDate": "2026-08-13T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Main Market, 28, Lodhi Rd, Block 13, Lodi Colony, New Delhi, Delhi, 110003, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.58474620000000000000",
-        "longitude": "77.22387390000002000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3200.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Love Hotel",
-      "url": "https://urbanaut.app/partner/the-love-hotel"
-    },
-    "url": "https://urbanaut.app/spot/slow-burn-martini-cocktail-tasting-menu",
-    "keywords": [
-      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -1382,6 +1310,78 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Grounds For Thought: August Lineup",
+    "description": "Grounds for Thought: August 2026A Blue Tokai \u00d7 unLecture SeriesFour Thursday evenings. Four very different conversations. Grounds for Thought is a monthly series where Blue Tokai and unLecture bring researchers, scientists, and thinkers out of their institutions and into a coffee shops. The format is simple: an expert, a room full of curious people, and a conversation that goes somewhere a classroom rarely does.6th August: Shambhavi TiwariPossessed: The Ghost, The Asylum, The Priest, and the PeopleWhen someone in rural India is \"possessed by a ghost,\" they encounter not just their family and their priest, but eventually \u2014 often \u2014 a psychiatrist. Two completely different frameworks for what has gone wrong, and what healing looks like. This session uses spirit possession across Indian cultural contexts to examine what happens when indigenous knowledge systems and clinical medicine cross paths. PhD researcher Shambhavi Tiwari, who has spent years in this space, asks: superstition, myth, knowledge system, or something else entirely?13th August: Dr. Vishwas ChitaleZoom In, Zoom Out: What India's Climate Risk Looks Like at Ground LevelEveryone has heard the national climate numbers. But zoom into a district, and the picture changes entirely \u2014 neighbouring areas with opposite risk profiles, and disaster plans built on averages too coarse to catch where the real danger sits. Dr. Vishwas Chitale, Fellow at CEEW, will walk us through India's climate risk from the national level down to your own neighbourhood \u2014 and then hand the tool to the room. Participants will pull up their own hometown's actual climate risk profile live, using CRAVIS, CEEW's climate intelligence platform. You'll leave having done a small piece of the research yourself.20th August: Antara ChakrabartyFrom Village to Viral: How Folk Music Got a Second LifeA seventeenth-century Sufi verse now has a hundred million YouTube views. The songs of Lalon Fakir, Bengal's wandering poet-saint, are uniting two Bengals and two centuries through a single melody. This session traces folk music's remarkable journey \u2014 from Punjab's Sufi shrines and Bengal's riverside Baul gatherings to studio stages and streaming platforms \u2014 and asks the questions nobody quite wants to answer. Who owns a folk song? What happens when heritage becomes entertainment? Does something get lost in translation, or does it simply learn a new way to survive? Expect live music, a few surprises, and a fresh way of listening to songs you may already love.27th August: Sunaina SaxenaWhat is a Clean Street Worth?Why are two seemingly identical houses priced so differently? This session explores one of environmental economics' most elegant tools, hedonic pricing, to answer a question most of us have never thought to ask: does the cleanliness of a neighbourhood have a measurable economic value? Through stories, discussion, and simple examples, researcher Sunaina Saxena explores how clean streets, reliable waste collection, and a healthy living environment become embedded in housing prices \u2014 and what that reveals about our cities and the choices we make about where we live.",
+    "startDate": "2026-08-13T18:30:00+05:30",
+    "endDate": "2026-08-27T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "No A/57 to A/59, DDA Shopping Complex, Block F, Defence Colony, New Delhi, Delhi 110024, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.56615030000000000000",
+        "longitude": "77.23328000000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "550.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/grounds-for-thought-august-lineup",
+    "keywords": [
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Slow Burn - A 4 Course Drinking Experience",
+    "description": "Tucked into a corner of Lodhi Colony, The Love Hotel is Delhi's best-kept secret \u2014 a 20-seat cocktail room that takes its cues from the love hotels of Japan. It's intimate without being intense, flirtatious without trying too hard.Slow Burn is a four-course cocktail tasting built for this room \u2014 but where most tasting menus put food at the centre, here the cocktails play hero.It begins the second you walk in with a welcome shot. From there, four cocktails unfold in sequence \u2014 each its own chapter, drawn from the same five-taste philosophy that powers The Love Hotel's acclaimed program. Every pour lands with a course of tapas alongside it.An evening where the spirit leads, and the plate follows. And with only twenty seats, the room stays intimate & exclusive.",
+    "startDate": "2026-08-13T19:00:00+05:30",
+    "endDate": "2026-08-13T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Main Market, 28, Lodhi Rd, Block 13, Lodi Colony, New Delhi, Delhi, 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.58474620000000000000",
+        "longitude": "77.22387390000002000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3200.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Love Hotel",
+      "url": "https://urbanaut.app/partner/the-love-hotel"
+    },
+    "url": "https://urbanaut.app/spot/slow-burn-martini-cocktail-tasting-menu",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Am I The Asshole?",
     "description": "Bringing the internet's favourite question to life. Am I the Asshole is a live event where our host and guests tackle the eternal question: were they the asshole?Come watch a live panel debate real world dilemmas, shocking online threads, and anonymous submissions straight from the audience. No filters. No holding back. You hold the voting power. You decide who's right.",
     "startDate": "2026-08-14T06:00:00+05:30",
@@ -2446,7 +2446,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "1363.00",
+      "price": "1299.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -2482,7 +2482,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "1363.00",
+      "price": "1299.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -2518,7 +2518,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "1363.00",
+      "price": "1299.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
