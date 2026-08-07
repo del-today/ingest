@@ -112,82 +112,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Pickleball with SWAG | Gurugram",
-    "description": "The SWAG Pickleball Party is your perfect evening plan!This is a women-only, beginner-friendly meet-up.See you on court!",
-    "startDate": "2026-08-06T20:30:00+05:30",
-    "endDate": "2026-08-06T21:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Sportyzo Sports Academy, Sector 65, Gurugram, Haryana 122101, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.40450950000000000000",
-        "longitude": "77.07416250000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "360.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag23",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Baddy with Baddies | Gurugram",
-    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.8:20 PM Meet up and Warm up Time8:30 PM Game TimeSee you on court!",
-    "startDate": "2026-08-06T20:30:00+05:30",
-    "endDate": "2026-08-06T21:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Sportyzo Badminton Academy, Emaar emerald hills, Golf Course Ext Rd, opposite Ivory Block, Sector 65, Gurugram, Haryana 122011, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.40465650000000000000",
-        "longitude": "77.07401440000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "279.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag22",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Adapting Alone",
     "description": "Adapting Alone: How Young People Are Redesigning Their Lives Around Climate ChangeClimate change doesn't always announce itself through a heatwave or a flood.More often, it reshapes the everyday. Leaving home earlier to avoid the heat. Carrying extra water because you don't know where you'll find a refill. Taking an auto because waiting at a bus stop without shade feels unbearable.While we\u2019ve accepted these adaptations as normal, they reveal a striking fact: young people are constantly adapting to a changing climate, often with little support from the institutions around them.Based on conversations with over 3,000 young people across 60 neighbourhoods in India, Mudito's latest research asks a simple but urgent question: Why has adapting to climate change become an individual responsibility?Join us for a conversation with incredible panelists as we explore the invisible work of adaptation, who is left to do it alone, and what it would take for our institutions to catch up.Date: August 7, 2026Time: 7 PM - 8 PM",
     "startDate": "2026-08-07T19:00:00+05:30",
@@ -294,6 +218,44 @@
       "Live GIG",
       "Music",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Run Like A Girl",
+    "description": "RUN LIKE A GIRL!We are starting this weekend with an adrenaline rush. So, we have a 3 Km beginner friendly run and a coffee (coffee and snacks on us) rave after at Blue Tokai Ambience Mall, Gurgaon. Your ticket includes access to the run, cardio dance session, a coffee at Blue Tokai + Sandwich, post run rave, and some protein yogurt popsicles by Frozen Fun. Here's the detailed plan: 7:00 - We meet outside Ambience Mall Gurgaon - outside Paul's7:15 - Cardio Dance session (bollywood songs, ofc)7:35 - Run Time (a 3km loop outside Ambience Mall)8:15 - Coffee and Dance Rave! & Fitness Challenges\u0915\u094d\u092f\u093e \u0906\u092a convince \u0939\u094b \u0917\u090f \u092f\u093e \u092e\u0948\u0902 \u0914\u0930 \u092c\u094b\u0932\u0942\u0901?",
+    "startDate": "2026-08-08T07:00:00+05:30",
+    "endDate": "2026-08-08T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "NH-8, Ambience Island, DLF Phase 3, Sector 24, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.50487480000000000000",
+        "longitude": "77.09695940000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "249.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag45",
+    "keywords": [
+      "Adventure",
+      "Wellness",
+      "Active",
       "URBANAUT"
     ]
   },
@@ -699,44 +661,6 @@
       "Workshop",
       "Eco Friendly",
       "Walking Tour",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Kalighat Painting with delectable Bengali Food",
-    "description": "Step into the vibrant world of 19th-century Bengal through an immersive cultural experience that brings together art, storytelling, music, and food. This guided Kalighat painting workshop is led by acclaimed folk artists Sushama Chitrakar and Sanjay Chitrakar, who have devoted over 25 years to preserving and practising this iconic art form. Nationally recognised for their work, their paintings have been exhibited across India, making this a rare opportunity to learn directly from master artisans. The session begins with a live demonstration of the Kalighat painting process: from traditional colour mixing and the fundamentals of drawing to brushwork and composition. Along the way, the artists will share the folk songs traditionally sung while creating these paintings, as well as the stories, social commentary, and mythology that have long been depicted through this distinctive style.To complement the artistic journey, the experience features thoughtfully curated Bengali snack pairings inspired by the culinary traditions of the era, creating a sensory exploration of Bengal's rich cultural heritage. Guests will also have the opportunity to browse and purchase original Kalighat paintings created by the artists, offering a chance to take home an authentic piece of this living tradition.Whether you're an art enthusiast, a culture lover, or simply looking for a unique afternoon experience, this workshop offers an intimate introduction to one of India's most celebrated folk art traditions.Meet Your HostHi, I'm Shramana, a marketing professional born in Kolkata, now based in Delhi, with a deep love for India's art and food traditions. I started curating these experiences to make age-old crafts more accessible to the art-curious while creating meaningful opportunities for master artisans to share their knowledge. I believe cultural heritage thrives when it's experienced. Through intimate workshops, I hope to build a community that celebrates traditional arts, supports artisan livelihoods, and carries these legacies forward together.",
-    "startDate": "2026-08-08T17:30:00+05:30",
-    "endDate": "2026-08-08T19:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Gurugram, Haryana, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.45949650000000000000",
-        "longitude": "77.02663830000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2100.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Living Room",
-      "url": "https://urbanaut.app/partner/the-living-room"
-    },
-    "url": "https://urbanaut.app/spot/learn-kalighat-painting-while-tasting-bengali-food",
-    "keywords": [
-      "Workshop",
-      "History & heritage",
       "Art & culture",
       "URBANAUT"
     ]
