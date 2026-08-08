@@ -1,120 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Kathika Cultural Experience",
-    "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
-    "startDate": "2026-08-07T11:30:00+05:30",
-    "endDate": "2026-08-31T14:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.64610280000000000000",
-        "longitude": "77.22736410000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kathika Cultural Centre and Museum",
-      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
-    },
-    "url": "https://urbanaut.app/spot/kathika-cultural-experience-15616",
-    "keywords": [
-      "Music",
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Run Like A Girl",
-    "description": "RUN LIKE A GIRL!We are starting this weekend with an adrenaline rush. So, we have a 3 Km beginner friendly run and a coffee (coffee and snacks on us) rave after at Blue Tokai Ambience Mall, Gurgaon. Your ticket includes access to the run, cardio dance session, a coffee at Blue Tokai + Sandwich, post run rave, and some protein yogurt popsicles by Frozen Fun. Here's the detailed plan: 7:00 - We meet outside Ambience Mall Gurgaon - outside Paul's7:15 - Cardio Dance session (bollywood songs, ofc)7:35 - Run Time (a 3km loop outside Ambience Mall)8:15 - Coffee and Dance Rave! & Fitness Challenges\u0915\u094d\u092f\u093e \u0906\u092a convince \u0939\u094b \u0917\u090f \u092f\u093e \u092e\u0948\u0902 \u0914\u0930 \u092c\u094b\u0932\u0942\u0901?",
-    "startDate": "2026-08-08T07:00:00+05:30",
-    "endDate": "2026-08-08T10:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "NH-8, Ambience Island, DLF Phase 3, Sector 24, Gurugram, Haryana 122002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.50487480000000000000",
-        "longitude": "77.09695940000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "249.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag45",
-    "keywords": [
-      "Adventure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Partition 1947 & Delhi heritage walk @Purana Qila",
-    "description": "Join Us for Partition 1947 & Delhi heritage walk & Baithak at Purana Qila Curated by Darwesh heritage walks in collaboration with Sabhyata FoundationFrom nuclear proliferation to terrorism, the Partition of India continues to cast its shadow even today. Join us for a Baithak that seeks to understand the complex experiences of Partition\u2014an event that remains deeply misunderstood both within and beyond the subcontinent. Through facts, poetry, literature, photographs, paintings, and personal belongings, we will revisit this significant chapter of history. Discover how Partition shaped Delhi\u2019s culture and internal geography.Why at Purana Qila: because it was used as a refugee camp in 1947 & afterwards.Kuch Pal Purana Qila Ke Naam! (suitable for 10 years & above)* Duration: 2.5 hours approx * Language: A blend of Hindi, Urdu & English(Special invitation to senior citizens, as this session involves less walking!)* Baithak Host: Nitika-Meeting point: Purana Qila ticket counter --Nearest metro station: Supreme Court- Instagram: Darwesh_taleweavers",
-    "startDate": "2026-08-08T08:00:00+05:30",
-    "endDate": "2026-08-08T10:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Mathura Rd, Near Delhi Zoo, J65V+RFH, Pragati Maidan, New Delhi, Delhi 110001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.60957440000000000000",
-        "longitude": "77.24373709999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "800.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "DARWESH_TALEWEAVERS",
-      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
-    },
-    "url": "https://urbanaut.app/spot/purqilwalk",
-    "keywords": [
-      "History & heritage",
-      "Guided tour",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Cyanotype Workshop",
     "description": "The workshop on the Cyanotype Process is an immersive one-day workshop where the participants learn the historic 19th century printmaking process and get to create their own unique handmade prints on both paper & fabric and take them home.What You'll ExperienceGain an introduction to Cyanotype through guided learning and hands-on practice.History of Cyanotype: Learn about the origin of Cyanotype, an alternative printing technique through a brief presentation.Science of Cyanotype: Mix chemicals and coat your own surfaces in a hands-on darkroom setting. Creation & Patience: Compose with natural elements and watch your images develop through light and time.Your Final Prints: Wash and finish the prints you've created to take home.",
@@ -556,44 +442,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Raat Ke Afsane : Qutub Minar",
-    "description": "Experience the magic of Qutub Minar like never before\u2014under the stars and glowing lights. This is a guided heritage walk led by a historian, who will take you through the stunning Qutub complex after dark. As the entire site is beautifully illuminated at night, the minaret shines like Delhi\u2019s very own Eiffel Tower\u2014majestic, mysterious, and unforgettable.Walk through centuries of history, discover forgotten stories, and explore Delhi\u2019s medieval past through engaging storytelling. The play of light, shadow, and silence transforms this heritage site into something truly cinematicPlaces we will cover : 1. Mughal Serai2. Alai Minar3. Iltutmish Tomb4. Qutub Minar5. Iron Pilar6. 27 Jain and hindu temples7. Alai Darwaza8. Alauddin Khilji grave and madarsa .Important Points:  1. Details of the heritage walk will be mailed to you when you book the tickets2. No guided fees for kids below 5.3. Medium of communication : Hindi and English4. Please note that in case of unavoidable external reasons such as (weather conditions, political rallies, VIP movement, powercut) the walk may be canceled. The participant has the liberty to take another walk by the company against the payment they have made within 30 days since the date of the registered walk.5. The company does not have refund policy.",
-    "startDate": "2026-08-08T18:30:00+05:30",
-    "endDate": "2026-08-29T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Qutub Minar Complex Rd, Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52371860000000000000",
-        "longitude": "77.18469040000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "650.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Enroute Indian History",
-      "url": "https://urbanaut.app/partner/enrouteindianhistory"
-    },
-    "url": "https://urbanaut.app/spot/raat-ke-afsane-qutub-minar",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Fireflies Workshop",
     "description": "\ud83c\udf1f Join Us for an Enchanting Evening: Fireflies at Hauz Khas \ud83c\udf1fPrepare to be mesmerized by one of nature\u2019s most magical displays! New Delhi Nature Society is thrilled to invite you to an exclusive event that promises to light up your senses and spark your curiosity.As twilight descends upon the charming and historic Hauz Khas area, we will guide you to a secret location where fireflies dance in the night, creating a breathtaking spectacle of bioluminescence. This hidden gem offers an intimate and serene setting for you to witness this enchanting natural phenomenon.What to Expect:\u2728 Guided Firefly Tour \u2013 Learn about these fascinating creatures and their ecological significance.\ud83c\udf3f Nature Walk \u2013 Immerse yourself in the beauty of the surroundings as night falls. \ud83c\udf42 What to Bring:Comfortable walking shoesA camera (without flash) to capture the momentA sense of wonder and curiosityWater bottleImportant Note: Due to the sensitive nature of the event location, exact details will be provided only upon confirmation of your attendance. Space is limited, so please secure your spot quickly.Don\u2019t miss this opportunity to experience the magic of fireflies in one of Delhi\u2019s most enchanting locations. We look forward to sharing this unforgettable night with you!",
@@ -779,6 +627,44 @@
     "keywords": [
       "Leisure",
       "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Kathika Cultural Experience",
+    "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
+    "startDate": "2026-08-09T11:30:00+05:30",
+    "endDate": "2026-08-31T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64610280000000000000",
+        "longitude": "77.22736410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kathika Cultural Centre and Museum",
+      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
+    },
+    "url": "https://urbanaut.app/spot/kathika-cultural-experience-15616",
+    "keywords": [
+      "Music",
+      "History & heritage",
       "Art & culture",
       "URBANAUT"
     ]
