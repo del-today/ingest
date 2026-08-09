@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "@type": "ScreeningEvent",
+    "name": "Mind Game(2004)",
+    "url": "https://fillum.in/screening/5943",
+    "startDate": "2026-08-09T20:30:00+05:30",
+    "endDate": "2026-08-09T20:30:00+05:30",
+    "description": "After a deadly encounter with two yakuza, a loser with a crush on his childhood girlfriend goes to heaven and back, embarking on a psychedelic self-discovery experience with her and his friends.",
+    "location": {
+      "@type": "Place",
+      "name": "mool, south ex 2",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Outsider: Freud(2024)",
+    "url": "https://fillum.in/screening/5916",
+    "startDate": "2026-08-10T18:30:00+05:30",
+    "endDate": "2026-08-10T18:30:00+05:30",
+    "description": "Free entry. Open to all on first come first served basis.",
+    "location": {
+      "@type": "Place",
+      "name": "Lecture Room I, IIC Annexe",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "India International Centre"
+    }
+  }
+]
