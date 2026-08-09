@@ -2,119 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "name": "Cyanotype Workshop",
-    "description": "The workshop on the Cyanotype Process is an immersive one-day workshop where the participants learn the historic 19th century printmaking process and get to create their own unique handmade prints on both paper & fabric and take them home.What You'll ExperienceGain an introduction to Cyanotype through guided learning and hands-on practice.History of Cyanotype: Learn about the origin of Cyanotype, an alternative printing technique through a brief presentation.Science of Cyanotype: Mix chemicals and coat your own surfaces in a hands-on darkroom setting. Creation & Patience: Compose with natural elements and watch your images develop through light and time.Your Final Prints: Wash and finish the prints you've created to take home.",
-    "startDate": "2026-08-08T11:15:00+05:30",
-    "endDate": "2026-08-16T17:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Shri Ganesh Mandir Marg, Sector 28, DLF Phase IV, Gurugram, Haryana 122009, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46961600000000000000",
-        "longitude": "77.08038510000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "4000.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Museo Camera",
-      "url": "https://urbanaut.app/partner/museo-camera"
-    },
-    "url": "https://urbanaut.app/spot/cyanotype-workshop-15572",
-    "keywords": [
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Latin American Supper Brunch August",
-    "description": "Summer Edition of  our Latin American Supper Brunch Welcome to V\u2019s Supper Stories, where food is slow, stories are shared, and the table is the experience.This isn\u2019t a restaurant. It\u2019s a quiet corner of Saket, New Delhi, where once a week, 12\u201314 guests gather around one long table. No menus in hand. No loud music. Just seasonally inspired dishes, soft conversation, and the kind of atmosphere you remember long after dessert.On the menu - Pomelo & Apple Ceviche, Summer Tomato Tostada, Salsa Matcha Corn Pops, Brazilian Prawn Moqueca, Summer Vegetable Moqueca, Coconut Lime Rice and Tres Leches. Come solo or a +1. Come curious. Come for the quiet joy of a meal made with care.We\u2019re based in Saket, New Delhi \u2014 and the exact address is shared 24 hours before, because the feeling of discovery is part of what makes it special.Follow along at @vsupperstories for glimpses of the table, the food, and the people who bring it to life.",
-    "startDate": "2026-08-08T12:30:00+05:30",
-    "endDate": "2026-08-09T15:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Saiyad ul Ajaib, Sainik Farm, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52035400000000000000",
-        "longitude": "77.20257900000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3100.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "V's Supper Stories",
-      "url": "https://urbanaut.app/partner/vsupperstories"
-    },
-    "url": "https://urbanaut.app/spot/latinamericansupperaug",
-    "keywords": [
-      "Premium",
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Mental Health Hike",
-    "description": "A two-hour guided nature walk that blends adventure, history, and deep presence.We\u2019ll begin by climbing the first fortified wall of Delhi within Sanjay Van, offering sweeping views over the forest canopy. We will walk through centuries old rocks, forest area, and open clearings where the city fades into the background.Along the way, we will engage in simple sensory grounding practices:Feel the texture of bark and stone under your fingersListen to the sounds of birds and wind Breathe in the scent of dry earth and wild herbs Sense your feet meeting the ancient path These moments of quiet attention create an experience that is simultaneously invigorating and restorative: the challenge of the climb and uneven terrain, the curiosity of discovering hidden corners of Sanjay Van, and the steadying effect of moving slowly and noticing deeply.Carry a bottle of water with you and come ready to walk, climb, listen, and return a little more grounded than when you began.",
-    "startDate": "2026-08-09T06:30:00+05:30",
-    "endDate": "2026-08-09T08:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "G5PJ+PMP Sanjay Van, New Mehrauli Road, Block B, Qutab Institutional Area, New Delhi, Delhi 110016, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53698790000000000000",
-        "longitude": "77.18188470000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Reset with Nature",
-      "url": "https://urbanaut.app/partner/reset-with-nature"
-    },
-    "url": "https://urbanaut.app/spot/mental-health-hike",
-    "keywords": [
-      "Leisure",
-      "Adventure",
-      "Eco Friendly",
-      "Walking Tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
     "name": "The Epiloguers Club: Book Club Meet on 9th August",
     "description": "What to expect?Show up with a book you have recently read and enjoy a stimulating conversation over coffee with other book lovers. We'll have literary ice-breakers, followed by a guided discussion about your book, in which you can tell us why you picked it, major themes, plot, setting, pace, what you liked or disliked about it, anything & everything, as long as it is spoiler-free. After this we will open the floor for other readers to ask you questions and do some deep diving.Don\u2019t worry, it\u2019s a safe space and a leisure activity, not a test. Sit back, enjoy, please do engage & ask questions & clarifications from other readers; but most importantly arrive in the discussions from a place of curiosity instead of judgment.Please arrive at the cafe by 10.45 AM so we can settle in and start together at 11 AM!Who we are?We are The Epiloguers Club, a book club for the people who after finishing a book crave to share their thoughts and invite discussion.Our name comes from the epilogue, that final, quiet space at the end of a story where loose ends are gathered and story settles in with its sigh or boom. We live in that space. We pull it apart, debate it, and keep it alive long after the book is closed.Our meets follow a bring-your-own-book format built around a conceptual theme, which means you arrive with one book and usually leave with twelve recommendations and at least three new interpretations of your own.You can follow us on Instagram for more updates: @the_epiloguers_clubEvent Terms & Conditions:    Tickets once booked are non-refundable, non-modifiable, and non-transferable, except if the event is cancelled by the organiser. Entry is permitted only upon presenting a valid booking confirmation.    Spots are limited and allocated on a first-come, first-served basis.    Please arrive at least 15 minutes before the event begins. Late entry may be restricted to avoid disturbing the experience.    The organisers reserve the right to refuse entry or remove any participant whose behaviour is disruptive, abusive, or inappropriate.    Photography and videography may take place during the event. By attending, participants consent to being photographed or recorded for The Epiloguers Club\u2019s promotional and social media purposes.    Participants are responsible for their own safety & personal belongings. The organisers, platform and the venue shall not be liable for any injury, loss, theft, or damage.    In case of unforeseen circumstances (force majeure, venue restrictions, weather, or emergencies), the event may be rescheduled or modified at the organizers' discretion. Any updates will be communicated to registered participants, usually through whatsapp.    The Epiloguers Club\u2019s reserves the right to make changes to the event schedule, activities, or venue if required to ensure the smooth conduct of the experience.    The platform acts solely as a ticketing facilitator and is not responsible for event management or safety.",
     "startDate": "2026-08-09T10:45:00+05:30",
@@ -295,6 +182,44 @@
     "keywords": [
       "Food & drink",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Latin American Supper Brunch August",
+    "description": "Summer Edition of  our Latin American Supper Brunch Welcome to V\u2019s Supper Stories, where food is slow, stories are shared, and the table is the experience.This isn\u2019t a restaurant. It\u2019s a quiet corner of Saket, New Delhi, where once a week, 12\u201314 guests gather around one long table. No menus in hand. No loud music. Just seasonally inspired dishes, soft conversation, and the kind of atmosphere you remember long after dessert.On the menu - Pomelo & Apple Ceviche, Summer Tomato Tostada, Salsa Matcha Corn Pops, Brazilian Prawn Moqueca, Summer Vegetable Moqueca, Coconut Lime Rice and Tres Leches. Come solo or a +1. Come curious. Come for the quiet joy of a meal made with care.We\u2019re based in Saket, New Delhi \u2014 and the exact address is shared 24 hours before, because the feeling of discovery is part of what makes it special.Follow along at @vsupperstories for glimpses of the table, the food, and the people who bring it to life.",
+    "startDate": "2026-08-09T12:30:00+05:30",
+    "endDate": "2026-08-09T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Saiyad ul Ajaib, Sainik Farm, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52035400000000000000",
+        "longitude": "77.20257900000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3100.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "V's Supper Stories",
+      "url": "https://urbanaut.app/partner/vsupperstories"
+    },
+    "url": "https://urbanaut.app/spot/latinamericansupperaug",
+    "keywords": [
+      "Premium",
+      "Pop-up Event",
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -925,6 +850,42 @@
     "keywords": [
       "Leisure",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Cyanotype Workshop",
+    "description": "The workshop on the Cyanotype Process is an immersive one-day workshop where the participants learn the historic 19th century printmaking process and get to create their own unique handmade prints on both paper & fabric and take them home.What You'll ExperienceGain an introduction to Cyanotype through guided learning and hands-on practice.History of Cyanotype: Learn about the origin of Cyanotype, an alternative printing technique through a brief presentation.Science of Cyanotype: Mix chemicals and coat your own surfaces in a hands-on darkroom setting. Creation & Patience: Compose with natural elements and watch your images develop through light and time.Your Final Prints: Wash and finish the prints you've created to take home.",
+    "startDate": "2026-08-16T11:15:00+05:30",
+    "endDate": "2026-08-16T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shri Ganesh Mandir Marg, Sector 28, DLF Phase IV, Gurugram, Haryana 122009, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46961600000000000000",
+        "longitude": "77.08038510000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "4000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Museo Camera",
+      "url": "https://urbanaut.app/partner/museo-camera"
+    },
+    "url": "https://urbanaut.app/spot/cyanotype-workshop-15572",
+    "keywords": [
+      "Workshop",
       "URBANAUT"
     ]
   },
