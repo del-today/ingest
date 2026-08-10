@@ -670,48 +670,10 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "name": "No Parking Simulation",
-    "description": "helloo",
-    "startDate": "2026-08-16T07:00:00+05:30",
-    "endDate": "2026-08-16T09:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Opposite Bunglow No.46, Sector 4, Lodhi Estate, Lodhi Estate, New Delhi, Delhi 110003, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59422390000000000000",
-        "longitude": "77.22559430000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "349.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/no-parking-simulation",
-    "keywords": [
-      "Wellness",
-      "Workshop",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
     "name": "Hot Girls Do Pilates",
-    "description": "Let\u2019s make your Sunday morning extra feel-good with Hot Girls Do Pilates, a guided pilates experience by SWAG Come and feel fitter in the company of like-minded women, and stayback for a quick coffee/tea and some chit-chat!",
+    "description": "Let\u2019s make your Sunday morning extra feel-good with Hot Girls Do Pilates, a guided pilates experience by SWAGCome and feel fitter in the company of like-minded women, and stayback for a quick coffee , breakfast and some chit-chat!",
     "startDate": "2026-08-16T08:30:00+05:30",
-    "endDate": "2026-08-16T10:30:00+05:30",
+    "endDate": "2026-08-16T10:00:00+05:30",
     "location": {
       "@type": "Place",
       "address": "NH-8, Ambience Island, DLF Phase 3, Sector 24, Gurugram, Haryana 122002, India",
@@ -726,7 +688,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "349.00",
+      "price": "499.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -786,7 +748,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Open SketchBook",
-    "description": "Open SketchBookOverviewA slower way of seeing what\u2019s already there.People gather outdoors to observe, sketch, and spend time noticing details that often go unseen. No pressure. Just attention.Our core belief is that you do not need to leave the city to feel grounded. In a world where everyone is distracted, we pause as a group to give our attention to one shared thing. Sketching becomes the medium to notice small, living details in urban spaces that we usually rush through.You do not need to be an artist to enjoy sketching. Open SketchBook is a session for anyone who wants to explore drawing as a way to relax and observe the world. It is about the process of putting pencil to paper rather than the final masterpiece.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to expectGuided Observation: Learn simple ways to look at objects or spaces and translate them into lines and shapes.Creative Freedom: A judgment free zone where you can experiment with sketching without worrying about \"doing it right.\"Tactile Experience: Use your new diary and pencil kit to capture what you see in the moment.Relaxed Environment: Enjoy a late afternoon at Greenr with a small group of people who just want to create and connect.Details\ud83d\uddd3\ufe0f Date: 16th August (Sunday)\u23f0 Time: 5:30 PM\ud83d\udccd Location: Greenr, Golf Course Ext Road\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes an A6 diary)",
+    "description": "Open SketchBookOverviewA slower way of seeing what\u2019s already there.People gather outdoors to observe, sketch, and spend time noticing details that often go unseen. No pressure. Just attention.Our core belief is that you do not need to leave the city to feel grounded. In a world where everyone is distracted, we pause as a group to give our attention to one shared thing. Sketching becomes the medium to notice small, living details in urban spaces that we usually rush through.You do not need to be an artist to enjoy sketching. Open SketchBook is a session for anyone who wants to explore drawing as a way to relax and observe the world. It is about the process of putting pencil to paper rather than the final masterpiece.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to expectGuided Observation: Learn simple ways to look at objects or spaces and translate them into lines and shapes.Creative Freedom: A judgment free zone where you can experiment with sketching without worrying about \"doing it right.\"Tactile Experience: Use your new diary and pencil kit to capture what you see in the moment.Relaxed Environment: Enjoy a late afternoon at Greenr with a small group of people who just want to create and connect.Details\ud83d\uddd3\ufe0f Date: 16th August (Sunday)\u23f0 Time: 11:00 AM\ud83d\udccd Location: Greenr, Golf Course Ext Road\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes an A6 diary)",
     "startDate": "2026-08-16T11:00:00+05:30",
     "endDate": "2026-08-16T13:00:00+05:30",
     "location": {
@@ -972,7 +934,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "BADDY WITH BADDIES | GK 1",
-    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.6:50 AM Meet up and Warm up Time7:00 AM Game TimeSee you on court!",
+    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.6:50 PM Meet up and Warm up Time7:00 PM Game TimeSee you on court!",
     "startDate": "2026-08-16T19:00:00+05:30",
     "endDate": "2026-08-16T20:00:00+05:30",
     "location": {
@@ -989,7 +951,7 @@
     "typicalAgeRange": "25+",
     "offers": {
       "@type": "Offer",
-      "price": "370.00",
+      "price": "295.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -1042,44 +1004,6 @@
       "Workshop",
       "History & heritage",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "No Parking Simulation",
-    "description": "SWAG x PUMA x SPARTAN FITNESSHOT GIRLS DO HYROX!Yet to hop on to the HYROX train? As Delhi prepares to host Hyrox, SWAG is here with a women-only, high-intensity HYROX Simulation, a team challenge designed to capture the essence of HYROX racing in a fast, accessible format.Expect a 8 Stations - 8*500m Running Simulation at a SPARTAN FITNESS, an elite fitness destination, access to Sauna & Cold Plunge, recovery by RESET and protein snacks by PHAB!We have limited spots! Book yours now!",
-    "startDate": "2026-08-20T18:00:00+05:30",
-    "endDate": "2026-08-20T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "3rd floor, AIPL JOY GALLERY, Badshahpur, Sector 66, Gurugram, Haryana 122002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.40500560000000000000",
-        "longitude": "77.05737400000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "399.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag47",
-    "keywords": [
-      "Adventure",
-      "Wellness",
-      "Active",
       "URBANAUT"
     ]
   },
@@ -1289,7 +1213,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "262.00",
+      "price": "941.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
