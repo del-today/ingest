@@ -336,6 +336,41 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Trouble Brewing @ Afeto",
+    "description": "During a hellish thunderstorm, a scream echoes through the sleepy town of Ravenswood Bluff. The townsfolk rush to investigate and find the beloved local storyteller has been murdered, their body hanging limp from the clocktower. As blood drips onto the cobblestones below, a realisation slowly dawns\u2026 a demon has been unleashed, killing by night and taking on human form by day. Can good find the demon in time? Or will evil overrun this once peaceful town?\u200b\u200b\u200bWhat is BotC?\u200bBlood on the Clocktower is a game of murder and mystery, lies and logic, deduction and deception for five-to-twenty courageous players and one devious storyteller.\u200bA social game played in person, seated in a circle, each player receives either a \u2018good\u2019 or \u2018evil\u2019 token with their unique character on it. Good players share information to solve the mystery whilst evil players lie about who they are and what they know. The good team wins if they can piece together their knowledge, trust each other, and execute the demon. The evil team wins if the demon can sow distrust, evade detection, and wipe out the town.",
+    "startDate": "2026-08-14T19:00:00+05:30",
+    "endDate": "2026-08-14T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ground Floor, ESI-Basaidarapur, Metro Station, Shivaji Enclave, Tagore Garden Extension, New Delhi, Delhi, 110027, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.65805100000000000000",
+        "longitude": "77.12750869999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "515.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Table Top Games Club",
+      "url": "https://urbanaut.app/partner/the-table-top-games-club"
+    },
+    "url": "https://urbanaut.app/spot/trouble-brewing-afeto",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Latin American Supper Dinner",
     "description": "Summer Edition of our Latin American Supper DinnerWelcome to V\u2019s Supper Stories, where food is slow, stories are shared, and the table is the experience.This isn\u2019t a restaurant. It\u2019s a quiet corner of Saket, New Delhi, where once a week, 10\u201312 guests gather around one long table. No menus in hand. No loud music. Just seasonally inspired dishes, soft conversation, and the kind of atmosphere you remember long after dessert.On the menu - Pomelo & Apple Ceviche, Summer Tomato Tostada, Salsa Matcha Corn Pops, Brazilian Prawn Moqueca, Summer Vegetable Moqueca, Coconut Lime Rice and Tres Leches.Come solo or a +1. Come curious. Come for the quiet joy of a meal made with care.We\u2019re based in Saket, New Delhi \u2014 and the exact address is shared 24 hours before, because the feeling of discovery is part of what makes it special.Follow along at @vsupperstories for glimpses of the table, the food, and the people who bring it to life.",
@@ -483,6 +518,120 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Raat Ke Afsane : Qutub Minar",
+    "description": "Experience the magic of Qutub Minar like never before\u2014under the stars and glowing lights. This is a guided heritage walk led by a historian, who will take you through the stunning Qutub complex after dark. As the entire site is beautifully illuminated at night, the minaret shines like Delhi\u2019s very own Eiffel Tower\u2014majestic, mysterious, and unforgettable.Walk through centuries of history, discover forgotten stories, and explore Delhi\u2019s medieval past through engaging storytelling. The play of light, shadow, and silence transforms this heritage site into something truly cinematicPlaces we will cover : 1. Mughal Serai2. Alai Minar3. Iltutmish Tomb4. Qutub Minar5. Iron Pilar6. 27 Jain and hindu temples7. Alai Darwaza8. Alauddin Khilji grave and madarsa .Important Points:  1. Details of the heritage walk will be mailed to you when you book the tickets2. No guided fees for kids below 5.3. Medium of communication : Hindi and English4. Please note that in case of unavoidable external reasons such as (weather conditions, political rallies, VIP movement, powercut) the walk may be canceled. The participant has the liberty to take another walk by the company against the payment they have made within 30 days since the date of the registered walk.5. The company does not have refund policy.",
+    "startDate": "2026-08-15T18:30:00+05:30",
+    "endDate": "2026-08-29T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Qutub Minar Complex Rd, Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52371860000000000000",
+        "longitude": "77.18469040000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/raat-ke-afsane-qutub-minar",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Baddy with Baddies | Gurugram",
+    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.6:50 PM Meet up and Warm up Time7:00 PM Game TimeSee you on court!",
+    "startDate": "2026-08-15T19:00:00+05:30",
+    "endDate": "2026-08-15T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Sportyzo Badminton Academy, Emaar emerald hills, Golf Course Ext Rd, opposite Ivory Block, Sector 65, Gurugram, Haryana 122011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40465650000000000000",
+        "longitude": "77.07401440000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "279.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag42",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Pickleball with SWAG | Gurugram",
+    "description": "The SWAG Pickleball Party is your perfect evening plan!This is a women-only, beginner-friendly meet-up.See you on court!",
+    "startDate": "2026-08-15T19:00:00+05:30",
+    "endDate": "2026-08-15T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Sportyzo Sports Academy, Sector 65, Gurugram, Haryana 122101, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40450950000000000000",
+        "longitude": "77.07416250000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "360.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag43",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "A Vietnamese Family Table by Paprika Tokri",
     "description": "Food is never just food.This August, we\u2019re opening the farm and gathering around one long table for an evening inspired by the vibrant flavours and generous spirit of Vietnam.Vietnamese food is made for gathering. Dishes arrive together, herbs are torn by hand, and every mouthful moves between freshness and fire, sweetness and acidity, comfort and surprise.Expect fire-kissed prawns brushed with lemongrass-soy brown butter, crisp turmeric and coconut cr\u00eapes, a light herb broth, fragrant claypot rice served family-style, thoughtful drinks and French vanilla ice cream finished with salted caramel and roasted coconut.As always, this is not a restaurant service. It is an intimate evening where strangers become friends, stories are shared between courses and the meal unfolds slowly around one table.Come, take a seat at our table.",
@@ -515,6 +664,82 @@
     "keywords": [
       "Eco Friendly",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "No Parking Simulation",
+    "description": "helloo",
+    "startDate": "2026-08-16T07:00:00+05:30",
+    "endDate": "2026-08-16T09:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Opposite Bunglow No.46, Sector 4, Lodhi Estate, Lodhi Estate, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59422390000000000000",
+        "longitude": "77.22559430000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "349.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/no-parking-simulation",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Hot Girls Do Pilates",
+    "description": "Let\u2019s make your Sunday morning extra feel-good with Hot Girls Do Pilates, a guided pilates experience by SWAG Come and feel fitter in the company of like-minded women, and stayback for a quick coffee/tea and some chit-chat!",
+    "startDate": "2026-08-16T08:30:00+05:30",
+    "endDate": "2026-08-16T10:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "NH-8, Ambience Island, DLF Phase 3, Sector 24, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.50487480000000000000",
+        "longitude": "77.09695940000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "349.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/hot-girls-do-pilates",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Active",
       "URBANAUT"
     ]
   },
@@ -707,6 +932,82 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Dunk Like A Girl",
+    "description": "SWAG's first-ever Basketball Session is here!Grab your sneakers and bring your best energy - it's time for Dunk Like A Girl \ud83c\udff8\u2728, a women-only basketball meet-up where the only goal is to have fun.Whether you've played before or you're trying basketball for the first time, everyone is welcome. We'll play easy games, cheer each other on, and enjoy an hour full of movement, fun, and good vibes.So if you've been looking for an excuse to get back on the court (or step onto one for the first time), this is it.\ud83d\udcc5 Sunday, 16th August\ud83d\udd57 7:00 PM \u2013 8:00 PMCome solo or with your girls - you'll leave with a great workout, a few new friends, and probably plans for a rematch.",
+    "startDate": "2026-08-16T19:00:00+05:30",
+    "endDate": "2026-08-16T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Nandi Vithi Rd, N Block, Greater Kailash I, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55579910000000000000",
+        "longitude": "77.23527080000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "199.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag50",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "BADDY WITH BADDIES | GK 1",
+    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.6:50 AM Meet up and Warm up Time7:00 AM Game TimeSee you on court!",
+    "startDate": "2026-08-16T19:00:00+05:30",
+    "endDate": "2026-08-16T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Nandi Vithi Rd, N Block, Greater Kailash I, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55579910000000000000",
+        "longitude": "77.23527080000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "370.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag48",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Lippan Art Workshop",
     "description": "Discover the beautiful mud-and-mirror craft of Kutch, reimagined as a mandala you'll be proud to hang. You'll build up raised clay patterns and set glinting mirrors into your design, learning a traditional technique with a calm, rhythmic flow. Equal parts heritage and hands-on joy, it's ideal for anyone who loves detail and texture. All materials and your finished piece included. Tea, coffee and dry snacks complimentary. \u20b9950/-",
@@ -741,6 +1042,44 @@
       "Workshop",
       "History & heritage",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "No Parking Simulation",
+    "description": "SWAG x PUMA x SPARTAN FITNESSHOT GIRLS DO HYROX!Yet to hop on to the HYROX train? As Delhi prepares to host Hyrox, SWAG is here with a women-only, high-intensity HYROX Simulation, a team challenge designed to capture the essence of HYROX racing in a fast, accessible format.Expect a 8 Stations - 8*500m Running Simulation at a SPARTAN FITNESS, an elite fitness destination, access to Sauna & Cold Plunge, recovery by RESET and protein snacks by PHAB!We have limited spots! Book yours now!",
+    "startDate": "2026-08-20T18:00:00+05:30",
+    "endDate": "2026-08-20T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "3rd floor, AIPL JOY GALLERY, Badshahpur, Sector 66, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40500560000000000000",
+        "longitude": "77.05737400000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "399.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag47",
+    "keywords": [
+      "Adventure",
+      "Wellness",
+      "Active",
       "URBANAUT"
     ]
   },
