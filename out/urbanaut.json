@@ -4,7 +4,7 @@
     "@type": "Event",
     "name": "Kathika Cultural Experience",
     "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
-    "startDate": "2026-08-09T11:30:00+05:30",
+    "startDate": "2026-08-10T11:30:00+05:30",
     "endDate": "2026-08-31T14:00:00+05:30",
     "location": {
       "@type": "Place",
@@ -42,7 +42,7 @@
     "@type": "EducationEvent",
     "name": "21 Days of Reset with Nature",
     "description": "Holistic Wellbeing Program by Reset with NatureFacilitated by Muskaan & KarishmaStarting from 10th August till 31st AugustEscape the chaos of Delhi and reconnect with yourself through daily nature walks + unique therapeutic activities designed to destress, regulate your nervous system, and boost mental & physical wellbeing.What you\u2019ll experience every day:Guided nature walks to ground, refresh, and breathe freelyRelaxing, unique therapeutic practices including:Nervous system regulationExpressive artInner child healingGuided meditationAnd more calming techniquesWhy this is important for people living in Delhi:Constant hustle and urban stress take a heavy toll on your mind and bodyLimited access to green spaces makes intentional nature time essentialFast-paced city life leaves little room for restWhy this is going to be so much fun (and a must-attend!):Fresh air, beautiful green spaces, and a supportive community every single dayCreative, uplifting activities that feel more like play than \u201cwork on yourself\u201dLaugh, reflect, heal, and bond with like-minded people on the same journey21 days of small joyful habits that leave you feeling lighter, happier, and truly resetThis isn\u2019t just another wellness program \u2014 it\u2019s your daily dose of peace, joy, and connection in the middle of city life.Follow Reset with Nature on Instagram and join Muskaan & Karishma for an unforgettable 21-day reset you won\u2019t want to miss!Who can be part of this holistic wellness experience: 18 years above",
-    "startDate": "2026-08-10T07:00:00+05:30",
+    "startDate": "2026-08-11T07:00:00+05:30",
     "endDate": "2026-08-31T08:15:00+05:30",
     "location": {
       "@type": "Place",
@@ -149,6 +149,44 @@
     "keywords": [
       "Leisure",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Baddy with Baddies | Mehrauli",
+    "description": "Grab your racket and bring your best energy - it's time for Baddy with Baddies \ud83c\udff8\u2728, a women-only badminton meet-up where the only goal is to have fun.Whether you've got a sneaky smash up your sleeve or you're simply looking for a fun way to move, this session is all about friendly rallies, big laughs, and moving your body in great company. Expect good vibes, and a community of women who are here to play, cheer each other on, and enjoy the sport.So if you've been looking for an excuse to get back on the court (or step onto one for the first time), this is it.\ud83d\udcc5 Wednesday, 12th August\ud83d\udd57 8:00 PM \u2013 9:00 PMCome solo or with your girls - you'll leave with a great workout, a few new friends, and probably plans for a rematch.",
+    "startDate": "2026-08-12T20:00:00+05:30",
+    "endDate": "2026-08-12T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "near Qutab Minar Metro Station, Aam Bagh, Ladha Sarai Village, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.51514850000000000000",
+        "longitude": "77.18640390000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "299.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag46",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
       "URBANAUT"
     ]
   },
@@ -292,6 +330,44 @@
     "url": "https://urbanaut.app/spot/onam",
     "keywords": [
       "Festival",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Latin American Supper Dinner",
+    "description": "Summer Edition of our Latin American Supper DinnerWelcome to V\u2019s Supper Stories, where food is slow, stories are shared, and the table is the experience.This isn\u2019t a restaurant. It\u2019s a quiet corner of Saket, New Delhi, where once a week, 10\u201312 guests gather around one long table. No menus in hand. No loud music. Just seasonally inspired dishes, soft conversation, and the kind of atmosphere you remember long after dessert.On the menu - Pomelo & Apple Ceviche, Summer Tomato Tostada, Salsa Matcha Corn Pops, Brazilian Prawn Moqueca, Summer Vegetable Moqueca, Coconut Lime Rice and Tres Leches.Come solo or a +1. Come curious. Come for the quiet joy of a meal made with care.We\u2019re based in Saket, New Delhi \u2014 and the exact address is shared 24 hours before, because the feeling of discovery is part of what makes it special.Follow along at @vsupperstories for glimpses of the table, the food, and the people who bring it to life.",
+    "startDate": "2026-08-14T19:15:00+05:30",
+    "endDate": "2026-08-14T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Saiyad ul Ajaib, Sainik Farm, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52035400000000000000",
+        "longitude": "77.20257900000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3100.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "V's Supper Stories",
+      "url": "https://urbanaut.app/partner/vsupperstories"
+    },
+    "url": "https://urbanaut.app/spot/latinamerican",
+    "keywords": [
+      "Premium",
+      "Pop-up Event",
       "Food & drink",
       "URBANAUT"
     ]
@@ -632,44 +708,6 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "name": "Fireflies Workshop",
-    "description": "\ud83c\udf1f Join Us for an Enchanting Evening: Fireflies at Hauz Khas \ud83c\udf1fPrepare to be mesmerized by one of nature\u2019s most magical displays! New Delhi Nature Society is thrilled to invite you to an exclusive event that promises to light up your senses and spark your curiosity.As twilight descends upon the charming and historic Hauz Khas area, we will guide you to a secret location where fireflies dance in the night, creating a breathtaking spectacle of bioluminescence. This hidden gem offers an intimate and serene setting for you to witness this enchanting natural phenomenon.What to Expect:\u2728 Guided Firefly Tour \u2013 Learn about these fascinating creatures and their ecological significance.\ud83c\udf3f Nature Walk \u2013 Immerse yourself in the beauty of the surroundings as night falls. \ud83c\udf42 What to Bring:Comfortable walking shoesA camera (without flash) to capture the momentA sense of wonder and curiosityWater bottleImportant Note: Due to the sensitive nature of the event location, exact details will be provided only upon confirmation of your attendance. Space is limited, so please secure your spot quickly.Don\u2019t miss this opportunity to experience the magic of fireflies in one of Delhi\u2019s most enchanting locations. We look forward to sharing this unforgettable night with you!",
-    "startDate": "2026-08-16T19:30:00+05:30",
-    "endDate": "2026-08-16T20:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "354, Hauz Khas Tank, Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55434890000000000000",
-        "longitude": "77.19554660000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "350.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "New Delhi Nature Society",
-      "url": "https://urbanaut.app/partner/new-delhi-nature-society-312"
-    },
-    "url": "https://urbanaut.app/spot/fireflies-workshop-15301",
-    "keywords": [
-      "Workshop",
-      "Walking Tour",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
     "name": "Lippan Art Workshop",
     "description": "Discover the beautiful mud-and-mirror craft of Kutch, reimagined as a mandala you'll be proud to hang. You'll build up raised clay patterns and set glinting mirrors into your design, learning a traditional technique with a calm, rhythmic flow. Equal parts heritage and hands-on joy, it's ideal for anyone who loves detail and texture. All materials and your finished piece included. Tea, coffee and dry snacks complimentary. \u20b9950/-",
     "startDate": "2026-08-19T12:00:00+05:30",
@@ -779,44 +817,6 @@
       "Local",
       "Festival",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Fireflies Workshop",
-    "description": "\ud83c\udf1f Join Us for an Enchanting Evening: Fireflies at Hauz Khas \ud83c\udf1fPrepare to be mesmerized by one of nature\u2019s most magical displays! New Delhi Nature Society is thrilled to invite you to an exclusive event that promises to light up your senses and spark your curiosity.As twilight descends upon the charming and historic Hauz Khas area, we will guide you to a secret location where fireflies dance in the night, creating a breathtaking spectacle of bioluminescence. This hidden gem offers an intimate and serene setting for you to witness this enchanting natural phenomenon.What to Expect:\u2728 Guided Firefly Tour \u2013 Learn about these fascinating creatures and their ecological significance.\ud83c\udf3f Nature Walk \u2013 Immerse yourself in the beauty of the surroundings as night falls. \ud83c\udf42 What to Bring:Comfortable walking shoesA camera (without flash) to capture the momentA sense of wonder and curiosityWater bottleImportant Note: Due to the sensitive nature of the event location, exact details will be provided only upon confirmation of your attendance. Space is limited, so please secure your spot quickly.Don\u2019t miss this opportunity to experience the magic of fireflies in one of Delhi\u2019s most enchanting locations. We look forward to sharing this unforgettable night with you!",
-    "startDate": "2026-08-21T19:30:00+05:30",
-    "endDate": "2026-08-21T20:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "354, Hauz Khas Tank, Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55434890000000000000",
-        "longitude": "77.19554660000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "350.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "New Delhi Nature Society",
-      "url": "https://urbanaut.app/partner/new-delhi-nature-society-312"
-    },
-    "url": "https://urbanaut.app/spot/fireflies-workshop-15302",
-    "keywords": [
-      "Workshop",
-      "Walking Tour",
-      "Guided tour",
       "URBANAUT"
     ]
   },
@@ -1043,7 +1043,7 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "name": "Fireflies Workshop",
+    "name": "Fireflies Workshop 22/8",
     "description": "\ud83c\udf1f Join Us for an Enchanting Evening: Fireflies at Hauz Khas \ud83c\udf1fPrepare to be mesmerized by one of nature\u2019s most magical displays! New Delhi Nature Society is thrilled to invite you to an exclusive event that promises to light up your senses and spark your curiosity.As twilight descends upon the charming and historic Hauz Khas area, we will guide you to a secret location where fireflies dance in the night, creating a breathtaking spectacle of bioluminescence. This hidden gem offers an intimate and serene setting for you to witness this enchanting natural phenomenon.What to Expect:\u2728 Guided Firefly Tour \u2013 Learn about these fascinating creatures and their ecological significance.\ud83c\udf3f Nature Walk \u2013 Immerse yourself in the beauty of the surroundings as night falls. \ud83c\udf42 What to Bring:Comfortable walking shoesA camera (without flash) to capture the momentA sense of wonder and curiosityWater bottleImportant Note: Due to the sensitive nature of the event location, exact details will be provided only upon confirmation of your attendance. Space is limited, so please secure your spot quickly.Don\u2019t miss this opportunity to experience the magic of fireflies in one of Delhi\u2019s most enchanting locations. We look forward to sharing this unforgettable night with you!",
     "startDate": "2026-08-22T19:30:00+05:30",
     "endDate": "2026-08-22T20:30:00+05:30",
@@ -1082,7 +1082,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "The Quiet Grandeur: Tales of Trees and Tombs",
-    "description": "Sunder Nursery is easily one of the most soul-soothing spots in Delhi\u2014it\u2019s that perfect mix of Mughal grandeur and lush botany. Beyond the manicured lawns of Sunder Nursery lies a 16th-century saga waiting to be told. Join us for a heritage walk, where we swap the city noise for tales of Mughal architecture, restored grandeur, and the secrets of the trees & monuments that stood the test of time.As the monsoon rains wash over Delhi, step into a living tapestry where history and nature breathe as one. On this walk, we will wander through Delhi\u2019s premier arboretum, alive with the earthy scent of wet soil and water channels. Supported by SeasonWatch, as part of their August Tree Festival.",
+    "description": "Sunder Nursery is easily one of the most soul-soothing spots in Delhi\u2014it\u2019s that perfect mix of Mughal grandeur and lush botany. Beyond the manicured lawns of Sunder Nursery lies a 16th-century saga waiting to be told. Join us for a heritage walk, where we swap the city noise for tales of Mughal architecture, restored grandeur, and the secrets of the trees & monuments that stood the test of time. As the monsoon rains wash over Delhi, step into a living tapestry where history and nature breathe as one. On this walk, we will wander through Delhi\u2019s premier arboretum and its UNESCO World Heritage Monuments, alive with the earthy scent of wet soil and water channels. This walk is supported by SeasonWatch, as part of their August Tree Festival.There is no walk fee for children below 12 years old.",
     "startDate": "2026-08-23T08:00:00+05:30",
     "endDate": "2026-08-23T09:30:00+05:30",
     "location": {
@@ -1310,7 +1310,7 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "name": "Fireflies Workshop",
+    "name": "Fireflies Workshop 23/8",
     "description": "\ud83c\udf1f Join Us for an Enchanting Evening: Fireflies at Hauz Khas \ud83c\udf1fPrepare to be mesmerized by one of nature\u2019s most magical displays! New Delhi Nature Society is thrilled to invite you to an exclusive event that promises to light up your senses and spark your curiosity. As twilight descends upon the charming and historic Hauz Khas area, we will guide you to a secret location where fireflies dance in the night, creating a breath taking spectacle of bioluminescence. This hidden gem offers an intimate and serene setting for you to witness this enchanting natural phenomenon. What to Expect:\u2728 Guided Firefly Tour \u2013 Learn about these fascinating creatures and their ecological significance.\ud83c\udf3f Nature Walk \u2013 Immerse yourself in the beauty of the surroundings as night falls. \ud83c\udf42 What to Bring: Comfortable walking shoes, camera (without flash) to capture the moment, a sense of wonder and curiosity, Water bottle. Important Note: Due to the sensitive nature of the event location, exact details will be provided only upon confirmation of your attendance. Space is limited, so please secure your spot quickly. Don\u2019t miss this opportunity to experience the magic of fireflies in one of Delhi\u2019s most enchanting locations. We look forward to sharing this unforgettable night with you!",
     "startDate": "2026-08-23T19:00:00+05:30",
     "endDate": "2026-08-23T20:00:00+05:30",
@@ -1366,7 +1366,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "262.00",
+      "price": "941.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -1644,6 +1644,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "In Search Of Djinns : Kotla Feroz Shah Walk",
+    "description": "The walk takes you inside the fort of the 14th century ruler Firoz Shah Tughlaq built for his new capital Firozabad. The Kushak-e- Firoz (the Palace of Firoz) was strategically built at the banks of River Yamuna. The fort faced riverfront and lush green plains, its staircase leading you to the banks. It has a functioning mosque, a circular baoli (stepwell) known to have water snakes and a hypnotic effect on its visitors (it has recently been barricaded). The fort also has the magnificent Ashokan Pillar in Pali text erected at a height. It is confounding to any visitor how almost 27 tonne of heavy weighing monolith pillar was taken from Haryana and planted inside the fort at such a great height!Every Thursday evening Djinn (supernatural creatures in Islamic mythology) worship is performed in the complex, with visitors leaving their wish list, and a thread tied to the lattice for the Djinns to fulfill their wishes! The fort in recent years has gained the reputation of being haunted, because of the strong belief of Djinns inhabiting the fort.",
+    "startDate": "2026-08-30T07:30:00+05:30",
+    "endDate": "2026-08-30T09:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "J6MV+X87, Balmiki Basti, Vikram Nagar, New Delhi, Delhi, 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.63491590000000000000",
+        "longitude": "77.24330530000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "700.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/in-search-of-djinns-kotla-feroz-shah-walk",
+    "keywords": [
+      "Adventure",
+      "Walking Tour",
+      "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Bazar-i-Husn :  exploring Tawaif culture",
     "description": "Step into the world of grace, wit, and artistry as we explore the lives of Tawaifs\u2014the courtesans who once defined high culture, poetry, and performance in Delhi. This walk takes you through old city lanes that once echoed with ghazals, thumris, and the quiet power of women who shaped taste and tradition.Uncover the layered stories of kothas\u2014not as places of shame, but as salons of sophistication, resistance, and refined art. Let\u2019s reclaim these narratives and see history through a different lens.",
     "startDate": "2026-08-30T07:30:00+05:30",
@@ -1676,6 +1714,45 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Yap and Build",
+    "description": "An idea walk for women with half-baked ideas and big ambitions.\u200bYour next big idea doesn\u2019t need another month in your Notes app.\u200bTouch Grass, Build Things is an informal idea walk for creators, founders, freelancers, students, and anyone with an idea they\u2019ve been meaning to explore.\u200bWe\u2019ll walk, talk, and exchange ideas in a relaxed, judgment-free setting. Bring a business idea, a creative project, a community initiative, a side hustle, or even something that\u2019s still half-baked. This isn\u2019t a pitch competition or a lecture. It\u2019s a space to think out loud, get honest feedback, meet like-minded people, and leave with more clarity than you came with.\u200bHere\u2019s how it works:\u200b\u2728 You\u2019ll be paired with one person to share your idea.\u2728 After a few minutes, you\u2019ll rotate to someone new.\u2728 By the end of the session, complete strangers will have challenged, refined, and shaped your idea from perspectives you never considered.\u200bPlease note: Everyone will purchase their own entry ticket to the venue (food and beverages are self-sponsored). We simply ask that you come with an open mind and at least one idea you\u2019re excited to share.\u200bSometimes all an idea needs is the right conversation.",
+    "startDate": "2026-08-30T08:00:00+05:30",
+    "endDate": "2026-08-30T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Bharat Scouts and Guides Marg, opposite Humayun Tomb Park, Nizamuddin, Hazrat Nizamuddin, National Zoological Park, Sundar Nagar, New Delhi, Delhi 110013, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59564670000000000000",
+        "longitude": "77.24516910000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Galhood",
+      "url": "https://urbanaut.app/partner/the-galhood"
+    },
+    "url": "https://urbanaut.app/spot/yap-and-build",
+    "keywords": [
+      "Local",
+      "Workshop",
+      "Walking Tour",
+      "History & heritage",
       "URBANAUT"
     ]
   },
