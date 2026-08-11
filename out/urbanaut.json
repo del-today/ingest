@@ -265,7 +265,7 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Copy of Copy of Blue Material - An All Dalit Line Up Comedy Show",
+    "name": "Blue Material - An All DalitLine Up Comedy Show",
     "description": "Featuring\u00a0multiple hilarious comedians from our collective, with deeply engaging performances grounded within the personal as well as the political,\u00a0the show uses humour and belly-aching laughter, to highlight the absurd realities of caste, other intersecting forms of oppression and the importance of seeking, creating and amplifying Joy among it all. Our first ever recording tour is coming to Delhi for one evening only!\u00a0Associated with the anti-caste movement, the color blue signifies the sky, a symbol of non-discrimination, under which everyone is treated equally while at the same time 'Blue' comedy is a genre of comedy that is often labelled off-color, risqu\u00e9, indecent or \u201cprofane\u201d.That is exactly the duality that inspired our name: Blue Material, and we are India\u2019s first,Dalit-led, queer affirmative comedy collective.\u00a0Taking place over 90 entertainment packed minutes,\u00a0this is a one of kind standup comedy line up that you won\u2019t want to miss!Proceeds from the show will be donated towards education reform via the Eklavya India Foundation, a prestigious organisation focused on the upliftment of first generation university students from historically marginalised communities.",
     "startDate": "2026-08-13T20:00:00+05:30",
     "endDate": "2026-08-13T22:00:00+05:30",
@@ -709,7 +709,7 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Hot Girls Do Pilates",
-    "description": "Let\u2019s make your Sunday morning extra feel-good with Hot Girls Do Pilates, a guided pilates experience by SWAGCome and feel fitter in the company of like-minded women, and stayback for a quick coffee , breakfast and some chit-chat!",
+    "description": "Let\u2019s make your Sunday morning extra feel-good with Hot Girls Do Pilates, a guided mat pilates experience by SWAG x Ambience MallCome and feel fitter in the company of like-minded women, and stay back for a quick breakfast at Kenangan.Here's the plan,We start with a Mat Pilates session.Slow down with some breath-work and meditation.Head for a quick Coffee & Brekkie at Kenangan.Can't wait to see you this Sunday!",
     "startDate": "2026-08-16T08:30:00+05:30",
     "endDate": "2026-08-16T10:00:00+05:30",
     "location": {
@@ -1571,6 +1571,76 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Inside The Minds of Child Serial Offenders",
+    "description": "Join us for a lecture that challenges one of our most protected assumptions: Are children always innocent? Or can a young mind knowingly choose violence, deception and repeated criminal behaviour?About the LectureThis unLecture ventures into the unsettling world of children who became serial offenders, pushing past conventional ideas about childhood, innocence and responsibility. Beginning with the fundamentals of child psychology and Kohlberg's theory of moral development, the session examines how children understand right and wrong, when behaviour is merely impulsive, and when it may cross into malicious intent and criminal culpability.Through four to five compelling case studies of child serial killers and repeat offenders from diverse social and economic backgrounds, we'll reconstruct their offences, trace how they were eventually apprehended, and identify the psychological and situational factors that may have shaped their conduct \u2014 without reducing violent behaviour to any single cause.The session explores:How Kohlberg's theory of moral development helps explain a child's understanding of right and wrongReal case studies of child serial offenders and how investigators pieced together their patternsThe neuropsychological, behavioural and environmental factors that shape early violent behaviourHow families, schools and institutions can recognise warning signs before childhood deviance escalates into persistent violenceAbout the SpeakerVidushi Jain is a UGC-NET-qualified criminologist, researcher and child-safety advocate. She currently works as a Research Assistant in Criminology, Law and Forensics at the National Forensic Sciences University, Delhi Campus, where she is also pursuing her PhD in Criminology, researching adolescent relationships under the POCSO Act and the complexities of strengthening child-protection mechanisms. A Gold Medallist in Criminology with a specialisation in Human Rights, she brings a background in Media and Communication to her research. She has worked with a Child Rights NGO (Project CACA, Delhi) and UNICEF on child education projects, contributed to the NCPCR's POCSO Department, and trained over 12,000 teachers, 3,000 parents and support staff across 200+ schools pan-India. She has also worked on a national-level research project with over 300 police officers on cybercrime investigations, and with acid-attack survivors on their rehabilitation.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-08-23T16:00:00+05:30",
+    "endDate": "2026-08-23T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ground & First Floor, The Exchange Building, 13, Sham Nath Marg, Civil Lines, New Delhi, Delhi, 110054, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.67649720000000000000",
+        "longitude": "77.22523319999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "550.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/inside-the-minds-of-child-serial-offenders",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "What Are You Listening To?",
+    "description": "Join us for a lecture that will (most likely) change how you hear every song you already know. About the LectureMost of us think of a track as one thing, a song, a feeling, a mood. It never is. Every song you've ever loved is the sum of a stack of decisions made across very different stages, by very different people: a musician chasing a feeling, a producer shaping a structure, a mixing engineer deciding what gets to be loud and what gets to disappear.Whichever one of these three you naturally are will quietly decide how you listen, and most people never find out which one it is.This lecture pulls apart the layers hidden inside your favourite tracks, tracing how a song moves from an idea in someone's head to the sound coming out of your speakers. Drawing on two decades of producing, engineering and performing music across genres, we'll open up the invisible decisions that shape everything you hear.The session explores:The three lenses through which music gets made: musician, producer, mixing engineerHow the same song can sound completely different depending on who's decidingWhat separates a \"good take\" from a \"right take\" in the studioWhy learning to hear these layers changes your relationship with every song you already loveAbout the SpeakerGaurav Chintamani is a music producer, audio engineer and educator who has been exploring sound and its many tangents since 2002. He runs Quarter Note Studios, where he has composed and produced music for jingles, films, documentaries, theatre and podcasts. As bassist for Advaita, one of India's most acclaimed bands, he has released two studio albums to critical acclaim and toured across the country and internationally; as a guitarist, he records solo under the name The Dit Machine. He currently heads the audio school at The Sri Aurobindo Centre for Arts and Communication, one of India's leading music production schools.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-08-23T16:00:00+05:30",
+    "endDate": "2026-08-23T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Commercial Complex B 6/7-22 Opp Deer Park, Block B6, Humayunpur, Safdarjung Enclave, New Delhi, Delhi 110029, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55958340000000000000",
+        "longitude": "77.19693000000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "599.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/what-are-you-listening-to",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Craft Museum & Pottery Workshop",
     "description": "Discover the Art and Craft of IndiaStep into the fascinating world of Indian craftsmanship at the National Crafts Museum, one of India\u2019s largest and most celebrated museums dedicated to traditional arts and crafts.Explore its beautiful galleries and discover a remarkable collection of antique artefacts, intricate pottery, exquisite embroidery, woodwork, and traditional carvings. Along the way, uncover fascinating historical stories, interesting facts, and intriguing anecdotes that bring these timeless crafts to life.To make the experience even more special, get hands-on with a fun pottery workshop and try your hand at creating something of your own!Come explore, learn, and create with us. Hope to see you there!",
     "startDate": "2026-08-23T16:00:00+05:30",
@@ -1867,6 +1937,41 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Forwarded as Received: Misinformation 101",
+    "description": "Join us for a lecture that asks a question with no comfortable answer:If the people deciding what counts as true are working from the same broken information as everyone else, who do we trust to hold the line?About The Lecture\"Fake news\" was always too small a phrase. It suggested a fabricated story, a fact-check, a correction \u2014 a problem that could, in theory, be solved. What we're actually living through is something else: real photographs stripped of context, selective truths, political insinuation, and claims repeated in enough WhatsApp groups until they stop needing to be true at all.Drawing on her book \"Forwarded as Received: How Misinformation Turns Viral, Violent and True,\" this lecture looks past the individual act of falling for a hoax and toward the larger machinery \u2014 how misinformation and malinformation move through digital platforms, political campaigns, and even bureaucratic institutions, shaping not just what people believe, but who gets counted, trusted, or excluded.This isn't a lecture about how other people get fooled. It's about how the very systems built to establish \"the facts\" \u2014 platforms, institutions, public systems \u2014 can become vulnerable to the same distortions they claim to correct.About the SpeakerSaadia Azim is the author of \"Forwarded as Received: How Misinformation Turns Viral, Violent and True\" (Simon & Schuster India), which examines how misinformation moves through everyday social behaviour, politics, media and technology to acquire the force of public truth. She is Chief Operating Officer of the Government of West Bengal's Digital Public Service Delivery Programme, a former journalist, and an Internet Society Mid-Career Fellow. Her work focuses on misinformation, digital governance, algorithmic power, public trust and democratic behaviour in India and the Global South.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-08-28T18:00:00+05:30",
+    "endDate": "2026-08-28T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "SAKET, G6H8+57F, DISST, Saket District Centre, District Centre, Sector 6, Pushp Vihar, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52814300000000000000",
+        "longitude": "77.21568239999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "550.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/forwarded-as-received-misinformation-101",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Fireflies Workshop 28",
     "description": "\ud83c\udf1f Join Us for an Enchanting Evening: Fireflies at Hauz Khas \ud83c\udf1fPrepare to be mesmerized by one of nature\u2019s most magical displays! New Delhi Nature Society is thrilled to invite you to an exclusive event that promises to light up your senses and spark your curiosity.As twilight descends upon the charming and historic Hauz Khas area, we will guide you to a secret location where fireflies dance in the night, creating a breathtaking spectacle of bioluminescence. This hidden gem offers an intimate and serene setting for you to witness this enchanting natural phenomenon.What to Expect:\u2728 Guided Firefly Tour \u2013 Learn about these fascinating creatures and their ecological significance.\ud83c\udf3f Nature Walk \u2013 Immerse yourself in the beauty of the surroundings as night falls. \ud83c\udf42 What to Bring:Comfortable walking shoesA camera (without flash) to capture the momentA sense of wonder and curiosityWater bottleImportant Note: Due to the sensitive nature of the event location, exact details will be provided only upon confirmation of your attendance. Space is limited, so please secure your spot quickly.Don\u2019t miss this opportunity to experience the magic of fireflies in one of Delhi\u2019s most enchanting locations. We look forward to sharing this unforgettable night with you!",
@@ -1938,6 +2043,41 @@
       "Leisure",
       "Pop-up Event",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Limits of Computation",
+    "description": "Join us for a lecture that traces one dangerous idea through three brilliant, broken minds:In 1891, Georg Cantor gave us set theory, and then spent years battling for his peace of mind. In 1931, Kurt G\u00f6del proved that any system of logic cannot capture all truths, and later descended into deep paranoia. In 1936, Alan Turing identified problems that no computer can ever solve; and met a tragic end.Three of history's most brilliant minds, circling the same dangerous idea.This lecture plays with diagonalisation \u2014 the beautifully unsettling proof technique at the heart of all three discoveries \u2014 and explores what it reveals about the limits of logic, mathematics and computation itself. Some ideas don't just describe the edges of what we can know. They seem to press back on the people who find them.The session explores:What diagonalisation is, and why the same idea kept resurfacing across a century of mathematicsHow Cantor's set theory, G\u00f6del's incompleteness theorems and Turing's halting problem are secretly the same argumentWhat it means for a system of logic to be unable to capture all truthsWhy some of history's most brilliant thinkers found this particular idea so disturbingAbout the SpeakerDr. Aalok Thakkar is an Assistant Professor of Computer Science at Ashoka University. His work focuses on logic in computer science and its applications to programming languages, automata theory, and trustworthy AI.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-08-29T18:00:00+05:30",
+    "endDate": "2026-08-29T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "N - 4, N, Block Market, N Block, Greater Kailash I, New Delhi, Delhi 110047, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55685060000000000000",
+        "longitude": "77.23310790000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "550.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/the-limits-of-computation",
+    "keywords": [
       "URBANAUT"
     ]
   },
@@ -2165,6 +2305,76 @@
     "url": "https://urbanaut.app/spot/before-you-blame",
     "keywords": [
       "Wellness",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Money Is More Than Spreadsheets",
+    "description": "Join us for a lecture that will change how you think about your next big money decision:Should you buy the concert ticket? Pay off your loan early? Buy a house? Save for retirement?The answer depends on more than just numbers.About the LectureAfter years working in finance believing money was a simple equation \u2014 maximise returns, minimise costs, let the spreadsheet do the rest \u2014 this session makes the case that the best financial decisions aren't always the ones with the highest return on paper. They're the ones that help you build a life you actually want to live.In this interactive session, we'll build a personal finance system from scratch: calculating your own financial independence number, understanding what actually drives long-term wealth (and what doesn't), and learning to evaluate spending decisions using the metrics that matter more than portfolio returns \u2014 without needing a complicated spreadsheet for every choice.The session explores:India-centric budgeting frameworks that make more sense than the 50/30/20 rule for life in Indian metro citiesThe two metrics that matter more than raw returns: post-tax returns and opportunity costA simple framework for the non-negotiables \u2014 emergency funds, insurance, loan payoff \u2014 before anything elseWhy \"boring\" options like ETFs and mutual funds usually beat stock pickingA 5-minute stock-picking framework, for those who still want to tryAbout the SpeakerKanan Shah is a reformed investment banker whose experience across Goldman Sachs, JPMorgan and Mastercard continues to shape her approach to investing, saving and building wealth. An IIM Lucknow graduate, she is especially interested in the gap between how women invest in India versus developed markets like the United States, and actively advocates for more women to participate in wealth creation and long-term investing. Through her writing and content, she focuses on making money conversations less intimidating and more practical \u2014 bridging the gap between financial theory and real-life decisions.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-08-30T16:00:00+05:30",
+    "endDate": "2026-08-30T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Golf Course Ext Rd, Sector 58, Gurugram, Haryana 122098, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41095720000000000000",
+        "longitude": "77.10755689999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "550.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/money-is-more-than-spreadsheets",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "From The Cradle to The Grave",
+    "description": "Unbeknown to many, India has slowly put in place welfare for its people in the informal sector.What does this welfare architecture actually look like? Does it reach the people it's meant for? And does it work?About the Lecture This lecture takes a close look at the quiet, decades-long project of building social protection for the hundreds of millions of Indians who work outside the formal economy, without steady paychecks, contracts or safety nets in the conventional sense. Drawing on 25 years of fieldwork across rural India, we'll examine what welfare looks like when it has to be built for people the system was never originally designed around.The session explores:What India's welfare architecture for the informal sector actually looks likeWhere this system succeeds, and where it failsWhat 25 years of fieldwork across rural India reveal about how welfare policy meets lived realityWhy \"cradle to grave\" is more than a slogan for the majority of India's workforceAbout the SpeakerReetika Khera teaches economics at IIT Delhi, including a course on economics through film. Over the past 25 years, her research has taken her deep into fieldwork across rural India, focusing on social policy, food security, employment and social protection for India's informal workforce. Among lesser-known economists, she recommends Angus Deaton and Diane Coyle \u2014 and among recent fiction, Talashnama by Ismail Darbesh, This Is Not That Dawn by Yashpal, The Theft by Abdulrazak Gurnah, David Lodge's Campus Trilogy, Jerry Pinto's The Education of Yuri, Sharankumar Limbale's Dalit Brahmin, and almost anything by John le Carr\u00e9.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-08-30T16:00:00+05:30",
+    "endDate": "2026-08-30T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Siyah Arthouse, 3rd Floor 261, Plot 8, Westend Marg, Saidulajab, Saket, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.51653950000000000000",
+        "longitude": "77.19738550000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/from-the-cradle-to-the-grave",
+    "keywords": [
       "URBANAUT"
     ]
   },
