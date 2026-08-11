@@ -4,7 +4,7 @@
     "@type": "Event",
     "name": "Kathika Cultural Experience",
     "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
-    "startDate": "2026-08-10T11:30:00+05:30",
+    "startDate": "2026-08-11T11:30:00+05:30",
     "endDate": "2026-08-31T14:00:00+05:30",
     "location": {
       "@type": "Place",
@@ -42,7 +42,7 @@
     "@type": "EducationEvent",
     "name": "21 Days of Reset with Nature",
     "description": "Holistic Wellbeing Program by Reset with NatureFacilitated by Muskaan & KarishmaStarting from 10th August till 31st AugustEscape the chaos of Delhi and reconnect with yourself through daily nature walks + unique therapeutic activities designed to destress, regulate your nervous system, and boost mental & physical wellbeing.What you\u2019ll experience every day:Guided nature walks to ground, refresh, and breathe freelyRelaxing, unique therapeutic practices including:Nervous system regulationExpressive artInner child healingGuided meditationAnd more calming techniquesWhy this is important for people living in Delhi:Constant hustle and urban stress take a heavy toll on your mind and bodyLimited access to green spaces makes intentional nature time essentialFast-paced city life leaves little room for restWhy this is going to be so much fun (and a must-attend!):Fresh air, beautiful green spaces, and a supportive community every single dayCreative, uplifting activities that feel more like play than \u201cwork on yourself\u201dLaugh, reflect, heal, and bond with like-minded people on the same journey21 days of small joyful habits that leave you feeling lighter, happier, and truly resetThis isn\u2019t just another wellness program \u2014 it\u2019s your daily dose of peace, joy, and connection in the middle of city life.Follow Reset with Nature on Instagram and join Muskaan & Karishma for an unforgettable 21-day reset you won\u2019t want to miss!Who can be part of this holistic wellness experience: 18 years above",
-    "startDate": "2026-08-11T07:00:00+05:30",
+    "startDate": "2026-08-12T07:00:00+05:30",
     "endDate": "2026-08-31T08:15:00+05:30",
     "location": {
       "@type": "Place",
@@ -895,6 +895,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Framing A Disappearing Delhi",
+    "description": "Kathika is delighted to host a special edition of Baithak Pe Charcha with eminent photographer Mr. Pawan Mahatta, whose remarkable body of work has documented the many faces of Delhi over several decades. Set against the intimate, heritage-rich backdrop of Kathika Museum Haveli, this interactive baithak, \"Framing a Disappearing Delhi: The Disappearing Stories, Faces and Traditions of a Living City,\" will explore the city's evolving identity through the lens of one of India's most distinguished photographers.Through evocative photographs, compelling stories and personal reflections from behind the camera, Pawan Mahatta will take audiences on a visual journey through the disappearing neighbourhoods, forgotten traditions, vibrant communities and everyday moments that have shaped Delhi's cultural fabric. As the city continues to transform, this conversation will reflect on the importance of preserving not only its monuments, but also its intangible heritage\u2014the people, customs and lived experiences that give Delhi its unique character. This promises to be an enriching evening of photography, storytelling and conversation, offering a rare opportunity to see the city through the eyes of someone who has spent a lifetime documenting its ever-changing soul.",
+    "startDate": "2026-08-16T16:00:00+05:30",
+    "endDate": "2026-08-16T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "1237, Gali Khatikan, Imli Mohalla, Old Delhi, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64610280000000000000",
+        "longitude": "77.22736410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kathika Cultural Centre and Museum",
+      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
+    },
+    "url": "https://urbanaut.app/spot/framing-a-disappearing-delhi",
+    "keywords": [
+      "Leisure",
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "National Museum (Indus Valley Civilisation)",
     "description": "Step into the fascinating world of the Indus Valley Civilization at the iconic National Museum and uncover the mysteries of one of the world\u2019s oldest urban cultures. From advanced city planning and drainage systems to intricate seals, jewellery, pottery, and trade networks, this walk takes you deep into the lives of a civilization that flourished over 4,500 years ago.Explore the stories hidden behind ancient artefacts, decode symbols that still remain unsolved, and discover how the people of Harappa and Mohenjo-Daro were far ahead of their time. Whether you\u2019re a history enthusiast, a curious explorer, or someone who simply loves untold stories, this immersive museum experience promises a journey through India\u2019s remarkable ancient past.Join us as history comes alive \u2014 one artefact, one mystery, and one story at a time.",
     "startDate": "2026-08-16T16:30:00+05:30",
@@ -1338,6 +1376,43 @@
       "Adventure",
       "Walking Tour",
       "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Downstairs x GL: Indo-Viet Supper Club Salon",
+    "description": "Gully Labs \u00d7 The Downstairs Sessions.Join us on August 22nd at Gully Labs, Baithak, for an evening of cross-cultural flavor, wine, and conversation. We\u2019re opening our space for 30\u201340 guests to gather, connect, and break bread over a curated menu celebrating the vibrant, aromatic cuisines of Indonesia and Vietnam.Designed as an intimate salon, the night offers a warm, open setting to enjoy great food, engage in unhurried chats, and share ideas with a like-minded crowd.Come hungry, leave inspired. Seats are limited to maintain an intimate atmosphere.",
+    "startDate": "2026-08-22T19:00:00+05:30",
+    "endDate": "2026-08-22T21:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1260.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
+    },
+    "url": "https://urbanaut.app/spot/thedownstairssupperclub",
+    "keywords": [
+      "Leisure",
+      "Food & drink",
       "URBANAUT"
     ]
   },
