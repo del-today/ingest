@@ -40,43 +40,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Delhi Solitaire Open - Afternoon",
-    "description": "\u2728 *Delhi, are you ready? *\u2728The Mahjong Network \u00d7 Forevermark \u00d7 The Tile Club proudly present Delhi Solitaire Open - Delhi\u2019s First Friendly Mahjong Tournament \u2014 with exciting prizes up for grabs! \ud83c\udc04\ud83c\udfc6Spend a beautiful morning or afternoon at Forevermark, browse their exquisite jewellery collection, and then take your seat for an afternoon of friendly competition, great gameplay, and fabulous prizes.\ud83d\udcc5 Wednesday, 12 August 2026Session 1: 2:30PM to 4:30PM\ud83d\udccd Forevermark, South Extension 1 , Delhi\ud83d\udcb0 Entry Fee: \u20b92,500 per player\u203c\ufe0f Players must know Passport and ATF Goulash.16 seats available per slot.Register now to be part of Delhi\u2019s very first friendly mahjong tournament!",
-    "startDate": "2026-08-12T14:30:00+05:30",
-    "endDate": "2026-08-12T16:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "39, Mahatma Gandhi Rd, South Extension I, Block F, New Delhi, Delhi 110049, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.56910310000000000000",
-        "longitude": "77.21964849999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Mahjong Network",
-      "url": "https://urbanaut.app/partner/the-mahjong-network"
-    },
-    "url": "https://urbanaut.app/spot/delhi-solitaire-open-afternoon",
-    "keywords": [
-      "Leisure",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Baddy with Baddies | Mehrauli",
     "description": "Grab your racket and bring your best energy - it's time for Baddy with Baddies \ud83c\udff8\u2728, a women-only badminton meet-up where the only goal is to have fun.Whether you've got a sneaky smash up your sleeve or you're simply looking for a fun way to move, this session is all about friendly rallies, big laughs, and moving your body in great company. Expect good vibes, and a community of women who are here to play, cheer each other on, and enjoy the sport.So if you've been looking for an excuse to get back on the court (or step onto one for the first time), this is it.\ud83d\udcc5 Wednesday, 12th August\ud83d\udd57 8:00 PM \u2013 9:00 PMCome solo or with your girls - you'll leave with a great workout, a few new friends, and probably plans for a rematch.",
     "startDate": "2026-08-12T20:00:00+05:30",
@@ -146,46 +109,6 @@
     "keywords": [
       "Leisure",
       "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "21 Days of Reset with Nature",
-    "description": "Holistic Wellbeing Program by Reset with NatureFacilitated by Muskaan & KarishmaStarting from 10th August till 31st AugustEscape the chaos of Delhi and reconnect with yourself through daily nature walks + unique therapeutic activities designed to destress, regulate your nervous system, and boost mental & physical wellbeing.What you\u2019ll experience every day:Guided nature walks to ground, refresh, and breathe freelyRelaxing, unique therapeutic practices including:Nervous system regulationExpressive artInner child healingGuided meditationAnd more calming techniquesWhy this is important for people living in Delhi:Constant hustle and urban stress take a heavy toll on your mind and bodyLimited access to green spaces makes intentional nature time essentialFast-paced city life leaves little room for restWhy this is going to be so much fun (and a must-attend!):Fresh air, beautiful green spaces, and a supportive community every single dayCreative, uplifting activities that feel more like play than \u201cwork on yourself\u201dLaugh, reflect, heal, and bond with like-minded people on the same journey21 days of small joyful habits that leave you feeling lighter, happier, and truly resetThis isn\u2019t just another wellness program \u2014 it\u2019s your daily dose of peace, joy, and connection in the middle of city life.Follow Reset with Nature on Instagram and join Muskaan & Karishma for an unforgettable 21-day reset you won\u2019t want to miss!Who can be part of this holistic wellness experience: 18 years above",
-    "startDate": "2026-08-13T07:00:00+05:30",
-    "endDate": "2026-08-31T08:15:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59368140000000000000",
-        "longitude": "77.22183380000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Reset with Nature",
-      "url": "https://urbanaut.app/partner/reset-with-nature"
-    },
-    "url": "https://urbanaut.app/spot/21-days-of-reset-with-nature",
-    "keywords": [
-      "Wellness",
-      "Workshop",
-      "Eco Friendly",
-      "Walking Tour",
-      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -368,6 +291,44 @@
     "keywords": [
       "Festival",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Matcha Circle",
+    "description": "OverviewA shared matcha-making experience where simple acts of whisking, pouring, and preparing create calm.People gather over matcha, conversation, and the quiet rhythm of making something by hand. One cup at a time.Matcha Experience: A Taste of CalmExperience the calming art of green tea in a session dedicated to mindfulness and flavor. This gathering is designed to help you slow down and appreciate the details of a centuries old tradition. \"The Matcha Circle\" offers a peaceful space to learn, taste, and connect at the end of a long week.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to ExpectGuided Introduction: Learn about the history and the unique process of preparing matcha from farm to cup.The Ritual: Watch and learn how the tea is whisked to create its signature froth and deep flavor.Tasting Session: Enjoy a premium matcha drink prepared just for you at Cha & Co.Quiet Conversation: Join a small group setting to talk about finding moments of peace in a busy week over a comforting cup.Details\ud83d\uddd3\ufe0f Date: 14th August (Friday)\u23f0 Time: 6:30 PM\ud83d\udccd Location: Cha & Co, Grand View High Street\ud83c\udf75 Inclusion: Matcha drink included\ud83c\udf9f\ufe0f Fee: \u20b9700",
+    "startDate": "2026-08-14T18:30:00+05:30",
+    "endDate": "2026-08-14T20:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ireo Grand View High Street, Sector 58, Gurugram, Haryana 122098, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41560020000000000000",
+        "longitude": "77.10258329999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/matcha-experience",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "History & heritage",
       "URBANAUT"
     ]
   },
@@ -777,45 +738,6 @@
       "Wellness",
       "Workshop",
       "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "The Epiloguers Club: Silent Reading Session 16 Aug",
-    "description": "What to expect?\u200bShow up with a book you are currently reading or a book off of your dusty shelf and settle in silently to an hour of quiet reading in nature's lap.\u200bWe'll have literary ice-breakers, followed by an hour of silent reading, after which you can choose to talk about your bookish interests, recent reads, the book you were reading in the meet today. Possibilities are endless.We know how difficult it often is to get a quiet space to get that reading goal of yours closer. So we decided to use this format to provide that space.Who we are?\u200bWe are The Epiloguers Club, a book club for the people who after finishing a book crave to share their thoughts and invite discussion.\u200bOur name comes from the epilogue, that final, quiet space at the end of a story where loose ends are gathered and story settles in with its sigh or boom. We live in that space. We pull it apart, debate it, and keep it alive long after the book is closed.\u200bOur meets follow a bring-your-own-book format built around a conceptual theme, which means you arrive with one book and usually leave with twelve recommendations and at least three new interpretations of your own.    \u200bThis is our first silent reading session to take off the pressure from the usual meets.\u200bYou can follow us on Instagram for more updates: @the_epiloguers_clubTerms and ConditionsTickets once booked are non-refundable, non-modifiable, and non-transferable, except if the event is cancelled by the organiser. Entry is permitted only upon presenting a valid booking confirmation.\u200bSpots are limited and allocated on a first-come, first-served basis.\u200bPlease arrive at least 15 minutes before the event begins. Join silently without disturbing others.\u200bThe organisers reserve the right remove any participant whose behaviour is disruptive, abusive, or inappropriate.\u200bPhotography and videography may take place during the event. By attending, participants consent to being photographed or recorded for The Epiloguers Club\u2019s promotional and social media purposes.\u200bParticipants are responsible for their own safety & personal belongings. The organisers, platform and the venue shall not be liable for any injury, loss, theft, or damage.\u200bIn case of unforeseen circumstances (force majeure, venue restrictions, weather, or emergencies), the event may be rescheduled or modified at the organizers' discretion. Any updates will be communicated to registered participants, usually through whatsapp.\u200bThe Epiloguers Club\u2019s reserves the right to make changes to the event schedule, activities, or venue if required to ensure the smooth conduct of the experience.\u200bThe platform acts solely as a ticketing facilitator and is not responsible for event management or safety.",
-    "startDate": "2026-08-16T11:00:00+05:30",
-    "endDate": "2026-08-16T12:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Nehru park, Ramnagar, Chanakyapuri, New Delhi, Delhi 110021, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59096880000000000000",
-        "longitude": "77.19320030000002000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Epiloguers Club",
-      "url": "https://urbanaut.app/partner/the-epiloguers-club"
-    },
-    "url": "https://urbanaut.app/spot/the-epiloguers-club-silent-reading-session-16-aug",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Workshop",
-      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -1720,44 +1642,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "The Epiloguers Club: Book Club Meet on 23rd August",
-    "description": "August theme: Escapism Into Adrenaline RushDedicated to Keigo HigashinoJoin us this month in our book-club meet honoring Keigo Higashino, where escapism meets mystery and detective fiction, and thrillers & suspense becomes a way to chase clues, dodge fear, and look closer at the truth.What to expect?Bring any mystery, thriller, detective fiction that fits the theme, Higashino is welcome, not required. We\u2019ll discuss where the story makes you complicit, what you assumed, and whether the thrill comes more from the external chase or the internal reckoning. Some of our recommendations are mentioned here.Show up with a book you have recently read which fits the theme and enjoy a stimulating conversation over coffee with other book lovers. We'll have literary ice-breakers, followed by a guided discussion about your book, in which you can tell us why you picked it, why it fits the theme, plot, setting, pace, what you liked or disliked about it, anything & everything, as long as it is spoiler-free. After this we will open the floor for other readers to ask you questions and do some deep diving.Don\u2019t worry, it\u2019s a safe space and a leisure activity, not a test. Sit back, enjoy, please do engage & ask questions & clarifications from other readers; but most importantly arrive in the discussions from a place of curiosity instead of judgment.Please arrive at the cafe by 11:45 AM so we can settle in and start together at Noon!Who we are?We are The Epiloguers Club, a book club for the people who after finishing a book crave to share their thoughts and invite discussion.Our name comes from the epilogue, that final, quiet space at the end of a story where loose ends are gathered and story settles in with its sigh or boom. We live in that space. We pull it apart, debate it, and keep it alive long after the book is closed.Our meets follow a bring-your-own-book format built around a conceptual theme, which means you arrive with one book and usually leave with twelve recommendations and at least three new interpretations of your own.You can follow us on Instagram for more updates: @the_epiloguers_clubEvent Terms & Conditions:Tickets once booked are non-refundable, non-modifiable, and non-transferable, except if the event is cancelled by the organiser. Entry is permitted only upon presenting a valid booking confirmation.Spots are limited and allocated on a first-come, first-served basis.Please arrive at least 15 minutes before the event begins. Late entry may be restricted to avoid disturbing the experience.The organisers reserve the right to refuse entry or remove any participant whose behaviour is disruptive, abusive, or inappropriate.Photography and videography may take place during the event. By attending, participants consent to being photographed or recorded for The Epiloguers Club\u2019s promotional and social media purposes.Participants are responsible for their own safety & personal belongings. The organisers, platform and the venue shall not be liable for any injury, loss, theft, or damage.In case of unforeseen circumstances (force majeure, venue restrictions, weather, or emergencies), the event may be rescheduled or modified at the organizers' discretion. Any updates will be communicated to registered participants, usually through whatsapp.The Epiloguers Club\u2019s reserves the right to make changes to the event schedule, activities, or venue if required to ensure the smooth conduct of the experience.The platform acts solely as a ticketing facilitator and is not responsible for event management or safety.",
-    "startDate": "2026-08-23T11:45:00+05:30",
-    "endDate": "2026-08-23T14:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "South Delhi, New Delhi, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.49291980000000000000",
-        "longitude": "77.18479210000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Epiloguers Club",
-      "url": "https://urbanaut.app/partner/the-epiloguers-club"
-    },
-    "url": "https://urbanaut.app/spot/the-epiloguers-club-august-bookclub-theme-meet",
-    "keywords": [
-      "Leisure",
-      "Workshop",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Inside The Minds of Child Serial Offenders",
     "description": "Join us for a lecture that challenges one of our most protected assumptions: Are children always innocent? Or can a young mind knowingly choose violence, deception and repeated criminal behaviour?About the LectureThis unLecture ventures into the unsettling world of children who became serial offenders, pushing past conventional ideas about childhood, innocence and responsibility. Beginning with the fundamentals of child psychology and Kohlberg's theory of moral development, the session examines how children understand right and wrong, when behaviour is merely impulsive, and when it may cross into malicious intent and criminal culpability.Through four to five compelling case studies of child serial killers and repeat offenders from diverse social and economic backgrounds, we'll reconstruct their offences, trace how they were eventually apprehended, and identify the psychological and situational factors that may have shaped their conduct \u2014 without reducing violent behaviour to any single cause.The session explores:How Kohlberg's theory of moral development helps explain a child's understanding of right and wrongReal case studies of child serial offenders and how investigators pieced together their patternsThe neuropsychological, behavioural and environmental factors that shape early violent behaviourHow families, schools and institutions can recognise warning signs before childhood deviance escalates into persistent violenceAbout the SpeakerVidushi Jain is a UGC-NET-qualified criminologist, researcher and child-safety advocate. She currently works as a Research Assistant in Criminology, Law and Forensics at the National Forensic Sciences University, Delhi Campus, where she is also pursuing her PhD in Criminology, researching adolescent relationships under the POCSO Act and the complexities of strengthening child-protection mechanisms. A Gold Medallist in Criminology with a specialisation in Human Rights, she brings a background in Media and Communication to her research. She has worked with a Child Rights NGO (Project CACA, Delhi) and UNICEF on child education projects, contributed to the NCPCR's POCSO Department, and trained over 12,000 teachers, 3,000 parents and support staff across 200+ schools pan-India. She has also worked on a national-level research project with over 300 police officers on cybercrime investigations, and with acid-attack survivors on their rehabilitation.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
@@ -2500,7 +2384,7 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "name": "Yap and Build",
+    "name": "Yap and Build: Only for Women",
     "description": "An idea walk for women with half-baked ideas and big ambitions.\u200bYour next big idea doesn\u2019t need another month in your Notes app.\u200bTouch Grass, Build Things is an informal idea walk for creators, founders, freelancers, students, and anyone with an idea they\u2019ve been meaning to explore.\u200bWe\u2019ll walk, talk, and exchange ideas in a relaxed, judgment-free setting. Bring a business idea, a creative project, a community initiative, a side hustle, or even something that\u2019s still half-baked. This isn\u2019t a pitch competition or a lecture. It\u2019s a space to think out loud, get honest feedback, meet like-minded people, and leave with more clarity than you came with.\u200bHere\u2019s how it works:\u200b\u2728 You\u2019ll be paired with one person to share your idea.\u2728 After a few minutes, you\u2019ll rotate to someone new.\u2728 By the end of the session, complete strangers will have challenged, refined, and shaped your idea from perspectives you never considered.\u200bPlease note: Everyone will purchase their own entry ticket to the venue (food and beverages are self-sponsored). We simply ask that you come with an open mind and at least one idea you\u2019re excited to share.\u200bSometimes all an idea needs is the right conversation.",
     "startDate": "2026-08-30T08:00:00+05:30",
     "endDate": "2026-08-30T10:00:00+05:30",
