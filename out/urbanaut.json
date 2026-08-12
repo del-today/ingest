@@ -709,7 +709,7 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Hot Girls Do Pilates",
-    "description": "Let\u2019s make your Sunday morning extra feel-good with Hot Girls Do Pilates, a guided mat pilates experience by SWAG x Ambience MallCome and feel fitter in the company of like-minded women, and stay back for a quick breakfast at Kenangan.Here's the plan,We start with a Mat Pilates session.Slow down with some breath-work and meditation.Head for a quick Coffee & Brekkie at Kenangan.Can't wait to see you this Sunday!",
+    "description": "Let\u2019s make your Sunday morning extra feel-good with Hot Girls Do Pilates, a guided mat pilates experience by SWAG x Ambience MallCome and feel fitter in the company of like-minded women, and stay back for a quick breakfast at Kenangan. And not to forget Goodies by Hyeglo Beauty.Here's the plan,We start with a Mat Pilates session.Slow down with some breath-work and meditation.Head for a quick Coffee & Brekkie at Kenangan.Can't wait to see you this Sunday!",
     "startDate": "2026-08-16T08:30:00+05:30",
     "endDate": "2026-08-16T10:00:00+05:30",
     "location": {
@@ -852,6 +852,44 @@
     "url": "https://urbanaut.app/spot/cyanotype-workshop-15572",
     "keywords": [
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Pasta Salad Making Workshop with The Masala Kit",
+    "description": "*BACK BY POPULAR DEMAND*Come spend an afternoon cooking, experimenting, and getting a little messy in the kitchen with The Masala Kit!In this hands-on workshop, we'll be making a fresh, flavour-packed pasta salad from scratch \u2014 with a few Masala Kit twists along the way. You\u2019ll learn how to balance flavours, build a great dressing, and use spices in unexpected ways to make a simple dish seriously delicious. Find pictures from our previous workshop here.No cooking experience needed \u2014 just bring your appetite and your curiosity!What to expect\ud83c\udf5d A hands-on pasta salad-making session\ud83c\udf36\ufe0f Learn how to use spices to build flavour\ud83e\udd57 Make your own pasta salad from scratch\ud83d\udc69\u200d\ud83c\udf73 Cooking, experimenting & plenty of tasting\ud83e\udef6 A relaxed, social afternoon around good foodYou\u2019ll make your own pasta salad, enjoy it fresh, and leave with ideas you can recreate at home.Come for the pasta. Stay for the masala. \ud83c\udf36\ufe0f\ud83d\udccd Alt.Tribe\ud83c\udf9f\ufe0f Limited spots availableCheck us out on Instagram: @themasalakit",
+    "startDate": "2026-08-16T12:30:00+05:30",
+    "endDate": "2026-08-16T14:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Market, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53429900000000000000",
+        "longitude": "77.24300600000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "999.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Masala Kit",
+      "url": "https://urbanaut.app/partner/the-masala-kit"
+    },
+    "url": "https://urbanaut.app/spot/pasta-salad-making-workshop-with-the-masala-kit",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "Food & drink",
       "URBANAUT"
     ]
   },
