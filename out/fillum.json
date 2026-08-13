@@ -35,6 +35,23 @@
   },
   {
     "@type": "ScreeningEvent",
+    "name": "Mamma Roma(1962)",
+    "url": "https://fillum.in/screening/6002",
+    "startDate": "2026-08-15T15:30:00+05:30",
+    "endDate": "2026-08-15T15:30:00+05:30",
+    "description": "Pier Paolo Pasolini\u2019s raw and moving portrait of a woman trying to build a better life for herself and her son on the outskirts of Rome.A film about motherhood, dignity, poverty, desire and th..more",
+    "location": {
+      "@type": "Place",
+      "name": "iPley Music Studio, GK-1",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "SomeArt"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "Prisoner No. 626710 is present(2024)",
     "url": "https://fillum.in/screening/5989",
     "startDate": "2026-08-15T18:00:00+05:30",
@@ -48,6 +65,23 @@
     "organizer": {
       "@type": "Organization",
       "name": "Sohbat"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "World on a Wire(1973)",
+    "url": "https://fillum.in/screening/6001",
+    "startDate": "2026-08-16T12:00:00+05:30",
+    "endDate": "2026-08-16T12:00:00+05:30",
+    "description": "What if the world you know is only a simulation?Rainer Werner Fassbinder\u2019s visionary sci-fi masterpiece World on a Wire takes you into a strange world where reality, identity and technology be..more",
+    "location": {
+      "@type": "Place",
+      "name": "iPley Music Studio, GK-1",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "SomeArt"
     }
   },
   {
@@ -125,23 +159,6 @@
     "startDate": "2026-08-22T12:00:00+05:30",
     "endDate": "2026-08-22T12:00:00+05:30",
     "description": "Compulsively innovative director Jean-Luc Godard presents \u201ca neorealist musical\u2014that is, a contradiction in terms.\u201d Featuring French superstars Anna Karina, Jean-Paul Belmondo, and Jean-Claude..more",
-    "location": {
-      "@type": "Place",
-      "name": "mool, south ex II",
-      "address": "South Ex II, New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Out of Sequence"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Beau Travail(1999)",
-    "url": "https://fillum.in/screening/5997",
-    "startDate": "2026-08-22T14:00:00+05:30",
-    "endDate": "2026-08-22T14:00:00+05:30",
-    "description": "With her ravishingly sensual take on Herman Melville\u2019s Billy Budd, Sailor, Claire Denis firmly established herself as one of the great visual tone poets of our time. Amid the azure waters and sunb..more",
     "location": {
       "@type": "Place",
       "name": "mool, south ex II",
