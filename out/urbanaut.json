@@ -188,7 +188,7 @@
     "name": "Onam Sadhya by Chef Kartik x Cocobay",
     "description": "Celebrate Onam with an Authentic Sadhya at CocobayGet ready to indulge in the rich, traditional flavors of Kerala this festive season! In anticipation of Onam, Cocobay South Indian Cafe brings you a thoughtfully curated Onam Sadhya experience designed by Chef Kartik. Served on a vibrant banana leaf, this grand feast features an array of authentic preparations\u2014from crispy banana chips and savory side dishes to aromatic rice and comforting payasam\u2014crafted to capture the true spirit of togetherness and celebration.A Culinary Journey in GurgaonWhether you are hosting family or enjoying a preview feast with friends, join us at our new location on Golf Course Road to savor every bit of this seasonal specialty. Available for a limited time from August 14th to 16th at \u20b9995 (+GST) per person, with convenient delivery options right to your doorstep. Space is limited for this special festive preview\u2014reserve your meal early and celebrate Onam with the timeless taste of home!",
     "startDate": "2026-08-14T12:30:00+05:30",
-    "endDate": "2026-08-16T22:00:00+05:30",
+    "endDate": "2026-08-16T14:30:00+05:30",
     "location": {
       "@type": "Place",
       "address": "574 Sector 43, Metro Station, 43, off Golf Course Road, next to Sector 42, Sector 43, Gurugram, Haryana 122009, India",
@@ -816,6 +816,43 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Fold Mo:Mo with Triyata \ud83e\udd5f",
+    "description": "Instagram: @thamel.inIf you've ever thought, \"Making mo:mo looks easy, I could do that,\" this is your chance to prove it.Triyata Chhetri is hosting the Mo:Mo Masterclass at Thamel this time and she's here to show you how to casually pleat the most perfect mo:mo. She makes it look effortless, and somehow she's even better at teaching it. No experience needed \u2014 just bring the vibes, she'll handle the skills.What You'll ExperienceUnder the guidance of Triyata and our chefs, you'll:\u2022 Make fresh mo:mo dough from scratch\u2022 Learn two traditional folding styles \u2014 the classic round and elegant moon shape\u2022 Fill your mo:mo with fresh signature vegetable filling (filling is premade)\u2022 Master the techniques of steaming mo:mo to perfection\u2022 Plate your creations and enjoy them fresh with our bestseller jholThis is a relaxed, interactive, and fun culinary experience designed for food lovers of all skill levels.Perfect For\u2022 Date nights\u2022 Couples and friends\u2022 Families\u2022 Food enthusiasts looking to learn something newPlease Note\u2022 Arrive 15 minutes early for check-in\u2022 Dietary requirements can be accommodated with advance notice\u2022 Spaces are limited and booking is essential",
+    "startDate": "2026-08-16T15:00:00+05:30",
+    "endDate": "2026-08-16T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shop No. 139, The shopping mall, Arjun Marg, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46589090000000000000",
+        "longitude": "77.09964640000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "999.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Thamel",
+      "url": "https://urbanaut.app/partner/thamel"
+    },
+    "url": "https://urbanaut.app/spot/makewithtriyata",
+    "keywords": [
+      "Workshop",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Framing A Disappearing Delhi",
     "description": "Kathika is delighted to host a special edition of Baithak Pe Charcha with eminent photographer Mr. Pawan Mahatta, whose remarkable body of work has documented the many faces of Delhi over several decades. Set against the intimate, heritage-rich backdrop of Kathika Museum Haveli, this interactive baithak, \"Framing a Disappearing Delhi: The Disappearing Stories, Faces and Traditions of a Living City,\" will explore the city's evolving identity through the lens of one of India's most distinguished photographers.Through evocative photographs, compelling stories and personal reflections from behind the camera, Pawan Mahatta will take audiences on a visual journey through the disappearing neighbourhoods, forgotten traditions, vibrant communities and everyday moments that have shaped Delhi's cultural fabric. As the city continues to transform, this conversation will reflect on the importance of preserving not only its monuments, but also its intangible heritage\u2014the people, customs and lived experiences that give Delhi its unique character. This promises to be an enriching evening of photography, storytelling and conversation, offering a rare opportunity to see the city through the eyes of someone who has spent a lifetime documenting its ever-changing soul.",
@@ -1286,7 +1323,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "941.00",
+      "price": "262.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -1747,11 +1784,11 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
+    "@type": "FoodEvent",
     "name": "Clay in the Wild",
     "description": "2-Hour Nature Pottery ExperienceStep into a gentle rhythm of nature and creativity in this two-hour immersive session. We begin with a slow, mindful nature walk-gathering inspiration, textures, and a few fallen leaves or flowers before settling in to work with our hands.Using soft air-dry clay, you\u2019ll shape your own trinket trays and small plates, real botanical one-of-a-kind imprints. This is more than craft it\u2019s a quiet conversation with the natural world:Feel the cool clay respond to your touch Discover patterns hidden in leaves, bark, and wild stems Create functional pieces that carry the forest\u2019s memory home Come ready to walk, gather, imprint, and shape. You\u2019ll leave with handmade trays and plates that hold both beauty and the calm of time spent deeply engaged with nature.",
-    "startDate": "2026-08-23T17:30:00+05:30",
-    "endDate": "2026-08-23T19:30:00+05:30",
+    "startDate": "2026-08-23T17:00:00+05:30",
+    "endDate": "2026-08-23T19:00:00+05:30",
     "location": {
       "@type": "Place",
       "address": "Nehru park, Ramnagar, Chanakyapuri, New Delhi, Delhi 110021, India",
@@ -1777,10 +1814,10 @@
     },
     "url": "https://urbanaut.app/spot/clay-in-the-wild",
     "keywords": [
-      "Leisure",
       "Wellness",
       "Eco Friendly",
       "Walking Tour",
+      "Food & drink",
       "Art & culture",
       "URBANAUT"
     ]
@@ -1917,7 +1954,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "941.00",
+      "price": "262.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
