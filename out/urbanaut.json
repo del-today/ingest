@@ -4,7 +4,7 @@
     "@type": "Event",
     "name": "Kathika Cultural Experience",
     "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
-    "startDate": "2026-08-12T11:30:00+05:30",
+    "startDate": "2026-08-13T12:30:00+05:30",
     "endDate": "2026-08-31T14:00:00+05:30",
     "location": {
       "@type": "Place",
@@ -1824,6 +1824,42 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Wine Tasting: Juicy Fresh Drops",
+    "description": "Delhi, we\u2019ve got some juicy new wines for you! \ud83c\udf77\u2728Join Sommelier Devati Mallick (Founder & Curator, Drink With D Wine Experiences) at Olive, Mehrauli for Juicy Fresh Drops, an evening of brand-new wines, delicious food and a little something saucy on the side.We\u2019re teaming up with a new wine importer in town to bring you an exclusive line-up of 5 wines that are fresh to the Delhi scene. Think juicy, vibrant, easy-to-love bottles that you may not have had the chance to taste before, so you can discover some new favourites.We\u2019re also teaming up with Small Batch Co., an artisan brand making seriously delicious dips and sauces. You\u2019ll get to discover some of their products during the tasting, with a few of their flavours also making their way into Olive\u2019s small plates.The vibe at our tastings: great wines, good food, easy conversations and the friendliest bunch of wine lovers around. Come with your gang, bring a date, or turn up solo: you\u2019ll have plenty of people to clink glasses with. And you might just leave with a new favourite bottle\u2026 or possibly a new sauce obsession. \ud83d\ude0bLimited seats only. Come discover the fresh drops before someone else gets to them first!",
+    "startDate": "2026-08-23T18:00:00+05:30",
+    "endDate": "2026-08-23T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Mile 6, One Style, 8, Kalka Das Marg, Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52577010000000000000",
+        "longitude": "77.18413110000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2750.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Drink With D",
+      "url": "https://urbanaut.app/partner/drinkwithd"
+    },
+    "url": "https://urbanaut.app/spot/wine-tasting-delhi-juicy-fresh-drops",
+    "keywords": [
+      "Leisure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Fireflies Workshop 23/8",
     "description": "\ud83c\udf1f Join Us for an Enchanting Evening: Fireflies at Hauz Khas \ud83c\udf1fPrepare to be mesmerized by one of nature\u2019s most magical displays! New Delhi Nature Society is thrilled to invite you to an exclusive event that promises to light up your senses and spark your curiosity. As twilight descends upon the charming and historic Hauz Khas area, we will guide you to a secret location where fireflies dance in the night, creating a breath taking spectacle of bioluminescence. This hidden gem offers an intimate and serene setting for you to witness this enchanting natural phenomenon. What to Expect:\u2728 Guided Firefly Tour \u2013 Learn about these fascinating creatures and their ecological significance.\ud83c\udf3f Nature Walk \u2013 Immerse yourself in the beauty of the surroundings as night falls. \ud83c\udf42 What to Bring: Comfortable walking shoes, camera (without flash) to capture the moment, a sense of wonder and curiosity, Water bottle. Important Note: Due to the sensitive nature of the event location, exact details will be provided only upon confirmation of your attendance. Space is limited, so please secure your spot quickly. Don\u2019t miss this opportunity to experience the magic of fireflies in one of Delhi\u2019s most enchanting locations. We look forward to sharing this unforgettable night with you!",
@@ -2150,6 +2186,41 @@
       "Leisure",
       "Pop-up Event",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Decoding The Unspoken Through Body Language",
+    "description": "Join us for a lecture that might make you rethink every conversation you've ever had.About the LectureA raised eyebrow. A shift in posture. A half-second pause before an answer. Long before you finish a sentence, your body has usually already told the room the truth.This lecture explores body language as one of the most powerful, and most overlooked, forms of communication we have. From micro-expressions and eye movements to posture, gestures and the subtle inconsistencies between what someone says and what they do, we'll examine how non-verbal cues reveal emotion, confidence, stress and intention long before words catch up.Drawing on years of training law enforcement, forensic and academic institutions across India \u2014 from the Delhi Police Crime Branch to CISF and the CBI's forensic science laboratory \u2014 this session takes the same tools used in interrogation rooms and interviews, and turns them toward everyday life: negotiations, dates, interviews, and the conversations you have every day without realising how much you're saying.The session explores:How facial expressions, posture and gestures reveal what words often hideThe difference between a nervous habit and a genuine sign of deceptionHow law enforcement and forensic experts read non-verbal cues in real investigationsPractical ways to apply body language reading to your own personal and professional lifeAbout the SpeakerGaurav Gill is a body language expert who has trained several of India's most prestigious law enforcement, forensic and academic institutions, including the Delhi Police Crime Branch AHTU, Delhi Police (Central District \u2014 Kamla Market, Hauz Khas, and IP Estate), Pune Police and Pune Crime Branch AHTU, SPUWAC Headquarters (Special Police Unit for Women and Children), the Railway Protection Force (RPF), Government Railway Police (GRP), CISF and the CISF ASG Unit. He has also conducted specialised body language training for forensic experts at DFSS-CFSL (formerly CBI-CFSL), New Delhi, and has been guest faculty at the National Forensic Sciences University (Delhi and Goa campuses), Rashtriya Raksha University (Gujarat campus), and the Juvenile Justice Board (JJB-VII), Dwarka, Delhi.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-08-29T16:00:00+05:30",
+    "endDate": "2026-08-29T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "32nd avenue, Sector 15 Part 2, Sector 15, Gurugram, Haryana 122001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46145160000000000000",
+        "longitude": "77.04983410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/decoding-the-unspoken-through-body-language",
+    "keywords": [
       "URBANAUT"
     ]
   },
@@ -2639,6 +2710,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Rocky Trails & Sunrise Picnic at Mangar Lake",
+    "description": "This sunrise hiking experience takes you through rocky trails, scenic ridge lines, and a beautiful lakeside setting for a refreshing morning outdoors. It blends light adventure, calm nature moments, and fun group interactions, making it a great pick for beginners, couples, friends, and solo plans. The experience also includes a guided hike with experienced leaders, a curated picnic breakfast, storytelling, fun group activities, and basic first-aid support. It is a well-rounded outdoor escape that brings together movement, views, conversation, and a memorable breakfast in nature.Arrival & Meet-Up At 5:00 A.M.\u2022 Assemble by 5:00 A.M. at the meeting point for check-in and a short introduction.\u2022 The experience will begin at 5:15 A.M. sharp, so arriving on time will help you settle in comfortably before the hike starts.Briefing & Warm-Up\u2022 Meet the hike leaders, get a short safety briefing, and ease into the experience with a light ice-breaker and stories about the trail.Sunrise Hike Through Trails & Ruins\u2022 Begin the guided walk through forest trails, offbeat paths, and old ruins while taking in the fresh morning air and scenic views.Stories, Games & Forest Pause\u2022 Pause along the way for local legends, hidden history, fun group activities, and a calm forest-bathing moment.Picnic Breakfast & Wrap Up At 8:00-8:30 A.M.\u2022 Unwind with a picnic breakfast in a scenic spot before making your way back with the group, wrapping up the experience by around 8:30 A.M.",
+    "startDate": "2026-09-06T05:30:00+05:30",
+    "endDate": "2026-09-06T08:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "95VP+C6C, Mangar, Haryana 121004, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.39356250000000000000",
+        "longitude": "77.18551560000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1770.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Trail It Hiking and Outdoors",
+      "url": "https://urbanaut.app/partner/trail-it-hiking-and-outdoors"
+    },
+    "url": "https://urbanaut.app/spot/picnicatmangarlake",
+    "keywords": [
+      "Adventure",
+      "Premium",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Bapus's Table 6th Edition by Bapu's Curries",
     "description": "Bapu's Curries is the story of a man who spent a lifetime collecting memories through food. Umesh Khaitan, affectionately known as Bapu, is a lawyer by profession but a cook, traveller and storyteller at heart.For decades, he has explored India's regional cuisines, travelled in search of ingredients, documented family traditions, and created recipes that celebrate both heritage and experimentation. Every dish in the book carries a memory\u2014of his parents, his travels, his family, or a simple moment in the kitchen. Co-authored by his daughter Shreeparna Khaitan and culinary collaborator Surbhi Anand, Bapu's Curries became a way of preserving these stories for generations to come.But we soon realised that some stories are best experienced around a table rather than read on a page. That thought gave birth to Bapu's Table\u2014an intimate dining experience where guests come together to savour thoughtfully curated menus inspired by the book, while sharing conversations, memories and the joy of slowing down over a meal.Over the last five editions, Bapu\u2019s Table has grown into a community of people who arrive as strangers and leave with stories shared over food. For our 6th Edition, Baarish Ka Khaana, we are turning to the flavours that make the monsoon feel like home \u2014 warm, comforting, nostalgic and, as always with Bapu, a little unexpected. A table inspired by rainy evenings, familiar cravings and dishes that taste even better when there is a drizzle outside. We would love to have you join us for Baarish Ka Khaana and share another evening around the table.We would love for you to join us around the table and become a part of the story.",
     "startDate": "2026-09-12T19:00:00+05:30",
@@ -2706,6 +2815,44 @@
       "Wellness",
       "Food & drink",
       "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Ruins, Trails Hiking & Picnic Escape",
+    "description": "This sunrise hiking experience takes you through forest trails, old ruins, and scenic viewpoints for a refreshing early morning escape. It is a beginner-friendly outing that blends nature, light adventure, and storytelling, making it ideal for solo plans, couples, or small groups. Along the way, you can enjoy interesting stories, fun group moments, and a calm forest-bathing break before settling in for a picnic breakfast. The experience is a lovely mix of exploration, history, and connection, all wrapped into a peaceful morning outdoors.Beginner-friendly sunrise hike through forest trails and offbeat paths.Explore old ruins, hidden corners, and scenic viewpoints along the way.Enjoy storytelling around local legends, myths, and history.Take part in fun group games and a calming forest-bathing pause.Curated picnic breakfast included as part of the experience.Great for solo plans, couples, and small groups looking for a refreshing morning outdoors.Arrival & Meet-Up At 5:00 A.M.\u2022 Assemble by 5:00 A.M. at the meeting point for check-in and a short introduction.\u2022 The experience will begin at 5:15 A.M. sharp, so arriving on time will help you settle in comfortably before the hike starts.Briefing & Warm-Up\u2022 Meet the hike leaders, get a short safety briefing, and ease into the experience with a light ice-breaker and stories about the trail.Sunrise Hike Through Trails & Ruins\u2022 Begin the guided walk through forest trails, offbeat paths, and old ruins while taking in the fresh morning air and scenic views.Stories, Games & Forest Pause\u2022 Pause along the way for local legends, hidden history, fun group activities, and a calm forest-bathing moment.Picnic Breakfast & Wrap Up At 8:00-8:30 A.M\u2022 Unwind with a picnic breakfast in a scenic spot before making your way back with the group, wrapping up the experience by around 800-8:30 A.M.",
+    "startDate": "2026-09-20T05:30:00+05:30",
+    "endDate": "2026-09-20T08:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "G5PJ+PMP Sanjay Van, New Mehrauli Road, Block B, Qutab Institutional Area, New Delhi, Delhi 110016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53698790000000000000",
+        "longitude": "77.18188470000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1770.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Trail It Hiking and Outdoors",
+      "url": "https://urbanaut.app/partner/trail-it-hiking-and-outdoors"
+    },
+    "url": "https://urbanaut.app/spot/sanjayvanexperience",
+    "keywords": [
+      "Adventure",
+      "Premium",
+      "Guided tour",
       "URBANAUT"
     ]
   }
