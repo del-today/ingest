@@ -75,41 +75,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Am I The Asshole?",
-    "description": "Bringing the internet's favourite question to life. Am I the Asshole is a live event where our host and guests tackle the eternal question: were they the asshole?Come watch a live panel debate real world dilemmas, shocking online threads, and anonymous submissions straight from the audience. No filters. No holding back. You hold the voting power. You decide who's right.",
-    "startDate": "2026-08-14T06:00:00+05:30",
-    "endDate": "2026-08-14T07:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54778550000000000000",
-        "longitude": "77.21136729999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "628.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Gully Labs",
-      "url": "https://urbanaut.app/partner/baithak"
-    },
-    "url": "https://urbanaut.app/spot/am-i-the-asshole",
-    "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Onam Sadhya by Chef Kartik x Cocobay",
     "description": "Celebrate Onam with an Authentic Sadhya at CocobayGet ready to indulge in the rich, traditional flavors of Kerala this festive season! In anticipation of Onam, Cocobay South Indian Cafe brings you a thoughtfully curated Onam Sadhya experience designed by Chef Kartik. Served on a vibrant banana leaf, this grand feast features an array of authentic preparations\u2014from crispy banana chips and savory side dishes to aromatic rice and comforting payasam\u2014crafted to capture the true spirit of togetherness and celebration.A Culinary Journey in GurgaonWhether you are hosting family or enjoying a preview feast with friends, join us at our new location on Golf Course Road to savor every bit of this seasonal specialty. Available for a limited time from August 14th to 16th at \u20b9995 (+GST) per person, with convenient delivery options right to your doorstep. Space is limited for this special festive preview\u2014reserve your meal early and celebrate Onam with the timeless taste of home!",
