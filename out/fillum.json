@@ -1,6 +1,23 @@
 [
   {
     "@type": "ScreeningEvent",
+    "name": "Beatles '64(2024)",
+    "url": "https://fillum.in/screening/5983",
+    "startDate": "2026-08-14T19:30:00+05:30",
+    "endDate": "2026-08-14T19:30:00+05:30",
+    "description": "An evening for Beatles fans and curious music lovers alike.Join us for a community screening of Beatles '64 a documentary that captures the band's first visit to America and the phenomenon that ch..more",
+    "location": {
+      "@type": "Place",
+      "name": "Niv Art Centre",
+      "address": "Sainik Farm, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "MuzoClass"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "Mamma Roma(1962)",
     "url": "https://fillum.in/screening/6002",
     "startDate": "2026-08-15T15:30:00+05:30",
@@ -69,23 +86,6 @@
   },
   {
     "@type": "ScreeningEvent",
-    "name": "CINEMASCOPE \u2013 A 10 day Practical Filmmaking Workshop by Ashok Dhingra",
-    "url": "https://fillum.in/event/5981",
-    "startDate": "2026-08-17T10:00:00+05:30",
-    "endDate": "2026-08-17T10:00:00+05:30",
-    "description": "Step into the world of filmmaking with CINEMASCOPE, an intensive 10-day practical filmmaking workshop designed for aspiring filmmakers, storytellers, actors, cinematographers, editors, and content c..more",
-    "location": {
-      "@type": "Place",
-      "name": "Niv Art Centre, Neb Sarai",
-      "address": "Sainik Farm, New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Niv Art Centre & Film Studios"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "Feminist Fathima(2024)",
     "url": "https://fillum.in/screening/5969",
     "startDate": "2026-08-18T18:30:00+05:30",
@@ -99,6 +99,40 @@
     "organizer": {
       "@type": "Organization",
       "name": "India International Centre"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Stories from the Ground - Northeast India",
+    "url": "https://fillum.in/event/6006",
+    "startDate": "2026-08-18T19:00:00+05:30",
+    "endDate": "2026-08-18T19:00:00+05:30",
+    "description": "By Global Wildlife Fair. Stories from the Northeast, brought to the screen. Join for an evening of films dedicated to the wildlife, communities, landscapes, and conservation stories of Northeast Ind..more",
+    "location": {
+      "@type": "Place",
+      "name": "India Habitat Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fillum"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Tear This Heart Out(2008)",
+    "url": "https://fillum.in/screening/6007",
+    "startDate": "2026-08-20T18:00:00+05:30",
+    "endDate": "2026-08-20T18:00:00+05:30",
+    "description": "Free entry.",
+    "location": {
+      "@type": "Place",
+      "name": "Instituto Cervantes",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Instituto Cervantes Nueva Delhi"
     }
   },
   {
