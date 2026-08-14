@@ -615,7 +615,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "899.00",
+      "price": "999.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -937,6 +937,120 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Rethinking Work in Midlife",
+    "description": "Many experienced professionals reach a stage where they begin to ask a different question:\u201cWhere else can my experience make a difference?\u201dFor some, the answer lies beyond the corporate world ; in social enterprises, foundations, non-profits, community organisations, or mission-led initiatives. But what does that transition really involve? What skills carry forward? What changes? And how do you know if it\u2019s the right path for you?Join us for a conversation with leaders who have made this transition as they share what prompted the shift, what surprised them, and what they\u2019ve learned along the way.Whether you\u2019re actively exploring your next chapter or simply curious about new possibilities, this session offers an opportunity to understand one of the many ways experienced professionals are choosing to continue working, contributing and creating meaningful impact.What you\u2019ll take awayA better understanding of pathways into the social impact ecosystem.How years of professional experience can translate into meaningful roles.The opportunities, realities and trade-offs involved in making the transition.Questions to help you reflect on whether this could be a path worth exploring.",
+    "startDate": "2026-08-20T18:30:00+05:30",
+    "endDate": "2026-08-20T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Noida, Uttar Pradesh, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53551610000000000000",
+        "longitude": "77.39102650000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "99.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Zuva Life",
+      "url": "https://urbanaut.app/partner/zuvalife"
+    },
+    "url": "https://urbanaut.app/spot/rethinkingworkinmidlifenoida",
+    "keywords": [
+      "Live GIG",
+      "Virtual",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Rethinking Work in Midlife",
+    "description": "Many experienced professionals reach a stage where they begin to ask a different question:\u201cWhere else can my experience make a difference?\u201dFor some, the answer lies beyond the corporate world ; in social enterprises, foundations, non-profits, community organisations, or mission-led initiatives. But what does that transition really involve? What skills carry forward? What changes? And how do you know if it\u2019s the right path for you?Join us for a conversation with leaders who have made this transition as they share what prompted the shift, what surprised them, and what they\u2019ve learned along the way.Whether you\u2019re actively exploring your next chapter or simply curious about new possibilities, this session offers an opportunity to understand one of the many ways experienced professionals are choosing to continue working, contributing and creating meaningful impact.What you\u2019ll take awayA better understanding of pathways into the social impact ecosystem.How years of professional experience can translate into meaningful roles.The opportunities, realities and trade-offs involved in making the transition.Questions to help you reflect on whether this could be a path worth exploring.",
+    "startDate": "2026-08-20T18:30:00+05:30",
+    "endDate": "2026-08-20T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gurugram, Haryana, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.45949650000000000000",
+        "longitude": "77.02663830000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "99.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Zuva Life",
+      "url": "https://urbanaut.app/partner/zuvalife"
+    },
+    "url": "https://urbanaut.app/spot/rethinkingworkinmidlifegurugram",
+    "keywords": [
+      "Live GIG",
+      "Virtual",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Rethinking Work in Midlife",
+    "description": "Many experienced professionals reach a stage where they begin to ask a different question:\u201cWhere else can my experience make a difference?\u201dFor some, the answer lies beyond the corporate world ; in social enterprises, foundations, non-profits, community organisations, or mission-led initiatives. But what does that transition really involve? What skills carry forward? What changes? And how do you know if it\u2019s the right path for you?Join us for a conversation with leaders who have made this transition as they share what prompted the shift, what surprised them, and what they\u2019ve learned along the way.Whether you\u2019re actively exploring your next chapter or simply curious about new possibilities, this session offers an opportunity to understand one of the many ways experienced professionals are choosing to continue working, contributing and creating meaningful impact.What you\u2019ll take awayA better understanding of pathways into the social impact ecosystem.How years of professional experience can translate into meaningful roles.The opportunities, realities and trade-offs involved in making the transition.Questions to help you reflect on whether this could be a path worth exploring.",
+    "startDate": "2026-08-20T18:30:00+05:30",
+    "endDate": "2026-08-20T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.70405920000000000000",
+        "longitude": "77.10249019999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "99.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Zuva Life",
+      "url": "https://urbanaut.app/partner/zuvalife"
+    },
+    "url": "https://urbanaut.app/spot/rethinkingworkinmidlifedelhi",
+    "keywords": [
+      "Live GIG",
+      "Virtual",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Grounds For Thought: August Lineup",
     "description": "Grounds for Thought: August 2026A Blue Tokai \u00d7 unLecture SeriesFour Thursday evenings. Four very different conversations. Grounds for Thought is a monthly series where Blue Tokai and unLecture bring researchers, scientists, and thinkers out of their institutions and into a coffee shops. The format is simple: an expert, a room full of curious people, and a conversation that goes somewhere a classroom rarely does.6th August: Shambhavi TiwariPossessed: The Ghost, The Asylum, The Priest, and the PeopleWhen someone in rural India is \"possessed by a ghost,\" they encounter not just their family and their priest, but eventually \u2014 often \u2014 a psychiatrist. Two completely different frameworks for what has gone wrong, and what healing looks like. This session uses spirit possession across Indian cultural contexts to examine what happens when indigenous knowledge systems and clinical medicine cross paths. PhD researcher Shambhavi Tiwari, who has spent years in this space, asks: superstition, myth, knowledge system, or something else entirely?13th August: Dr. Vishwas ChitaleZoom In, Zoom Out: What India's Climate Risk Looks Like at Ground LevelEveryone has heard the national climate numbers. But zoom into a district, and the picture changes entirely \u2014 neighbouring areas with opposite risk profiles, and disaster plans built on averages too coarse to catch where the real danger sits. Dr. Vishwas Chitale, Fellow at CEEW, will walk us through India's climate risk from the national level down to your own neighbourhood \u2014 and then hand the tool to the room. Participants will pull up their own hometown's actual climate risk profile live, using CRAVIS, CEEW's climate intelligence platform. You'll leave having done a small piece of the research yourself.20th August: Antara ChakrabartyFrom Village to Viral: How Folk Music Got a Second LifeA seventeenth-century Sufi verse now has a hundred million YouTube views. The songs of Lalon Fakir, Bengal's wandering poet-saint, are uniting two Bengals and two centuries through a single melody. This session traces folk music's remarkable journey \u2014 from Punjab's Sufi shrines and Bengal's riverside Baul gatherings to studio stages and streaming platforms \u2014 and asks the questions nobody quite wants to answer. Who owns a folk song? What happens when heritage becomes entertainment? Does something get lost in translation, or does it simply learn a new way to survive? Expect live music, a few surprises, and a fresh way of listening to songs you may already love.27th August: Sunaina SaxenaWhat is a Clean Street Worth?Why are two seemingly identical houses priced so differently? This session explores one of environmental economics' most elegant tools, hedonic pricing, to answer a question most of us have never thought to ask: does the cleanliness of a neighbourhood have a measurable economic value? Through stories, discussion, and simple examples, researcher Sunaina Saxena explores how clean streets, reliable waste collection, and a healthy living environment become embedded in housing prices \u2014 and what that reveals about our cities and the choices we make about where we live.",
     "startDate": "2026-08-20T18:30:00+05:30",
@@ -967,6 +1081,42 @@
     "url": "https://urbanaut.app/spot/grounds-for-thought-august-lineup",
     "keywords": [
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Slow Burn - A 4 Course Drinking Experience",
+    "description": "Tucked into a corner of Lodhi Colony, The Love Hotel is Delhi's best-kept secret \u2014 a 20-seat cocktail room that takes its cues from the love hotels of Japan. It's intimate without being intense, flirtatious without trying too hard.Slow Burn is a four-course cocktail tasting built for this room \u2014 but where most tasting menus put food at the centre, here the cocktails play hero.It begins the second you walk in with a welcome shot. From there, four cocktails unfold in sequence \u2014 each its own chapter, drawn from the same five-taste philosophy that powers The Love Hotel's acclaimed program. Every pour lands with a course of tapas alongside it.An evening where the spirit leads, and the plate follows. And with only twenty seats, the room stays intimate & exclusive.",
+    "startDate": "2026-08-20T19:00:00+05:30",
+    "endDate": "2026-08-20T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Main Market, 28, Lodhi Rd, Block 13, Lodi Colony, New Delhi, Delhi, 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.58474620000000000000",
+        "longitude": "77.22387390000002000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3200.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Love Hotel",
+      "url": "https://urbanaut.app/partner/the-love-hotel"
+    },
+    "url": "https://urbanaut.app/spot/slow-burn-martini-cocktail-tasting-menu",
+    "keywords": [
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -1118,6 +1268,44 @@
     "keywords": [
       "History & heritage",
       "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "A Cinema Walk through the heart of CP",
+    "description": "What comes to mind when you think of Connaught Place? Shopping? Caf\u00e9s? Crowded streets? Or perhaps something from a very different time? What if we told you that C.P. once had a whole different rhythm, one shaped by cinema, Friday evenings, grand premieres and long-awaited movie dates?Built as the social and cultural heart of New Delhi, CP brought together theatres, cinemas, restaurants and public spaces where people could spend an entire evening. \ud83c\udfacOver the years, its cinema halls became an important part of this experience, bringing together audiences from different generations. \ud83d\udc8cBut how much of that world remains today? Join Silsila Heritage, as we take a walk through these familiar cinema spaces in Connaught Place and see how they have adapted over the years.Know Your Walk Leader:\ud83d\udde3 Bipasha is a heritage educator & museum professional for 10+ years. She is specialized in facilitating interactive sessions, Delhi-based tours and art workshops. Through these meaningful experiences, she aims to give her audience an essence of 'dekho, suno, samjho, aur mehsoos karo'.",
+    "startDate": "2026-08-22T09:00:00+05:30",
+    "endDate": "2026-08-22T11:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Connaught Place, New Delhi, Delhi 110001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.63042030000000000000",
+        "longitude": "77.21772159999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "225.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Silsila Heritage",
+      "url": "https://urbanaut.app/partner/silsilaheritage"
+    },
+    "url": "https://urbanaut.app/spot/a-cinema-walk-through-the-heart-of-cp",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
       "Art & culture",
       "URBANAUT"
     ]
@@ -2638,8 +2826,8 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Rocky Trails & Sunrise Picnic at Mangar Lake",
-    "description": "This sunrise hiking experience takes you through rocky trails, scenic ridge lines, and a beautiful lakeside setting for a refreshing morning outdoors. It blends light adventure, calm nature moments, and fun group interactions, making it a great pick for beginners, couples, friends, and solo plans. The experience also includes a guided hike with experienced leaders, a curated picnic breakfast, storytelling, fun group activities, and basic first-aid support. It is a well-rounded outdoor escape that brings together movement, views, conversation, and a memorable breakfast in nature.Arrival & Meet-Up At 5:00 A.M.\u2022 Assemble by 5:00 A.M. at the meeting point for check-in and a short introduction.\u2022 The experience will begin at 5:15 A.M. sharp, so arriving on time will help you settle in comfortably before the hike starts.Briefing & Warm-Up\u2022 Meet the hike leaders, get a short safety briefing, and ease into the experience with a light ice-breaker and stories about the trail.Sunrise Hike Through Trails & Ruins\u2022 Begin the guided walk through forest trails, offbeat paths, and old ruins while taking in the fresh morning air and scenic views.Stories, Games & Forest Pause\u2022 Pause along the way for local legends, hidden history, fun group activities, and a calm forest-bathing moment.Picnic Breakfast & Wrap Up At 8:00-8:30 A.M.\u2022 Unwind with a picnic breakfast in a scenic spot before making your way back with the group, wrapping up the experience by around 8:30 A.M.",
+    "name": "Dawn Trails & Lakeside Picnic in Delhi NCR",
+    "description": "This early morning hiking experience takes you across rocky paths, scenic ridgelines and a picturesque lakeside setting, offering a refreshing escape into nature.The experience brings together gentle adventure, outdoor exploration, group activities and a picnic breakfast, making it suitable for beginners, couples, friends and solo travellers.Participants will be accompanied by experienced hike leaders throughout the trail.The experience also includes a curated picnic breakfast, storytelling, engaging group activities and basic first aid support.Experience Schedule1. Arrival and Meet Up at 5:15 AMReach the starting point by 5:15 AM and meet the rest of the group before setting off.Briefing and Introduction: Get acquainted with the hike leaders as they give you a quick overview of the trail, the experience and what to expect during the morning.2. Sunrise Hike Begins at 5:30 AMBegin the hike at 5:30 AM and follow a guided route through scenic trails, rocky stretches and boulder sections.Enjoy the peaceful morning atmosphere and beautiful views as the landscape comes alive around you.3. Nature Pause and Group ActivitiesTake brief pauses during the hike to soak in the surroundings and discover interesting details about the natural landscape.Participate in fun outdoor activities designed to keep the group engaged and make the experience more interactive.4. Picnic BreakfastStop at a scenic location to unwind and enjoy a curated picnic breakfast.Take some time to relax, connect with the group and enjoy your meal surrounded by nature.5. Walk Back and Wrap Up at 8:30 AMBegin the return walk with the group after the picnic and make your way back to the starting point.",
     "startDate": "2026-09-06T05:30:00+05:30",
     "endDate": "2026-09-06T08:30:00+05:30",
     "location": {
@@ -2749,8 +2937,8 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Ruins, Trails Hiking & Picnic Escape",
-    "description": "This sunrise hiking experience takes you through forest trails, old ruins, and scenic viewpoints for a refreshing early morning escape. It is a beginner-friendly outing that blends nature, light adventure, and storytelling, making it ideal for solo plans, couples, or small groups. Along the way, you can enjoy interesting stories, fun group moments, and a calm forest-bathing break before settling in for a picnic breakfast. The experience is a lovely mix of exploration, history, and connection, all wrapped into a peaceful morning outdoors.Beginner-friendly sunrise hike through forest trails and offbeat paths.Explore old ruins, hidden corners, and scenic viewpoints along the way.Enjoy storytelling around local legends, myths, and history.Take part in fun group games and a calming forest-bathing pause.Curated picnic breakfast included as part of the experience.Great for solo plans, couples, and small groups looking for a refreshing morning outdoors.Arrival & Meet-Up At 5:00 A.M.\u2022 Assemble by 5:00 A.M. at the meeting point for check-in and a short introduction.\u2022 The experience will begin at 5:15 A.M. sharp, so arriving on time will help you settle in comfortably before the hike starts.Briefing & Warm-Up\u2022 Meet the hike leaders, get a short safety briefing, and ease into the experience with a light ice-breaker and stories about the trail.Sunrise Hike Through Trails & Ruins\u2022 Begin the guided walk through forest trails, offbeat paths, and old ruins while taking in the fresh morning air and scenic views.Stories, Games & Forest Pause\u2022 Pause along the way for local legends, hidden history, fun group activities, and a calm forest-bathing moment.Picnic Breakfast & Wrap Up At 8:00-8:30 A.M\u2022 Unwind with a picnic breakfast in a scenic spot before making your way back with the group, wrapping up the experience by around 800-8:30 A.M.",
+    "name": "Sanjay Van: Forgotten Ruins & Forest Picnic",
+    "description": "Sunrise Hiking ExperienceThis early morning hiking experience takes you through forest trails, historic ruins, and scenic viewpoints for a refreshing start to the day. Designed to be beginner friendly, it combines nature, light adventure, storytelling, and meaningful group moments, making it ideal for solo travellers, couples, friends, and small groups.Along the way, discover interesting stories and hidden history, take part in fun group activities, and pause for a peaceful forest bathing experience. The morning comes together with a relaxed picnic breakfast at a scenic spot, bringing exploration, history, nature, and connection into one refreshing outdoor experience.Experience Flow1. Arrival and Meet Up at 5:15 AMAssemble at the meeting point by 5:15 AM for check in and a quick introduction. The experience begins at 5:30 AM sharp, so arriving on time allows you to settle in comfortably before the hike begins.2. Briefing and Warm UpMeet the hike leaders and attend a short safety briefing before getting started. Ease into the morning with a light ice breaker and a few interesting stories about the trail and its surroundings.3. Sunrise Hike Through Forests and RuinsSet out on a guided walk through forest trails, lesser known paths, old ruins, and scenic viewpoints. Enjoy the fresh morning air while discovering the quieter side of the landscape as the sun rises.4. Stories, Games and Forest PauseTake breaks along the way to hear local legends and stories of hidden history. Enjoy fun group activities before slowing down for a calm forest bathing moment and taking in the surrounding nature.5. Picnic Breakfast and Wrap Up at 8:30 AMEnd the morning at a scenic spot with a relaxed picnic breakfast. After some time to unwind and enjoy the surroundings, make your way back with the group. ",
     "startDate": "2026-09-20T05:30:00+05:30",
     "endDate": "2026-09-20T08:30:00+05:30",
     "location": {
