@@ -76,117 +76,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "The Matcha Circle",
-    "description": "OverviewA shared matcha-making experience where simple acts of whisking, pouring, and preparing create calm.People gather over matcha, conversation, and the quiet rhythm of making something by hand. One cup at a time.Matcha Experience: A Taste of CalmExperience the calming art of green tea in a session dedicated to mindfulness and flavor. This gathering is designed to help you slow down and appreciate the details of a centuries old tradition. \"The Matcha Circle\" offers a peaceful space to learn, taste, and connect at the end of a long week.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to ExpectGuided Introduction: Learn about the history and the unique process of preparing matcha from farm to cup.The Ritual: Watch and learn how the tea is whisked to create its signature froth and deep flavor.Tasting Session: Enjoy a premium matcha drink prepared just for you at Cha & Co.Quiet Conversation: Join a small group setting to talk about finding moments of peace in a busy week over a comforting cup.Details\ud83d\uddd3\ufe0f Date: 14th August (Friday)\u23f0 Time: 6:30 PM\ud83d\udccd Location: Cha & Co, Grand View High Street\ud83c\udf75 Inclusion: Matcha drink included\ud83c\udf9f\ufe0f Fee: \u20b9700",
-    "startDate": "2026-08-14T18:30:00+05:30",
-    "endDate": "2026-08-14T20:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Ireo Grand View High Street, Sector 58, Gurugram, Haryana 122098, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.41560020000000000000",
-        "longitude": "77.10258329999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "661.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/matcha-experience",
-    "keywords": [
-      "Leisure",
-      "Workshop",
-      "History & heritage",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Trouble Brewing @ Afeto",
-    "description": "During a hellish thunderstorm, a scream echoes through the sleepy town of Ravenswood Bluff. The townsfolk rush to investigate and find the beloved local storyteller has been murdered, their body hanging limp from the clocktower. As blood drips onto the cobblestones below, a realisation slowly dawns\u2026 a demon has been unleashed, killing by night and taking on human form by day. Can good find the demon in time? Or will evil overrun this once peaceful town?\u200b\u200b\u200bWhat is BotC?\u200bBlood on the Clocktower is a game of murder and mystery, lies and logic, deduction and deception for five-to-twenty courageous players and one devious storyteller.\u200bA social game played in person, seated in a circle, each player receives either a \u2018good\u2019 or \u2018evil\u2019 token with their unique character on it. Good players share information to solve the mystery whilst evil players lie about who they are and what they know. The good team wins if they can piece together their knowledge, trust each other, and execute the demon. The evil team wins if the demon can sow distrust, evade detection, and wipe out the town.",
-    "startDate": "2026-08-14T19:00:00+05:30",
-    "endDate": "2026-08-14T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Ground Floor, ESI-Basaidarapur, Metro Station, Shivaji Enclave, Tagore Garden Extension, New Delhi, Delhi, 110027, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.65805100000000000000",
-        "longitude": "77.12750869999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "515.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Table Top Games Club",
-      "url": "https://urbanaut.app/partner/the-table-top-games-club"
-    },
-    "url": "https://urbanaut.app/spot/trouble-brewing-afeto",
-    "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Latin American Supper Dinner",
-    "description": "Summer Edition of our Latin American Supper DinnerWelcome to V\u2019s Supper Stories, where food is slow, stories are shared, and the table is the experience.This isn\u2019t a restaurant. It\u2019s a quiet corner of Saket, New Delhi, where once a week, 10\u201312 guests gather around one long table. No menus in hand. No loud music. Just seasonally inspired dishes, soft conversation, and the kind of atmosphere you remember long after dessert.On the menu - Pomelo & Apple Ceviche, Summer Tomato Tostada, Salsa Matcha Corn Pops, Brazilian Prawn Moqueca, Summer Vegetable Moqueca, Coconut Lime Rice and Tres Leches.Come solo or a +1. Come curious. Come for the quiet joy of a meal made with care.We\u2019re based in Saket, New Delhi \u2014 and the exact address is shared 24 hours before, because the feeling of discovery is part of what makes it special.Follow along at @vsupperstories for glimpses of the table, the food, and the people who bring it to life.",
-    "startDate": "2026-08-14T19:15:00+05:30",
-    "endDate": "2026-08-14T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Saiyad ul Ajaib, Sainik Farm, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52035400000000000000",
-        "longitude": "77.20257900000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3100.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "V's Supper Stories",
-      "url": "https://urbanaut.app/partner/vsupperstories"
-    },
-    "url": "https://urbanaut.app/spot/latinamerican",
-    "keywords": [
-      "Premium",
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "A 4-Course Dessert Tasting Supper",
     "description": "At The Other Seat, no two tables are the same. Every month, we create a brand-new dining experience with a fresh menu and theme.This edition is all about dessert\u2014a 4-course pre-plated tasting menu paired with a signature cocktail. Think creative desserts, great conversations, and a table of people who all showed up for something a little different. Only 8 seats.\ud83d\udccd Gurgaon (exact location shared 24 hours before the event)Pull up a chair with us. You never know whom you'll meet at The Other Seat.Menu attached.Hope to see you at the table,The Other Seat",
@@ -597,8 +486,8 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "The Pasta Social by The Masala Kit",
-    "description": "*Come cook. Meet people. Eat well.*Come spend an afternoon cooking, experimenting, and getting a little messy in the kitchen with The Masala Kit!In this hands-on workshop, we'll be making a fresh, flavour-packed pasta salad from scratch \u2014 with a few Masala Kit twists along the way. You\u2019ll learn how to balance flavours, build a great dressing, and use spices in unexpected ways to make a simple dish seriously delicious. Find pictures from our previous workshop here.No cooking experience needed \u2014 just bring your appetite and your curiosity!What to expect\ud83c\udf5d A hands-on pasta salad-making session\ud83c\udf36\ufe0f Learn how to use spices to build flavour\ud83e\udd57 Make your own pasta salad from scratch\ud83d\udc69\u200d\ud83c\udf73 Cooking, experimenting & plenty of tasting\ud83e\udef6 A relaxed, social afternoon around good foodYou\u2019ll make your own pasta salad, enjoy it fresh, and leave with ideas you can recreate at home.Come for the pasta. Stay for the masala. \ud83c\udf36\ufe0f\ud83d\udccd Alt.Tribe\ud83c\udf9f\ufe0f Limited spots availableCheck us out on Instagram: @themasalakit",
+    "name": "Pasta Salad Making Workshop by The Masala Kit",
+    "description": "BACK BY POPULAR DEMAND \ud83c\udf5d\ud83c\udf36\ufe0f*Looking for something fun to do this weekend?Come cook, eat & meet new people with The Masala Kit.*Come spend an afternoon cooking, experimenting, and getting a little messy in the kitchen with The Masala Kit!In this hands-on workshop, we'll be making a fresh, flavour-packed pasta salad from scratch \u2014 with a few Masala Kit twists along the way. You\u2019ll learn how to balance flavours, build a great dressing, and use spices in unexpected ways to make a simple dish seriously delicious. Find pictures from our previous workshop here.No cooking experience needed \u2014 just bring your appetite and your curiosity! Come solo or bring a friend \u2014 you'll be cooking alongside a bunch of other food lovers.What to expect\ud83c\udf5d A hands-on pasta salad-making session\ud83c\udf36\ufe0f Learn how to use spices to build flavour\ud83e\udd57 Make your own pasta salad from scratch\ud83d\udc69\u200d\ud83c\udf73 Cooking, experimenting & plenty of tasting\ud83e\udef6 A relaxed, social afternoon around good foodYou\u2019ll make your own pasta salad, enjoy it fresh, and leave with ideas you can recreate at home.Come for the pasta. Stay for the masala. \ud83c\udf36\ufe0f\ud83d\udccd Alt.Tribe\ud83c\udf9f\ufe0f Limited spots availableCheck us out on Instagram: @themasalakit",
     "startDate": "2026-08-16T12:30:00+05:30",
     "endDate": "2026-08-16T14:00:00+05:30",
     "location": {
