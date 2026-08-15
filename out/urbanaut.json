@@ -38,155 +38,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Cinema Circle",
-    "description": "OverviewA shared film-watching experience designed to feel cozy, intentional, and communal.People gather to slow down, watch together, and stay a little longer with the stories thatunfold on screen. Films, shared quietly.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to ExpectThis month's Cinema Circle, we're watching 12 Angry Men.No spoilers here, just a heads up on the vibe. It's a courtroom drama, but really it's about doubt, bias, and how hard it is to change someone's mind. Expect long silences, sharp arguments, and a room that gets a little tense in the best way.We'll watch together, then sit with it. No pressure to have the \"right\" take, just space to talk about what stayed with you. Past sessions have gone quiet, then loud, then reflective, so come ready for all three.Bring an open mind more than opinions. This one tends to sneak up on people.Details\ud83d\uddd3\ufe0f Date: 15 August (Saturday)\u23f0 Time: 6:00 PM\ud83d\udccd Location: Malibu Town, Gurugram\u2615 Inclusions: Diet Coke, snacks\ud83c\udf9f\ufe0f Fee: \u20b9700",
-    "startDate": "2026-08-15T18:00:00+05:30",
-    "endDate": "2026-08-15T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Tower-4, MALIBU TOWNE, Malibu Towne, Sector 47, Gurugram, Haryana 122018, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.42324330000000000000",
-        "longitude": "77.04097460000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "661.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/cinema-circle",
-    "keywords": [
-      "Leisure",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Baddy with Baddies | Gurugram",
-    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.6:50 PM Meet up and Warm up Time7:00 PM Game TimeSee you on court!",
-    "startDate": "2026-08-15T19:00:00+05:30",
-    "endDate": "2026-08-15T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Sportyzo Badminton Academy, Emaar emerald hills, Golf Course Ext Rd, opposite Ivory Block, Sector 65, Gurugram, Haryana 122011, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.40465650000000000000",
-        "longitude": "77.07401440000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "279.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag42",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Pickleball with SWAG | Gurugram",
-    "description": "The SWAG Pickleball Party is your perfect evening plan!This is a women-only, beginner-friendly meet-up.See you on court!",
-    "startDate": "2026-08-15T19:00:00+05:30",
-    "endDate": "2026-08-15T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Sportyzo Sports Academy, Sector 65, Gurugram, Haryana 122101, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.40450950000000000000",
-        "longitude": "77.07416250000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "360.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag43",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "A Vietnamese Family Table by Paprika Tokri",
-    "description": "Food is never just food.This August, we\u2019re opening the farm and gathering around one long table for an evening inspired by the vibrant flavours and generous spirit of Vietnam.Vietnamese food is made for gathering. Dishes arrive together, herbs are torn by hand, and every mouthful moves between freshness and fire, sweetness and acidity, comfort and surprise.Expect fire-kissed prawns brushed with lemongrass-soy brown butter, crisp turmeric and coconut cr\u00eapes, a light herb broth, fragrant claypot rice served family-style, thoughtful drinks and French vanilla ice cream finished with salted caramel and roasted coconut.As always, this is not a restaurant service. It is an intimate evening where strangers become friends, stories are shared between courses and the meal unfolds slowly around one table.Come, take a seat at our table.",
-    "startDate": "2026-08-15T19:30:00+05:30",
-    "endDate": "2026-08-15T22:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Kh-29/2, Meher Farm, D. I. G. Estate, Aya Nagar Extension Jonapur Link Rd, Jona Pur, Jaunapur, New Delhi, Delhi 110047, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46915150000000000000",
-        "longitude": "77.14380680000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Paprika Tokri",
-      "url": "https://urbanaut.app/partner/paprika-tokri"
-    },
-    "url": "https://urbanaut.app/spot/vietnamese-table-pt",
-    "keywords": [
-      "Eco Friendly",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Plantation Drive",
     "description": "Come join us for a plantation drive in Delhi. Our city is one of the most polluted cities in the world, with nothing bringing relief to its people and other organisms. The drive will focus on native and climate-resilient species carefully chosen for Delhi\u2019s conditions. Saplings will be planted alongside flowering shrubs and understorey plants that support birds, butterflies, and pollinators. These trees have been selected for their ability to filter particulate matter, absorb pollutants, and release oxygen, directly helping combat the city\u2019s air-quality challenges.This planned plantation is to expand green cover, improve air quality, soften the city\u2019s hard edges with shade, and create living spaces where people and wildlife can thrive together. As the saplings take root in the months ahead, they will stand as growing promises of cleaner air, cooler streets, and a richer natural heritage for the capital.",
@@ -716,7 +567,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Rethinking Work in Midlife",
-    "description": "Many experienced professionals reach a stage where they begin to ask a different question:\u201cWhere else can my experience make a difference?\u201dFor some, the answer lies beyond the corporate world ; in social enterprises, foundations, non-profits, community organisations, or mission-led initiatives. But what does that transition really involve? What skills carry forward? What changes? And how do you know if it\u2019s the right path for you?Join us for a conversation with leaders who have made this transition as they share what prompted the shift, what surprised them, and what they\u2019ve learned along the way.Whether you\u2019re actively exploring your next chapter or simply curious about new possibilities, this session offers an opportunity to understand one of the many ways experienced professionals are choosing to continue working, contributing and creating meaningful impact.What you\u2019ll take awayA better understanding of pathways into the social impact ecosystem.How years of professional experience can translate into meaningful roles.The opportunities, realities and trade-offs involved in making the transition.Questions to help you reflect on whether this could be a path worth exploring.",
+    "description": "What happens when you start wondering what else you could do with the experience, skills and perspective you\u2019ve built over years of corporate work?For many professionals in midlife, the question isn\u2019t about starting over. It\u2019s about finding new ways to contribute, stay engaged and make use of what they already know.Join Zuva Life for a candid online conversation with Bachi Allamsetty and Ajith Swaminathan, two practitioners who have taken different paths from corporate work into the social impact space.Together we will explore:The opportunities: What kinds of roles and ways of contributing exist in the social impact sector?What carries forward: Which parts of your corporate experience remain valuable?What is different: What might you need to learn, adapt or unlearn?The realities: What are the trade-offs involved in making a shift?In conversation withBachi AllamsettyTech Entrepreneur | Open NetworksBachi transitioned from corporate technology to building open networks for social impact.Ajith SwaminathanOOD Practitioner | StorytellerAjith navigated the corporate-to-social-impact shift and now guides others through it.You will leave withA better understanding of the social impact landscapeA sense of where your own experience could fitQuestions to consider before making a moveA few practical ways to begin exploringIf you\u2019ve been wondering where your experience could make a difference beyond the corporate world, this conversation is a place to start.",
     "startDate": "2026-08-20T18:30:00+05:30",
     "endDate": "2026-08-20T19:30:00+05:30",
     "location": {
@@ -754,7 +605,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Rethinking Work in Midlife",
-    "description": "Many experienced professionals reach a stage where they begin to ask a different question:\u201cWhere else can my experience make a difference?\u201dFor some, the answer lies beyond the corporate world ; in social enterprises, foundations, non-profits, community organisations, or mission-led initiatives. But what does that transition really involve? What skills carry forward? What changes? And how do you know if it\u2019s the right path for you?Join us for a conversation with leaders who have made this transition as they share what prompted the shift, what surprised them, and what they\u2019ve learned along the way.Whether you\u2019re actively exploring your next chapter or simply curious about new possibilities, this session offers an opportunity to understand one of the many ways experienced professionals are choosing to continue working, contributing and creating meaningful impact.What you\u2019ll take awayA better understanding of pathways into the social impact ecosystem.How years of professional experience can translate into meaningful roles.The opportunities, realities and trade-offs involved in making the transition.Questions to help you reflect on whether this could be a path worth exploring.",
+    "description": "What happens when you start wondering what else you could do with the experience, skills and perspective you\u2019ve built over years of corporate work?For many professionals in midlife, the question isn\u2019t about starting over. It\u2019s about finding new ways to contribute, stay engaged and make use of what they already know.Join Zuva Life for a candid online conversation with Bachi Allamsetty and Ajith Swaminathan, two practitioners who have taken different paths from corporate work into the social impact space.Together we will explore:The opportunities: What kinds of roles and ways of contributing exist in the social impact sector?What carries forward: Which parts of your corporate experience remain valuable?What is different: What might you need to learn, adapt or unlearn?The realities: What are the trade-offs involved in making a shift?In conversation withBachi AllamsettyTech Entrepreneur | Open NetworksBachi transitioned from corporate technology to building open networks for social impact.Ajith SwaminathanOOD Practitioner | StorytellerAjith navigated the corporate-to-social-impact shift and now guides others through it.You will leave withA better understanding of the social impact landscapeA sense of where your own experience could fitQuestions to consider before making a moveA few practical ways to begin exploringIf you\u2019ve been wondering where your experience could make a difference beyond the corporate world, this conversation is a place to start.",
     "startDate": "2026-08-20T18:30:00+05:30",
     "endDate": "2026-08-20T19:30:00+05:30",
     "location": {
@@ -792,7 +643,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Rethinking Work in Midlife",
-    "description": "Many experienced professionals reach a stage where they begin to ask a different question:\u201cWhere else can my experience make a difference?\u201dFor some, the answer lies beyond the corporate world ; in social enterprises, foundations, non-profits, community organisations, or mission-led initiatives. But what does that transition really involve? What skills carry forward? What changes? And how do you know if it\u2019s the right path for you?Join us for a conversation with leaders who have made this transition as they share what prompted the shift, what surprised them, and what they\u2019ve learned along the way.Whether you\u2019re actively exploring your next chapter or simply curious about new possibilities, this session offers an opportunity to understand one of the many ways experienced professionals are choosing to continue working, contributing and creating meaningful impact.What you\u2019ll take awayA better understanding of pathways into the social impact ecosystem.How years of professional experience can translate into meaningful roles.The opportunities, realities and trade-offs involved in making the transition.Questions to help you reflect on whether this could be a path worth exploring.",
+    "description": "What happens when you start wondering what else you could do with the experience, skills and perspective you\u2019ve built over years of corporate work?For many professionals in midlife, the question isn\u2019t about starting over. It\u2019s about finding new ways to contribute, stay engaged and make use of what they already know.Join Zuva Life for a candid online conversation with Bachi Allamsetty and Ajith Swaminathan, two practitioners who have taken different paths from corporate work into the social impact space.Together we will explore:The opportunities: What kinds of roles and ways of contributing exist in the social impact sector?What carries forward: Which parts of your corporate experience remain valuable?What is different: What might you need to learn, adapt or unlearn?The realities: What are the trade-offs involved in making a shift?In conversation withBachi AllamsettyTech Entrepreneur | Open NetworksBachi transitioned from corporate technology to building open networks for social impact.Ajith SwaminathanOOD Practitioner | StorytellerAjith navigated the corporate-to-social-impact shift and now guides others through it.You will leave withA better understanding of the social impact landscapeA sense of where your own experience could fitQuestions to consider before making a moveA few practical ways to begin exploringIf you\u2019ve been wondering where your experience could make a difference beyond the corporate world, this conversation is a place to start.",
     "startDate": "2026-08-20T18:30:00+05:30",
     "endDate": "2026-08-20T19:30:00+05:30",
     "location": {
