@@ -1,119 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Onam Sadhya by Chef Kartik x Cocobay",
-    "description": "Celebrate Onam with an Authentic Sadhya at CocobayGet ready to indulge in the rich, traditional flavors of Kerala this festive season! In anticipation of Onam, Cocobay South Indian Cafe brings you a thoughtfully curated Onam Sadhya experience designed by Chef Kartik. Served on a vibrant banana leaf, this grand feast features an array of authentic preparations\u2014from crispy banana chips and savory side dishes to aromatic rice and comforting payasam\u2014crafted to capture the true spirit of togetherness and celebration.A Culinary Journey in GurgaonWhether you are hosting family or enjoying a preview feast with friends, join us at our new location on Golf Course Road to savor every bit of this seasonal specialty. Available for a limited time from August 14th to 16th at \u20b9995 (+GST) per person, with convenient delivery options right to your doorstep. Space is limited for this special festive preview\u2014reserve your meal early and celebrate Onam with the timeless taste of home!",
-    "startDate": "2026-08-15T13:30:00+05:30",
-    "endDate": "2026-08-16T14:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "574 Sector 43, Metro Station, 43, off Golf Course Road, next to Sector 42, Sector 43, Gurugram, Haryana 122009, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.45703080000000000000",
-        "longitude": "77.09607020000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "1044.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kartik's Kitchen",
-      "url": "https://urbanaut.app/partner/kartikskitchen"
-    },
-    "url": "https://urbanaut.app/spot/onam",
-    "keywords": [
-      "Festival",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Plantation Drive",
-    "description": "Come join us for a plantation drive in Delhi. Our city is one of the most polluted cities in the world, with nothing bringing relief to its people and other organisms. The drive will focus on native and climate-resilient species carefully chosen for Delhi\u2019s conditions. Saplings will be planted alongside flowering shrubs and understorey plants that support birds, butterflies, and pollinators. These trees have been selected for their ability to filter particulate matter, absorb pollutants, and release oxygen, directly helping combat the city\u2019s air-quality challenges.This planned plantation is to expand green cover, improve air quality, soften the city\u2019s hard edges with shade, and create living spaces where people and wildlife can thrive together. As the saplings take root in the months ahead, they will stand as growing promises of cleaner air, cooler streets, and a richer natural heritage for the capital.",
-    "startDate": "2026-08-16T07:30:00+05:30",
-    "endDate": "2026-08-16T09:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "G76H+5G9, CH Ganga Baksh Marg, Tughlaqabad Village, Tughlakabad, New Delhi, Delhi 110044, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.51042470000000000000",
-        "longitude": "77.27887070000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "50.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "New Delhi Nature Society",
-      "url": "https://urbanaut.app/partner/new-delhi-nature-society-312"
-    },
-    "url": "https://urbanaut.app/spot/plantation-drive",
-    "keywords": [
-      "Workshop",
-      "Eco Friendly",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Hot Girls Do Pilates",
-    "description": "Let\u2019s make your Sunday morning extra feel-good with Hot Girls Do Pilates, a guided mat pilates experience by SWAG x Ambience MallCome and feel fitter in the company of like-minded women, and stay back for a quick breakfast at Kenangan. And not to forget Goodies by Hyeglo Beauty.Here's the plan,We start with a Mat Pilates session.Slow down with some breath-work and meditation.Head for a quick Coffee & Brekkie at Kenangan.Can't wait to see you this Sunday!",
-    "startDate": "2026-08-16T08:30:00+05:30",
-    "endDate": "2026-08-16T10:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "NH-8, Ambience Island, DLF Phase 3, Sector 24, Gurugram, Haryana 122002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.50487480000000000000",
-        "longitude": "77.09695940000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/hot-girls-do-pilates",
-    "keywords": [
-      "Wellness",
-      "Workshop",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Open SketchBook",
     "description": "Open SketchBookOverviewA slower way of seeing what\u2019s already there.People gather outdoors to observe, sketch, and spend time noticing details that often go unseen. No pressure. Just attention.Our core belief is that you do not need to leave the city to feel grounded. In a world where everyone is distracted, we pause as a group to give our attention to one shared thing. Sketching becomes the medium to notice small, living details in urban spaces that we usually rush through.You do not need to be an artist to enjoy sketching. Open SketchBook is a session for anyone who wants to explore drawing as a way to relax and observe the world. It is about the process of putting pencil to paper rather than the final masterpiece.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to expectGuided Observation: Learn simple ways to look at objects or spaces and translate them into lines and shapes.Creative Freedom: A judgment free zone where you can experiment with sketching without worrying about \"doing it right.\"Tactile Experience: Use your new diary and pencil kit to capture what you see in the moment.Relaxed Environment: Enjoy a late afternoon at Greenr with a small group of people who just want to create and connect.Details\ud83d\uddd3\ufe0f Date: 16th August (Sunday)\u23f0 Time: 11:00 AM\ud83d\udccd Location: Greenr, Golf Course Ext Road\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes an A6 diary)",
@@ -257,6 +144,43 @@
     "keywords": [
       "Leisure",
       "Workshop",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Onam Sadhya by Chef Kartik x Cocobay",
+    "description": "Celebrate Onam with an Authentic Sadhya at CocobayGet ready to indulge in the rich, traditional flavors of Kerala this festive season! In anticipation of Onam, Cocobay South Indian Cafe brings you a thoughtfully curated Onam Sadhya experience designed by Chef Kartik. Served on a vibrant banana leaf, this grand feast features an array of authentic preparations\u2014from crispy banana chips and savory side dishes to aromatic rice and comforting payasam\u2014crafted to capture the true spirit of togetherness and celebration.A Culinary Journey in GurgaonWhether you are hosting family or enjoying a preview feast with friends, join us at our new location on Golf Course Road to savor every bit of this seasonal specialty. Available for a limited time from August 14th to 16th at \u20b9995 (+GST) per person, with convenient delivery options right to your doorstep. Space is limited for this special festive preview\u2014reserve your meal early and celebrate Onam with the timeless taste of home!",
+    "startDate": "2026-08-16T12:30:00+05:30",
+    "endDate": "2026-08-22T21:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "574 Sector 43, Metro Station, 43, off Golf Course Road, next to Sector 42, Sector 43, Gurugram, Haryana 122009, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.45703080000000000000",
+        "longitude": "77.09607020000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "1044.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kartik's Kitchen",
+      "url": "https://urbanaut.app/partner/kartikskitchen"
+    },
+    "url": "https://urbanaut.app/spot/onam",
+    "keywords": [
+      "Festival",
       "Food & drink",
       "URBANAUT"
     ]
