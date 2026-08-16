@@ -83,5 +83,39 @@
       "@type": "Organization",
       "name": "Instituto Cervantes Nueva Delhi"
     }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "A Doctor of Three Wars(2025)",
+    "url": "https://fillum.in/screening/5988",
+    "startDate": "2026-08-21T18:00:00+05:30",
+    "endDate": "2026-08-21T18:00:00+05:30",
+    "description": "Free entry.",
+    "location": {
+      "@type": "Place",
+      "name": "M. L. Bhartia Auditorium, Alliance Fran\u00e7aise",
+      "address": "Lodhi Road, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Aravali International Film Festival"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Sunset Sunrise(2025)",
+    "url": "https://fillum.in/screening/6015",
+    "startDate": "2026-08-21T18:30:00+05:30",
+    "endDate": "2026-08-21T18:30:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "The Japan Foundation, Green Park",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Japan Foundation"
+    }
   }
 ]
