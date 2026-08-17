@@ -340,6 +340,82 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Baddy with Baddies | Gurugram",
+    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.7:50 PM Meet up and Warm up Time8:00 PM Game TimeSee you on court!",
+    "startDate": "2026-08-20T20:00:00+05:30",
+    "endDate": "2026-08-20T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Sportyzo Badminton Academy, Emaar emerald hills, Golf Course Ext Rd, opposite Ivory Block, Sector 65, Gurugram, Haryana 122011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40465650000000000000",
+        "longitude": "77.07401440000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "279.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag42",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Pickleball with SWAG | Gurugram",
+    "description": "The SWAG Pickleball Party is your perfect evening plan!This is a women-only, beginner-friendly meet-up.See you on court!",
+    "startDate": "2026-08-20T20:00:00+05:30",
+    "endDate": "2026-08-20T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Sportyzo Sports Academy, Sector 65, Gurugram, Haryana 122101, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40450950000000000000",
+        "longitude": "77.07416250000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "360.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag43",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "A Shyam at Rohan's x Greenr x Cumin Co",
     "description": "A Shyam at Rohan\u2019s \u00d7 Greenr \u00d7 Cumin Co.This monsoon, Vol. V of A Seat at Rohan\u2019s comes alive at Greenr, in collaboration with Cumin Co., for an intimate evening celebrating Shyamal.Expect a thoughtfully curated experience of food, stories, and conversation, bringing together a room of curious minds and good people around a shared table. Inspired by the mood of the season, the evening is designed to be savoured slowly\u2014with beautiful food, warm conversations, and stories that stay with you.Come for the food, stay for the conversations, and experience an evening where good food meets great people and better stories.Seats are limited - book your tickets soon!!",
     "startDate": "2026-08-21T17:00:00+05:30",
@@ -976,6 +1052,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Mehrauli Heritage Walk- A city within city!",
+    "description": "Mehrauli is Delhi\u2019s oldest continuously lived-in neighbourhood, often called a \u201ccity within a city.\u201d This 1\u20131.5 hour walk takes you through its narrow lanes, hidden tombs, stepwells and bustling bazaars to tell the story of 1,000 years of Delhi in one trail.Led by an architect\u2013urban designer, the walk blends history with everyday life: you\u2019ll see Sufi shrines, Sultanate-era ruins and Mughal monuments alongside local homes, shops and street corners that still carry old stories. The focus is on simple, visual storytelling rather than heavy lectures, making it suitable for first-time walkers, families and curious city explorers.",
+    "startDate": "2026-08-23T08:30:00+05:30",
+    "endDate": "2026-08-23T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Mehrauli, New Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52048820000000000000",
+        "longitude": "77.17868690000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "350.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Riwayat Walks",
+      "url": "https://urbanaut.app/partner/riwayatwalks"
+    },
+    "url": "https://urbanaut.app/spot/mehrauli-heritage-walk-a-city-within-city-15945",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "India's Youth: Jobs, Aspirations & Possibilities",
     "description": "Join us for a lecture about a number that should be reshaping how we think about India's future:The population of Indian students aged 15 and above doubled in two decades, from 60 million in 2004-05 to 120 million in 2023-24.About the LectureThose numbers above signal a staggering rise in aspiration for upward mobility among young Indians, despite the social disadvantages many of them face. It also means India has the potential to propel itself to the forefront of the knowledge economy \u2014 if the quality of education improves at every level.But there's a harder truth underneath the aspiration: research shows slow growth of regular, decent jobs in India, especially in manufacturing and high-value services. Not only are the country's long-term growth prospects at risk, but historically entrenched inequalities could get reinforced in the labour market rather than dissolved by it.This lecture makes the case that India's future growth will have to be built much more on incomes generated within the country than on export demand from abroad, a virtuous cycle of more jobs, higher incomes, and greater domestic demand.The session explores:Why the doubling of India's student population is both an opportunity and a warning signWhat the data shows about the slow growth of decent jobs in manufacturing and high-value servicesHow historically determined inequalities risk being reinforced, rather than resolved, in the labour marketWhy domestic demand, not exports may be the key to India's next phase of growthAbout the SpeakerJayan Jose Thomas is a Professor of Economics at the Indian Institute of Technology (IIT) Delhi, where he has taught since July 2010. He has also served as a Member of the State Planning Board, Government of Kerala. His research addresses development problems related to labour and industrialisation from a macroeconomic perspective, spanning the Indian economy, international development and macroeconomic theory. He previously held a four-year academic position at the National University of Singapore. His research has appeared in journals including World Development, Development and Change, and Economic and Political Weekly, and he contributes regularly to The Hindu.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
     "startDate": "2026-08-23T15:00:00+05:30",
@@ -1005,6 +1119,44 @@
     },
     "url": "https://urbanaut.app/spot/where-are-the-jobs-an-economic-case-study",
     "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Walk and Sketch",
+    "description": "Sketch a hidden Mughal tomb perched on a rocky hillock with sweeping views toward Qutub Minar. This 2.5\u2011hour late\u2011afternoon walk blends heritage storytelling with hands\u2011on urban sketching, designed for all levels.",
+    "startDate": "2026-08-23T16:00:00+05:30",
+    "endDate": "2026-08-23T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "G5CR+P57, Mehrauli - Badarpur Rd, Butterfly Park, Nai Basti, Lado Sarai, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52177750000000000000",
+        "longitude": "77.19043630000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "150.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Riwayat Walks",
+      "url": "https://urbanaut.app/partner/riwayatwalks"
+    },
+    "url": "https://urbanaut.app/spot/walk-and-sketch",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Art & culture",
       "URBANAUT"
     ]
   },
