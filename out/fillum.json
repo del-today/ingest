@@ -1,23 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "Feminist Fathima(2024)",
-    "url": "https://fillum.in/screening/5969",
-    "startDate": "2026-08-18T18:30:00+05:30",
-    "endDate": "2026-08-18T18:30:00+05:30",
-    "description": "Free entry. Open to all.",
-    "location": {
-      "@type": "Place",
-      "name": "IIC Annexe - Lecture Room I",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "India International Centre"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "Stories from the Ground - Northeast India",
     "url": "https://fillum.in/event/6006",
     "startDate": "2026-08-18T19:00:00+05:30",
@@ -35,23 +18,6 @@
   },
   {
     "@type": "ScreeningEvent",
-    "name": "Joy House(1964)",
-    "url": "https://fillum.in/screening/6016",
-    "startDate": "2026-08-19T19:00:00+05:30",
-    "endDate": "2026-08-19T19:00:00+05:30",
-    "description": "Free entry on first come first served basis. No registration required.",
-    "location": {
-      "@type": "Place",
-      "name": "Venue: Prithvi House, Juhu",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Alliance Fran\u00e7aise de Bombay"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "Tear This Heart Out(2008)",
     "url": "https://fillum.in/screening/6007",
     "startDate": "2026-08-20T18:00:00+05:30",
@@ -65,6 +31,23 @@
     "organizer": {
       "@type": "Organization",
       "name": "Instituto Cervantes Nueva Delhi"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Asli Azaadi(1997)",
+    "url": "https://fillum.in/screening/6043",
+    "startDate": "2026-08-20T18:00:00+05:30",
+    "endDate": "2026-08-20T18:00:00+05:30",
+    "description": "Free entry on first come first served basis. Post-screening discussion with the filmmaker.",
+    "location": {
+      "@type": "Place",
+      "name": "Press Club of India, Raisina Road",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fillum"
     }
   },
   {
@@ -103,19 +86,19 @@
   },
   {
     "@type": "ScreeningEvent",
-    "name": "A Woman Is a Woman(1961)",
-    "url": "https://fillum.in/screening/5927",
-    "startDate": "2026-08-22T12:00:00+05:30",
-    "endDate": "2026-08-22T12:00:00+05:30",
-    "description": "Compulsively innovative director Jean-Luc Godard presents \u201ca neorealist musical\u2014that is, a contradiction in terms.\u201d Featuring French superstars Anna Karina, Jean-Paul Belmondo, and Jean-Claude..more",
+    "name": "The Giants(2023)",
+    "url": "https://fillum.in/screening/6032",
+    "startDate": "2026-08-21T19:00:00+05:30",
+    "endDate": "2026-08-21T19:00:00+05:30",
+    "description": "",
     "location": {
       "@type": "Place",
-      "name": "mool, south ex II",
-      "address": "South Ex II, New Delhi"
+      "name": "Remakery, Khirki Extension",
+      "address": "Delhi"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Out of Sequence"
+      "name": "ALT EFF Film Club"
     }
   }
 ]
