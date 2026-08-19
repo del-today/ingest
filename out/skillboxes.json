@@ -26,7 +26,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional fully redeemable cover charges per person are applicable at the venue:\n₹1000 from 7–8 PM || ₹1500 from 8–9 PM || ₹2000 from 9 PM onwards",
-            "inventoryLevel": 33,
+            "inventoryLevel": 26,
             "name": "Regular Pass | Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/paradox-x-gylt-presents-flowdan-sbovhqtx"
          },
@@ -34,8 +34,8 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Tickets grants entry to two people.\nAdditional fully redeemable cover charges per person are applicable at the venue: ₹1000 from 7–8 PM || ₹1500 from 8–9 PM || ₹2000 from 9 PM onwards",
-            "inventoryLevel": 38,
-            "name": "Buddy Pass",
+            "inventoryLevel": 44,
+            "name": "Buddy Pass | Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/paradox-x-gylt-presents-flowdan-sbovhqtx"
          },
          {
@@ -52,6 +52,14 @@
             "description": "Mandatory cover charges applicable at the venue\n",
             "inventoryLevel": 50,
             "name": "Regular Pass | Phase 2",
+            "url": "https://www.skillboxes.com/events/ticket/paradox-x-gylt-presents-flowdan-sbovhqtx"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Tickets grants entry to two people.\nAdditional fully redeemable cover charges per person are applicable at the venue: ₹1000 from 7–8 PM || ₹1500 from 8–9 PM || ₹2000 from 9 PM onwards",
+            "inventoryLevel": 38,
+            "name": "Buddy Pass",
             "url": "https://www.skillboxes.com/events/ticket/paradox-x-gylt-presents-flowdan-sbovhqtx"
          }
       ],
@@ -337,7 +345,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional cover charge applicable at the venue full redeemable on F&B\n",
-            "inventoryLevel": 585,
+            "inventoryLevel": 584,
             "name": "Phase 1 GA Pass",
             "url": "https://www.skillboxes.com/events/ticket/job-kurian-live-sbvhuqlg"
          },
@@ -672,7 +680,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 990,
+            "inventoryLevel": 989,
             "name": "Regular Pass",
             "url": "https://www.skillboxes.com/events/ticket/apocalyptic-grid-2-0-sbltfmlc"
          }
