@@ -4,7 +4,7 @@
     "@type": "Event",
     "name": "Kathika Cultural Experience",
     "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
-    "startDate": "2026-08-18T11:30:00+05:30",
+    "startDate": "2026-08-19T11:30:00+05:30",
     "endDate": "2026-08-31T14:00:00+05:30",
     "location": {
       "@type": "Place",
@@ -42,7 +42,7 @@
     "@type": "FoodEvent",
     "name": "Onam Sadhya by Chef Kartik x Cocobay",
     "description": "Celebrate Onam with an Authentic Sadhya at CocobayGet ready to indulge in the rich, traditional flavors of Kerala this festive season! In anticipation of Onam, Cocobay South Indian Cafe brings you a thoughtfully curated Onam Sadhya experience designed by Chef Kartik. Served on a vibrant banana leaf, this grand feast features an array of authentic preparations\u2014from crispy banana chips and savory side dishes to aromatic rice and comforting payasam\u2014crafted to capture the true spirit of togetherness and celebration.A Culinary Journey in GurgaonWhether you are hosting family or enjoying a preview feast with friends, join us at our new location on Golf Course Road to savor every bit of this seasonal specialty. Available for a limited time from August 14th to 16th at \u20b9995 (+GST) per person, with convenient delivery options right to your doorstep. Space is limited for this special festive preview\u2014reserve your meal early and celebrate Onam with the timeless taste of home!",
-    "startDate": "2026-08-18T11:30:00+05:30",
+    "startDate": "2026-08-19T11:30:00+05:30",
     "endDate": "2026-08-28T21:30:00+05:30",
     "location": {
       "@type": "Place",
@@ -71,45 +71,6 @@
     "keywords": [
       "Festival",
       "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Lippan Art Workshop",
-    "description": "Discover the beautiful mud-and-mirror craft of Kutch, reimagined as a mandala you'll be proud to hang. You'll build up raised clay patterns and set glinting mirrors into your design, learning a traditional technique with a calm, rhythmic flow. Equal parts heritage and hands-on joy, it's ideal for anyone who loves detail and texture. All materials and your finished piece included. Tea, coffee and dry snacks complimentary. \u20b9950/-",
-    "startDate": "2026-08-19T12:00:00+05:30",
-    "endDate": "2026-08-19T14:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "N.S-5, Munirka Marg, next to MTNL Office, Indian Air Lines & Air India Estate, Vasant Vihar, New Delhi, Delhi 110057, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55951440000000000000",
-        "longitude": "77.15727950000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "950.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Oasis Art Studio",
-      "url": "https://urbanaut.app/partner/oasis-art-studio"
-    },
-    "url": "https://urbanaut.app/spot/lippan-art-workshop",
-    "keywords": [
-      "Local",
-      "Workshop",
-      "History & heritage",
-      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -1125,6 +1086,42 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Overthinkers Anonymous",
+    "description": "OverviewA gentle support circle for thoughts that feel a little too loud.A space to speak, reflect, or simply sit among people who understand emotional overwhelm.This edition explores a different kind of loneliness \u2014 the kind that exists even when life looks socially full. We'll talk about emotional disconnection, feeling unseen, surface-level conversations, difficulty forming close relationships, and why so many of us feel alone even when we're surrounded by people.Say as much or as little as you want. Come as you are.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to expectSharing: The session is built around honest conversation. People share what is on their mind, what they are carrying, what they keep coming back to.Group Discussion: We talk it through together. No advice unless asked, no pressure to have it figured out. Just people listening and being listened to.Details\ud83d\uddd3\ufe0f Date: 23rd August (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Thamel, Arjun Marg\ud83c\udf9f\ufe0f Contribution: \u20b9700",
+    "startDate": "2026-08-23T11:30:00+05:30",
+    "endDate": "2026-08-23T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ground Floor, AIPL Joy Central, GF-01, Golf Course Ext Rd, Sector 65, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40537820000000000000",
+        "longitude": "77.06050050000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/overthinkers-anonymous",
+    "keywords": [
+      "Wellness",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "India's Youth: Jobs, Aspirations & Possibilities",
     "description": "Join us for a lecture about a number that should be reshaping how we think about India's future:The population of Indian students aged 15 and above doubled in two decades, from 60 million in 2004-05 to 120 million in 2023-24.About the LectureThose numbers above signal a staggering rise in aspiration for upward mobility among young Indians, despite the social disadvantages many of them face. It also means India has the potential to propel itself to the forefront of the knowledge economy \u2014 if the quality of education improves at every level.But there's a harder truth underneath the aspiration: research shows slow growth of regular, decent jobs in India, especially in manufacturing and high-value services. Not only are the country's long-term growth prospects at risk, but historically entrenched inequalities could get reinforced in the labour market rather than dissolved by it.This lecture makes the case that India's future growth will have to be built much more on incomes generated within the country than on export demand from abroad, a virtuous cycle of more jobs, higher incomes, and greater domestic demand.The session explores:Why the doubling of India's student population is both an opportunity and a warning signWhat the data shows about the slow growth of decent jobs in manufacturing and high-value servicesHow historically determined inequalities risk being reinforced, rather than resolved, in the labour marketWhy domestic demand, not exports may be the key to India's next phase of growthAbout the SpeakerJayan Jose Thomas is a Professor of Economics at the Indian Institute of Technology (IIT) Delhi, where he has taught since July 2010. He has also served as a Member of the State Planning Board, Government of Kerala. His research addresses development problems related to labour and industrialisation from a macroeconomic perspective, spanning the Indian economy, international development and macroeconomic theory. He previously held a four-year academic position at the National University of Singapore. His research has appeared in journals including World Development, Development and Change, and Economic and Political Weekly, and he contributes regularly to The Hindu.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
     "startDate": "2026-08-23T15:00:00+05:30",
@@ -2073,44 +2070,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Fireflies Workshop 29",
-    "description": "\ud83c\udf1f Join Us for an Enchanting Evening: Fireflies at Hauz Khas \ud83c\udf1fPrepare to be mesmerized by one of nature\u2019s most magical displays! New Delhi Nature Society is thrilled to invite you to an exclusive event that promises to light up your senses and spark your curiosity.As twilight descends upon the charming and historic Hauz Khas area, we will guide you to a secret location where fireflies dance in the night, creating a breathtaking spectacle of bioluminescence. This hidden gem offers an intimate and serene setting for you to witness this enchanting natural phenomenon.What to Expect:\u2728 Guided Firefly Tour \u2013 Learn about these fascinating creatures and their ecological significance.\ud83c\udf3f Nature Walk \u2013 Immerse yourself in the beauty of the surroundings as night falls. \ud83c\udf42 What to Bring:Comfortable walking shoesA camera (without flash) to capture the momentA sense of wonder and curiosityWater bottleImportant Note: Due to the sensitive nature of the event location, exact details will be provided only upon confirmation of your attendance. Space is limited, so please secure your spot quickly.Don\u2019t miss this opportunity to experience the magic of fireflies in one of Delhi\u2019s most enchanting locations. We look forward to sharing this unforgettable night with you!",
-    "startDate": "2026-08-29T19:00:00+05:30",
-    "endDate": "2026-08-29T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "354, Hauz Khas Tank, Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55419250000000000000",
-        "longitude": "77.19500540000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "350.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "New Delhi Nature Society",
-      "url": "https://urbanaut.app/partner/new-delhi-nature-society-312"
-    },
-    "url": "https://urbanaut.app/spot/fireflies-workshop-29",
-    "keywords": [
-      "Workshop",
-      "Walking Tour",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "A Night Heritage walk :  Humayun's Tomb & Museum",
     "description": "Step into the grandeur of Humayun's Tomb with us for an immersive Night heritage walk that goes beyond stone and symmetry.Curated by Darwesh Heritage Walks in collaboration with Sabhyata Foundation.We will not only explore the monument\u2019s magnificent architecture, its Persian influences, and its place in the evolution of Mughal design \u2014 but also rediscover Humayun himself, perhaps the most underestimated of the Mughals. His struggles, exile, return, and legacy shaped the empire in ways we rarely pause to notice.\"Driven from his throne, yet never from his destiny's embrace,Humayun's return laid the path on which Akbar would leave his trace\"Our journey will then continue to the Humayun's Tomb Museum \u2014 because no visit to the tomb is truly complete without experiencing the stories, artefacts, and narratives preserved there.Come, walk through history \u2014 and meet the emperor behind the monument.",
@@ -2591,6 +2550,45 @@
     "keywords": [
       "Wellness",
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Fruit Preserves: Jams",
+    "description": "It is stone-fruit season; let's make Plum Jam.Join Anita in her kitchen to master making Jams. The methods and techniques learned in the class can be adapted to other fruits in season to create an endless supply of homemade preserves.At the end of the class we will taste our jam with homemade bread. You may also sigh up for a round of dessert (Plum Cobbler with ice cream)You also get to take home a jar of the fruit preserve.250+ workshops and counting! Anita is a practicing Landscape Architect who enjoys cooking. Her Home and Garden exemplify sustainable living. Like-minded people join her in the kitchen on weekends to cook and eat. Come for jam, stay for the party!",
+    "startDate": "2026-09-05T10:00:00+05:30",
+    "endDate": "2026-09-05T12:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.63999000000000000000",
+        "longitude": "77.29142000000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "A Mad Tea Party",
+      "url": "https://urbanaut.app/partner/a-mad-tea-party"
+    },
+    "url": "https://urbanaut.app/spot/jammakingworkshop",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "Eco Friendly",
+      "Food & drink",
       "URBANAUT"
     ]
   },
