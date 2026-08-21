@@ -393,7 +393,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "262.00",
+      "price": "1047.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -1320,7 +1320,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "262.00",
+      "price": "1087.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -2442,6 +2442,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Recess, A Supper Club: Toontooni's Table x Swish",
+    "description": "This Teacher\u2019s Day, we\u2019re going back to school, but with only the best bits. Remember the rush of the recess bell? Racing to the canteen, grabbing your favourite snack, and squeezing in as much gossip, laughter and fun as possible before the bell rang again?Recess brings that feeling back, with a grown-up twist. This time, you don't have to rush things. Sit down, enjoy a leisurely evening with great food, drinks and a set of new friends. Toontooni's Table and Swish bring to you an evening inspired by the school days we all remember, featuring a multi-course menu of nostalgic childhood treats, playful activities, and plenty of opportunities to meet new people and share a few stories of your own.Come hungry. Come nostalgic. Come ready for recess.",
+    "startDate": "2026-09-05T20:00:00+05:30",
+    "endDate": "2026-09-05T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Baharampur Naya, Sector 62, Gurugram, Haryana 122098, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40280880000000000000",
+        "longitude": "77.09373800000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2625.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Toonika Guha",
+      "url": "https://urbanaut.app/partner/toonika"
+    },
+    "url": "https://urbanaut.app/spot/recess-toontoonis-table-x-swishs-supper-club",
+    "keywords": [
+      "Leisure",
+      "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Dawn Trails & Lakeside Picnic in Delhi NCR",
     "description": "This early morning hiking experience takes you across rocky paths, scenic ridgelines and a picturesque lakeside setting, offering a refreshing escape into nature.The experience brings together gentle adventure, outdoor exploration, group activities and a picnic breakfast, making it suitable for beginners, couples, friends and solo travellers.Participants will be accompanied by experienced hike leaders throughout the trail.The experience also includes a curated picnic breakfast, storytelling, engaging group activities and basic first aid support.Experience Schedule1. Arrival and Meet Up at 5:15 AMReach the starting point by 5:15 AM and meet the rest of the group before setting off.Briefing and Introduction: Get acquainted with the hike leaders as they give you a quick overview of the trail, the experience and what to expect during the morning.2. Sunrise Hike Begins at 5:30 AMBegin the hike at 5:30 AM and follow a guided route through scenic trails, rocky stretches and boulder sections.Enjoy the peaceful morning atmosphere and beautiful views as the landscape comes alive around you.3. Nature Pause and Group ActivitiesTake brief pauses during the hike to soak in the surroundings and discover interesting details about the natural landscape.Participate in fun outdoor activities designed to keep the group engaged and make the experience more interactive.4. Picnic BreakfastStop at a scenic location to unwind and enjoy a curated picnic breakfast.Take some time to relax, connect with the group and enjoy your meal surrounded by nature.5. Walk Back and Wrap Up at 8:30 AMBegin the return walk with the group after the picnic and make your way back to the starting point.",
@@ -2736,6 +2774,42 @@
       "Adventure",
       "Premium",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Haunted Walk: Mehrauli Archaeological Park",
+    "description": "Join us for a hauntingly beautiful night walk through the Mehrauli Archaeological Park, a place where centuries of Delhi\u2019s history come alive\u2014alongside tales of the unseen. In this special segment, Ruhaani Raatein, we delve into the world of djinns, the mystical beings believed to reside in this ancient land.Guided by a historian and storyteller, we\u2019ll explore how djinns are viewed and worshipped in Islamic traditions, and how folklore continues to shape the spiritual character of Mehrauli even today.Our walk will take you through: The tomb of Jamali Kamali, often called the Gay Taj Mahal for its poetic mystique and timeless love story A haunting 500-year-old baoli (stepwell)The remnants of a British-era swimming pool, hidden in plain sight A peaceful lakeside caf\u00e9, perfect for ending the evening with a quiet reflection or a warm chaiAs night falls and shadows grow, let the stories guide you through one of Delhi\u2019s oldest, most magical spaces\u2014where the past is never truly past.",
+    "startDate": "2026-09-27T17:00:00+05:30",
+    "endDate": "2026-09-27T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Anuvrat Marg, opposite Qutab Minar Metro Station, Christian Colony, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52020410000000000000",
+        "longitude": "77.18767900000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/haunted-walk-mehrauli-archaeological-park",
+    "keywords": [
+      "Adventure",
       "URBANAUT"
     ]
   }
