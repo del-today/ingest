@@ -4,7 +4,7 @@
     "@type": "Event",
     "name": "Kathika Cultural Experience",
     "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
-    "startDate": "2026-08-20T11:30:00+05:30",
+    "startDate": "2026-08-21T11:30:00+05:30",
     "endDate": "2026-08-31T14:00:00+05:30",
     "location": {
       "@type": "Place",
@@ -42,7 +42,7 @@
     "@type": "FoodEvent",
     "name": "Onam Sadhya by Chef Kartik x Cocobay",
     "description": "Celebrate Onam with an Authentic Sadhya at CocobayGet ready to indulge in the rich, traditional flavors of Kerala this festive season! In anticipation of Onam, Cocobay South Indian Cafe brings you a thoughtfully curated Onam Sadhya experience designed by Chef Kartik. Served on a vibrant banana leaf, this grand feast features an array of authentic preparations\u2014from crispy banana chips and savory side dishes to aromatic rice and comforting payasam\u2014crafted to capture the true spirit of togetherness and celebration.A Culinary Journey in GurgaonWhether you are hosting family or enjoying a preview feast with friends, join us at our new location on Golf Course Road to savor every bit of this seasonal specialty. Available for a limited time from August 14th to 16th at \u20b9995 (+GST) per person, with convenient delivery options right to your doorstep. Space is limited for this special festive preview\u2014reserve your meal early and celebrate Onam with the timeless taste of home!",
-    "startDate": "2026-08-20T11:30:00+05:30",
+    "startDate": "2026-08-21T11:30:00+05:30",
     "endDate": "2026-08-28T21:30:00+05:30",
     "location": {
       "@type": "Place",
@@ -71,42 +71,6 @@
     "keywords": [
       "Festival",
       "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Grounds For Thought: August Lineup",
-    "description": "Grounds for Thought: August 2026A Blue Tokai \u00d7 unLecture SeriesFour Thursday evenings. Four very different conversations. Grounds for Thought is a monthly series where Blue Tokai and unLecture bring researchers, scientists, and thinkers out of their institutions and into a coffee shops. The format is simple: an expert, a room full of curious people, and a conversation that goes somewhere a classroom rarely does.6th August: Shambhavi TiwariPossessed: The Ghost, The Asylum, The Priest, and the PeopleWhen someone in rural India is \"possessed by a ghost,\" they encounter not just their family and their priest, but eventually \u2014 often \u2014 a psychiatrist. Two completely different frameworks for what has gone wrong, and what healing looks like. This session uses spirit possession across Indian cultural contexts to examine what happens when indigenous knowledge systems and clinical medicine cross paths. PhD researcher Shambhavi Tiwari, who has spent years in this space, asks: superstition, myth, knowledge system, or something else entirely?13th August: Dr. Vishwas ChitaleZoom In, Zoom Out: What India's Climate Risk Looks Like at Ground LevelEveryone has heard the national climate numbers. But zoom into a district, and the picture changes entirely \u2014 neighbouring areas with opposite risk profiles, and disaster plans built on averages too coarse to catch where the real danger sits. Dr. Vishwas Chitale, Fellow at CEEW, will walk us through India's climate risk from the national level down to your own neighbourhood \u2014 and then hand the tool to the room. Participants will pull up their own hometown's actual climate risk profile live, using CRAVIS, CEEW's climate intelligence platform. You'll leave having done a small piece of the research yourself.20th August: Antara ChakrabartyFrom Village to Viral: How Folk Music Got a Second LifeA seventeenth-century Sufi verse now has a hundred million YouTube views. The songs of Lalon Fakir, Bengal's wandering poet-saint, are uniting two Bengals and two centuries through a single melody. This session traces folk music's remarkable journey \u2014 from Punjab's Sufi shrines and Bengal's riverside Baul gatherings to studio stages and streaming platforms \u2014 and asks the questions nobody quite wants to answer. Who owns a folk song? What happens when heritage becomes entertainment? Does something get lost in translation, or does it simply learn a new way to survive? Expect live music, a few surprises, and a fresh way of listening to songs you may already love.27th August: Sunaina SaxenaWhat is a Clean Street Worth?Why are two seemingly identical houses priced so differently? This session explores one of environmental economics' most elegant tools, hedonic pricing, to answer a question most of us have never thought to ask: does the cleanliness of a neighbourhood have a measurable economic value? Through stories, discussion, and simple examples, researcher Sunaina Saxena explores how clean streets, reliable waste collection, and a healthy living environment become embedded in housing prices \u2014 and what that reveals about our cities and the choices we make about where we live.",
-    "startDate": "2026-08-20T18:30:00+05:30",
-    "endDate": "2026-08-27T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "No A/57 to A/59, DDA Shopping Complex, Block F, Defence Colony, New Delhi, Delhi 110024, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.56615030000000000000",
-        "longitude": "77.23328000000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "550.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/grounds-for-thought-august-lineup",
-    "keywords": [
-      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -1445,6 +1409,42 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Grounds For Thought: August Lineup",
+    "description": "Grounds for Thought: August 2026A Blue Tokai \u00d7 unLecture SeriesFour Thursday evenings. Four very different conversations. Grounds for Thought is a monthly series where Blue Tokai and unLecture bring researchers, scientists, and thinkers out of their institutions and into a coffee shops. The format is simple: an expert, a room full of curious people, and a conversation that goes somewhere a classroom rarely does.6th August: Shambhavi TiwariPossessed: The Ghost, The Asylum, The Priest, and the PeopleWhen someone in rural India is \"possessed by a ghost,\" they encounter not just their family and their priest, but eventually \u2014 often \u2014 a psychiatrist. Two completely different frameworks for what has gone wrong, and what healing looks like. This session uses spirit possession across Indian cultural contexts to examine what happens when indigenous knowledge systems and clinical medicine cross paths. PhD researcher Shambhavi Tiwari, who has spent years in this space, asks: superstition, myth, knowledge system, or something else entirely?13th August: Dr. Vishwas ChitaleZoom In, Zoom Out: What India's Climate Risk Looks Like at Ground LevelEveryone has heard the national climate numbers. But zoom into a district, and the picture changes entirely \u2014 neighbouring areas with opposite risk profiles, and disaster plans built on averages too coarse to catch where the real danger sits. Dr. Vishwas Chitale, Fellow at CEEW, will walk us through India's climate risk from the national level down to your own neighbourhood \u2014 and then hand the tool to the room. Participants will pull up their own hometown's actual climate risk profile live, using CRAVIS, CEEW's climate intelligence platform. You'll leave having done a small piece of the research yourself.20th August: Antara ChakrabartyFrom Village to Viral: How Folk Music Got a Second LifeA seventeenth-century Sufi verse now has a hundred million YouTube views. The songs of Lalon Fakir, Bengal's wandering poet-saint, are uniting two Bengals and two centuries through a single melody. This session traces folk music's remarkable journey \u2014 from Punjab's Sufi shrines and Bengal's riverside Baul gatherings to studio stages and streaming platforms \u2014 and asks the questions nobody quite wants to answer. Who owns a folk song? What happens when heritage becomes entertainment? Does something get lost in translation, or does it simply learn a new way to survive? Expect live music, a few surprises, and a fresh way of listening to songs you may already love.27th August: Sunaina SaxenaWhat is a Clean Street Worth?Why are two seemingly identical houses priced so differently? This session explores one of environmental economics' most elegant tools, hedonic pricing, to answer a question most of us have never thought to ask: does the cleanliness of a neighbourhood have a measurable economic value? Through stories, discussion, and simple examples, researcher Sunaina Saxena explores how clean streets, reliable waste collection, and a healthy living environment become embedded in housing prices \u2014 and what that reveals about our cities and the choices we make about where we live.",
+    "startDate": "2026-08-27T18:30:00+05:30",
+    "endDate": "2026-08-27T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "No A/57 to A/59, DDA Shopping Complex, Block F, Defence Colony, New Delhi, Delhi 110024, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.56615030000000000000",
+        "longitude": "77.23328000000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "550.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/grounds-for-thought-august-lineup",
+    "keywords": [
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Draavin Canteen's Onam Sadhya | Moti Nagar",
     "description": "The season of togetherness is almost here, and there's no better way to celebrate than over a traditional Onam Sadhya. Join us at Draavin Canteen for an authentic 25-item feast, served on a banana leaf and inspired by the timeless flavours and traditions of Kerala.A Sadhya isn't just about abundance - it's about balance. Every dish comes together to represent the six Ayurvedic tastes, creating a meal that is as thoughtful as it is memorable. More than a feast, it's a celebration of harvest, gratitude, and homecoming, with traditions passed down through generations.Whether you're celebrating with family, catching up with friends, or simply craving a taste of home, this is an invitation to slow down, share a wholesome meal, and experience the warmth of Onam together.Reserve your seats in advance and join us for a festive meal filled with authentic flavours, warm conversations, and the joy of celebrating Onam at Draavin Canteen.",
@@ -1827,7 +1827,7 @@
     "typicalAgeRange": "25+",
     "offers": {
       "@type": "Offer",
-      "price": "0.00",
+      "price": "1599.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -1875,44 +1875,6 @@
     },
     "url": "https://urbanaut.app/spot/the-limits-of-computation",
     "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Raat Ke Afsane : Qutub Minar",
-    "description": "Experience the magic of Qutub Minar like never before\u2014under the stars and glowing lights. This is a guided heritage walk led by a historian, who will take you through the stunning Qutub complex after dark. As the entire site is beautifully illuminated at night, the minaret shines like Delhi\u2019s very own Eiffel Tower\u2014majestic, mysterious, and unforgettable.Walk through centuries of history, discover forgotten stories, and explore Delhi\u2019s medieval past through engaging storytelling. The play of light, shadow, and silence transforms this heritage site into something truly cinematicPlaces we will cover : 1. Mughal Serai2. Alai Minar3. Iltutmish Tomb4. Qutub Minar5. Iron Pilar6. 27 Jain and hindu temples7. Alai Darwaza8. Alauddin Khilji grave and madarsa .Important Points:  1. Details of the heritage walk will be mailed to you when you book the tickets2. No guided fees for kids below 5.3. Medium of communication : Hindi and English4. Please note that in case of unavoidable external reasons such as (weather conditions, political rallies, VIP movement, powercut) the walk may be canceled. The participant has the liberty to take another walk by the company against the payment they have made within 30 days since the date of the registered walk.5. The company does not have refund policy.",
-    "startDate": "2026-08-29T18:30:00+05:30",
-    "endDate": "2026-09-26T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Qutub Minar Complex Rd, Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52371860000000000000",
-        "longitude": "77.18469040000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "650.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Enroute Indian History",
-      "url": "https://urbanaut.app/partner/enrouteindianhistory"
-    },
-    "url": "https://urbanaut.app/spot/raat-ke-afsane-qutub-minar",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
       "URBANAUT"
     ]
   },
@@ -2443,6 +2405,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Raat Ke Afsane : Qutub Minar",
+    "description": "Experience the magic of Qutub Minar like never before\u2014under the stars and glowing lights. This is a guided heritage walk led by a historian, who will take you through the stunning Qutub complex after dark. As the entire site is beautifully illuminated at night, the minaret shines like Delhi\u2019s very own Eiffel Tower\u2014majestic, mysterious, and unforgettable.Walk through centuries of history, discover forgotten stories, and explore Delhi\u2019s medieval past through engaging storytelling. The play of light, shadow, and silence transforms this heritage site into something truly cinematicPlaces we will cover : 1. Mughal Serai2. Alai Minar3. Iltutmish Tomb4. Qutub Minar5. Iron Pilar6. 27 Jain and hindu temples7. Alai Darwaza8. Alauddin Khilji grave and madarsa .Important Points:  1. Details of the heritage walk will be mailed to you when you book the tickets2. No guided fees for kids below 5.3. Medium of communication : Hindi and English4. Please note that in case of unavoidable external reasons such as (weather conditions, political rallies, VIP movement, powercut) the walk may be canceled. The participant has the liberty to take another walk by the company against the payment they have made within 30 days since the date of the registered walk.5. The company does not have refund policy.",
+    "startDate": "2026-09-05T18:30:00+05:30",
+    "endDate": "2026-09-26T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Qutub Minar Complex Rd, Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52371860000000000000",
+        "longitude": "77.18469040000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/raat-ke-afsane-qutub-minar",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Dawn Trails & Lakeside Picnic in Delhi NCR",
     "description": "This early morning hiking experience takes you across rocky paths, scenic ridgelines and a picturesque lakeside setting, offering a refreshing escape into nature.The experience brings together gentle adventure, outdoor exploration, group activities and a picnic breakfast, making it suitable for beginners, couples, friends and solo travellers.Participants will be accompanied by experienced hike leaders throughout the trail.The experience also includes a curated picnic breakfast, storytelling, engaging group activities and basic first aid support.Experience Schedule1. Arrival and Meet Up at 5:15 AMReach the starting point by 5:15 AM and meet the rest of the group before setting off.Briefing and Introduction: Get acquainted with the hike leaders as they give you a quick overview of the trail, the experience and what to expect during the morning.2. Sunrise Hike Begins at 5:30 AMBegin the hike at 5:30 AM and follow a guided route through scenic trails, rocky stretches and boulder sections.Enjoy the peaceful morning atmosphere and beautiful views as the landscape comes alive around you.3. Nature Pause and Group ActivitiesTake brief pauses during the hike to soak in the surroundings and discover interesting details about the natural landscape.Participate in fun outdoor activities designed to keep the group engaged and make the experience more interactive.4. Picnic BreakfastStop at a scenic location to unwind and enjoy a curated picnic breakfast.Take some time to relax, connect with the group and enjoy your meal surrounded by nature.5. Walk Back and Wrap Up at 8:30 AMBegin the return walk with the group after the picnic and make your way back to the starting point.",
     "startDate": "2026-09-06T05:30:00+05:30",
@@ -2622,6 +2622,82 @@
     "keywords": [
       "History & heritage",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "National Museum (Indus Valley Civilisation)",
+    "description": "Step into the fascinating world of the Indus Valley Civilization at the iconic National Museum and uncover the mysteries of one of the world\u2019s oldest urban cultures. From advanced city planning and drainage systems to intricate seals, jewellery, pottery, and trade networks, this walk takes you deep into the lives of a civilization that flourished over 4,500 years ago.Explore the stories hidden behind ancient artefacts, decode symbols that still remain unsolved, and discover how the people of Harappa and Mohenjo-Daro were far ahead of their time. Whether you\u2019re a history enthusiast, a curious explorer, or someone who simply loves untold stories, this immersive museum experience promises a journey through India\u2019s remarkable ancient past.Join us as history comes alive \u2014 one artefact, one mystery, and one story at a time.",
+    "startDate": "2026-09-13T16:30:00+05:30",
+    "endDate": "2026-09-13T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Janpath Rd, Central Secretariat, Kartavya Path, New Delhi, Delhi 110011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.61183900000000000000",
+        "longitude": "77.21829500000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "700.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/national-museum-indus-valley-civilisation",
+    "keywords": [
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Where the Rain comes alive: Hauz-e-shamsi",
+    "description": "Explore the Hidden Summer Palace of the MughalsDiscover a lesser-known chapter of Delhi's history on a guided heritage walk through the historic summer retreat of the Mughal era in Mehrauli.Explore the historic fort complex, admire its ancient water reservoir, and learn about the water systems, gardens, architecture, and traditions that once shaped this remarkable heritage site. Through engaging storytelling, uncover the forgotten history of the palace and its connection with Delhi's rich cultural past.Experience an offbeat heritage trail and discover a fascinating side of Mehrauli.Places Covered1 Mughal-era Summer Palace2 Historic Fort Complex3 Ancient Water Reservoir4 Remains of the Orchard Gardens5 Heritage Structures within the Complex",
+    "startDate": "2026-09-19T16:00:00+05:30",
+    "endDate": "2026-09-19T17:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Mehrauli, New Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52048820000000000000",
+        "longitude": "77.17868690000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "700.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/where-the-rain-comes-alive-hauz-e-shamsi",
+    "keywords": [
+      "Adventure",
+      "Walking Tour",
+      "History & heritage",
       "URBANAUT"
     ]
   },
