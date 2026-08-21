@@ -1808,6 +1808,43 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Bollywood Jamming Night | The Village Table",
+    "description": "What if a Saturday evening was just good music, new people and a table full of strangers who do not feel like strangers by the end?That is exactly what we are creating.The Village Table presents Bollywood Jamming Night \ud83c\udfb6A warm, easy-going evening of music, conversations and new people. No pressure to sing perfectly. Just come with your vibe.What to expect:Bollywood songs we all know and loveLive jamming and singing togetherGood conversations with new peopleSnacks and drinks throughout the eveningA relaxed, welcoming communityCome for the music. Stay for the people.29 August, Saturday | 6:00\u20139:00 PMSector 50, GurgaonCome solo or bring a friend.",
+    "startDate": "2026-08-29T18:00:00+05:30",
+    "endDate": "2026-08-29T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Sector 50, Gurugram, Haryana, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41778670000000000000",
+        "longitude": "77.06276530000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Village Table",
+      "url": "https://urbanaut.app/partner/the-village-table"
+    },
+    "url": "https://urbanaut.app/spot/a-karaoke-night",
+    "keywords": [
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "The Limits of Computation",
     "description": "Join us for a lecture that traces one dangerous idea through three brilliant, broken minds:In 1891, Georg Cantor gave us set theory, and then spent years battling for his peace of mind. In 1931, Kurt G\u00f6del proved that any system of logic cannot capture all truths, and later descended into deep paranoia. In 1936, Alan Turing identified problems that no computer can ever solve; and met a tragic end.Three of history's most brilliant minds, circling the same dangerous idea.This lecture plays with diagonalisation \u2014 the beautifully unsettling proof technique at the heart of all three discoveries \u2014 and explores what it reveals about the limits of logic, mathematics and computation itself. Some ideas don't just describe the edges of what we can know. They seem to press back on the people who find them.The session explores:What diagonalisation is, and why the same idea kept resurfacing across a century of mathematicsHow Cantor's set theory, G\u00f6del's incompleteness theorems and Turing's halting problem are secretly the same argumentWhat it means for a system of logic to be unable to capture all truthsWhy some of history's most brilliant thinkers found this particular idea so disturbingAbout the SpeakerDr. Aalok Thakkar is an Assistant Professor of Computer Science at Ashoka University. His work focuses on logic in computer science and its applications to programming languages, automata theory, and trustworthy AI.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
