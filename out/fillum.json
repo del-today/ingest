@@ -1,28 +1,147 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "The Giants(2023)",
-    "url": "https://fillum.in/screening/6032",
-    "startDate": "2026-08-21T19:00:00+05:30",
-    "endDate": "2026-08-21T19:00:00+05:30",
-    "description": "",
-    "location": {
-      "@type": "Place",
-      "name": "Remakery, Khirki Extension",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "ALT EFF Film Club"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "A Woman Is a Woman(1961)",
     "url": "https://fillum.in/screening/5927",
     "startDate": "2026-08-22T12:00:00+05:30",
     "endDate": "2026-08-22T12:00:00+05:30",
     "description": "Compulsively innovative director Jean-Luc Godard presents \u201ca neorealist musical\u2014that is, a contradiction in terms.\u201d Featuring French superstars Anna Karina, Jean-Paul Belmondo, and Jean-Claude..more",
+    "location": {
+      "@type": "Place",
+      "name": "mool, south ex II",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Beau Travail(1999)",
+    "url": "https://fillum.in/screening/5997",
+    "startDate": "2026-08-22T14:00:00+05:30",
+    "endDate": "2026-08-22T14:00:00+05:30",
+    "description": "With her ravishingly sensual take on Herman Melville\u2019s Billy Budd, Sailor, Claire Denis firmly established herself as one of the great visual tone poets of our time. Amid the azure waters and sunb..more",
+    "location": {
+      "@type": "Place",
+      "name": "mool, south ex II",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "DocNights by Bitchitra Collective presents Documentary Films on Inheritance & Reclamation",
+    "url": "https://fillum.in/event/6038",
+    "startDate": "2026-08-22T19:00:00+05:30",
+    "endDate": "2026-08-22T19:00:00+05:30",
+    "description": "DocNights by Bitchitra Collective is screening two short documentaries created by women on women, who have already shaped their narratives, are living peacefully with the lives they have created for..more",
+    "location": {
+      "@type": "Place",
+      "name": "W.I.P Adda, Lado Sarai",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bitchitra Collective"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Graphic Means: A History of Graphic Design Production(2017)",
+    "url": "https://fillum.in/screening/6017",
+    "startDate": "2026-08-23T12:00:00+05:30",
+    "endDate": "2026-08-23T12:00:00+05:30",
+    "description": "Film #1 at 'Export' on Graphic Design.Graphic Means traces the history of graphic design through the tools and processes that have shaped its production. From letterpress and paste-up to phototy..more",
+    "location": {
+      "@type": "Place",
+      "name": "mool, south ex II",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Export",
+    "url": "https://fillum.in/event/6024",
+    "startDate": "2026-08-23T12:00:00+05:30",
+    "endDate": "2026-08-23T12:00:00+05:30",
+    "description": "Export is a day-long gathering starting with film screenings around graphic design, typography, semiotics, and the technologies shaping visual communication, bringing together designers, creative pr..more",
+    "location": {
+      "@type": "Place",
+      "name": "Mool, South Ex 2",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Helvetica(2007)",
+    "url": "https://fillum.in/screening/6018",
+    "startDate": "2026-08-23T13:30:00+05:30",
+    "endDate": "2026-08-23T13:30:00+05:30",
+    "description": "Film #2 at 'Export' on Graphic Design.Gary Hustwit\u2019s Helvetica is a documentary about one of the most ubiquitous typefaces of the modern world. Designed in Switzerland in 1957 by Max Miedinge..more",
+    "location": {
+      "@type": "Place",
+      "name": "mool, south ex II",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Directing Actors - Workshop by National Award Winner Devanshu Singh",
+    "url": "https://fillum.in/event/6020",
+    "startDate": "2026-08-23T15:00:00+05:30",
+    "endDate": "2026-08-23T15:00:00+05:30",
+    "description": "An intensive four-hour workshop.From creating/taking the right brief.Preparing yourself to meet professional actors and directors.How to screen-testHow to read with the actors.How to rehea..more",
+    "location": {
+      "@type": "Place",
+      "name": "Niv Art Centre, Neb Sarai",
+      "address": "Sainik Farm, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Devanshu Singh"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Micro-movie marathon",
+    "url": "https://fillum.in/event/6055",
+    "startDate": "2026-08-23T15:00:00+05:30",
+    "endDate": "2026-08-23T15:00:00+05:30",
+    "description": "- The screening will take place at a private residence, so the seating will be mixed - a blend of sofas, chairs, and carpet seating. But we will make sure everyone is comfortable throughout the scre..more",
+    "location": {
+      "@type": "Place",
+      "name": "Jangpura",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Postcards"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Linotype: The Film(2012)",
+    "url": "https://fillum.in/screening/6019",
+    "startDate": "2026-08-23T15:30:00+05:30",
+    "endDate": "2026-08-23T15:30:00+05:30",
+    "description": "Film #3 at 'Export' on Graphic Design.Doug Wilson\u2019s Linotype: The Film documents the history and enduring significance of the Linotype machine, the mechanical typesetting system that transform..more",
     "location": {
       "@type": "Place",
       "name": "mool, south ex II",
