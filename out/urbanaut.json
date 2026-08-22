@@ -2,42 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "The Listening Room",
-    "description": "The Listening Room: A Space for Deep ListeningOverviewIn a world that is always talking, we rarely get the chance to truly listen. The Listening Room is a unique session dedicated to the art of being present. It is a space to share, to hear others, and to practice the kind of attention that builds real connection and empathy.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to expectActive Listening: Practice being fully present while others speak without the need to interrupt or give immediate advice.Shared Stories: A safe environment to share your own thoughts or experiences and feel truly heard by a small group.Quiet Reflection: Moments of silence to process what has been shared and to notice how deep listening changes our perspective.Supportive Connection: A morning at Greenr focused on human presence and the simple power of witnessing each other\u2019s stories.Details\ud83d\uddd3\ufe0f Date: 22nd August (Saturday)\u23f0 Time: 11:00 AM\ud83d\udccd Location: Greenr, Golf Course Ext Road\ud83c\udf9f\ufe0f Contribution: \u20b9700",
-    "startDate": "2026-08-22T11:00:00+05:30",
-    "endDate": "2026-08-22T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "First Floor, Grand View High Street, Golf Course Ext Rd, Sector 58, Gurugram, Haryana 122098, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.41623070000000000000",
-        "longitude": "77.10243700000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "661.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/listening-room",
-    "keywords": [
-      "Wellness",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Kathika Cultural Experience",
     "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
     "startDate": "2026-08-22T11:30:00+05:30",
@@ -112,77 +76,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Making of a Serial Offender",
-    "description": "Join us for an evening that begins with a simple question: what does a serial offender look like? The answer may be more unsettling than you think.About the LectureThe point is not that everyone is a criminal. The point is that none of us can recognise one by looking.This lecture explores how criminal profiling moved beyond outdated assumptions about \"criminal faces\" to become one of the most fascinating tools in modern investigations. Drawing from forensic psychology, criminology, and real-world case studies, the session examines how investigators attempt to understand offenders through behaviour rather than appearance.Together, we'll explore:Why humans are often poor judges of who is capable of violenceThe evolution of criminal profiling, from early theories to modern investigative psychologyHow crime scene behaviour can reveal patterns of motive, planning, control, and escalationThe origins of behavioural profiling and the rise of the FBI's Behavioural Science UnitWhat famous serial offender cases reveal about fantasy, victim selection, and criminal developmentWhy serial offending remains understudied in IndiaHow forensic psychologists and investigators use Behavioural Evidence Analysis to reconstruct offender behaviourMoving beyond sensationalism and popular crime shows, this lecture examines the deeper psychological and social questions that profiling raises. Why do some individuals cross lines that most never do? What can behaviour tell us about risk, intent, and future offending? And how can India build more rigorous behavioural science frameworks for criminal investigation?Part psychology, part criminology, and part investigative science, this session offers a rare glimpse into the complex process of understanding criminal behaviour.About the SpeakerMr. Rithin Joseph is an Assistant Professor at the School of Behavioural Forensics, National Forensic Sciences University (NFSU), Delhi. Specialising in Criminology and Forensic Psychology, his work focuses on criminal profiling, deception detection, investigative psychology, and forensic behavioural analysis. He has published multiple research papers and presented over twenty-one papers at national and international conferences.Mr. Joseph has specialised training in a range of forensic investigative techniques, including Polygraph, Brain Electrical Oscillation Signature Profiling (BEOS), Suspect Detection System (SDS), Layered Voice Analysis (LVA), and EyeDetect. He currently serves as Co-Investigator on an ICSSR-funded research project examining the prediction of recidivism among first-time offenders in conflict with the law. He is also the co-author of \"Crime as the Cause of Criminality\" and \"BRICS: Unravelling the Abyss.\"A Gold Medalist in Criminology from the National Forensic Sciences University and recipient of the Young Criminologist Award 2024, he continues to contribute to research in criminal psychology, offender behaviour, and investigative science while mentoring postgraduate students and pursuing doctoral research in Criminal Psychology.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
-    "startDate": "2026-08-22T12:00:00+05:30",
-    "endDate": "2026-08-22T15:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "32nd avenue, Sector 15 Part 2, Sector 15, Gurugram, Haryana 122001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46145160000000000000",
-        "longitude": "77.04983410000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/the-making-of-a-serial-offender-15640",
-    "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Onam Sadhya at Padmanabham | Gurgaon",
-    "description": "Experience the warmth of Kerala's most celebrated festival with Padmanabham's 5th Edition of Onam Sadhya in Delhi.Served traditionally on a banana leaf, the Sadhya is a wholesome vegetarian feast featuring 30 authentic Kerala delicacies, carefully prepared to celebrate the spirit of Onam. More than just a meal, Sadhya reflects Kerala's rich culinary heritage, bringing together a balanced combination of flavours, nutrition, and age-old traditions. For generations, eating a Sadhya has been about more than food - it's about sharing a festive meal with family and friends while celebrating community and gratitude. In Kerala, there's even a popular saying:\"Kaanam Vittum Onam Unnanam\" \u2014 \"Even if you have to sell your property, never miss the Onam feast.\"Important Information:Rs. 1047 is the price per person. Govt. Taxes extra, as applicable. Sharing is not allowed.30 vegetarian dishes are served on a banana leaf.An advance per person is required to pre-reserve your table. This amount is non-refundable, non-encashable, and non-transferable. This amount will be adjusted against your final bill.Prior booking is recommended at least 1 hour in advance. Guests may experience waiting time at the restaurant during busy hours or on event days, and the restaurant will not be liable for any delays.We hold the table for up to 15 minutes. After that, it will be considered a no-show.This voucher is valid only at that location and on that date/time. It cannot be transferred to another date/time or location.The voucher is valid only for Onam Sadhya.Each voucher can be redeemed only once.A 10% voluntary service charge will be applicable.This voucher is not valid for/on home delivery, take-away, or packed orders.No other discounts, offers or promotions from any third-party platforms will be applicable with this voucher.Guests are requested to inform the restaurant in advance of this booking before visiting to ensure a smooth dining experience.",
-    "startDate": "2026-08-22T12:00:00+05:30",
-    "endDate": "2026-08-26T23:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Iris Broadway, Sector 85, Gurugram, Haryana 122012, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.40366890000000000000",
-        "longitude": "76.94792220000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1047.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Padmanabham",
-      "url": "https://urbanaut.app/partner/padmanabham"
-    },
-    "url": "https://urbanaut.app/spot/onamsadhyatpadmanabhamgurgaon",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Latin American Supper Club Brunch",
     "description": "Welcome to V\u2019s Supper Stories, Supper Club \u2014 where food is slow, stories are shared, and the table is the experience.This isn\u2019t a restaurant. It\u2019s a quiet corner of Saket, New Delhi, where once a week, 12\u201314 guests gather around one long table. No menus in hand. No loud music. Just seasonally inspired dishes, soft conversation, and the kind of atmosphere you remember long after dessert.Every edition of V\u2019s Supper Stories is rooted in a different mood \u2014 a story told through ingredients, plating, and pacing. Come solo or a +1. Come curious. Come for the quiet joy of a meal made with care.The exact address is shared 24 hours before, because the feeling of discovery is part of what makes it special.Follow along at @vsupperstories for glimpses of the table, the food, and the people who bring it to life.",
@@ -221,76 +114,37 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Northern Lights",
-    "description": "Paint the magic of the aurora onto canvas, with sweeping ribbons of green and blue against a starlit sky. We'll guide you through blending, layering, and adding a snowy tree line, so even first-time painters walk away with a piece that glows. All acrylics, canvas, and brushes provided. Tea, coffee and dry snacks complimentary.",
-    "startDate": "2026-08-22T16:00:00+05:30",
-    "endDate": "2026-08-22T18:00:00+05:30",
+    "@type": "FoodEvent",
+    "name": "Onam Sadhya at Padmanabham | Gurgaon",
+    "description": "Experience the warmth of Kerala's most celebrated festival with Padmanabham's 5th Edition of Onam Sadhya in Delhi.Served traditionally on a banana leaf, the Sadhya is a wholesome vegetarian feast featuring 30 authentic Kerala delicacies, carefully prepared to celebrate the spirit of Onam. More than just a meal, Sadhya reflects Kerala's rich culinary heritage, bringing together a balanced combination of flavours, nutrition, and age-old traditions. For generations, eating a Sadhya has been about more than food - it's about sharing a festive meal with family and friends while celebrating community and gratitude. In Kerala, there's even a popular saying:\"Kaanam Vittum Onam Unnanam\" \u2014 \"Even if you have to sell your property, never miss the Onam feast.\"Important Information:Rs. 1047 is the price per person. Govt. Taxes extra, as applicable. Sharing is not allowed.30 vegetarian dishes are served on a banana leaf.An advance per person is required to pre-reserve your table. This amount is non-refundable, non-encashable, and non-transferable. This amount will be adjusted against your final bill.There might be sharing of tables during peak hours.Prior booking is recommended at least 1 hour in advance. Guests may experience waiting time at the restaurant during busy hours or on event days, and the restaurant will not be liable for any delays.We hold the table for up to 15 minutes. After that, it will be considered a no-show.This voucher is valid only at that location and on that date/time. It cannot be transferred to another date/time or location.The voucher is valid only for Onam Sadhya.Each voucher can be redeemed only once.A 10% voluntary service charge will be applicable.This voucher is not valid for/on home delivery, take-away, or packed orders.No other discounts, offers or promotions from any third-party platforms will be applicable with this voucher.Guests are requested to inform the restaurant in advance of this booking before visiting to ensure a smooth dining experience.",
+    "startDate": "2026-08-22T15:00:00+05:30",
+    "endDate": "2026-08-26T23:00:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "N.S-5, Munirka Marg, next to MTNL Office, Indian Air Lines & Air India Estate, Vasant Vihar, New Delhi, Delhi 110057, India",
+      "address": "Iris Broadway, Sector 85, Gurugram, Haryana 122012, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.55951440000000000000",
-        "longitude": "77.15727950000000000000"
+        "latitude": "28.40366890000000000000",
+        "longitude": "76.94792220000000000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
+    "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "944.00",
+      "price": "1047.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Oasis Art Studio",
-      "url": "https://urbanaut.app/partner/oasis-art-studio"
+      "name": "Padmanabham",
+      "url": "https://urbanaut.app/partner/padmanabham"
     },
-    "url": "https://urbanaut.app/spot/northern-lights",
+    "url": "https://urbanaut.app/spot/onamsadhyatpadmanabhamgurgaon",
     "keywords": [
-      "Wellness",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Haunted Walk: Purana Quila",
-    "description": "Ruhani Raatein: Haunted Walk at Purana QilaAs the sun sets behind Delhis ancient ramparts, join us for a moonlit journey through one of the city s oldest forts-Purana Qila, where history whispers and shadows linger.From ghostly legends to chilling ruins, this walk blends myth, mystery, and Mughal-era memories. Are the tales true? Were voices heard in the dark? Come find out for yourself, if you dare.Not just a walk-this is an experience that tingles your spine and stirs your soul.",
-    "startDate": "2026-08-22T17:00:00+05:30",
-    "endDate": "2026-09-20T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Mathura Rd, Near Delhi Zoo, J65V+RFH, Pragati Maidan, New Delhi, Delhi 110001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.60957440000000000000",
-        "longitude": "77.24373709999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "700.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Enroute Indian History",
-      "url": "https://urbanaut.app/partner/enrouteindianhistory"
-    },
-    "url": "https://urbanaut.app/spot/haunted-walk-purana-quila",
-    "keywords": [
-      "Adventure",
-      "Walking Tour",
-      "History & heritage",
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -652,7 +506,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "499.00",
+      "price": "899.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -1076,7 +930,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Onam Sadhya at Padmanabham | Delhi",
-    "description": "Experience the warmth of Kerala's most celebrated festival with Padmanabham's Onam Sadhya in Gurgaon.Served traditionally on a banana leaf, the Sadhya is a wholesome vegetarian feast featuring 30 authentic Kerala delicacies, carefully prepared to celebrate the spirit of Onam. More than just a meal, Sadhya reflects Kerala's rich culinary heritage, bringing together a balanced combination of flavours, nutrition, and age-old traditions. For generations, eating a Sadhya has been about more than food - it's about sharing a festive meal with family and friends while celebrating community and gratitude. In Kerala, there's even a popular saying:\"Kaanam Vittum Onam Unnanam\" \u2014 \"Even if you have to sell your property, never miss the Onam feast.\"Important Information:Rs. 1087 is the price per person. Govt. Taxes extra, as applicable. Sharing is not allowed.30 vegetarian dishes are served on a banana leaf.An advance per person is required to pre-reserve your table. This amount is non-refundable, non-encashable, and non-transferable. This amount will be adjusted against your final bill.Prior booking is recommended at least 1 hour in advance. Guests may experience waiting time at the restaurant during busy hours or on event days, and the restaurant will not be liable for any delays.We hold the table for max of 15 minutes. After that, it will be considered a no-show.This voucher is valid only at that location and on that date/time. Cannot be transferred to another date/time or location.The voucher is valid only for Onam Sadhya.Each voucher can be redeemed only once.A 10% voluntary service charge will be applicable.This voucher is not valid for/on home delivery, take-away, or packed orders.No other discounts, offers or promotions from any third-party platforms will be applicable with this voucher.Guests are requested to inform the restaurant in advance regarding this booking, before visiting, to ensure a smooth dining experience.",
+    "description": "Experience the warmth of Kerala's most celebrated festival with Padmanabham's Onam Sadhya in Gurgaon.Served traditionally on a banana leaf, the Sadhya is a wholesome vegetarian feast featuring 30 authentic Kerala delicacies, carefully prepared to celebrate the spirit of Onam. More than just a meal, Sadhya reflects Kerala's rich culinary heritage, bringing together a balanced combination of flavours, nutrition, and age-old traditions. For generations, eating a Sadhya has been about more than food - it's about sharing a festive meal with family and friends while celebrating community and gratitude. In Kerala, there's even a popular saying:\"Kaanam Vittum Onam Unnanam\" \u2014 \"Even if you have to sell your property, never miss the Onam feast.\"Important Information:Rs. 1087 is the price per person. Govt. Taxes extra, as applicable. Sharing is not allowed.30 vegetarian dishes are served on a banana leaf.An advance per person is required to pre-reserve your table. This amount is non-refundable, non-encashable, and non-transferable. This amount will be adjusted against your final bill.There might be sharing of tables during peak hours.Prior booking is recommended at least 1 hour in advance. Guests may experience waiting time at the restaurant during busy hours or on event days, and the restaurant will not be liable for any delays.We hold the table for max of 15 minutes. After that, it will be considered a no-show.This voucher is valid only at that location and on that date/time. Cannot be transferred to another date/time or location.The voucher is valid only for Onam Sadhya.Each voucher can be redeemed only once.A 10% voluntary service charge will be applicable.This voucher is not valid for/on home delivery, take-away, or packed orders.No other discounts, offers or promotions from any third-party platforms will be applicable with this voucher.Guests are requested to inform the restaurant in advance regarding this booking, before visiting, to ensure a smooth dining experience.",
     "startDate": "2026-08-24T12:00:00+05:30",
     "endDate": "2026-08-29T22:00:00+05:30",
     "location": {
@@ -2215,8 +2069,8 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Dunk Like A Girl",
-    "description": "SWAG's first-ever Basketball Session is here!Grab your sneakers and bring your best energy - it's time for Dunk Like A Girl \ud83c\udff8\u2728, a women-only basketball meet-up where the only goal is to have fun.Whether you've played before or you're trying basketball for the first time, everyone is welcome. We'll play easy games, cheer each other on, and enjoy an hour full of movement, fun, and good vibes.So if you've been looking for an excuse to get back on the court (or step onto one for the first time), this is it.Come solo or with your girls - you'll leave with a great workout, a few new friends, and probably plans for a rematch.",
+    "name": "Baddy with Baddies | Gurugram",
+    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.See you on court!",
     "startDate": "2026-09-03T20:00:00+05:30",
     "endDate": "2026-09-27T19:00:00+05:30",
     "location": {
@@ -2233,7 +2087,7 @@
     "typicalAgeRange": "25+",
     "offers": {
       "@type": "Offer",
-      "price": "199.00",
+      "price": "279.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -2242,7 +2096,7 @@
       "name": "Sweat Like a Girl",
       "url": "https://urbanaut.app/partner/sweat-like-a-girl"
     },
-    "url": "https://urbanaut.app/spot/dunk-like-a-girl",
+    "url": "https://urbanaut.app/spot/swag55",
     "keywords": [
       "Leisure",
       "Wellness",
@@ -2931,6 +2785,120 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Pickleball w SWAG | Lodhi Estate",
+    "description": " Pickleball with SWAG x Delhi Picklers is back! This is a women-only, beginner-friendly pickleball meet-up. The session is guided by a coach.5:50 PM Meet up and Warm up6:00 PM Game TimeSee you on court!",
+    "startDate": "2026-09-20T18:00:00+05:30",
+    "endDate": "2026-09-20T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Opposite Bunglow No.46, Sector 4, Lodhi Estate, Lodhi Estate, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59422390000000000000",
+        "longitude": "77.22559430000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "399.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag65",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "BADDY WITH BADDIES | Lodhi Estate",
+    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.See you on court!",
+    "startDate": "2026-09-20T18:00:00+05:30",
+    "endDate": "2026-09-20T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Opposite Bunglow No.46, Sector 4, Lodhi Estate, Lodhi Estate, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59422390000000000000",
+        "longitude": "77.22559430000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "279.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag64",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Cricket with SWAG | Lodhi Estate",
+    "description": "Cricket with SWAG is back!This is a women-only, beginner-friendly box cricket meetup. We meet, we play, and we cheer each other on!See you there!",
+    "startDate": "2026-09-20T18:00:00+05:30",
+    "endDate": "2026-09-20T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Opposite Bunglow No.46, Sector 4, Lodhi Estate, Lodhi Estate, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59422390000000000000",
+        "longitude": "77.22559430000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "359.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag63",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Beyond the Bar",
     "description": "helloooo",
@@ -3000,6 +2968,44 @@
     "url": "https://urbanaut.app/spot/haunted-walk-mehrauli-archaeological-park",
     "keywords": [
       "Adventure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Dunk Like A Girl",
+    "description": "SWAG's first-ever Basketball Session is here!Grab your sneakers and bring your best energy - it's time for Dunk Like A Girl \ud83c\udff8\u2728, a women-only basketball meet-up where the only goal is to have fun.Whether you've played before or you're trying basketball for the first time, everyone is welcome. We'll play easy games, cheer each other on, and enjoy an hour full of movement, fun, and good vibes.So if you've been looking for an excuse to get back on the court (or step onto one for the first time), this is it.Come solo or with your girls - you'll leave with a great workout, a few new friends, and probably plans for a rematch.",
+    "startDate": "2026-09-27T18:00:00+05:30",
+    "endDate": "2026-09-27T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Sportyzo Badminton Academy, Emaar emerald hills, Golf Course Ext Rd, opposite Ivory Block, Sector 65, Gurugram, Haryana 122011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40465650000000000000",
+        "longitude": "77.07401440000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "199.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/dunk-like-a-girl",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
       "URBANAUT"
     ]
   }
