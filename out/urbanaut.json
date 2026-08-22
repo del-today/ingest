@@ -2,9 +2,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "The Listening Room",
+    "description": "The Listening Room: A Space for Deep ListeningOverviewIn a world that is always talking, we rarely get the chance to truly listen. The Listening Room is a unique session dedicated to the art of being present. It is a space to share, to hear others, and to practice the kind of attention that builds real connection and empathy.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to expectActive Listening: Practice being fully present while others speak without the need to interrupt or give immediate advice.Shared Stories: A safe environment to share your own thoughts or experiences and feel truly heard by a small group.Quiet Reflection: Moments of silence to process what has been shared and to notice how deep listening changes our perspective.Supportive Connection: A morning at Greenr focused on human presence and the simple power of witnessing each other\u2019s stories.Details\ud83d\uddd3\ufe0f Date: 22nd August (Saturday)\u23f0 Time: 11:00 AM\ud83d\udccd Location: Greenr, Golf Course Ext Road\ud83c\udf9f\ufe0f Contribution: \u20b9700",
+    "startDate": "2026-08-22T11:00:00+05:30",
+    "endDate": "2026-08-22T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "First Floor, Grand View High Street, Golf Course Ext Rd, Sector 58, Gurugram, Haryana 122098, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41623070000000000000",
+        "longitude": "77.10243700000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/listening-room",
+    "keywords": [
+      "Wellness",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Kathika Cultural Experience",
     "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
-    "startDate": "2026-08-21T11:30:00+05:30",
+    "startDate": "2026-08-22T11:30:00+05:30",
     "endDate": "2026-08-31T14:00:00+05:30",
     "location": {
       "@type": "Place",
@@ -42,7 +78,7 @@
     "@type": "FoodEvent",
     "name": "Onam Sadhya by Chef Kartik x Cocobay",
     "description": "Celebrate Onam with an Authentic Sadhya at CocobayGet ready to indulge in the rich, traditional flavors of Kerala this festive season! In anticipation of Onam, Cocobay South Indian Cafe brings you a thoughtfully curated Onam Sadhya experience designed by Chef Kartik. Served on a vibrant banana leaf, this grand feast features an array of authentic preparations\u2014from crispy banana chips and savory side dishes to aromatic rice and comforting payasam\u2014crafted to capture the true spirit of togetherness and celebration.A Culinary Journey in GurgaonWhether you are hosting family or enjoying a preview feast with friends, join us at our new location on Golf Course Road to savor every bit of this seasonal specialty. Available for a limited time from August 14th to 16th at \u20b9995 (+GST) per person, with convenient delivery options right to your doorstep. Space is limited for this special festive preview\u2014reserve your meal early and celebrate Onam with the timeless taste of home!",
-    "startDate": "2026-08-21T11:30:00+05:30",
+    "startDate": "2026-08-22T11:30:00+05:30",
     "endDate": "2026-08-28T21:30:00+05:30",
     "location": {
       "@type": "Place",
@@ -71,156 +107,6 @@
     "keywords": [
       "Festival",
       "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Tree Climbing Workshop",
-    "description": "A special tree-climbing workshop for children is being organised to give young participants a joyful, hands-on way to connect with nature\u2014far from screens and devices. Designed for kids who love adventure and the outdoors, the session will take place in a safe, leafy park setting under the guidance of trained instructors and nature educators.Children will learn basic climbing techniques suited to their age and ability. The focus will not be on speed or competition, but on building confidence, balance, and a sense of wonder as they move among the branches. While climbing, they will be encouraged to notice the texture of bark, the patterns of leaves, the sounds of birds, and the cool shade of the canopy\u2014simple sensory experiences that screens cannot offer.Safety will remain the top priority, with constant adult supervision. By the end of the session, participants will leave with muddy hands, brighter spirits, and a stronger personal connection to nature\u2014one that begins with the simple act of climbing a tree and looking at the world from a higher, greener place.",
-    "startDate": "2026-08-22T08:00:00+05:30",
-    "endDate": "2026-08-22T10:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Nehru park, Ramnagar, Chanakyapuri, New Delhi, Delhi 110021, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59096880000000000000",
-        "longitude": "77.19320030000002000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "350.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "New Delhi Nature Society",
-      "url": "https://urbanaut.app/partner/new-delhi-nature-society-312"
-    },
-    "url": "https://urbanaut.app/spot/tree-climbing-workshop",
-    "keywords": [
-      "Adventure",
-      "Workshop",
-      "Eco Friendly",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "August Spl : 1857 & Dilli - heritage walk in Ridge",
-    "description": "1857 UPRISING & DILLI: (A heritage walk at the Mutiny Memorial & it's neighbourhood in Kamla Nehru Ridge )The year 1857 marked a turning point in Indian history. What began as a sepoy mutiny in Meerut soon transformed into a widespread rebellion against British colonial rule. Within days, the rebelling sepoys marched to Delhi, a city symbolic of imperial power, where they declared the aging Mughal emperor Bahadur Shah Zafar as the leader of the uprising.The Mutiny Memorial, now known as Ajitgarh, is a prominent monument located on the Delhi Ridge, near Kashmere Gate. It was constructed in 1863 by the British to honor their soldiers and officials who died during the 1857 uprising.Let\u2019s explore the stories of the 1857 uprising and its impacts, at the Mutiny Memorial (a haunted site ) &  its neighborhood landmarks (Ashokan Pillar, Baoli, Pir Ghaib Hunting Lodge & the Hindu Rao Hospital)",
-    "startDate": "2026-08-22T08:00:00+05:30",
-    "endDate": "2026-08-22T10:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Kamla Nehru Ridge, Civil Lines, Delhi, 110007, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.67132190000000000000",
-        "longitude": "77.21076200000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "800.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "DARWESH_TALEWEAVERS",
-      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
-    },
-    "url": "https://urbanaut.app/spot/1857delhii",
-    "keywords": [
-      "History & heritage",
-      "Guided tour",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "A Cinema Walk through the heart of CP",
-    "description": "What comes to mind when you think of Connaught Place? Shopping? Caf\u00e9s? Crowded streets? Or perhaps something from a very different time? What if we told you that C.P. once had a whole different rhythm, one shaped by cinema, Friday evenings, grand premieres and long-awaited movie dates?Built as the social and cultural heart of New Delhi, CP brought together theatres, cinemas, restaurants and public spaces where people could spend an entire evening. \ud83c\udfacOver the years, its cinema halls became an important part of this experience, bringing together audiences from different generations. \ud83d\udc8cBut how much of that world remains today? Join Silsila Heritage, as we take a walk through these familiar cinema spaces in Connaught Place and see how they have adapted over the years.Know Your Walk Leader:\ud83d\udde3 Bipasha is a heritage educator & museum professional for 10+ years. She is specialized in facilitating interactive sessions, Delhi-based tours and art workshops. Through these meaningful experiences, she aims to give her audience an essence of 'dekho, suno, samjho, aur mehsoos karo'.",
-    "startDate": "2026-08-22T09:00:00+05:30",
-    "endDate": "2026-08-22T11:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Connaught Place, New Delhi, Delhi 110001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.63042030000000000000",
-        "longitude": "77.21772159999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "225.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Silsila Heritage",
-      "url": "https://urbanaut.app/partner/silsilaheritage"
-    },
-    "url": "https://urbanaut.app/spot/a-cinema-walk-through-the-heart-of-cp",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Listening Room",
-    "description": "The Listening Room: A Space for Deep ListeningOverviewIn a world that is always talking, we rarely get the chance to truly listen. The Listening Room is a unique session dedicated to the art of being present. It is a space to share, to hear others, and to practice the kind of attention that builds real connection and empathy.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to expectActive Listening: Practice being fully present while others speak without the need to interrupt or give immediate advice.Shared Stories: A safe environment to share your own thoughts or experiences and feel truly heard by a small group.Quiet Reflection: Moments of silence to process what has been shared and to notice how deep listening changes our perspective.Supportive Connection: A morning at Greenr focused on human presence and the simple power of witnessing each other\u2019s stories.Details\ud83d\uddd3\ufe0f Date: 22nd August (Saturday)\u23f0 Time: 11:00 AM\ud83d\udccd Location: Greenr, Golf Course Ext Road\ud83c\udf9f\ufe0f Contribution: \u20b9700",
-    "startDate": "2026-08-22T11:00:00+05:30",
-    "endDate": "2026-08-22T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "First Floor, Grand View High Street, Golf Course Ext Rd, Sector 58, Gurugram, Haryana 122098, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.41623070000000000000",
-        "longitude": "77.10243700000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "661.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/listening-room",
-    "keywords": [
-      "Wellness",
       "URBANAUT"
     ]
   },
@@ -373,41 +259,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Mehrauli: The First City of Dehli",
-    "description": "One of the oldest inhabited places in the subcontinent, Mehrauli is rich in historical ruins, tombs, and other monuments from many eras of Delhi\u2019s past \u2014from the pre-Islamic to the late Mughal and colonial periods. This trail will take you through a thrilling journey accompanied by an exciting session of storytelling around the history and myths of one of Delhi\u2019s oldest cities. This walking tour, led by Shah Umair, explores parts of Mehrauli hidden from the crowds at Qutub Minar, walking through the history of almost a thousand years.The walk will be held inside the archeological park we will not venture into Mehrauli Village for Dargah and Zafar Mahal",
-    "startDate": "2026-08-22T17:00:00+05:30",
-    "endDate": "2026-08-22T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Anuvrat Marg Opposite Qutub Minar Metro Station, G5CQ+33M, Christian Colony, Mehrauli, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52020409999999000000",
-        "longitude": "77.18767900000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "354.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sikkawala",
-      "url": "https://urbanaut.app/partner/sikkawala"
-    },
-    "url": "https://urbanaut.app/spot/mehraulipark",
-    "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Haunted Walk: Purana Quila",
     "description": "Ruhani Raatein: Haunted Walk at Purana QilaAs the sun sets behind Delhis ancient ramparts, join us for a moonlit journey through one of the city s oldest forts-Purana Qila, where history whispers and shadows linger.From ghostly legends to chilling ruins, this walk blends myth, mystery, and Mughal-era memories. Are the tales true? Were voices heard in the dark? Come find out for yourself, if you dare.Not just a walk-this is an experience that tingles your spine and stirs your soul.",
     "startDate": "2026-08-22T17:00:00+05:30",
@@ -440,6 +291,41 @@
       "Adventure",
       "Walking Tour",
       "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Mehrauli: The First City of Dehli",
+    "description": "One of the oldest inhabited places in the subcontinent, Mehrauli is rich in historical ruins, tombs, and other monuments from many eras of Delhi\u2019s past \u2014from the pre-Islamic to the late Mughal and colonial periods. This trail will take you through a thrilling journey accompanied by an exciting session of storytelling around the history and myths of one of Delhi\u2019s oldest cities. This walking tour, led by Shah Umair, explores parts of Mehrauli hidden from the crowds at Qutub Minar, walking through the history of almost a thousand years.The walk will be held inside the archeological park we will not venture into Mehrauli Village for Dargah and Zafar Mahal",
+    "startDate": "2026-08-22T17:00:00+05:30",
+    "endDate": "2026-08-22T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Anuvrat Marg Opposite Qutub Minar Metro Station, G5CQ+33M, Christian Colony, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52020409999999000000",
+        "longitude": "77.18767900000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "354.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sikkawala",
+      "url": "https://urbanaut.app/partner/sikkawala"
+    },
+    "url": "https://urbanaut.app/spot/mehraulipark",
+    "keywords": [
       "URBANAUT"
     ]
   },
@@ -1297,6 +1183,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Baddy with Baddies | Mehrauli",
+    "description": "Grab your racket and bring your best energy - it's time for Baddy with Baddies \ud83c\udff8\u2728, a women-only badminton meet-up where the only goal is to have fun.Whether you've got a sneaky smash up your sleeve or you're simply looking for a fun way to move, this session is all about friendly rallies, big laughs, and moving your body in great company. Expect good vibes, and a community of women who are here to play, cheer each other on, and enjoy the sport.So if you've been looking for an excuse to get back on the court (or step onto one for the first time), this is it.Come solo or with your girls - you'll leave with a great workout, a few new friends, and probably plans for a rematch.",
+    "startDate": "2026-08-26T20:00:00+05:30",
+    "endDate": "2026-09-24T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "near Qutab Minar Metro Station, Aam Bagh, Ladha Sarai Village, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.51514850000000000000",
+        "longitude": "77.18640390000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "299.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag53",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Grounds For Thought: August Lineup",
     "description": "Grounds for Thought: August 2026A Blue Tokai \u00d7 unLecture SeriesFour Thursday evenings. Four very different conversations. Grounds for Thought is a monthly series where Blue Tokai and unLecture bring researchers, scientists, and thinkers out of their institutions and into a coffee shops. The format is simple: an expert, a room full of curious people, and a conversation that goes somewhere a classroom rarely does.6th August: Shambhavi TiwariPossessed: The Ghost, The Asylum, The Priest, and the PeopleWhen someone in rural India is \"possessed by a ghost,\" they encounter not just their family and their priest, but eventually \u2014 often \u2014 a psychiatrist. Two completely different frameworks for what has gone wrong, and what healing looks like. This session uses spirit possession across Indian cultural contexts to examine what happens when indigenous knowledge systems and clinical medicine cross paths. PhD researcher Shambhavi Tiwari, who has spent years in this space, asks: superstition, myth, knowledge system, or something else entirely?13th August: Dr. Vishwas ChitaleZoom In, Zoom Out: What India's Climate Risk Looks Like at Ground LevelEveryone has heard the national climate numbers. But zoom into a district, and the picture changes entirely \u2014 neighbouring areas with opposite risk profiles, and disaster plans built on averages too coarse to catch where the real danger sits. Dr. Vishwas Chitale, Fellow at CEEW, will walk us through India's climate risk from the national level down to your own neighbourhood \u2014 and then hand the tool to the room. Participants will pull up their own hometown's actual climate risk profile live, using CRAVIS, CEEW's climate intelligence platform. You'll leave having done a small piece of the research yourself.20th August: Antara ChakrabartyFrom Village to Viral: How Folk Music Got a Second LifeA seventeenth-century Sufi verse now has a hundred million YouTube views. The songs of Lalon Fakir, Bengal's wandering poet-saint, are uniting two Bengals and two centuries through a single melody. This session traces folk music's remarkable journey \u2014 from Punjab's Sufi shrines and Bengal's riverside Baul gatherings to studio stages and streaming platforms \u2014 and asks the questions nobody quite wants to answer. Who owns a folk song? What happens when heritage becomes entertainment? Does something get lost in translation, or does it simply learn a new way to survive? Expect live music, a few surprises, and a fresh way of listening to songs you may already love.27th August: Sunaina SaxenaWhat is a Clean Street Worth?Why are two seemingly identical houses priced so differently? This session explores one of environmental economics' most elegant tools, hedonic pricing, to answer a question most of us have never thought to ask: does the cleanliness of a neighbourhood have a measurable economic value? Through stories, discussion, and simple examples, researcher Sunaina Saxena explores how clean streets, reliable waste collection, and a healthy living environment become embedded in housing prices \u2014 and what that reveals about our cities and the choices we make about where we live.",
     "startDate": "2026-08-27T18:30:00+05:30",
@@ -1959,6 +1883,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "SWAG x PHAB Parkour",
+    "description": "Ready to surprise yourself?This women-only parkour session is your chance to move in ways you never thought you could - in a supportive, judgment-free space built just for you by SWAG. No experience needed. No pressure. Just you, your body, and a whole lot of fun.A coach by Delhi Rock will guide you through everything from safe landings to vaults and jumps, at a pace that works for you. You'll leave feeling stronger, braver, and a little bit unstoppable.Bring: Come in comfortable activewear and carry a water bottle.Get ready for a fun, energizing Sunday afternoon with a community of like-minded women. Just bring your energy, curiosity, and love for trying something new!The venue is in the Squash and Badminton Stadium on Siri Fort Road.",
+    "startDate": "2026-08-30T11:00:00+05:30",
+    "endDate": "2026-09-27T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Siri Fort, New Delhi, Delhi 110049, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55326250000000000000",
+        "longitude": "77.22100110000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "400.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag54",
+    "keywords": [
+      "Adventure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Overthinkers Anonymous - Relationships Edition",
     "description": "Overthinkers Anonymous (Relationships Editions)OverviewA space for the relationships you carry but rarely talk about. People gather to finally say the things they've held back from a parent, a partner, a coworker, an in-law, anyone they can't avoid and can't quite be honest with. Said out loud, finally.Most relationship conflicts are not just about what happened; they are about how we interpret what happened. This session focuses on exploring how our thoughts shape our connections and why friction often feels more intense than the situation warrants. \"Before You Blame\" is a reflective workshop designed to help you look at your assumptions and inner patterns, moving you from reactivity toward steadiness and emotional responsibility.What is Stories of Hope?We are a community-led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities, from mental well-being to personal growth, with empathy and shared human connection.What to ExpectPattern Recognition: Explore how common emotional triggers and ego-driven patterns shape conflicts in marriage, family, or work.Internal Focus: Instead of trying to fix others, we gently shift the focus inward to understand our own interpretations and responses.Practical Tools: Learn actionable ways to question stressful thoughts and practice perspective shifts using real-life scenarios.Safe Exploration: A supportive, non-judgmental environment for honest discussion. This is a space for learning and reflection, not a lecture or therapy.Key TakeawaysClarity: Gain a deeper understanding of recurring relationship dynamics.Responsiveness: Walk away with tools to help you respond thoughtfully instead of reacting impulsively.Emotional Ownership: Build the internal steadiness needed to navigate life without requiring others to change first.Details\ud83d\uddd3\ufe0f Date: 30th August (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Joaah Cafe",
     "startDate": "2026-08-30T11:30:00+05:30",
@@ -2252,6 +2214,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Dunk Like A Girl",
+    "description": "SWAG's first-ever Basketball Session is here!Grab your sneakers and bring your best energy - it's time for Dunk Like A Girl \ud83c\udff8\u2728, a women-only basketball meet-up where the only goal is to have fun.Whether you've played before or you're trying basketball for the first time, everyone is welcome. We'll play easy games, cheer each other on, and enjoy an hour full of movement, fun, and good vibes.So if you've been looking for an excuse to get back on the court (or step onto one for the first time), this is it.Come solo or with your girls - you'll leave with a great workout, a few new friends, and probably plans for a rematch.",
+    "startDate": "2026-09-03T20:00:00+05:30",
+    "endDate": "2026-09-27T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Sportyzo Badminton Academy, Emaar emerald hills, Golf Course Ext Rd, opposite Ivory Block, Sector 65, Gurugram, Haryana 122011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40465650000000000000",
+        "longitude": "77.07401440000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "199.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/dunk-like-a-girl",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Fruit Preserves: Jams and Chutneys",
     "description": "Let's make the most of stone-fruit season; let's make Plum Jam and Apricot Chutney.Join Anita in her kitchen to master making Jams and Chutneys with what's in season. The methods and techniques learned in the class can be adapted to other fruits in season to create an endless supply of homemade preserves.You go home with a goodie bag with 2 jars of the fruit preserves. Stay back for a round of dessert - something plum!250+ workshops and counting! Anita is a practicing Landscape Architect who enjoys cooking. Her Home and Garden exemplify sustainable living. Like-minded people join her in the kitchen on weekends to cook and eat. Come for jam, stay for the party!",
@@ -2406,6 +2406,82 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
+    "name": "Hot Girls Do Pilates | Gurugram",
+    "description": "Let\u2019s make your Sunday morning extra feel-good with Hot Girls Do Pilates, a guided mat pilates experience by SWAG x Ambience MallCome and feel fitter in the company of like-minded women, and stay back for a quick breakfast at Kenangan. And not to forget Goodies by Hyeglo Beauty.Here's the plan,We start with a Mat Pilates session.Slow down with some breath-work and meditation.Head for a quick Coffee & Brekkie at Kenangan.Can't wait to see you this Sunday!",
+    "startDate": "2026-09-06T10:00:00+05:30",
+    "endDate": "2026-09-19T11:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "NH-8, Ambience Island, DLF Phase 3, Sector 24, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.50487480000000000000",
+        "longitude": "77.09695940000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag60",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Hot Girls Do Pilates | Delhi",
+    "description": "Let\u2019s make your Sunday morning extra feel-good with Hot Girls Do Pilates, a guided mat pilates experience by SWAG x Ambience MallCome and feel fitter in the company of like-minded women, and stay back for a quick breakfast at Kenangan. And not to forget Goodies by Hyeglo Beauty.Here's the plan,We start with a Mat Pilates session.Slow down with some breath-work and meditation.Head for a quick Coffee & Brekkie at Kenangan.Can't wait to see you this Sunday!",
+    "startDate": "2026-09-06T10:00:00+05:30",
+    "endDate": "2026-09-19T11:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "NH-8, Ambience Island, DLF Phase 3, Sector 24, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.50487480000000000000",
+        "longitude": "77.09695940000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag52",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
     "name": "Bushcraft Workshop",
     "description": "\ud83c\udf32 Bushcraft Workshop: Unleash Your Inner Wilderness Survivor at Forest Spirit Learning, Gurgaon! \ud83d\udd25Get ready for an unforgettable adventure into the heart of nature!Join us for a\u00a0Bushcraft Workshop\u00a0at Forest Spirit Learning in Gurgaon \u2014 a thrilling 4-hour immersion where you'll master essential survival skills, reconnect with the wild, and have a blast doing it. Perfect for adventure seekers of all ages\u00a0\u2014 kids, families, teens, and adults \u2014 this program turns the forest into your ultimate playground.Why This Workshop Will Be Epic:We'll keep it intimate and high-quality with a maximum of just 15 participants so everyone gets personalized guidance from experienced instructors.No crowds, just pure focus on fun, learning, and memorable moments in the great outdoors.Highlights of the Adventure:- Master Fire Starting\u00a0\u2014 Learn ancient techniques to spark a roaring bonfire from scratch (even in tricky conditions!).- Pure Water Mastery\u00a0\u2014 Filter and purify water like a true survivor.- Shelter Building\u00a0\u2014 Pitch a tent and construct emergency natural shelters.- Knot Mastery\u00a0\u2014 Tie essential knots that hold strong in any situation.- Emergency Signalling\u00a0\u2014 Master ways to call for help and stay safe.- Bonfire Feast\u00a0\u2014 Cook delicious potatoes right in the glowing embers \u2014 nothing tastes better than forest-cooked food!- First Aid Basics\u00a0\u2014 Quick, practical skills to handle minor injuries in the wild.Additional Exciting Activities We'll Include:- Foraging for safe, edible plants and natural resources.- Wildlife tracking and reading nature's signs.- Building simple tools or natural cordage from the environment.- Basic navigation using the sun, stars, and landmarks.By the end, you'll feel empowered, confident, and deeply connected to the forest!Duration: 4 hours of pure excitement.\u00a0\u00a0Refreshments: We'll provide light snacks, drinks, and post-activity treats to keep your energy high.What to Bring: Comfortable outdoor clothes, sturdy shoes, a water bottle, sunscreen/insect repellent, and your sense of adventure.We strongly encourage you to bring your own survival bag/kit if you have one \u2014 we'll review and enhance it together!Essential Items for Your Survival Bag/KitHere's a recommended starter list for a compact, effective bushcraft/survival kit (pack light but smart):- Fire-starting tools\u00a0\u2014 Lighter/matches, ferro rod, tinder (cotton balls, dry bark, etc.).- Knife\u00a0\u2014 A sturdy fixed-blade bushcraft knife (with sheath).- Water purification\u00a0\u2014 Tablets, filter straw, or small pot for boiling.- Cordage\u00a0\u2014 Paracord or natural rope (at least 10-15 meters).- Shelter\u00a0\u2014 Lightweight tarp, emergency blanket, or small tent.- First Aid\u00a0\u2014 Basic kit with bandages, antiseptic, tweezers, pain relief, and personal meds.- Navigation\u00a0\u2014 Compass, small map/whistle, signal mirror.- Multi-tool- Food/Water\u00a0\u2014 Energy bars, reusable container.- Extra\u00a0\u2014 Headlamp/flashlight with batteries, gloves, notepad/pen, trash bag (leave no trace!).We'll provide a full printable checklist when you register.Pricing \u20b92,099 per person (including all materials, instruction, refreshments, and a take-home bushcraft tip sheet). This pricing reflects our commitment to quality instruction, safe equipment, and a premium intimate experience in a beautiful natural setting.Early bird or group discounts may apply for families registering together.Spots are strictly limited to 15 \u2014 secure yours now before they vanish! This is more than just a workshop; it's a transformative adventure that will leave you inspired, skilled, and craving more time in the wild.Ready to awaken your inner survivor?Forest Spirit Learning \u2013 Where Nature Teaches Best. \ud83c\udf3f\ud83d\udd25See you under the trees! \ud83c\udfd5\ufe0f",
     "startDate": "2026-09-06T14:00:00+05:30",
@@ -2437,6 +2513,43 @@
     "keywords": [
       "Workshop",
       "Eco Friendly",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Cricket w SWAG | Gurugram",
+    "description": "hellooo",
+    "startDate": "2026-09-12T18:00:00+05:30",
+    "endDate": "2026-09-12T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Sportyzo Badminton Academy, Emaar emerald hills, Golf Course Ext Rd, opposite Ivory Block, Sector 65, Gurugram, Haryana 122011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40465650000000000000",
+        "longitude": "77.07401440000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "199.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/cricket-w-swag",
+    "keywords": [
+      "Wellness",
+      "Active",
       "URBANAUT"
     ]
   },
@@ -2591,6 +2704,82 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "BADDY WITH BADDIES | GK 1",
+    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.5:50 PM Meet up and Warm up Time6:00 PM Game TimeSee you on court!",
+    "startDate": "2026-09-13T18:00:00+05:30",
+    "endDate": "2026-09-27T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Nandi Vithi Rd, N Block, Greater Kailash I, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55579910000000000000",
+        "longitude": "77.23527080000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "295.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag57",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Dunk Like A Girl | GK1",
+    "description": "SWAG's first-ever Basketball Session is here!Grab your sneakers and bring your best energy - it's time for Dunk Like A Girl \ud83c\udff8\u2728, a women-only basketball meet-up where the only goal is to have fun.Whether you've played before or you're trying basketball for the first time, everyone is welcome. We'll play easy games, cheer each other on, and enjoy an hour full of movement, fun, and good vibes.So if you've been looking for an excuse to get back on the court (or step onto one for the first time), this is it.Come solo or with your girls - you'll leave with a great workout, a few new friends, and probably plans for a rematch.",
+    "startDate": "2026-09-13T18:00:00+05:30",
+    "endDate": "2026-09-27T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Nandi Vithi Rd, N Block, Greater Kailash I, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55579910000000000000",
+        "longitude": "77.23527080000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "199.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag56",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Where the Rain comes alive: Hauz-e-shamsi",
     "description": "Explore the Hidden Summer Palace of the MughalsDiscover a lesser-known chapter of Delhi's history on a guided heritage walk through the historic summer retreat of the Mughal era in Mehrauli.Explore the historic fort complex, admire its ancient water reservoir, and learn about the water systems, gardens, architecture, and traditions that once shaped this remarkable heritage site. Through engaging storytelling, uncover the forgotten history of the palace and its connection with Delhi's rich cultural past.Experience an offbeat heritage trail and discover a fascinating side of Mehrauli.Places Covered1 Mughal-era Summer Palace2 Historic Fort Complex3 Ancient Water Reservoir4 Remains of the Orchard Gardens5 Heritage Structures within the Complex",
     "startDate": "2026-09-19T16:00:00+05:30",
@@ -2661,6 +2850,120 @@
       "Adventure",
       "Premium",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Play Like A Girl | Sports Day",
+    "description": "SWAG girls, this one's for you! We want to turn this Friendship Day into the ultimate girls' playdate!We'll kick things off with a feel-good 3 KM Community Run, through Lodhi Gardens before heading to The Blue Court for an evening full of play! Pick up a shuttle, grab the paddle or swing the bat. Pickleball, Cricket, Badminton, we are playing it all! Just like old times...It's Friendship Day, of course we have a buddy pass, challenges you can win with your friends and much more! Eprise drinks will be there to keep you hydrated!Coming solo? It's the best place to make new friends.No pressure. No judgement. Just a bunch of SWAG Girlies showing up, laughing through the misses, celebrating the wins, and creating memories!Here's the game plan:5:00 PM \u2013 Meet at Athula Bridge, Lodhi Garden.5:10 PM \u2013 Warm-up5:20 PM \u2013 3 KM run through Lodhi Garden (ending at The Blue Court, DTEA Senior Secondary School, Lodhi Estate)6:00 PM \u2013 Cool down6 - 7 PM \u2013 Badminton & Pickleball6 \u2013 7:30 PM \u2013 Cricket7 - 7:30 PM - Buddy ChallengesCome solo or with your girls. This isn't just another sports meet-up. It's a SWAG exclusive -made for women who are ready to play, cheer, and have way too much fun doing it.",
+    "startDate": "2026-09-20T09:00:00+05:30",
+    "endDate": "2026-09-20T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Lodhi Rd, Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59309590000000000000",
+        "longitude": "77.21967939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag51",
+    "keywords": [
+      "Adventure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Run Like A Girl",
+    "description": "RUN LIKE A GIRL!We are starting this weekend with an adrenaline rush. So, we have a 3 Km beginner friendly run and a coffee (coffee and snacks on us) rave after at Blue Tokai Ambience Mall, Gurgaon. Your ticket includes access to the run, cardio dance session, a coffee at Blue Tokai + Sandwich, post run rave, and some protein yogurt popsicles by Frozen Fun. Here's the detailed plan: 7:00 - We meet outside Ambience Mall Gurgaon - outside Paul's7:15 - Cardio Dance session (bollywood songs, ofc)7:35 - Run Time (a 3km loop outside Ambience Mall)8:15 - Coffee and Dance Rave! & Fitness Challenges\u0915\u094d\u092f\u093e \u0906\u092a convince \u0939\u094b \u0917\u090f \u092f\u093e \u092e\u0948\u0902 \u0914\u0930 \u092c\u094b\u0932\u0942\u0901?",
+    "startDate": "2026-09-20T17:00:00+05:30",
+    "endDate": "2026-09-20T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "NH-8, Ambience Island, DLF Phase 3, Sector 24, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.50487480000000000000",
+        "longitude": "77.09695940000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "249.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag58",
+    "keywords": [
+      "Adventure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Beyond the Bar",
+    "description": "helloooo",
+    "startDate": "2026-09-26T09:00:00+05:30",
+    "endDate": "2026-09-26T11:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Lodhi Rd, Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59309590000000000000",
+        "longitude": "77.21967939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "349.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/beyond-the-bar",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Active",
       "URBANAUT"
     ]
   },
