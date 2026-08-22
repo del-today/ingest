@@ -150,116 +150,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Mehrauli: The First City of Dehli",
-    "description": "One of the oldest inhabited places in the subcontinent, Mehrauli is rich in historical ruins, tombs, and other monuments from many eras of Delhi\u2019s past \u2014from the pre-Islamic to the late Mughal and colonial periods. This trail will take you through a thrilling journey accompanied by an exciting session of storytelling around the history and myths of one of Delhi\u2019s oldest cities. This walking tour, led by Shah Umair, explores parts of Mehrauli hidden from the crowds at Qutub Minar, walking through the history of almost a thousand years.The walk will be held inside the archeological park we will not venture into Mehrauli Village for Dargah and Zafar Mahal",
-    "startDate": "2026-08-22T17:00:00+05:30",
-    "endDate": "2026-08-22T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Anuvrat Marg Opposite Qutub Minar Metro Station, G5CQ+33M, Christian Colony, Mehrauli, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52020409999999000000",
-        "longitude": "77.18767900000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "354.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sikkawala",
-      "url": "https://urbanaut.app/partner/sikkawala"
-    },
-    "url": "https://urbanaut.app/spot/mehraulipark",
-    "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "The Downstairs x GL: Indo-Viet Supper Club Salon",
-    "description": "Gully Labs \u00d7 The Downstairs Sessions.Join us on August 22nd at Gully Labs, Baithak, for an evening of cross-cultural flavor, wine, and conversation. We\u2019re opening our space for 30\u201340 guests to gather, connect, and break bread over a curated menu celebrating the vibrant, aromatic cuisines of Indonesia and Vietnam.Designed as an intimate salon, the night offers a warm, open setting to enjoy great food, engage in unhurried chats, and share ideas with a like-minded crowd.Come hungry, leave inspired. Seats are limited to maintain an intimate atmosphere.",
-    "startDate": "2026-08-22T19:00:00+05:30",
-    "endDate": "2026-08-22T21:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54778550000000000000",
-        "longitude": "77.21136729999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1260.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Gully Labs",
-      "url": "https://urbanaut.app/partner/baithak"
-    },
-    "url": "https://urbanaut.app/spot/thedownstairssupperclub",
-    "keywords": [
-      "Leisure",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Fireflies Workshop 22/8",
-    "description": "\ud83c\udf1f Join Us for an Enchanting Evening: Fireflies at Hauz Khas \ud83c\udf1fPrepare to be mesmerized by one of nature\u2019s most magical displays! New Delhi Nature Society is thrilled to invite you to an exclusive event that promises to light up your senses and spark your curiosity.As twilight descends upon the charming and historic Hauz Khas area, we will guide you to a secret location where fireflies dance in the night, creating a breathtaking spectacle of bioluminescence. This hidden gem offers an intimate and serene setting for you to witness this enchanting natural phenomenon.What to Expect:\u2728 Guided Firefly Tour \u2013 Learn about these fascinating creatures and their ecological significance.\ud83c\udf3f Nature Walk \u2013 Immerse yourself in the beauty of the surroundings as night falls. \ud83c\udf42 What to Bring:Comfortable walking shoesA camera (without flash) to capture the momentA sense of wonder and curiosityWater bottleImportant Note: Due to the sensitive nature of the event location, exact details will be provided only upon confirmation of your attendance. Space is limited, so please secure your spot quickly.Don\u2019t miss this opportunity to experience the magic of fireflies in one of Delhi\u2019s most enchanting locations. We look forward to sharing this unforgettable night with you!",
-    "startDate": "2026-08-22T19:30:00+05:30",
-    "endDate": "2026-08-22T20:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "354, Hauz Khas Tank, Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55434890000000000000",
-        "longitude": "77.19554660000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "350.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "New Delhi Nature Society",
-      "url": "https://urbanaut.app/partner/new-delhi-nature-society-312"
-    },
-    "url": "https://urbanaut.app/spot/fireflies-workshop-15304",
-    "keywords": [
-      "Workshop",
-      "Walking Tour",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Plantation Drive",
     "description": "Come join us for a plantation drive in Delhi. Our city is one of the most polluted cities in the world, with nothing bringing relief to its people and other organisms. The drive will focus on native and climate-resilient species carefully chosen for Delhi\u2019s conditions. Saplings will be planted alongside flowering shrubs and understorey plants that support birds, butterflies, and pollinators. These trees have been selected for their ability to filter particulate matter, absorb pollutants, and release oxygen, directly helping combat the city\u2019s air-quality challenges.This planned plantation is to expand green cover, improve air quality, soften the city\u2019s hard edges with shade, and create living spaces where people and wildlife can thrive together. As the saplings take root in the months ahead, they will stand as growing promises of cleaner air, cooler streets, and a richer natural heritage for the capital.",
@@ -616,7 +506,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "249.00",
+      "price": "199.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -687,7 +577,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "599.00",
+      "price": "999.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -1433,6 +1323,45 @@
     },
     "url": "https://urbanaut.app/spot/decoding-the-unspoken-through-body-language",
     "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Story Spotting - With a Bollywood Screenwriter",
+    "description": "What to expect:* How to spot a story in everyday life* What makes some stories stick and others disappear* Behind-the-scenes stories from movies and advertising* How memorable characters are built* Ads and movie scenes, broken down live* Stories and anecdotes from Ankur\u2019s own journey* Audience activities that put you in the storyteller\u2019s seat* A chance to find and shape a story of your own* Plenty of questions, banter and back-and-forth with Ankur",
+    "startDate": "2026-08-29T17:30:00+05:30",
+    "endDate": "2026-08-29T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "2nd Floor M, Part-Il Market, 63, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53342780000000000000",
+        "longitude": "77.24401089999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "350.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Story Spotting -  An evening with a Bollywood Screenwriter",
+      "url": "https://urbanaut.app/partner/story-spotting-an-evening-with-a-bollywood-screenwriter"
+    },
+    "url": "https://urbanaut.app/spot/story-spotting-with-ankur",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Workshop",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -2330,6 +2259,45 @@
       "Wellness",
       "Workshop",
       "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Telepathic Animal & Nature Communication- An Intro",
+    "description": "The ones whom we consider voiceless have the strongest voice. Every animal and forms of nature have a purpose of being in our lives. Through this Introductory Workshop on Telepathic Animal and Nature Communication, we dive into the realm of Beings of the Universe who speak, hear, reciprocate and contribute to the evolution of all humans and nature alike.This workshop evokes the individual's intuitive abilities by invoking the Higher Consciousness and learn to communicate with animals, plants, landscapes and all beings.A short stitched workshop happening on Sunday 6th September, 2026 via zoom online.Note: This workshop is for individuals who wish to learn Telepathic Communication for personal purposes and not professional communication.",
+    "startDate": "2026-09-06T10:30:00+05:30",
+    "endDate": "2026-09-06T14:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.70405920000000000000",
+        "longitude": "77.10249019999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "HealThroughNature-HTN",
+      "url": "https://urbanaut.app/partner/healthroughnature-htn"
+    },
+    "url": "https://urbanaut.app/spot/telepathic-animal-nature-communication-an-intro",
+    "keywords": [
+      "Virtual",
+      "Wellness",
+      "Workshop",
+      "Eco Friendly",
       "URBANAUT"
     ]
   },
