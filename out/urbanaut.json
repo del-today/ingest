@@ -4,7 +4,7 @@
     "@type": "Event",
     "name": "Kathika Cultural Experience",
     "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
-    "startDate": "2026-08-22T11:30:00+05:30",
+    "startDate": "2026-08-23T11:30:00+05:30",
     "endDate": "2026-08-31T14:00:00+05:30",
     "location": {
       "@type": "Place",
@@ -42,7 +42,7 @@
     "@type": "FoodEvent",
     "name": "Onam Sadhya by Chef Kartik x Cocobay",
     "description": "Celebrate Onam with an Authentic Sadhya at CocobayGet ready to indulge in the rich, traditional flavors of Kerala this festive season! In anticipation of Onam, Cocobay South Indian Cafe brings you a thoughtfully curated Onam Sadhya experience designed by Chef Kartik. Served on a vibrant banana leaf, this grand feast features an array of authentic preparations\u2014from crispy banana chips and savory side dishes to aromatic rice and comforting payasam\u2014crafted to capture the true spirit of togetherness and celebration.A Culinary Journey in GurgaonWhether you are hosting family or enjoying a preview feast with friends, join us at our new location on Golf Course Road to savor every bit of this seasonal specialty. Available for a limited time from August 14th to 16th at \u20b9995 (+GST) per person, with convenient delivery options right to your doorstep. Space is limited for this special festive preview\u2014reserve your meal early and celebrate Onam with the timeless taste of home!",
-    "startDate": "2026-08-22T11:30:00+05:30",
+    "startDate": "2026-08-23T11:30:00+05:30",
     "endDate": "2026-08-28T21:30:00+05:30",
     "location": {
       "@type": "Place",
@@ -71,271 +71,6 @@
     "keywords": [
       "Festival",
       "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Latin American Supper Club Brunch",
-    "description": "Welcome to V\u2019s Supper Stories, Supper Club \u2014 where food is slow, stories are shared, and the table is the experience.This isn\u2019t a restaurant. It\u2019s a quiet corner of Saket, New Delhi, where once a week, 12\u201314 guests gather around one long table. No menus in hand. No loud music. Just seasonally inspired dishes, soft conversation, and the kind of atmosphere you remember long after dessert.Every edition of V\u2019s Supper Stories is rooted in a different mood \u2014 a story told through ingredients, plating, and pacing. Come solo or a +1. Come curious. Come for the quiet joy of a meal made with care.The exact address is shared 24 hours before, because the feeling of discovery is part of what makes it special.Follow along at @vsupperstories for glimpses of the table, the food, and the people who bring it to life.",
-    "startDate": "2026-08-22T12:30:00+05:30",
-    "endDate": "2026-08-23T15:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Saket, New Delhi, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52209710000000000000",
-        "longitude": "77.21015340000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3100.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "V's Supper Stories",
-      "url": "https://urbanaut.app/partner/vsupperstories"
-    },
-    "url": "https://urbanaut.app/spot/latinamericanbrunch",
-    "keywords": [
-      "Local",
-      "Premium",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Onam Sadhya at Padmanabham | Gurgaon",
-    "description": "Experience the warmth of Kerala's most celebrated festival with Padmanabham's 5th Edition of Onam Sadhya in Delhi.Served traditionally on a banana leaf, the Sadhya is a wholesome vegetarian feast featuring 30 authentic Kerala delicacies, carefully prepared to celebrate the spirit of Onam. More than just a meal, Sadhya reflects Kerala's rich culinary heritage, bringing together a balanced combination of flavours, nutrition, and age-old traditions. For generations, eating a Sadhya has been about more than food - it's about sharing a festive meal with family and friends while celebrating community and gratitude. In Kerala, there's even a popular saying:\"Kaanam Vittum Onam Unnanam\" \u2014 \"Even if you have to sell your property, never miss the Onam feast.\"Important Information:Rs. 1047 is the price per person. Govt. Taxes extra, as applicable. Sharing is not allowed.30 vegetarian dishes are served on a banana leaf.An advance per person is required to pre-reserve your table. This amount is non-refundable, non-encashable, and non-transferable. This amount will be adjusted against your final bill.There might be sharing of tables during peak hours.Prior booking is recommended at least 1 hour in advance. Guests may experience waiting time at the restaurant during busy hours or on event days, and the restaurant will not be liable for any delays.We hold the table for up to 15 minutes. After that, it will be considered a no-show.This voucher is valid only at that location and on that date/time. It cannot be transferred to another date/time or location.The voucher is valid only for Onam Sadhya.Each voucher can be redeemed only once.A 10% voluntary service charge will be applicable.This voucher is not valid for/on home delivery, take-away, or packed orders.No other discounts, offers or promotions from any third-party platforms will be applicable with this voucher.Guests are requested to inform the restaurant in advance of this booking before visiting to ensure a smooth dining experience.",
-    "startDate": "2026-08-22T15:00:00+05:30",
-    "endDate": "2026-08-26T23:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Iris Broadway, Sector 85, Gurugram, Haryana 122012, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.40366890000000000000",
-        "longitude": "76.94792220000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1047.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Padmanabham",
-      "url": "https://urbanaut.app/partner/padmanabham"
-    },
-    "url": "https://urbanaut.app/spot/onamsadhyatpadmanabhamgurgaon",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Plantation Drive",
-    "description": "Come join us for a plantation drive in Delhi. Our city is one of the most polluted cities in the world, with nothing bringing relief to its people and other organisms. The drive will focus on native and climate-resilient species carefully chosen for Delhi\u2019s conditions. Saplings will be planted alongside flowering shrubs and understorey plants that support birds, butterflies, and pollinators. These trees have been selected for their ability to filter particulate matter, absorb pollutants, and release oxygen, directly helping combat the city\u2019s air-quality challenges.This planned plantation is to expand green cover, improve air quality, soften the city\u2019s hard edges with shade, and create living spaces where people and wildlife can thrive together. As the saplings take root in the months ahead, they will stand as growing promises of cleaner air, cooler streets, and a richer natural heritage for the capital.",
-    "startDate": "2026-08-23T07:30:00+05:30",
-    "endDate": "2026-08-23T09:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "G76H+5G9, CH Ganga Baksh Marg, Tughlaqabad Village, Tughlakabad, New Delhi, Delhi 110044, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.51042470000000000000",
-        "longitude": "77.27887070000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "50.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "New Delhi Nature Society",
-      "url": "https://urbanaut.app/partner/new-delhi-nature-society-312"
-    },
-    "url": "https://urbanaut.app/spot/plantation-drive-15791",
-    "keywords": [
-      "Workshop",
-      "Eco Friendly",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Old Delhi Heritage Walk",
-    "description": "Old Delhi is best discovered on foot \u2014 one street, one shrine, one bazaar, and one story at a time.Join Jibin George on a walk through the many worlds that coexist within Old Delhi. From its bustling bazaars to its quieter corners, discover a neighbourhood where history lives not just in monuments, but in everyday life.Sunday, August 23rd at 8 AM, starting from Chor Bizarre, followed by breakfast.",
-    "startDate": "2026-08-23T08:00:00+05:30",
-    "endDate": "2026-08-23T09:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Hotel Broadway, 4/15A, Asaf Ali Rd, Old Delhi, Chatta lal Miya, Chandni Mahal, Chandni Chowk, Delhi, New Delhi, Delhi 110002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.64105660000000000000",
-        "longitude": "77.23791410000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "787.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Chor Bizarre",
-      "url": "https://urbanaut.app/partner/chor-bizarre"
-    },
-    "url": "https://urbanaut.app/spot/old-delhi-heritage-walk",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Quiet Grandeur: Tales of Trees and Tombs",
-    "description": "Sunder Nursery is easily one of the most soul-soothing spots in Delhi\u2014it\u2019s that perfect mix of Mughal grandeur and lush botany. Beyond the manicured lawns of Sunder Nursery lies a 16th-century saga waiting to be told. Join us for a heritage walk, where we swap the city noise for tales of Mughal architecture, restored grandeur, and the secrets of the trees & monuments that stood the test of time. As the monsoon rains wash over Delhi, step into a living tapestry where history and nature breathe as one. On this walk, we will wander through Delhi\u2019s premier arboretum and its UNESCO World Heritage Monuments, alive with the earthy scent of wet soil and water channels. This walk is supported by SeasonWatch, as part of their August Tree Festival.There is no walk fee for children below 12 years old.",
-    "startDate": "2026-08-23T08:00:00+05:30",
-    "endDate": "2026-08-23T09:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Bharat Scouts and Guides Marg, opposite Humayun Tomb Park, Nizamuddin, Hazrat Nizamuddin, National Zoological Park, Sundar Nagar, New Delhi, Delhi 110013, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59564670000000000000",
-        "longitude": "77.24516910000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Mera \u0936\u0939\u0930 \u2013 My City Walks",
-      "url": "https://urbanaut.app/partner/merasheharmycitywalks"
-    },
-    "url": "https://urbanaut.app/spot/the-quiet-grandeur-tales-of-trees-and-tombs-15617",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Sacred Footsteps : Sufi Trails of Mehrauli",
-    "description": "Step into the mystical lanes and forgotten ruins of Mehrauli and the enchanting Mehrauli Archaeological Park through the lens of Sufism.Sacred Footsteps: Sufi trails \ud83d\udc63 of MehrauliJoin us for a deeply immersive heritage walk where history, spirituality, poetry, and love legends intertwine. Together, we will explore medieval ruins, hidden stories, sacred spaces, and the Sufi imagination that once shaped the soul of Mehrauli.Curated by Darwesh Heritage Walks, in collaboration with Sabhyata Foundation.Along the way, we will also revisit the timeless love legend of Sohni -Mahiwal through a Sufi lens \u2014 not merely as a romance, but as a metaphor for divine longing & surrender.The walk will conclude with a visit to a living Sufi space where we reflect upon the continuing spiritual traditions that still breathe within Mehrauli today.\ud83d\udccd Mehrauli Archaeological Park & Village\u23f0 8:00 AM onwards.Meeting point: Outside Qutub Minar ticket counter\ud83d\udcde 99 99 8 96427.(Please note: The fee being charged is not for entry into any monument or shrine . It is purely for the curated and guided storytelling experience.)",
-    "startDate": "2026-08-23T08:00:00+05:30",
-    "endDate": "2026-08-23T10:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Anuvrat Marg, opposite Qutab Minar Metro Station, Christian Colony, Mehrauli, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52020410000000000000",
-        "longitude": "77.18767900000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "800.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "DARWESH_TALEWEAVERS",
-      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
-    },
-    "url": "https://urbanaut.app/spot/mapwalk",
-    "keywords": [
-      "History & heritage",
-      "Guided tour",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Mehrauli Heritage Walk- A city within city!",
-    "description": "Mehrauli is Delhi\u2019s oldest continuously lived-in neighbourhood, often called a \u201ccity within a city.\u201d This 1\u20131.5 hour walk takes you through its narrow lanes, hidden tombs, stepwells and bustling bazaars to tell the story of 1,000 years of Delhi in one trail.Led by an architect\u2013urban designer, the walk blends history with everyday life: you\u2019ll see Sufi shrines, Sultanate-era ruins and Mughal monuments alongside local homes, shops and street corners that still carry old stories. The focus is on simple, visual storytelling rather than heavy lectures, making it suitable for first-time walkers, families and curious city explorers.",
-    "startDate": "2026-08-23T08:30:00+05:30",
-    "endDate": "2026-08-23T10:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Mehrauli, New Delhi, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52048820000000000000",
-        "longitude": "77.17868690000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "350.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Riwayat Walks",
-      "url": "https://urbanaut.app/partner/riwayatwalks"
-    },
-    "url": "https://urbanaut.app/spot/mehrauli-heritage-walk-a-city-within-city-15945",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
       "URBANAUT"
     ]
   },
@@ -372,6 +107,80 @@
     "url": "https://urbanaut.app/spot/overthinkers-anonymous",
     "keywords": [
       "Wellness",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Onam Sadhya at Padmanabham | Gurgaon",
+    "description": "Experience the warmth of Kerala's most celebrated festival with Padmanabham's 5th Edition of Onam Sadhya in Delhi.Served traditionally on a banana leaf, the Sadhya is a wholesome vegetarian feast featuring 30 authentic Kerala delicacies, carefully prepared to celebrate the spirit of Onam. More than just a meal, Sadhya reflects Kerala's rich culinary heritage, bringing together a balanced combination of flavours, nutrition, and age-old traditions. For generations, eating a Sadhya has been about more than food - it's about sharing a festive meal with family and friends while celebrating community and gratitude. In Kerala, there's even a popular saying:\"Kaanam Vittum Onam Unnanam\" \u2014 \"Even if you have to sell your property, never miss the Onam feast.\"Important Information:Rs. 1047 is the price per person. Govt. Taxes extra, as applicable. Sharing is not allowed.30 vegetarian dishes are served on a banana leaf.An advance per person is required to pre-reserve your table. This amount is non-refundable, non-encashable, and non-transferable. This amount will be adjusted against your final bill.There might be sharing of tables during peak hours.Prior booking is recommended at least 1 hour in advance. Guests may experience waiting time at the restaurant during busy hours or on event days, and the restaurant will not be liable for any delays.We hold the table for up to 15 minutes. After that, it will be considered a no-show.This voucher is valid only at that location and on that date/time. It cannot be transferred to another date/time or location.The voucher is valid only for Onam Sadhya.Each voucher can be redeemed only once.A 10% voluntary service charge will be applicable.This voucher is not valid for/on home delivery, take-away, or packed orders.No other discounts, offers or promotions from any third-party platforms will be applicable with this voucher.Guests are requested to inform the restaurant in advance of this booking before visiting to ensure a smooth dining experience.",
+    "startDate": "2026-08-23T12:00:00+05:30",
+    "endDate": "2026-08-26T23:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Iris Broadway, Sector 85, Gurugram, Haryana 122012, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40366890000000000000",
+        "longitude": "76.94792220000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1047.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Padmanabham",
+      "url": "https://urbanaut.app/partner/padmanabham"
+    },
+    "url": "https://urbanaut.app/spot/onamsadhyatpadmanabhamgurgaon",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Latin American Supper Club Brunch",
+    "description": "Welcome to V\u2019s Supper Stories, Supper Club \u2014 where food is slow, stories are shared, and the table is the experience.This isn\u2019t a restaurant. It\u2019s a quiet corner of Saket, New Delhi, where once a week, 12\u201314 guests gather around one long table. No menus in hand. No loud music. Just seasonally inspired dishes, soft conversation, and the kind of atmosphere you remember long after dessert.Every edition of V\u2019s Supper Stories is rooted in a different mood \u2014 a story told through ingredients, plating, and pacing. Come solo or a +1. Come curious. Come for the quiet joy of a meal made with care.The exact address is shared 24 hours before, because the feeling of discovery is part of what makes it special.Follow along at @vsupperstories for glimpses of the table, the food, and the people who bring it to life.",
+    "startDate": "2026-08-23T12:30:00+05:30",
+    "endDate": "2026-08-23T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Saket, New Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52209710000000000000",
+        "longitude": "77.21015340000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3100.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "V's Supper Stories",
+      "url": "https://urbanaut.app/partner/vsupperstories"
+    },
+    "url": "https://urbanaut.app/spot/latinamericanbrunch",
+    "keywords": [
+      "Local",
+      "Premium",
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -702,43 +511,6 @@
       "Walking Tour",
       "Food & drink",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Raat ke Afsane : Safdarjung Tomb",
-    "description": "Safdarjung Tomb Walk: Stories After SunsetA guided heritage walk through the Safdarjung Tomb complex exploring the history, architecture and cultural significance of one of the last grand monuments of the Mughal era in Delhi.The walk highlights the transition from late Mughal power to emerging regional influences and explores the political, cultural and artistic context in which the monument was built. Participants will learn about its architecture, design elements and historical importance in Delhi\u2019s heritage landscape.The experience is conducted during the evening, allowing participants to view the monument in a calm and atmospheric setting while engaging with its history through guided storytelling.Language of communication is Hindi and English.",
-    "startDate": "2026-08-23T17:30:00+05:30",
-    "endDate": "2026-09-06T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Airforce Golf Course, Delhi Race Club, New Delhi, Delhi 110003, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.58941560000000000000",
-        "longitude": "77.21062190000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "650.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Enroute Indian History",
-      "url": "https://urbanaut.app/partner/enrouteindianhistory"
-    },
-    "url": "https://urbanaut.app/spot/heritage-walk-safdarjung-tomb-raat-ke-afsane",
-    "keywords": [
-      "History & heritage",
-      "Guided tour",
       "URBANAUT"
     ]
   },
