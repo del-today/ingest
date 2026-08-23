@@ -73,7 +73,7 @@
     "url": "https://fillum.in/event/6055",
     "startDate": "2026-08-23T15:00:00+05:30",
     "endDate": "2026-08-23T15:00:00+05:30",
-    "description": "- The screening will take place at a private residence, so the seating will be mixed - a blend of sofas, chairs, and carpet seating. But we will make sure everyone is comfortable throughout the scre..more",
+    "description": "registration closed",
     "location": {
       "@type": "Place",
       "name": "Jangpura",
@@ -99,6 +99,57 @@
     "organizer": {
       "@type": "Organization",
       "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Swaha (In the Name of Fire)(2024)",
+    "url": "https://fillum.in/screening/5970",
+    "startDate": "2026-08-25T18:30:00+05:30",
+    "endDate": "2026-08-25T18:30:00+05:30",
+    "description": "Free entry. Open to all.",
+    "location": {
+      "@type": "Place",
+      "name": "IIC Annexe - Lecture Room I",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "India International Centre"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Emma'(2016)",
+    "url": "https://fillum.in/screening/5985",
+    "startDate": "2026-08-27T18:00:00+05:30",
+    "endDate": "2026-08-27T18:00:00+05:30",
+    "description": "As part of Indonesian Film Festival 2026 (Day 1)Also screening (short films):- Bong! of Womb and Tomb- Pamit Ronda (Once Upon a Night)",
+    "location": {
+      "@type": "Place",
+      "name": "India International Centre, Lodhi Estate",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fillum"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Soegija(2012)",
+    "url": "https://fillum.in/screening/5986",
+    "startDate": "2026-08-28T18:00:00+05:30",
+    "endDate": "2026-08-28T18:00:00+05:30",
+    "description": "As part of Indonesian Film Festival 2026 (Day 2)Also screening (short films):- DJUM- Gang Permai Dua",
+    "location": {
+      "@type": "Place",
+      "name": "India International Centre, Lodhi Estate",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fillum"
     }
   }
 ]
