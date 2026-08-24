@@ -996,44 +996,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Parkour & Bouldering",
-    "description": "Ready to surprise yourself?This women-only parkour session is your chance to move in ways you never thought you could - in a supportive, judgment-free space built just for you by SWAG. No experience needed. No pressure. Just you, your body, and a whole lot of fun.A coach by Delhi Rock will guide you through everything from safe landings to vaults and jumps, at a pace that works for you. You'll leave feeling stronger, braver, and a little bit unstoppable.Bring: Come in comfortable activewear and carry a water bottle.Get ready for a fun, energizing Sunday afternoon with a community of like-minded women. Just bring your energy, curiosity, and love for trying something new!The venue is in the Squash and Badminton Stadium on Siri Fort Road.",
-    "startDate": "2026-08-30T11:00:00+05:30",
-    "endDate": "2026-09-27T12:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Siri Fort, New Delhi, Delhi 110049, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55326250000000000000",
-        "longitude": "77.22100110000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "400.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag54",
-    "keywords": [
-      "Adventure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Overthinkers Anonymous - Relationships Edition",
     "description": "Overthinkers Anonymous (Relationships Editions)OverviewA space for the relationships you carry but rarely talk about. People gather to finally say the things they've held back from a parent, a partner, a coworker, an in-law, anyone they can't avoid and can't quite be honest with. Said out loud, finally.Most relationship conflicts are not just about what happened; they are about how we interpret what happened. This session focuses on exploring how our thoughts shape our connections and why friction often feels more intense than the situation warrants. \"Before You Blame\" is a reflective workshop designed to help you look at your assumptions and inner patterns, moving you from reactivity toward steadiness and emotional responsibility.What is Stories of Hope?We are a community-led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities, from mental well-being to personal growth, with empathy and shared human connection.What to ExpectPattern Recognition: Explore how common emotional triggers and ego-driven patterns shape conflicts in marriage, family, or work.Internal Focus: Instead of trying to fix others, we gently shift the focus inward to understand our own interpretations and responses.Practical Tools: Learn actionable ways to question stressful thoughts and practice perspective shifts using real-life scenarios.Safe Exploration: A supportive, non-judgmental environment for honest discussion. This is a space for learning and reflection, not a lecture or therapy.Key TakeawaysClarity: Gain a deeper understanding of recurring relationship dynamics.Responsiveness: Walk away with tools to help you respond thoughtfully instead of reacting impulsively.Emotional Ownership: Build the internal steadiness needed to navigate life without requiring others to change first.Details\ud83d\uddd3\ufe0f Date: 30th August (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Joaah Cafe",
     "startDate": "2026-08-30T11:30:00+05:30",
@@ -1327,6 +1289,42 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Slow Burn - A 4 Course Drinking Experience",
+    "description": "Tucked into a corner of Lodhi Colony, The Love Hotel is Delhi's best-kept secret \u2014 a 20-seat cocktail room that takes its cues from the love hotels of Japan. It's intimate without being intense, flirtatious without trying too hard.Slow Burn is a four-course cocktail tasting built for this room \u2014 but where most tasting menus put food at the centre, here the cocktails play hero.It begins the second you walk in with a welcome shot. From there, four cocktails unfold in sequence \u2014 each its own chapter, drawn from the same five-taste philosophy that powers The Love Hotel's acclaimed program. Every pour lands with a course of tapas alongside it.An evening where the spirit leads, and the plate follows. And with only twenty seats, the room stays intimate & exclusive.",
+    "startDate": "2026-09-03T19:00:00+05:30",
+    "endDate": "2026-09-03T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Main Market, 28, Lodhi Rd, Block 13, Lodi Colony, New Delhi, Delhi, 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.58474620000000000000",
+        "longitude": "77.22387390000002000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3200.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Love Hotel",
+      "url": "https://urbanaut.app/partner/the-love-hotel"
+    },
+    "url": "https://urbanaut.app/spot/slow-burn-martini-cocktail-tasting-menu",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Baddy with Baddies | Gurugram",
     "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.See you on court!",
@@ -1519,82 +1517,6 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "name": "Hot Girls Do Pilates | Gurugram",
-    "description": "Let\u2019s make your Sunday morning extra feel-good with Hot Girls Do Pilates, a guided mat pilates experience by SWAG x Ambience MallCome and feel fitter in the company of like-minded women, and stay back for a quick breakfast at Kenangan. And not to forget Goodies by Hyeglo Beauty.Here's the plan,We start with a Mat Pilates session.Slow down with some breath-work and meditation.Head for a quick Coffee & Brekkie at Kenangan.Can't wait to see you this Sunday!",
-    "startDate": "2026-09-06T10:00:00+05:30",
-    "endDate": "2026-09-19T11:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "NH-8, Ambience Island, DLF Phase 3, Sector 24, Gurugram, Haryana 122002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.50487480000000000000",
-        "longitude": "77.09695940000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag60",
-    "keywords": [
-      "Wellness",
-      "Workshop",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Hot Girls Do Pilates | Delhi",
-    "description": "Let\u2019s make your Sunday morning extra feel-good with Hot Girls Do Pilates, a guided mat pilates experience by SWAG x Ambience MallCome and feel fitter in the company of like-minded women, and stay back for a quick breakfast at Kenangan. And not to forget Goodies by Hyeglo Beauty.Here's the plan,We start with a Mat Pilates session.Slow down with some breath-work and meditation.Head for a quick Coffee & Brekkie at Kenangan.Can't wait to see you this Sunday!",
-    "startDate": "2026-09-06T10:00:00+05:30",
-    "endDate": "2026-09-19T11:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "NH-8, Ambience Island, DLF Phase 3, Sector 24, Gurugram, Haryana 122002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.50487480000000000000",
-        "longitude": "77.09695940000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag52",
-    "keywords": [
-      "Wellness",
-      "Workshop",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
     "name": "Telepathic Animal & Nature Communication- An Intro",
     "description": "The ones whom we consider voiceless have the strongest voice. Every animal and forms of nature have a purpose of being in our lives. Through this Introductory Workshop on Telepathic Animal and Nature Communication, we dive into the realm of Beings of the Universe who speak, hear, reciprocate and contribute to the evolution of all humans and nature alike.This workshop evokes the individual's intuitive abilities by invoking the Higher Consciousness and learn to communicate with animals, plants, landscapes and all beings.A short stitched workshop happening on Sunday 6th September, 2026 via zoom online.Note: This workshop is for individuals who wish to learn Telepathic Communication for personal purposes and not professional communication.",
     "startDate": "2026-09-06T10:30:00+05:30",
@@ -1628,6 +1550,42 @@
       "Wellness",
       "Workshop",
       "Eco Friendly",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Floral Workshop",
+    "description": "A slow Sunday morning with flowers in your hands.\u00a0Serenai began with a simple idea that we all need a moment to breathe. In a city that never really slows down, we wanted to build a space where people could put their phones away, work with their hands, and just be present for an hour or so. This isn\u2019t just a workshop, it\u2019s a small ritual in stillness, in community, in coming back to yourself, one bloom at a time.\ud83d\udccd Siyah ArtHouse\ud83d\uddd3\ufe0f Sunday, September 6th\ud83d\udd5b 12:00 PM \u2013 1:30 PMSeats are limited to keep the circle small and intimate \u2014 reserve yours today.",
+    "startDate": "2026-09-06T12:00:00+05:30",
+    "endDate": "2026-09-06T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Siyah Arthouse, 3rd Floor 261, Plot 8, Westend Marg, Saidulajab, Saket, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.51653950000000000000",
+        "longitude": "77.19738550000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Serenai",
+      "url": null
+    },
+    "url": "https://urbanaut.app/spot/floral-workshop",
+    "keywords": [
+      "Workshop",
       "URBANAUT"
     ]
   },
@@ -1671,37 +1629,38 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Cricket w SWAG | Gurugram",
-    "description": "hellooo",
-    "startDate": "2026-09-12T18:00:00+05:30",
-    "endDate": "2026-09-12T19:00:00+05:30",
+    "name": "From Thrones to Tricolor: The Journey of Red Fort",
+    "description": "Step into the heart of the Mughal Empire with a guided tour of the Red Fort (Lal Qila), a UNESCO World Heritage site that stands as a symbol of India\u2019s sovereignty. Built by Emperor Shah Jahan in the 17th century, this grand sandstone citadel is more than just an architectural marvel; it is a witness to the rise and fall of dynasties. From the opulence of the Diwan-i-Khas, where the Peacock Throne once sat, to the marks of British colonial transformation and the historic moment of India\u2019s independence, every gateway and marble pavilion tells a layered story. As you walk through the majestic Lahori Gate and explore the serene Meena Bazaar, you\u2019ll experience the transition from imperial luxury to the birth of a modern nation. This tour offers a profound journey through time, revealing how this \"fortress of the world\" continues to shape the identity of Delhi and the spirit of India.Join us to uncover the legends etched into these red sandstone walls. Please note that the fee is not for access to the site, but rather for the curation of this experience.Places we will cover:Lahori GateNaubat KhanaDiwan-i-AamDiwan-i-KhasMoti MasjidRang MahalKhas MahalHira MahalMumtaz MahalZafar Mahal and the white Sawan/Bhadon pavilionsImportant Points:Details of the heritage walk will be mailed to you when you book the tickets.No guided fees for kids below 8.Medium of communication : Hindi and EnglishPlease note that in case of unavoidable external reasons such as (weather conditions, political rallies, VIP movement) the walk may be canceled. The participant has the liberty to take another walk by the company against the payment they have made within 30 days since the date of the registered walk.The company doest not have refund policy.",
+    "startDate": "2026-09-06T16:00:00+05:30",
+    "endDate": "2026-09-06T18:00:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "Sportyzo Badminton Academy, Emaar emerald hills, Golf Course Ext Rd, opposite Ivory Block, Sector 65, Gurugram, Haryana 122011, India",
+      "address": "Old Delhi, Lal Qila, Chandni Chowk, Delhi, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.40465650000000000000",
-        "longitude": "77.07401440000000000000"
+        "latitude": "28.65581260000000000000",
+        "longitude": "77.24195220000000000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
+    "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "199.00",
+      "price": "650.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+      "name": "UTTAR DHAROHAR",
+      "url": "https://urbanaut.app/partner/uttar-dharohar"
     },
-    "url": "https://urbanaut.app/spot/cricket-w-swag",
+    "url": "https://urbanaut.app/spot/from-thrones-to-tricolor-the-journey-of-red-fort",
     "keywords": [
-      "Wellness",
-      "Active",
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
       "URBANAUT"
     ]
   },
@@ -1856,82 +1815,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "BADDY WITH BADDIES | GK 1",
-    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.5:50 PM Meet up and Warm up Time6:00 PM Game TimeSee you on court!",
-    "startDate": "2026-09-13T18:00:00+05:30",
-    "endDate": "2026-09-27T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Nandi Vithi Rd, N Block, Greater Kailash I, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55579910000000000000",
-        "longitude": "77.23527080000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "295.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag57",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Dunk Like A Girl | GK1",
-    "description": "SWAG's first-ever Basketball Session is here!Grab your sneakers and bring your best energy - it's time for Dunk Like A Girl \ud83c\udff8\u2728, a women-only basketball meet-up where the only goal is to have fun.Whether you've played before or you're trying basketball for the first time, everyone is welcome. We'll play easy games, cheer each other on, and enjoy an hour full of movement, fun, and good vibes.So if you've been looking for an excuse to get back on the court (or step onto one for the first time), this is it.Come solo or with your girls - you'll leave with a great workout, a few new friends, and probably plans for a rematch.",
-    "startDate": "2026-09-13T18:00:00+05:30",
-    "endDate": "2026-09-27T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Nandi Vithi Rd, N Block, Greater Kailash I, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55579910000000000000",
-        "longitude": "77.23527080000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "199.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag56",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Where the Rain comes alive: Hauz-e-shamsi",
     "description": "Explore the Hidden Summer Palace of the MughalsDiscover a lesser-known chapter of Delhi's history on a guided heritage walk through the historic summer retreat of the Mughal era in Mehrauli.Explore the historic fort complex, admire its ancient water reservoir, and learn about the water systems, gardens, architecture, and traditions that once shaped this remarkable heritage site. Through engaging storytelling, uncover the forgotten history of the palace and its connection with Delhi's rich cultural past.Experience an offbeat heritage trail and discover a fascinating side of Mehrauli.Places Covered1 Mughal-era Summer Palace2 Historic Fort Complex3 Ancient Water Reservoir4 Remains of the Orchard Gardens5 Heritage Structures within the Complex",
     "startDate": "2026-09-19T16:00:00+05:30",
@@ -2008,234 +1891,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Play Like A Girl | Sports Day",
-    "description": "SWAG girls, this one's for you! We want to turn this Friendship Day into the ultimate girls' playdate!We'll kick things off with a feel-good 3 KM Community Run, through Lodhi Gardens before heading to The Blue Court for an evening full of play! Pick up a shuttle, grab the paddle or swing the bat. Pickleball, Cricket, Badminton, we are playing it all! Just like old times...It's Friendship Day, of course we have a buddy pass, challenges you can win with your friends and much more! Eprise drinks will be there to keep you hydrated!Coming solo? It's the best place to make new friends.No pressure. No judgement. Just a bunch of SWAG Girlies showing up, laughing through the misses, celebrating the wins, and creating memories!Here's the game plan:5:00 PM \u2013 Meet at Athula Bridge, Lodhi Garden.5:10 PM \u2013 Warm-up5:20 PM \u2013 3 KM run through Lodhi Garden (ending at The Blue Court, DTEA Senior Secondary School, Lodhi Estate)6:00 PM \u2013 Cool down6 - 7 PM \u2013 Badminton & Pickleball6 \u2013 7:30 PM \u2013 Cricket7 - 7:30 PM - Buddy ChallengesCome solo or with your girls. This isn't just another sports meet-up. It's a SWAG exclusive -made for women who are ready to play, cheer, and have way too much fun doing it.",
-    "startDate": "2026-09-20T09:00:00+05:30",
-    "endDate": "2026-09-20T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Lodhi Rd, Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59309590000000000000",
-        "longitude": "77.21967939999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag51",
-    "keywords": [
-      "Adventure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Run Like A Girl",
-    "description": "RUN LIKE A GIRL!We are starting this weekend with an adrenaline rush. So, we have a 3 Km beginner friendly run and a coffee (coffee and snacks on us) rave after at Blue Tokai Ambience Mall, Gurgaon. Your ticket includes access to the run, cardio dance session, a coffee at Blue Tokai + Sandwich, post run rave, and some protein yogurt popsicles by Frozen Fun. Here's the detailed plan: 7:00 - We meet outside Ambience Mall Gurgaon - outside Paul's7:15 - Cardio Dance session (bollywood songs, ofc)7:35 - Run Time (a 3km loop outside Ambience Mall)8:15 - Coffee and Dance Rave! & Fitness Challenges\u0915\u094d\u092f\u093e \u0906\u092a convince \u0939\u094b \u0917\u090f \u092f\u093e \u092e\u0948\u0902 \u0914\u0930 \u092c\u094b\u0932\u0942\u0901?",
-    "startDate": "2026-09-20T17:00:00+05:30",
-    "endDate": "2026-09-20T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "NH-8, Ambience Island, DLF Phase 3, Sector 24, Gurugram, Haryana 122002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.50487480000000000000",
-        "longitude": "77.09695940000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "249.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag58",
-    "keywords": [
-      "Adventure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Pickleball w SWAG | Lodhi Estate",
-    "description": " Pickleball with SWAG x Delhi Picklers is back! This is a women-only, beginner-friendly pickleball meet-up. The session is guided by a coach.5:50 PM Meet up and Warm up6:00 PM Game TimeSee you on court!",
-    "startDate": "2026-09-20T18:00:00+05:30",
-    "endDate": "2026-09-20T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Opposite Bunglow No.46, Sector 4, Lodhi Estate, Lodhi Estate, New Delhi, Delhi 110003, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59422390000000000000",
-        "longitude": "77.22559430000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "399.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag65",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "BADDY WITH BADDIES | Lodhi Estate",
-    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.See you on court!",
-    "startDate": "2026-09-20T18:00:00+05:30",
-    "endDate": "2026-09-20T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Opposite Bunglow No.46, Sector 4, Lodhi Estate, Lodhi Estate, New Delhi, Delhi 110003, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59422390000000000000",
-        "longitude": "77.22559430000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "279.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag64",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Cricket with SWAG | Lodhi Estate",
-    "description": "Cricket with SWAG is back!This is a women-only, beginner-friendly box cricket meetup. We meet, we play, and we cheer each other on!See you there!",
-    "startDate": "2026-09-20T18:00:00+05:30",
-    "endDate": "2026-09-20T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Opposite Bunglow No.46, Sector 4, Lodhi Estate, Lodhi Estate, New Delhi, Delhi 110003, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59422390000000000000",
-        "longitude": "77.22559430000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "359.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag63",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Beyond the Bar",
-    "description": "helloooo",
-    "startDate": "2026-09-26T09:00:00+05:30",
-    "endDate": "2026-09-26T11:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Lodhi Rd, Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59309590000000000000",
-        "longitude": "77.21967939999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "349.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/beyond-the-bar",
-    "keywords": [
-      "Wellness",
-      "Workshop",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Haunted Walk: Mehrauli Archaeological Park",
     "description": "Join us for a hauntingly beautiful night walk through the Mehrauli Archaeological Park, a place where centuries of Delhi\u2019s history come alive\u2014alongside tales of the unseen. In this special segment, Ruhaani Raatein, we delve into the world of djinns, the mystical beings believed to reside in this ancient land.Guided by a historian and storyteller, we\u2019ll explore how djinns are viewed and worshipped in Islamic traditions, and how folklore continues to shape the spiritual character of Mehrauli even today.Our walk will take you through: The tomb of Jamali Kamali, often called the Gay Taj Mahal for its poetic mystique and timeless love story A haunting 500-year-old baoli (stepwell)The remnants of a British-era swimming pool, hidden in plain sight A peaceful lakeside caf\u00e9, perfect for ending the evening with a quiet reflection or a warm chaiAs night falls and shadows grow, let the stories guide you through one of Delhi\u2019s oldest, most magical spaces\u2014where the past is never truly past.",
     "startDate": "2026-09-27T17:00:00+05:30",
@@ -2266,44 +1921,6 @@
     "url": "https://urbanaut.app/spot/haunted-walk-mehrauli-archaeological-park",
     "keywords": [
       "Adventure",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Dunk Like A Girl",
-    "description": "SWAG's first-ever Basketball Session is here!Grab your sneakers and bring your best energy - it's time for Dunk Like A Girl \ud83c\udff8\u2728, a women-only basketball meet-up where the only goal is to have fun.Whether you've played before or you're trying basketball for the first time, everyone is welcome. We'll play easy games, cheer each other on, and enjoy an hour full of movement, fun, and good vibes.So if you've been looking for an excuse to get back on the court (or step onto one for the first time), this is it.Come solo or with your girls - you'll leave with a great workout, a few new friends, and probably plans for a rematch.",
-    "startDate": "2026-09-27T18:00:00+05:30",
-    "endDate": "2026-09-27T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Sportyzo Badminton Academy, Emaar emerald hills, Golf Course Ext Rd, opposite Ivory Block, Sector 65, Gurugram, Haryana 122011, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.40465650000000000000",
-        "longitude": "77.07401440000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "199.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/dunk-like-a-girl",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
       "URBANAUT"
     ]
   }
