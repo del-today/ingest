@@ -1,23 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "Kranti(1981)",
-    "url": "https://fillum.in/screening/6085",
-    "startDate": "2026-08-25T19:00:00+05:30",
-    "endDate": "2026-08-25T19:00:00+05:30",
-    "description": "As part of IHC 35mm Film Club. Open to all.",
-    "location": {
-      "@type": "Place",
-      "name": "Stein Auditorium, India Habitat Centre",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Habitat World"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "Emma'(2016)",
     "url": "https://fillum.in/screening/5985",
     "startDate": "2026-08-27T18:00:00+05:30",
