@@ -111,42 +111,6 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Draavin Canteen's Onam Sadhya | Gurgaon",
-    "description": "The season of togetherness is almost here, and there's no better way to celebrate than over a traditional Onam Sadhya. Join us at Draavin Canteen for an authentic 25-item feast, served on a banana leaf and inspired by the timeless flavours and traditions of Kerala.A Sadhya isn't just about abundance - it's about balance. Every dish comes together to represent the six Ayurvedic tastes, creating a meal that is as thoughtful as it is memorable. More than a feast, it's a celebration of harvest, gratitude, and homecoming, with traditions passed down through generations.Whether you're celebrating with family, catching up with friends, or simply craving a taste of home, this is an invitation to slow down, share a wholesome meal, and experience the warmth of Onam together.Reserve your seats in advance and join us for a festive meal filled with authentic flavours, warm conversations, and the joy of celebrating Onam at Draavin Canteen.",
-    "startDate": "2026-08-26T12:30:00+05:30",
-    "endDate": "2026-08-27T22:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Draavin Canteen, Ground Floor 01, DLF Downtown 2, Ambience Island, DLF Phase 3, Sector 24, Gurugram, Haryana 122002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.50324520000000000000",
-        "longitude": "77.09551940000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1299.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Draavin Canteen",
-      "url": "https://urbanaut.app/partner/draavin-canteen"
-    },
-    "url": "https://urbanaut.app/spot/draavincanteengurgaon",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
     "name": "Draavin Canteen's Onam Sadhya | Amar Colony",
     "description": "The season of togetherness is almost here, and there's no better way to celebrate than over a traditional Onam Sadhya. Join us at Draavin Canteen for an authentic 25-item feast, served on a banana leaf and inspired by the timeless flavours and traditions of Kerala.A Sadhya isn't just about abundance - it's about balance. Every dish comes together to represent the six Ayurvedic tastes, creating a meal that is as thoughtful as it is memorable. More than a feast, it's a celebration of harvest, gratitude, and homecoming, with traditions passed down through generations.Whether you're celebrating with family, catching up with friends, or simply craving a taste of home, this is an invitation to slow down, share a wholesome meal, and experience the warmth of Onam together.Reserve your seats in advance and join us for a festive meal filled with authentic flavours, warm conversations, and the joy of celebrating Onam at Draavin Canteen.",
     "startDate": "2026-08-26T12:30:00+05:30",
@@ -175,6 +139,42 @@
       "url": "https://urbanaut.app/partner/draavin-canteen"
     },
     "url": "https://urbanaut.app/spot/draavin-canteens-onam-sadhya-amar-colony",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Draavin Canteen's Onam Sadhya | Gurgaon",
+    "description": "The season of togetherness is almost here, and there's no better way to celebrate than over a traditional Onam Sadhya. Join us at Draavin Canteen for an authentic 25-item feast, served on a banana leaf and inspired by the timeless flavours and traditions of Kerala.A Sadhya isn't just about abundance - it's about balance. Every dish comes together to represent the six Ayurvedic tastes, creating a meal that is as thoughtful as it is memorable. More than a feast, it's a celebration of harvest, gratitude, and homecoming, with traditions passed down through generations.Whether you're celebrating with family, catching up with friends, or simply craving a taste of home, this is an invitation to slow down, share a wholesome meal, and experience the warmth of Onam together.Reserve your seats in advance and join us for a festive meal filled with authentic flavours, warm conversations, and the joy of celebrating Onam at Draavin Canteen.",
+    "startDate": "2026-08-26T18:30:00+05:30",
+    "endDate": "2026-08-27T22:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Draavin Canteen, Ground Floor 01, DLF Downtown 2, Ambience Island, DLF Phase 3, Sector 24, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.50324520000000000000",
+        "longitude": "77.09551940000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1299.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Draavin Canteen",
+      "url": "https://urbanaut.app/partner/draavin-canteen"
+    },
+    "url": "https://urbanaut.app/spot/draavincanteengurgaon",
     "keywords": [
       "Food & drink",
       "URBANAUT"
@@ -253,6 +253,43 @@
       "Music",
       "History & heritage",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Let's D-Stress with The Times of India x Starbucks",
+    "description": "Coffee, candid conversations and finding balanceIn a world where scrolling has become part of everyday life, taking a moment to switch off and reconnect is more important than ever.On August 27, The Times of India, in collaboration with Starbucks, will host Let\u2019s D-Stress, an evening centred on meaningful conversations and finding a healthier balance in an always-connected world.The session will feature model and entrepreneur Sonalika Sahay, who will share insights from her journey in the competitive and highly visible world of fashion. She will speak about building confidence and balancing ambition with personal well-being. The conversation will also explore her experiences as a mother, including navigating gadgets and screen time for children and building healthier habits at home.Moderated by Amin Ali, Independent Editor & Advisor, the discussion will explore when inspiration turns into comparison, how to stay ambitious without feeling constantly switched on, and why reconnecting with people and everyday experiences can help counter digital overload.Set against the relaxed ambience of Starbucks, the evening aims to encourage participants to put their phones aside and engage in honest, real-world conversations.",
+    "startDate": "2026-08-27T18:00:00+05:30",
+    "endDate": "2026-08-27T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Cyber Hub, DLF Cyber City, DLF Phase 2, Sector 24, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.49589000000000000000",
+        "longitude": "77.08867430000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Times of India",
+      "url": "https://urbanaut.app/partner/the-times-of-india"
+    },
+    "url": "https://urbanaut.app/spot/dstresscyberhub",
+    "keywords": [
+      "Leisure",
+      "Wellness",
       "URBANAUT"
     ]
   },
@@ -1366,6 +1403,43 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
+    "name": "Level 1 - I LIKE TO MOVE IT MOVE IT!",
+    "description": "I LIKE TO MOVE IT, MOVE IT! Dancing for Non-Dancers is a playful movement and body-awareness practice. It invites you to rediscover movement not as performance or technique, but as a process of curiosity.The programme expands movement vocabulary, deepens mind-body awareness and develops a broader appreciation of what dance can be.Participants leave with a deeper understanding of their bodies and movement patterns, greater responsiveness to music and rhythm and practical tools that support mobility, adaptability, physical wellbeing and long-term vitality.(Warning: Side effects may include increased spontaneity, killer dance moves and unexpected joy.)Every WEDNESDAY (5-7pm) and every SATURDAY (11am-1pm) for the month of SEPTEMBER, 2026Rs. 15,000/- for the month, Level 1 course(Please click on the 'Sept 2nd 5:00-5:01pm' option for ticket booking - this entitles you to the FULL MONTH of classes)Further details on what we will explore during the course are mentioned below.**ABOUT SHENAShena Gamat is a theatre practitioner, voice artist and learning & development professional with over two decades of experience in performance and facilitation. Her background spans film, international theatre tours and voice work.Shena has built a magazine, run a theatre company, been on leadership teams, built grassroots programmes, created communities and facilitated learning. She is a qualified Movement Therapist and the founder of It\u2019s All Good, an initiative for fun and engaging experiences that foster insight and empowerment.Her sessions combine theatre tools, voice work, learning design and behavioural frameworks to help participants connect to their own presence and live with clarity & confidence.*ABOUT IT\u2019S ALL GOODThe Science and Art of JoyIAG is an initiative aimed at returning to joy in a complex world. IAG offers workshops, talks, performances and micro-festivals that explore the human condition, delving into how to live with ease and clarity (and humour!).Insta : https://www.instagram.com/itsallgood.space*ZAAZEN WELLNESSZaazen is a holistic wellness sanctuary for both men and women. A space designed for anyone seeking to slow down, restore, and reconnect at any stage of life.Reimagined in 2025, Zaazen brings together therapeutic bodywork, recovery practices, movement, and modern wellness treatments within a calm, refined setting. Today, it stands as an integrative hub for overall wellbeing, supporting balance, longevity, and a more intentional way of living.https://zaazenwellness.com/**FURTHER DETAILS ON 'I LIKE TO MOVE IT, MOVE IT!':LEVEL 1 - ONE MONTH COURSE, September 2026Focus: Body Awareness, Wellbeing & Movement FoundationsA one-month journey for people who don't think of themselves as 'dancers'.Curriculum | What we will explore:\u2022\tBody awareness and learning to listen to the body's signals\u2022\tBasic anatomy for movement\u2022\tAlignment, balance and coordination\u2022\tMobility, strength and movement efficiency\u2022\tBreath, energy and presence\u2022\tDifferent ways of moving through space\u2022\tImagination as a tool for movement\u2022\tBuilding confidence and comfort in your own bodyBy the end of the course you will:\u2022\tFeel more at home in your body\u2022\tMove with greater ease, confidence and freedom\u2022\tDevelop greater body awareness and self-understanding\u2022\tImprove mobility, coordination and physical wellbeing\u2022\tDiscover new ways of expressing yourself through movement\u2022\tBuild a strong foundation for further explorationLEVEL 2 (Available to those who have completed Level 1)Focus: Music, Space & Creative ExpressionLevel 2 expands the focus from the inner world to the world around us. Building on the foundations developed in Level 1, participants explore movement in relationship to music, space, objects, imagination and creative expression, while continuing to develop strength, confidence and overall health & wellbeing.Curriculum | What we'll explore:\u2022\tListening and responding to music\u2022\tRhythm, timing and musicality\u2022\tMoving in relationship to space and environment\u2022\tWorking with objects and others\u2022\tImprovisation and creative exploration\u2022\tUnderstanding connecting tissues and communicatorsBy the end of the course you will:\u2022\tDevelop a stronger connection to music and rhythm\u2022\tFeel more confident exploring and creating dance/movement\u2022\tExpand your expressive and creative range\u2022\tDiscover new ways of relating to the space and objects around you\u2022\tCultivate mind-body agility and integrated wellbeing\u2022\tExperience movement as a source of vitality, expression and play",
+    "startDate": "2026-09-02T17:00:00+05:30",
+    "endDate": "2026-09-02T17:01:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "E60, 62, Hansraj Gupta Rd, Greater Kailash-1, Block E, Greater Kailash I, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55002300000000000000",
+        "longitude": "77.24428900000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "15000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "IT'S ALL GOOD",
+      "url": "https://urbanaut.app/partner/itsallgood"
+    },
+    "url": "https://urbanaut.app/spot/level1-iliketomoveitmoveit",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
     "name": "Level 1 - I LIKE TO MOVE IT MOVE IT! EARLY BIRD",
     "description": "I LIKE TO MOVE IT, MOVE IT! Dancing for Non-Dancers is a playful movement and body-awareness practice. It invites you to rediscover movement not as performance or technique, but as a process of curiosity.The programme expands movement vocabulary, deepens mind-body awareness and develops a broader appreciation of what dance can be.Participants leave with a deeper understanding of their bodies and movement patterns, greater responsiveness to music and rhythm and practical tools that support mobility, adaptability, physical wellbeing and long-term vitality.(Warning: Side effects may include increased spontaneity, killer dance moves and unexpected joy.)Every WEDNESDAY (5-7pm) and every SATURDAY (11am-1pm) for the month of SEPTEMBER, 2026Rs. 15,000/- for the month, Level 1 courseEarly bird (till August 20): Rs. 12,000/-(Please click on the 'Sept 2nd 5:00-5:01pm' option for ticket booking - this entitles you to the FULL MONTH of classes)Further details on what we will explore during the course are mentioned below.**ABOUT SHENAShena Gamat is a theatre practitioner, voice artist and learning & development professional with over two decades of experience in performance and facilitation. Her background spans film, international theatre tours and voice work.Shena has built a magazine, run a theatre company, been on leadership teams, built grassroots programmes, created communities and facilitated learning. She is a qualified Movement Therapist and the founder of It\u2019s All Good, an initiative for fun and engaging experiences that foster insight and empowerment.Her sessions combine theatre tools, voice work, learning design and behavioural frameworks to help participants connect to their own presence and live with clarity & confidence.*ABOUT IT\u2019S ALL GOODThe Science and Art of JoyIAG is an initiative aimed at returning to joy in a complex world. IAG offers workshops, talks, performances and micro-festivals that explore the human condition, delving into how to live with ease and clarity (and humour!).Insta : https://www.instagram.com/itsallgood.space*ZAAZEN WELLNESSZaazen is a holistic wellness sanctuary for both men and women. A space designed for anyone seeking to slow down, restore, and reconnect at any stage of life.Reimagined in 2025, Zaazen brings together therapeutic bodywork, recovery practices, movement, and modern wellness treatments within a calm, refined setting. Today, it stands as an integrative hub for overall wellbeing, supporting balance, longevity, and a more intentional way of living.https://zaazenwellness.com/**FURTHER DETAILS ON 'I LIKE TO MOVE IT, MOVE IT!':LEVEL 1 - ONE MONTH COURSE, September 2026Focus: Body Awareness, Wellbeing & Movement FoundationsA one-month journey for people who don't think of themselves as 'dancers'.Curriculum | What we will explore:\u2022\tBody awareness and learning to listen to the body's signals\u2022\tBasic anatomy for movement\u2022\tAlignment, balance and coordination\u2022\tMobility, strength and movement efficiency\u2022\tBreath, energy and presence\u2022\tDifferent ways of moving through space\u2022\tImagination as a tool for movement\u2022\tBuilding confidence and comfort in your own bodyBy the end of the course you will:\u2022\tFeel more at home in your body\u2022\tMove with greater ease, confidence and freedom\u2022\tDevelop greater body awareness and self-understanding\u2022\tImprove mobility, coordination and physical wellbeing\u2022\tDiscover new ways of expressing yourself through movement\u2022\tBuild a strong foundation for further explorationLEVEL 2 (Available to those who have completed Level 1)Focus: Music, Space & Creative ExpressionLevel 2 expands the focus from the inner world to the world around us. Building on the foundations developed in Level 1, participants explore movement in relationship to music, space, objects, imagination and creative expression, while continuing to develop strength, confidence and overall health & wellbeing.Curriculum | What we'll explore:\u2022\tListening and responding to music\u2022\tRhythm, timing and musicality\u2022\tMoving in relationship to space and environment\u2022\tWorking with objects and others\u2022\tImprovisation and creative exploration\u2022\tUnderstanding connecting tissues and communicatorsBy the end of the course you will:\u2022\tDevelop a stronger connection to music and rhythm\u2022\tFeel more confident exploring and creating dance/movement\u2022\tExpand your expressive and creative range\u2022\tDiscover new ways of relating to the space and objects around you\u2022\tCultivate mind-body agility and integrated wellbeing\u2022\tExperience movement as a source of vitality, expression and play",
     "startDate": "2026-09-02T17:00:00+05:30",
@@ -1534,7 +1608,7 @@
     "typicalAgeRange": "25+",
     "offers": {
       "@type": "Offer",
-      "price": "3250.00",
+      "price": "3350.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -1584,6 +1658,43 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "JBABE LIVE @ Gully Labs",
+    "description": "Possessed by the desire to art-direct one's own sobbing self portrait, to make sure his mascara smears in the most perfectly dishevelled way. But who cares what's \"real\" when the music delivers a truth you can see.Inspired by the likes of artists such as Frank Ocean, Julian Casablancas, Homeshake, Poolside etc. multi-instrumentalist, producer, composer, guitarist and vocalist of The F16s, Josh Fernandez decided to pursue his solo dream project on the side, thus creating JBABE. He describes his music as lo-fi, indie-pop mixed with rhythm and blues.",
+    "startDate": "2026-09-05T19:00:00+05:30",
+    "endDate": "2026-09-05T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1600.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
+    },
+    "url": "https://urbanaut.app/spot/jbabe-live",
+    "keywords": [
+      "Live GIG",
+      "Music",
       "URBANAUT"
     ]
   },
@@ -1705,7 +1816,7 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "name": "Floral Workshop",
+    "name": "Floral Workshop by Serenai",
     "description": "A slow Sunday morning with flowers in your hands.\u00a0Serenai began with a simple idea that we all need a moment to breathe. In a city that never really slows down, we wanted to build a space where people could put their phones away, work with their hands, and just be present for an hour or so. This isn\u2019t just a workshop, it\u2019s a small ritual in stillness, in community, in coming back to yourself, one bloom at a time.\ud83d\udccd Siyah ArtHouse\ud83d\uddd3\ufe0f Sunday, September 6th\ud83d\udd5b 12:00 PM \u2013 1:30 PMSeats are limited to keep the circle small and intimate \u2014 reserve yours today.",
     "startDate": "2026-09-06T12:00:00+05:30",
     "endDate": "2026-09-06T13:30:00+05:30",
@@ -1845,6 +1956,44 @@
     },
     "url": "https://urbanaut.app/spot/heritage-walk-safdarjung-tomb-raat-ke-afsane",
     "keywords": [
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Heritage Walk: Red Fort",
+    "description": "A Heritage Walk Through the Red FortStep into the world of Qila e Mubarak, popularly known as the Red Fort, through a specially arranged private heritage walk exploring its history, architecture and cultural traditions.Discover the world of Shah Jahan and the Mughal court, while uncovering stories behind the forts lesser known features, including the Nahr e Bihisht, Stream of Paradise, silken qanats and the original artistic traditions of Chatta Chowk.Through engaging storytelling, explore the Red Fort as more than a monument, a royal space shaped by emperors, nobles, artists and forgotten traditions.Language of communication is Hindi and English.Specially Arranged Private Heritage Walk ",
+    "startDate": "2026-09-12T17:00:00+05:30",
+    "endDate": "2026-09-12T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Netaji Subhash Marg, Old Delhi, Lal Qila, Chandni Chowk, New Delhi, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.65615920000000000000",
+        "longitude": "77.24102030000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/heritage-walk-red-fort",
+    "keywords": [
+      "Walking Tour",
       "History & heritage",
       "Guided tour",
       "URBANAUT"

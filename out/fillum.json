@@ -117,5 +117,39 @@
       "@type": "Organization",
       "name": "Camera Commune"
     }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "The Sea Inside(2004)",
+    "url": "https://fillum.in/screening/6046",
+    "startDate": "2026-08-29T17:30:00+05:30",
+    "endDate": "2026-08-29T17:30:00+05:30",
+    "description": "Free entry.",
+    "location": {
+      "@type": "Place",
+      "name": "M. L. Bhartia Auditorium, Alliance Fran\u00e7aise",
+      "address": "Lodhi Road, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Navrasa Duende Movie Club"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "The Rainbow Troops(2008)",
+    "url": "https://fillum.in/screening/5987",
+    "startDate": "2026-08-29T18:00:00+05:30",
+    "endDate": "2026-08-29T18:00:00+05:30",
+    "description": "As part of Indonesian Film Festival 2026 (Day 3)Also screening (short films):- Bloody Rose- Pabbaruak",
+    "location": {
+      "@type": "Place",
+      "name": "India International Centre, Lodhi Estate",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fillum"
+    }
   }
 ]

@@ -80,6 +80,26 @@
     ]
   },
   {
+    "@type": "ExhibitionEvent",
+    "name": "Inheritors of Earth",
+    "url": "https://www.knma.org/whats-on/exhibitions/inheritors-of-earth",
+    "startDate": "2026-09-06T10:00:00+05:30",
+    "endDate": "2026-12-22T18:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
     "@type": "EducationEvent",
     "name": "Embodied Ways of Knowing",
     "url": "https://www.knma.org/whats-on/talks/material-practices-2",
