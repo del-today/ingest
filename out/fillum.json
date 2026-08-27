@@ -1,40 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "Emma'(2016)",
-    "url": "https://fillum.in/screening/5985",
-    "startDate": "2026-08-27T18:00:00+05:30",
-    "endDate": "2026-08-27T18:00:00+05:30",
-    "description": "As part of Indonesian Film Festival 2026 (Day 1)Also screening (short films):- Bong! of Womb and Tomb- Pamit Ronda (Once Upon a Night)",
-    "location": {
-      "@type": "Place",
-      "name": "India International Centre, Lodhi Estate",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Fillum"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Short films by Neera Jalchhatri: The Last Letter / The Beginning",
-    "url": "https://fillum.in/event/6088",
-    "startDate": "2026-08-27T18:00:00+05:30",
-    "endDate": "2026-08-27T18:00:00+05:30",
-    "description": "\u2018The Last Letter\u2019 is a pictorial journey of a woman who looks back in history and traces a fading sense of justice and diversity.\u2018The Beginning\u2019 is based on Anton Chekhov\u2019s short story..more",
-    "location": {
-      "@type": "Place",
-      "name": "Press Club of India, Raisina Road",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Fillum"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "Soegija(2012)",
     "url": "https://fillum.in/screening/5986",
     "startDate": "2026-08-28T18:00:00+05:30",
@@ -150,6 +116,40 @@
     "organizer": {
       "@type": "Organization",
       "name": "Fillum"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "The Conversation(1974)",
+    "url": "https://fillum.in/screening/6047",
+    "startDate": "2026-08-30T11:00:00+05:30",
+    "endDate": "2026-08-30T11:00:00+05:30",
+    "description": "Free entry.",
+    "location": {
+      "@type": "Place",
+      "name": "M. L. Bhartia Auditorium, Alliance Fran\u00e7aise",
+      "address": "Lodhi Road, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Navrasa Duende Movie Club"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Inland Empire(2006)",
+    "url": "https://fillum.in/screening/6090",
+    "startDate": "2026-08-30T12:00:00+05:30",
+    "endDate": "2026-08-30T12:00:00+05:30",
+    "description": "\u201cStrange, what love does.\u201d The role of a lifetime, a Hollywood mystery, a woman in trouble . . . David Lynch\u2019s first digitally shot feature makes visionary use of the medium to weave a vast me..more",
+    "location": {
+      "@type": "Place",
+      "name": "mool, south ex II",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
     }
   }
 ]

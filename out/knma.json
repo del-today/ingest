@@ -120,6 +120,86 @@
     ]
   },
   {
+    "@type": "EducationEvent",
+    "name": "South Asian Art and Artists in Prague",
+    "url": "https://www.knma.org/whats-on/talks/south-asian-art-and-artists-in-prague",
+    "startDate": "2026-09-09T10:00:00+05:30",
+    "endDate": "2026-09-09T10:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Earth Tales",
+    "url": "https://www.knma.org/whats-on/events/earth-tales",
+    "startDate": "2026-09-12T10:00:00+05:30",
+    "endDate": "2026-09-12T10:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Nature\u2019s Archive",
+    "url": "https://www.knma.org/whats-on/workshops/natures-archive",
+    "startDate": "2026-09-12T10:00:00+05:30",
+    "endDate": "2026-09-13T18:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Woven Heritage",
+    "url": "https://www.knma.org/whats-on/workshops/woven-heritage",
+    "startDate": "2026-09-12T10:00:00+05:30",
+    "endDate": "2026-09-12T10:00:00+05:30",
+    "description": "Saturday Family Workshop",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
     "@type": "TheaterEvent",
     "name": "Virasat",
     "url": "https://www.knma.org/whats-on/performing-arts/virasat",
