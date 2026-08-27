@@ -1,10 +1,48 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Kathika Cultural Experience",
+    "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
+    "startDate": "2026-08-27T11:30:00+05:30",
+    "endDate": "2026-08-31T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64610280000000000000",
+        "longitude": "77.22736410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kathika Cultural Centre and Museum",
+      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
+    },
+    "url": "https://urbanaut.app/spot/kathika-cultural-experience-15616",
+    "keywords": [
+      "Music",
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Onam Sadhya by Chef Kartik x Cocobay",
     "description": "Celebrate Onam with an Authentic Sadhya at CocobayGet ready to indulge in the rich, traditional flavors of Kerala this festive season! In anticipation of Onam, Cocobay South Indian Cafe brings you a thoughtfully curated Onam Sadhya experience designed by Chef Kartik. Served on a vibrant banana leaf, this grand feast features an array of authentic preparations\u2014from crispy banana chips and savory side dishes to aromatic rice and comforting payasam\u2014crafted to capture the true spirit of togetherness and celebration.A Culinary Journey in GurgaonWhether you are hosting family or enjoying a preview feast with friends, join us at our new location on Golf Course Road to savor every bit of this seasonal specialty. Available for a limited time from August 14th to 16th at \u20b9995 (+GST) per person, with convenient delivery options right to your doorstep. Space is limited for this special festive preview\u2014reserve your meal early and celebrate Onam with the timeless taste of home!",
-    "startDate": "2026-08-26T11:30:00+05:30",
+    "startDate": "2026-08-27T11:30:00+05:30",
     "endDate": "2026-08-28T21:30:00+05:30",
     "location": {
       "@type": "Place",
@@ -41,7 +79,7 @@
     "@type": "FoodEvent",
     "name": "Onam Sadhya at Padmanabham | Delhi",
     "description": "Experience the warmth of Kerala's most celebrated festival with Padmanabham's Onam Sadhya in Gurgaon.Served traditionally on a banana leaf, the Sadhya is a wholesome vegetarian feast featuring 30 authentic Kerala delicacies, carefully prepared to celebrate the spirit of Onam. More than just a meal, Sadhya reflects Kerala's rich culinary heritage, bringing together a balanced combination of flavours, nutrition, and age-old traditions. For generations, eating a Sadhya has been about more than food - it's about sharing a festive meal with family and friends while celebrating community and gratitude. In Kerala, there's even a popular saying:\"Kaanam Vittum Onam Unnanam\" \u2014 \"Even if you have to sell your property, never miss the Onam feast.\"Important Information:Rs. 1087 is the price per person. Govt. Taxes extra, as applicable. Sharing is not allowed.30 vegetarian dishes are served on a banana leaf.An advance per person is required to pre-reserve your table. This amount is non-refundable, non-encashable, and non-transferable. This amount will be adjusted against your final bill.There might be sharing of tables during peak hours.Prior booking is recommended at least 1 hour in advance. Guests may experience waiting time at the restaurant during busy hours or on event days, and the restaurant will not be liable for any delays.We hold the table for max of 15 minutes. After that, it will be considered a no-show.This voucher is valid only at that location and on that date/time. Cannot be transferred to another date/time or location.The voucher is valid only for Onam Sadhya.Each voucher can be redeemed only once.A 10% voluntary service charge will be applicable.This voucher is not valid for/on home delivery, take-away, or packed orders.No other discounts, offers or promotions from any third-party platforms will be applicable with this voucher.Guests are requested to inform the restaurant in advance regarding this booking, before visiting, to ensure a smooth dining experience.",
-    "startDate": "2026-08-26T12:00:00+05:30",
+    "startDate": "2026-08-27T12:00:00+05:30",
     "endDate": "2026-08-29T22:00:00+05:30",
     "location": {
       "@type": "Place",
@@ -75,45 +113,9 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Draavin Canteen's Onam Sadhya | Amar Colony",
-    "description": "The season of togetherness is almost here, and there's no better way to celebrate than over a traditional Onam Sadhya. Join us at Draavin Canteen for an authentic 25-item feast, served on a banana leaf and inspired by the timeless flavours and traditions of Kerala.A Sadhya isn't just about abundance - it's about balance. Every dish comes together to represent the six Ayurvedic tastes, creating a meal that is as thoughtful as it is memorable. More than a feast, it's a celebration of harvest, gratitude, and homecoming, with traditions passed down through generations.Whether you're celebrating with family, catching up with friends, or simply craving a taste of home, this is an invitation to slow down, share a wholesome meal, and experience the warmth of Onam together.Reserve your seats in advance and join us for a festive meal filled with authentic flavours, warm conversations, and the joy of celebrating Onam at Draavin Canteen.",
-    "startDate": "2026-08-26T12:30:00+05:30",
-    "endDate": "2026-08-28T22:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Ground Floor, Amar Colony E-127, 4, Block E, Amar Colony, Lajpat Nagar, New Delhi, Delhi 110024, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55974520000000000000",
-        "longitude": "77.24321130000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1299.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Draavin Canteen",
-      "url": "https://urbanaut.app/partner/draavin-canteen"
-    },
-    "url": "https://urbanaut.app/spot/draavin-canteens-onam-sadhya-amar-colony",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
     "name": "Draavin Canteen's Onam Sadhya | Gurgaon",
     "description": "The season of togetherness is almost here, and there's no better way to celebrate than over a traditional Onam Sadhya. Join us at Draavin Canteen for an authentic 25-item feast, served on a banana leaf and inspired by the timeless flavours and traditions of Kerala.A Sadhya isn't just about abundance - it's about balance. Every dish comes together to represent the six Ayurvedic tastes, creating a meal that is as thoughtful as it is memorable. More than a feast, it's a celebration of harvest, gratitude, and homecoming, with traditions passed down through generations.Whether you're celebrating with family, catching up with friends, or simply craving a taste of home, this is an invitation to slow down, share a wholesome meal, and experience the warmth of Onam together.Reserve your seats in advance and join us for a festive meal filled with authentic flavours, warm conversations, and the joy of celebrating Onam at Draavin Canteen.",
-    "startDate": "2026-08-26T18:30:00+05:30",
+    "startDate": "2026-08-27T12:30:00+05:30",
     "endDate": "2026-08-27T22:30:00+05:30",
     "location": {
       "@type": "Place",
@@ -146,77 +148,37 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Baddy with Baddies | Mehrauli",
-    "description": "Grab your racket and bring your best energy - it's time for Baddy with Baddies \ud83c\udff8\u2728, a women-only badminton meet-up where the only goal is to have fun.Whether you've got a sneaky smash up your sleeve or you're simply looking for a fun way to move, this session is all about friendly rallies, big laughs, and moving your body in great company. Expect good vibes, and a community of women who are here to play, cheer each other on, and enjoy the sport.So if you've been looking for an excuse to get back on the court (or step onto one for the first time), this is it.Come solo or with your girls - you'll leave with a great workout, a few new friends, and probably plans for a rematch.",
-    "startDate": "2026-08-26T20:00:00+05:30",
-    "endDate": "2026-09-24T21:00:00+05:30",
+    "@type": "FoodEvent",
+    "name": "Draavin Canteen's Onam Sadhya | Amar Colony",
+    "description": "The season of togetherness is almost here, and there's no better way to celebrate than over a traditional Onam Sadhya. Join us at Draavin Canteen for an authentic 25-item feast, served on a banana leaf and inspired by the timeless flavours and traditions of Kerala.A Sadhya isn't just about abundance - it's about balance. Every dish comes together to represent the six Ayurvedic tastes, creating a meal that is as thoughtful as it is memorable. More than a feast, it's a celebration of harvest, gratitude, and homecoming, with traditions passed down through generations.Whether you're celebrating with family, catching up with friends, or simply craving a taste of home, this is an invitation to slow down, share a wholesome meal, and experience the warmth of Onam together.Reserve your seats in advance and join us for a festive meal filled with authentic flavours, warm conversations, and the joy of celebrating Onam at Draavin Canteen.",
+    "startDate": "2026-08-27T12:30:00+05:30",
+    "endDate": "2026-08-28T22:30:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "near Qutab Minar Metro Station, Aam Bagh, Ladha Sarai Village, Mehrauli, New Delhi, Delhi 110030, India",
+      "address": "Ground Floor, Amar Colony E-127, 4, Block E, Amar Colony, Lajpat Nagar, New Delhi, Delhi 110024, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.51514850000000000000",
-        "longitude": "77.18640390000000000000"
+        "latitude": "28.55974520000000000000",
+        "longitude": "77.24321130000000000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
+    "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "299.00",
+      "price": "1299.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+      "name": "Draavin Canteen",
+      "url": "https://urbanaut.app/partner/draavin-canteen"
     },
-    "url": "https://urbanaut.app/spot/swag53",
+    "url": "https://urbanaut.app/spot/draavin-canteens-onam-sadhya-amar-colony",
     "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Kathika Cultural Experience",
-    "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
-    "startDate": "2026-08-27T11:30:00+05:30",
-    "endDate": "2026-08-31T14:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.64610280000000000000",
-        "longitude": "77.22736410000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kathika Cultural Centre and Museum",
-      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
-    },
-    "url": "https://urbanaut.app/spot/kathika-cultural-experience-15616",
-    "keywords": [
-      "Music",
-      "History & heritage",
-      "Art & culture",
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -477,7 +439,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Play Like A Girl | SWAG Sports Day",
-    "description": "It is National Sports Day! And we have to PLAY LIKE A GIRL! Morning Session: (7:30 - 10 AM)We'll kick things off with a beginner-friendly 3 KM Community Run, at Ambience Mall, Vasant Kunj, and then a high-energy bollywood dance workout, and wrap things up with coffee & breakfast! Evening Session:Evenings are meant to be spent playing cricket in the park, right? So we meet at 5:30 PM and play some Cricket and Kho-Kho, just like old times! We have goodies by Sirona and a coffee + snack after each session! Coming solo? It's the best place to make new friends.No pressure. No judgement. Just a bunch of SWAG Girlies showing up, laughing through the misses, celebrating the wins, and creating memories!",
+    "description": "It is National Sports Day! And we have to PLAY LIKE A GIRL! Morning Session: (7:30 - 10 AM)We'll kick things off with a beginner-friendly 3 KM Community Run, at Ambience Mall, Vasant Kunj, and then a high-energy bollywood dance workout, and wrap things up with coffee & breakfast! Evening Session:Evenings are meant to be spent playing cricket in the park, right? So we meet at 5:30 PM and play some Cricket and Kho-Kho, just like old times! We also have Energy Shots by Bloom and snacks by BRB. We have goodies by Sirona and a coffee + snack after each session!Coming solo? It's the best place to make new friends.No pressure. No judgement. Just a bunch of SWAG Girlies showing up, laughing through the misses, celebrating the wins, and creating memories!",
     "startDate": "2026-08-29T07:30:00+05:30",
     "endDate": "2026-08-29T19:30:00+05:30",
     "location": {
@@ -1476,6 +1438,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Baddy with Baddies | Mehrauli",
+    "description": "Grab your racket and bring your best energy - it's time for Baddy with Baddies \ud83c\udff8\u2728, a women-only badminton meet-up where the only goal is to have fun.Whether you've got a sneaky smash up your sleeve or you're simply looking for a fun way to move, this session is all about friendly rallies, big laughs, and moving your body in great company. Expect good vibes, and a community of women who are here to play, cheer each other on, and enjoy the sport.So if you've been looking for an excuse to get back on the court (or step onto one for the first time), this is it.Come solo or with your girls - you'll leave with a great workout, a few new friends, and probably plans for a rematch.",
+    "startDate": "2026-09-03T20:00:00+05:30",
+    "endDate": "2026-09-24T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "near Qutab Minar Metro Station, Aam Bagh, Ladha Sarai Village, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.51514850000000000000",
+        "longitude": "77.18640390000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "299.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag53",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Trivia Night at V's Supper Stories",
     "description": "Trivia Night at V\u2019s Supper Stories is a fun, intimate evening built around good food, great company, and a little friendly competition.Expect multiple rounds of trivia across pop culture, music, food, entertainment and more, paired with a dinner menu inspired by elevated comfort food \u2014 from warm breads and dips, pulled lamb sliders and parmesan arancini to chicken parmigiana, eggplant parmigiana, roasted cauliflower and a dark chocolate chilli tart to finish.Come with your team or join one on the night. All you really need is confidence, questionable general knowledge, and a willingness to argue over answers.What to expect:Trivia rounds, dinner, drinks, prizes and plenty of chaos.Dates: 4th Sept | 7:30pm - 10pm 5th Sept | 7:30pm - 10pm ",
@@ -1810,6 +1810,45 @@
     "url": "https://urbanaut.app/spot/floral-workshop",
     "keywords": [
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Artisanal Sourdough Bread Workshop",
+    "description": "Learn how to bake an artisan loaf - real bread made the old-fashioned way, with just flour, water, and salt! No prior baking or cooking experience required. This is a hands-on class for those seriously interested in the sourdough baking process. Under Anita's guidance, each participant will work independently to make their loaf from start to finish. At the end of class you will go home with the confidence to start baking sourdough bread in your home kitchen. The class also includes a session on Sourdough Focaccia.250+ workshops and counting! Anita is a practicing Landscape Architect who enjoys cooking with seasonal ingredients. Like-minded people join her in the kitchen on weekends to cook and eat. She has been baking sourdough breads at home for over 15 years using local flours and her lively wild yeast starter. Come for the Bread, stay for the food.Two slots:Sun, Sept 20: 10:00am-4:30pm Full Day (mix, shape, bake in-class)Sun, Sept 6: 10:00-11:30am (Short Format, mix dough in class, bake at home) Recommended for those who have been baking on their on but want to improve their loaves (bring a baked loaf to class for discussion), or would like a refresher, or feel pressed for time.Sourdough bread baking requires practice. The workshops are for those seriously seeking to learn the art and craft of baking sourdough breads, not for casual experience seekers.",
+    "startDate": "2026-09-06T14:00:00+05:30",
+    "endDate": "2026-09-20T16:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "A99, Block A, Swasthya Vihar, New Delhi, Delhi, 110092, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.63999000000000000000",
+        "longitude": "77.29142000000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "5500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "A Mad Tea Party",
+      "url": "https://urbanaut.app/partner/a-mad-tea-party"
+    },
+    "url": "https://urbanaut.app/spot/sourdoughbread",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Workshop",
+      "Food & drink",
       "URBANAUT"
     ]
   },
