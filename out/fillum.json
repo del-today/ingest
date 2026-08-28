@@ -1,23 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "Soegija(2012)",
-    "url": "https://fillum.in/screening/5986",
-    "startDate": "2026-08-28T18:00:00+05:30",
-    "endDate": "2026-08-28T18:00:00+05:30",
-    "description": "As part of Indonesian Film Festival 2026 (Day 2)Also screening (short films):- DJUM- Gang Permai Dua",
-    "location": {
-      "@type": "Place",
-      "name": "India International Centre, Lodhi Estate",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Fillum"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "Good Bye, Lenin!(2003)",
     "url": "https://fillum.in/screening/6044",
     "startDate": "2026-08-29T11:00:00+05:30",
@@ -116,6 +99,23 @@
     "organizer": {
       "@type": "Organization",
       "name": "Fillum"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Scene Work - Workshop by National Award Winner Devanshu Singh",
+    "url": "https://fillum.in/event/6101",
+    "startDate": "2026-08-30T10:00:00+05:30",
+    "endDate": "2026-08-30T10:00:00+05:30",
+    "description": "Devanshu Singh is a National Award winning filmmaker and educator known for feature films \u2018Chintu Ka Birthday\u2019 and \u201814 Phere\u2019, and several viral AIB sketches.Apart from directing ads, mu..more",
+    "location": {
+      "@type": "Place",
+      "name": "Niv Art Centre, Neb Sarai",
+      "address": "Sainik Farm, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Devanshu Singh"
     }
   },
   {
