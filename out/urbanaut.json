@@ -2,80 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Kathika Cultural Experience",
-    "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
-    "startDate": "2026-08-28T11:30:00+05:30",
-    "endDate": "2026-08-31T14:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.64610280000000000000",
-        "longitude": "77.22736410000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kathika Cultural Centre and Museum",
-      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
-    },
-    "url": "https://urbanaut.app/spot/kathika-cultural-experience-15616",
-    "keywords": [
-      "Music",
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Onam Sadhya at Padmanabham | Delhi",
-    "description": "Experience the warmth of Kerala's most celebrated festival with Padmanabham's Onam Sadhya in Gurgaon.Served traditionally on a banana leaf, the Sadhya is a wholesome vegetarian feast featuring 30 authentic Kerala delicacies, carefully prepared to celebrate the spirit of Onam. More than just a meal, Sadhya reflects Kerala's rich culinary heritage, bringing together a balanced combination of flavours, nutrition, and age-old traditions. For generations, eating a Sadhya has been about more than food - it's about sharing a festive meal with family and friends while celebrating community and gratitude. In Kerala, there's even a popular saying:\"Kaanam Vittum Onam Unnanam\" \u2014 \"Even if you have to sell your property, never miss the Onam feast.\"Important Information:Rs. 1087 is the price per person. Govt. Taxes extra, as applicable. Sharing is not allowed.30 vegetarian dishes are served on a banana leaf.An advance per person is required to pre-reserve your table. This amount is non-refundable, non-encashable, and non-transferable. This amount will be adjusted against your final bill.There might be sharing of tables during peak hours.Prior booking is recommended at least 1 hour in advance. Guests may experience waiting time at the restaurant during busy hours or on event days, and the restaurant will not be liable for any delays.We hold the table for max of 15 minutes. After that, it will be considered a no-show.This voucher is valid only at that location and on that date/time. Cannot be transferred to another date/time or location.The voucher is valid only for Onam Sadhya.Each voucher can be redeemed only once.A 10% voluntary service charge will be applicable.This voucher is not valid for/on home delivery, take-away, or packed orders.No other discounts, offers or promotions from any third-party platforms will be applicable with this voucher.Guests are requested to inform the restaurant in advance regarding this booking, before visiting, to ensure a smooth dining experience.",
-    "startDate": "2026-08-28T12:00:00+05:30",
-    "endDate": "2026-08-29T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Upper Ground Floor, District Centre, HOG Market, T Sohanlal Marg, near BLK HOSPITAL, Rajendra Place, New Delhi, Delhi 110005, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.64465250000000000000",
-        "longitude": "77.17849590000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1087.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Padmanabham",
-      "url": "https://urbanaut.app/partner/padmanabham"
-    },
-    "url": "https://urbanaut.app/spot/onam-sadhya-at-padmanabham-delhi",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Play Like A Girl | SWAG Sports Day",
     "description": "It is National Sports Day! And we have to PLAY LIKE A GIRL! Morning Session: (7:30 - 10 AM)We'll kick things off with a beginner-friendly 3 KM Community Run, at Ambience Mall, Vasant Kunj, and then a high-energy bollywood dance workout, and wrap things up with coffee & breakfast at Third Wave!Evening Session:Evenings are meant to be spent playing cricket in the park, right? So we meet at 5:30 PM and play some Cricket and Kho-Kho, just like old times! We also have Energy Shots by Bloom and snacks by BRB.We have goodies by Sirona and a coffee + snack after each session!Coming solo? It's the best place to make new friends.No pressure. No judgement. Just a bunch of SWAG Girlies showing up, laughing through the misses, celebrating the wins, and creating memories!",
     "startDate": "2026-08-29T07:30:00+05:30",
@@ -114,55 +40,17 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Nature Walk - Aravalli",
-    "description": "A guided nature walk is being organised in Aravalli Biodiversity Park to help residents reconnect with the city\u2019s green spaces and observe the wildlife that thrives within them.We are lucky to be accompanied by the park\u2019s resident scientist, who will lead the group into areas normally closed to the general public. These restricted zones; quieter trails, research plots, and denser habitat pockets\u2014offer a rare chance to experience the park beyond the usual visitor paths.Under the scientists\u2019 guidance, walkers will explore these private sections while learning about ongoing ecological studies, native plant communities, and the wildlife that depends on them.",
-    "startDate": "2026-08-29T07:30:00+05:30",
-    "endDate": "2026-08-29T11:30:00+05:30",
+    "name": "Kathika Cultural Experience",
+    "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
+    "startDate": "2026-08-29T11:30:00+05:30",
+    "endDate": "2026-08-31T14:00:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "G4WX+F5F, Vasant Kunj Institutional Area, Vasant Kunj II, Vasant Kunj, New Delhi, Delhi 110070, India",
+      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.54619790000000000000",
-        "longitude": "77.14793060000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "350.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "New Delhi Nature Society",
-      "url": "https://urbanaut.app/partner/new-delhi-nature-society-312"
-    },
-    "url": "https://urbanaut.app/spot/nature-walk-aravalli",
-    "keywords": [
-      "Eco Friendly",
-      "Walking Tour",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Freshly Folded | Zine Making Workshop",
-    "description": "Freshly Folded | Zine-Making WorkshopWelcome to Freshly Folded, a hands-on zine-making workshop by Kutty Press at Greenr, where paper becomes a space for stories and experimentation.You'll learn the basics of DIY zine-making while exploring playful folded structures that transform a single sheet into a tiny publication. Through writing, drawing, and collage, we'll create something personal, tactile, and entirely your own. The theme will be revealed on the day, so all you need to bring is your curiosity.Whether you're a complete beginner or someone who loves making things by hand, this workshop is about slowing down, embracing imperfections, and discovering how much can fit inside a folded page.What you'll learn- The basics of DIY zine-making and zine culture- Simple folding techniques and unique structures- Layout, sequencing, and visual storytelling- Using collage/drawing to build a tiny publication- How to recreate and continue making zines at home",
-    "startDate": "2026-08-29T10:00:00+05:30",
-    "endDate": "2026-08-29T12:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "N - 4, N, Block Market, N Block, Greater Kailash I, New Delhi, Delhi 110047, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55685060000000000000",
-        "longitude": "77.23310790000000000000"
+        "latitude": "28.64610280000000000000",
+        "longitude": "77.22736410000000000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -170,18 +58,19 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "945.00",
+      "price": "1500.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Greenr",
-      "url": "https://urbanaut.app/partner/greenr"
+      "name": "Kathika Cultural Centre and Museum",
+      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
     },
-    "url": "https://urbanaut.app/spot/freshly-folded-zine-making-workshop",
+    "url": "https://urbanaut.app/spot/kathika-cultural-experience-15616",
     "keywords": [
-      "Workshop",
+      "Music",
+      "History & heritage",
       "Art & culture",
       "URBANAUT"
     ]
@@ -221,6 +110,42 @@
       "Leisure",
       "Pop-up Event",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Onam Sadhya at Padmanabham | Delhi",
+    "description": "Experience the warmth of Kerala's most celebrated festival with Padmanabham's Onam Sadhya in Gurgaon.Served traditionally on a banana leaf, the Sadhya is a wholesome vegetarian feast featuring 30 authentic Kerala delicacies, carefully prepared to celebrate the spirit of Onam. More than just a meal, Sadhya reflects Kerala's rich culinary heritage, bringing together a balanced combination of flavours, nutrition, and age-old traditions. For generations, eating a Sadhya has been about more than food - it's about sharing a festive meal with family and friends while celebrating community and gratitude. In Kerala, there's even a popular saying:\"Kaanam Vittum Onam Unnanam\" \u2014 \"Even if you have to sell your property, never miss the Onam feast.\"Important Information:Rs. 1087 is the price per person. Govt. Taxes extra, as applicable. Sharing is not allowed.30 vegetarian dishes are served on a banana leaf.An advance per person is required to pre-reserve your table. This amount is non-refundable, non-encashable, and non-transferable. This amount will be adjusted against your final bill.There might be sharing of tables during peak hours.Prior booking is recommended at least 1 hour in advance. Guests may experience waiting time at the restaurant during busy hours or on event days, and the restaurant will not be liable for any delays.We hold the table for max of 15 minutes. After that, it will be considered a no-show.This voucher is valid only at that location and on that date/time. Cannot be transferred to another date/time or location.The voucher is valid only for Onam Sadhya.Each voucher can be redeemed only once.A 10% voluntary service charge will be applicable.This voucher is not valid for/on home delivery, take-away, or packed orders.No other discounts, offers or promotions from any third-party platforms will be applicable with this voucher.Guests are requested to inform the restaurant in advance regarding this booking, before visiting, to ensure a smooth dining experience.",
+    "startDate": "2026-08-29T12:00:00+05:30",
+    "endDate": "2026-08-29T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Upper Ground Floor, District Centre, HOG Market, T Sohanlal Marg, near BLK HOSPITAL, Rajendra Place, New Delhi, Delhi 110005, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64465250000000000000",
+        "longitude": "77.17849590000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1087.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Padmanabham",
+      "url": "https://urbanaut.app/partner/padmanabham"
+    },
+    "url": "https://urbanaut.app/spot/onam-sadhya-at-padmanabham-delhi",
+    "keywords": [
+      "Food & drink",
       "URBANAUT"
     ]
   },
