@@ -2,159 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Kathika Cultural Experience",
-    "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
-    "startDate": "2026-08-29T11:30:00+05:30",
-    "endDate": "2026-08-31T14:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.64610280000000000000",
-        "longitude": "77.22736410000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kathika Cultural Centre and Museum",
-      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
-    },
-    "url": "https://urbanaut.app/spot/kathika-cultural-experience-15616",
-    "keywords": [
-      "Music",
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Plantation Drive",
-    "description": "Come join us for a plantation drive in Delhi. Our city is one of the most polluted cities in the world, with nothing bringing relief to its people and other organisms. The drive will focus on native and climate-resilient species carefully chosen for Delhi\u2019s conditions. Saplings will be planted alongside flowering shrubs and understorey plants that support birds, butterflies, and pollinators. These trees have been selected for their ability to filter particulate matter, absorb pollutants, and release oxygen, directly helping combat the city\u2019s air-quality challenges.This planned plantation is to expand green cover, improve air quality, soften the city\u2019s hard edges with shade, and create living spaces where people and wildlife can thrive together. As the saplings take root in the months ahead, they will stand as growing promises of cleaner air, cooler streets, and a richer natural heritage for the capital.",
-    "startDate": "2026-08-30T07:30:00+05:30",
-    "endDate": "2026-08-30T09:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "G76H+5G9, CH Ganga Baksh Marg, Tughlaqabad Village, Tughlakabad, New Delhi, Delhi 110044, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.51042470000000000000",
-        "longitude": "77.27887070000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "50.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "New Delhi Nature Society",
-      "url": "https://urbanaut.app/partner/new-delhi-nature-society-312"
-    },
-    "url": "https://urbanaut.app/spot/plantation-drive-15792",
-    "keywords": [
-      "Workshop",
-      "Eco Friendly",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Tughlaqabad - The Cursed City",
-    "description": "Join me on a journey through Tughlaqabad Fort, one of Delhi\u2019s most imposing medieval ruins, where history is inseparable from legend.Built in 1321 by Ghiyas-ud-din Tughlaq, founder of the Tughlaq dynasty, the fort was conceived as a formidable capital and military stronghold. Its battered stone walls, immense bastions, and steep defensive slopes still convey the ambition of its founder.But Tughlaqabad is remembered for more than its architecture. The fort is deeply entwined with the story of Ghiyas-ud-din Tughlaq, his son Muhammad bin Tughlaq, and the oft-repeated legend of the saint Nizamuddin Auliya, whose supposed curse has become part of the fort\u2019s enduring folklore.As we walk through its ruined palaces, gateways and hidden passages, we will look beyond the legends to understand the men, politics and ambitions that shaped one of the most remarkable chapters in Delhi\u2019s history.",
-    "startDate": "2026-08-30T08:00:00+05:30",
-    "endDate": "2026-08-30T10:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "G766+9W9, Tughlaqabad Fort, Tughlakabad, New Delhi, Delhi 110044, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.51091700000000000000",
-        "longitude": "77.26235369999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "413.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sikkawala",
-      "url": "https://urbanaut.app/partner/sikkawala"
-    },
-    "url": "https://urbanaut.app/spot/tughlaqabad-the-cursed-city-16127",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Yap and Build: Only for Women",
-    "description": "An idea walk for women with half-baked ideas and big ambitions.\u200bYour next big idea doesn\u2019t need another month in your Notes app.\u200bTouch Grass, Build Things is an informal idea walk for creators, founders, freelancers, students, and anyone with an idea they\u2019ve been meaning to explore.\u200bWe\u2019ll walk, talk, and exchange ideas in a relaxed, judgment-free setting. Bring a business idea, a creative project, a community initiative, a side hustle, or even something that\u2019s still half-baked. This isn\u2019t a pitch competition or a lecture. It\u2019s a space to think out loud, get honest feedback, meet like-minded people, and leave with more clarity than you came with.\u200bHere\u2019s how it works:\u200b\u2728 You\u2019ll be paired with one person to share your idea.\u2728 After a few minutes, you\u2019ll rotate to someone new.\u2728 By the end of the session, complete strangers will have challenged, refined, and shaped your idea from perspectives you never considered.\u200bPlease note: Everyone will purchase their own entry ticket to the venue (food and beverages are self-sponsored). We simply ask that you come with an open mind and at least one idea you\u2019re excited to share.\u200bSometimes all an idea needs is the right conversation.",
-    "startDate": "2026-08-30T08:00:00+05:30",
-    "endDate": "2026-08-30T10:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Bharat Scouts and Guides Marg, opposite Humayun Tomb Park, Nizamuddin, Hazrat Nizamuddin, National Zoological Park, Sundar Nagar, New Delhi, Delhi 110013, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59564670000000000000",
-        "longitude": "77.24516910000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Galhood",
-      "url": "https://urbanaut.app/partner/the-galhood"
-    },
-    "url": "https://urbanaut.app/spot/yap-and-build",
-    "keywords": [
-      "Local",
-      "Workshop",
-      "Walking Tour",
-      "History & heritage",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Overthinkers Anonymous - Relationships Edition",
     "description": "Overthinkers Anonymous (Relationships Editions)OverviewA space for the relationships you carry but rarely talk about. People gather to finally say the things they've held back from a parent, a partner, a coworker, an in-law, anyone they can't avoid and can't quite be honest with. Said out loud, finally.Most relationship conflicts are not just about what happened; they are about how we interpret what happened. This session focuses on exploring how our thoughts shape our connections and why friction often feels more intense than the situation warrants. \"Before You Blame\" is a reflective workshop designed to help you look at your assumptions and inner patterns, moving you from reactivity toward steadiness and emotional responsibility.What is Stories of Hope?We are a community-led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities, from mental well-being to personal growth, with empathy and shared human connection.What to ExpectPattern Recognition: Explore how common emotional triggers and ego-driven patterns shape conflicts in marriage, family, or work.Internal Focus: Instead of trying to fix others, we gently shift the focus inward to understand our own interpretations and responses.Practical Tools: Learn actionable ways to question stressful thoughts and practice perspective shifts using real-life scenarios.Safe Exploration: A supportive, non-judgmental environment for honest discussion. This is a space for learning and reflection, not a lecture or therapy.Key TakeawaysClarity: Gain a deeper understanding of recurring relationship dynamics.Responsiveness: Walk away with tools to help you respond thoughtfully instead of reacting impulsively.Emotional Ownership: Build the internal steadiness needed to navigate life without requiring others to change first.Details\ud83d\uddd3\ufe0f Date: 30th August (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Joaah Cafe",
     "startDate": "2026-08-30T11:30:00+05:30",
@@ -377,17 +224,17 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Flow & Glow - A Pilates & Skincare Ritual Morning",
-    "description": "Flow & Glow is a mindful morning ritual designed to move your body, refresh your skin, and leave you feeling your best.Begin with an energising Pilates session by The Pilates House, followed by a rejuvenating skincare ritual by YBP Skin. Wind down with a nourishing morning at Greenr, surrounded by movement, self-care and good energy.What to expect:\u2022 Pilates session by The Pilates House\u2022 Face yoga & skincare ritual by YBP\u2022 YBP goodies to take home\u2022 A refreshing morning at Greenr\u2022 Time to unwind, connect and glowCome find your flow & leave with your glow.https://www.instagram.com/ybpskin?igsi=Zmp6d2l0b3RjeWln",
-    "startDate": "2026-08-31T10:00:00+05:30",
-    "endDate": "2026-08-31T12:00:00+05:30",
+    "name": "Kathika Cultural Experience",
+    "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
+    "startDate": "2026-08-31T11:30:00+05:30",
+    "endDate": "2026-08-31T14:00:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "N - 4, N, Block Market, N Block, Greater Kailash I, New Delhi, Delhi 110047, India",
+      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.55685060000000000000",
-        "longitude": "77.23310790000000000000"
+        "latitude": "28.64610280000000000000",
+        "longitude": "77.22736410000000000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -395,19 +242,20 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "2100.00",
+      "price": "1500.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Greenr",
-      "url": "https://urbanaut.app/partner/greenr"
+      "name": "Kathika Cultural Centre and Museum",
+      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
     },
-    "url": "https://urbanaut.app/spot/flow-and-glow-a-pilates-and-skincare-ritual-morn",
+    "url": "https://urbanaut.app/spot/kathika-cultural-experience-15616",
     "keywords": [
-      "Leisure",
-      "Active",
+      "Music",
+      "History & heritage",
+      "Art & culture",
       "URBANAUT"
     ]
   },

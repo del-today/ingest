@@ -80,11 +80,11 @@
     ]
   },
   {
-    "@type": "ExhibitionEvent",
-    "name": "Inheritors of Earth",
-    "url": "https://www.knma.org/whats-on/exhibitions/inheritors-of-earth",
+    "@type": "EducationEvent",
+    "name": "Embodied Ways of Knowing",
+    "url": "https://www.knma.org/whats-on/talks/material-practices-2",
     "startDate": "2026-09-06T10:00:00+05:30",
-    "endDate": "2026-12-22T18:00:00+05:30",
+    "endDate": "2026-09-06T10:00:00+05:30",
     "description": "",
     "location": {
       "@type": "Place",
@@ -100,11 +100,11 @@
     ]
   },
   {
-    "@type": "EducationEvent",
-    "name": "Embodied Ways of Knowing",
-    "url": "https://www.knma.org/whats-on/talks/material-practices-2",
-    "startDate": "2026-09-06T10:00:00+05:30",
-    "endDate": "2026-09-06T10:00:00+05:30",
+    "@type": "ExhibitionEvent",
+    "name": "Inheritors of Earth",
+    "url": "https://www.knma.org/whats-on/exhibitions/inheritors-of-earth",
+    "startDate": "2026-09-09T10:00:00+05:30",
+    "endDate": "2026-12-22T18:00:00+05:30",
     "description": "",
     "location": {
       "@type": "Place",
