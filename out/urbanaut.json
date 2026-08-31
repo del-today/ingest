@@ -114,6 +114,44 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
+    "name": "Grounds for Thought: Defence Colony (Sept.)",
+    "description": "Grounds for Thought: Defence Colony, September 2026A Blue Tokai \u00d7 unLecture Series, Three Tuesday evenings. Three very different conversations.Grounds for Thought is a monthly series where Blue Tokai and unLecture bring researchers, scientists, and thinkers out of their institutions and into a coffee shop. The format is simple: an expert, a room full of curious people, and a conversation that goes somewhere a classroom rarely does. This September, the series spreads further than ever \u2014 four venues across Delhi and Bangalore, and a spread of ideas running from gender and work to princely politics, from children's books to comic-book uncles.3rd September: Dr. Rahul KapoorWomen, Work and Well BeingWomen's participation in paid and unpaid work shapes far more than a household budget, it shapes physical, psychological, economic, and social well-being all at once. But that participation is rarely on equal terms: wage gaps, occupational segregation, invisible care work, and the daily balancing act between job and family all take a toll. Dr. Rahul Kapoor, Assistant Professor of Sociology and Social Work at Gautam Buddha University and author of Women and Work: The Sky is Full of Sexism, asks what a genuinely gender-sensitive approach to employment and social protection would actually look like \u2014 and why economic participation alone was never going to be enough.17th September: Anukriti AgarwalChacha Knows Best: Chacha Chaudhary and the Politics of NostalgiaBefore Indian households had cable or the internet, they had Chacha Chaudhary \u2014 a turbaned uncle whose brain worked faster than a computer, created by Pran Kumar Sharma in 1971. Fifty years on, that same deliberately ordinary uncle now sells toilets, water conservation, and voter turnout on behalf of government ministries. Anukriti Agarwal, a language educator and Fulbright Fellow at Yale, traces how a comic-book uncle went from newsprint to nation-building \u2014 and what it reveals when a state borrows the nostalgia the middle class grew up on.24th September: Dr Shashank SinghPrinces in the Polls: Indian Royals and Inherited Power in a Democratic Age, 1948\u20131967Between the 1950s and 60s, former princely elites didn't disappear from Indian politics \u2014 they reinvented themselves within it. Dr Shashank Singh, Junior Fellow at the Prime Ministers Museum and Library and a historian of Gwalior's princely order, uses electoral data and legislative debate from Rajasthan and Madhya Pradesh to show how monarchical charisma and patronage fused with electoral legitimacy. His argument: India's democratic consolidation didn't dismantle the feudal order so much as absorb and repurpose it.",
+    "startDate": "2026-09-03T18:30:00+05:30",
+    "endDate": "2026-09-24T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "No A/57 to A/59, DDA Shopping Complex, Block F, Defence Colony, New Delhi, Delhi 110024, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.56615030000000000000",
+        "longitude": "77.23328000000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/grounds-for-thought-defence-colony-sept",
+    "keywords": [
+      "Workshop",
+      "History & heritage",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
     "name": "Slow Burn - A 4 Course Drinking Experience",
     "description": "Tucked into a corner of Lodhi Colony, The Love Hotel is Delhi's best-kept secret \u2014 a 20-seat cocktail room that takes its cues from the love hotels of Japan. It's intimate without being intense, flirtatious without trying too hard.Slow Burn is a four-course cocktail tasting built for this room \u2014 but where most tasting menus put food at the centre, here the cocktails play hero.It begins the second you walk in with a welcome shot. From there, four cocktails unfold in sequence \u2014 each its own chapter, drawn from the same five-taste philosophy that powers The Love Hotel's acclaimed program. Every pour lands with a course of tapas alongside it.An evening where the spirit leads, and the plate follows. And with only twenty seats, the room stays intimate & exclusive.",
     "startDate": "2026-09-03T19:00:00+05:30",
@@ -1268,6 +1306,43 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Crochet, but make it outdoors",
+    "description": "Take your crochet out of the usual four walls and into the greens.A 2-hour workshop brings together the calm of nature and the joy of making something by hand.We will begin with a nature walk, taking in the colours, textures and little details around us, before settling down outdoors with our yarn and hooks.Whether you\u2019re picking up a crochet hook for the first time or already enjoy making things, this is a chance to slow down, create and enjoy the process in a completely different setting.What to expect:A gentle nature walk and explorationLearn and practice the basics of crochetCrochet while surrounded by natureSpend time creating mini crochet charmA relaxed outdoor experience away from the usual routine",
+    "startDate": "2026-09-13T17:00:00+05:30",
+    "endDate": "2026-09-13T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "H6VW+PC6, Bharat Scouts and Guides Marg, Nizamuddin, National Zoological Park, Sundar Nagar, New Delhi, Delhi 110013, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59428540000000000000",
+        "longitude": "77.24600699999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "999.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Reset with Nature",
+      "url": "https://urbanaut.app/partner/reset-with-nature"
+    },
+    "url": "https://urbanaut.app/spot/crochet-but-make-it-outdoors",
+    "keywords": [
+      "Workshop",
+      "Walking Tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Where the Rain comes alive: Hauz-e-shamsi",
     "description": "Explore the Hidden Summer Palace of the MughalsDiscover a lesser-known chapter of Delhi's history on a guided heritage walk through the historic summer retreat of the Mughal era in Mehrauli.Explore the historic fort complex, admire its ancient water reservoir, and learn about the water systems, gardens, architecture, and traditions that once shaped this remarkable heritage site. Through engaging storytelling, uncover the forgotten history of the palace and its connection with Delhi's rich cultural past.Experience an offbeat heritage trail and discover a fascinating side of Mehrauli.Places Covered1 Mughal-era Summer Palace2 Historic Fort Complex3 Ancient Water Reservoir4 Remains of the Orchard Gardens5 Heritage Structures within the Complex",
@@ -1301,6 +1376,45 @@
       "Adventure",
       "Walking Tour",
       "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Mandala Art and Nature Walk",
+    "description": "A 2-hour nature experience where children step away from screens and into the outdoors.Through a guided nature walk they will explore their surroundings, learn about the flora and fauna around them and discover the little details they often miss.The second half of the experience brings nature and creativity together as children collect fallen leaves, flowers, twigs and other natural materials to create their own personalized mandalas.What will they experience?Nature Walk \u2013 Explore the surroundings and learn about local flora and fauna.Nature Discovery \u2013 Observe, notice and connect with the little things around them.Collect from Nature \u2013 Gather fallen leaves, flowers, twigs and other natural materials.Mandala Art \u2013 Use their collected treasures to create beautiful, nature-inspired mandalas.Screen-Free Time \u2013 Two hours to explore, create and be curious without screens.",
+    "startDate": "2026-09-19T17:00:00+05:30",
+    "endDate": "2026-09-19T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59368140000000000000",
+        "longitude": "77.22183380000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Reset with Nature",
+      "url": "https://urbanaut.app/partner/reset-with-nature"
+    },
+    "url": "https://urbanaut.app/spot/mandala-art-and-nature-walk",
+    "keywords": [
+      "Workshop",
+      "Eco Friendly",
+      "Walking Tour",
+      "Art & culture",
       "URBANAUT"
     ]
   },
