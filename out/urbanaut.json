@@ -1,18 +1,18 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Kathika Cultural Experience",
-    "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
-    "startDate": "2026-08-31T11:30:00+05:30",
-    "endDate": "2026-08-31T14:00:00+05:30",
+    "@type": "FoodEvent",
+    "name": "Sadhya @ Cocobay",
+    "description": "Sadhya is a feast, and our Chef Mohan is a Master at it. For those who missed the last 10 days may enjoy it with us till the 14 September. Post which we move to our new location in Bloom DLF 2, Gulmohar Marg\u00a0",
+    "startDate": "2026-09-01T12:00:00+05:30",
+    "endDate": "2026-09-13T15:00:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
+      "address": "Metro Station, 574, 43, off Golf Course Road, Sector 43, Gurugram, Haryana 122009, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.64610280000000000000",
-        "longitude": "77.22736410000000000000"
+        "latitude": "28.45706690000000000000",
+        "longitude": "77.09607650000000000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -20,19 +20,19 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "1500.00",
+      "price": "730.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Kathika Cultural Centre and Museum",
-      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
+      "name": "Cocobay - South Indian Cafe",
+      "url": "https://urbanaut.app/partner/cocobay-south-indian-cafe"
     },
-    "url": "https://urbanaut.app/spot/kathika-cultural-experience-15616",
+    "url": "https://urbanaut.app/spot/sadhya-cocobay",
     "keywords": [
-      "Music",
-      "History & heritage",
+      "Pop-up Event",
+      "Food & drink",
       "Art & culture",
       "URBANAUT"
     ]
@@ -150,6 +150,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Baddy with Baddies | Gurugram",
+    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.See you on court!",
+    "startDate": "2026-09-03T20:00:00+05:30",
+    "endDate": "2026-09-27T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Sportyzo Badminton Academy, Emaar emerald hills, Golf Course Ext Rd, opposite Ivory Block, Sector 65, Gurugram, Haryana 122011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40465650000000000000",
+        "longitude": "77.07401440000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "279.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag55",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Baddy with Baddies | Mehrauli",
     "description": "Grab your racket and bring your best energy - it's time for Baddy with Baddies \ud83c\udff8\u2728, a women-only badminton meet-up where the only goal is to have fun.Whether you've got a sneaky smash up your sleeve or you're simply looking for a fun way to move, this session is all about friendly rallies, big laughs, and moving your body in great company. Expect good vibes, and a community of women who are here to play, cheer each other on, and enjoy the sport.So if you've been looking for an excuse to get back on the court (or step onto one for the first time), this is it.Come solo or with your girls - you'll leave with a great workout, a few new friends, and probably plans for a rematch.",
     "startDate": "2026-09-03T20:00:00+05:30",
@@ -206,7 +244,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "840.00",
+      "price": "944.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -392,7 +430,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "1600.00",
+      "price": "1798.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -481,6 +519,44 @@
       "Adventure",
       "Premium",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Hot Girls Do Pilates | Delhi",
+    "description": "Let\u2019s make your Sunday morning extra feel-good with Hot Girls Do Pilates, a women-only, guided pilates experience by SWAG \ud83d\udc9bThis is a reformer pilates session with limited spots!Come and feel fitter in the company of like-minded women, and stay back for some coffee and chit-chat!",
+    "startDate": "2026-09-06T10:00:00+05:30",
+    "endDate": "2026-09-06T11:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "A322, Block A, Defence Colony, New Delhi, Delhi 110024, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.57351930000000000000",
+        "longitude": "77.22945200000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1399.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag52",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Active",
       "URBANAUT"
     ]
   },
@@ -674,6 +750,76 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Rewriting Epics The Feminist Way",
+    "description": "About the LectureThe Epics have held the Indian imagination since time immemorial, narrated, performed and rendered into cinema again and again. Looking at them afresh means asking the questions they've spent centuries deflecting: the role of women, the contribution of the dispossessed, and the quintessential human questions of survival and existence.A feminist retelling brings the women back to the centre. It strips away the proverbial sheen of the \"just\" war to focus on the human question underneath. Whether it's the fiery Draupadi, the \"manipulative\" Satyavati, the warrior queen Chitrangada, Janaki, or the duo of Kaikeyi and Manthara \u2014 the Epics allow us to deconstruct these women through a modern feminist lens.The session explores:How feminist retellings of the Mahabharata and Ramayana recentre their women charactersWhat writers like Tagore, Mahasweta Devi, Irawati Karve and Chitra Divakaruni reveal through their retellingsWhy the Epics' \"timeless\" characters remain contemporary and urgently relevantHow deconstructing canonical narratives changes what the stories are actually aboutAbout the SpeakerDr. Nandini C. Sen is a Professor of English at the University of Delhi \u2014 an author, editor, literary critic and storyteller. For nearly three decades, she has explored how literature shapes the way we understand history, identity, gender and the world around us, working across African Literature, Diaspora studies, mythology, postcolonial studies and feminist readings of the Indian epics. Her academic journey has taken her from Delhi to London as a Charles Wallace Scholar, to the Indian Institute of Advanced Study, Shimla as a Fellow, and to universities and literary forums across the world. She is the recipient of the Write India Award for creative writing, the Ambassador for Peace Prize for teaching in a slum cluster, and the Best Lecturer's Award from the Government of Delhi. She is the author of the bestselling short story collection The Second Wife and Other Stories, and editor of several acclaimed books.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-09-06T15:00:00+05:30",
+    "endDate": "2026-09-06T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "550.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/rewriting-epics-the-feminist-way",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Singing The Screen",
+    "description": "Singing the Screen: Female Playback and the Making of Bombay CinemaAbout the LectureLata Mangeshkar. Geeta Dutt. Asha Bhosle.These playback stars recur across decades of Hindi film songs \u2014 spilling their voices onto cinematic bodies on screen and across every media device that carries them. Moving away from a biographical approach, this lecture focuses instead on the material practices of Bombay cinema that made that spillage possible in the first place.Through close listening, the session invites the audience to engage with their own media-driven sonic memories, and to ask new questions about the female voice in contemporary, post-digital cinema.The session explores:How Bombay cinema's material practices let playback voices spill across bodies and mediaWhat close listening to Lata Mangeshkar, Geeta Dutt and Asha Bhosle reveals beyond biographyHow our own sonic memories are shaped by decades of playback singingWhat happens to the female voice in the shift to post-digital cinemaAbout the SpeakerShikha Jhingan is an Associate Professor in Cinema Studies at the School of Arts and Aesthetics, Jawaharlal Nehru University. Her research focuses on voice, music and sound in cinema. She is the author of Female Playback in Bombay Cinema: Voice, Body, Technology (Wayne State University Press, 2025), and her work has appeared in journals including Bioscope: South Asian Screen Studies, Feminist Media Histories, South Asian History and Culture, Studies in South Asian Film and Media, and the Journal of Sound, Silence, Image and Technology. She recently joined as one of the core editors of Bioscope, a leading journal in South Asian Screen Studies. A founding member of Media Storm, an independent women's filmmaking collective formed in Delhi in 1986, her documentary films include Health Matters, Living through Performance and Born to Sing; she also co-directed The Power of the Image, a twelve-part documentary series on Bombay cinema.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-09-06T16:00:00+05:30",
+    "endDate": "2026-09-06T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gate No. 1, Bahadur Shah Zafar Marg, inside Shaheedi park, Balmiki Basti, Vikram Nagar, New Delhi, Delhi, 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.63445520000000000000",
+        "longitude": "77.24131700000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/singing-the-screen",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "From Thrones to Tricolor: The Journey of Red Fort",
     "description": "Step into the heart of the Mughal Empire with a guided tour of the Red Fort (Lal Qila), a UNESCO World Heritage site that stands as a symbol of India\u2019s sovereignty. Built by Emperor Shah Jahan in the 17th century, this grand sandstone citadel is more than just an architectural marvel; it is a witness to the rise and fall of dynasties. From the opulence of the Diwan-i-Khas, where the Peacock Throne once sat, to the marks of British colonial transformation and the historic moment of India\u2019s independence, every gateway and marble pavilion tells a layered story. As you walk through the majestic Lahori Gate and explore the serene Meena Bazaar, you\u2019ll experience the transition from imperial luxury to the birth of a modern nation. This tour offers a profound journey through time, revealing how this \"fortress of the world\" continues to shape the identity of Delhi and the spirit of India.Join us to uncover the legends etched into these red sandstone walls. Please note that the fee is not for access to the site, but rather for the curation of this experience.Places we will cover:Lahori GateNaubat KhanaDiwan-i-AamDiwan-i-KhasMoti MasjidRang MahalKhas MahalHira MahalMumtaz MahalZafar Mahal and the white Sawan/Bhadon pavilionsImportant Points:Details of the heritage walk will be mailed to you when you book the tickets.No guided fees for kids below 8.Medium of communication : Hindi and EnglishPlease note that in case of unavoidable external reasons such as (weather conditions, political rallies, VIP movement) the walk may be canceled. The participant has the liberty to take another walk by the company against the payment they have made within 30 days since the date of the registered walk.The company doest not have refund policy.",
     "startDate": "2026-09-06T16:00:00+05:30",
@@ -743,6 +889,43 @@
     "keywords": [
       "History & heritage",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Grounds for Thought: Janpath (Sept.)",
+    "description": "Grounds for Thought: Janpath, September 2026 A Blue Tokai \u00d7 unLecture Series, Three Tuesday evenings. Three very different conversations.Grounds for Thought is a monthly series where Blue Tokai and unLecture bring researchers, scientists, and thinkers out of their institutions and into a coffee shop. The format is simple: an expert, a room full of curious people, and a conversation that goes somewhere a classroom rarely does. This September, the series spreads further than ever \u2014 four venues across Delhi and Bangalore, and a spread of ideas running from gender and work to princely politics, from children's books to comic-book uncles.8th September: Prateek Mundeja Why Do Good Ideas Fail in Government? Governance is usually discussed in ideals \u2014 promises, ambition, the world as it ought to be. Prateek Mundeja, Assistant Professor of Political Science and Mookerjee Fellow (2025\u201326), argues that the more useful question is a duller one: what actually works? This session takes a realist's tour through limited resources, institutional capacity, and the gap between stated intentions and delivered outcomes \u2014 and makes the case that ideals only survive contact with the world when backed by hard, unglamorous choices.22nd September: Aarushee Shukla The Pause, The Buzzword, and The CollectiveIn a meeting room in Bihar and Kerala, Aarushee Shukla asked women what their collective meant to them, and got a long, deliberate silence back. That silence, she found, wasn't an absence of an answer \u2014 it was its own kind of answer, one we're rarely taught to read. This session recreates that pause live, then turns to the vocabulary \u2014 \"empowerment,\" \"participation,\" \"social capital\" \u2014 that runs through women's lives on paper, asking who gets to write those words and who is simply left to live inside them.29th September: Amitrajeet MukherjeeVoices from War: Revisiting John Keegan's The Face of BattleJohn Keegan's landmark book opened with a deceptively simple question \u2014 what is it actually like to be in a battle? Fifty years on, his witnesses remain almost entirely European, despite spanning centuries of warfare. Amitrajeet Mukherjee, a doctoral candidate in English Literature at Delhi University, widens that frame to the two and a half million Indians who served in the Second World War \u2014 diarists, letter-writers, the censored and the unrecorded \u2014 and asks whose voices get to define what \"war writing\" is for.",
+    "startDate": "2026-09-08T18:30:00+05:30",
+    "endDate": "2026-09-29T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "No 48, Mezzanine & Ground Floor, Atul Grove Road, Janpath, Connaught Place, New Delhi, Delhi 110001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.62697200000000000000",
+        "longitude": "77.21977799999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/grounds-for-thought-janpath-sept",
+    "keywords": [
+      "Workshop",
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -971,6 +1154,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Hot Girls Know Their Rights",
+    "description": "POV: You know every Instagram update but not your legal rights \ud83d\ude2d\u200bFrom scam calls and cyber frauds to influencer promotions, workplace drama, protests, and your everyday rights, we\u2019re covering the legal stuff that actually matters.\u200bAbout the Speaker:\u200bRashi Aggarwal is an Advocate with over 3 years of post-qualification litigation experience, actively handling matters before the Supreme Court of India and various High Courts. Her practice involves drafting and settling Special Leave Petitions, writ petitions, appeals, counter-affidavits, rejoinders, and applications, supported by extensive legal research and brief preparation. She has a strong understanding of litigation strategy, procedural requirements, and compliance with the Supreme Court Rules, with a keen interest in delivering effective and well-researched legal representation.\u200bYashika Chadha is an Advocate practising in Litigation and Dispute Resolution, with experience since 2023. Her practice covers Civil and Commercial Litigation, Writ Proceedings, Domestic Arbitration, Real Estate and Infrastructure Disputes, Consumer Matters, and select Criminal Matters. She has experience advising and representing clients before District and Commercial Courts, Tribunals, the NCLT, Arbitral Institutions, High Courts, and the Supreme Court of India, with a focus on effective representation, legal research, drafting, and dispute resolution.\u200bWe\u2019re talking about:\ud83d\udcf1 Cyber frauds\ud83d\udcbc Workplace rights\ud83d\udecd\ufe0f Consumer rights\ud83d\udce2 Public & protest rights\ud83d\udcf2 Influencer marketing & misleading ads\u200bExpect discussions, activities, quizzes, and lots of \u201cWAIT\u2026 THAT\u2019S ACTUALLY ILLEGAL?\u201d",
+    "startDate": "2026-09-13T12:00:00+05:30",
+    "endDate": "2026-09-13T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Westend marg, Gali No 1, Saidulajab, Saket, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.51594680000000000000",
+        "longitude": "77.19987800000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "300.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Galhood",
+      "url": "https://urbanaut.app/partner/the-galhood"
+    },
+    "url": "https://urbanaut.app/spot/hot-girls-know-their-rights",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Nani ka Ghar by V's Supper Stories",
     "description": "Nani ka Ghar by V's Supper Stories A supper brunch of home-cooked nostalgia.Some recipes don't survive migration. They get left behind in old kitchens, remembered only in fragments-  a smell, a story, a dish someone's grandmother used to make that no one quite knows how to recreate anymore.Nani ka Ghar is a supper built around dishes like that. Rooted in Multan, where my own Nani is from, and reaching into Lahore and Sindh - the homes our grandparents carried with them.  This menu brings back food that's slow, laborious, and increasingly rare: a sourdough flatbread fermented over three days, a lotus-stem starter barely made anymore even in Sindhi households, a moth dal kachori you'll mostly only find on a handful of old Delhi streets.Alongside them sit the dishes that never left,  a rich Lahori chicken karahi, a comforting channay, and phirni made exactly the way it's made every Holi in our family, because some things don't need reviving. They just need to be shared.Come hungry. Come with stories of your own kitchens, if you have them.Date - 13th September Time - 12:30pm - 3pm A limited seating supper. Multani, Lahori, and Sindhi dishes, veg and non-veg options available.",
@@ -1118,6 +1339,43 @@
       "Adventure",
       "Premium",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Clay in the Wild (Kids)",
+    "description": "2-Hour Nature Pottery Experience where children step away from screens and into the outdoors.Through a guided nature walk they will explore their surroundings, learn about the flora and fauna around them and discover the little details they often miss. Throughout the nature walk, the children will be encouraged to gather inspiration, textures, and a few fallen leaves or flowers before getting to work with clay.Using soft air-dry clay, the children will shape trinket trays and small plates, with real botanical one-of-a-kind imprints.What will they experience?Nature Walk \u2013 Explore the surroundings and learn about local flora and fauna.Nature Discovery \u2013 Observe, notice and connect with the little things around them.Foraging from Nature \u2013 Gather fallen leaves, flowers, twigs and other natural materials.Clay as a Craft \u2013 Use their collected treasures to create beautiful, nature-inspired trays & plates.Screen-Free Time \u2013 Two hours to explore, create and be curious without screens.",
+    "startDate": "2026-09-20T17:00:00+05:30",
+    "endDate": "2026-09-20T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Nehru park, Ramnagar, Chanakyapuri, New Delhi, Delhi 110021, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59096880000000000000",
+        "longitude": "77.19320030000002000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "999.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Reset with Nature",
+      "url": "https://urbanaut.app/partner/reset-with-nature"
+    },
+    "url": "https://urbanaut.app/spot/clay-in-the-wild-kids",
+    "keywords": [
+      "Wellness",
+      "Art & culture",
       "URBANAUT"
     ]
   },
