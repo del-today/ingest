@@ -152,7 +152,7 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Grounds for Thought: Defence Colony (Sept.)",
+    "name": "Grounds for Thought: Defence Colony",
     "description": "Grounds for Thought: Defence Colony, September 2026A Blue Tokai \u00d7 unLecture Series, Three Tuesday evenings. Three very different conversations.Grounds for Thought is a monthly series where Blue Tokai and unLecture bring researchers, scientists, and thinkers out of their institutions and into a coffee shop. The format is simple: an expert, a room full of curious people, and a conversation that goes somewhere a classroom rarely does. This September, the series spreads further than ever \u2014 four venues across Delhi and Bangalore, and a spread of ideas running from gender and work to princely politics, from children's books to comic-book uncles.3rd September: Dr. Rahul KapoorWomen, Work and Well BeingWomen's participation in paid and unpaid work shapes far more than a household budget, it shapes physical, psychological, economic, and social well-being all at once. But that participation is rarely on equal terms: wage gaps, occupational segregation, invisible care work, and the daily balancing act between job and family all take a toll. Dr. Rahul Kapoor, Assistant Professor of Sociology and Social Work at Gautam Buddha University and author of Women and Work: The Sky is Full of Sexism, asks what a genuinely gender-sensitive approach to employment and social protection would actually look like \u2014 and why economic participation alone was never going to be enough.17th September: Anukriti AgarwalChacha Knows Best: Chacha Chaudhary and the Politics of NostalgiaBefore Indian households had cable or the internet, they had Chacha Chaudhary \u2014 a turbaned uncle whose brain worked faster than a computer, created by Pran Kumar Sharma in 1971. Fifty years on, that same deliberately ordinary uncle now sells toilets, water conservation, and voter turnout on behalf of government ministries. Anukriti Agarwal, a language educator and Fulbright Fellow at Yale, traces how a comic-book uncle went from newsprint to nation-building \u2014 and what it reveals when a state borrows the nostalgia the middle class grew up on.24th September: Dr Shashank SinghPrinces in the Polls: Indian Royals and Inherited Power in a Democratic Age, 1948\u20131967Between the 1950s and 60s, former princely elites didn't disappear from Indian politics \u2014 they reinvented themselves within it. Dr Shashank Singh, Junior Fellow at the Prime Ministers Museum and Library and a historian of Gwalior's princely order, uses electoral data and legislative debate from Rajasthan and Madhya Pradesh to show how monarchical charisma and patronage fused with electoral legitimacy. His argument: India's democratic consolidation didn't dismantle the feudal order so much as absorb and repurpose it.",
     "startDate": "2026-09-03T18:30:00+05:30",
     "endDate": "2026-09-24T20:00:00+05:30",
@@ -170,7 +170,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "650.00",
+      "price": "550.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -375,6 +375,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Sanjay Van: Forgotten Ruins & Forest Picnic",
+    "description": "Sunrise Hiking ExperienceThis early morning hiking experience takes you through forest trails, historic ruins, and scenic viewpoints for a refreshing start to the day. Designed to be beginner friendly, it combines nature, light adventure, storytelling, and meaningful group moments, making it ideal for solo travellers, couples, friends, and small groups.Along the way, discover interesting stories and hidden history, take part in fun group activities, and pause for a peaceful forest bathing experience. The morning comes together with a relaxed picnic breakfast at a scenic spot, bringing exploration, history, nature, and connection into one refreshing outdoor experience.Experience Flow1. Arrival and Meet Up at 5:15 AMAssemble at the meeting point by 5:15 AM for check in and a quick introduction. The experience begins at 5:30 AM sharp, so arriving on time allows you to settle in comfortably before the hike begins.2. Briefing and Warm UpMeet the hike leaders and attend a short safety briefing before getting started. Ease into the morning with a light ice breaker and a few interesting stories about the trail and its surroundings.3. Sunrise Hike Through Forests and RuinsSet out on a guided walk through forest trails, lesser known paths, old ruins, and scenic viewpoints. Enjoy the fresh morning air while discovering the quieter side of the landscape as the sun rises.4. Stories, Games and Forest PauseTake breaks along the way to hear local legends and stories of hidden history. Enjoy fun group activities before slowing down for a calm forest bathing moment and taking in the surrounding nature.5. Picnic Breakfast and Wrap Up at 8:30 AMEnd the morning at a scenic spot with a relaxed picnic breakfast. After some time to unwind and enjoy the surroundings, make your way back with the group. ",
+    "startDate": "2026-09-05T05:30:00+05:30",
+    "endDate": "2026-09-05T08:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "G5PJ+PMP Sanjay Van, New Mehrauli Road, Block B, Qutab Institutional Area, New Delhi, Delhi 110016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53698790000000000000",
+        "longitude": "77.18188470000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1770.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Trail It Hiking and Outdoors",
+      "url": "https://urbanaut.app/partner/trail-it-hiking-and-outdoors"
+    },
+    "url": "https://urbanaut.app/spot/sanjayvanexperience",
+    "keywords": [
+      "Adventure",
+      "Premium",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "The Drafting Table",
     "description": "OverviewA quiet writing circle for thoughts that haven\u2019t fully formed yet.Through short writing sprints and reflective prompts, people return to the practice ofputting words on paper, slowly and honestly. A place to begin.ThemeIn this edition of the Drafting Table: Say It Without Saying It\"Say It Without Saying It\" invites two people into one room and one situation, where the real conversation happens beneath the spoken lines. Participants pick character and situation cards, then write through two guided sprints, with a twist folded in partway to shift what's at stake. It's less about crafting clever dialogue and more about noticing what gets said, what gets dodged, and what everyone in the scene already knows but won't name.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to ExpectA Short Intro: We open with a brief framing of the theme and a prompt to get you started. No pressure to use it, just a way in.Writing Time: The bulk of the session is yours. Quiet, unhurried time to write whatever the character needs you to write.Open Mic: We close with an optional read-aloud. Share what you wrote, or just listen. Both are completely fine.Details\ud83d\uddd3\ufe0f Date: 5th September (Saturday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Joaah Cafe, Ireo City Central\ud83c\udf9f\ufe0f Fee: \u20b9700",
@@ -556,44 +594,6 @@
       "Leisure",
       "Pop-up Event",
       "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Dawn Trails & Lakeside Picnic in Delhi NCR",
-    "description": "This early morning hiking experience takes you across rocky paths, scenic ridgelines and a picturesque lakeside setting, offering a refreshing escape into nature.The experience brings together gentle adventure, outdoor exploration, group activities and a picnic breakfast, making it suitable for beginners, couples, friends and solo travellers.Participants will be accompanied by experienced hike leaders throughout the trail.The experience also includes a curated picnic breakfast, storytelling, engaging group activities and basic first aid support.Experience Schedule1. Arrival and Meet Up at 5:15 AMReach the starting point by 5:15 AM and meet the rest of the group before setting off.Briefing and Introduction: Get acquainted with the hike leaders as they give you a quick overview of the trail, the experience and what to expect during the morning.2. Sunrise Hike Begins at 5:30 AMBegin the hike at 5:30 AM and follow a guided route through scenic trails, rocky stretches and boulder sections.Enjoy the peaceful morning atmosphere and beautiful views as the landscape comes alive around you.3. Nature Pause and Group ActivitiesTake brief pauses during the hike to soak in the surroundings and discover interesting details about the natural landscape.Participate in fun outdoor activities designed to keep the group engaged and make the experience more interactive.4. Picnic BreakfastStop at a scenic location to unwind and enjoy a curated picnic breakfast.Take some time to relax, connect with the group and enjoy your meal surrounded by nature.5. Walk Back and Wrap Up at 8:30 AMBegin the return walk with the group after the picnic and make your way back to the starting point.",
-    "startDate": "2026-09-06T05:30:00+05:30",
-    "endDate": "2026-09-06T08:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "95VP+C6C, Mangar, Haryana 121004, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.39356250000000000000",
-        "longitude": "77.18551560000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1770.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Trail It Hiking and Outdoors",
-      "url": "https://urbanaut.app/partner/trail-it-hiking-and-outdoors"
-    },
-    "url": "https://urbanaut.app/spot/picnicatmangarlake",
-    "keywords": [
-      "Adventure",
-      "Premium",
-      "Guided tour",
       "URBANAUT"
     ]
   },
@@ -925,6 +925,43 @@
     },
     "url": "https://urbanaut.app/spot/rewriting-epics-the-feminist-way",
     "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "On That Note",
+    "description": "A community for those who enjoy singing or playing an instrument. Whether you are a beginner, a hobbyist or a seasoned musician, you are welcome!This isn\u2019t an open mic or a performance night. It\u2019s a relaxed space where members meet once a month to jam together. Think living-room vibes, shared laughter, spontaneous harmonies, and zero judgment.Bring a song you\u2019re working on, your instrument, or simply your voice. Play something unfinished. Experiment. Collaborate. Cheer each other on. If you\u2019ve been meaning to practice more, meet fellow music lovers, or just looking to spend an afternoon doing something creative and screen-free - this is your sign!No stage. No pressure. Just music and good company. \ud83c\udfb6",
+    "startDate": "2026-09-06T16:00:00+05:30",
+    "endDate": "2026-09-06T17:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Soami Nagar North, Soami Nagar, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54311210000000000000",
+        "longitude": "77.22542659999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "350.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "ON THAT NOTE",
+      "url": "https://urbanaut.app/partner/on-that-note"
+    },
+    "url": "https://urbanaut.app/spot/on-that-note-16289",
+    "keywords": [
+      "Leisure",
+      "Music",
       "URBANAUT"
     ]
   },
@@ -1751,44 +1788,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Sanjay Van: Forgotten Ruins & Forest Picnic",
-    "description": "Sunrise Hiking ExperienceThis early morning hiking experience takes you through forest trails, historic ruins, and scenic viewpoints for a refreshing start to the day. Designed to be beginner friendly, it combines nature, light adventure, storytelling, and meaningful group moments, making it ideal for solo travellers, couples, friends, and small groups.Along the way, discover interesting stories and hidden history, take part in fun group activities, and pause for a peaceful forest bathing experience. The morning comes together with a relaxed picnic breakfast at a scenic spot, bringing exploration, history, nature, and connection into one refreshing outdoor experience.Experience Flow1. Arrival and Meet Up at 5:15 AMAssemble at the meeting point by 5:15 AM for check in and a quick introduction. The experience begins at 5:30 AM sharp, so arriving on time allows you to settle in comfortably before the hike begins.2. Briefing and Warm UpMeet the hike leaders and attend a short safety briefing before getting started. Ease into the morning with a light ice breaker and a few interesting stories about the trail and its surroundings.3. Sunrise Hike Through Forests and RuinsSet out on a guided walk through forest trails, lesser known paths, old ruins, and scenic viewpoints. Enjoy the fresh morning air while discovering the quieter side of the landscape as the sun rises.4. Stories, Games and Forest PauseTake breaks along the way to hear local legends and stories of hidden history. Enjoy fun group activities before slowing down for a calm forest bathing moment and taking in the surrounding nature.5. Picnic Breakfast and Wrap Up at 8:30 AMEnd the morning at a scenic spot with a relaxed picnic breakfast. After some time to unwind and enjoy the surroundings, make your way back with the group. ",
-    "startDate": "2026-09-20T05:30:00+05:30",
-    "endDate": "2026-09-20T08:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "G5PJ+PMP Sanjay Van, New Mehrauli Road, Block B, Qutab Institutional Area, New Delhi, Delhi 110016, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53698790000000000000",
-        "longitude": "77.18188470000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1770.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Trail It Hiking and Outdoors",
-      "url": "https://urbanaut.app/partner/trail-it-hiking-and-outdoors"
-    },
-    "url": "https://urbanaut.app/spot/sanjayvanexperience",
-    "keywords": [
-      "Adventure",
-      "Premium",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Artisanal Sourdough Bread Workshop",
     "description": "Learn how to bake an artisan loaf - real bread made the old-fashioned way, with just flour, water, and salt! No prior baking or cooking experience required. This is a hands-on class for those seriously interested in the sourdough baking process. Under Anita's guidance, each participant will work independently to make their loaf from start to finish. At the end of class you will go home with the confidence to start baking sourdough bread in your home kitchen. The class also includes a session on Sourdough Focaccia.250+ workshops and counting! Anita is a practicing Landscape Architect who enjoys cooking with seasonal ingredients. Like-minded people join her in the kitchen on weekends to cook and eat. She has been baking sourdough breads at home for over 15 years using local flours and her lively wild yeast starter. Come for the Bread, stay for the food.Two slots:Sun, Sept 20: 10:00am-4:30pm Full Day (mix, shape, bake in-class)Sun, Sept 6: 10:00-11:30am (Short Format, mix dough in class, bake at home) Recommended for those who have been baking on their on but want to improve their loaves (bring a baked loaf to class for discussion), or would like a refresher, or feel pressed for time.Sourdough bread baking requires practice. The workshops are for those seriously seeking to learn the art and craft of baking sourdough breads, not for casual experience seekers.",
@@ -1936,6 +1935,42 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Film and Analog photography workshop",
+    "description": "A comprehensive two-day workshop covering all aspects of the analog process from taking photographs on film to making silver prints on photographic paper.Structure of the workshopDay 1:A lecture on the origin of photography - Discover how photography began and explore early processes through a short, engaging introduction.Shooting on Film - Learn how to manually operate a film camera & a light meter to get correct exposures.Developing the Film - Learn how to develop your film roll in a darkroom with chemical solutions to get photographic negatives.Day 2:Create contact sheets - Using your negatives, create contact sheets and gain a clear understanding of exposure, development and timing.Create a test strip - Learn how to judge and determine the best exposure while creating prints in the darkroom.Create final prints - Learn how to create silver gelatine prints in the darkroom and workarounds to possible errors.Frequently asked questions:Is there any prior knowledge needed to attend this workshop?No, there is no prior knowledge needed for this workshop.Is there an age restriction for this workshop?Yes, the workshop is meant for ages 15+Do we as participants need to bring anything?No, all equipment and materials will be provided by Museo.Will we get to take our prints and negatives home at the end of the workshop?Yes, you will get to take your photographic negatives and prints home.Will there be a certificate provided once the workshop is over?Yes, a digital certificate will be provided upon completion of the workshop.What is the batch size of the workshop?The workshop is conducted in small batches of up-to 4 people per batch.Does the workshop also teach us how to use colour film?No, the workshop only covers black and white film photography.What is the recommended attire for the workshop?Comfortable clothing and shoes are recommended for the workshop.Will lunch be provided?Each participant will receive a 15% discount at the museum cafe on both days of the workshop.Once the workshop is over, how can I continue to practice the process?You can book the darkroom to practice the process, to do so you would have to write to us at workshops@museocamera.orgMeet your trainers Taught by some of the best practicing photographers and printmakers.Aditya AryaFounder, Director, Museo CameraWith 45+ years of experiencePhotographer, historian and Founder-Director of Museo Camera with years of experience across advertising and fine art, he champions the slowness of analog processes. He practices and teaches historic techniques like cyanotype and wet plate collodion, keeping them alive through hands-on learning.https://www.adityaarya.com/Avinash AggarwalFacilitatorwith 45+ years of experienceAggarwal\u2019s practice spans several decades, encompassing commercial work in product, industrial, interior, and portrait photography. Alongside this, he has consistently engaged with the artistic and experimental dimensions of the medium, with expertise in black-and-white and colour darkroom processes, as well as alternative photographic techniques. He currently runs his studio, Studio A89, at Kaladham, Greater Noida, where he also teaches analogue and alternative photography, and conducts workshops across institutions in the Delhi NCR region.Khushi Upadhyay Darkroom AssistantWith 2+ years of experienceShe is a photographer working with analog and alternative processes, embracing slowness while guiding others to do the same. Rooted in light and material, she leads cyanotype and historic process workshops through hands-on, immersive image-making.",
+    "startDate": "2026-09-26T11:00:00+05:30",
+    "endDate": "2026-09-26T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shri Ganesh Mandir Marg, Sector 28, DLF Phase IV, Gurugram, Haryana 122009, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46961600000000000000",
+        "longitude": "77.08038510000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "8159.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Museo Camera",
+      "url": "https://urbanaut.app/partner/museo-camera"
+    },
+    "url": "https://urbanaut.app/spot/film-and-analog",
+    "keywords": [
+      "Workshop",
       "URBANAUT"
     ]
   },
