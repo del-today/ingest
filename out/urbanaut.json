@@ -39,6 +39,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Kathika Cultural Experience",
+    "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
+    "startDate": "2026-09-02T11:30:00+05:30",
+    "endDate": "2026-09-30T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64610280000000000000",
+        "longitude": "77.22736410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kathika Cultural Centre and Museum",
+      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
+    },
+    "url": "https://urbanaut.app/spot/kathika-cultural-experience-15616",
+    "keywords": [
+      "Music",
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Level 1 - I LIKE TO MOVE IT MOVE IT!",
     "description": "I LIKE TO MOVE IT, MOVE IT! Dancing for Non-Dancers is a playful movement and body-awareness practice. It invites you to rediscover movement not as performance or technique, but as a process of curiosity.The programme expands movement vocabulary, deepens mind-body awareness and develops a broader appreciation of what dance can be.Participants leave with a deeper understanding of their bodies and movement patterns, greater responsiveness to music and rhythm and practical tools that support mobility, adaptability, physical wellbeing and long-term vitality.(Warning: Side effects may include increased spontaneity, killer dance moves and unexpected joy.)Every WEDNESDAY (5-7pm) and every SATURDAY (11am-1pm) for the month of SEPTEMBER, 2026Rs. 15,000/- for the month, Level 1 course(Please click on the 'Sept 2nd 5:00-5:01pm' option for ticket booking - this entitles you to the FULL MONTH of classes)Further details on what we will explore during the course are mentioned below.**ABOUT SHENAShena Gamat is a theatre practitioner, voice artist and learning & development professional with over two decades of experience in performance and facilitation. Her background spans film, international theatre tours and voice work.Shena has built a magazine, run a theatre company, been on leadership teams, built grassroots programmes, created communities and facilitated learning. She is a qualified Movement Therapist and the founder of It\u2019s All Good, an initiative for fun and engaging experiences that foster insight and empowerment.Her sessions combine theatre tools, voice work, learning design and behavioural frameworks to help participants connect to their own presence and live with clarity & confidence.*ABOUT IT\u2019S ALL GOODThe Science and Art of JoyIAG is an initiative aimed at returning to joy in a complex world. IAG offers workshops, talks, performances and micro-festivals that explore the human condition, delving into how to live with ease and clarity (and humour!).Insta : https://www.instagram.com/itsallgood.space*ZAAZEN WELLNESSZaazen is a holistic wellness sanctuary for both men and women. A space designed for anyone seeking to slow down, restore, and reconnect at any stage of life.Reimagined in 2025, Zaazen brings together therapeutic bodywork, recovery practices, movement, and modern wellness treatments within a calm, refined setting. Today, it stands as an integrative hub for overall wellbeing, supporting balance, longevity, and a more intentional way of living.https://zaazenwellness.com/**FURTHER DETAILS ON 'I LIKE TO MOVE IT, MOVE IT!':LEVEL 1 - ONE MONTH COURSE, September 2026Focus: Body Awareness, Wellbeing & Movement FoundationsA one-month journey for people who don't think of themselves as 'dancers'.Curriculum | What we will explore:\u2022\tBody awareness and learning to listen to the body's signals\u2022\tBasic anatomy for movement\u2022\tAlignment, balance and coordination\u2022\tMobility, strength and movement efficiency\u2022\tBreath, energy and presence\u2022\tDifferent ways of moving through space\u2022\tImagination as a tool for movement\u2022\tBuilding confidence and comfort in your own bodyBy the end of the course you will:\u2022\tFeel more at home in your body\u2022\tMove with greater ease, confidence and freedom\u2022\tDevelop greater body awareness and self-understanding\u2022\tImprove mobility, coordination and physical wellbeing\u2022\tDiscover new ways of expressing yourself through movement\u2022\tBuild a strong foundation for further explorationLEVEL 2 (Available to those who have completed Level 1)Focus: Music, Space & Creative ExpressionLevel 2 expands the focus from the inner world to the world around us. Building on the foundations developed in Level 1, participants explore movement in relationship to music, space, objects, imagination and creative expression, while continuing to develop strength, confidence and overall health & wellbeing.Curriculum | What we'll explore:\u2022\tListening and responding to music\u2022\tRhythm, timing and musicality\u2022\tMoving in relationship to space and environment\u2022\tWorking with objects and others\u2022\tImprovisation and creative exploration\u2022\tUnderstanding connecting tissues and communicatorsBy the end of the course you will:\u2022\tDevelop a stronger connection to music and rhythm\u2022\tFeel more confident exploring and creating dance/movement\u2022\tExpand your expressive and creative range\u2022\tDiscover new ways of relating to the space and objects around you\u2022\tCultivate mind-body agility and integrated wellbeing\u2022\tExperience movement as a source of vitality, expression and play",
@@ -337,39 +375,38 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Preserving Summer: Fruit Jams and Chutneys",
-    "description": "Apricot season has begun as the plums are winding down. Let's make the most of both so that we have their deliciousness around for the rest of the year with a Summer Preserves Workshop.Join Anita in her kitchen to master Jams and Chutneys with what's in season. The methods and techniques learned in the class can be adapted to other fruits in season to create an endless supply of homemade preserves.You go home with a goodie bag with 2 jars of the fruit preserves. Stay back for a round of dessert - something plum!250+ workshops and counting! Anita is a practicing Landscape Architect who enjoys cooking. Her Home and Garden exemplify sustainable living. Like-minded people join her in the kitchen on weekends to cook and eat. Come for jam, stay for the party!",
-    "startDate": "2026-09-05T10:00:00+05:30",
-    "endDate": "2026-09-05T13:00:00+05:30",
+    "@type": "EducationEvent",
+    "name": "The Drafting Table",
+    "description": "OverviewA quiet writing circle for thoughts that haven\u2019t fully formed yet.Through short writing sprints and reflective prompts, people return to the practice ofputting words on paper, slowly and honestly. A place to begin.ThemeIn this edition of the Drafting Table: Say It Without Saying It\"Say It Without Saying It\" invites two people into one room and one situation, where the real conversation happens beneath the spoken lines. Participants pick character and situation cards, then write through two guided sprints, with a twist folded in partway to shift what's at stake. It's less about crafting clever dialogue and more about noticing what gets said, what gets dodged, and what everyone in the scene already knows but won't name.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to ExpectA Short Intro: We open with a brief framing of the theme and a prompt to get you started. No pressure to use it, just a way in.Writing Time: The bulk of the session is yours. Quiet, unhurried time to write whatever the character needs you to write.Open Mic: We close with an optional read-aloud. Share what you wrote, or just listen. Both are completely fine.Details\ud83d\uddd3\ufe0f Date: 5th September (Saturday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Joaah Cafe, Ireo City Central\ud83c\udf9f\ufe0f Fee: \u20b9700",
+    "startDate": "2026-09-05T11:30:00+05:30",
+    "endDate": "2026-09-05T13:30:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "",
+      "address": "Shop No. 18,19,28, Ascott Ireo City Central, behind Jagdish Store, Alahawas, Sector 59, Gurugram, Haryana 122011, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.63999000000000000000",
-        "longitude": "77.29142000000000000000"
+        "latitude": "28.40773430000000000000",
+        "longitude": "77.10356910000000000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
+    "typicalAgeRange": "25+",
     "offers": {
       "@type": "Offer",
-      "price": "3000.00",
+      "price": "661.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "A Mad Tea Party",
-      "url": "https://urbanaut.app/partner/a-mad-tea-party"
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
     },
-    "url": "https://urbanaut.app/spot/jammakingworkshop",
+    "url": "https://urbanaut.app/spot/the-drafting-table",
     "keywords": [
       "Workshop",
-      "Eco Friendly",
-      "Food & drink",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -415,7 +452,7 @@
     "name": "Raat Ke Afsane : Qutub Minar",
     "description": "Experience the magic of Qutub Minar like never before\u2014under the stars and glowing lights. This is a guided heritage walk led by a historian, who will take you through the stunning Qutub complex after dark. As the entire site is beautifully illuminated at night, the minaret shines like Delhi\u2019s very own Eiffel Tower\u2014majestic, mysterious, and unforgettable.Walk through centuries of history, discover forgotten stories, and explore Delhi\u2019s medieval past through engaging storytelling. The play of light, shadow, and silence transforms this heritage site into something truly cinematicPlaces we will cover : 1. Mughal Serai2. Alai Minar3. Iltutmish Tomb4. Qutub Minar5. Iron Pilar6. 27 Jain and hindu temples7. Alai Darwaza8. Alauddin Khilji grave and madarsa .Important Points:  1. Details of the heritage walk will be mailed to you when you book the tickets2. No guided fees for kids below 5.3. Medium of communication : Hindi and English4. Please note that in case of unavoidable external reasons such as (weather conditions, political rallies, VIP movement, powercut) the walk may be canceled. The participant has the liberty to take another walk by the company against the payment they have made within 30 days since the date of the registered walk.5. The company does not have refund policy.",
     "startDate": "2026-09-05T18:30:00+05:30",
-    "endDate": "2026-09-26T20:00:00+05:30",
+    "endDate": "2026-10-03T20:00:00+05:30",
     "location": {
       "@type": "Place",
       "address": "Qutub Minar Complex Rd, Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
@@ -600,6 +637,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Preserving Summer: Fruit Jams and Chutneys",
+    "description": "Apricot season has begun as the plums are winding down. Let's make the most of both so that we have their deliciousness around for the rest of the year with a Summer Preserves Workshop.Join Anita in her kitchen to master Jams and Chutneys with what's in season. The methods and techniques learned in the class can be adapted to other fruits in season to create an endless supply of homemade preserves.You go home with a goodie bag with 2 jars of the fruit preserves. Stay back for a round of dessert - something plum!250+ workshops and counting! Anita is a practicing Landscape Architect who enjoys cooking. Her Home and Garden exemplify sustainable living. Like-minded people join her in the kitchen on weekends to cook and eat. Come for jam, stay for the party!",
+    "startDate": "2026-09-06T10:00:00+05:30",
+    "endDate": "2026-09-06T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.63999000000000000000",
+        "longitude": "77.29142000000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2900.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "A Mad Tea Party",
+      "url": "https://urbanaut.app/partner/a-mad-tea-party"
+    },
+    "url": "https://urbanaut.app/spot/jammakingworkshop",
+    "keywords": [
+      "Workshop",
+      "Eco Friendly",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Telepathic Animal & Nature Communication- An Intro",
     "description": "The ones whom we consider voiceless have the strongest voice. Every animal and forms of nature have a purpose of being in our lives. Through this Introductory Workshop on Telepathic Animal and Nature Communication, we dive into the realm of Beings of the Universe who speak, hear, reciprocate and contribute to the evolution of all humans and nature alike.This workshop evokes the individual's intuitive abilities by invoking the Higher Consciousness and learn to communicate with animals, plants, landscapes and all beings.A short stitched workshop happening on Sunday 6th September, 2026 via zoom online.Note: This workshop is for individuals who wish to learn Telepathic Communication for personal purposes and not professional communication.",
@@ -658,7 +733,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "3870.00",
+      "price": "3899.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -670,6 +745,42 @@
     "url": "https://urbanaut.app/spot/cyanotype-workshop-15572",
     "keywords": [
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Overthinkers Anonymous",
+    "description": "OverviewA gentle support circle for thoughts that feel a little too loud.A space to speak, reflect, or simply sit among people who understand emotional overwhelm.This edition explores a different kind of loneliness \u2014 the kind that exists even when life looks socially full. We'll talk about emotional disconnection, feeling unseen, surface-level conversations, difficulty forming close relationships, and why so many of us feel alone even when we're surrounded by people.Say as much or as little as you want. Come as you are.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to expectSharing: The session is built around honest conversation. People share what is on their mind, what they are carrying, what they keep coming back to.Group Discussion: We talk it through together. No advice unless asked, no pressure to have it figured out. Just people listening and being listened to.Details\ud83d\uddd3\ufe0f Date: 6th September (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Thamel, Arjun Marg\ud83c\udf9f\ufe0f Contribution: \u20b9700",
+    "startDate": "2026-09-06T11:30:00+05:30",
+    "endDate": "2026-09-06T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shop No. 139, The shopping mall, Arjun Marg, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46589090000000000000",
+        "longitude": "77.09964640000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/overthinkers-anonymous",
+    "keywords": [
+      "Wellness",
       "URBANAUT"
     ]
   },
@@ -711,45 +822,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Artisanal Sourdough Bread Workshop",
-    "description": "Learn how to bake an artisan loaf - real bread made the old-fashioned way, with just flour, water, and salt! No prior baking or cooking experience required. This is a hands-on class for those seriously interested in the sourdough baking process. Under Anita's guidance, each participant will work independently to make their loaf from start to finish. At the end of class you will go home with the confidence to start baking sourdough bread in your home kitchen. The class also includes a session on Sourdough Focaccia.250+ workshops and counting! Anita is a practicing Landscape Architect who enjoys cooking with seasonal ingredients. Like-minded people join her in the kitchen on weekends to cook and eat. She has been baking sourdough breads at home for over 15 years using local flours and her lively wild yeast starter. Come for the Bread, stay for the food.Two slots:Sun, Sept 20: 10:00am-4:30pm Full Day (mix, shape, bake in-class)Sun, Sept 6: 10:00-11:30am (Short Format, mix dough in class, bake at home) Recommended for those who have been baking on their on but want to improve their loaves (bring a baked loaf to class for discussion), or would like a refresher, or feel pressed for time.Sourdough bread baking requires practice. The workshops are for those seriously seeking to learn the art and craft of baking sourdough breads, not for casual experience seekers.",
-    "startDate": "2026-09-06T14:00:00+05:30",
-    "endDate": "2026-09-20T16:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "A99, Block A, Swasthya Vihar, New Delhi, Delhi, 110092, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.63999000000000000000",
-        "longitude": "77.29142000000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "5500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "A Mad Tea Party",
-      "url": "https://urbanaut.app/partner/a-mad-tea-party"
-    },
-    "url": "https://urbanaut.app/spot/sourdoughbread",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Workshop",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Bushcraft Workshop",
     "description": "\ud83c\udf32 Bushcraft Workshop: Unleash Your Inner Wilderness Survivor at Forest Spirit Learning, Gurgaon! \ud83d\udd25Get ready for an unforgettable adventure into the heart of nature!Join us for a\u00a0Bushcraft Workshop\u00a0at Forest Spirit Learning in Gurgaon \u2014 a thrilling 4-hour immersion where you'll master essential survival skills, reconnect with the wild, and have a blast doing it. Perfect for adventure seekers of all ages\u00a0\u2014 kids, families, teens, and adults \u2014 this program turns the forest into your ultimate playground.Why This Workshop Will Be Epic:We'll keep it intimate and high-quality with a maximum of just 15 participants so everyone gets personalized guidance from experienced instructors.No crowds, just pure focus on fun, learning, and memorable moments in the great outdoors.Highlights of the Adventure:- Master Fire Starting\u00a0\u2014 Learn ancient techniques to spark a roaring bonfire from scratch (even in tricky conditions!).- Pure Water Mastery\u00a0\u2014 Filter and purify water like a true survivor.- Shelter Building\u00a0\u2014 Pitch a tent and construct emergency natural shelters.- Knot Mastery\u00a0\u2014 Tie essential knots that hold strong in any situation.- Emergency Signalling\u00a0\u2014 Master ways to call for help and stay safe.- Bonfire Feast\u00a0\u2014 Cook delicious potatoes right in the glowing embers \u2014 nothing tastes better than forest-cooked food!- First Aid Basics\u00a0\u2014 Quick, practical skills to handle minor injuries in the wild.Additional Exciting Activities We'll Include:- Foraging for safe, edible plants and natural resources.- Wildlife tracking and reading nature's signs.- Building simple tools or natural cordage from the environment.- Basic navigation using the sun, stars, and landmarks.By the end, you'll feel empowered, confident, and deeply connected to the forest!Duration: 4 hours of pure excitement.\u00a0\u00a0Refreshments: We'll provide light snacks, drinks, and post-activity treats to keep your energy high.What to Bring: Comfortable outdoor clothes, sturdy shoes, a water bottle, sunscreen/insect repellent, and your sense of adventure.We strongly encourage you to bring your own survival bag/kit if you have one \u2014 we'll review and enhance it together!Essential Items for Your Survival Bag/KitHere's a recommended starter list for a compact, effective bushcraft/survival kit (pack light but smart):- Fire-starting tools\u00a0\u2014 Lighter/matches, ferro rod, tinder (cotton balls, dry bark, etc.).- Knife\u00a0\u2014 A sturdy fixed-blade bushcraft knife (with sheath).- Water purification\u00a0\u2014 Tablets, filter straw, or small pot for boiling.- Cordage\u00a0\u2014 Paracord or natural rope (at least 10-15 meters).- Shelter\u00a0\u2014 Lightweight tarp, emergency blanket, or small tent.- First Aid\u00a0\u2014 Basic kit with bandages, antiseptic, tweezers, pain relief, and personal meds.- Navigation\u00a0\u2014 Compass, small map/whistle, signal mirror.- Multi-tool- Food/Water\u00a0\u2014 Energy bars, reusable container.- Extra\u00a0\u2014 Headlamp/flashlight with batteries, gloves, notepad/pen, trash bag (leave no trace!).We'll provide a full printable checklist when you register.Pricing \u20b92,099 per person (including all materials, instruction, refreshments, and a take-home bushcraft tip sheet). This pricing reflects our commitment to quality instruction, safe equipment, and a premium intimate experience in a beautiful natural setting.Early bird or group discounts may apply for families registering together.Spots are strictly limited to 15 \u2014 secure yours now before they vanish! This is more than just a workshop; it's a transformative adventure that will leave you inspired, skilled, and craving more time in the wild.Ready to awaken your inner survivor?Forest Spirit Learning \u2013 Where Nature Teaches Best. \ud83c\udf3f\ud83d\udd25See you under the trees! \ud83c\udfd5\ufe0f",
@@ -782,6 +854,42 @@
     "keywords": [
       "Workshop",
       "Eco Friendly",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Sikkawala X Bluetokai Event - Mehrauli",
+    "description": "This Sunday, I\u2019m doing something a little different with Blue Tokai. \u2615\ufe0fWe\u2019ll begin with a small, intimate session at Blue Tokai\u2019s newest outlet at Crescent Mark, where we\u2019ll spend around 40\u201345 minutes talking, sharing stories, and exploring the history around us. And yes, every participant gets a complimentary coffee from Blue Tokai!From there, we\u2019ll take a short 10\u201312-minute walk to the Tomb of Azim Khan, where we\u2019ll continue the conversation for another half hour, exploring the monument, its history, and the stories of Mehrauli.It\u2019s a deliberately small gathering, with space for only 30 people, making it a more personal and relaxed experience.\u2615\ufe0f Complimentary coffee for every participant",
+    "startDate": "2026-09-06T15:00:00+05:30",
+    "endDate": "2026-09-06T16:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "G5FR+W6J, Chatri Wala Kuan, Lado Sarai, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52484100000000000000",
+        "longitude": "77.19051800000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "236.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sikkawala",
+      "url": "https://urbanaut.app/partner/sikkawala"
+    },
+    "url": "https://urbanaut.app/spot/sikkawala-x-bluetokai-event-mehrauli",
+    "keywords": [
+      "Guided tour",
       "URBANAUT"
     ]
   },
@@ -896,6 +1004,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Lodhi Art District: Art Walk",
+    "description": "Lodhi Art District Walk: Stories on the WallsA guided art walk through Lodhi Art District in Delhi, one of the largest open-air street art galleries in India. The residential blocks of the neighborhood have been transformed with vibrant murals and graffiti artworks created by renowned artists, each reflecting diverse themes, cultures, and social messages.The walk covers the streets and murals of Lodhi Art District while sharing stories behind the artworks, their symbolism, and the inspiration of the artists. Participants will explore the iconography, meanings, and cultural significance of the murals while gaining insight into Delhi`s evolving street art scene.The experience is conducted in Hindi and English.",
+    "startDate": "2026-09-06T17:00:00+05:30",
+    "endDate": "2026-09-06T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "18, Lodhi Rd, Gokalpuri, Institutional Area, Lodi Colony, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.58536280000000000000",
+        "longitude": "77.22333490000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/lodhi-art-district-art-walk",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Raat ke Afsane : Safdarjung Tomb",
     "description": "Safdarjung Tomb Walk: Stories After SunsetA guided heritage walk through the Safdarjung Tomb complex exploring the history, architecture and cultural significance of one of the last grand monuments of the Mughal era in Delhi.The walk highlights the transition from late Mughal power to emerging regional influences and explores the political, cultural and artistic context in which the monument was built. Participants will learn about its architecture, design elements and historical importance in Delhi\u2019s heritage landscape.The experience is conducted during the evening, allowing participants to view the monument in a calm and atmospheric setting while engaging with its history through guided storytelling.Language of communication is Hindi and English.",
     "startDate": "2026-09-06T17:30:00+05:30",
@@ -969,6 +1116,81 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Matcha Circle",
+    "description": "OverviewA shared matcha-making experience where simple acts of whisking, pouring, and preparing create calm.People gather over matcha, conversation, and the quiet rhythm of making something by hand. One cup at a time.Matcha Experience: A Taste of CalmExperience the calming art of green tea in a session dedicated to mindfulness and flavor. This gathering is designed to help you slow down and appreciate the details of a centuries old tradition. \"The Matcha Circle\" offers a peaceful space to learn, taste, and connect at the end of a long week.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to ExpectGuided Introduction: Learn about the history and the unique process of preparing matcha from farm to cup.The Ritual: Watch and learn how the tea is whisked to create its signature froth and deep flavor.Tasting Session: Enjoy a premium matcha drink prepared just for you at Cha & Co.Quiet Conversation: Join a small group setting to talk about finding moments of peace in a busy week over a comforting cup.Details\ud83d\uddd3\ufe0f Date: 11th September (Friday)\u23f0 Time: 6:30 PM\ud83d\udccd Location: Cha & Co, Grand View High Street\ud83c\udf75 Inclusion: Matcha drink included\ud83c\udf9f\ufe0f Fee: \u20b9700",
+    "startDate": "2026-09-11T18:30:00+05:30",
+    "endDate": "2026-09-11T20:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ireo Grand View High Street, Sector 58, Gurugram, Haryana 122098, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41560020000000000000",
+        "longitude": "77.10258329999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/matcha-experience",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Open SketchBook",
+    "description": "Open SketchBookOverviewA slower way of seeing what\u2019s already there.People gather outdoors to observe, sketch, and spend time noticing details that often go unseen. No pressure. Just attention.Our core belief is that you do not need to leave the city to feel grounded. In a world where everyone is distracted, we pause as a group to give our attention to one shared thing. Sketching becomes the medium to notice small, living details in urban spaces that we usually rush through.You do not need to be an artist to enjoy sketching. Open SketchBook is a session for anyone who wants to explore drawing as a way to relax and observe the world. It is about the process of putting pencil to paper rather than the final masterpiece.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to expectGuided Observation: Learn simple ways to look at objects or spaces and translate them into lines and shapes.Creative Freedom: A judgment free zone where you can experiment with sketching without worrying about \"doing it right.\"Tactile Experience: Use your new diary and pencil kit to capture what you see in the moment.Relaxed Environment: Enjoy a late afternoon at Greenr with a small group of people who just want to create and connect.Details\ud83d\uddd3\ufe0f Date: 12th September (Saturday)\u23f0 Time: 11:00 AM\ud83d\udccd Location: Greenr, Golf Course Ext Road\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes an A6 diary)",
+    "startDate": "2026-09-12T11:00:00+05:30",
+    "endDate": "2026-09-12T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "First Floor, Grand View High Street, Golf Course Ext Rd, Sector 58, Gurugram, Haryana 122098, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41623070000000000000",
+        "longitude": "77.10243700000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/open-sketchbook",
+    "keywords": [
+      "Leisure",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Delhi's Metro Morphosis: Metro Train heritage walk",
     "description": "Delhi\u2019s Metro Morphosis-: A Walk Through Delhi\u2019s Changing CommuteExploring the Impact of the Delhi Metro on Gender, Safety & Urban LifeIn the heart of India\u2019s capital, the Delhi Metro is more than a transport system \u2014 it\u2019s a living, moving map of the city\u2019s transformation.Join us for a guided walkthrough and urban dialogue as we journey along the tracks \u2014 not just from station to station, but across the layers of Delhi\u2019s social fabric. This unique walk explores how the Metro has quietly reshaped gender access, mobility justice, public spaces, urban design, and how heritage and history now sit side-by-side with modern infrastructure.We will cover Mandi House -Kailash Colony-Kashmere Gate-Chawari Bazar-Rajiv Chowk .",
@@ -1011,7 +1233,7 @@
     "name": "Heritage Walk: Red Fort",
     "description": "A Heritage Walk Through the Red FortStep into the world of Qila e Mubarak, popularly known as the Red Fort, through a specially arranged private heritage walk exploring its history, architecture and cultural traditions.Discover the world of Shah Jahan and the Mughal court, while uncovering stories behind the forts lesser known features, including the Nahr e Bihisht, Stream of Paradise, silken qanats and the original artistic traditions of Chatta Chowk.Through engaging storytelling, explore the Red Fort as more than a monument, a royal space shaped by emperors, nobles, artists and forgotten traditions.Language of communication is Hindi and English.Specially Arranged Private Heritage Walk ",
     "startDate": "2026-09-12T17:00:00+05:30",
-    "endDate": "2026-09-12T18:30:00+05:30",
+    "endDate": "2026-10-03T18:30:00+05:30",
     "location": {
       "@type": "Place",
       "address": "Netaji Subhash Marg, Old Delhi, Lal Qila, Chandni Chowk, New Delhi, Delhi, 110006, India",
@@ -1040,6 +1262,42 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Cinema Circle",
+    "description": "OverviewA shared film-watching experience designed to feel cozy, intentional, and communal.People gather to slow down, watch together, and stay a little longer with the stories thatunfold on screen. Films, shared quietly.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to ExpectIranian Movies Edition brings the group together around a single film night, this time with Panah Panahi's Hit the Road, a road trip through the Iranian countryside carrying a family, their sick dog, and an unspoken goodbye. It's a story that moves between comedy and heartbreak without warning, the kind of film that asks you to notice what a family says to avoid saying the one thing everyone already knows. No prior context on Iranian cinema needed, just a willingness to sit with a story that takes its time getting where it's going.Details\ud83d\uddd3\ufe0f Date: 12th September (Saturday)\u23f0 Time: 6:00 PM\ud83d\udccd Location: Malibu Town, Gurugram\u2615 Inclusions: Diet Coke, snacks\ud83c\udf9f\ufe0f Fee: \u20b9700",
+    "startDate": "2026-09-12T18:00:00+05:30",
+    "endDate": "2026-09-12T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Tower-4, MALIBU TOWNE, Malibu Towne, Sector 47, Gurugram, Haryana 122018, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.42324330000000000000",
+        "longitude": "77.04097460000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/cinema-circle",
+    "keywords": [
+      "Leisure",
       "URBANAUT"
     ]
   },
@@ -1187,6 +1445,42 @@
     "keywords": [
       "History & heritage",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Procrastireaders : Books & Coffee Tasting",
+    "description": "The Procrastireaders: Books & Coffee TastingOverviewA slow reading circle designed around comfort, not pressure.People come together to read, exchange thoughts, and return to books in a way that feels lighter and more approachable. Stories, shared slowly.If you have been wanting to get back to reading but find it hard to make the time at home, this is for you. The Procrastireaders is a dedicated space to finally open that book you have been meaning to finish. It is a slow paced morning designed for quiet reading and great coffee in the company of others who are doing the same.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to expectBring Your Own Book: Whether it is a novel you started months ago or a new non fiction find, bring along whatever you are currently reading.Dedicated Reading Time: Enjoy a block of quiet, uninterrupted time to sink into your book without the distractions of chores or your phone.Shared Atmosphere: The comfort of reading alongside a small group of people who are also prioritizing their love for books.Coffee & Chat: A low pressure chance to talk about what you are reading (or why you have been procrastinating) over a coffee at Unlocked.Details\ud83d\uddd3\ufe0f Date: 13th September (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Malibu Town, Sector 47, Gurgaon\ud83c\udf9f\ufe0f Contribution: \u20b9700 (Includes Coffee)",
+    "startDate": "2026-09-13T11:30:00+05:30",
+    "endDate": "2026-09-13T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Malibu Towne, Sector 47, Gurugram, Haryana 122018, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.42337070000000000000",
+        "longitude": "77.04630980000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/books-and-coffee-tasting",
+    "keywords": [
+      "Leisure",
       "URBANAUT"
     ]
   },
@@ -1343,6 +1637,43 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Art of Folding",
+    "description": "The Art of FoldingOverviewA quiet practice of shaping and stillness.Using origami as a meditative, hands-on experience, participants slow down through simple folds and repetitive movement. One fold at a time.No fancy paper needed. This is a hands-on origami session using whatever you have lying around at home. Blinkit bags, newspapers, old book pages, packaging paper. If it folds, it works. Come make something with it.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.ThemeScience + Origami hands everyone a plain sheet of paper and a scientific idea to chase into shape, watching how a few folds can turn something flat into a structure with real complexity. The session moves at a calm pace through beginner-friendly folding techniques, no origami or science background required, just curiosity and steady hands. Everyone leaves holding something they made themselves, proof that a fold in the right place can carry an idea further than words do.Details\ud83d\uddd3\ufe0f Date: 19th September (Saturday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Cha & Co, Grand View High Street\ud83c\udf9f\ufe0f Fee: \u20b9700",
+    "startDate": "2026-09-19T11:30:00+05:30",
+    "endDate": "2026-09-19T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ireo Grand View High Street, Sector 58, Gurugram, Haryana 122098, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41560020000000000000",
+        "longitude": "77.10258329999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/the-art-of-folding",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Where the Rain comes alive: Hauz-e-shamsi",
     "description": "Explore the Hidden Summer Palace of the MughalsDiscover a lesser-known chapter of Delhi's history on a guided heritage walk through the historic summer retreat of the Mughal era in Mehrauli.Explore the historic fort complex, admire its ancient water reservoir, and learn about the water systems, gardens, architecture, and traditions that once shaped this remarkable heritage site. Through engaging storytelling, uncover the forgotten history of the palace and its connection with Delhi's rich cultural past.Experience an offbeat heritage trail and discover a fascinating side of Mehrauli.Places Covered1 Mughal-era Summer Palace2 Historic Fort Complex3 Ancient Water Reservoir4 Remains of the Orchard Gardens5 Heritage Structures within the Complex",
@@ -1453,6 +1784,45 @@
       "Adventure",
       "Premium",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Artisanal Sourdough Bread Workshop",
+    "description": "Learn how to bake an artisan loaf - real bread made the old-fashioned way, with just flour, water, and salt! No prior baking or cooking experience required. This is a hands-on class for those seriously interested in the sourdough baking process. Under Anita's guidance, each participant will work independently to make their loaf from start to finish. At the end of class you will go home with the confidence to start baking sourdough bread in your home kitchen. The class also includes a session on Sourdough Focaccia.250+ workshops and counting! Anita is a practicing Landscape Architect who enjoys cooking with seasonal ingredients. Like-minded people join her in the kitchen on weekends to cook and eat. She has been baking sourdough breads at home for over 15 years using local flours and her lively wild yeast starter. Come for the Bread, stay for the food.Two slots:Sun, Sept 20: 10:00am-4:30pm Full Day (mix, shape, bake in-class)Sun, Sept 6: 10:00-11:30am (Short Format, mix dough in class, bake at home) Recommended for those who have been baking on their on but want to improve their loaves (bring a baked loaf to class for discussion), or would like a refresher, or feel pressed for time.Sourdough bread baking requires practice. The workshops are for those seriously seeking to learn the art and craft of baking sourdough breads, not for casual experience seekers.",
+    "startDate": "2026-09-20T10:00:00+05:30",
+    "endDate": "2026-09-20T16:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "A99, Block A, Swasthya Vihar, New Delhi, Delhi, 110092, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.63999000000000000000",
+        "longitude": "77.29142000000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "7800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "A Mad Tea Party",
+      "url": "https://urbanaut.app/partner/a-mad-tea-party"
+    },
+    "url": "https://urbanaut.app/spot/sourdoughbread",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Workshop",
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -1571,6 +1941,42 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Listening Room",
+    "description": "The Listening Room: A Space for Deep ListeningOverviewIn a world that is always talking, we rarely get the chance to truly listen. The Listening Room is a unique session dedicated to the art of being present. It is a space to share, to hear others, and to practice the kind of attention that builds real connection and empathy.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to expectActive Listening: Practice being fully present while others speak without the need to interrupt or give immediate advice.Shared Stories: A safe environment to share your own thoughts or experiences and feel truly heard by a small group.Quiet Reflection: Moments of silence to process what has been shared and to notice how deep listening changes our perspective.Supportive Connection: A morning at Greenr focused on human presence and the simple power of witnessing each other\u2019s stories.Details\ud83d\uddd3\ufe0f Date: 26th September (Saturday)\u23f0 Time: 11:00 AM\ud83d\udccd Location: Greenr, Golf Course Ext Road\ud83c\udf9f\ufe0f Contribution: \u20b9700",
+    "startDate": "2026-09-26T11:00:00+05:30",
+    "endDate": "2026-09-26T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "First Floor, Grand View High Street, Golf Course Ext Rd, Sector 58, Gurugram, Haryana 122098, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41623070000000000000",
+        "longitude": "77.10243700000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "661.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/listening-room",
+    "keywords": [
+      "Wellness",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Badass Begum: Women Architecture in Old Delhi",
     "description": "Badass Begums: An Old Delhi Heritage WalkA guided heritage walk through the lanes of Old Delhi exploring the stories of the women who shaped its history. The walk focuses on the lives, influence and cultural presence of the Begums of Mughal-era Delhi.Led by author and historian Anoushika Jain, the experience shares stories of women who contributed to politics, culture, art, food traditions and social life. The walk is designed as a storytelling experience with narration and interaction along the route.The walk takes participants through Old Delhi and concludes with a curated food experience. It also includes select takeaways for participants.Language of communication is Hindi and English.",
@@ -1603,6 +2009,42 @@
     "keywords": [
       "History & heritage",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Overthinkers Anonymous - Relationships Edition",
+    "description": "Overthinkers Anonymous (Relationships Editions)OverviewA space for the relationships you carry but rarely talk about. People gather to finally say the things they've held back from a parent, a partner, a coworker, an in-law, anyone they can't avoid and can't quite be honest with. Said out loud, finally.Most relationship conflicts are not just about what happened; they are about how we interpret what happened. This session focuses on exploring how our thoughts shape our connections and why friction often feels more intense than the situation warrants. \"Before You Blame\" is a reflective workshop designed to help you look at your assumptions and inner patterns, moving you from reactivity toward steadiness and emotional responsibility.What is Stories of Hope?We are a community-led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities, from mental well-being to personal growth, with empathy and shared human connection.What to ExpectPattern Recognition: Explore how common emotional triggers and ego-driven patterns shape conflicts in marriage, family, or work.Internal Focus: Instead of trying to fix others, we gently shift the focus inward to understand our own interpretations and responses.Practical Tools: Learn actionable ways to question stressful thoughts and practice perspective shifts using real-life scenarios.Safe Exploration: A supportive, non-judgmental environment for honest discussion. This is a space for learning and reflection, not a lecture or therapy.Key TakeawaysClarity: Gain a deeper understanding of recurring relationship dynamics.Responsiveness: Walk away with tools to help you respond thoughtfully instead of reacting impulsively.Emotional Ownership: Build the internal steadiness needed to navigate life without requiring others to change first.Details\ud83d\uddd3\ufe0f Date: 27th September (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Joaah Cafe",
+    "startDate": "2026-09-27T11:30:00+05:30",
+    "endDate": "2026-09-27T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shop No. 18,19,28, Ascott Ireo City Central, behind Jagdish Store, Alahawas, Sector 59, Gurugram, Haryana 122011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40773430000000000000",
+        "longitude": "77.10356910000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "700.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/before-you-blame",
+    "keywords": [
+      "Wellness",
       "URBANAUT"
     ]
   },
