@@ -39,44 +39,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Sadhya @ Cocobay",
-    "description": "Sadhya is a feast, and our Chef Mohan is a Master at it. For those who missed the last 10 days may enjoy it with us till the 14 September. Post which we move to our new location in Bloom DLF 2, Gulmohar Marg\u00a0",
-    "startDate": "2026-09-02T12:00:00+05:30",
-    "endDate": "2026-09-13T15:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Metro Station, 574, 43, off Golf Course Road, Sector 43, Gurugram, Haryana 122009, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.45706690000000000000",
-        "longitude": "77.09607650000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "730.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Cocobay - South Indian Cafe",
-      "url": "https://urbanaut.app/partner/cocobay-south-indian-cafe"
-    },
-    "url": "https://urbanaut.app/spot/sadhya-cocobay",
-    "keywords": [
-      "Pop-up Event",
-      "Food & drink",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Level 1 - I LIKE TO MOVE IT MOVE IT!",
     "description": "I LIKE TO MOVE IT, MOVE IT! Dancing for Non-Dancers is a playful movement and body-awareness practice. It invites you to rediscover movement not as performance or technique, but as a process of curiosity.The programme expands movement vocabulary, deepens mind-body awareness and develops a broader appreciation of what dance can be.Participants leave with a deeper understanding of their bodies and movement patterns, greater responsiveness to music and rhythm and practical tools that support mobility, adaptability, physical wellbeing and long-term vitality.(Warning: Side effects may include increased spontaneity, killer dance moves and unexpected joy.)Every WEDNESDAY (5-7pm) and every SATURDAY (11am-1pm) for the month of SEPTEMBER, 2026Rs. 15,000/- for the month, Level 1 course(Please click on the 'Sept 2nd 5:00-5:01pm' option for ticket booking - this entitles you to the FULL MONTH of classes)Further details on what we will explore during the course are mentioned below.**ABOUT SHENAShena Gamat is a theatre practitioner, voice artist and learning & development professional with over two decades of experience in performance and facilitation. Her background spans film, international theatre tours and voice work.Shena has built a magazine, run a theatre company, been on leadership teams, built grassroots programmes, created communities and facilitated learning. She is a qualified Movement Therapist and the founder of It\u2019s All Good, an initiative for fun and engaging experiences that foster insight and empowerment.Her sessions combine theatre tools, voice work, learning design and behavioural frameworks to help participants connect to their own presence and live with clarity & confidence.*ABOUT IT\u2019S ALL GOODThe Science and Art of JoyIAG is an initiative aimed at returning to joy in a complex world. IAG offers workshops, talks, performances and micro-festivals that explore the human condition, delving into how to live with ease and clarity (and humour!).Insta : https://www.instagram.com/itsallgood.space*ZAAZEN WELLNESSZaazen is a holistic wellness sanctuary for both men and women. A space designed for anyone seeking to slow down, restore, and reconnect at any stage of life.Reimagined in 2025, Zaazen brings together therapeutic bodywork, recovery practices, movement, and modern wellness treatments within a calm, refined setting. Today, it stands as an integrative hub for overall wellbeing, supporting balance, longevity, and a more intentional way of living.https://zaazenwellness.com/**FURTHER DETAILS ON 'I LIKE TO MOVE IT, MOVE IT!':LEVEL 1 - ONE MONTH COURSE, September 2026Focus: Body Awareness, Wellbeing & Movement FoundationsA one-month journey for people who don't think of themselves as 'dancers'.Curriculum | What we will explore:\u2022\tBody awareness and learning to listen to the body's signals\u2022\tBasic anatomy for movement\u2022\tAlignment, balance and coordination\u2022\tMobility, strength and movement efficiency\u2022\tBreath, energy and presence\u2022\tDifferent ways of moving through space\u2022\tImagination as a tool for movement\u2022\tBuilding confidence and comfort in your own bodyBy the end of the course you will:\u2022\tFeel more at home in your body\u2022\tMove with greater ease, confidence and freedom\u2022\tDevelop greater body awareness and self-understanding\u2022\tImprove mobility, coordination and physical wellbeing\u2022\tDiscover new ways of expressing yourself through movement\u2022\tBuild a strong foundation for further explorationLEVEL 2 (Available to those who have completed Level 1)Focus: Music, Space & Creative ExpressionLevel 2 expands the focus from the inner world to the world around us. Building on the foundations developed in Level 1, participants explore movement in relationship to music, space, objects, imagination and creative expression, while continuing to develop strength, confidence and overall health & wellbeing.Curriculum | What we'll explore:\u2022\tListening and responding to music\u2022\tRhythm, timing and musicality\u2022\tMoving in relationship to space and environment\u2022\tWorking with objects and others\u2022\tImprovisation and creative exploration\u2022\tUnderstanding connecting tissues and communicatorsBy the end of the course you will:\u2022\tDevelop a stronger connection to music and rhythm\u2022\tFeel more confident exploring and creating dance/movement\u2022\tExpand your expressive and creative range\u2022\tDiscover new ways of relating to the space and objects around you\u2022\tCultivate mind-body agility and integrated wellbeing\u2022\tExperience movement as a source of vitality, expression and play",
@@ -146,6 +108,43 @@
     "keywords": [
       "Wellness",
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Chatti Choru @ Cocobay",
+    "description": "Missed the Sadhya, you still got the *Chatti Choru* to try and this time it comes with a Non Vegetarian add on.\u00a0All Sept at Cocobay at Flxho Horizon One, 574 Sector 43 Golf Course Road",
+    "startDate": "2026-09-03T12:00:00+05:30",
+    "endDate": "2026-09-27T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Metro Station, 574, 43, off Golf Course Road, Sector 43, Gurugram, Haryana 122009, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.45706690000000000000",
+        "longitude": "77.09607650000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "730.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Cocobay - South Indian Cafe",
+      "url": "https://urbanaut.app/partner/cocobay-south-indian-cafe"
+    },
+    "url": "https://urbanaut.app/spot/chattichorucocobay",
+    "keywords": [
+      "Pop-up Event",
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -1154,8 +1153,43 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "ScreeningEvent",
+    "name": "Premier League Screening: GL x Wefootballin",
+    "description": "PREMIER LEAGUE SCREENINGJoin us for an exciting screening of Premier League matches starting with Everton vs Manchester United on Sunday at 6, and Arsenal Vs Chelsea right after!!Venue: Gully Labs, Local Shopping Center, 14, Panchsheel Park, New Delhi, Delhi 110017Registration Fee: \u20b9999 per personIncludes:  unlimited beer + match screeningLimited spots only \u2014 register now to confirm your entry!",
+    "startDate": "2026-09-06T18:00:00+05:30",
+    "endDate": "2026-09-06T23:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1178.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
+    },
+    "url": "https://urbanaut.app/spot/premier-league-screening-gl-x-wefootballin",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Grounds for Thought: Janpath (Sept.)",
+    "name": "Grounds for Thought: Janpath",
     "description": "Grounds for Thought: Janpath, September 2026 A Blue Tokai \u00d7 unLecture Series, Three Tuesday evenings. Three very different conversations.Grounds for Thought is a monthly series where Blue Tokai and unLecture bring researchers, scientists, and thinkers out of their institutions and into a coffee shop. The format is simple: an expert, a room full of curious people, and a conversation that goes somewhere a classroom rarely does. This September, the series spreads further than ever \u2014 four venues across Delhi and Bangalore, and a spread of ideas running from gender and work to princely politics, from children's books to comic-book uncles.8th September: Prateek Mundeja Why Do Good Ideas Fail in Government? Governance is usually discussed in ideals \u2014 promises, ambition, the world as it ought to be. Prateek Mundeja, Assistant Professor of Political Science and Mookerjee Fellow (2025\u201326), argues that the more useful question is a duller one: what actually works? This session takes a realist's tour through limited resources, institutional capacity, and the gap between stated intentions and delivered outcomes \u2014 and makes the case that ideals only survive contact with the world when backed by hard, unglamorous choices.22nd September: Aarushee Shukla The Pause, The Buzzword, and The CollectiveIn a meeting room in Bihar and Kerala, Aarushee Shukla asked women what their collective meant to them, and got a long, deliberate silence back. That silence, she found, wasn't an absence of an answer \u2014 it was its own kind of answer, one we're rarely taught to read. This session recreates that pause live, then turns to the vocabulary \u2014 \"empowerment,\" \"participation,\" \"social capital\" \u2014 that runs through women's lives on paper, asking who gets to write those words and who is simply left to live inside them.29th September: Amitrajeet MukherjeeVoices from War: Revisiting John Keegan's The Face of BattleJohn Keegan's landmark book opened with a deceptively simple question \u2014 what is it actually like to be in a battle? Fifty years on, his witnesses remain almost entirely European, despite spanning centuries of warfare. Amitrajeet Mukherjee, a doctoral candidate in English Literature at Delhi University, widens that frame to the two and a half million Indians who served in the Second World War \u2014 diarists, letter-writers, the censored and the unrecorded \u2014 and asks whose voices get to define what \"war writing\" is for.",
     "startDate": "2026-09-08T18:30:00+05:30",
     "endDate": "2026-09-29T20:00:00+05:30",
@@ -1224,6 +1258,41 @@
       "Leisure",
       "Workshop",
       "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "MIXTable - F.R.I.E.N.D.S Trivia night",
+    "description": "Could we BE any more excited? \ud83d\udc40Your favourite sitcom deserves a night of its own.This September, The MIXTable is bringing you a FRIENDS-themed night in Hauz Khas, where the only thing more important than knowing your Chandler from your Joey is having the right team by your side.And here's the best part: you don't need to come with a team.Come with your entire FRIEND CIRCLE or FLY SOLO, we'll take care of the rest. Teams will be randomly arranged at the event, so you might walk in with your friends and walk out having made a whole new one. Get ready for a night of FRIENDS trivia, games, iconic moments, unexpected twists and plenty of friendly competition.Think you can identify the episode from one clue?Remember who said that iconic line?Know your FRIENDS references better than anyone else?It's time to put that knowledge to the test.\ud83c\udfc6 AND YES, THERE ARE PRIZES.The winning team doesn't just get bragging rights \u2014 **your team's food cover gets reimbursed by us**, AND you'll take home an exciting prize.But that's not all...\u23f0 **COME ON TIME. WIN A PRIZE.**We've got an **Early Bird Prize** waiting for those who show up on time. So don't be that person who walks in halfway through and asks, \"What did I miss?\" \ud83d\ude0c WHAT TO EXPECT\u2022 FRIENDS-themed trivia\u2022 Fun interactive games\u2022 Iconic FRIENDS moments\u2022 Randomly assigned teams\u2022 Friendly competition\u2022 An exciting prize for the winning team\u2022 Winning team's food cover reimbursed by The MIXTable\u2022 An Early Bird Prize for those who arrive on timeWhether you're the ultimate FRIENDS nerd, someone who has watched the show way too many times, or just looking for a fun night out \u2014 you're invited.So gather your FRIENDS, or come fly solo.**We'll bring the questions. You bring the FRIENDS energy. \u2615\ufe0f**\ud83d\udccd Hauz Khas, Delhi\ud83d\udcc5 11 September 2026",
+    "startDate": "2026-09-11T19:00:00+05:30",
+    "endDate": "2026-09-11T21:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "ShellBeacon Patio Cafe, 3rd Floor, 1A/1, Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55470520000000000000",
+        "longitude": "77.19515770000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "300.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The MIXTable",
+      "url": "https://urbanaut.app/partner/the-mixtable"
+    },
+    "url": "https://urbanaut.app/spot/mixtable-friends-trivia-night",
+    "keywords": [
       "URBANAUT"
     ]
   },
@@ -1669,6 +1738,43 @@
     "keywords": [
       "History & heritage",
       "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Delhi School of Ideas 3.0 - UnLecture x Gully Labs",
+    "description": "Delhi School of Ideas isn\u2019t about finished work. It\u2019s about the half-baked, the bizarre, the \u201cwhy does this even exist?\u201d kind of thinking.The first edition was a house full of conversations varying between public urination to biking as ADHD therapy. A curated space where instead of polished presentations, you get a series of strange, obsessive deep dives into ideas, inventions, and research that feel unnecessary\u2026 until they aren\u2019t.No panels. No moderation. No clean takeaways. Just people presenting things they probably shouldn\u2019t have spent this much time thinking about. The room is designed to feel slightly unhinged \u2014 in a good way.What's included?Unlimited snacks are on the house by BRBUnlimited beer is on the house by ProostSo you can sit, question, interrupt, disagree \u2014 or just exist in the chaos.Baithak, Gully Labs Store, Panchsheel Park9th May, 5pm onwards.",
+    "startDate": "2026-09-13T17:00:00+05:30",
+    "endDate": "2026-09-13T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1416.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
+    },
+    "url": "https://urbanaut.app/spot/delhi-school-of-ideas-30-unlecture-x-gully-labs",
+    "keywords": [
+      "History & heritage",
       "Art & culture",
       "URBANAUT"
     ]
