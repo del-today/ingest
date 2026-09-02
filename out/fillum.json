@@ -120,6 +120,23 @@
   },
   {
     "@type": "ScreeningEvent",
+    "name": "Too Much Democracy(2022)",
+    "url": "https://fillum.in/screening/6125",
+    "startDate": "2026-09-05T15:00:00+05:30",
+    "endDate": "2026-09-05T15:00:00+05:30",
+    "description": "I'm hosting it in my living room. Exact address will be shared after registration.",
+    "location": {
+      "@type": "Place",
+      "name": "Vasundhara Enclave",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Swati"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "Grave of the Fireflies(1988)",
     "url": "https://fillum.in/screening/6118",
     "startDate": "2026-09-05T17:00:00+05:30",
