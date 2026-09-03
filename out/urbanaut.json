@@ -151,44 +151,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Baddy with Baddies | Gurugram",
-    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.See you on court!",
-    "startDate": "2026-09-03T20:00:00+05:30",
-    "endDate": "2026-09-27T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Sportyzo Badminton Academy, Emaar emerald hills, Golf Course Ext Rd, opposite Ivory Block, Sector 65, Gurugram, Haryana 122011, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.40465650000000000000",
-        "longitude": "77.07401440000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "279.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag55",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Baddy with Baddies | Mehrauli",
     "description": "Grab your racket and bring your best energy - it's time for Baddy with Baddies \ud83c\udff8\u2728, a women-only badminton meet-up where the only goal is to have fun.Whether you've got a sneaky smash up your sleeve or you're simply looking for a fun way to move, this session is all about friendly rallies, big laughs, and moving your body in great company. Expect good vibes, and a community of women who are here to play, cheer each other on, and enjoy the sport.So if you've been looking for an excuse to get back on the court (or step onto one for the first time), this is it.Come solo or with your girls - you'll leave with a great workout, a few new friends, and probably plans for a rematch.",
     "startDate": "2026-09-03T20:00:00+05:30",
@@ -592,6 +554,45 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Anandi Makers Lab: Clay Safari",
+    "description": "Anandi School, Gurgaon invites you to\ud83d\udc18 Anandi Makers Lab: Clay Safari \ud83d\udc18What if a lump of clay could become your child\u2019s favourite animal?\ud83e\udd81 Make your favourite animal in terracotta clay\ud83d\udcd6 Listen to a fun animal story\ud83c\udfa8 Explore textures, shapes & tools\ud83d\udcac Share the story of your little creation\ud83c\udf81 Take home your handmade creature \ud83d\udccdAnandi School, Gurugram \ud83d\uddd3\ufe0fWhen: Sep 6, Sunday | 10 AM - 12 PM\ud83e\uddd2\ud83d\udc6d Age: 2+ yearsThis sensory-rich experience helps children build creativity, imagination, fine motor skills & confidence - while simply having fun making something of their own.Come make a little wild thing of your own. \ud83c\udf3f\ud83d\udc18Limited spots available.",
+    "startDate": "2026-09-06T10:00:00+05:30",
+    "endDate": "2026-09-06T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M-14/47, Mushedpur, DLF Phase 2, Sector 25, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.48862520000000000000",
+        "longitude": "77.08666319999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "199.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Anandi School",
+      "url": "https://urbanaut.app/partner/anandischool"
+    },
+    "url": "https://urbanaut.app/spot/anandi-makers-lab-clay-safari",
+    "keywords": [
+      "Local",
+      "Workshop",
+      "Eco Friendly",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -1933,7 +1934,7 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Grounds for Thought: Vasant Vihar (Sept.)",
+    "name": "GFT:Red Alert- Tearing Down Universal Human Rights",
     "description": "Grounds for Thought: Vasant Vihar, September 2026A Blue Tokai \u00d7 unLecture Series, One Sunday evening. One unsettling conversation.Grounds for Thought is a monthly series where Blue Tokai and unLecture bring researchers, scientists, and thinkers out of their institutions and into a coffee shop. The format is simple: an expert, a room full of curious people, and a conversation that goes somewhere a classroom rarely does. This September, the series spreads further than ever \u2014 four venues across Delhi and Bangalore, and a spread of ideas running from gender and work to princely politics, from children's books to comic-book uncles.20th September: Kavita KrishnanRed Alert: Ukraine, Gaza and the Tearing Down of Universal Human RightsMust Palestinians, Ukrainians, and Uyghurs compete for our solidarity? For anyone who cares about justice, it's become second nature to read the world through a polarised West-versus-Rest lens \u2014 pitting solidarity for Gaza against solidarity for Ukraine, or pro-democracy movements in Iran against anti-war and Palestine solidarity movements elsewhere. Kavita Krishnan, Indian activist and author of De-democratisation, pushes back on the premise itself: are the US, China, and Russia really opposing poles, or does Netanyahu's war depend on all three at once? This session asks whether universal human rights can survive Gaza, why Trump's vision of a \"multipolar world order\" isn't so different from Xi's, Putin's, or Modi's \u2014 and how solidarity might be built without polarity.",
     "startDate": "2026-09-20T17:00:00+05:30",
     "endDate": "2026-09-20T19:00:00+05:30",
