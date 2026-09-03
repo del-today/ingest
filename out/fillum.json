@@ -151,5 +151,22 @@
       "@type": "Organization",
       "name": "Anant Foundation for the Arts"
     }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "A Short Film About Love(1988)",
+    "url": "https://fillum.in/screening/6110",
+    "startDate": "2026-09-06T11:00:00+05:30",
+    "endDate": "2026-09-06T11:00:00+05:30",
+    "description": "A part of the September Screenings event by DSS!",
+    "location": {
+      "@type": "Place",
+      "name": "Niv Art Centre, Saket",
+      "address": "Sainik Farm, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Delhi Screen Society"
+    }
   }
 ]
