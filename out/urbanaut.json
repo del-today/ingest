@@ -38,42 +38,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "SUBKO x GULLY LABS: CINEMA GHAR",
-    "description": "Subko Coffee and Gully Labs Present Cinema GharWelcome to Cinema Ghar, a cozy monthly gathering dedicated to celebrating independent filmmakers and passionate storytellers. Join us for an intimate evening of diverse short films, engaging post-screening Q&As, and vibrant conversations with local creators. Reserve your seat below to experience fresh cinema, support emerging talent, and connect with a community that loves movies as much as you do.",
-    "startDate": "2026-09-04T17:30:00+05:30",
-    "endDate": "2026-09-04T19:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54778550000000000000",
-        "longitude": "77.21136729999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "944.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Gully Labs",
-      "url": "https://urbanaut.app/partner/baithak"
-    },
-    "url": "https://urbanaut.app/spot/subko-x-gully-labs-cinema-ghar",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "ScreeningEvent",
     "name": "The Independents - Official Screening",
     "description": "The Independents is a documentary about finding hope in this hopeless world. Independent author, politician and journalist Meghnad embarks upon a journey to meet \u2018Solo Politicians\u2019 in a world ruled by political parties \u2014 Independents who fight alone.The documentary screening is 60 minutes long followed by 30 mins of Q/A with the creators - Meghnad and Satvik.",
