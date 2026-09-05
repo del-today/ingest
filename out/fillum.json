@@ -134,5 +134,39 @@
       "@type": "Organization",
       "name": "Delhi Screen Society"
     }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Paprika(2006)",
+    "url": "https://fillum.in/screening/6111",
+    "startDate": "2026-09-06T13:00:00+05:30",
+    "endDate": "2026-09-06T13:00:00+05:30",
+    "description": "A part of the September Screenings event by DSS!",
+    "location": {
+      "@type": "Place",
+      "name": "Niv Art Centre, Saket",
+      "address": "Sainik Farm, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Delhi Screen Society"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Short Film Program - Day 2",
+    "url": "https://fillum.in/event/6121",
+    "startDate": "2026-09-06T13:00:00+05:30",
+    "endDate": "2026-09-06T13:00:00+05:30",
+    "description": "\u00b7 Kuchar (The Itch) (Vaidaangi Sharma)\u00b7 If You Know You Know (Jyotsana Rajpurohit)\u00b7 Chaar Diwaari (Abhishek Vijay)\u00b7 How Not to Deal with Grief (Ashwin Karthikeyan)\u00b7 Ru Ba Ru (Face To Fa..more",
+    "location": {
+      "@type": "Place",
+      "name": "Mool, South Ex 2",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Big Hoom Club"
+    }
   }
 ]

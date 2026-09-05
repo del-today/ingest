@@ -200,6 +200,46 @@
     ]
   },
   {
+    "@type": "EducationEvent",
+    "name": "Botanical Drawing",
+    "url": "https://www.knma.org/whats-on/workshops/botanical-drawing",
+    "startDate": "2026-09-19T10:00:00+05:30",
+    "endDate": "2026-09-19T10:00:00+05:30",
+    "description": "Saturday Family Workshop",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Nature, In Verse",
+    "url": "https://www.knma.org/whats-on/workshops/nature-in-verse",
+    "startDate": "2026-09-19T10:00:00+05:30",
+    "endDate": "2026-09-19T10:00:00+05:30",
+    "description": "Artist in Me",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
     "@type": "TheaterEvent",
     "name": "Virasat",
     "url": "https://www.knma.org/whats-on/performing-arts/virasat",
@@ -209,6 +249,26 @@
     "location": {
       "@type": "Place",
       "name": "Sunder Nursery, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "In the Moonlit Kingdom",
+    "url": "https://www.knma.org/whats-on/events/in-the-moonlit-kingdom",
+    "startDate": "2026-09-25T10:00:00+05:30",
+    "endDate": "2026-09-25T10:00:00+05:30",
+    "description": "WeekendsatKNMA",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
       "address": "New Delhi"
     },
     "organizer": {
