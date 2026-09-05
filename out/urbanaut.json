@@ -39,43 +39,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "The Drafting Table",
-    "description": "OverviewA quiet writing circle for thoughts that haven\u2019t fully formed yet.Through short writing sprints and reflective prompts, people return to the practice ofputting words on paper, slowly and honestly. A place to begin.ThemeIn this edition of the Drafting Table: Say It Without Saying It\"Say It Without Saying It\" invites two people into one room and one situation, where the real conversation happens beneath the spoken lines. Participants pick character and situation cards, then write through two guided sprints, with a twist folded in partway to shift what's at stake. It's less about crafting clever dialogue and more about noticing what gets said, what gets dodged, and what everyone in the scene already knows but won't name.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to ExpectA Short Intro: We open with a brief framing of the theme and a prompt to get you started. No pressure to use it, just a way in.Writing Time: The bulk of the session is yours. Quiet, unhurried time to write whatever the character needs you to write.Open Mic: We close with an optional read-aloud. Share what you wrote, or just listen. Both are completely fine.Details\ud83d\uddd3\ufe0f Date: 5th September (Saturday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Joaah Cafe, Ireo City Central\ud83c\udf9f\ufe0f Fee: \u20b9700",
-    "startDate": "2026-09-05T11:30:00+05:30",
-    "endDate": "2026-09-05T13:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Shop No. 18,19,28, Ascott Ireo City Central, behind Jagdish Store, Alahawas, Sector 59, Gurugram, Haryana 122011, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.40773430000000000000",
-        "longitude": "77.10356910000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "661.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/the-drafting-table",
-    "keywords": [
-      "Workshop",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Chatti Choru @ Cocobay",
     "description": "Missed the Sadhya, you still got the *Chatti Choru* to try and this time it comes with a Non Vegetarian add on.\u00a0All Sept at Cocobay at Flxho Horizon One, 574 Sector 43 Golf Course Road",
@@ -703,41 +666,6 @@
     "url": "https://urbanaut.app/spot/sikkawala-x-bluetokai-event-mehrauli",
     "keywords": [
       "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Rewriting Epics The Feminist Way",
-    "description": "About the LectureThe Epics have held the Indian imagination since time immemorial, narrated, performed and rendered into cinema again and again. Looking at them afresh means asking the questions they've spent centuries deflecting: the role of women, the contribution of the dispossessed, and the quintessential human questions of survival and existence.A feminist retelling brings the women back to the centre. It strips away the proverbial sheen of the \"just\" war to focus on the human question underneath. Whether it's the fiery Draupadi, the \"manipulative\" Satyavati, the warrior queen Chitrangada, Janaki, or the duo of Kaikeyi and Manthara \u2014 the Epics allow us to deconstruct these women through a modern feminist lens.The session explores:How feminist retellings of the Mahabharata and Ramayana recentre their women charactersWhat writers like Tagore, Mahasweta Devi, Irawati Karve and Chitra Divakaruni reveal through their retellingsWhy the Epics' \"timeless\" characters remain contemporary and urgently relevantHow deconstructing canonical narratives changes what the stories are actually aboutAbout the SpeakerDr. Nandini C. Sen is a Professor of English at the University of Delhi \u2014 an author, editor, literary critic and storyteller. For nearly three decades, she has explored how literature shapes the way we understand history, identity, gender and the world around us, working across African Literature, Diaspora studies, mythology, postcolonial studies and feminist readings of the Indian epics. Her academic journey has taken her from Delhi to London as a Charles Wallace Scholar, to the Indian Institute of Advanced Study, Shimla as a Fellow, and to universities and literary forums across the world. She is the recipient of the Write India Award for creative writing, the Ambassador for Peace Prize for teaching in a slum cluster, and the Best Lecturer's Award from the Government of Delhi. She is the author of the bestselling short story collection The Second Wife and Other Stories, and editor of several acclaimed books.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
-    "startDate": "2026-09-06T15:00:00+05:30",
-    "endDate": "2026-09-06T17:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53415570000000000000",
-        "longitude": "77.24300939999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "550.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/rewriting-epics-the-feminist-way",
-    "keywords": [
       "URBANAUT"
     ]
   },
