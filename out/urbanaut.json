@@ -150,119 +150,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "JBABE LIVE @ Gully Labs",
-    "description": "Possessed by the desire to art-direct one's own sobbing self portrait, to make sure his mascara smears in the most perfectly dishevelled way. But who cares what's \"real\" when the music delivers a truth you can see.Inspired by the likes of artists such as Frank Ocean, Julian Casablancas, Homeshake, Poolside etc. multi-instrumentalist, producer, composer, guitarist and vocalist of The F16s, Josh Fernandez decided to pursue his solo dream project on the side, thus creating JBABE. He describes his music as lo-fi, indie-pop mixed with rhythm and blues.",
-    "startDate": "2026-09-05T19:00:00+05:30",
-    "endDate": "2026-09-05T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54778550000000000000",
-        "longitude": "77.21136729999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1798.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Gully Labs",
-      "url": "https://urbanaut.app/partner/baithak"
-    },
-    "url": "https://urbanaut.app/spot/jbabe-live",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Trivia Night at V's Supper Stories",
-    "description": "Trivia Night at V\u2019s Supper Stories is a fun, intimate evening built around good food, great company, and a little friendly competition.Expect multiple rounds of trivia across pop culture, music, food, entertainment and more, paired with a dinner menu inspired by elevated comfort food \u2014 from warm breads and dips, pulled lamb sliders and parmesan arancini to chicken parmigiana, eggplant parmigiana, roasted cauliflower and a dark chocolate chilli tart to finish.Come with your team or join one on the night. All you really need is confidence, questionable general knowledge, and a willingness to argue over answers.What to expect:Trivia rounds, dinner, drinks, prizes and plenty of chaos.Dates: 4th Sept | 7:30pm - 10pm 5th Sept | 7:30pm - 10pm ",
-    "startDate": "2026-09-05T19:30:00+05:30",
-    "endDate": "2026-09-05T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "10West, Sant Nagar, Sainik Farm, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52049300000000000000",
-        "longitude": "77.20161399999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3100.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "V's Supper Stories",
-      "url": "https://urbanaut.app/partner/vsupperstories"
-    },
-    "url": "https://urbanaut.app/spot/trivia",
-    "keywords": [
-      "Local",
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Recess, A Supper Club: Toontooni's Table x Swish",
-    "description": "At Toontooni's Table supper club, this time we're going back to school. Remember the rush of the recess bell? Racing to the canteen, grabbing your favourite snack, and squeezing in as much gossip, laughter and fun as possible before the bell rang again?Recess brings that feeling back, with a grown-up twist. This time, you don't have to rush things. Sit down, enjoy a leisurely evening with great food, drinks and a set of new friends.Toontooni's Table and Swish bring to you an evening inspired by the school days we all remember, featuring a multi-course menu of nostalgic childhood treats, playful activities, and plenty of opportunities to meet new people and share a few stories of your own.Here's what to expect: \ud83c\udf7d\ufe0f 5-course Modern Indian meal \u2728An evening of conversations and connections\ud83c\udf81 A table full of strangers who leave as friendsCome hungry. Come nostalgic. Come ready for recess.",
-    "startDate": "2026-09-05T20:00:00+05:30",
-    "endDate": "2026-09-05T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Baharampur Naya, Sector 62, Gurugram, Haryana 122098, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.40280880000000000000",
-        "longitude": "77.09373800000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2625.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Toonika Guha",
-      "url": "https://urbanaut.app/partner/toonika"
-    },
-    "url": "https://urbanaut.app/spot/recess-toontoonis-table-x-swishs-supper-club",
-    "keywords": [
-      "Leisure",
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Heritage walk at Humayun's tomb",
     "description": "A guided walk through Delhi\u2019s first garden-tomb, exploring Mughal architecture, charbagh design, and hidden stories.",
     "startDate": "2026-09-06T08:45:00+05:30",
@@ -1980,11 +1867,11 @@
     "endDate": "2026-09-27T13:30:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "Shop No. 18,19,28, Ascott Ireo City Central, behind Jagdish Store, Alahawas, Sector 59, Gurugram, Haryana 122011, India",
+      "address": "B 18/9, Golf Course Rd, Sector 28, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.40817380000000000000",
-        "longitude": "77.10265969999999000000"
+        "latitude": "28.46976990000000000000",
+        "longitude": "77.09440000000000000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
