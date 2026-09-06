@@ -49,5 +49,90 @@
       "@type": "Organization",
       "name": "The Big Hoom Club"
     }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Drive(2011)",
+    "url": "https://fillum.in/screening/6112",
+    "startDate": "2026-09-06T15:00:00+05:30",
+    "endDate": "2026-09-06T15:00:00+05:30",
+    "description": "A part of the September Screenings event by DSS!",
+    "location": {
+      "@type": "Place",
+      "name": "Niv Art Centre, Saket",
+      "address": "Sainik Farm, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Delhi Screen Society"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "The Seventh Seal(1957)",
+    "url": "https://fillum.in/screening/6109",
+    "startDate": "2026-09-06T18:30:00+05:30",
+    "endDate": "2026-09-06T18:30:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "Niv Art Centre, Neb Sarai",
+      "address": "Sainik Farm, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Films From Underground"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Shape of Momo(2026)",
+    "url": "https://fillum.in/screening/6126",
+    "startDate": "2026-09-07T18:30:00+05:30",
+    "endDate": "2026-09-07T18:30:00+05:30",
+    "description": "Post-screening conversation with the film critic Shubhra Gupta.",
+    "location": {
+      "@type": "Place",
+      "name": "Stein Auditorium, India Habitat Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Express Screen Film Club"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "5-Hour Filmmaking Challenge \u2014 September Edition!",
+    "url": "https://fillum.in/event/6039",
+    "startDate": "2026-09-13T11:00:00+05:30",
+    "endDate": "2026-09-13T11:00:00+05:30",
+    "description": "Can you write, shoot, edit & premiere a film in just 5 hours?The theme is revealed on the spot. Bring your creativity, build your team, and turn an idea into a short film before the clock runs o..more",
+    "location": {
+      "@type": "Place",
+      "name": "Niv Art Centre, Neb Sarai",
+      "address": "Sainik Farm, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Niv Art Centre & Film Studios"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "The Architect(2025)",
+    "url": "https://fillum.in/screening/6106",
+    "startDate": "2026-09-18T18:00:00+05:30",
+    "endDate": "2026-09-18T18:00:00+05:30",
+    "description": "Free entry.",
+    "location": {
+      "@type": "Place",
+      "name": "M. L. Bhartia Auditorium, Alliance Fran\u00e7aise",
+      "address": "Lodhi Road, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Aravali International Film Festival"
+    }
   }
 ]

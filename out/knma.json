@@ -60,26 +60,6 @@
     ]
   },
   {
-    "@type": "EducationEvent",
-    "name": "Embodied Ways of Knowing",
-    "url": "https://www.knma.org/whats-on/talks/material-practices-2",
-    "startDate": "2026-09-06T10:00:00+05:30",
-    "endDate": "2026-09-06T10:00:00+05:30",
-    "description": "",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
     "@type": "ExhibitionEvent",
     "name": "Bice Lazzari & Nasreen Mohamedi IN-RHYTHM",
     "url": "https://www.knma.org/whats-on/exhibitions/bice-lazzari-and-nasreen-mohamedi-in-rhythm",
@@ -269,6 +249,26 @@
     "location": {
       "@type": "Place",
       "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "ExhibitionEvent",
+    "name": "Nilima Sheikh: Fractured Skies",
+    "url": "https://www.knma.org/whats-on/exhibitions/nilima-sheikh-fractured-skies",
+    "startDate": "2026-09-27T10:00:00+05:30",
+    "endDate": "2027-06-13T18:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "The Museum of Modern Art",
       "address": "New Delhi"
     },
     "organizer": {
