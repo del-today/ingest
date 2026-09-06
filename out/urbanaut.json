@@ -1,198 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Heritage walk at Humayun's tomb",
-    "description": "A guided walk through Delhi\u2019s first garden-tomb, exploring Mughal architecture, charbagh design, and hidden stories.",
-    "startDate": "2026-09-06T08:45:00+05:30",
-    "endDate": "2026-09-06T10:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Hazrat Nizamuddin Aulia Dargah, Mathura Rd, Nizamuddin, Nizamuddin East, New Delhi, Delhi 110013, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59328480000000000000",
-        "longitude": "77.25074920000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "350.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Riwayat Walks",
-      "url": "https://urbanaut.app/partner/riwayatwalks"
-    },
-    "url": "https://urbanaut.app/spot/heritage-walk-at-humayuns-tomb",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Anandi Makers Lab: Clay Safari",
-    "description": "Anandi School, Gurgaon invites you to\ud83d\udc18 Anandi Makers Lab: Clay Safari \ud83d\udc18What if a lump of clay could become your child\u2019s favourite animal?\ud83e\udd81 Make your favourite animal in terracotta clay\ud83d\udcd6 Listen to a fun animal story\ud83c\udfa8 Explore textures, shapes & tools\ud83d\udcac Share the story of your little creation\ud83c\udf81 Take home your handmade creature \ud83d\udccdAnandi School, Gurugram \ud83d\uddd3\ufe0fWhen: Sep 6, Sunday | 10 AM - 12 PM\ud83e\uddd2\ud83d\udc6d Age: 2+ yearsThis sensory-rich experience helps children build creativity, imagination, fine motor skills & confidence - while simply having fun making something of their own.Come make a little wild thing of your own. \ud83c\udf3f\ud83d\udc18Limited spots available.",
-    "startDate": "2026-09-06T10:00:00+05:30",
-    "endDate": "2026-09-06T12:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M-14/47, Mushedpur, DLF Phase 2, Sector 25, Gurugram, Haryana 122002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.48862520000000000000",
-        "longitude": "77.08666319999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "199.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Anandi School",
-      "url": "https://urbanaut.app/partner/anandischool"
-    },
-    "url": "https://urbanaut.app/spot/anandi-makers-lab-clay-safari",
-    "keywords": [
-      "Local",
-      "Workshop",
-      "Eco Friendly",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Hot Girls Do Pilates | Delhi",
-    "description": "Let\u2019s make your Sunday morning extra feel-good with Hot Girls Do Pilates, a women-only, guided pilates experience by SWAG \ud83d\udc9bThis is a reformer pilates session with limited spots!Come and feel fitter in the company of like-minded women, and stay back for some coffee and chit-chat!",
-    "startDate": "2026-09-06T10:00:00+05:30",
-    "endDate": "2026-09-06T11:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "A322, Block A, Defence Colony, New Delhi, Delhi 110024, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.57351930000000000000",
-        "longitude": "77.22945200000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1399.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag52",
-    "keywords": [
-      "Wellness",
-      "Workshop",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Preserving Summer: Fruit Jams and Chutneys",
-    "description": "Apricot season has begun as the plums are winding down. Let's make the most of both so that we have their deliciousness around for the rest of the year with a Summer Preserves Workshop.Join Anita in her kitchen to master Jams and Chutneys with what's in season. The methods and techniques learned in the class can be adapted to other fruits in season to create an endless supply of homemade preserves.You go home with a goodie bag with 2 jars of the fruit preserves. Stay back for a round of dessert - something plum!250+ workshops and counting! Anita is a practicing Landscape Architect who enjoys cooking. Her Home and Garden exemplify sustainable living. Like-minded people join her in the kitchen on weekends to cook and eat. Come for jam, stay for the party!",
-    "startDate": "2026-09-06T10:00:00+05:30",
-    "endDate": "2026-09-06T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.63999000000000000000",
-        "longitude": "77.29142000000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2900.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "A Mad Tea Party",
-      "url": "https://urbanaut.app/partner/a-mad-tea-party"
-    },
-    "url": "https://urbanaut.app/spot/jammakingworkshop",
-    "keywords": [
-      "Workshop",
-      "Eco Friendly",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Telepathic Animal & Nature Communication- An Intro",
-    "description": "The ones whom we consider voiceless have the strongest voice. Every animal and forms of nature have a purpose of being in our lives. Through this Introductory Workshop on Telepathic Animal and Nature Communication, we dive into the realm of Beings of the Universe who speak, hear, reciprocate and contribute to the evolution of all humans and nature alike.This workshop evokes the individual's intuitive abilities by invoking the Higher Consciousness and learn to communicate with animals, plants, landscapes and all beings.A short stitched workshop happening on Sunday 6th September, 2026 via zoom online.Note: This workshop is for individuals who wish to learn Telepathic Communication for personal purposes and not professional communication.",
-    "startDate": "2026-09-06T10:30:00+05:30",
-    "endDate": "2026-09-06T14:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.70405920000000000000",
-        "longitude": "77.10249019999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3000.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "HealThroughNature-HTN",
-      "url": "https://urbanaut.app/partner/healthroughnature-htn"
-    },
-    "url": "https://urbanaut.app/spot/telepathic-animal-nature-communication-an-intro",
-    "keywords": [
-      "Virtual",
-      "Wellness",
-      "Workshop",
-      "Eco Friendly",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Cyanotype Workshop",
     "description": "The workshop on the Cyanotype Process is an immersive one-day workshop where the participants learn the historic 19th century printmaking process and get to create their own unique handmade prints on both paper & fabric and take them home.Structure of the workshop:History of Cyanotype - Learn about the origin of Cyanotype, an alternative printing technique through a brief presentation.Science of Cyanotype - Mix chemicals and coat your own surfaces in a hands-on darkroom setting.Creation & Patience - Compose with natural elements and watch your images develop through light and time.Your Final Prints - Wash and finish the prints you've created to take home.Frequently asked questions:Is there any prior knowledge needed to attend this workshop?No, there is no prior knowledge needed for this workshop.Is there an age restriction for this workshop?Yes, the workshop is meant for 15 years and older.If there is no sun how would the workshop be conducted?On the days where the sun is not there we have an artificial source of UV light that can be used.Does cyanotype only work with leaves and other natural materials?No, cyanotype can be done with any flat object, we at Museo, also have some stock negatives that can be used during the workshop.Do we as participants need to bring anything?No, all equipment and materials will be provided by Museo.What is the recommended attire for the workshop?Comfortable clothing and shoes are recommended for the workshop.Will lunch be provided?Each participant will receive a 15% discount at the museum cafe.How many prints will I be able to make in the workshop?Each participant will make 10 paper prints and a fabric print, which they can take home.Once the workshop is over, how can I continue to practice the process?You can book the darkroom or you can buy the chemicals from us to create the solution and make prints at home. For both of them you would have to write to us at workshops@museocamera.orgIs Cyanotype safe?Yes, cyanotype is one of the safest photographic processes out there.Meet your trainers Aditya AryaLead facilitator 45+ years of experience Photographer, historian and Founder-Director of Museo Camera with years of experience across advertising and fine art, he champions the slowness of analog processes. He practices and teaches historic techniques like cyanotype and wet plate collodion, keeping them alive through hands-on learning.https://www.adityaarya.com/Khushi Upadhyay Assistant 2+ years of experience She is a photographer working with analog and alternative processes, embracing slowness while guiding others to do the same. Rooted in light and material, she leads cyanotype and historic process workshops through hands-on, immersive image-making.",
@@ -267,42 +75,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Overthinkers Anonymous",
-    "description": "OverviewA gentle support circle for thoughts that feel a little too loud.A space to speak, reflect, or simply sit among people who understand emotional overwhelm.This edition explores a different kind of loneliness \u2014 the kind that exists even when life looks socially full. We'll talk about emotional disconnection, feeling unseen, surface-level conversations, difficulty forming close relationships, and why so many of us feel alone even when we're surrounded by people.Say as much or as little as you want. Come as you are.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to expectSharing: The session is built around honest conversation. People share what is on their mind, what they are carrying, what they keep coming back to.Group Discussion: We talk it through together. No advice unless asked, no pressure to have it figured out. Just people listening and being listened to.Details\ud83d\uddd3\ufe0f Date: 6th September (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Thamel, Arjun Marg\ud83c\udf9f\ufe0f Contribution: \u20b9700",
-    "startDate": "2026-09-06T11:30:00+05:30",
-    "endDate": "2026-09-06T13:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Shop No. 139, The shopping mall, Arjun Marg, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46589090000000000000",
-        "longitude": "77.09964640000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "661.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/overthinkers-anonymous",
-    "keywords": [
-      "Wellness",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Chatti Choru @ Cocobay",
     "description": "Missed the Sadhya, you still got the *Chatti Choru* to try and this time it comes with a Non Vegetarian add on.\u00a0All Sept at Cocobay at Flxho Horizon One, 574 Sector 43 Golf Course Road",
@@ -341,42 +113,6 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "name": "Floral Workshop by Serenai",
-    "description": "A slow Sunday morning with flowers in your hands.\u00a0Serenai began with a simple idea that we all need a moment to breathe. In a city that never really slows down, we wanted to build a space where people could put their phones away, work with their hands, and just be present for an hour or so. This isn\u2019t just a workshop, it\u2019s a small ritual in stillness, in community, in coming back to yourself, one bloom at a time.\ud83d\udccd Siyah ArtHouse\ud83d\uddd3\ufe0f Sunday, September 6th\ud83d\udd5b 12:00 PM \u2013 1:30 PMSeats are limited to keep the circle small and intimate \u2014 reserve yours today.",
-    "startDate": "2026-09-06T12:00:00+05:30",
-    "endDate": "2026-09-06T13:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Siyah Arthouse, 3rd Floor 261, Plot 8, Westend Marg, Saidulajab, Saket, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.51653950000000000000",
-        "longitude": "77.19738550000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1699.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Serenai",
-      "url": null
-    },
-    "url": "https://urbanaut.app/spot/floral-workshop",
-    "keywords": [
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
     "name": "Bushcraft Workshop",
     "description": "\ud83c\udf32 Bushcraft Workshop: Unleash Your Inner Wilderness Survivor at Forest Spirit Learning, Gurgaon! \ud83d\udd25Get ready for an unforgettable adventure into the heart of nature!Join us for a\u00a0Bushcraft Workshop\u00a0at Forest Spirit Learning in Gurgaon \u2014 a thrilling 4-hour immersion where you'll master essential survival skills, reconnect with the wild, and have a blast doing it. Perfect for adventure seekers of all ages\u00a0\u2014 kids, families, teens, and adults \u2014 this program turns the forest into your ultimate playground.Why This Workshop Will Be Epic:We'll keep it intimate and high-quality with a maximum of just 15 participants so everyone gets personalized guidance from experienced instructors.No crowds, just pure focus on fun, learning, and memorable moments in the great outdoors.Highlights of the Adventure:- Master Fire Starting\u00a0\u2014 Learn ancient techniques to spark a roaring bonfire from scratch (even in tricky conditions!).- Pure Water Mastery\u00a0\u2014 Filter and purify water like a true survivor.- Shelter Building\u00a0\u2014 Pitch a tent and construct emergency natural shelters.- Knot Mastery\u00a0\u2014 Tie essential knots that hold strong in any situation.- Emergency Signalling\u00a0\u2014 Master ways to call for help and stay safe.- Bonfire Feast\u00a0\u2014 Cook delicious potatoes right in the glowing embers \u2014 nothing tastes better than forest-cooked food!- First Aid Basics\u00a0\u2014 Quick, practical skills to handle minor injuries in the wild.Additional Exciting Activities We'll Include:- Foraging for safe, edible plants and natural resources.- Wildlife tracking and reading nature's signs.- Building simple tools or natural cordage from the environment.- Basic navigation using the sun, stars, and landmarks.By the end, you'll feel empowered, confident, and deeply connected to the forest!Duration: 4 hours of pure excitement.\u00a0\u00a0Refreshments: We'll provide light snacks, drinks, and post-activity treats to keep your energy high.What to Bring: Comfortable outdoor clothes, sturdy shoes, a water bottle, sunscreen/insect repellent, and your sense of adventure.We strongly encourage you to bring your own survival bag/kit if you have one \u2014 we'll review and enhance it together!Essential Items for Your Survival Bag/KitHere's a recommended starter list for a compact, effective bushcraft/survival kit (pack light but smart):- Fire-starting tools\u00a0\u2014 Lighter/matches, ferro rod, tinder (cotton balls, dry bark, etc.).- Knife\u00a0\u2014 A sturdy fixed-blade bushcraft knife (with sheath).- Water purification\u00a0\u2014 Tablets, filter straw, or small pot for boiling.- Cordage\u00a0\u2014 Paracord or natural rope (at least 10-15 meters).- Shelter\u00a0\u2014 Lightweight tarp, emergency blanket, or small tent.- First Aid\u00a0\u2014 Basic kit with bandages, antiseptic, tweezers, pain relief, and personal meds.- Navigation\u00a0\u2014 Compass, small map/whistle, signal mirror.- Multi-tool- Food/Water\u00a0\u2014 Energy bars, reusable container.- Extra\u00a0\u2014 Headlamp/flashlight with batteries, gloves, notepad/pen, trash bag (leave no trace!).We'll provide a full printable checklist when you register.Pricing \u20b92,099 per person (including all materials, instruction, refreshments, and a take-home bushcraft tip sheet). This pricing reflects our commitment to quality instruction, safe equipment, and a premium intimate experience in a beautiful natural setting.Early bird or group discounts may apply for families registering together.Spots are strictly limited to 15 \u2014 secure yours now before they vanish! This is more than just a workshop; it's a transformative adventure that will leave you inspired, skilled, and craving more time in the wild.Ready to awaken your inner survivor?Forest Spirit Learning \u2013 Where Nature Teaches Best. \ud83c\udf3f\ud83d\udd25See you under the trees! \ud83c\udfd5\ufe0f",
     "startDate": "2026-09-06T14:00:00+05:30",
@@ -408,42 +144,6 @@
     "keywords": [
       "Workshop",
       "Eco Friendly",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Sikkawala X Bluetokai Event - Mehrauli",
-    "description": "This Sunday, I\u2019m doing something a little different with Blue Tokai. \u2615\ufe0fWe\u2019ll begin with a small, intimate session at Blue Tokai\u2019s newest outlet at Crescent Mark, where we\u2019ll spend around 40\u201345 minutes talking, sharing stories, and exploring the history around us. And yes, every participant gets a complimentary coffee from Blue Tokai!From there, we\u2019ll take a short 10\u201312-minute walk to the Tomb of Azim Khan, where we\u2019ll continue the conversation for another half hour, exploring the monument, its history, and the stories of Mehrauli.It\u2019s a deliberately small gathering, with space for only 30 people, making it a more personal and relaxed experience.\u2615\ufe0f Complimentary coffee for every participant",
-    "startDate": "2026-09-06T15:00:00+05:30",
-    "endDate": "2026-09-06T16:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "G5FR+W6J, Chatri Wala Kuan, Lado Sarai, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52484100000000000000",
-        "longitude": "77.19051800000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "236.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sikkawala",
-      "url": "https://urbanaut.app/partner/sikkawala"
-    },
-    "url": "https://urbanaut.app/spot/sikkawala-x-bluetokai-event-mehrauli",
-    "keywords": [
-      "Guided tour",
       "URBANAUT"
     ]
   },
@@ -775,6 +475,41 @@
       "Leisure",
       "Wellness",
       "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Unsubscribe: A CEO's Case For Choosing This Path",
+    "description": "About the LectureIn an age where everyone is chasing visibility, this is a talk about the power of choosing the opposite instinct. Shyam Srinivasan spent over three decades in banking, and built his career by repeatedly choosing the path everyone else had unsubscribed from: operations and technology roles in Dubai in the 1990s when the spotlight was elsewhere, the institution that needed building over the one that would look impressive on a resume.Expect candour, a few misfires, and an honest conversation about ambition, patience, and the wins that don't trend.The session explores:Why the unglamorous middle years of a career are often the ones that count the mostWhat three decades of choosing the \"wrong\" spotlight taught him about building institutionsThe difference between a career built for the highlight reel and one built to lastHonest reflections on ambition, patience, self-doubt, and the calls that didn't work outAbout the SpeakerShyam Srinivasan is a banker who spent thirty-odd years being cheerfully unfashionable about his career choices \u2014 and it worked out rather well. He led Federal Bank as MD & CEO for fourteen years, building it into an institution of real scale and staying power. Before that came Citibank and Standard Chartered, with roles across India, the Middle East and Southeast Asia \u2014 often in the parts of banking, like operations and technology, that don't make it into the highlight reel. An engineer by training (NIT Trichy) and an IIM Calcutta alumnus, he says this explains both his fondness for systems and his suspicion of grand plans. His book, Better Never Stops, is part memoir, part leadership guide, and refreshingly willing to talk about the wrong calls and the self-doubt alongside the wins.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-09-11T17:00:00+05:30",
+    "endDate": "2026-09-11T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "32nd Avenue, Sector 15 Part 2, Sector 15, Gurugram, Haryana 122001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46162590000000000000",
+        "longitude": "77.05002540000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "550.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/unsubscribe-a-ceos-case-for-choosing-this-path",
+    "keywords": [
       "URBANAUT"
     ]
   },
@@ -1565,7 +1300,7 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "GFT:Red Alert- Tearing Down Universal Human Rights",
+    "name": "Red Alert: Tearing Down Universal Human Rights",
     "description": "Grounds for Thought: Vasant Vihar, September 2026A Blue Tokai \u00d7 unLecture Series, One Sunday evening. One unsettling conversation.Grounds for Thought is a monthly series where Blue Tokai and unLecture bring researchers, scientists, and thinkers out of their institutions and into a coffee shop. The format is simple: an expert, a room full of curious people, and a conversation that goes somewhere a classroom rarely does. This September, the series spreads further than ever \u2014 four venues across Delhi and Bangalore, and a spread of ideas running from gender and work to princely politics, from children's books to comic-book uncles.20th September: Kavita KrishnanRed Alert: Ukraine, Gaza and the Tearing Down of Universal Human RightsMust Palestinians, Ukrainians, and Uyghurs compete for our solidarity? For anyone who cares about justice, it's become second nature to read the world through a polarised West-versus-Rest lens \u2014 pitting solidarity for Gaza against solidarity for Ukraine, or pro-democracy movements in Iran against anti-war and Palestine solidarity movements elsewhere. Kavita Krishnan, Indian activist and author of De-democratisation, pushes back on the premise itself: are the US, China, and Russia really opposing poles, or does Netanyahu's war depend on all three at once? This session asks whether universal human rights can survive Gaza, why Trump's vision of a \"multipolar world order\" isn't so different from Xi's, Putin's, or Modi's \u2014 and how solidarity might be built without polarity.",
     "startDate": "2026-09-20T17:00:00+05:30",
     "endDate": "2026-09-20T19:00:00+05:30",
@@ -1926,6 +1661,41 @@
     "url": "https://urbanaut.app/spot/haunted-walk-mehrauli-archaeological-park",
     "keywords": [
       "Adventure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Rewriting Epics The Feminist Way",
+    "description": "About the LectureThe Epics have held the Indian imagination since time immemorial, narrated, performed and rendered into cinema again and again. Looking at them afresh means asking the questions they've spent centuries deflecting: the role of women, the contribution of the dispossessed, and the quintessential human questions of survival and existence.A feminist retelling brings the women back to the centre. It strips away the proverbial sheen of the \"just\" war to focus on the human question underneath. Whether it's the fiery Draupadi, the \"manipulative\" Satyavati, the warrior queen Chitrangada, Janaki, or the duo of Kaikeyi and Manthara, the Epics allow us to deconstruct these women through a modern feminist lens.The session explores:How feminist retellings of the Mahabharata and Ramayana recentre their women charactersWhat writers like Tagore, Mahasweta Devi, Irawati Karve and Chitra Divakaruni reveal through their retellingsWhy the Epics' \"timeless\" characters remain contemporary and urgently relevantHow deconstructing canonical narratives changes what the stories are actually aboutAbout the SpeakerDr. Nandini C. Sen is a Professor of English at the University of Delhi \u2014 an author, editor, literary critic and storyteller. For nearly three decades, she has explored how literature shapes the way we understand history, identity, gender and the world around us, working across African Literature, Diaspora studies, mythology, postcolonial studies and feminist readings of the Indian epics. Her academic journey has taken her from Delhi to London as a Charles Wallace Scholar, to the Indian Institute of Advanced Study, Shimla as a Fellow, and to universities and literary forums across the world. She is the recipient of the Write India Award for creative writing, the Ambassador for Peace Prize for teaching in a slum cluster, and the Best Lecturer's Award from the Government of Delhi. She is the author of the bestselling short story collection The Second Wife and Other Stories, and editor of several acclaimed books.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-10-03T15:00:00+05:30",
+    "endDate": "2026-10-03T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "550.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/rewriting-epics-the-feminist-way-16395",
+    "keywords": [
       "URBANAUT"
     ]
   }
