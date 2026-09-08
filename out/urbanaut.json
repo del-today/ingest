@@ -995,6 +995,43 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Delhi School of Ideas 4.0 - UnLecture x Gully Labs",
+    "description": "Delhi School of Ideas isn\u2019t about finished work. It\u2019s about the half-baked, the bizarre, the \u201cwhy does this even exist?\u201d kind of thinking.The first edition was a house full of conversations varying between public urination to biking as ADHD therapy. A curated space where instead of polished presentations, you get a series of strange, obsessive deep dives into ideas, inventions, and research that feel unnecessary\u2026 until they aren\u2019t.No panels. No moderation. No clean takeaways. Just people presenting things they probably shouldn\u2019t have spent this much time thinking about. The room is designed to feel slightly unhinged \u2014 in a good way.What's included?Unlimited snacks are on the house by BRBUnlimited beer is on the house by ProostSo you can sit, question, interrupt, disagree \u2014 or just exist in the chaos.Baithak, Gully Labs Store, Panchsheel Park9th May, 5pm onwards.",
+    "startDate": "2026-09-13T17:00:00+05:30",
+    "endDate": "2026-09-20T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1416.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
+    },
+    "url": "https://urbanaut.app/spot/delhi-school-of-ideas-30-unlecture-x-gully-labs",
+    "keywords": [
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Crochet, but make it outdoors",
     "description": "Take your crochet out of the usual four walls and into the greens.A 2-hour workshop brings together the calm of nature and the joy of making something by hand.We will begin with a nature walk, taking in the colours, textures and little details around us, before settling down outdoors with our yarn and hooks.Whether you\u2019re picking up a crochet hook for the first time or already enjoy making things, this is a chance to slow down, create and enjoy the process in a completely different setting.What to expect:A gentle nature walk and explorationLearn and practice the basics of crochetCrochet while surrounded by natureSpend time creating mini crochet charmA relaxed outdoor experience away from the usual routine",
@@ -1178,6 +1215,42 @@
     "keywords": [
       "Leisure",
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "unZipping the World: On Absence & Emptiness",
+    "description": "About the LectureJoin us for a lecture that starts with two letters hiding an entire universe of ideas: U and N.The suffix \"Un\" \u2014 the very one baked into \"unLecture\" \u2014 is a small linguistic trick with outsized power. It hides negation and logic. It has produced social evils like untouchability. And underneath all of that, it's tangled up with some of philosophy's oldest questions about absence and emptiness.This is a joyful reflection on the complexities hiding inside the simplest expressions we use every day \u2014 the words so small we never stop to ask what they're actually doing.The session explores:What the prefix \"Un\" reveals about the hidden logic of everyday languageHow something as small as negation can shape ideas as serious as untouchabilityWhat absence and emptiness actually mean, philosophically speakingA playful, wide-ranging tour through language, logic and lived experienceAbout the SpeakerSundar Sarukkai is a philosopher and writer whose lifelong search for the hidden languages of nature, humans and societies has produced a rich body of work spanning books, articles, plays and novels \u2014 including Following a Prayer: A Novel and Water Days: A Novel. His latest book, Homo Philosophicus: Discovering the Spirit of Philosophy in Everyday Life, is an introductory book on philosophy that presents a unified, humanistic approach to the discipline. More of his work can be found at sundarsarukkai.in.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-09-19T15:00:00+05:30",
+    "endDate": "2026-09-19T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/un-zipping-the-world-sozzled-reflections-on-absen",
+    "keywords": [
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -1514,6 +1587,42 @@
     "url": "https://urbanaut.app/spot/the-festival-of-tiles-delhi-tournament",
     "keywords": [
       "Leisure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Bulldozers, Bullets, and the Constitution",
+    "description": "About the LectureFor the last decade or more, the Indian Constitution has played a starring role in the romance of the Indian nation, especially among those who identify as liberals. This lecture sounds a more pessimistic note. It focuses on Article 21, the article that purports to protect life and personal liberty \u2014 and asks what its well-documented inadequacies actually mean.A clear view of these gaps should make us question the idea that the Constitution is a solution to our contemporary troubles. In some respects, it may be part of the problem.The session explores:Why Article 21's protections of life and personal liberty are, in practice, woefully inadequateWhat the gap between constitutional promise and constitutional practice revealsWhy treating the Constitution as sacred might get in the way of confronting its limitsHow \"colonial law\" and the history of civil liberties shaped the Indian constitutional traditionAbout the SpeakerArudra Burra has a background in political philosophy and law. He wandered into Indian constitutional history while working on questions involving the idea of \"colonial law\" and the history of civil liberties in the Indian constitutional tradition \u2014 concerns he is currently exploring in a book project titled Constitutionalism before the Constitution. He is also interested in the connections between Western and Indian philosophical traditions, explored most recently in his paper \"What is 'Indian' about Indian Political Thought?\" He teaches in the Department of Humanities and Social Sciences at IIT Delhi.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-09-24T19:00:00+05:30",
+    "endDate": "2026-09-24T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M-25, First Floor, Greater Kailash-2, M-Block Market, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53348370000000000000",
+        "longitude": "77.24203949999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/bulldozers-bullets-and-the-constitution",
+    "keywords": [
+      "Food & drink",
       "URBANAUT"
     ]
   },
