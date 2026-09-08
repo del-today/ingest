@@ -4,7 +4,7 @@
     "@type": "Event",
     "name": "Kathika Cultural Experience",
     "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
-    "startDate": "2026-09-07T11:30:00+05:30",
+    "startDate": "2026-09-08T11:30:00+05:30",
     "endDate": "2026-09-30T14:00:00+05:30",
     "location": {
       "@type": "Place",
@@ -42,7 +42,7 @@
     "@type": "FoodEvent",
     "name": "Chatti Choru @ Cocobay",
     "description": "Missed the Sadhya, you still got the *Chatti Choru* to try and this time it comes with a Non Vegetarian add on.\u00a0All Sept at Cocobay at Flxho Horizon One, 574 Sector 43 Golf Course Road",
-    "startDate": "2026-09-07T12:00:00+05:30",
+    "startDate": "2026-09-08T12:00:00+05:30",
     "endDate": "2026-09-27T15:00:00+05:30",
     "location": {
       "@type": "Place",
@@ -474,6 +474,45 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Refugee Abode: Humayun's Tomb Complex",
+    "description": "Humayun's Tomb, a symbol of love from her to him. Predating the Taj Mahal by almost 60 years, Humayun\u2019s Tomb resulted from a wife\u2019s love for her deceased husband. Incorporating Persian and Mughal architectural elements, this one-of-a-kind garden tomb was built in the mid-16th century by his wife, Haji Begum, in memory of Mughal Emperor Humayun.To date, the monument is the most iconic symbol of the Mughal Empire in Delhi, and the pages of history surrounding it continued till 1947.Join heritage raconteur Shah Umair for an interesting walk as we unravel the history of Humayun\u2019s tomb from Humayun's time to the fall of the Mughal Empire in 1857, and then to its role as one of the biggest refugee camps during the Partition.",
+    "startDate": "2026-09-12T17:00:00+05:30",
+    "endDate": "2026-09-12T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Hazrat Nizamuddin Aulia Dargah, Mathura Rd, Nizamuddin, Nizamuddin East, New Delhi, Delhi 110013, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59328480000000000000",
+        "longitude": "77.25074920000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "354.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sikkawala",
+      "url": "https://urbanaut.app/partner/sikkawala"
+    },
+    "url": "https://urbanaut.app/spot/the-refugee-abode-humayuns-tomb-complex",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
       "URBANAUT"
     ]
   },
