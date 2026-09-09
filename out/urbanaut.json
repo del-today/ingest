@@ -204,7 +204,7 @@
     "typicalAgeRange": "25+",
     "offers": {
       "@type": "Offer",
-      "price": "661.00",
+      "price": "700.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -534,7 +534,7 @@
     "typicalAgeRange": "25+",
     "offers": {
       "@type": "Offer",
-      "price": "661.00",
+      "price": "700.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -792,7 +792,7 @@
     "typicalAgeRange": "25+",
     "offers": {
       "@type": "Offer",
-      "price": "661.00",
+      "price": "700.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -804,44 +804,6 @@
     "url": "https://urbanaut.app/spot/books-and-coffee-tasting",
     "keywords": [
       "Leisure",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Hot Girls Know Their Rights",
-    "description": "POV: You know every Instagram update but not your legal rights \ud83d\ude2d\u200bFrom scam calls and cyber frauds to influencer promotions, workplace drama, protests, and your everyday rights, we\u2019re covering the legal stuff that actually matters.\u200bAbout the Speaker:\u200bRashi Aggarwal is an Advocate with over 3 years of post-qualification litigation experience, actively handling matters before the Supreme Court of India and various High Courts. Her practice involves drafting and settling Special Leave Petitions, writ petitions, appeals, counter-affidavits, rejoinders, and applications, supported by extensive legal research and brief preparation. She has a strong understanding of litigation strategy, procedural requirements, and compliance with the Supreme Court Rules, with a keen interest in delivering effective and well-researched legal representation.\u200bYashika Chadha is an Advocate practising in Litigation and Dispute Resolution, with experience since 2023. Her practice covers Civil and Commercial Litigation, Writ Proceedings, Domestic Arbitration, Real Estate and Infrastructure Disputes, Consumer Matters, and select Criminal Matters. She has experience advising and representing clients before District and Commercial Courts, Tribunals, the NCLT, Arbitral Institutions, High Courts, and the Supreme Court of India, with a focus on effective representation, legal research, drafting, and dispute resolution.\u200bWe\u2019re talking about:\ud83d\udcf1 Cyber frauds\ud83d\udcbc Workplace rights\ud83d\udecd\ufe0f Consumer rights\ud83d\udce2 Public & protest rights\ud83d\udcf2 Influencer marketing & misleading ads\u200bExpect discussions, activities, quizzes, and lots of \u201cWAIT\u2026 THAT\u2019S ACTUALLY ILLEGAL?\u201d",
-    "startDate": "2026-09-13T12:00:00+05:30",
-    "endDate": "2026-09-13T14:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Westend marg, Gali No 1, Saidulajab, Saket, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.51594680000000000000",
-        "longitude": "77.19987800000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "300.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Galhood",
-      "url": "https://urbanaut.app/partner/the-galhood"
-    },
-    "url": "https://urbanaut.app/spot/hot-girls-know-their-rights",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Workshop",
       "URBANAUT"
     ]
   },
@@ -989,6 +951,44 @@
     "keywords": [
       "Workshop",
       "Walking Tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Blue Material - An All Dalit Line Up Comedy Show",
+    "description": "Featuring\u00a0multiple hilarious comedians from our collective, with deeply engaging performances grounded within the personal as well as the political,\u00a0the show uses humour and belly-aching laughter, to highlight the absurd realities of caste, other intersecting forms of oppression and the importance of seeking, creating and amplifying Joy among it all. Closing our first ever recording tour in Bangalore, we are all set for two back to back shows that will both have the cameras rolling!Associated with the anti-caste movement, the color blue signifies the sky, a symbol of non-discrimination, under which everyone is treated equally while at the same time 'Blue' comedy is a genre of comedy that is often labelled off-color, risqu\u00e9, indecent or \u201cprofane\u201d.That is exactly the duality that inspired our name: Blue Material, and we are India\u2019s first,Dalit-led, queer affirmative comedy collective.\u00a0Taking place over 90 entertainment packed minutes,\u00a0this is a one of kind standup comedy line up that you won\u2019t want to miss!Proceeds from the show will be donated towards education reform via the Eklavya India Foundation, a prestigious organisation focused on the upliftment of first generation university students from historically marginalised communities.",
+    "startDate": "2026-09-13T18:00:00+05:30",
+    "endDate": "2026-09-13T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Meeting by appointment only, please call us to fix a meeting, 389, Masjid Moth Rd, South Extension II, Block A, New Delhi, Delhi 110049, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.56409410000000000000",
+        "longitude": "77.21983150000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Blue Material",
+      "url": "https://urbanaut.app/partner/blue-materia"
+    },
+    "url": "https://urbanaut.app/spot/13thseptemberdelhi",
+    "keywords": [
+      "Leisure",
+      "Live GIG",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -1392,7 +1392,7 @@
     "typicalAgeRange": "25+",
     "offers": {
       "@type": "Offer",
-      "price": "661.00",
+      "price": "700.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -1871,7 +1871,7 @@
     "typicalAgeRange": "25+",
     "offers": {
       "@type": "Offer",
-      "price": "661.00",
+      "price": "700.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -2005,7 +2005,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Overthinkers Anonymous - Relationships Edition",
-    "description": "Overthinkers Anonymous (Relationships Editions)OverviewA space for the relationships you carry but rarely talk about. People gather to finally say the things they've held back from a parent, a partner, a coworker, an in-law, anyone they can't avoid and can't quite be honest with. Said out loud, finally.Most relationship conflicts are not just about what happened; they are about how we interpret what happened. This session focuses on exploring how our thoughts shape our connections and why friction often feels more intense than the situation warrants. \"Before You Blame\" is a reflective workshop designed to help you look at your assumptions and inner patterns, moving you from reactivity toward steadiness and emotional responsibility.What is Stories of Hope?We are a community-led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities, from mental well-being to personal growth, with empathy and shared human connection.What to ExpectPattern Recognition: Explore how common emotional triggers and ego-driven patterns shape conflicts in marriage, family, or work.Internal Focus: Instead of trying to fix others, we gently shift the focus inward to understand our own interpretations and responses.Practical Tools: Learn actionable ways to question stressful thoughts and practice perspective shifts using real-life scenarios.Safe Exploration: A supportive, non-judgmental environment for honest discussion. This is a space for learning and reflection, not a lecture or therapy.Key TakeawaysClarity: Gain a deeper understanding of recurring relationship dynamics.Responsiveness: Walk away with tools to help you respond thoughtfully instead of reacting impulsively.Emotional Ownership: Build the internal steadiness needed to navigate life without requiring others to change first.Details\ud83d\uddd3\ufe0f Date: 27th September (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Joaah Cafe",
+    "description": "Overthinkers Anonymous (Relationships Editions)OverviewA space for the relationships you carry but rarely talk about.People gather to finally say the things they've held back from a parent, a partner, a coworker, an in-law, anyone they can't avoid and can't quite be honest with. Said out loud, finally.Most relationship conflicts are not just about what happened; they are about how we interpret what happened. This session focuses on exploring how our thoughts shape our connections and why friction often feels more intense than the situation warrants. \"Before You Blame\" is a reflective workshop designed to help you look at your assumptions and inner patterns, moving you from reactivity toward steadiness and emotional responsibility.What is Stories of Hope?We are a community-led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities, from mental well-being to personal growth, with empathy and shared human connection.What to ExpectPattern Recognition: Explore how common emotional triggers and ego-driven patterns shape conflicts in marriage, family, or work.Internal Focus: Instead of trying to fix others, we gently shift the focus inward to understand our own interpretations and responses.Practical Tools: Learn actionable ways to question stressful thoughts and practice perspective shifts using real-life scenarios.Safe Exploration: A supportive, non-judgmental environment for honest discussion. This is a space for learning and reflection, not a lecture or therapy.Key TakeawaysClarity: Gain a deeper understanding of recurring relationship dynamics.Responsiveness: Walk away with tools to help you respond thoughtfully instead of reacting impulsively.Emotional Ownership: Build the internal steadiness needed to navigate life without requiring others to change first.Details\ud83d\uddd3\ufe0f Date: 27th September (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Children First Mental Health Institute, Gurugram",
     "startDate": "2026-09-27T11:30:00+05:30",
     "endDate": "2026-09-27T13:30:00+05:30",
     "location": {
@@ -2022,7 +2022,7 @@
     "typicalAgeRange": "25+",
     "offers": {
       "@type": "Offer",
-      "price": "661.00",
+      "price": "700.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
