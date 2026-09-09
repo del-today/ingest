@@ -590,7 +590,7 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Dunk Like A Girl | GK1",
+    "name": "Dunk Like A Girl | GK 1",
     "description": "SWAG's Basketball Session is here!Grab your sneakers and bring your best energy - it's time for Dunk Like A Girl \ud83c\udff8\u2728, a women-only basketball meet-up where the only goal is to have fun.Whether you've played before or you're trying basketball for the first time, everyone is welcome. We'll play easy games, cheer each other on, and enjoy an hour full of movement, fun, and good vibes.So if you've been looking for an excuse to get back on the court (or step onto one for the first time), this is it.Come solo or with your girls - you'll leave with a great workout, a few new friends, and probably plans for a rematch.",
     "startDate": "2026-09-12T19:00:00+05:30",
     "endDate": "2026-09-12T20:00:00+05:30",
@@ -1146,6 +1146,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Bazar-i-Husn :  exploring Tawaif culture",
+    "description": "Step into the world of grace, wit, and artistry as we explore the lives of Tawaifs\u2014the courtesans who once defined high culture, poetry, and performance in Delhi. This walk takes you through old city lanes that once echoed with ghazals, thumris, and the quiet power of women who shaped taste and tradition.Uncover the layered stories of kothas\u2014not as places of shame, but as salons of sophistication, resistance, and refined art. Let\u2019s reclaim these narratives and see history through a different lens.",
+    "startDate": "2026-09-19T07:30:00+05:30",
+    "endDate": "2026-09-19T09:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Chawri Bazar, Chandni Chowk, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64820100000000000000",
+        "longitude": "77.22695350000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "700.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/bazar-i-husn-exploring-tawaif-culture",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "The Art of Folding",
     "description": "The Art of FoldingOverviewA quiet practice of shaping and stillness.Using origami as a meditative, hands-on experience, participants slow down through simple folds and repetitive movement. One fold at a time.No fancy paper needed. This is a hands-on origami session using whatever you have lying around at home. Blinkit bags, newspapers, old book pages, packaging paper. If it folds, it works. Come make something with it.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.ThemeScience + Origami hands everyone a plain sheet of paper and a scientific idea to chase into shape, watching how a few folds can turn something flat into a structure with real complexity. The session moves at a calm pace through beginner-friendly folding techniques, no origami or science background required, just curiosity and steady hands. Everyone leaves holding something they made themselves, proof that a fold in the right place can carry an idea further than words do.Details\ud83d\uddd3\ufe0f Date: 19th September (Saturday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Cha & Co, Grand View High Street\ud83c\udf9f\ufe0f Fee: \u20b9700",
@@ -1372,6 +1410,42 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
+    "name": "'Doing' Literature: Intimacy, Risk, Pleasure",
+    "description": "About the LectureJoin us for a lecture that pushes back on everything school taught you about reading. Growing up, we're told that good exam results prove we've gained good knowledge of everything we've read. But we know that the markers of un-success, what we struggle with, what we can't fully express or understand, what we continue to puzzle over, remain the most memorable and meaningful of our engagements with reading.The humanities isn't about drawing a line under a problem with a QED. It isn't a formula that solves the troubles of the world, personal or political. It's about risk, intimacy, pleasure and failure, because it's an encounter with life itself.This lecture thinks through reading and translating literature, particularly poetry: the desire for it, the labour of it, the frustration and thrill of it, the failure and even death of it. Gayatri Spivak called translation \"the most intimate act of reading\"  a translator's complete surrender to the text. This talk goes further: reading itself is an intimate act, a constant jousting with everything that unsettles us, and translation only deepens it, an erotics that can go very right, or very wrong.The session explores:Why \"un-success\" is often reading's most meaningful outcomeWhat Gayatri Spivak meant by calling translation \"the most intimate act of reading\"How risk, intimacy, pleasure and failure define an authentic engagement with literatureWhy the humanities resist the comfort of formulas and easy resolutionsAbout the SpeakerBrinda Bose is Professor at the Centre for English Studies at Jawaharlal Nehru University. She taught earlier at Delhi University and was a Fellow of the Nehru Memorial Museum and Library in New Delhi. She has been a Rockefeller Fellow at Bellagio, Italy, at the Humanities Center of Boston University, and at the Camargo Foundation in Cassis, France. Her interests span modernist and avant-garde literature, cinema and other arts, gender and sexualities, and translation. She completed her BA at Presidency College, Calcutta, a second BA and MA at the University of Oxford, and her PhD at Boston University, all in English literature. She was an office-bearer of the Indian Association for Commonwealth Literature and Language Studies (IACLALS) through three terms, twice a jury member for The Hindu Literary Prize, and served on the selection panel for the Rolex Mentor-Prot\u00e9g\u00e9 Fellowships for Literature in Geneva. She is currently editing two volumes on Indian avant-garde aesthetics and coordinating a project translating from six Indian languages into English.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-09-20T17:00:00+05:30",
+    "endDate": "2026-09-20T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gate No. 1, Bahadur Shah Zafar Marg, inside Shaheedi park, Balmiki Basti, Vikram Nagar, New Delhi, Delhi, 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.63445520000000000000",
+        "longitude": "77.24131700000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/doing-literature-intimacy-risk-pleasure-fail",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
     "name": "Red Alert: Tearing Down Universal Human Rights",
     "description": "Grounds for Thought: Vasant Vihar, September 2026A Blue Tokai \u00d7 unLecture Series, One Sunday evening. One unsettling conversation.Grounds for Thought is a monthly series where Blue Tokai and unLecture bring researchers, scientists, and thinkers out of their institutions and into a coffee shop. The format is simple: an expert, a room full of curious people, and a conversation that goes somewhere a classroom rarely does. This September, the series spreads further than ever \u2014 four venues across Delhi and Bangalore, and a spread of ideas running from gender and work to princely politics, from children's books to comic-book uncles.20th September: Kavita KrishnanRed Alert: Ukraine, Gaza and the Tearing Down of Universal Human RightsMust Palestinians, Ukrainians, and Uyghurs compete for our solidarity? For anyone who cares about justice, it's become second nature to read the world through a polarised West-versus-Rest lens \u2014 pitting solidarity for Gaza against solidarity for Ukraine, or pro-democracy movements in Iran against anti-war and Palestine solidarity movements elsewhere. Kavita Krishnan, Indian activist and author of De-democratisation, pushes back on the premise itself: are the US, China, and Russia really opposing poles, or does Netanyahu's war depend on all three at once? This session asks whether universal human rights can survive Gaza, why Trump's vision of a \"multipolar world order\" isn't so different from Xi's, Putin's, or Modi's \u2014 and how solidarity might be built without polarity.",
     "startDate": "2026-09-20T17:00:00+05:30",
@@ -1592,6 +1666,82 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Rethinking work in Midlife",
+    "description": "Rethinking Work in Midlife | Could Teaching Be Your Next Chapter?Have you ever thought about teaching?After years of working, leading teams and building expertise, many professionals begin to wonder how they could share some of what they have learnt.Teaching can be one such path. And it doesn't necessarily mean becoming a full-time academic. It could mean being visiting faculty, taking guest sessions, teaching in executive education, mentoring, facilitating workshops, or finding other ways to bring your professional experience into learning spaces.But where do you begin? What opportunities exist? How can years of professional experience be brought into a teaching or learning environment? And what does that journey look like in practice?Join us for the next conversation in our Rethinking Work in Midlife series as we explore teaching as a possible next or parallel chapter of work.What we'll exploreThe different ways experienced professionals can engage with teachingHow professional experience translates into teachingWhat institutions and learners are looking forHow people find their first opportunitiesWhat can be rewarding\u00a0 and challenging about making the shiftThe conversation will be followed by audience Q&A.Who is this for?Experienced professionals in their 40s, 50s and 60s who are curious about teaching, mentoring or sharing their expertise, now or sometime in the future.",
+    "startDate": "2026-09-24T18:30:00+05:30",
+    "endDate": "2026-09-24T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gurugram, Haryana, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.45949650000000000000",
+        "longitude": "77.02663830000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "99.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Zuva Life",
+      "url": "https://urbanaut.app/partner/zuvalife"
+    },
+    "url": "https://urbanaut.app/spot/rethinkingworkinmidlifeteachinggurugram",
+    "keywords": [
+      "Virtual",
+      "Workshop",
+      "Eco Friendly",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Rethinking work in Midlife",
+    "description": "Rethinking Work in Midlife | Could Teaching Be Your Next Chapter?Have you ever thought about teaching?After years of working, leading teams and building expertise, many professionals begin to wonder how they could share some of what they have learnt.Teaching can be one such path. And it doesn't necessarily mean becoming a full-time academic. It could mean being visiting faculty, taking guest sessions, teaching in executive education, mentoring, facilitating workshops, or finding other ways to bring your professional experience into learning spaces.But where do you begin? What opportunities exist? How can years of professional experience be brought into a teaching or learning environment? And what does that journey look like in practice?Join us for the next conversation in our Rethinking Work in Midlife series as we explore teaching as a possible next or parallel chapter of work.What we'll exploreThe different ways experienced professionals can engage with teachingHow professional experience translates into teachingWhat institutions and learners are looking forHow people find their first opportunitiesWhat can be rewarding\u00a0 and challenging about making the shiftThe conversation will be followed by audience Q&A.Who is this for?Experienced professionals in their 40s, 50s and 60s who are curious about teaching, mentoring or sharing their expertise, now or sometime in the future.",
+    "startDate": "2026-09-24T18:30:00+05:30",
+    "endDate": "2026-09-24T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.70405920000000000000",
+        "longitude": "77.10249019999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "99.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Zuva Life",
+      "url": "https://urbanaut.app/partner/zuvalife"
+    },
+    "url": "https://urbanaut.app/spot/rethinkingworkinmidlifeteachingdelhi",
+    "keywords": [
+      "Virtual",
+      "Workshop",
+      "Eco Friendly",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Bulldozers, Bullets, and the Constitution",
     "description": "About the LectureFor the last decade or more, the Indian Constitution has played a starring role in the romance of the Indian nation, especially among those who identify as liberals. This lecture sounds a more pessimistic note. It focuses on Article 21, the article that purports to protect life and personal liberty \u2014 and asks what its well-documented inadequacies actually mean.A clear view of these gaps should make us question the idea that the Constitution is a solution to our contemporary troubles. In some respects, it may be part of the problem.The session explores:Why Article 21's protections of life and personal liberty are, in practice, woefully inadequateWhat the gap between constitutional promise and constitutional practice revealsWhy treating the Constitution as sacred might get in the way of confronting its limitsHow \"colonial law\" and the history of civil liberties shaped the Indian constitutional traditionAbout the SpeakerArudra Burra has a background in political philosophy and law. He wandered into Indian constitutional history while working on questions involving the idea of \"colonial law\" and the history of civil liberties in the Indian constitutional tradition \u2014 concerns he is currently exploring in a book project titled Constitutionalism before the Constitution. He is also interested in the connections between Western and Indian philosophical traditions, explored most recently in his paper \"What is 'Indian' about Indian Political Thought?\" He teaches in the Department of Humanities and Social Sciences at IIT Delhi.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
@@ -1771,6 +1921,46 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "AFTER HOURS September",
+    "description": "AFTER HOURS is a fortnightly gathering hosted at DAFTAR by delhiwear.An evening for music, conversations, familiar faces and people you haven't met yet \u2014 bringing together a mix of people from Delhi's fashion, music, art, design and creative communities.There are no panels, pitches or networking agendas. Just good music, good people and an open space to meet, talk, hang out and discover something new.What to expect:\u2022 Music throughout the evening\u2022 Drinks on the house\u2022 BYOB welcome\u2022 Conversations and new connections\u2022 A mix of creatives, founders, artists, designers and curious minds\u2022 Limited delhiwear pieces, samples and special findsWe usually begin around 7 PM and wrap up before midnight.Capacity is limited to keep the gathering intimate.Come by yourself, bring a friend, or simply come after work.See you after work.",
+    "startDate": "2026-09-26T19:00:00+05:30",
+    "endDate": "2026-09-26T23:45:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "91C, 2nd Floor, DDA Flats, Shahpur Jat, Siri Fort, New Delhi, Delhi 110049, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54739420000000000000",
+        "longitude": "77.21576770000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "429.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Delhiwear",
+      "url": "https://urbanaut.app/partner/delhiwear"
+    },
+    "url": "https://urbanaut.app/spot/after-hours-september",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Workshop",
+      "Pop-up Event",
+      "Art & culture",
       "URBANAUT"
     ]
   },
