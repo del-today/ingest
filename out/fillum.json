@@ -1,1 +1,104 @@
-[]
+[
+  {
+    "@type": "ScreeningEvent",
+    "name": "Every Now and Then Girls...(2025)",
+    "url": "https://fillum.in/screening/6139",
+    "startDate": "2026-09-12T12:00:00+05:30",
+    "endDate": "2026-09-12T12:00:00+05:30",
+    "description": "Post-screening Q&A. Free entry.",
+    "location": {
+      "@type": "Place",
+      "name": "Pulp Society, Okhla",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fillum"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Scene Work - Workshop by National Award Winner Devanshu Singh",
+    "url": "https://fillum.in/event/6141",
+    "startDate": "2026-09-12T15:00:00+05:30",
+    "endDate": "2026-09-12T15:00:00+05:30",
+    "description": "Devanshu Singh is a National Award winning filmmaker and educator known for feature films \u2018Chintu Ka Birthday\u2019 and \u201814 Phere\u2019, and several viral AIB sketches.Apart from directing ads, mu..more",
+    "location": {
+      "@type": "Place",
+      "name": "Niv Art Centre, Neb Sarai",
+      "address": "Sainik Farm, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Devanshu Singh"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Sansho the Bailiff(1954)",
+    "url": "https://fillum.in/screening/6143",
+    "startDate": "2026-09-12T16:30:00+05:30",
+    "endDate": "2026-09-12T16:30:00+05:30",
+    "description": "Two children.A vanished mother.A world where kindness comes at a price.Separated by fate and trapped under the rule of a merciless man, they must find a way to survive without losing what ma..more",
+    "location": {
+      "@type": "Place",
+      "name": "iPley music Studio, GK-1",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "SomeArt"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "5-Hour Filmmaking Challenge \u2014 September Edition!",
+    "url": "https://fillum.in/event/6039",
+    "startDate": "2026-09-13T11:00:00+05:30",
+    "endDate": "2026-09-13T11:00:00+05:30",
+    "description": "Can you write, shoot, edit & premiere a film in just 5 hours?The theme is revealed on the spot. Bring your creativity, build your team, and turn an idea into a short film before the clock runs o..more",
+    "location": {
+      "@type": "Place",
+      "name": "Niv Art Centre, Neb Sarai",
+      "address": "Sainik Farm, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Niv Art Centre & Film Studios"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Floating Clouds(1955)",
+    "url": "https://fillum.in/screening/6144",
+    "startDate": "2026-09-13T16:30:00+05:30",
+    "endDate": "2026-09-13T16:30:00+05:30",
+    "description": "Some love stories are never meant to have a happy ending.Two people meet.They fall in love.War tears them apart.And when they find each other again, nothing is quite the same.A hauntin..more",
+    "location": {
+      "@type": "Place",
+      "name": "iPley music Studio, GK-1",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "SomeArt"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Oslo: A Tail of Promise(2025)",
+    "url": "https://fillum.in/screening/6154",
+    "startDate": "2026-09-17T19:00:00+05:30",
+    "endDate": "2026-09-17T19:00:00+05:30",
+    "description": "Free entry.",
+    "location": {
+      "@type": "Place",
+      "name": "Stein Auditorium, India Habitat Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Habitat World"
+    }
+  }
+]
