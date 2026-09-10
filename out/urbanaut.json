@@ -366,6 +366,43 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Coffee Connect - A women-only curated meet up",
+    "description": "New adult friendships are hard. Creating a curated space for women to gather and meet each other over a cuppa of joe. A chance to meet new people matched to your vibe, exchange ideas, listen and share, with fun activities to get to know each other in a shared space.Date: 12th September, SaturdayTime: 3-5pmVenue: Vasant Kunj (Exact details to be shared post registeration)",
+    "startDate": "2026-09-12T15:00:00+05:30",
+    "endDate": "2026-09-12T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.70405920000000000000",
+        "longitude": "77.10249019999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Wander & Wonder",
+      "url": "https://urbanaut.app/partner/wander-wonder"
+    },
+    "url": "https://urbanaut.app/spot/coffee-connect-a-women-only-curated-meet-up",
+    "keywords": [
+      "Local",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Slow sunset walk at Azim khan tomb",
     "description": "A slow sunset experience from the top of the hill with a mesmerizing view of Qutub Minar and Mehrauli Archaeological park complex.  Be prepared with a pair of shoes, you fav camera, because you might get some amazing photographs with airplanes in your frame.",
@@ -1812,6 +1849,44 @@
     "url": "https://urbanaut.app/spot/film-and-analog",
     "keywords": [
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "SROT x Rosei Ghara | Chef's Table",
+    "description": "SROT x Rosei Ghara \u2014 A Chef\u2019s TableFor two days this September, SROT joins Rosei Ghara for an intimate Chef\u2019s Table exploring the flavours of Odisha through a fresh, contemporary perspective.Led by Chef Nitesh Kumar Sinha and Chef Amit Kumar, SROT is rooted in rediscovering India\u2019s lesser-known regional cuisines and presenting them through a refined, modern expression. Together with Rosei Ghara, the chefs have created a 7-course tasting menu inspired by Odia ingredients, flavours and food traditions - familiar at heart, but reimagined for the table.What makes this edition particularly special is the setting. It will be hosted at Rosei Ghara\u2019s new diner in Shahpurjat, Delhi right alongside the kitchen where it all comes together. With just 10 guests at each service, expect a small, personal table and a menu created specifically for the occasion.26 & 27 SeptemberLunch \u2014 1 PM onwardsDinner \u2014 8 PM onwardsA table built around Odisha, collaboration, and the joy of seeing regional food take on a new form.",
+    "startDate": "2026-09-26T13:00:00+05:30",
+    "endDate": "2026-09-27T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shahpur Jat, Siri Fort, New Delhi, Delhi 110049, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54878510000000000000",
+        "longitude": "77.21596509999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Rosei Ghara",
+      "url": "https://urbanaut.app/partner/roseighara"
+    },
+    "url": "https://urbanaut.app/spot/srot-x-rosei-ghara-chefs-table",
+    "keywords": [
+      "Leisure",
+      "Pop-up Event",
+      "Food & drink",
       "URBANAUT"
     ]
   },
