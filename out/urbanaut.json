@@ -1184,43 +1184,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "The Art of Folding",
-    "description": "The Art of FoldingOverviewA quiet practice of shaping and stillness.Using origami as a meditative, hands-on experience, participants slow down through simple folds and repetitive movement. One fold at a time.No fancy paper needed. This is a hands-on origami session using whatever you have lying around at home. Blinkit bags, newspapers, old book pages, packaging paper. If it folds, it works. Come make something with it.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.ThemeScience + Origami hands everyone a plain sheet of paper and a scientific idea to chase into shape, watching how a few folds can turn something flat into a structure with real complexity. The session moves at a calm pace through beginner-friendly folding techniques, no origami or science background required, just curiosity and steady hands. Everyone leaves holding something they made themselves, proof that a fold in the right place can carry an idea further than words do.Details\ud83d\uddd3\ufe0f Date: 19th September (Saturday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Cha & Co, Grand View High Street\ud83c\udf9f\ufe0f Fee: \u20b9700",
-    "startDate": "2026-09-19T11:30:00+05:30",
-    "endDate": "2026-09-19T13:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Ireo Grand View High Street, Sector 58, Gurugram, Haryana 122098, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.41560020000000000000",
-        "longitude": "77.10258329999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "661.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/the-art-of-folding",
-    "keywords": [
-      "Leisure",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "unZipping the World: On Absence & Emptiness",
     "description": "About the LectureJoin us for a lecture that starts with two letters hiding an entire universe of ideas: U and N.The suffix \"Un\" \u2014 the very one baked into \"unLecture\" \u2014 is a small linguistic trick with outsized power. It hides negation and logic. It has produced social evils like untouchability. And underneath all of that, it's tangled up with some of philosophy's oldest questions about absence and emptiness.This is a joyful reflection on the complexities hiding inside the simplest expressions we use every day \u2014 the words so small we never stop to ask what they're actually doing.The session explores:What the prefix \"Un\" reveals about the hidden logic of everyday languageHow something as small as negation can shape ideas as serious as untouchabilityWhat absence and emptiness actually mean, philosophically speakingA playful, wide-ranging tour through language, logic and lived experienceAbout the SpeakerSundar Sarukkai is a philosopher and writer whose lifelong search for the hidden languages of nature, humans and societies has produced a rich body of work spanning books, articles, plays and novels \u2014 including Following a Prayer: A Novel and Water Days: A Novel. His latest book, Homo Philosophicus: Discovering the Spirit of Philosophy in Everyday Life, is an introductory book on philosophy that presents a unified, humanistic approach to the discipline. More of his work can be found at sundarsarukkai.in.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
@@ -1374,36 +1337,38 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Overthinkers Anonymous",
-    "description": "OverviewA gentle support circle for thoughts that feel a little too loud.A space to speak, reflect, or simply sit among people who understand emotional overwhelm.This edition explores a different kind of loneliness \u2014 the kind that exists even when life looks socially full. We'll talk about emotional disconnection, feeling unseen, surface-level conversations, difficulty forming close relationships, and why so many of us feel alone even when we're surrounded by people.Say as much or as little as you want. Come as you are.What is Stories of Hope?Stories of Hope is a community built around a simple idea, that people need places where they can slow down and be heard. We create small, intentional spaces for writing, listening, creating, and reflecting. There is no expectation to perform and no pressure to have the right words. Just a space to pause and be with what is already there.What to expectSharing: The session is built around honest conversation. People share what is on their mind, what they are carrying, what they keep coming back to.Group Discussion: We talk it through together. No advice unless asked, no pressure to have it figured out. Just people listening and being listened to.Details\ud83d\uddd3\ufe0f Date: 20th September (Sunday)\u23f0 Time: 11:00 AM\ud83d\udccd Location: Joaah Cafe\ud83c\udf9f\ufe0f Contribution: \u20b9700",
-    "startDate": "2026-09-20T11:00:00+05:30",
-    "endDate": "2026-09-20T13:00:00+05:30",
+    "name": "Carving Empire: A Session on Mughal Jade",
+    "description": "Step into the fascinating world of Mughal jade through rare artefacts, exquisite paintings and an expert-led conversation that brings the imperial world to life. Expect stories, surprises, plenty of jokes and an informal, interactive session where you can ask questions, share your thoughts and discover the history behind these extraordinary objects.* See rare Mughal jade artefacts & paintings* Listen to an expert talk filled with stories, insights & secrets* Join a fun, conversational session with questions, jokes & lots of interactionAbout the Author : Anoushka Jain is a historian and author of the non-fiction book Badass Begums, published by HarperCollins India. She is also the founder of Enroute Indian History, a women-focused heritage initiative that curates walks, workshops, and storytelling experiences around the layered histories of Delhi and the women who shaped it.Her work has been featured in leading publications including The Hindu, The Indian Express, The Print, Scroll.in, Hindustan Times, The Times of India, Vogue India, and Platform Magazine, alongside numerous press features.",
+    "startDate": "2026-09-20T16:30:00+05:30",
+    "endDate": "2026-09-20T18:30:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "Shop No. 18,19,28, Ascott Ireo City Central, behind Jagdish Store, Alahawas, Sector 59, Gurugram, Haryana 122011, India",
+      "address": "8, Nelson Mandela Marg, Pocket 4, Sector C, Vasant Kunj, New Delhi, Delhi 110070, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.40815030000000000000",
-        "longitude": "77.10266890000000000000"
+        "latitude": "28.53822650000000000000",
+        "longitude": "77.15371040000000000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
+    "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "700.00",
+      "price": "350.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
     },
-    "url": "https://urbanaut.app/spot/overthinkers-anonymous",
+    "url": "https://urbanaut.app/spot/carving-empire-a-session-on-mughal-jade",
     "keywords": [
-      "Wellness",
+      "Live GIG",
+      "Eco Friendly",
+      "History & heritage",
       "URBANAUT"
     ]
   },
@@ -1853,42 +1818,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "The Listening Room",
-    "description": "The Listening Room: A Space for Deep ListeningOverviewIn a world that is always talking, we rarely get the chance to truly listen. The Listening Room is a unique session dedicated to the art of being present. It is a space to share, to hear others, and to practice the kind of attention that builds real connection and empathy.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to expectActive Listening: Practice being fully present while others speak without the need to interrupt or give immediate advice.Shared Stories: A safe environment to share your own thoughts or experiences and feel truly heard by a small group.Quiet Reflection: Moments of silence to process what has been shared and to notice how deep listening changes our perspective.Supportive Connection: A morning at Greenr focused on human presence and the simple power of witnessing each other\u2019s stories.Details\ud83d\uddd3\ufe0f Date: 26th September (Saturday)\u23f0 Time: 11:00 AM\ud83d\udccd Location: Greenr, Golf Course Ext Road\ud83c\udf9f\ufe0f Contribution: \u20b9700",
-    "startDate": "2026-09-26T11:00:00+05:30",
-    "endDate": "2026-09-26T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "First Floor, Grand View High Street, Golf Course Ext Rd, Sector 58, Gurugram, Haryana 122098, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.41623070000000000000",
-        "longitude": "77.10243700000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "700.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/listening-room",
-    "keywords": [
-      "Wellness",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Raat Ke Afsane : Qutub Minar",
     "description": "Experience the magic of Qutub Minar like never before\u2014under the stars and glowing lights. This is a guided heritage walk led by a historian, who will take you through the stunning Qutub complex after dark. As the entire site is beautifully illuminated at night, the minaret shines like Delhi\u2019s very own Eiffel Tower\u2014majestic, mysterious, and unforgettable.Walk through centuries of history, discover forgotten stories, and explore Delhi\u2019s medieval past through engaging storytelling. The play of light, shadow, and silence transforms this heritage site into something truly cinematicPlaces we will cover : 1. Mughal Serai2. Alai Minar3. Iltutmish Tomb4. Qutub Minar5. Iron Pilar6. 27 Jain and hindu temples7. Alai Darwaza8. Alauddin Khilji grave and madarsa .Important Points:  1. Details of the heritage walk will be mailed to you when you book the tickets2. No guided fees for kids below 5.3. Medium of communication : Hindi and English4. Please note that in case of unavoidable external reasons such as (weather conditions, political rallies, VIP movement, powercut) the walk may be canceled. The participant has the liberty to take another walk by the company against the payment they have made within 30 days since the date of the registered walk.5. The company does not have refund policy.",
     "startDate": "2026-09-26T18:30:00+05:30",
@@ -2069,6 +1998,45 @@
     "url": "https://urbanaut.app/spot/haunted-walk-mehrauli-archaeological-park",
     "keywords": [
       "Adventure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Mahfil-e-Dastangoi",
+    "description": "Chor Bizarre hosts a Mahfil-e-Dastangoi, the 13th-century art of storytelling, once heard in royal courts and public gatherings across the subcontinent.Directed by Syed Sahil Agha, with performances by Diksha Tiwari and Mohini Sungar, the evening brings alive tales through voice, rhythm, and imagination alone.At Chor Bizarre, the table makes space for stories again! Come join us.",
+    "startDate": "2026-09-27T18:30:00+05:30",
+    "endDate": "2026-09-27T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Hotel Broadway, 4/15A, Asaf Ali Rd, Chatta lal Miya, Chandni Mahal, Chandni Chowk, Delhi, New Delhi, Delhi 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64105660000000000000",
+        "longitude": "77.23791410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "525.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Chor Bizarre",
+      "url": "https://urbanaut.app/partner/chor-bizarre"
+    },
+    "url": "https://urbanaut.app/spot/mehfil-e-dastangoi",
+    "keywords": [
+      "Music",
+      "History & heritage",
+      "Food & drink",
+      "Art & culture",
       "URBANAUT"
     ]
   },
