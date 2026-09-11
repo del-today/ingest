@@ -330,44 +330,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Delhi's Metro Morphosis: Metro Train heritage walk",
-    "description": "Delhi\u2019s Metro Morphosis-: A Walk Through Delhi\u2019s Changing CommuteExploring the Impact of the Delhi Metro on Gender, Safety & Urban LifeIn the heart of India\u2019s capital, the Delhi Metro is more than a transport system \u2014 it\u2019s a living, moving map of the city\u2019s transformation.Join us for a guided walkthrough and urban dialogue as we journey along the tracks \u2014 not just from station to station, but across the layers of Delhi\u2019s social fabric. This unique walk explores how the Metro has quietly reshaped gender access, mobility justice, public spaces, urban design, and how heritage and history now sit side-by-side with modern infrastructure.We will cover Mandi House -Kailash Colony-Kashmere Gate-Chawari Bazar-Rajiv Chowk .",
-    "startDate": "2026-09-12T17:00:00+05:30",
-    "endDate": "2026-09-12T19:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Metro Station Mandi House, Mandi House, New Delhi, Delhi 110001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.62550960000000000000",
-        "longitude": "77.23422860000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "900.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "DARWESH_TALEWEAVERS",
-      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
-    },
-    "url": "https://urbanaut.app/spot/delmetro",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Heritage Walk: Red Fort",
     "description": "A Heritage Walk Through the Red FortStep into the world of Qila e Mubarak, popularly known as the Red Fort, through a specially arranged private heritage walk exploring its history, architecture and cultural traditions.Discover the world of Shah Jahan and the Mughal court, while uncovering stories behind the forts lesser known features, including the Nahr e Bihisht, Stream of Paradise, silken qanats and the original artistic traditions of Chatta Chowk.Through engaging storytelling, explore the Red Fort as more than a monument, a royal space shaped by emperors, nobles, artists and forgotten traditions.Language of communication is Hindi and English.Specially Arranged Private Heritage Walk ",
     "startDate": "2026-09-12T17:00:00+05:30",
@@ -1259,6 +1221,41 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Why Do Good People Commit Crime?",
+    "description": "About the LectureAre criminals different from us, or does society make them criminals?This lecture starts by exploring how people understand crime across different social, cultural and individual contexts, and challenges the common assumption that crime is committed only by \"bad people.\" Ordinary individuals, it turns out, become involved in criminal or deviant behaviour more often, and more understandably, than we'd like to admit.Through key criminological perspectives, social environment, peer influence, inequality, culture, opportunity, identity and situational factors, alongside real-life examples, case studies and interactive discussion, this session pushes the audience to examine the question at its centre honestly.The session explores:Why the assumption that crime is only committed by \"bad people\" doesn't hold upThe key criminological perspectives that explain how ordinary people end up committing crimesReal case studies of how social environment, inequality and opportunity shape criminal behaviourWhat genuinely prevents crime, once you understand where it actually comes fromAbout the SpeakerDr. Michael L. Valan is an Associate Professor of Criminology at Jindal Global Law School, O.P. Jindal Global University. He holds a Master's degree and PhD in Criminology from the University of Madras, Tamil Nadu, and has published twenty-three research articles in reputed peer-reviewed journals, including SCOPUS-indexed journals. He received the ISV Fellowship Award in 2016 from the Indian Society of Victimology and is a visiting scholar at the University of Illinois Chicago. He recently secured a research grant from the ICSSR, Government of India, to conduct a major research project on the victims of rescued bonded labourers. His areas of expertise include victimology, policing and crime prevention, and he brings over ten years of research and teaching experience.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-09-19T17:00:00+05:30",
+    "endDate": "2026-09-19T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "3rd Floor, G-16B, Hudson Ln, Block G, Vijay Nagar, Delhi, 110009, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.69452480000000000000",
+        "longitude": "77.20396410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/why-do-good-people-commit-crime",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Mandala Art and Nature Walk",
     "description": "A 2-hour nature experience where children step away from screens and into the outdoors.Through a guided nature walk they will explore their surroundings, learn about the flora and fauna around them and discover the little details they often miss.The second half of the experience brings nature and creativity together as children collect fallen leaves, flowers, twigs and other natural materials to create their own personalized mandalas.What will they experience?Nature Walk \u2013 Explore the surroundings and learn about local flora and fauna.Nature Discovery \u2013 Observe, notice and connect with the little things around them.Collect from Nature \u2013 Gather fallen leaves, flowers, twigs and other natural materials.Mandala Art \u2013 Use their collected treasures to create beautiful, nature-inspired mandalas.Screen-Free Time \u2013 Two hours to explore, create and be curious without screens.",
@@ -1893,7 +1890,7 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Retro Jamming Session with Soul Jams",
+    "name": "Retro Jamming Session with Soul Strings",
     "description": "Join us for an evening of timeless Hindi and Retro Bollywood melodies. Sing the songs you grew up listening to with us!",
     "startDate": "2026-09-26T18:00:00+05:30",
     "endDate": "2026-09-26T20:00:00+05:30",
