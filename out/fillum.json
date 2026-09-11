@@ -100,5 +100,39 @@
       "@type": "Organization",
       "name": "Habitat World"
     }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "The Architect(2025)",
+    "url": "https://fillum.in/screening/6106",
+    "startDate": "2026-09-18T18:00:00+05:30",
+    "endDate": "2026-09-18T18:00:00+05:30",
+    "description": "Free entry.",
+    "location": {
+      "@type": "Place",
+      "name": "M. L. Bhartia Auditorium, Alliance Fran\u00e7aise",
+      "address": "Lodhi Road, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Aravali International Film Festival"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Visthapana(2026)",
+    "url": "https://fillum.in/screening/6147",
+    "startDate": "2026-09-23T19:00:00+05:30",
+    "endDate": "2026-09-23T19:00:00+05:30",
+    "description": "Free entry. In association with Global Wildlife Fair and RoundGlass Sustain",
+    "location": {
+      "@type": "Place",
+      "name": "Gulmohar, India Habitat Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kriti Film Club"
+    }
   }
 ]

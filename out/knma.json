@@ -141,26 +141,6 @@
   },
   {
     "@type": "EducationEvent",
-    "name": "Woven Heritage",
-    "url": "https://www.knma.org/whats-on/workshops/woven-heritage",
-    "startDate": "2026-09-12T10:00:00+05:30",
-    "endDate": "2026-09-12T10:00:00+05:30",
-    "description": "Saturday Family Workshop",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "EducationEvent",
     "name": "Botanical Drawing",
     "url": "https://www.knma.org/whats-on/workshops/botanical-drawing",
     "startDate": "2026-09-19T10:00:00+05:30",
@@ -229,6 +209,46 @@
     "location": {
       "@type": "Place",
       "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "The Language of Belonging",
+    "url": "https://www.knma.org/whats-on/events/the-language-of-belonging",
+    "startDate": "2026-09-26T10:00:00+05:30",
+    "endDate": "2026-09-26T10:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Silent Frames",
+    "url": "https://www.knma.org/whats-on/workshops/silent-frames",
+    "startDate": "2026-09-26T10:00:00+05:30",
+    "endDate": "2026-09-26T10:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "Qutub Minar, Delhi",
       "address": "New Delhi"
     },
     "organizer": {
