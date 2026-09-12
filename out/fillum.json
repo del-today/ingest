@@ -69,6 +69,23 @@
   },
   {
     "@type": "ScreeningEvent",
+    "name": "Om Ka Hari(2026)",
+    "url": "https://fillum.in/screening/6159",
+    "startDate": "2026-09-18T18:00:00+05:30",
+    "endDate": "2026-09-18T18:00:00+05:30",
+    "description": "First Ray Films in association with Fillum is hosting a special screening for this heartfelt tale about a dysfunctional father-son relationship. Film's cast members will also be present at the scree..more",
+    "location": {
+      "@type": "Place",
+      "name": "Cinepolis: DLF Avenue, Saket",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "First Ray Films"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "Visthapana(2026)",
     "url": "https://fillum.in/screening/6147",
     "startDate": "2026-09-23T19:00:00+05:30",

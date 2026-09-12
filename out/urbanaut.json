@@ -112,43 +112,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Bazm-i-Havelis : Chandni Chowk",
-    "description": "Havelis of Chandni Chowk: Stories Behind the DoorsA guided heritage walk through the historic lanes of Chandni Chowk exploring the grand havelis of Shahjahanabad. The walk introduces participants to the architectural and cultural heritage of old Delhi, once home to merchants, poets and noble families.Through storytelling, the experience highlights the history of these havelis, their architectural features such as courtyards, jharokhas and wooden doors, and their transformation over time from the Mughal era to the present day.The walk offers insights into the social, cultural and economic life of historic Delhi as participants explore selected haveli sites in the area.Language of communication is Hindi and English.",
-    "startDate": "2026-09-13T07:30:00+05:30",
-    "endDate": "2026-09-13T09:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Chandni Chowk, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.65053310000000000000",
-        "longitude": "77.23033699999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "650.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Enroute Indian History",
-      "url": "https://urbanaut.app/partner/enrouteindianhistory"
-    },
-    "url": "https://urbanaut.app/spot/bazm-i-havelis-chandni-chowk",
-    "keywords": [
-      "History & heritage",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Mad Genius Tughlaq:  A Heritage walk at Jahanpanah",
     "description": "( A heritage walk with Dramatic Reading of Play excerpts)Step into the haunting beauty of Jahanpanah Fort & Begumpur Mosque ( just behind Hauz Khas Metro Station)     where weathered stones still whisper tales of power, ambition, and madness.Join Darwesh Heritage Walks for an immersive journey into the extraordinary world of Sultan Muhammad bin Tughlaq\u2014one of the most fascinating and controversial rulers of the Delhi Sultanate.This is more than a heritage walk. Through live readings from a legendary play, history comes alive before your eyes, blurring the line between performance and reality. Walk through the ruins of a magnificent 14th-century fort and the awe-inspiring Begumpur Mosque as we explore the Sultan's grand visions, impossible dreams, political experiments, and enduring legacy.Experience history as a dialogue between the past and the present. Feel the echoes of idealism, power, and disillusionment. Stand where dreams turned to dust\u2014and yet continue to speak across the centuries.(in collaboration with Sabhyata Foundation)",
     "startDate": "2026-09-13T08:30:00+05:30",
@@ -859,6 +822,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "THE QUTUB CODE: Decode stories hidden in stone",
+    "description": "What if the Qutub Minar could tell you the story of Delhi?Step into the Qutub Complex and explore the layers of history, architecture, power and cultural exchange that shaped medieval Delhi. From the soaring Qutub Minar and the intricate Alai Darwaza to the ancient Iron Pillar and the ruins of the Quwwatu\u2019l-Islam Mosque, every stone reveals a different chapter.This is not just a walk around a monument. It is a journey through the making of Delhi- its rulers, ambitions, architectural experiments, conflicts, craftsmanship and forgotten stories.Come for the Qutub Minar. Stay for the stories hidden around it.",
+    "startDate": "2026-09-20T08:00:00+05:30",
+    "endDate": "2026-09-20T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "G5GQ+443, Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52526250000000000000",
+        "longitude": "77.18779690000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "300.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Riwayat Walks",
+      "url": "https://urbanaut.app/partner/riwayatwalks"
+    },
+    "url": "https://urbanaut.app/spot/the-qutub-code-decode-stories-hidden-in-stone",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Artisanal Sourdough Bread Workshop",
     "description": "Learn how to bake an artisan loaf - real bread made the old-fashioned way, with just flour, water, and salt! No prior baking or cooking experience required. This is a hands-on class for those seriously interested in the sourdough baking process. Under Anita's guidance, each participant will work independently to make their loaf from start to finish. At the end of class you will go home with the confidence to start baking sourdough bread in your home kitchen. The class also includes a session on Sourdough Focaccia.250+ workshops and counting! Anita is a practicing Landscape Architect who enjoys cooking with seasonal ingredients. Like-minded people join her in the kitchen on weekends to cook and eat. She has been baking sourdough breads at home for over 15 years using local flours and her lively wild yeast starter. Come for the Bread, stay for the food.Two slots:Sun, Sept 20: 10:00am-4:30pm Full Day (mix, shape, bake in-class)Sun, Sept 6: 10:00-11:30am (Short Format, mix dough in class, bake at home) Recommended for those who have been baking on their on but want to improve their loaves (bring a baked loaf to class for discussion), or would like a refresher, or feel pressed for time.Sourdough bread baking requires practice. The workshops are for those seriously seeking to learn the art and craft of baking sourdough breads, not for casual experience seekers.",
@@ -931,6 +932,44 @@
       "Wellness",
       "Workshop",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Art of Mapping: A hands-on workshop",
+    "description": "he Art of Mapping: A hands-on heritage map-making experienceWhat if you could experience a city not just by walking through it, but by drawing it your own way?Join us for a hands-on creative session where history, art, and mapping come together. You\u2019ll explore the visual language of heritage maps and create your own illustrated map using handmade techniques, textures, symbols, landmarks, and stories.Whether you love drawing, exploring cities, discovering heritage, or simply want to spend an evening making something with your hands - this workshop is designed for you.",
+    "startDate": "2026-09-20T16:30:00+05:30",
+    "endDate": "2026-09-20T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "AB, Nil 26, Shivalik Rd, Shvalik, DDA Flats, Malviya Nagar, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53412730000000000000",
+        "longitude": "77.21015860000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1049.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Riwayat Walks",
+      "url": "https://urbanaut.app/partner/riwayatwalks"
+    },
+    "url": "https://urbanaut.app/spot/mapmakingworkshopriwayatwalks",
+    "keywords": [
+      "Workshop",
+      "History & heritage",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -1524,6 +1563,44 @@
       "Leisure",
       "Pop-up Event",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Safdarjung Tomb: The Last Garden of the Mughals",
+    "description": "Step beyond the grand fa\u00e7ade of Safdarjung Tomb and explore one of Delhi\u2019s most evocative late-Mughal monuments.This experience looks closely at the monument- not just as a tomb, but as a carefully designed landscape of gardens, water channels, pavilions, gateways, arches and hidden spaces.Discover the stories behind the Charbagh garden, the central mausoleum, the elegant pavilions known as Moti Mahal, Jangli Mahal and Badshah Pasand, and the architectural details that reveal how Mughal architecture evolved during its later period.",
+    "startDate": "2026-09-26T17:00:00+05:30",
+    "endDate": "2026-09-26T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Airforce Golf Course, Delhi Race Club, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.58941560000000000000",
+        "longitude": "77.21062190000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "300.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Riwayat Walks",
+      "url": "https://urbanaut.app/partner/riwayatwalks"
+    },
+    "url": "https://urbanaut.app/spot/safdarjung-tomb-riwayatwalks",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
       "URBANAUT"
     ]
   },
