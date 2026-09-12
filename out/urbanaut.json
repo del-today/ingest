@@ -1,81 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Chatti Choru @ Cocobay",
-    "description": "Missed the Sadhya, you still got the *Chatti Choru* to try and this time it comes with a Non Vegetarian add on.\u00a0All Sept at Cocobay at Flxho Horizon One, 574 Sector 43 Golf Course Road",
-    "startDate": "2026-09-11T12:00:00+05:30",
-    "endDate": "2026-09-27T15:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Metro Station, 574, 43, off Golf Course Road, Sector 43, Gurugram, Haryana 122009, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.45706690000000000000",
-        "longitude": "77.09607650000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "730.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Cocobay - South Indian Cafe",
-      "url": "https://urbanaut.app/partner/cocobay-south-indian-cafe"
-    },
-    "url": "https://urbanaut.app/spot/chattichorucocobay",
-    "keywords": [
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "The Matcha Circle",
-    "description": "OverviewA shared matcha-making experience where simple acts of whisking, pouring, and preparing create calm. People gather over matcha, conversation, and the quiet rhythm of making something by hand. One cup at a time.Matcha Experience: A Taste of CalmExperience the calming art of green tea in a session dedicated to mindfulness and flavor. This gathering is designed to help you slow down and appreciate the details of a centuries old tradition. \"The Matcha Circle\" offers a peaceful space to learn, taste, and connect at the end of a long week.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to ExpectGuided Introduction: Learn about the history and the unique process of preparing matcha from farm to cup.The Ritual: Watch and learn how the tea is whisked to create its signature froth and deep flavor.Tasting Session: Enjoy a premium matcha drink prepared just for you at Cha & Co.Quiet Conversation: Join a small group setting to talk about finding moments of peace in a busy week over a comforting cup.Details\ud83d\uddd3\ufe0f Date: 11th September and 25th September (Friday)\u23f0 Time: 6:30 PM\ud83d\udccd Location: Cha & Co, Grand View High Street\ud83c\udf75 Inclusion: Matcha drink included\ud83c\udf9f\ufe0f Fee: \u20b9700",
-    "startDate": "2026-09-11T18:30:00+05:30",
-    "endDate": "2026-09-25T20:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Ireo Grand View High Street, Sector 58, Gurugram, Haryana 122098, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.41560020000000000000",
-        "longitude": "77.10258329999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "700.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/matcha-experience",
-    "keywords": [
-      "Leisure",
-      "Workshop",
-      "History & heritage",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Cyanotype Workshop",
     "description": "The workshop on the Cyanotype Process is an immersive one-day workshop where the participants learn the historic 19th century printmaking process and get to create their own unique handmade prints on both paper & fabric and take them home.Structure of the workshop:History of Cyanotype - Learn about the origin of Cyanotype, an alternative printing technique through a brief presentation.Science of Cyanotype - Mix chemicals and coat your own surfaces in a hands-on darkroom setting.Creation & Patience - Compose with natural elements and watch your images develop through light and time.Your Final Prints - Wash and finish the prints you've created to take home.Frequently asked questions:Is there any prior knowledge needed to attend this workshop?No, there is no prior knowledge needed for this workshop.Is there an age restriction for this workshop?Yes, the workshop is meant for 15 years and older.If there is no sun how would the workshop be conducted?On the days where the sun is not there we have an artificial source of UV light that can be used.Does cyanotype only work with leaves and other natural materials?No, cyanotype can be done with any flat object, we at Museo, also have some stock negatives that can be used during the workshop.Do we as participants need to bring anything?No, all equipment and materials will be provided by Museo.What is the recommended attire for the workshop?Comfortable clothing and shoes are recommended for the workshop.Will lunch be provided?Each participant will receive a 15% discount at the museum cafe.How many prints will I be able to make in the workshop?Each participant will make 10 paper prints and a fabric print, which they can take home.Once the workshop is over, how can I continue to practice the process?You can book the darkroom or you can buy the chemicals from us to create the solution and make prints at home. For both of them you would have to write to us at workshops@museocamera.orgIs Cyanotype safe?Yes, cyanotype is one of the safest photographic processes out there.Meet your trainers Aditya AryaLead facilitator 45+ years of experience Photographer, historian and Founder-Director of Museo Camera with years of experience across advertising and fine art, he champions the slowness of analog processes. He practices and teaches historic techniques like cyanotype and wet plate collodion, keeping them alive through hands-on learning.https://www.adityaarya.com/Khushi Upadhyay Assistant 2+ years of experience She is a photographer working with analog and alternative processes, embracing slowness while guiding others to do the same. Rooted in light and material, she leads cyanotype and historic process workshops through hands-on, immersive image-making.",
@@ -179,6 +104,43 @@
     },
     "url": "https://urbanaut.app/spot/move-fast-and-break-whose-things",
     "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Chatti Choru @ Cocobay",
+    "description": "Missed the Sadhya, you still got the *Chatti Choru* to try and this time it comes with a Non Vegetarian add on.\u00a0All Sept at Cocobay at Flxho Horizon One, 574 Sector 43 Golf Course Road",
+    "startDate": "2026-09-12T12:00:00+05:30",
+    "endDate": "2026-09-27T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Metro Station, 574, 43, off Golf Course Road, Sector 43, Gurugram, Haryana 122009, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.45706690000000000000",
+        "longitude": "77.09607650000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "730.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Cocobay - South Indian Cafe",
+      "url": "https://urbanaut.app/partner/cocobay-south-indian-cafe"
+    },
+    "url": "https://urbanaut.app/spot/chattichorucocobay",
+    "keywords": [
+      "Pop-up Event",
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -1667,6 +1629,44 @@
     "url": "https://urbanaut.app/spot/slow-burn-martini-cocktail-tasting-menu",
     "keywords": [
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Matcha Circle",
+    "description": "OverviewA shared matcha-making experience where simple acts of whisking, pouring, and preparing create calm. People gather over matcha, conversation, and the quiet rhythm of making something by hand. One cup at a time.Matcha Experience: A Taste of CalmExperience the calming art of green tea in a session dedicated to mindfulness and flavor. This gathering is designed to help you slow down and appreciate the details of a centuries old tradition. \"The Matcha Circle\" offers a peaceful space to learn, taste, and connect at the end of a long week.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to ExpectGuided Introduction: Learn about the history and the unique process of preparing matcha from farm to cup.The Ritual: Watch and learn how the tea is whisked to create its signature froth and deep flavor.Tasting Session: Enjoy a premium matcha drink prepared just for you at Cha & Co.Quiet Conversation: Join a small group setting to talk about finding moments of peace in a busy week over a comforting cup.Details\ud83d\uddd3\ufe0f Date: 11th September and 25th September (Friday)\u23f0 Time: 6:30 PM\ud83d\udccd Location: Cha & Co, Grand View High Street\ud83c\udf75 Inclusion: Matcha drink included\ud83c\udf9f\ufe0f Fee: \u20b9700",
+    "startDate": "2026-09-25T18:30:00+05:30",
+    "endDate": "2026-09-25T20:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ireo Grand View High Street, Sector 58, Gurugram, Haryana 122098, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.41560020000000000000",
+        "longitude": "77.10258329999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "700.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Stories of Hope",
+      "url": "https://urbanaut.app/partner/stories-of-hope"
+    },
+    "url": "https://urbanaut.app/spot/matcha-experience",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "History & heritage",
       "URBANAUT"
     ]
   },
