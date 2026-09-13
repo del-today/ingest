@@ -21,26 +21,6 @@
   },
   {
     "@type": "EducationEvent",
-    "name": "KNMA Art Hours",
-    "url": "https://www.knma.org/whats-on/workshops/knma-art-hours",
-    "startDate": "2026-06-17T10:00:00+05:30",
-    "endDate": "2026-09-13T18:00:00+05:30",
-    "description": "Art Hours",
-    "location": {
-      "@type": "Place",
-      "name": "UTSAV The Square, GMR Aerocity",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "EducationEvent",
     "name": "microSPILLS 2026",
     "url": "https://www.knma.org/whats-on/workshops/microspills-2026",
     "startDate": "2026-08-01T10:00:00+05:30",
@@ -89,26 +69,6 @@
     "location": {
       "@type": "Place",
       "name": "KNMA, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "EducationEvent",
-    "name": "Nature\u2019s Archive",
-    "url": "https://www.knma.org/whats-on/workshops/natures-archive",
-    "startDate": "2026-09-12T10:00:00+05:30",
-    "endDate": "2026-09-13T18:00:00+05:30",
-    "description": "",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA",
       "address": "New Delhi"
     },
     "organizer": {
