@@ -603,6 +603,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Begum & her Hookah heritage walk : Chandni Chowk",
+    "description": "Join us as we excavate the little known stories of the women who through the changing and often challenging times have continued to enrich the city\u2019s historical and cultural landscape. We will meander through streets around the Chandni Chowk area, sharing stories of Begums, shadows Empresses, Nautch girls, Milk mothers, Havelis and Harems.In this walk we walk the by-lanes of Shahjahanabad looking for stories of the bygone era, making the women who shaped the city and its history our focus.Milestones of our journey will be:1.\tDigambar Jain Temple (Lal Mandir), Sunehri Masjid, Gauri Shankar temple, Sis Ganj Gurudwara2.\tBegum Samru Ki haveli3.\tDariba Kalan (Silver Street): The Street of the Incomparable Pearl4.\tKinari Bazaar(Wedding street)5.\tNaughara (Nine Jain houses)6.\tParanthe wali Gali7.\tTownhall building8.\tLala Chunnamal ki Haveli9.\tFatehpuri Masjid : (Built in 1650s by emperor Shahjahan\u2019s wife Fatehpuri Begum)10.\tKhari Baoli (the biggest spice market in Asia)This walk is being curated & conducted by Darwesh heritage walks in collaboration with Sabhyata Foundation",
+    "startDate": "2026-09-20T08:30:00+05:30",
+    "endDate": "2026-09-20T10:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Chandni Chowk, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.65053310000000000000",
+        "longitude": "77.23033699999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/begumh",
+    "keywords": [
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Artisanal Sourdough Bread Workshop",
     "description": "Learn how to bake an artisan loaf - real bread made the old-fashioned way, with just flour, water, and salt! No prior baking or cooking experience required. This is a hands-on class for those seriously interested in the sourdough baking process. Under Anita's guidance, each participant will work independently to make their loaf from start to finish. At the end of class you will go home with the confidence to start baking sourdough bread in your home kitchen. The class also includes a session on Sourdough Focaccia.250+ workshops and counting! Anita is a practicing Landscape Architect who enjoys cooking with seasonal ingredients. Like-minded people join her in the kitchen on weekends to cook and eat. She has been baking sourdough breads at home for over 15 years using local flours and her lively wild yeast starter. Come for the Bread, stay for the food.Two slots:Sun, Sept 20: 10:00am-4:30pm Full Day (mix, shape, bake in-class)Sun, Sept 6: 10:00-11:30am (Short Format, mix dough in class, bake at home) Recommended for those who have been baking on their on but want to improve their loaves (bring a baked loaf to class for discussion), or would like a refresher, or feel pressed for time.Sourdough bread baking requires practice. The workshops are for those seriously seeking to learn the art and craft of baking sourdough breads, not for casual experience seekers.",
