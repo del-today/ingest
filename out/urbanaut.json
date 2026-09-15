@@ -227,6 +227,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Hot Girls Do Pilates",
+    "description": "SWAG x The Cinnamon Kitchen Hot Girls Do Pilates is a women-only, mat pilates session.It is the perfect way to start your Saturday, with some pilates, calming breath work, followed by a breakfast curated by Cosmix and something healthy for your sweet tooth by The Cinnamon Kitchen.It can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo! At Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "startDate": "2026-09-19T07:30:00+05:30",
+    "endDate": "2026-09-20T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ground Floor, Ambience Mall, Ambience Island, Vasant Kunj II, Vasant Kunj, New Delhi, Delhi 110070, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54154910000000000000",
+        "longitude": "77.15531680000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "849.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag54",
+    "keywords": [
+      "Adventure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Bazar-i-Husn :  exploring Tawaif culture",
     "description": "Step into the world of grace, wit, and artistry as we explore the lives of Tawaifs\u2014the courtesans who once defined high culture, poetry, and performance in Delhi. This walk takes you through old city lanes that once echoed with ghazals, thumris, and the quiet power of women who shaped taste and tradition.Uncover the layered stories of kothas\u2014not as places of shame, but as salons of sophistication, resistance, and refined art. Let\u2019s reclaim these narratives and see history through a different lens.",
     "startDate": "2026-09-19T07:30:00+05:30",
@@ -867,44 +905,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Hot Girls Do Pilates",
-    "description": "SWAG x The Cinnamon Kitchen Hot Girls Do Pilates is a women-only, mat pilates session.It is the perfect way to start your Saturday, with some pilates, calming breath work, followed by a breakfast curated by Cosmix and something healthy for your sweet tooth by The Cinnamon Kitchen.It can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo! At Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
-    "startDate": "2026-09-20T10:00:00+05:30",
-    "endDate": "2026-09-20T11:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Ground Floor, Ambience Mall, Ambience Island, Vasant Kunj II, Vasant Kunj, New Delhi, Delhi 110070, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54154910000000000000",
-        "longitude": "77.15531680000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "649.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag54",
-    "keywords": [
-      "Adventure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Artisanal Sourdough Bread Workshop",
     "description": "Learn how to bake an artisan loaf - real bread made the old-fashioned way, with just flour, water, and salt! No prior baking or cooking experience required. This is a hands-on class for those seriously interested in the sourdough baking process. Under Anita's guidance, each participant will work independently to make their loaf from start to finish. At the end of class you will go home with the confidence to start baking sourdough bread in your home kitchen. The class also includes a session on Sourdough Focaccia.250+ workshops and counting! Anita is a practicing Landscape Architect who enjoys cooking with seasonal ingredients. Like-minded people join her in the kitchen on weekends to cook and eat. She has been baking sourdough breads at home for over 15 years using local flours and her lively wild yeast starter. Come for the Bread, stay for the food.Two slots:Sun, Sept 20: 10:00am-4:30pm Full Day (mix, shape, bake in-class)Sun, Sept 6: 10:00-11:30am (Short Format, mix dough in class, bake at home) Recommended for those who have been baking on their on but want to improve their loaves (bring a baked loaf to class for discussion), or would like a refresher, or feel pressed for time.Sourdough bread baking requires practice. The workshops are for those seriously seeking to learn the art and craft of baking sourdough breads, not for casual experience seekers.",
@@ -1014,6 +1014,44 @@
     "keywords": [
       "Workshop",
       "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "National Museum (Indus Valley Civilisation)",
+    "description": "Step into the fascinating world of the Indus Valley Civilization at the iconic National Museum and uncover the mysteries of one of the world\u2019s oldest urban cultures. From advanced city planning and drainage systems to intricate seals, jewellery, pottery, and trade networks, this walk takes you deep into the lives of a civilization that flourished over 4,500 years ago.Explore the stories hidden behind ancient artefacts, decode symbols that still remain unsolved, and discover how the people of Harappa and Mohenjo-Daro were far ahead of their time. Whether you\u2019re a history enthusiast, a curious explorer, or someone who simply loves untold stories, this immersive museum experience promises a journey through India\u2019s remarkable ancient past.Join us as history comes alive \u2014 one artefact, one mystery, and one story at a time.",
+    "startDate": "2026-09-20T16:30:00+05:30",
+    "endDate": "2026-09-20T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Janpath Rd, Central Secretariat, Kartavya Path, New Delhi, Delhi 110011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.61183900000000000000",
+        "longitude": "77.21829500000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "700.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/national-museum-indus-valley-civilisation",
+    "keywords": [
+      "History & heritage",
+      "Guided tour",
       "Art & culture",
       "URBANAUT"
     ]
@@ -1317,6 +1355,43 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Strategy Table: Taiwanese Mahjong",
+    "description": "\u2728 LATITUDE CAFE \u00d7 GOODEARTH \u00d7 THE MAHJONG NETWORK \u2728The Strategy Table: Taiwanese Mahjong\ud83d\udcc5 22nd September\u23f0 2:00 PM \u2013 5:30 PM\ud83d\udccd Latitude Cafe\ud83d\udcb0 \u20b93,200 per personAn afternoon designed for players who already know the game and want to play it better.Please note: This is not a beginner class. Participants must already know how to play Taiwanese Mahjong.Led by certified teacher and tournament specialist Astha Narvekar from Bombay, The Strategy Table goes beyond basic gameplay to focus on the details that make the biggest difference at the table \u2014 sharper scoring, smarter decisions, and more confident strategy.The session will include:\ud83c\udc04 Official LRC scoring \u2014 understanding how to correctly calculate and account for points\ud83c\udc04 Scoring drills using real hands\ud83c\udc04 Strategy for special hands \u2014 when to commit, when to pivot, and how to read the table\ud83c\udc04 Calling strategy and risk vs reward\ud83c\udc04 Reading discards and recognising what other players may be building\ud83c\udc04 Common scoring mistakes and how to avoid them\ud83c\udc04 Live practice rounds with Astha guiding each tableEvery guest will also take home a specially curated Good Earth gift, extending the experience beyond the table.The session is intentionally intimate and hands-on, giving every player time for individual attention, questions, and live gameplay guidance.Hosted by The Mahjong Network, this is an afternoon to sharpen your strategy, master your scoring, and take your Taiwanese Mahjong game to the next level.20 seats only.Reserve your place at the table.",
+    "startDate": "2026-09-22T14:00:00+05:30",
+    "endDate": "2026-09-22T17:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shop No. 9, Second Floor, above The Goodearth Store, Khan Market, Rabindra Nagar, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59957970000000000000",
+        "longitude": "77.22644740000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3200.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Mahjong Network",
+      "url": "https://urbanaut.app/partner/the-mahjong-network"
+    },
+    "url": "https://urbanaut.app/spot/the-strategy-table-taiwanese-mahjong",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Childhood in Changing Climate | Online Webinar",
     "description": "What happens to childhood in a changing climate?Heatwaves, floods and poor air quality are already shaping how children learn, play and experience everyday life. But are we creating enough space for children to understand these changes, share what they\u2019re experiencing, and help shape their environments?Join us for a conversation on childhood, climate and children\u2019s experience.\ud83d\udcc5 September 17, 2026\u23f0 6:00\u20137:00 PMHope to see you there! \ud83d\ude0a",
@@ -1575,7 +1650,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Afternoon #2 Biases Bingo",
-    "description": "IAG Afternoons are small, hosted gatherings built around fascinating ideas.An IAG Afternoon is not a conventional workshop, lecture or networking event. It is a carefully hosted social experience with an interesting idea at its heart.The intention is simple:Come curious. Spend a lovely afternoon. Leave with something to think about.Each IAG Afternoon explores one idea connected to the experience of being human - how we think, feel, relate, make decisions, understand ourselves and make sense of the world around us.The ideas may draw on psychology, behavioural science, philosophy, culture, relationships, creativity or everyday life. They are brought to life through a combination of games, activities, stories, conversation and reflection.IAG AFTERNOON #2BIASES BINGOWhat to expectWe\u2019re thrilled to partner with SHACK COFFEE CO. for the second of our IAG Afternoons.This time, we\u2019re exploring biases and blind spots again: the mental shortcuts and patterns that influence what we notice, how we interpret information and the 'speed dial' conclusions our wonderful brains make about people and situations.Drawing on ideas from cognitive psychology and behavioural science, we\u2019ll explore some of the biases that shape everyday thinking and look into why they can often be so difficult to recognise.Whether you\u2019re already familiar with concepts such as confirmation bias, the halo effect and fundamental attribution error or are encountering them for the first time, there\u2019ll be opportunities to test what you know and to look at familiar ideas in new ways.You\u2019ll also have time to relax, chat and get to know the other people in the room (if you want to!)Your afternoon includes:\u2022\tA couple of playful, game-inspired experiences, facilitated by Shena Gamat\u2022\tInteresting ideas drawn from psychology and behavioural science\u2022\tConversation, connection and fresh perspectives\u2022\tA small IAG takeaway to take homeDuration: Approximately 2 hours, 4-6pmContribution: \u20b9500 per personABOUT SHENA GAMATShena is a theatre practitioner, voice artist and corporate trainer with over two decades of experience in performance and facilitation. Her background spans film, international theatre tours and voice work.She has built a magazine, run a theatre company, been on leadership teams, built grassroots programmes, created communities and facilitated learning.Most recently, she is the founder of It\u2019s All Good, a platform that curates immersive micro-festivals, experiences and workshops focused on joy, well-being & community engagement.Her sessions combine theatre tools, voice work, learning design and behavioural frameworks to help participants connect to their own presence and live with clarity & confidence.She is also a certified Learning & Development Manager.ABOUT SHACK COFFEE CO.Shack Coffee Co. is about a 14 years old reboot of a cafe project. Shack is still about three things.1. Tasty coffee. We roast our coffee, which is without jargon and fuss.2. Delicious food. We prepare everything in house. We obsess about rustic Italian food such as panini.3. A real place for bootstrappers. It's about real connections, and not a fancy meet up.ABOUT IT'S ALL GOOD | The Science and Art of JoyMany people feel stuck, exasperated, low, or just plain bored in their lives. We provide a platform for fun and engaging experiences that foster insight and empowerment.Connect | Learn | Thrive!INSTAGRAM LINK CLICK HERE",
+    "description": "IAG Afternoons are small, hosted gatherings built around fascinating ideas.An IAG Afternoon is not a conventional workshop, lecture or networking event. It is a carefully hosted social experience with an interesting idea at its heart.The intention is simple:Come curious. Spend a lovely afternoon. Leave with something to think about.Each IAG Afternoon explores one idea connected to the experience of being human - how we think, feel, relate, make decisions, understand ourselves and make sense of the world around us.The ideas may draw on psychology, behavioural science, philosophy, culture, relationships, creativity or everyday life. They are brought to life through a combination of games, activities, stories, conversation and reflection.IAG AFTERNOON #2BIASES BINGOWhat to expectWe\u2019re thrilled to partner with SHACK COFFEE CO. for the second of our IAG Afternoons.This time, we\u2019re exploring biases and blind spots again: the mental shortcuts and patterns that influence what we notice, how we interpret information and the 'speed dial' conclusions our wonderful brains make about people and situations.Drawing on ideas from cognitive psychology and behavioural science, we\u2019ll explore some of the biases that shape everyday thinking and look into why they can often be so difficult to recognise.Whether you\u2019re already familiar with concepts such as confirmation bias, the halo effect and fundamental attribution error or are encountering them for the first time, there\u2019ll be opportunities to test what you know and to look at familiar ideas in new ways.You\u2019ll also have time to relax, chat and get to know the other people in the room (if you want to!)Your afternoon includes:\u2022\tA couple of playful, game-inspired experiences, facilitated by Shena Gamat\u2022\tInteresting ideas drawn from psychology and behavioural science\u2022\tConversation, connection and fresh perspectives\u2022\tA small IAG takeaway to take homeDuration: Approximately 2 hours, 4-6pmContribution: \u20b9300 per personABOUT SHENA GAMATShena is a theatre practitioner, voice artist and corporate trainer with over two decades of experience in performance and facilitation. Her background spans film, international theatre tours and voice work.She has built a magazine, run a theatre company, been on leadership teams, built grassroots programmes, created communities and facilitated learning.Most recently, she is the founder of It\u2019s All Good, a platform that curates immersive micro-festivals, experiences and workshops focused on joy, well-being & community engagement.Her sessions combine theatre tools, voice work, learning design and behavioural frameworks to help participants connect to their own presence and live with clarity & confidence.She is also a certified Learning & Development Manager.ABOUT SHACK COFFEE CO.Shack Coffee Co. is about a 14 years old reboot of a cafe project. Shack is still about three things.1. Tasty coffee. We roast our coffee, which is without jargon and fuss.2. Delicious food. We prepare everything in house. We obsess about rustic Italian food such as panini.3. A real place for bootstrappers. It's about real connections, and not a fancy meet up.ABOUT IT'S ALL GOOD | The Science and Art of JoyMany people feel stuck, exasperated, low, or just plain bored in their lives. We provide a platform for fun and engaging experiences that foster insight and empowerment.Connect | Learn | Thrive!INSTAGRAM LINK CLICK HERE",
     "startDate": "2026-09-25T16:00:00+05:30",
     "endDate": "2026-09-25T18:00:00+05:30",
     "location": {
@@ -1592,7 +1667,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "500.00",
+      "price": "300.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -2052,6 +2127,44 @@
     },
     "url": "https://urbanaut.app/spot/overthinkers-anonymous-relationships-edition",
     "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Trailing Gandhi's Footsteps",
+    "description": "Kathika is delighted to host a special Baithak celebrating the occasion of Gandhi Jayanti, bringing together conversation, reflection and a hands-on engagement with one of the most enduring symbols of Mahatma Gandhi\u2019s philosophy \u2014 the Charkha.The Baithak will feature an engaging conversation with Ms. Biba Sobti and Mr. A. Annamalai, Director of the National Gandhi Museum, exploring the relevance of Gandhi\u2019s ideas and legacy in contemporary times. Through an intimate and thoughtful discussion, the session will reflect upon the values that shaped Gandhi\u2019s life and continue to inspire generations \u2014 simplicity, self-reliance, dignity of labour and the power of individual action.The conversation will be followed by a Charkha spinning session, offering participants an opportunity to engage directly with the practice that became a powerful symbol of India\u2019s freedom movement and Gandhi\u2019s vision of Swadeshi and self-sufficiency. Beyond its political significance, the Charkha represented a deeper philosophy \u2014 of patience, mindfulness, self-reliance and a connection with the labour and processes behind everyday life.Through this Baithak, Kathika invites participants to pause and reflect on Gandhi\u2019s enduring legacy, not merely as a chapter in history, but as a set of ideas that continue to hold meaning in our rapidly changing world.The evening will conclude with High Tea, providing an opportunity for participants to continue the conversation in the warm and intimate setting of Kathika.",
+    "startDate": "2026-09-27T16:00:00+05:30",
+    "endDate": "2026-09-27T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "1237, Gali Khatikan, Imli Mohalla, Old Delhi, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64610280000000000000",
+        "longitude": "77.22736410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kathika Cultural Centre and Museum",
+      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
+    },
+    "url": "https://urbanaut.app/spot/trailing-gandhis-footsteps",
+    "keywords": [
+      "Workshop",
+      "History & heritage",
+      "Art & culture",
       "URBANAUT"
     ]
   },
