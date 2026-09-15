@@ -152,9 +152,9 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Baddy with Baddies | Gurugram",
-    "description": "\u200bWe are back with a high-power Baddy game for all our SWAG Baddies \ud83c\udff8This is a women-only, beginner-friendly badminton meet-up.See you on court!",
+    "description": "SWAG Baddy with Baddies is a women-only, badminton meet-up.It is the perfect weekend plan, with some badminton rallies, quick sets of both doubles and singles followed by a coffee and chit chat! It can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!At Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.Note: Only non-marking sports shoes are allowed on court. Don't have non-marking shoes? No worries - you can play bare foot.",
     "startDate": "2026-09-17T20:00:00+05:30",
-    "endDate": "2026-09-17T21:00:00+05:30",
+    "endDate": "2026-09-20T19:00:00+05:30",
     "location": {
       "@type": "Place",
       "address": "Sportyzo Badminton Academy, Emaar emerald hills, Golf Course Ext Rd, opposite Ivory Block, Sector 65, Gurugram, Haryana 122011, India",
@@ -190,7 +190,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Baddy with Baddies | Mehrauli",
-    "description": "Grab your racket and bring your best energy - it's time for Baddy with Baddies \ud83c\udff8\u2728, a women-only badminton meet-up where the only goal is to have fun.Whether you've got a sneaky smash up your sleeve or you're simply looking for a fun way to move, this session is all about friendly rallies, big laughs, and moving your body in great company. Expect good vibes, and a community of women who are here to play, cheer each other on, and enjoy the sport.So if you've been looking for an excuse to get back on the court (or step onto one for the first time), this is it.Come solo or with your girls - you'll leave with a great workout, a few new friends, and probably plans for a rematch.",
+    "description": "SWAG Baddy with Baddies is a women-only, badminton meet-up.It is the perfect mid-week reset, with some badminton rallies, quick sets of both doubles and singles followed by a coffee and chit chat at the Reppp Cafe! It can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!At Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.Note: Only non-marking sports shoes are allowed on court. Don't have non-marking shoes? No worries - you can rent a pair at the venue of play bare foot.",
     "startDate": "2026-09-17T20:00:00+05:30",
     "endDate": "2026-09-24T21:00:00+05:30",
     "location": {
@@ -221,44 +221,6 @@
       "Leisure",
       "Wellness",
       "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "B(run)ch Like A Girl",
-    "description": "Hellooo",
-    "startDate": "2026-09-19T07:00:00+05:30",
-    "endDate": "2026-09-19T09:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Showroom No 10, HQ27 - The Headquarters, B - 660, Sushant Lok Phase I, Sector 27, Gurugram, Haryana 122009, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46631820000000000000",
-        "longitude": "77.07397499999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/brunch-like-a-girl",
-    "keywords": [
-      "Wellness",
-      "Workshop",
-      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -333,6 +295,83 @@
     "url": "https://urbanaut.app/spot/anandi-makers-lab-australia-edition",
     "keywords": [
       "Local",
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Caffeine Kick Off - Coffee Cupping Event",
+    "description": "Kick off your day at Caffeine Kick Off with a cozy, hands-on cupping session featuring India's best GI-tagged coffees. Our barista will be sharing the cool local legends and lore behind each origin while we brew up something special: a bold, spicy filter coffee loaded with aromatic spices. Come sip, hang out, and taste a fresh twist on a classic tradition!",
+    "startDate": "2026-09-19T11:30:00+05:30",
+    "endDate": "2026-09-19T12:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "944.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
+    },
+    "url": "https://urbanaut.app/spot/caffiene-kick-off",
+    "keywords": [
+      "Workshop",
+      "Eco Friendly",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Photography Workshop with TOI x Starbucks",
+    "description": "Take a break from endless scrolling and look at the world around you a little differently.Join TOI Let\u2019s D-Stress x Starbucks for an interactive photography session at Starbucks Reserve, Connaught Place, led by Jassi Oberai, acclaimed photographer and founder of Xploringlight, known for his distinctive approach to travel and landscape photography and for mentoring photography enthusiasts through workshops and learning experiences.Through conversations, practical tips and a hands-on workshop, discover how everyday moments \u2014 a cup of coffee, a street corner, changing light or a familiar face \u2014 can become interesting frames when you slow down and really observe.The session is less about having the perfect camera and more about developing your curiosity and perspective. Come with the device you already use and explore how photography can turn screen time into something more mindful and creative.Date: Saturday, 19 September 2026Time: 12:00 p.m. onwardsVenue: Starbucks Reserve, Connaught PlaceAn easy-going afternoon of coffee, photography and learning to notice the moments we often scroll past.",
+    "startDate": "2026-09-19T12:00:00+05:30",
+    "endDate": "2026-09-19T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "A Block, Palika Parking, Radial Rd Number 2, next to Hamilton House, Palika Bazar, Connaught Place, New Delhi, Delhi 110001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.63220450000000000000",
+        "longitude": "77.21775450000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Times of India",
+      "url": "https://urbanaut.app/partner/the-times-of-india"
+    },
+    "url": "https://urbanaut.app/spot/lets-d-stress-with-the-times-of-india-x-starbucks-16656",
+    "keywords": [
+      "Leisure",
+      "Wellness",
       "Workshop",
       "Art & culture",
       "URBANAUT"
@@ -492,6 +531,79 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Spill The Beans",
+    "description": "Get ready to unload your juiciest tea at Spill The Beans, an evening of unhinged DMs, wild emails, and unfiltered gossip hosted at Gully Labs Baithak. Bring your most outrageous stories, grab a seat and let's dish on everything you've been dying to share!",
+    "startDate": "2026-09-19T17:00:00+05:30",
+    "endDate": "2026-09-19T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "708.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
+    },
+    "url": "https://urbanaut.app/spot/spill-the-beans",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Refugee Abode: A Special Walk on 1857",
+    "description": "Built in the mid-16th century by Akbar and commissioned by Haji Begum in memory of her husband, the Mughal emperor Humayun, Humayun\u2019s Tomb predates the Taj Mahal by almost 60 years. Its Persian and Mughal architectural influences made it one of the earliest and finest examples of the Mughal garden tomb tradition.This special walk focuses on 1857, a defining year in Delhi\u2019s history. On 20 September 1857, Delhi fell to the British, marking the end of Mughal rule. Humayun\u2019s Tomb became the setting for some of the final episodes of the Mughal Empire, including Bahadur Shah Zafar\u2019s capture.Join heritage raconteur Shah Umair as we trace the events of 1857 at the tomb complex, from the siege and fall of Delhi to the fate of the Mughal family and the monument\u2019s later history as a major refugee camp during the 1947 Partition.",
+    "startDate": "2026-09-19T17:00:00+05:30",
+    "endDate": "2026-09-19T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Hazrat Nizamuddin Aulia Dargah, Mathura Rd, Nizamuddin, Nizamuddin East, New Delhi, Delhi 110013, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59328480000000000000",
+        "longitude": "77.25074920000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "300.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sikkawala",
+      "url": "https://urbanaut.app/partner/sikkawala"
+    },
+    "url": "https://urbanaut.app/spot/the-refugee-abode-a-special-walk-on-1857",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Why Do Good People Commit Crime?",
     "description": "About the LectureAre criminals different from us, or does society make them criminals?This lecture starts by exploring how people understand crime across different social, cultural and individual contexts, and challenges the common assumption that crime is committed only by \"bad people.\" Ordinary individuals, it turns out, become involved in criminal or deviant behaviour more often, and more understandably, than we'd like to admit.Through key criminological perspectives, social environment, peer influence, inequality, culture, opportunity, identity and situational factors, alongside real-life examples, case studies and interactive discussion, this session pushes the audience to examine the question at its centre honestly.The session explores:Why the assumption that crime is only committed by \"bad people\" doesn't hold upThe key criminological perspectives that explain how ordinary people end up committing crimesReal case studies of how social environment, inequality and opportunity shape criminal behaviourWhat genuinely prevents crime, once you understand where it actually comes fromAbout the SpeakerDr. Michael L. Valan is an Associate Professor of Criminology at Jindal Global Law School, O.P. Jindal Global University. He holds a Master's degree and PhD in Criminology from the University of Madras, Tamil Nadu, and has published twenty-three research articles in reputed peer-reviewed journals, including SCOPUS-indexed journals. He received the ISV Fellowship Award in 2016 from the Indian Society of Victimology and is a visiting scholar at the University of Illinois Chicago. He recently secured a research grant from the ICSSR, Government of India, to conduct a major research project on the victims of rescued bonded labourers. His areas of expertise include victimology, policing and crime prevention, and he brings over ten years of research and teaching experience.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
     "startDate": "2026-09-19T17:00:00+05:30",
@@ -641,6 +753,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "B(run)ch Like A Girl",
+    "description": "SWAG Gurgaon Runs are back, and this is a special one, because we are going for breakfast at Aku's!Plan is simple, we meet near Leisure Valley Park, start with some warm up, do a beginner friendly 3.5 KM run, and end at Aku's, HQ27 for the afterparty!Your ticket includes the warm-up & run, coffee at Aku's, a cover charge of INR 275/- for breakfast. We have also planned some surprises after the run! This can be perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo! See you Sunday!The Community:At Sweat Like A Girl, we curate women-first sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "startDate": "2026-09-20T07:00:00+05:30",
+    "endDate": "2026-09-20T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Showroom No 10, HQ27 - The Headquarters, B - 660, Sushant Lok Phase I, Sector 27, Gurugram, Haryana 122009, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46631820000000000000",
+        "longitude": "77.07397499999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/brunch-like-a-girl",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "THE QUTUB CODE: Decode stories hidden in stone",
     "description": "What if the Qutub Minar could tell you the story of Delhi?Step into the Qutub Complex and explore the layers of history, architecture, power and cultural exchange that shaped medieval Delhi. From the soaring Qutub Minar and the intricate Alai Darwaza to the ancient Iron Pillar and the ruins of the Quwwatu\u2019l-Islam Mosque, every stone reveals a different chapter.This is not just a walk around a monument. It is a journey through the making of Delhi- its rulers, ambitions, architectural experiments, conflicts, craftsmanship and forgotten stories.Come for the Qutub Minar. Stay for the stories hidden around it.",
@@ -712,6 +862,44 @@
       "History & heritage",
       "Guided tour",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Hot Girls Do Pilates",
+    "description": "SWAG x The Cinnamon Kitchen Hot Girls Do Pilates is a women-only, mat pilates session.It is the perfect way to start your Saturday, with some pilates, calming breath work, followed by a breakfast curated by Cosmix and something healthy for your sweet tooth by The Cinnamon Kitchen.It can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo! At Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "startDate": "2026-09-20T10:00:00+05:30",
+    "endDate": "2026-09-20T11:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ground Floor, Ambience Mall, Ambience Island, Vasant Kunj II, Vasant Kunj, New Delhi, Delhi 110070, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54154910000000000000",
+        "longitude": "77.15531680000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "649.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag54",
+    "keywords": [
+      "Adventure",
+      "Wellness",
+      "Active",
       "URBANAUT"
     ]
   },
@@ -1092,6 +1280,80 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Cricket with SWAG | Saket",
+    "description": "SWAG Cricket is a women-only, beginner friendly meet-up.It is the perfect Sunday game, with 8 over matches, some brilliant catches, followed by a coffee and chit chat at the with the girls! It can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "startDate": "2026-09-20T18:00:00+05:30",
+    "endDate": "2026-09-20T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "inside NEW GREEN FIELD SCHOOL, behind PVR Anupam Saket, Ashok Vihar, Saket, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52371090000000000000",
+        "longitude": "77.20874630000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "359.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag63",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Childhood in Changing Climate | Online Webinar",
+    "description": "What happens to childhood in a changing climate?Heatwaves, floods and poor air quality are already shaping how children learn, play and experience everyday life. But are we creating enough space for children to understand these changes, share what they\u2019re experiencing, and help shape their environments?Join us for a conversation on childhood, climate and children\u2019s experience.\ud83d\udcc5 September 17, 2026\u23f0 6:00\u20137:00 PMHope to see you there! \ud83d\ude0a",
+    "startDate": "2026-09-22T18:00:00+05:30",
+    "endDate": "2026-09-22T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gurugram, Haryana, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.45949650000000000000",
+        "longitude": "77.02663830000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mudito",
+      "url": "https://urbanaut.app/partner/mudito"
+    },
+    "url": "https://urbanaut.app/spot/childhoodinchangingclimategurgaon",
+    "keywords": [
+      "Virtual",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "The Festival of Tiles - DELHI Tournament!",
     "description": "\ud83c\udf8a\u2728 FESTIVAL OF TILES \u2728\ud83c\udf8a\ud83c\udc04\ufe0f A Mahjong Tournament for Passport and Goulash in Delhi \ud83c\udc04\ufe0f Join The Mahjong Network x Mahjong Studio x DLF Promenade for a tournament designed to be competitive and exciting, yet easy-going and fun.Expect good games, great company, plenty of food, and many exciting prizes.\ud83d\uddd3\ufe0f 23rd September, Wednesday\ud83d\udd5a 11AM\u2013 3PM\ud83d\udccd Caf\u00e9 Delhi Heights , DLF Promenade, Vasant Kunj\ud83c\udf9f\ufe0f \u20b93,000++ per player\ud83c\udfc6 PRIZES\u2728 Table Winners\u2728 Top 5 Players of the Day\u2728 Some Festive surprisesNote: Players must know how to play and score independently. Detailed rules of gameplay and scoring will be shared with each player in advance to ensure consistency and clarity. \ud83d\ude0aWhether you\u2019re coming to compete for the top spot or simply for a really good time around the mahjong table, this one is for you! Limited tables available. Registrations now open.",
     "startDate": "2026-09-23T11:00:00+05:30",
@@ -1122,6 +1384,42 @@
     "url": "https://urbanaut.app/spot/the-festival-of-tiles-delhi-tournament",
     "keywords": [
       "Leisure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Childhood in Changing Climate | Online Webinar",
+    "description": "What happens to childhood in a changing climate?Heatwaves, floods and poor air quality are already shaping how children learn, play and experience everyday life. But are we creating enough space for children to understand these changes, share what they\u2019re experiencing, and help shape their environments?Join us for a conversation on childhood, climate and children\u2019s experience.\ud83d\udcc5 September 17, 2026\u23f0 6:00\u20137:00 PMHope to see you there! \ud83d\ude0a",
+    "startDate": "2026-09-24T18:00:00+05:30",
+    "endDate": "2026-09-24T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.70405920000000000000",
+        "longitude": "77.10249019999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mudito",
+      "url": "https://urbanaut.app/partner/mudito"
+    },
+    "url": "https://urbanaut.app/spot/childhoodinchangingclimatedelhi",
+    "keywords": [
+      "Virtual",
       "URBANAUT"
     ]
   },
@@ -1270,6 +1568,41 @@
     "url": "https://urbanaut.app/spot/slow-burn-martini-cocktail-tasting-menu",
     "keywords": [
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Afternoon #2 Biases Bingo",
+    "description": "IAG Afternoons are small, hosted gatherings built around fascinating ideas.An IAG Afternoon is not a conventional workshop, lecture or networking event. It is a carefully hosted social experience with an interesting idea at its heart.The intention is simple:Come curious. Spend a lovely afternoon. Leave with something to think about.Each IAG Afternoon explores one idea connected to the experience of being human - how we think, feel, relate, make decisions, understand ourselves and make sense of the world around us.The ideas may draw on psychology, behavioural science, philosophy, culture, relationships, creativity or everyday life. They are brought to life through a combination of games, activities, stories, conversation and reflection.IAG AFTERNOON #2BIASES BINGOWhat to expectWe\u2019re thrilled to partner with SHACK COFFEE CO. for the second of our IAG Afternoons.This time, we\u2019re exploring biases and blind spots again: the mental shortcuts and patterns that influence what we notice, how we interpret information and the 'speed dial' conclusions our wonderful brains make about people and situations.Drawing on ideas from cognitive psychology and behavioural science, we\u2019ll explore some of the biases that shape everyday thinking and look into why they can often be so difficult to recognise.Whether you\u2019re already familiar with concepts such as confirmation bias, the halo effect and fundamental attribution error or are encountering them for the first time, there\u2019ll be opportunities to test what you know and to look at familiar ideas in new ways.You\u2019ll also have time to relax, chat and get to know the other people in the room (if you want to!)Your afternoon includes:\u2022\tA couple of playful, game-inspired experiences, facilitated by Shena Gamat\u2022\tInteresting ideas drawn from psychology and behavioural science\u2022\tConversation, connection and fresh perspectives\u2022\tA small IAG takeaway to take homeDuration: Approximately 2 hours, 4-6pmContribution: \u20b9500 per personABOUT SHENA GAMATShena is a theatre practitioner, voice artist and corporate trainer with over two decades of experience in performance and facilitation. Her background spans film, international theatre tours and voice work.She has built a magazine, run a theatre company, been on leadership teams, built grassroots programmes, created communities and facilitated learning.Most recently, she is the founder of It\u2019s All Good, a platform that curates immersive micro-festivals, experiences and workshops focused on joy, well-being & community engagement.Her sessions combine theatre tools, voice work, learning design and behavioural frameworks to help participants connect to their own presence and live with clarity & confidence.She is also a certified Learning & Development Manager.ABOUT SHACK COFFEE CO.Shack Coffee Co. is about a 14 years old reboot of a cafe project. Shack is still about three things.1. Tasty coffee. We roast our coffee, which is without jargon and fuss.2. Delicious food. We prepare everything in house. We obsess about rustic Italian food such as panini.3. A real place for bootstrappers. It's about real connections, and not a fancy meet up.ABOUT IT'S ALL GOOD | The Science and Art of JoyMany people feel stuck, exasperated, low, or just plain bored in their lives. We provide a platform for fun and engaging experiences that foster insight and empowerment.Connect | Learn | Thrive!INSTAGRAM LINK CLICK HERE",
+    "startDate": "2026-09-25T16:00:00+05:30",
+    "endDate": "2026-09-25T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "143 A, Ground Floor, Shahpur Jat, Siri Fort, New Delhi, Delhi 110049, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54782230000000000000",
+        "longitude": "77.21647519999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "IT'S ALL GOOD",
+      "url": "https://urbanaut.app/partner/itsallgood"
+    },
+    "url": "https://urbanaut.app/spot/iagafternoon2-biasesbingo",
+    "keywords": [
       "URBANAUT"
     ]
   },
@@ -1457,6 +1790,43 @@
       "Leisure",
       "Pop-up Event",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "In the Language of Home: A Poetry Workshop",
+    "description": "Dillipoetry, in collaboration with Exhibit 320, presents In the Language of Home \u2014 a poetry workshop designed as an immersion into the ongoing exhibition Mool, curated by Shaleen Wadhwana. The workshop invites us to create a space where poetry becomes a portal into our own stories of origin and belonging, with visual art and the company of kindred voices guiding us along the way.The \u200bpoetic experience \u200bresides within the expansive group exhibition, bringing together 20 artistic voices from across South Asia. Together, these works explore how lived experiences of cross-border yearnings, shared geographies, language, and community shape the ways we mourn, love, play, dress, build, eat, move, dream, celebrate, and hope.As Shaleen Wadhwana, curator of Mool, writes: \u201cSouth Asia is not an easy term to define because there is a painful gap between those who carelessly drew its cartographic boundaries without ever visiting the region and those who carry its meaning and live its reality.\u201d \u200bWhile also noting that the region always had its own documented and lived histories of language, art, culture, history, and heritage.Over two hours, \u200bthe workshop will take us through reflective prompts and guided writing exercises promising to hold up a slow melding of personal, intergenerational, and maybe collective.\u200bAs we immerse ourselves in the visual worlds of artists across borders, we will sing, play with and respond to some \u200bof the wisest voices like Amrita Pritam, Faiz, Agha Shahid Ali, Kamala Das among others\u200b, showing us a glimpse of their home.About the host: Rachit is a poet and the founder of Dillipoetry, a literary platform known for its thematic and experimental poetry walks, workshops, and training programmes. He previously served as Creative Head at Youth Alliance, where he designed and facilitated leadership journeys for young social leaders across India. With over a decade of experience in the social development sector, his work engages a range of social concerns, and his poetry has appeared in over 25 literary platforms and anthologies. His recent series Memories of Yami and The Asthma City, tracing the Yamuna River and Delhi\u2019s air crisis, were published in Down To Earth magazine.He has been selected for international residencies, including Language is a Queer Thing by The Queer Muslim Project in collaboration with the British Council, UK, and is a recipient of the Germinator Grant by Ecoversity for Dillipoetry\u2019s regenerative arts practice. Rachit has performed at BBC Contains Strong Language (Leeds 2023, Bradford 2025) and at institutions such as the French Institute India, Goethe-Institut, British Council, and Alliance Fran\u00e7aise, with his work also featured on BBC Radio 3\u2019s The Verb. He has served as Lead Poet and Advisor to O.P. Jindal Global University\u2019s programme We Are Meant to Sing as One.About Exhibit 320: Exhibit320 is a contemporary art gallery based in New Delhi\u2019s Lado Sarai district. Over 16 years, the gallery has developed a dynamic program of solo and group exhibitions, long-term artist collaborations, and discursive events, engaging both established and emerging South Asian artists. The gallery continues to foster critical inquiry, experimentation and intergenerational dialogue, expanding the possibilities of contemporary visual culture locally and globally.",
+    "startDate": "2026-09-26T15:30:00+05:30",
+    "endDate": "2026-09-26T17:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "F-320, Old M B Road, Chatri Wala Kuan, Lado Sarai, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52361110000000000000",
+        "longitude": "77.19388889999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "749.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Dillipoetry",
+      "url": "https://urbanaut.app/partner/dillipoetry"
+    },
+    "url": "https://urbanaut.app/spot/in-the-language-of-home-a-poetry-workshop",
+    "keywords": [
+      "Workshop",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -1979,6 +2349,79 @@
       "Wellness",
       "Active",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Time Lapse - A Guided Walk of Analog Photography",
+    "description": "Time Lapse - A Guided Walk Tracing Two Centuries of Analog PhotographyJoin us on a journey spanning more than 200 years of photography, exploring a collection of 2500+ antique cameras, historic photographic processes, original archives, and a dazzling array of photographic ephemera. The walk also offers a rare look inside a fully functioning darkroom, with demonstrations of analog techniques, film loading, enlargers, and traditional printing processes.",
+    "startDate": "2026-10-04T12:00:00+05:30",
+    "endDate": "2026-10-04T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shri Ganesh Mandir Marg, Sector 28, DLF Phase IV, Gurugram, Haryana 122009, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46961600000000000000",
+        "longitude": "77.08038510000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Museo Camera",
+      "url": "https://urbanaut.app/partner/museo-camera"
+    },
+    "url": "https://urbanaut.app/spot/time-lapse-a-guided-walk-of-analog-photography",
+    "keywords": [
+      "Walking Tour",
+      "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Halloween Games Party + Potluck Lunch",
+    "description": "This Halloween, The Ravenswood Society is opening its doors to ravens of all ages. \u200bJoin The Ravenswood Society on 31 October for a family-friendly Halloween gathering featuring Blood on the Clocktower, other social deduction games, and a big bring-and-share potluck lunch. \u200bCome with your friends, siblings, kids, parents or the entire suspicious household. Whether you're an experienced social deduction player or completely new, we'll have beginner-friendly games and people happy to teach.\u200b\ud83c\udf72 Potluck LunchBring something to eat and share with everyone \u2014 homemade food, snacks, desserts, drinks, or your family's favourite dish. Bring. Share. Eat & Accuse.\u200b\ud83c\udfb2 GamesBlood on the Clocktower will be one of our main games, alongside other social deduction and party games suitable for different groups and experience levels.\u200b\ud83c\udf9f\ufe0f Choose your fate\u200b\ud83d\udc26 Early Ravens \u2014 \u20b9111 \u00b7 until 30 September\u200b\ud83d\ude08 Halloween Entry \u2014 \u20b9333 \u00b7 1\u201315 October\u200b\ud83d\udcd6 Demon's Punishment \u2014 \u20b9666 \u00b7 16\u201330 October\u200b\ud83d\udd6f\ufe0f A Family-Friendly Halloween\u200bThis is a smoke-free and alcohol-free event. Smoking, vaping, alcohol and other intoxicants are not permitted at the venue. \u200bKids, parents, families and friends are all welcome. Halloween costumes are encouraged but completely optional.\u200b\ud83d\udcc5 31 October 2026 (10 AM - 6 PM)\ud83c\udf83 Halloween Game Party\ud83c\udfb2 Blood on the Clocktower + Social Deduction Games\ud83c\udf72 Bring-and-share Potluck Lunch\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66 Family & Kids friendly\ud83d\udead No smoking\ud83c\udf7a No alcohol\ud83e\ude78 Beginner friendly\ud83d\udd6f\ufe0f Hosted by The Ravenswood Society\u200bTrust nobody. Bring your family. Bring some food.",
+    "startDate": "2026-10-31T10:00:00+05:30",
+    "endDate": "2026-10-31T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Raj Niwas Marg, Ludlow Castle, Civil Lines, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.67284360000000000000",
+        "longitude": "77.22102060000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "333.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Table Top Games Club",
+      "url": "https://urbanaut.app/partner/the-table-top-games-club"
+    },
+    "url": "https://urbanaut.app/spot/halloween-game-party-potluck-lunch",
+    "keywords": [
       "URBANAUT"
     ]
   }
