@@ -38,6 +38,42 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Vedanta Training Session - Week 1 / Speed Run 1",
+    "description": "Hi If you are participating in the Vedanta Marathon, this will be the first training session with SWAG. We will be doing a speed run session tomorrow. Speed runs basically mean that you run at a very fast pace for a particular distance, depending on your level of training so 500 m, 800m, 1 km. After each running lap,  you take a 1 min breather, and then you run again. Kashika and I will be leading the run tomorrow, and we\u2019ll also walk everyone through the training plan and what the weeks ahead will look like. Please be on time, and sign up only if you\u2019re ready to show up consistently and take your training seriously. :)",
+    "startDate": "2026-09-17T06:15:00+05:30",
+    "endDate": "2026-09-17T07:45:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "H5VV+M56 Nehru park, Nehru Park, Niti Marg, Ramnagar, Chanakyapuri, New Delhi, Delhi 110021, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59416260000000000000",
+        "longitude": "77.19303599999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/vedanta-training-session-week-1-speed-run-1",
+    "keywords": [
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Grounds for Thought: Defence Colony",
     "description": "Grounds for Thought: Defence Colony, September 2026A Blue Tokai \u00d7 unLecture Series, Three Thursday evenings. Three very different conversations.Grounds for Thought is a monthly series where Blue Tokai and unLecture bring researchers, scientists, and thinkers out of their institutions and into a coffee shop. The format is simple: an expert, a room full of curious people, and a conversation that goes somewhere a classroom rarely does. This September, the series spreads further than ever \u2014 four venues across Delhi and Bangalore, and a spread of ideas running from gender and work to princely politics, from children's books to comic-book uncles.3rd September: Dr. Rahul KapoorWomen, Work and Well BeingWomen's participation in paid and unpaid work shapes far more than a household budget, it shapes physical, psychological, economic, and social well-being all at once. But that participation is rarely on equal terms: wage gaps, occupational segregation, invisible care work, and the daily balancing act between job and family all take a toll. Dr. Rahul Kapoor, Assistant Professor of Sociology and Social Work at Gautam Buddha University and author of Women and Work: The Sky is Full of Sexism, asks what a genuinely gender-sensitive approach to employment and social protection would actually look like \u2014 and why economic participation alone was never going to be enough.17th September: Anukriti AgarwalChacha Knows Best: Chacha Chaudhary and the Politics of NostalgiaBefore Indian households had cable or the internet, they had Chacha Chaudhary \u2014 a turbaned uncle whose brain worked faster than a computer, created by Pran Kumar Sharma in 1971. Fifty years on, that same deliberately ordinary uncle now sells toilets, water conservation, and voter turnout on behalf of government ministries. Anukriti Agarwal, a language educator and Fulbright Fellow at Yale, traces how a comic-book uncle went from newsprint to nation-building \u2014 and what it reveals when a state borrows the nostalgia the middle class grew up on.24th September: Dr Shashank SinghPrinces in the Polls: Indian Royals and Inherited Power in a Democratic Age, 1948\u20131967Between the 1950s and 60s, former princely elites didn't disappear from Indian politics \u2014 they reinvented themselves within it. Dr Shashank Singh, Junior Fellow at the Prime Ministers Museum and Library and a historian of Gwalior's princely order, uses electoral data and legislative debate from Rajasthan and Madhya Pradesh to show how monarchical charisma and patronage fused with electoral legitimacy. His argument: India's democratic consolidation didn't dismantle the feudal order so much as absorb and repurpose it.",
@@ -116,7 +152,7 @@
     "name": "Baddy with Baddies | Gurugram",
     "description": "SWAG Baddy with Baddies is a women-only, badminton meet-up.It is the perfect weekend plan, with some badminton rallies, quick sets of both doubles and singles followed by a coffee and chit chat! It can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!At Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.Note: Only non-marking sports shoes are allowed on court. Don't have non-marking shoes? No worries - you can play bare foot.",
     "startDate": "2026-09-17T20:00:00+05:30",
-    "endDate": "2026-09-20T19:00:00+05:30",
+    "endDate": "2026-09-20T18:00:00+05:30",
     "location": {
       "@type": "Place",
       "address": "Sportyzo Badminton Academy, Emaar emerald hills, Golf Course Ext Rd, opposite Ivory Block, Sector 65, Gurugram, Haryana 122011, India",
@@ -230,7 +266,7 @@
     "name": "Hot Girls Do Pilates",
     "description": "SWAG x The Cinnamon Kitchen Hot Girls Do Pilates is a women-only, mat pilates session.It is the perfect way to start your Saturday, with some pilates, calming breath work, followed by a breakfast curated by Cosmix and something healthy for your sweet tooth by The Cinnamon Kitchen.It can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo! At Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
     "startDate": "2026-09-19T07:30:00+05:30",
-    "endDate": "2026-09-20T10:00:00+05:30",
+    "endDate": "2026-09-19T10:00:00+05:30",
     "location": {
       "@type": "Place",
       "address": "Ground Floor, Ambience Mall, Ambience Island, Vasant Kunj II, Vasant Kunj, New Delhi, Delhi 110070, India",
@@ -254,7 +290,7 @@
       "name": "Sweat Like a Girl",
       "url": "https://urbanaut.app/partner/sweat-like-a-girl"
     },
-    "url": "https://urbanaut.app/spot/swag54",
+    "url": "https://urbanaut.app/spot/swag78",
     "keywords": [
       "Adventure",
       "Wellness",
@@ -417,18 +453,18 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Mo:Ments - Make some Mo:Mo at Thamel, DLF Phase 1",
-    "description": "Follow our Instagram to see more: @thamel.inLearn the Art of Himalayan Mo:MoStep into the world of Himalayan cuisine and discover the secrets behind one of the region's most beloved dishes. What You'll ExperienceGet ready to roll, fold, fill, and feast! Under the guidance of our chef, you'll:\u2022 Make fresh mo:mo dough from scratch\u2022 Learn two traditional folding styles \u2014 the classic round and elegant moon shape\u2022 Fill your mo:mo with your choice of vegetable or paneer filling (the filling is premade)\u2022 Master the techniques of steaming and pan-frying mo:mo to perfection\u2022 Plate your creations and enjoy them fresh with our signature house-made chutneysThis is a relaxed, interactive, and fun culinary experience designed for food lovers of all skill levels.What You'll Master\u2022 Prepare mo:mo dough from scratch\u2022 Fold traditional round and moon-shaped mo:mo\u2022 Fill, steam, and pan-fry mo:mo like a pro\u2022 Recreate the experience at home for friends and familyPerfect For\u2022 Date nights\u2022 Couples and friends\u2022 Team-building activities\u2022 Birthdays and bachelorette celebrations\u2022 Food enthusiasts looking to learn something newPlease Note\u2022 Arrive 15 minutes early for check-in\u2022 Dietary requirements can be accommodated with advance notice\u2022 Spaces are limited and booking is essential",
-    "startDate": "2026-09-19T15:00:00+05:30",
-    "endDate": "2026-09-19T17:00:00+05:30",
+    "@type": "Event",
+    "name": "Where the Rain comes alive: Hauz-e-shamsi",
+    "description": "Explore the Hidden Summer Palace of the MughalsDiscover a lesser-known chapter of Delhi's history on a guided heritage walk through the historic summer retreat of the Mughal era in Mehrauli.Explore the historic fort complex, admire its ancient water reservoir, and learn about the water systems, gardens, architecture, and traditions that once shaped this remarkable heritage site. Through engaging storytelling, uncover the forgotten history of the palace and its connection with Delhi's rich cultural past.Experience an offbeat heritage trail and discover a fascinating side of Mehrauli.Places Covered1 Mughal-era Summer Palace2 Historic Fort Complex3 Ancient Water Reservoir4 Remains of the Orchard Gardens5 Heritage Structures within the Complex",
+    "startDate": "2026-09-19T16:00:00+05:30",
+    "endDate": "2026-09-19T17:30:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "Shop No. 139, The shopping mall, Arjun Marg, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
+      "address": "Mehrauli, New Delhi, Delhi, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.46589090000000000000",
-        "longitude": "77.09964640000000000000"
+        "latitude": "28.52048820000000000000",
+        "longitude": "77.17868690000000000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -436,19 +472,20 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "499.00",
+      "price": "700.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Thamel",
-      "url": "https://urbanaut.app/partner/thamel"
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
     },
-    "url": "https://urbanaut.app/spot/momo-moments",
+    "url": "https://urbanaut.app/spot/where-the-rain-comes-alive-hauz-e-shamsi",
     "keywords": [
-      "Workshop",
-      "Food & drink",
+      "Adventure",
+      "Walking Tour",
+      "History & heritage",
       "URBANAUT"
     ]
   },
@@ -676,6 +713,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Carving Empire: A Session on Mughal Jade",
+    "description": "Step into the fascinating world of Mughal jade through rare artefacts, exquisite paintings and an expert-led conversation that brings the imperial world to life. Expect stories, surprises, plenty of jokes and an informal, interactive session where you can ask questions, share your thoughts and discover the history behind these extraordinary objects.* See rare Mughal jade artefacts & paintings* Listen to an expert talk filled with stories, insights & secrets* Join a fun, conversational session with questions, jokes & lots of interactionAbout the Author : Anoushka Jain is a historian and author of the non-fiction book Badass Begums, published by HarperCollins India. She is also the founder of Enroute Indian History, a women-focused heritage initiative that curates walks, workshops, and storytelling experiences around the layered histories of Delhi and the women who shaped it.Her work has been featured in leading publications including The Hindu, The Indian Express, The Print, Scroll.in, Hindustan Times, The Times of India, Vogue India, and Platform Magazine, alongside numerous press features.",
+    "startDate": "2026-09-19T17:00:00+05:30",
+    "endDate": "2026-09-20T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "8, Nelson Mandela Marg, Pocket 4, Sector C, Vasant Kunj, New Delhi, Delhi 110070, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53822650000000000000",
+        "longitude": "77.15371040000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/carving-empire-a-session-on-mughal-jade",
+    "keywords": [
+      "Live GIG",
+      "Eco Friendly",
+      "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Mandala Art and Nature Walk",
     "description": "A 2-hour nature experience where children step away from screens and into the outdoors.Through a guided nature walk they will explore their surroundings, learn about the flora and fauna around them and discover the little details they often miss.The second half of the experience brings nature and creativity together as children collect fallen leaves, flowers, twigs and other natural materials to create their own personalized mandalas.What will they experience?Nature Walk \u2013 Explore the surroundings and learn about local flora and fauna.Nature Discovery \u2013 Observe, notice and connect with the little things around them.Collect from Nature \u2013 Gather fallen leaves, flowers, twigs and other natural materials.Mandala Art \u2013 Use their collected treasures to create beautiful, nature-inspired mandalas.Screen-Free Time \u2013 Two hours to explore, create and be curious without screens.",
@@ -792,7 +867,7 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "B(run)ch Like A Girl",
+    "name": "B(RUN)ch Like A Girl",
     "description": "SWAG Gurgaon Runs are back, and this is a special one, because we are going for breakfast at Aku's!Plan is simple, we meet near Leisure Valley Park, start with some warm up, do a beginner friendly 3.5 KM run, and end at Aku's, HQ27 for the afterparty!Your ticket includes the warm-up & run, coffee at Aku's, a cover charge of INR 275/- for breakfast. We have also planned some surprises after the run! This can be perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo! See you Sunday!The Community:At Sweat Like A Girl, we curate women-first sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
     "startDate": "2026-09-20T07:00:00+05:30",
     "endDate": "2026-09-20T10:00:00+05:30",
@@ -1001,7 +1076,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "1049.00",
+      "price": "549.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -1053,44 +1128,6 @@
       "History & heritage",
       "Guided tour",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Carving Empire: A Session on Mughal Jade",
-    "description": "Step into the fascinating world of Mughal jade through rare artefacts, exquisite paintings and an expert-led conversation that brings the imperial world to life. Expect stories, surprises, plenty of jokes and an informal, interactive session where you can ask questions, share your thoughts and discover the history behind these extraordinary objects.* See rare Mughal jade artefacts & paintings* Listen to an expert talk filled with stories, insights & secrets* Join a fun, conversational session with questions, jokes & lots of interactionAbout the Author : Anoushka Jain is a historian and author of the non-fiction book Badass Begums, published by HarperCollins India. She is also the founder of Enroute Indian History, a women-focused heritage initiative that curates walks, workshops, and storytelling experiences around the layered histories of Delhi and the women who shaped it.Her work has been featured in leading publications including The Hindu, The Indian Express, The Print, Scroll.in, Hindustan Times, The Times of India, Vogue India, and Platform Magazine, alongside numerous press features.",
-    "startDate": "2026-09-20T16:30:00+05:30",
-    "endDate": "2026-09-20T18:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "8, Nelson Mandela Marg, Pocket 4, Sector C, Vasant Kunj, New Delhi, Delhi 110070, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53822650000000000000",
-        "longitude": "77.15371040000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "350.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Enroute Indian History",
-      "url": "https://urbanaut.app/partner/enrouteindianhistory"
-    },
-    "url": "https://urbanaut.app/spot/carving-empire-a-session-on-mughal-jade",
-    "keywords": [
-      "Live GIG",
-      "Eco Friendly",
-      "History & heritage",
       "URBANAUT"
     ]
   },
@@ -1321,7 +1358,7 @@
     "name": "Cricket with SWAG | Saket",
     "description": "SWAG Cricket is a women-only, beginner friendly meet-up.It is the perfect Sunday game, with 8 over matches, some brilliant catches, followed by a coffee and chit chat at the with the girls! It can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
     "startDate": "2026-09-20T18:00:00+05:30",
-    "endDate": "2026-09-20T19:00:00+05:30",
+    "endDate": "2026-09-19T19:00:00+05:30",
     "location": {
       "@type": "Place",
       "address": "inside NEW GREEN FIELD SCHOOL, behind PVR Anupam Saket, Ashok Vihar, Saket, New Delhi, Delhi 110017, India",
@@ -1758,44 +1795,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Heritage Walk: Phool Walon Ki Sair: Unique Tour",
-    "description": "Phool Walo Ki Sair A Walk Through Delhis Festival of FlowersStep into the historic lanes of Mehrauli and discover Phool Walo Ki Sair, Delhis centuries old Festival of Flowers.Join Enroute Indian History for a heritage walk exploring the history and traditions of this unique festival, where floral pankhas, qawwalis and temple offerings come together to tell a story of Delhis shared cultural heritage.Discover how this Mughal era tradition became a celebration of harmony, faith and festivity, and continues to remain an important part of Mehraulis cultural history",
-    "startDate": "2026-09-26T07:30:00+05:30",
-    "endDate": "2026-09-26T09:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Mehrauli, New Delhi, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52124440000000000000",
-        "longitude": "77.17903919999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "850.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Enroute Indian History",
-      "url": "https://urbanaut.app/partner/enrouteindianhistory"
-    },
-    "url": "https://urbanaut.app/spot/heritage-walk-phool-walon-ki-sair-unique-tour",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Film and Analog photography workshop",
     "description": "A comprehensive two-day workshop covering all aspects of the analog process from taking photographs on film to making silver prints on photographic paper.Structure of the workshopDay 1:A lecture on the origin of photography - Discover how photography began and explore early processes through a short, engaging introduction.Shooting on Film - Learn how to manually operate a film camera & a light meter to get correct exposures.Developing the Film - Learn how to develop your film roll in a darkroom with chemical solutions to get photographic negatives.Day 2:Create contact sheets - Using your negatives, create contact sheets and gain a clear understanding of exposure, development and timing.Create a test strip - Learn how to judge and determine the best exposure while creating prints in the darkroom.Create final prints - Learn how to create silver gelatine prints in the darkroom and workarounds to possible errors.Frequently asked questions:Is there any prior knowledge needed to attend this workshop?No, there is no prior knowledge needed for this workshop.Is there an age restriction for this workshop?Yes, the workshop is meant for ages 15+Do we as participants need to bring anything?No, all equipment and materials will be provided by Museo.Will we get to take our prints and negatives home at the end of the workshop?Yes, you will get to take your photographic negatives and prints home.Will there be a certificate provided once the workshop is over?Yes, a digital certificate will be provided upon completion of the workshop.What is the batch size of the workshop?The workshop is conducted in small batches of up-to 4 people per batch.Does the workshop also teach us how to use colour film?No, the workshop only covers black and white film photography.What is the recommended attire for the workshop?Comfortable clothing and shoes are recommended for the workshop.Will lunch be provided?Each participant will receive a 15% discount at the museum cafe on both days of the workshop.Once the workshop is over, how can I continue to practice the process?You can book the darkroom to practice the process, to do so you would have to write to us at workshops@museocamera.orgMeet your trainers Taught by some of the best practicing photographers and printmakers.Aditya AryaFounder, Director, Museo CameraWith 45+ years of experiencePhotographer, historian and Founder-Director of Museo Camera with years of experience across advertising and fine art, he champions the slowness of analog processes. He practices and teaches historic techniques like cyanotype and wet plate collodion, keeping them alive through hands-on learning.https://www.adityaarya.com/Avinash AggarwalFacilitatorwith 45+ years of experienceAggarwal\u2019s practice spans several decades, encompassing commercial work in product, industrial, interior, and portrait photography. Alongside this, he has consistently engaged with the artistic and experimental dimensions of the medium, with expertise in black-and-white and colour darkroom processes, as well as alternative photographic techniques. He currently runs his studio, Studio A89, at Kaladham, Greater Noida, where he also teaches analogue and alternative photography, and conducts workshops across institutions in the Delhi NCR region.Khushi Upadhyay Darkroom AssistantWith 2+ years of experienceShe is a photographer working with analog and alternative processes, embracing slowness while guiding others to do the same. Rooted in light and material, she leads cyanotype and historic process workshops through hands-on, immersive image-making.",
@@ -2091,6 +2090,44 @@
     "url": "https://urbanaut.app/spot/badass-begum-women-architecture-in-old-delhi",
     "keywords": [
       "History & heritage",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Himalayan Table",
+    "description": "The Himalayan table is a 6 course dining experience pairing delicious Himalayan food with specialty coffee from Sikkim, Nagaland and NepalIt is curated by Nimtho\u2019s Binita Chamling and Slow Pour CollectiveExpect never before had combinations of food and coffee, off menu items by Binita, their signature momo and specialty coffee drinks which you ll want moreMenuGorkhe achaar/Chicken Choila paired with  Japanese style iced pour over from NepalSel roti w/ Himalayan dum aloo or Chicken karchi marchi paired with Sikkim butter coffeeKhuri roll, mustard greens w/ chimping chutney paired with an earthy French press from NagalandNimtho\u2019s Signature momo (Veg/Chicken/Pork) paired with Timbur cold brew highballThenthuk(Veg/Chicken/Pork)Sikarni with coffee crumble",
+    "startDate": "2026-09-27T11:30:00+05:30",
+    "endDate": "2026-09-27T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Greater Kailash I, New Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55553280000000000000",
+        "longitude": "77.23373200000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3675.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Slow Pour Collective",
+      "url": "https://urbanaut.app/partner/slow-pour-collective"
+    },
+    "url": "https://urbanaut.app/spot/the-himalayan-table-delhi",
+    "keywords": [
+      "Workshop",
+      "Pop-up Event",
       "Food & drink",
       "URBANAUT"
     ]
@@ -2500,6 +2537,81 @@
       "Walking Tour",
       "Guided tour",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Lucia's Student Showcase 2026 | The Rising Stars",
+    "description": "Sentirenla Lucia is a vocalist, vocal coach and performing artist specializing in R&B, Neo-soul and Contemporary Jazz. Originally from Nagaland and Kerala, India, she draws on her diverse cultural heritage and deep roots in gospel, choral and contemporary music.Based in New Delhi since 2016, Lucia teaches private voice and has worked with The British School, Global Music Institute and Blue Notes School of Music in the Delhi NCR region. She works with singers focusing on healthy vocal technique, musicality, confidence and individual expression. She continues to perform whenever the opportunity arises. Many students that she has mentored have been accepted into prestigious Music Colleges such as Berklee College of Music, Oberlin Conservatory of Music, BIMM etc. with scholarship under her tutelage.Lucia began performing and recording professionally in New Delhi, working on jingles and television projects that received nationwide radio and television airplay. In 2002, she became a founding member of Artistes Unlimited, a 60-member choir and charitable trust, collaborating with artists including Shubha Mudgal, Parikrama and composer Julius Packiam. She has also performed with Them Clones and other leading musicians.In 2005, Lucia received a scholarship through Berklee College of Music\u2019s World Scholarship Tour. She graduated from Berklee in 2010 with a degree in Vocal Performance. During her time there, she performed at the Berklee Performance Center, sang background vocals for artists including Tata Vega, Rhiannon and Larry Watson, and shared stages with Lalah Hathaway, Amel Larrieux, Esperanza Spalding and Eguie Castrillo. She also worked as a session vocalist and was selected to sing in a tribute to Angelique Kidjo at Berklee\u2019s graduation ceremony.Lucia has taught and performed in both India and the United States. In Boston, she taught private voice and directed a cappella ensembles at Zumix, City Music \u2013 Berklee College of Music and School of Groove. She has also performed with Jazz Urbane, Semper Soul, The Singing Tribe and Sung Deep, and founded Phoenix Anthology to promote musical diversity and create opportunities for musicians from Nagaland. After she received her Artist Visa she taught private voice lessons and background. She also had the privilege to attend a workshop with Bobby McFerrin, who is her inspiration and since then has been on the journey to discover every aspect of vocal training attainable.Lucia hopes to inspire and motivate those who may have lost their sense of purpose through music, while continuing to learn, perform and contribute to a more diverse and expressive musical community.",
+    "startDate": "2026-10-04T13:30:00+05:30",
+    "endDate": "2026-10-04T14:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/lucias-student-showcase-2026-the-rising-stars",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Lucia's Student Showcase 2026 | The Showstoppers",
+    "description": "Sentirenla Lucia is a vocalist, vocal coach and performing artist specializing in R&B, Neo-soul and Contemporary Jazz. Originally from Nagaland and Kerala, India, she draws on her diverse cultural heritage and deep roots in gospel, choral and contemporary music. Based in New Delhi since 2016, Lucia teaches private voice and has worked with The British School, Global Music Institute and Blue Notes School of Music in the Delhi NCR region. She works with singers focusing on healthy vocal technique, musicality, confidence and individual expression. She continues to perform whenever the opportunity arises. Many students that she has mentored have been accepted into prestigious Music Colleges such as Berklee College of Music, Oberlin Conservatory of Music, BIMM etc. with scholarship under her tutelage. Lucia began performing and recording professionally in New Delhi, working on jingles and television projects that received nationwide radio and television airplay. In 2002, she became a founding member of Artistes Unlimited, a 60-member choir and charitable trust, collaborating with artists including Shubha Mudgal, Parikrama and composer Julius Packiam. She has also performed with Them Clones and other leading musicians. In 2005, Lucia received a scholarship through Berklee College of Music\u2019s World Scholarship Tour. She graduated from Berklee in 2010 with a degree in Vocal Performance. During her time there, she performed at the Berklee Performance Center, sang background vocals for artists including Tata Vega, Rhiannon and Larry Watson, and shared stages with Lalah Hathaway, Amel Larrieux, Esperanza Spalding and Eguie Castrillo. She also worked as a session vocalist and was selected to sing in a tribute to Angelique Kidjo at Berklee\u2019s graduation ceremony. Lucia has taught and performed in both India and the United States. In Boston, she taught private voice and directed a cappella ensembles at Zumix, City Music \u2013 Berklee College of Music and School of Groove. She has also performed with Jazz Urbane, Semper Soul, The Singing Tribe and Sung Deep, and founded Phoenix Anthology to promote musical diversity and create opportunities for musicians from Nagaland. After she received her Artist Visa she taught private voice lessons and background. She also had the privilege to attend a workshop with Bobby McFerrin, who is her inspiration and since then has been on the journey to discover every aspect of vocal training attainable. Lucia hopes to inspire and motivate those who may have lost their sense of purpose through music, while continuing to learn, perform and contribute to a more diverse and expressive musical community.",
+    "startDate": "2026-10-04T15:30:00+05:30",
+    "endDate": "2026-10-04T16:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/the-showstoppers",
+    "keywords": [
+      "Live GIG",
+      "Music",
       "URBANAUT"
     ]
   },
