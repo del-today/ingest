@@ -1,6 +1,23 @@
 [
   {
     "@type": "ScreeningEvent",
+    "name": "Ernest & Celestine: A Trip to Gibberitia(2022)",
+    "url": "https://fillum.in/screening/6175",
+    "startDate": "2026-09-17T18:30:00+05:30",
+    "endDate": "2026-09-17T18:30:00+05:30",
+    "description": "Free entry.",
+    "location": {
+      "@type": "Place",
+      "name": "M. L. Bhartia Auditorium, Alliance Fran\u00e7aise",
+      "address": "Lodhi Road, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Alliance Fran\u00e7aise de Delhi"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "Oslo: A Tail of Promise(2025)",
     "url": "https://fillum.in/screening/6154",
     "startDate": "2026-09-17T19:00:00+05:30",
@@ -69,36 +86,70 @@
   },
   {
     "@type": "ScreeningEvent",
-    "name": "Prisoner No. 626710 is present(2024)",
-    "url": "https://fillum.in/screening/6171",
-    "startDate": "2026-09-20T18:30:00+05:30",
-    "endDate": "2026-09-20T18:30:00+05:30",
-    "description": "Solidarity screening and discussion.",
+    "name": "Shutter(2004)",
+    "url": "https://fillum.in/screening/6164",
+    "startDate": "2026-09-19T12:00:00+05:30",
+    "endDate": "2026-09-19T12:00:00+05:30",
+    "description": "Limited Capacity.In collaboration with Khatarnaak films - a new horror film collective based out of an abandoned ice cream store in Jangpura (at their usual spot). The basement has comfortable mat..more",
     "location": {
       "@type": "Place",
-      "name": "Mool, South Ex",
-      "address": "South Ex II, New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Camera Commune"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Visthapana(2026)",
-    "url": "https://fillum.in/screening/6147",
-    "startDate": "2026-09-23T19:00:00+05:30",
-    "endDate": "2026-09-23T19:00:00+05:30",
-    "description": "Free entry. In association with Global Wildlife Fair and RoundGlass Sustain",
-    "location": {
-      "@type": "Place",
-      "name": "Gulmohar, India Habitat Centre",
+      "name": "Jangpura",
       "address": "Delhi"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Kriti Film Club"
+      "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Ring(1998)",
+    "url": "https://fillum.in/screening/6165",
+    "startDate": "2026-09-19T14:00:00+05:30",
+    "endDate": "2026-09-19T14:00:00+05:30",
+    "description": "Limited Capacity.In collaboration with Khatarnaak films - a new horror film collective based out of an abandoned ice cream store in Jangpura (at their usual spot). The basement has comfortable mat..more",
+    "location": {
+      "@type": "Place",
+      "name": "Jangpura",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Angel Dust(1994)",
+    "url": "https://fillum.in/screening/6166",
+    "startDate": "2026-09-19T16:00:00+05:30",
+    "endDate": "2026-09-19T16:00:00+05:30",
+    "description": "Limited Capacity.In collaboration with Khatarnaak films - a new horror film collective based out of an abandoned ice cream store in Jangpura (at their usual spot). The basement has comfortable mat..more",
+    "location": {
+      "@type": "Place",
+      "name": "Jangpura",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Taste of Fear(1961)",
+    "url": "https://fillum.in/screening/6167",
+    "startDate": "2026-09-19T18:30:00+05:30",
+    "endDate": "2026-09-19T18:30:00+05:30",
+    "description": "Limited Capacity.In collaboration with Khatarnaak films - a new horror film collective based out of an abandoned ice cream store in Jangpura (at their usual spot). The basement has comfortable mat..more",
+    "location": {
+      "@type": "Place",
+      "name": "Jangpura",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
     }
   }
 ]
