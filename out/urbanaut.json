@@ -829,6 +829,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "BADDY WITH BADDIES | Saket",
+    "description": "SWAG Baddy with Baddies is a women-only, badminton meet-up.It is the perfect Sunday reset, with some badminton rallies, quick sets of both doubles and singles followed by a coffee and chit chat with the girls! It can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.Note: Only non-marking sports shoes are allowed on court. Don't have non-marking shoes? No worries - you can rent a pair at the venue of play bare foot.",
+    "startDate": "2026-09-19T18:00:00+05:30",
+    "endDate": "2026-09-19T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "inside NEW GREEN FIELD SCHOOL, behind PVR Anupam Saket, Ashok Vihar, Saket, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52371090000000000000",
+        "longitude": "77.20874630000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "279.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag64",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Sanjay Van: Forgotten Ruins & Forest Picnic",
     "description": "Sunrise Hiking ExperienceThis early morning hiking experience takes you through forest trails, historic ruins, and scenic viewpoints for a refreshing start to the day. Designed to be beginner friendly, it combines nature, light adventure, storytelling, and meaningful group moments, making it ideal for solo travellers, couples, friends, and small groups.Along the way, discover interesting stories and hidden history, take part in fun group activities, and pause for a peaceful forest bathing experience. The morning comes together with a relaxed picnic breakfast at a scenic spot, bringing exploration, history, nature, and connection into one refreshing outdoor experience.Experience Flow1. Arrival and Meet Up at 5:15 AMAssemble at the meeting point by 5:15 AM for check in and a quick introduction. The experience begins at 5:30 AM sharp, so arriving on time allows you to settle in comfortably before the hike begins.2. Briefing and Warm UpMeet the hike leaders and attend a short safety briefing before getting started. Ease into the morning with a light ice breaker and a few interesting stories about the trail and its surroundings.3. Sunrise Hike Through Forests and RuinsSet out on a guided walk through forest trails, lesser known paths, old ruins, and scenic viewpoints. Enjoy the fresh morning air while discovering the quieter side of the landscape as the sun rises.4. Stories, Games and Forest PauseTake breaks along the way to hear local legends and stories of hidden history. Enjoy fun group activities before slowing down for a calm forest bathing moment and taking in the surrounding nature.5. Picnic Breakfast and Wrap Up at 8:30 AMEnd the morning at a scenic spot with a relaxed picnic breakfast. After some time to unwind and enjoy the surroundings, make your way back with the group. ",
     "startDate": "2026-09-20T05:30:00+05:30",
@@ -1392,6 +1430,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Featherheads Haokui: Live In New Delhi",
+    "description": "Featherheads Haokui: Live In New Delhi Ft. Jack Of Spade'zFeatherheads Haokui is a folk-rock outfit from Ukhrul, Manipur, whose music is steeped in the oral traditions, folklore, and identity of the Tangkhul Naga community. Founded and fronted by Augustine L. Shimray, the band formally reformed in 2016, though its origins trace back to 2012. Featherheads Haokui fuses traditional Tangkhul folk melodies, chants, instruments (including hao l\u0101\u0101 folk tunes and tingteila, a traditional stringed instrument) with folk-rock, electro-folk, and alternative guitar arrangements. Their songs often address themes of: Identity and cultural heritage; reconnecting with ancestral ways, and contemporary social issues: youth and generational detachment, technology, addiction, and the pull of modern culture.  Visually and in performance, the band places strong emphasis on cultural aesthetics \u2014 from costumes, tattoos, hairstyles, to filming locations in Tangkhul villages, rugged landscapes seldom seen in mainstream media.  Jack Of Spade'z is a Rock \u2018n\u2019 Roll trio hailing from Manipur and New Delhi \u2014 Alem Mahukva (vocals/Guitar), Ngatik Asara (Bass), and Adhyan Emerson (Drums) brings high-energy riffs, a fearless attitude, and a sound that hits hard and stays real.",
+    "startDate": "2026-09-20T21:00:00+05:30",
+    "endDate": "2026-09-20T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/featherheads-haokui",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "The Strategy Table: Taiwanese Mahjong",
     "description": "\u2728 LATITUDE CAFE \u00d7 GOODEARTH \u00d7 THE MAHJONG NETWORK \u2728The Strategy Table: Taiwanese Mahjong\ud83d\udcc5 22nd September\u23f0 2:00 PM \u2013 5:30 PM\ud83d\udccd Latitude Cafe\ud83d\udcb0 \u20b93,200 per personAn afternoon designed for players who already know the game and want to play it better.Please note: This is not a beginner class. Participants must already know how to play Taiwanese Mahjong.Led by certified teacher and tournament specialist Astha Narvekar from Bombay, The Strategy Table goes beyond basic gameplay to focus on the details that make the biggest difference at the table \u2014 sharper scoring, smarter decisions, and more confident strategy.The session will include:\ud83c\udc04 Official LRC scoring \u2014 understanding how to correctly calculate and account for points\ud83c\udc04 Scoring drills using real hands\ud83c\udc04 Strategy for special hands \u2014 when to commit, when to pivot, and how to read the table\ud83c\udc04 Calling strategy and risk vs reward\ud83c\udc04 Reading discards and recognising what other players may be building\ud83c\udc04 Common scoring mistakes and how to avoid them\ud83c\udc04 Live practice rounds with Astha guiding each tableEvery guest will also take home a specially curated Good Earth gift, extending the experience beyond the table.The session is intentionally intimate and hands-on, giving every player time for individual attention, questions, and live gameplay guidance.Hosted by The Mahjong Network, this is an afternoon to sharpen your strategy, master your scoring, and take your Taiwanese Mahjong game to the next level.20 seats only.Reserve your place at the table.",
@@ -1496,6 +1572,44 @@
     "url": "https://urbanaut.app/spot/the-festival-of-tiles-delhi-tournament",
     "keywords": [
       "Leisure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Gaurav ft. Pranay Verma and Parijat Kirti",
+    "description": "Gaurav is a singer-songwriter whose music is rooted in storytelling, emotion, and a deep sense of musical expression. Whether through his originals, reimagined pop songs, or the Hindi and Bollywood music he grew up with, he approaches every song with the same intention: to make it feel honest, intimate, and alive.For this special set at Depot 48, Gaurav brings his original music to life alongside Pranay and Parijat in a stripped-back trio setting of two guitars and one voice. The arrangements are built around the character of each song, leaving space for lyrical storytelling, intricate guitar interplay, and the quiet moments that make a song breathe.Alongside his originals, the trio will also weave in their own arrangements of favourite pop and Hindi/Bollywood songs, creating an evening that moves freely between familiar melodies and new stories.",
+    "startDate": "2026-09-23T21:00:00+05:30",
+    "endDate": "2026-09-23T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/gaurav-ft-pranay-verma-and-parijat-kirti",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -1720,39 +1834,76 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "The Matcha Circle",
-    "description": "OverviewA shared matcha-making experience where simple acts of whisking, pouring, and preparing create calm. People gather over matcha, conversation, and the quiet rhythm of making something by hand. One cup at a time.Matcha Experience: A Taste of CalmExperience the calming art of green tea in a session dedicated to mindfulness and flavor. This gathering is designed to help you slow down and appreciate the details of a centuries old tradition. \"The Matcha Circle\" offers a peaceful space to learn, taste, and connect at the end of a long week.What is Stories of Hope?We are a community led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities from mental well being to personal growth with empathy and shared human connection.What to ExpectGuided Introduction: Learn about the history and the unique process of preparing matcha from farm to cup.The Ritual: Watch and learn how the tea is whisked to create its signature froth and deep flavor.Tasting Session: Enjoy a premium matcha drink prepared just for you at Cha & Co.Quiet Conversation: Join a small group setting to talk about finding moments of peace in a busy week over a comforting cup.Details\ud83d\uddd3\ufe0f Date: 11th September and 25th September (Friday)\u23f0 Time: 6:30 PM\ud83d\udccd Location: Cha & Co, Grand View High Street\ud83c\udf75 Inclusion: Matcha drink included\ud83c\udf9f\ufe0f Fee: \u20b9700",
-    "startDate": "2026-09-25T18:30:00+05:30",
-    "endDate": "2026-09-25T20:30:00+05:30",
+    "@type": "FoodEvent",
+    "name": "Rauhan Malik",
+    "description": "With over 700M streams on \u201cIshq,\u201d a track that charted on Billboard India, and a sound that seamlessly blends Kashmiri folk with contemporary pop and rock, Rauhan has emerged as one of India\u2019s fastest-growing independent artists.Currently ranked among the top 10 most popular artists in Indian Indie, Rauhan\u2019s music spans from his 2019 debut \u201cRaasta\u201d to his 2024 breakout \u201cIshq,\u201d which has crossed 3 billion views across digital platforms. Rooted in the stories, sounds, and spirit of Kashmir, his music carries a distinctly Indian identity while connecting with audiences across the country and the diaspora.For Depot 48, Rauhan would bring a dynamic live set that sits naturally within the venue\u2019s indie, alternative, and contemporary music space. His ability to move between soulful Kashmiri folk, atmospheric rock, and accessible pop makes his performance both musically distinctive and highly engaging in a live setting. With a growing audience and strong digital presence, Rauhan would be a compelling addition to Depot 48\u2019s programming and an artist who can deliver a memorable, culturally rooted live experience.",
+    "startDate": "2026-09-25T19:30:00+05:30",
+    "endDate": "2026-09-25T22:00:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "Ireo Grand View High Street, Sector 58, Gurugram, Haryana 122098, India",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.41560020000000000000",
-        "longitude": "77.10258329999999000000"
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
+    "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
-      "price": "700.00",
+      "price": "499.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
     },
-    "url": "https://urbanaut.app/spot/matcha-experience",
+    "url": "https://urbanaut.app/spot/rauhan-malik",
     "keywords": [
-      "Leisure",
-      "Workshop",
-      "History & heritage",
+      "Live GIG",
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "YUNGSTA - BRAGGING RIGHTS Listening Session",
+    "description": "Yungsta's new album Bragging Rights is coming out. And you can brag about being one of the first few  to listen to it with him! We\u2019re throwing an intimate, early listening party, and Yungsta will be in the room hanging out with everyone as the whole project plays end-to-end.What to Expect:Exclusive First Listen: Hear the new album before it hits streaming platforms.Yungsta Live & In-Person: He\u2019ll be breaking down the tracks, sharing stories behind the beats, and chatting about how the whole project came together.Good Vibes & Community: Hang out, grab a drink, meet fellow music fans, and kick it with one of the finest in Indian hip-hop.Capacity is super tight to keep the energy cozy and personal, so snag your ticket early.",
+    "startDate": "2026-09-25T20:00:00+05:30",
+    "endDate": "2026-09-25T23:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "944.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
+    },
+    "url": "https://urbanaut.app/spot/yungsta-bragging-rights-listening-session",
+    "keywords": [
+      "Live GIG",
+      "Music",
       "URBANAUT"
     ]
   },
@@ -1901,6 +2052,44 @@
     "keywords": [
       "Workshop",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Lindy Hop Dance Class & Social",
+    "description": "Join Swing Out Delhi, a fun and inclusive Lindy Hop dance community, for an evening of swing jazz and social dancing at Depot 48.Lindy Hop is a joyful and rhythmic partner dance that originated in 1930s Harlem, New York \u2014 and is now danced in cities around the world.Start with a 30-minute Lindy Hop introduction class, followed by a lively social dance set to vintage swing jazz music.No prior dance experience or partner required \u2014 just come as you are and enjoy the music, movement, and energy of the swing dance community.Enjoy an exclusive 25% discount on your total bill during the event.Limited spots available.",
+    "startDate": "2026-09-26T16:00:00+05:30",
+    "endDate": "2026-09-26T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/lindy-hop-dance-class",
+    "keywords": [
+      "Music",
+      "Workshop",
+      "Active",
       "URBANAUT"
     ]
   },
@@ -2060,6 +2249,44 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
+    "name": "Soul Surge",
+    "description": "Soul Surge is a dynamic Rock and Fusion band that brings together talented and well-trained musicians from diverse professional backgrounds. United by their passion for music, they create a unique sound that resonates with audiences of all ages.",
+    "startDate": "2026-09-26T21:00:00+05:30",
+    "endDate": "2026-09-26T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/soul-surge",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
     "name": "Badass Begum: Women Architecture in Old Delhi",
     "description": "Badass Begums: An Old Delhi Heritage WalkA guided heritage walk through the lanes of Old Delhi exploring the stories of the women who shaped its history. The walk focuses on the lives, influence and cultural presence of the Begums of Mughal-era Delhi.Led by author and historian Anoushika Jain, the experience shares stories of women who contributed to politics, culture, art, food traditions and social life. The walk is designed as a storytelling experience with narration and interaction along the route.The walk takes participants through Old Delhi and concludes with a curated food experience. It also includes select takeaways for participants.Language of communication is Hindi and English.",
     "startDate": "2026-09-27T07:30:00+05:30",
@@ -2129,41 +2356,6 @@
       "Workshop",
       "Pop-up Event",
       "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Overthinkers Anonymous - Relationships Edition",
-    "description": "Overthinkers Anonymous (Relationships Editions)OverviewA space for the relationships you carry but rarely talk about.People gather to finally say the things they've held back from a parent, a partner, a coworker, an in-law, anyone they can't avoid and can't quite be honest with. Said out loud, finally.Most relationship conflicts are not just about what happened; they are about how we interpret what happened. This session focuses on exploring how our thoughts shape our connections and why friction often feels more intense than the situation warrants. \"Before You Blame\" is a reflective workshop designed to help you look at your assumptions and inner patterns, moving you from reactivity toward steadiness and emotional responsibility.What is Stories of Hope?We are a community-led initiative dedicated to creating safe and mindful spaces. Through intimate workshops and gatherings, we help individuals navigate life\u2019s complexities, from mental well-being to personal growth, with empathy and shared human connection.What to ExpectPattern Recognition: Explore how common emotional triggers and ego-driven patterns shape conflicts in marriage, family, or work.Internal Focus: Instead of trying to fix others, we gently shift the focus inward to understand our own interpretations and responses.Practical Tools: Learn actionable ways to question stressful thoughts and practice perspective shifts using real-life scenarios.Safe Exploration: A supportive, non-judgmental environment for honest discussion. This is a space for learning and reflection, not a lecture or therapy.Key TakeawaysClarity: Gain a deeper understanding of recurring relationship dynamics.Responsiveness: Walk away with tools to help you respond thoughtfully instead of reacting impulsively.Emotional Ownership: Build the internal steadiness needed to navigate life without requiring others to change first.Details\ud83d\uddd3\ufe0f Date: 27th September (Sunday)\u23f0 Time: 11:30 AM\ud83d\udccd Location: Children First Mental Health Institute, Gurugram",
-    "startDate": "2026-09-27T11:30:00+05:30",
-    "endDate": "2026-09-27T13:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "B 18/9, Golf Course Rd, Sector 28, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46976990000000000000",
-        "longitude": "77.09440000000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "700.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Stories of Hope",
-      "url": "https://urbanaut.app/partner/stories-of-hope"
-    },
-    "url": "https://urbanaut.app/spot/overthinkers-anonymous-relationships-edition",
-    "keywords": [
       "URBANAUT"
     ]
   },
@@ -2352,6 +2544,44 @@
       "History & heritage",
       "Food & drink",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Sound of the Himalayas",
+    "description": "Rahul Netra Negi is a powerhouse independent singer, songwriter, and rhythm guitarist holding a 9-year legacy performing across national and international stages. Originally from Dehradun, his signature sound beautifully blends contemporary Indie Pop and Folk Rock with raw Himalayan roots.His versatile career spans a Bollywood playback debut with Zee Music Company (\"\"Tere Sath\"\", 5.5M+ views) and a recent 2-month international residency in Dubai at Joker Street. A seasoned force on the Indian festival circuit, Rahul has opened for rock legends Parikrama, Agnee, and Susmit Sen (Indian Ocean Chronicles), alongside headlining major sets at the Bir Music Festival and GIFLIF Indiestaan.This performance is tailored to Depot48's intimate, \"\"music-first\"\" atmosphere, providing an ideal setting for original contemporary folk-fusion storytelling. Drawing on extensive global touring, the show blends unreleased orignals with re-imagined folk tales and nostalgic indi-pop covers   to engage the specific audience of this listening room.",
+    "startDate": "2026-09-27T21:00:00+05:30",
+    "endDate": "2026-09-27T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/sound-of-the-himalayas",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -2612,6 +2842,82 @@
     "keywords": [
       "Live GIG",
       "Music",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Manish Vaid Project",
+    "description": "Manish vaid Project is Delhi based Bollywood Pop Rock Band. The Group is composed of Manish, Anuj, Pawan and Vishal. The band is known for their tasteful renditions as well as for creating original music with a unique perspective.",
+    "startDate": "2026-10-04T21:00:00+05:30",
+    "endDate": "2026-10-04T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "399.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/manish-vaid-project",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Tanupriya Somesh",
+    "description": "Tanupriya Somesh is an independent composer duo consisting of Tanupriya Shakya and Somesh Bhadula. Both are composers, with Tanupriya also being the duo\u2019s vocalist, while Somesh focuses on lyrics and production. Together, they create honest, acoustic-led music that blends organic sounds with emotive arrangements and a raw, timeless sensibility.Their debut EP, Mann Chale, explores themes of love, longing, relationships, and introspection through intimate songwriting and melodic arrangements. Their music is rooted in the idea of keeping the song and its emotion at the centre of the listening experience.For Depot48, the proposed performance will be a solo set by Tanupriya Shakya, featuring songs from Mann Chale, selected unreleased originals, and a few carefully chosen covers. The set is particularly suited to Depot48\u2019s intimate live environment, where original, acoustic-led music can connect directly with the audience.Depot48\u2019s focus on independent and original music makes the venue especially relevant to this performance. The intention is to create an intimate, song-focused evening rather than a conventional stage show, giving the audience an opportunity to experience Tanupriya Somesh's music and compositions in a more personal live setting.",
+    "startDate": "2026-10-14T21:00:00+05:30",
+    "endDate": "2026-10-14T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "399.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/tanupriya-somesh",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
       "URBANAUT"
     ]
   },
