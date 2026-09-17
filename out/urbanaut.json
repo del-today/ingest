@@ -227,44 +227,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Hot Girls Do Pilates",
-    "description": "SWAG x The Cinnamon Kitchen Hot Girls Do Pilates is a women-only, mat pilates session.It is the perfect way to start your Saturday, with some pilates, calming breath work, followed by a breakfast curated by Cosmix and something healthy for your sweet tooth by The Cinnamon Kitchen.It can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo! At Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
-    "startDate": "2026-09-19T07:30:00+05:30",
-    "endDate": "2026-09-19T10:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Ground Floor, Ambience Mall, Ambience Island, Vasant Kunj II, Vasant Kunj, New Delhi, Delhi 110070, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54154910000000000000",
-        "longitude": "77.15531680000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "849.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag78",
-    "keywords": [
-      "Adventure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Bazar-i-Husn :  exploring Tawaif culture",
     "description": "Step into the world of grace, wit, and artistry as we explore the lives of Tawaifs\u2014the courtesans who once defined high culture, poetry, and performance in Delhi. This walk takes you through old city lanes that once echoed with ghazals, thumris, and the quiet power of women who shaped taste and tradition.Uncover the layered stories of kothas\u2014not as places of shame, but as salons of sophistication, resistance, and refined art. Let\u2019s reclaim these narratives and see history through a different lens.",
     "startDate": "2026-09-19T07:30:00+05:30",
@@ -302,8 +264,46 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Hot Girls Do Pilates",
+    "description": "SWAG x The Cinnamon Kitchen Hot Girls Do Pilates is a women-only, mat pilates session.It is the perfect way to start your Saturday, with some pilates, calming breath work, followed by a breakfast curated by Cosmix and something healthy for your sweet tooth by The Cinnamon Kitchen. Don't worry about bringing the mats. We have mats by *Cosco* for you to take home!Limited spots!It can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo! At Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "startDate": "2026-09-19T08:00:00+05:30",
+    "endDate": "2026-09-19T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ground Floor, Ambience Mall, Ambience Island, Vasant Kunj II, Vasant Kunj, New Delhi, Delhi 110070, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54154910000000000000",
+        "longitude": "77.15531680000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "849.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag78",
+    "keywords": [
+      "Adventure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "name": "Anandi Makers Lab: G\u2019day Australia\ud83c\udde6\ud83c\uddfa",
+    "name": "Anandi Makers Lab: G\u2019day Australia",
     "description": "Anandi School, Gurgaon invites you toAnandi Makers Lab: G\u2019day Australia!Come spend a morning exploring Australia through making, art and play.\ud83e\ude83 Create and decorate your own boomerang\ud83c\udfa8 Explore Aboriginal-inspired dot painting\ud83e\udeb8 Discover the Great Barrier Reef through a colourful coral project\ud83e\udd98 Make, create and learn about Australia along the wayA morning to make, discover and get curious about a different part of the world.\ud83d\uddd3\ufe0fSaturday, 19 September | 11 AM - 1 PM\ud83d\udccdAnandi School, Gurgaon\ud83d\udc66\ud83c\udffb\ud83d\udc67\ud83c\udffbAges 3 - 13 yearsLimited Spot ",
     "startDate": "2026-09-19T11:00:00+05:30",
     "endDate": "2026-09-19T13:00:00+05:30",
@@ -570,6 +570,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Carving Empire: A Session on Mughal Jade",
+    "description": "Step into the fascinating world of Mughal jade through rare artefacts, exquisite paintings and an expert-led conversation that brings the imperial world to life. Expect stories, surprises, plenty of jokes and an informal, interactive session where you can ask questions, share your thoughts and discover the history behind these extraordinary objects.* See rare Mughal jade artefacts & paintings* Listen to an expert talk filled with stories, insights & secrets* Join a fun, conversational session with questions, jokes & lots of interaction",
+    "startDate": "2026-09-19T17:00:00+05:30",
+    "endDate": "2026-09-19T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "8, Nelson Mandela Marg, Pocket 4, Sector C, Vasant Kunj, New Delhi, Delhi 110070, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53822650000000000000",
+        "longitude": "77.15371040000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/carving-empire-a-session-on-mughal-jade-16740",
+    "keywords": [
+      "Live GIG",
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Spill The Beans",
     "description": "Get ready to unload your juiciest tea at Spill The Beans, an evening of unhinged DMs, wild emails, and unfiltered gossip hosted at Gully Labs Baithak. Bring your most outrageous stories, grab a seat and let's dish on everything you've been dying to share!",
     "startDate": "2026-09-19T17:00:00+05:30",
@@ -672,44 +710,6 @@
     },
     "url": "https://urbanaut.app/spot/why-do-good-people-commit-crime",
     "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Carving Empire: A Session on Mughal Jade",
-    "description": "Step into the fascinating world of Mughal jade through rare artefacts, exquisite paintings and an expert-led conversation that brings the imperial world to life. Expect stories, surprises, plenty of jokes and an informal, interactive session where you can ask questions, share your thoughts and discover the history behind these extraordinary objects.* See rare Mughal jade artefacts & paintings* Listen to an expert talk filled with stories, insights & secrets* Join a fun, conversational session with questions, jokes & lots of interactionAbout the Author : Anoushka Jain is a historian and author of the non-fiction book Badass Begums, published by HarperCollins India. She is also the founder of Enroute Indian History, a women-focused heritage initiative that curates walks, workshops, and storytelling experiences around the layered histories of Delhi and the women who shaped it.Her work has been featured in leading publications including The Hindu, The Indian Express, The Print, Scroll.in, Hindustan Times, The Times of India, Vogue India, and Platform Magazine, alongside numerous press features.",
-    "startDate": "2026-09-19T17:00:00+05:30",
-    "endDate": "2026-09-20T18:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "8, Nelson Mandela Marg, Pocket 4, Sector C, Vasant Kunj, New Delhi, Delhi 110070, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53822650000000000000",
-        "longitude": "77.15371040000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Enroute Indian History",
-      "url": "https://urbanaut.app/partner/enrouteindianhistory"
-    },
-    "url": "https://urbanaut.app/spot/carving-empire-a-session-on-mughal-jade",
-    "keywords": [
-      "Live GIG",
-      "Eco Friendly",
-      "History & heritage",
       "URBANAUT"
     ]
   },
