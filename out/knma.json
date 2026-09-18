@@ -61,7 +61,7 @@
   },
   {
     "@type": "ExhibitionEvent",
-    "name": "Bice Lazzari & Nasreen Mohamedi IN-RHYTHM",
+    "name": "In-Rhythm",
     "url": "https://www.knma.org/whats-on/exhibitions/bice-lazzari-and-nasreen-mohamedi-in-rhythm",
     "startDate": "2026-09-09T10:00:00+05:30",
     "endDate": "2026-12-22T18:00:00+05:30",
@@ -160,6 +160,26 @@
     ]
   },
   {
+    "@type": "EducationEvent",
+    "name": "Building the Wada Again",
+    "url": "https://www.knma.org/whats-on/talks/building-the-wada-again",
+    "startDate": "2026-09-25T10:00:00+05:30",
+    "endDate": "2026-09-25T10:00:00+05:30",
+    "description": "Theatre",
+    "location": {
+      "@type": "Place",
+      "name": "Sunken Garden, Sunder Nursery, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
     "@type": "Event",
     "name": "In the Moonlit Kingdom",
     "url": "https://www.knma.org/whats-on/events/in-the-moonlit-kingdom",
@@ -229,6 +249,26 @@
     "location": {
       "@type": "Place",
       "name": "The Museum of Modern Art",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "If Trees Could Write",
+    "url": "https://www.knma.org/whats-on/workshops/if-trees-could-write",
+    "startDate": "2026-10-03T10:00:00+05:30",
+    "endDate": "2026-10-03T10:00:00+05:30",
+    "description": "Workshop",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
       "address": "New Delhi"
     },
     "organizer": {
