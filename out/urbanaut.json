@@ -1,193 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Chatti Choru @ Cocobay",
-    "description": "Missed the Sadhya, you still got the *Chatti Choru* to try and this time it comes with a Non Vegetarian add on.\u00a0All Sept at Cocobay at Flxho Horizon One, 574 Sector 43 Golf Course Road",
-    "startDate": "2026-09-17T12:00:00+05:30",
-    "endDate": "2026-09-27T15:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Metro Station, 574, 43, off Golf Course Road, Sector 43, Gurugram, Haryana 122009, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.45706690000000000000",
-        "longitude": "77.09607650000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "730.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Cocobay - South Indian Cafe",
-      "url": "https://urbanaut.app/partner/cocobay-south-indian-cafe"
-    },
-    "url": "https://urbanaut.app/spot/chattichorucocobay",
-    "keywords": [
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Grounds for Thought: Defence Colony",
-    "description": "Grounds for Thought: Defence Colony, September 2026A Blue Tokai \u00d7 unLecture Series, Three Thursday evenings. Three very different conversations.Grounds for Thought is a monthly series where Blue Tokai and unLecture bring researchers, scientists, and thinkers out of their institutions and into a coffee shop. The format is simple: an expert, a room full of curious people, and a conversation that goes somewhere a classroom rarely does. This September, the series spreads further than ever \u2014 four venues across Delhi and Bangalore, and a spread of ideas running from gender and work to princely politics, from children's books to comic-book uncles.3rd September: Dr. Rahul KapoorWomen, Work and Well BeingWomen's participation in paid and unpaid work shapes far more than a household budget, it shapes physical, psychological, economic, and social well-being all at once. But that participation is rarely on equal terms: wage gaps, occupational segregation, invisible care work, and the daily balancing act between job and family all take a toll. Dr. Rahul Kapoor, Assistant Professor of Sociology and Social Work at Gautam Buddha University and author of Women and Work: The Sky is Full of Sexism, asks what a genuinely gender-sensitive approach to employment and social protection would actually look like \u2014 and why economic participation alone was never going to be enough.17th September: Anukriti AgarwalChacha Knows Best: Chacha Chaudhary and the Politics of NostalgiaBefore Indian households had cable or the internet, they had Chacha Chaudhary \u2014 a turbaned uncle whose brain worked faster than a computer, created by Pran Kumar Sharma in 1971. Fifty years on, that same deliberately ordinary uncle now sells toilets, water conservation, and voter turnout on behalf of government ministries. Anukriti Agarwal, a language educator and Fulbright Fellow at Yale, traces how a comic-book uncle went from newsprint to nation-building \u2014 and what it reveals when a state borrows the nostalgia the middle class grew up on.24th September: Dr Shashank SinghPrinces in the Polls: Indian Royals and Inherited Power in a Democratic Age, 1948\u20131967Between the 1950s and 60s, former princely elites didn't disappear from Indian politics \u2014 they reinvented themselves within it. Dr Shashank Singh, Junior Fellow at the Prime Ministers Museum and Library and a historian of Gwalior's princely order, uses electoral data and legislative debate from Rajasthan and Madhya Pradesh to show how monarchical charisma and patronage fused with electoral legitimacy. His argument: India's democratic consolidation didn't dismantle the feudal order so much as absorb and repurpose it.",
-    "startDate": "2026-09-17T18:30:00+05:30",
-    "endDate": "2026-09-24T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "No A/57 to A/59, DDA Shopping Complex, Block F, Defence Colony, New Delhi, Delhi 110024, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.56615030000000000000",
-        "longitude": "77.23328000000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "550.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/grounds-for-thought-defence-colony-sept",
-    "keywords": [
-      "History & heritage",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Grounds for Thought: Janpath",
-    "description": "Grounds for Thought: Janpath, September 2026A Blue Tokai \u00d7 unLecture Series, Three Tuesday evenings. Three very different conversations.Grounds for Thought is a monthly series where Blue Tokai and unLecture bring researchers, scientists, and thinkers out of their institutions and into a coffee shop. The format is simple: an expert, a room full of curious people, and a conversation that goes somewhere a classroom rarely does. This September, the series spreads further than ever \u2014 four venues across Delhi and Bangalore, and a spread of ideas running from gender and work to princely politics, from children's books to comic-book uncles.17th September: Prateek MundejaWhy Do Good Ideas Fail in Government?Governance is usually discussed in ideals \u2014 promises, ambition, the world as it ought to be. Prateek Mundeja, Assistant Professor of Political Science and Mookerjee Fellow (2025\u201326), argues that the more useful question is a duller one: what actually works? This session takes a realist's tour through limited resources, institutional capacity, and the gap between stated intentions and delivered outcomes \u2014 and makes the case that ideals only survive contact with the world when backed by hard, unglamorous choices.22nd September: Aarushee ShuklaThe Pause, The Buzzword, and The CollectiveIn a meeting room in Bihar and Kerala, Aarushee Shukla asked women what their collective meant to them, and got a long, deliberate silence back. That silence, she found, wasn't an absence of an answer \u2014 it was its own kind of answer, one we're rarely taught to read. This session recreates that pause live, then turns to the vocabulary \u2014 \"empowerment,\" \"participation,\" \"social capital\" \u2014 that runs through women's lives on paper, asking who gets to write those words and who is simply left to live inside them.29th September: Amitrajeet MukherjeeVoices from War: Revisiting John Keegan's The Face of BattleJohn Keegan's landmark book opened with a deceptively simple question \u2014 what is it actually like to be in a battle? Fifty years on, his witnesses remain almost entirely European, despite spanning centuries of warfare. Amitrajeet Mukherjee, a doctoral candidate in English Literature at Delhi University, widens that frame to the two and a half million Indians who served in the Second World War \u2014 diarists, letter-writers, the censored and the unrecorded \u2014 and asks whose voices get to define what \"war writing\" is for.",
-    "startDate": "2026-09-17T18:30:00+05:30",
-    "endDate": "2026-09-29T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "No 48, Mezzanine & Ground Floor, Atul Grove Road, Janpath, Connaught Place, New Delhi, Delhi 110001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.62697200000000000000",
-        "longitude": "77.21977799999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "550.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/grounds-for-thought-janpath-sept",
-    "keywords": [
-      "Workshop",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Baddy with Baddies | Gurugram",
-    "description": "SWAG Baddy with Baddies is a women-only, badminton meet-up.It is the perfect weekend plan, with some badminton rallies, quick sets of both doubles and singles followed by a coffee and chit chat! It can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!At Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.Note: Only non-marking sports shoes are allowed on court. Don't have non-marking shoes? No worries - you can play bare foot.",
-    "startDate": "2026-09-17T20:00:00+05:30",
-    "endDate": "2026-09-20T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Sportyzo Badminton Academy, Emaar emerald hills, Golf Course Ext Rd, opposite Ivory Block, Sector 65, Gurugram, Haryana 122011, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.40465650000000000000",
-        "longitude": "77.07401440000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "279.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag55",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Baddy with Baddies | Mehrauli",
-    "description": "SWAG Baddy with Baddies is a women-only, badminton meet-up.It is the perfect mid-week reset, with some badminton rallies, quick sets of both doubles and singles followed by a coffee and chit chat at the Reppp Cafe! It can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!At Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.Note: Only non-marking sports shoes are allowed on court. Don't have non-marking shoes? No worries - you can rent a pair at the venue of play bare foot.",
-    "startDate": "2026-09-17T20:00:00+05:30",
-    "endDate": "2026-09-24T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "near Qutab Minar Metro Station, Aam Bagh, Ladha Sarai Village, Mehrauli, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.51514850000000000000",
-        "longitude": "77.18640390000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "299.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag53",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Kathika Cultural Experience",
     "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
@@ -221,6 +34,43 @@
       "Music",
       "History & heritage",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Chatti Choru @ Cocobay",
+    "description": "Missed the Sadhya, you still got the *Chatti Choru* to try and this time it comes with a Non Vegetarian add on.\u00a0All Sept at Cocobay at Flxho Horizon One, 574 Sector 43 Golf Course Road",
+    "startDate": "2026-09-18T12:00:00+05:30",
+    "endDate": "2026-09-27T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Metro Station, 574, 43, off Golf Course Road, Sector 43, Gurugram, Haryana 122009, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.45706690000000000000",
+        "longitude": "77.09607650000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "730.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Cocobay - South Indian Cafe",
+      "url": "https://urbanaut.app/partner/cocobay-south-indian-cafe"
+    },
+    "url": "https://urbanaut.app/spot/chattichorucocobay",
+    "keywords": [
+      "Pop-up Event",
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -909,7 +759,7 @@
     "@type": "FoodEvent",
     "name": "B(RUN)ch Like A Girl",
     "description": "SWAG Gurgaon Runs are back, and this is a special one, because we are going for breakfast at Aku's!Plan is simple, we meet near Leisure Valley Park, start with some warm up, do a beginner friendly 3.5 KM run, and end at Aku's, HQ27 for the afterparty!Your ticket includes the warm-up & run, coffee at Aku's, a cover charge of INR 275/- for breakfast. We have also planned some surprises after the run! This can be perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo! See you Sunday!The Community:At Sweat Like A Girl, we curate women-first sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
-    "startDate": "2026-09-20T07:00:00+05:30",
+    "startDate": "2026-09-20T07:30:00+05:30",
     "endDate": "2026-09-20T10:00:00+05:30",
     "location": {
       "@type": "Place",
@@ -1230,7 +1080,7 @@
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
-      "price": "499.00",
+      "price": "999.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -1279,6 +1129,44 @@
     "keywords": [
       "History & heritage",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Baddy with Baddies | Gurugram",
+    "description": "SWAG Baddy with Baddies is a women-only, badminton meet-up.It is the perfect weekend plan, with some badminton rallies, quick sets of both doubles and singles followed by a coffee and chit chat! It can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!At Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.Note: Only non-marking sports shoes are allowed on court. Don't have non-marking shoes? No worries - you can play bare foot.",
+    "startDate": "2026-09-20T17:00:00+05:30",
+    "endDate": "2026-09-20T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Sportyzo Badminton Academy, Emaar emerald hills, Golf Course Ext Rd, opposite Ivory Block, Sector 65, Gurugram, Haryana 122011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40465650000000000000",
+        "longitude": "77.07401440000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "279.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag55",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
       "URBANAUT"
     ]
   },
@@ -1543,6 +1431,43 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Grounds for Thought: Janpath",
+    "description": "Grounds for Thought: Janpath, September 2026A Blue Tokai \u00d7 unLecture Series, Three Tuesday evenings. Three very different conversations.Grounds for Thought is a monthly series where Blue Tokai and unLecture bring researchers, scientists, and thinkers out of their institutions and into a coffee shop. The format is simple: an expert, a room full of curious people, and a conversation that goes somewhere a classroom rarely does. This September, the series spreads further than ever \u2014 four venues across Delhi and Bangalore, and a spread of ideas running from gender and work to princely politics, from children's books to comic-book uncles.17th September: Prateek MundejaWhy Do Good Ideas Fail in Government?Governance is usually discussed in ideals \u2014 promises, ambition, the world as it ought to be. Prateek Mundeja, Assistant Professor of Political Science and Mookerjee Fellow (2025\u201326), argues that the more useful question is a duller one: what actually works? This session takes a realist's tour through limited resources, institutional capacity, and the gap between stated intentions and delivered outcomes \u2014 and makes the case that ideals only survive contact with the world when backed by hard, unglamorous choices.22nd September: Aarushee ShuklaThe Pause, The Buzzword, and The CollectiveIn a meeting room in Bihar and Kerala, Aarushee Shukla asked women what their collective meant to them, and got a long, deliberate silence back. That silence, she found, wasn't an absence of an answer \u2014 it was its own kind of answer, one we're rarely taught to read. This session recreates that pause live, then turns to the vocabulary \u2014 \"empowerment,\" \"participation,\" \"social capital\" \u2014 that runs through women's lives on paper, asking who gets to write those words and who is simply left to live inside them.29th September: Amitrajeet MukherjeeVoices from War: Revisiting John Keegan's The Face of BattleJohn Keegan's landmark book opened with a deceptively simple question \u2014 what is it actually like to be in a battle? Fifty years on, his witnesses remain almost entirely European, despite spanning centuries of warfare. Amitrajeet Mukherjee, a doctoral candidate in English Literature at Delhi University, widens that frame to the two and a half million Indians who served in the Second World War \u2014 diarists, letter-writers, the censored and the unrecorded \u2014 and asks whose voices get to define what \"war writing\" is for.",
+    "startDate": "2026-09-22T18:30:00+05:30",
+    "endDate": "2026-09-29T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "No 48, Mezzanine & Ground Floor, Atul Grove Road, Janpath, Connaught Place, New Delhi, Delhi 110001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.62697200000000000000",
+        "longitude": "77.21977799999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "550.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/grounds-for-thought-janpath-sept",
+    "keywords": [
+      "Workshop",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "The Festival of Tiles - DELHI Tournament!",
     "description": "\ud83c\udf8a\u2728 FESTIVAL OF TILES \u2728\ud83c\udf8a\ud83c\udc04\ufe0f A Mahjong Tournament for Passport and Goulash in Delhi \ud83c\udc04\ufe0f Join The Mahjong Network x Mahjong Studio x DLF Promenade for a tournament designed to be competitive and exciting, yet easy-going and fun.Expect good games, great company, plenty of food, and many exciting prizes.\ud83d\uddd3\ufe0f 23rd September, Wednesday\ud83d\udd5a 11AM\u2013 3PM\ud83d\udccd Caf\u00e9 Delhi Heights , DLF Promenade, Vasant Kunj\ud83c\udf9f\ufe0f \u20b93,000++ per player\ud83c\udfc6 PRIZES\u2728 Table Winners\u2728 Top 5 Players of the Day\u2728 Some Festive surprisesNote: Players must know how to play and score independently. Detailed rules of gameplay and scoring will be shared with each player in advance to ensure consistency and clarity. \ud83d\ude0aWhether you\u2019re coming to compete for the top spot or simply for a really good time around the mahjong table, this one is for you! Limited tables available. Registrations now open.",
@@ -1730,6 +1655,43 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
+    "name": "Grounds for Thought: Defence Colony",
+    "description": "Grounds for Thought: Defence Colony, September 2026A Blue Tokai \u00d7 unLecture Series, Three Thursday evenings. Three very different conversations.Grounds for Thought is a monthly series where Blue Tokai and unLecture bring researchers, scientists, and thinkers out of their institutions and into a coffee shop. The format is simple: an expert, a room full of curious people, and a conversation that goes somewhere a classroom rarely does. This September, the series spreads further than ever \u2014 four venues across Delhi and Bangalore, and a spread of ideas running from gender and work to princely politics, from children's books to comic-book uncles.3rd September: Dr. Rahul KapoorWomen, Work and Well BeingWomen's participation in paid and unpaid work shapes far more than a household budget, it shapes physical, psychological, economic, and social well-being all at once. But that participation is rarely on equal terms: wage gaps, occupational segregation, invisible care work, and the daily balancing act between job and family all take a toll. Dr. Rahul Kapoor, Assistant Professor of Sociology and Social Work at Gautam Buddha University and author of Women and Work: The Sky is Full of Sexism, asks what a genuinely gender-sensitive approach to employment and social protection would actually look like \u2014 and why economic participation alone was never going to be enough.17th September: Anukriti AgarwalChacha Knows Best: Chacha Chaudhary and the Politics of NostalgiaBefore Indian households had cable or the internet, they had Chacha Chaudhary \u2014 a turbaned uncle whose brain worked faster than a computer, created by Pran Kumar Sharma in 1971. Fifty years on, that same deliberately ordinary uncle now sells toilets, water conservation, and voter turnout on behalf of government ministries. Anukriti Agarwal, a language educator and Fulbright Fellow at Yale, traces how a comic-book uncle went from newsprint to nation-building \u2014 and what it reveals when a state borrows the nostalgia the middle class grew up on.24th September: Dr Shashank SinghPrinces in the Polls: Indian Royals and Inherited Power in a Democratic Age, 1948\u20131967Between the 1950s and 60s, former princely elites didn't disappear from Indian politics \u2014 they reinvented themselves within it. Dr Shashank Singh, Junior Fellow at the Prime Ministers Museum and Library and a historian of Gwalior's princely order, uses electoral data and legislative debate from Rajasthan and Madhya Pradesh to show how monarchical charisma and patronage fused with electoral legitimacy. His argument: India's democratic consolidation didn't dismantle the feudal order so much as absorb and repurpose it.",
+    "startDate": "2026-09-24T18:30:00+05:30",
+    "endDate": "2026-09-24T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "No A/57 to A/59, DDA Shopping Complex, Block F, Defence Colony, New Delhi, Delhi 110024, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.56615030000000000000",
+        "longitude": "77.23328000000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "550.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/grounds-for-thought-defence-colony-sept",
+    "keywords": [
+      "History & heritage",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
     "name": "Bulldozers, Bullets, and the Constitution",
     "description": "About the LectureFor the last decade or more, the Indian Constitution has played a starring role in the romance of the Indian nation, especially among those who identify as liberals. This lecture sounds a more pessimistic note. It focuses on Article 21, the article that purports to protect life and personal liberty \u2014 and asks what its well-documented inadequacies actually mean.A clear view of these gaps should make us question the idea that the Constitution is a solution to our contemporary troubles. In some respects, it may be part of the problem.The session explores:Why Article 21's protections of life and personal liberty are, in practice, woefully inadequateWhat the gap between constitutional promise and constitutional practice revealsWhy treating the Constitution as sacred might get in the way of confronting its limitsHow \"colonial law\" and the history of civil liberties shaped the Indian constitutional traditionAbout the SpeakerArudra Burra has a background in political philosophy and law. He wandered into Indian constitutional history while working on questions involving the idea of \"colonial law\" and the history of civil liberties in the Indian constitutional tradition \u2014 concerns he is currently exploring in a book project titled Constitutionalism before the Constitution. He is also interested in the connections between Western and Indian philosophical traditions, explored most recently in his paper \"What is 'Indian' about Indian Political Thought?\" He teaches in the Department of Humanities and Social Sciences at IIT Delhi.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
     "startDate": "2026-09-24T19:00:00+05:30",
@@ -1802,8 +1764,46 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Afternoon #2 Biases Bingo",
-    "description": "IAG Afternoons are small, hosted gatherings built around fascinating ideas.An IAG Afternoon is not a conventional workshop, lecture or networking event. It is a carefully hosted social experience with an interesting idea at its heart.The intention is simple:Come curious. Spend a lovely afternoon. Leave with something to think about.Each IAG Afternoon explores one idea connected to the experience of being human - how we think, feel, relate, make decisions, understand ourselves and make sense of the world around us.The ideas may draw on psychology, behavioural science, philosophy, culture, relationships, creativity or everyday life. They are brought to life through a combination of games, activities, stories, conversation and reflection.IAG AFTERNOON #2BIASES BINGOWhat to expectWe\u2019re thrilled to partner with SHACK COFFEE CO. for the second of our IAG Afternoons.This time, we\u2019re exploring biases and blind spots again: the mental shortcuts and patterns that influence what we notice, how we interpret information and the 'speed dial' conclusions our wonderful brains make about people and situations.Drawing on ideas from cognitive psychology and behavioural science, we\u2019ll explore some of the biases that shape everyday thinking and look into why they can often be so difficult to recognise.Whether you\u2019re already familiar with concepts such as confirmation bias, the halo effect and fundamental attribution error or are encountering them for the first time, there\u2019ll be opportunities to test what you know and to look at familiar ideas in new ways.You\u2019ll also have time to relax, chat and get to know the other people in the room (if you want to!)Your afternoon includes:\u2022\tA couple of playful, game-inspired experiences, facilitated by Shena Gamat\u2022\tInteresting ideas drawn from psychology and behavioural science\u2022\tConversation, connection and fresh perspectives\u2022\tA small IAG takeaway to take homeDuration: Approximately 2 hours, 4-6pmContribution: \u20b9300 per personABOUT SHENA GAMATShena is a theatre practitioner, voice artist and corporate trainer with over two decades of experience in performance and facilitation. Her background spans film, international theatre tours and voice work.She has built a magazine, run a theatre company, been on leadership teams, built grassroots programmes, created communities and facilitated learning.Most recently, she is the founder of It\u2019s All Good, a platform that curates immersive micro-festivals, experiences and workshops focused on joy, well-being & community engagement.Her sessions combine theatre tools, voice work, learning design and behavioural frameworks to help participants connect to their own presence and live with clarity & confidence.She is also a certified Learning & Development Manager.ABOUT SHACK COFFEE CO.Shack Coffee Co. is about a 14 years old reboot of a cafe project. Shack is still about three things.1. Tasty coffee. We roast our coffee, which is without jargon and fuss.2. Delicious food. We prepare everything in house. We obsess about rustic Italian food such as panini.3. A real place for bootstrappers. It's about real connections, and not a fancy meet up.ABOUT IT'S ALL GOOD | The Science and Art of JoyMany people feel stuck, exasperated, low, or just plain bored in their lives. We provide a platform for fun and engaging experiences that foster insight and empowerment.Connect | Learn | Thrive!INSTAGRAM LINK CLICK HERE",
+    "name": "Baddy with Baddies | Mehrauli",
+    "description": "SWAG Baddy with Baddies is a women-only, badminton meet-up.It is the perfect mid-week reset, with some badminton rallies, quick sets of both doubles and singles followed by a coffee and chit chat at the Reppp Cafe! It can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!At Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.Note: Only non-marking sports shoes are allowed on court. Don't have non-marking shoes? No worries - you can rent a pair at the venue of play bare foot.",
+    "startDate": "2026-09-24T20:00:00+05:30",
+    "endDate": "2026-09-24T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "near Qutab Minar Metro Station, Aam Bagh, Ladha Sarai Village, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.51514850000000000000",
+        "longitude": "77.18640390000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "299.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag53",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "IT'S ALL GOOD @ SHACK - \"Biases Bingo\"",
+    "description": "IAG Afternoons are gatherings around fascinating ideas.:Come curious. Spend a lovely afternoon. Leave with something to think about.Each IAG Afternoon explores one idea connected to the experience of being human - how we think, feel, relate, make decisions, understand ourselves and make sense of the world around us.The ideas may draw on psychology, behavioural science, philosophy, culture, relationships, creativity or everyday life. They are brought to life through a combination of games, activities, stories, conversation and reflection.IAG AFTERNOON #2 - IT'S ALL GOOD @ SHACKBIASES BINGOWhat to expectWelcome to the 2nd IAG Afternoon at Shack Coffee Co.We are exploring biases and blind spots: the mental shortcuts and patterns that influence what we notice, how we interpret information and the 'speed dial' conclusions our wonderful brains make about people and situations.Drawing from cognitive psychology and behavioural science, we\u2019ll explore some of the biases that shape everyday thinking. We look into why they can often be so difficult to recognise.Explore concepts such as confirmation bias, the halo effect and fundamental attribution error. Test what you know and look at familiar ideas in new ways.You\u2019ll also have time to relax, chat and get to know the other people in the room (if you want to!)Your afternoon includes:\u2022\tA couple of playful, game-inspired experiences, facilitated by Shena Gamat\u2022\tInteresting ideas drawn from psychology and behavioural science\u2022\tConversation, connection and fresh perspectives\u2022\tA small IAG takeaway to take homeDuration: Approximately 2 hours, 4-6pmContribution: \u20b9300 per personABOUT SHENA GAMATShena is a theatre practitioner, voice artist and corporate trainer with over two decades of experience in performance and facilitation. Her background spans film, international theatre tours and voice work.She has built a magazine, run a theatre company, been on leadership teams, built grassroots programmes, created communities and facilitated learning.Most recently, she is the founder of It\u2019s All Good, a platform that curates immersive micro-festivals, experiences and workshops focused on joy, well-being & community engagement.Her sessions combine theatre tools, voice work, learning design and behavioural frameworks to help participants connect to their own presence and live with clarity & confidence.She is also a certified Learning & Development Manager.ABOUT SHACK COFFEE CO.Shack Coffee Co. is a cafe for bootstrappers.It serves:1. Tasty coffee. We roast our coffee, which is without jargon and fuss.2. Delicious food. We prepare everything in house. We obsess about rustic Italian food such as panini.3. A real place for bootstrappers. It's about real connections, and not a fancy meet up.oot of a cafe project. ABOUT IT'S ALL GOOD | The Science and Art of JoyMany people feel stuck, exasperated, low, or just plain bored in their lives. We provide a platform for fun and engaging experiences that foster insight and empowerment.Connect | Learn | Thrive!INSTAGRAM LINK CLICK HERE",
     "startDate": "2026-09-25T16:00:00+05:30",
     "endDate": "2026-09-25T18:00:00+05:30",
     "location": {
