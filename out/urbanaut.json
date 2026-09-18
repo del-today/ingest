@@ -755,44 +755,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "THE QUTUB CODE: Decode stories hidden in stone",
-    "description": "What if the Qutub Minar could tell you the story of Delhi?Step into the Qutub Complex and explore the layers of history, architecture, power and cultural exchange that shaped medieval Delhi. From the soaring Qutub Minar and the intricate Alai Darwaza to the ancient Iron Pillar and the ruins of the Quwwatu\u2019l-Islam Mosque, every stone reveals a different chapter.This is not just a walk around a monument. It is a journey through the making of Delhi- its rulers, ambitions, architectural experiments, conflicts, craftsmanship and forgotten stories.Come for the Qutub Minar. Stay for the stories hidden around it.",
-    "startDate": "2026-09-20T08:00:00+05:30",
-    "endDate": "2026-09-20T10:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "G5GQ+443, Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52526250000000000000",
-        "longitude": "77.18779690000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "300.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Riwayat Walks",
-      "url": "https://urbanaut.app/partner/riwayatwalks"
-    },
-    "url": "https://urbanaut.app/spot/the-qutub-code-decode-stories-hidden-in-stone",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Begum & her Hookah heritage walk : Chandni Chowk",
     "description": "Join us as we excavate the little known stories of the women who through the changing and often challenging times have continued to enrich the city\u2019s historical and cultural landscape. We will meander through streets around the Chandni Chowk area, sharing stories of Begums, shadows Empresses, Nautch girls, Milk mothers, Havelis and Harems.In this walk we walk the by-lanes of Shahjahanabad looking for stories of the bygone era, making the women who shaped the city and its history our focus.Milestones of our journey will be:1.\tDigambar Jain Temple (Lal Mandir), Sunehri Masjid, Gauri Shankar temple, Sis Ganj Gurudwara2.\tBegum Samru Ki haveli3.\tDariba Kalan (Silver Street): The Street of the Incomparable Pearl4.\tKinari Bazaar(Wedding street)5.\tNaughara (Nine Jain houses)6.\tParanthe wali Gali7.\tTownhall building8.\tLala Chunnamal ki Haveli9.\tFatehpuri Masjid : (Built in 1650s by emperor Shahjahan\u2019s wife Fatehpuri Begum)10.\tKhari Baoli (the biggest spice market in Asia)This walk is being curated & conducted by Darwesh heritage walks in collaboration with Sabhyata Foundation",
     "startDate": "2026-09-20T08:30:00+05:30",
@@ -871,7 +833,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Tea Connoisseur | 3 Days Specialty Tea experience",
-    "description": "Interested or curious to know about the World of Specialty Teas and its applications? Join the 3 Days Immersive Tea Connoisseur program and earn a Tea Connoisseur Certificate (Digital format) upon completion.20 Sep - Speciality Tea Tasting & Appreciation21 Sep - Tea Blending and Brewing22 Sep - Tea X MixologyHosted by Pradyuth Dutta - Tea Sommelier & Mixologist",
+    "description": "Become a Tea Connoisseur.Tea is evolving from a traditional everyday beverage into a sophisticated experience. built around origin, craftsmanship, quality, flavour, wellness and discovery. At the centre of this transformation is Specialty Tea\u2014a category that celebrates distinctive teas, their terroir, processing methods, provenance and the skill involved in producing and preparing them. Interested or curious to know about the World of Specialty Teas and its applications? Join the 3 Days Immersive Tea Connoisseur program and earn a Tea Connoisseur Certificate (Digital format) upon completion.20 Sep - Speciality Tea Tasting & Appreciation21 Sep - Tea Blending and Brewing22 Sep - Tea X MixologyHosted by Pradyuth Dutta - Tea Sommelier & Mixologist",
     "startDate": "2026-09-20T12:00:00+05:30",
     "endDate": "2026-09-22T14:00:00+05:30",
     "location": {
@@ -2617,6 +2579,44 @@
       "url": "https://urbanaut.app/partner/depot48"
     },
     "url": "https://urbanaut.app/spot/sound-of-the-himalayas",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Voices Of Mashup Edu - Edition Two",
+    "description": "After the incredible response and success of our first edition, Voices of Mashup Edu is back with Edition Two!Voices of Mashup Edu is a live showcase celebrating the artists of the Mashup Xcelerator \u2014 a carefully curated stage featuring artists who didn\u2019t just complete the program, but transformed through it. They came with talent. They left with a blueprint. Now they perform with both.Edition Two brings together another lineup of emerging independent artists, giving them a stage to share their music, connect with the community, and take their next step forward.",
+    "startDate": "2026-09-30T19:30:00+05:30",
+    "endDate": "2026-09-30T23:45:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1048.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/voices-of-mashup-edu-edition-two",
     "keywords": [
       "Live GIG",
       "Music",
