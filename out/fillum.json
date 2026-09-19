@@ -1,36 +1,53 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "Taste of Fear(1961)",
-    "url": "https://fillum.in/screening/6167",
-    "startDate": "2026-09-19T18:30:00+05:30",
-    "endDate": "2026-09-19T18:30:00+05:30",
-    "description": "Limited Capacity.In collaboration with Khatarnaak films - a new horror film collective based out of an abandoned ice cream store in Jangpura (at their usual spot). The basement has comfortable mat..more",
+    "name": "The Sacrifice(1986)",
+    "url": "https://fillum.in/screening/6179",
+    "startDate": "2026-09-20T12:00:00+05:30",
+    "endDate": "2026-09-20T12:00:00+05:30",
+    "description": "What if you knew the world was about to end?And what if there was only one thing you could do to stop it?A man makes a desperate promise.A world on the edge of catastrophe.And a sacrific..more",
     "location": {
       "@type": "Place",
-      "name": "Jangpura",
+      "name": "iPley Music Studio, GK-1",
       "address": "Delhi"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Out of Sequence"
+      "name": "SomeArt"
     }
   },
   {
     "@type": "ScreeningEvent",
-    "name": "[REC](2007)",
-    "url": "https://fillum.in/screening/6170",
-    "startDate": "2026-09-19T20:00:00+05:30",
-    "endDate": "2026-09-19T20:00:00+05:30",
-    "description": "Limited Capacity.In collaboration with Khatarnaak films - a new horror film collective based out of an abandoned ice cream store in Jangpura (at their usual spot). The basement has comfortable mat..more",
+    "name": "Visthapana(2026)",
+    "url": "https://fillum.in/screening/6147",
+    "startDate": "2026-09-23T19:00:00+05:30",
+    "endDate": "2026-09-23T19:00:00+05:30",
+    "description": "Free entry. In association with Global Wildlife Fair and RoundGlass Sustain",
     "location": {
       "@type": "Place",
-      "name": "Jangpura",
+      "name": "Gulmohar, India Habitat Centre",
       "address": "Delhi"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Out of Sequence"
+      "name": "Kriti Film Club"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "The Complex(2013)",
+    "url": "https://fillum.in/screening/6192",
+    "startDate": "2026-09-25T18:30:00+05:30",
+    "endDate": "2026-09-25T18:30:00+05:30",
+    "description": "Free entry.",
+    "location": {
+      "@type": "Place",
+      "name": "The Japan Foundation",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Japan Foundation"
     }
   }
 ]
