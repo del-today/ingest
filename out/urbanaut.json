@@ -1,121 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Anandi Makers Lab: G\u2019day Australia",
-    "description": "Anandi School, Gurgaon invites you toAnandi Makers Lab: G\u2019day Australia!Come spend a morning exploring Australia through making, art and play.\ud83e\ude83 Create and decorate your own boomerang\ud83c\udfa8 Explore Aboriginal-inspired dot painting\ud83e\udeb8 Discover the Great Barrier Reef through a colourful coral project\ud83e\udd98 Make, create and learn about Australia along the wayA morning to make, discover and get curious about a different part of the world.\ud83d\uddd3\ufe0fSaturday, 19 September | 11 AM - 1 PM\ud83d\udccdAnandi School, Gurgaon\ud83d\udc66\ud83c\udffb\ud83d\udc67\ud83c\udffbAges 3 - 13 yearsLimited Spot ",
-    "startDate": "2026-09-19T11:00:00+05:30",
-    "endDate": "2026-09-19T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M-14/47, Mushedpur, DLF Phase 2, Sector 25, Gurugram, Haryana 122002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.48862520000000000000",
-        "longitude": "77.08666319999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "599.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Anandi School",
-      "url": "https://urbanaut.app/partner/anandischool"
-    },
-    "url": "https://urbanaut.app/spot/anandi-makers-lab-australia-edition",
-    "keywords": [
-      "Local",
-      "Workshop",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Caffeine Kick Off - Coffee Cupping Event",
-    "description": "Kick off your day at Caffeine Kick Off with a cozy, hands-on cupping session featuring India's best GI-tagged coffees. Our barista will be sharing the cool local legends and lore behind each origin while we brew up something special: a bold, spicy filter coffee loaded with aromatic spices. Come sip, hang out, and taste a fresh twist on a classic tradition!",
-    "startDate": "2026-09-19T11:30:00+05:30",
-    "endDate": "2026-09-19T12:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54778550000000000000",
-        "longitude": "77.21136729999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "944.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Gully Labs",
-      "url": "https://urbanaut.app/partner/baithak"
-    },
-    "url": "https://urbanaut.app/spot/caffiene-kick-off",
-    "keywords": [
-      "Workshop",
-      "Eco Friendly",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Photography Workshop with TOI x Starbucks",
-    "description": "Take a break from endless scrolling and look at the world around you a little differently.Join TOI Let\u2019s D-Stress x Starbucks for an interactive photography session at Starbucks Reserve, Connaught Place, led by Jassi Oberai, acclaimed photographer and founder of Xploringlight, known for his distinctive approach to travel and landscape photography and for mentoring photography enthusiasts through workshops and learning experiences.Through conversations, practical tips and a hands-on workshop, discover how everyday moments \u2014 a cup of coffee, a street corner, changing light or a familiar face \u2014 can become interesting frames when you slow down and really observe.The session is less about having the perfect camera and more about developing your curiosity and perspective. Come with the device you already use and explore how photography can turn screen time into something more mindful and creative.Date: Saturday, 19 September 2026Time: 12:00 p.m. onwardsVenue: Starbucks Reserve, Connaught PlaceAn easy-going afternoon of coffee, photography and learning to notice the moments we often scroll past.",
-    "startDate": "2026-09-19T12:00:00+05:30",
-    "endDate": "2026-09-19T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "A Block, Palika Parking, Radial Rd Number 2, next to Hamilton House, Palika Bazar, Connaught Place, New Delhi, Delhi 110001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.63220450000000000000",
-        "longitude": "77.21775450000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Times of India",
-      "url": "https://urbanaut.app/partner/the-times-of-india"
-    },
-    "url": "https://urbanaut.app/spot/lets-d-stress-with-the-times-of-india-x-starbucks-16656",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Workshop",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Chatti Choru @ Cocobay",
     "description": "Missed the Sadhya, you still got the *Chatti Choru* to try and this time it comes with a Non Vegetarian add on.\u00a0All Sept at Cocobay at Flxho Horizon One, 574 Sector 43 Golf Course Road",
@@ -306,44 +191,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Carving Empire: A Session on Mughal Jade",
-    "description": "Step into the fascinating world of Mughal jade through rare artefacts, exquisite paintings and an expert-led conversation that brings the imperial world to life. Expect stories, surprises, plenty of jokes and an informal, interactive session where you can ask questions, share your thoughts and discover the history behind these extraordinary objects.* See rare Mughal jade artefacts & paintings* Listen to an expert talk filled with stories, insights & secrets* Join a fun, conversational session with questions, jokes & lots of interaction",
-    "startDate": "2026-09-19T17:00:00+05:30",
-    "endDate": "2026-09-19T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "8, Nelson Mandela Marg, Pocket 4, Sector C, Vasant Kunj, New Delhi, Delhi 110070, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53822650000000000000",
-        "longitude": "77.15371040000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Enroute Indian History",
-      "url": "https://urbanaut.app/partner/enrouteindianhistory"
-    },
-    "url": "https://urbanaut.app/spot/carving-empire-a-session-on-mughal-jade-16740",
-    "keywords": [
-      "Live GIG",
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "The Refugee Abode: A Special Walk on 1857",
     "description": "Built in the mid-16th century by Akbar and commissioned by Haji Begum in memory of her husband, the Mughal emperor Humayun, Humayun\u2019s Tomb predates the Taj Mahal by almost 60 years. Its Persian and Mughal architectural influences made it one of the earliest and finest examples of the Mughal garden tomb tradition.This special walk focuses on 1857, a defining year in Delhi\u2019s history. On 20 September 1857, Delhi fell to the British, marking the end of Mughal rule. Humayun\u2019s Tomb became the setting for some of the final episodes of the Mughal Empire, including Bahadur Shah Zafar\u2019s capture.Join heritage raconteur Shah Umair as we trace the events of 1857 at the tomb complex, from the siege and fall of Delhi to the fate of the Mughal family and the monument\u2019s later history as a major refugee camp during the 1947 Partition.",
     "startDate": "2026-09-19T17:00:00+05:30",
@@ -411,45 +258,6 @@
     },
     "url": "https://urbanaut.app/spot/why-do-good-people-commit-crime",
     "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Mandala Art and Nature Walk",
-    "description": "A 2-hour nature experience where children step away from screens and into the outdoors.Through a guided nature walk they will explore their surroundings, learn about the flora and fauna around them and discover the little details they often miss.The second half of the experience brings nature and creativity together as children collect fallen leaves, flowers, twigs and other natural materials to create their own personalized mandalas.What will they experience?Nature Walk \u2013 Explore the surroundings and learn about local flora and fauna.Nature Discovery \u2013 Observe, notice and connect with the little things around them.Collect from Nature \u2013 Gather fallen leaves, flowers, twigs and other natural materials.Mandala Art \u2013 Use their collected treasures to create beautiful, nature-inspired mandalas.Screen-Free Time \u2013 Two hours to explore, create and be curious without screens.",
-    "startDate": "2026-09-19T17:00:00+05:30",
-    "endDate": "2026-09-19T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59368140000000000000",
-        "longitude": "77.22183380000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Reset with Nature",
-      "url": "https://urbanaut.app/partner/reset-with-nature"
-    },
-    "url": "https://urbanaut.app/spot/mandala-art-and-nature-walk",
-    "keywords": [
-      "Workshop",
-      "Eco Friendly",
-      "Walking Tour",
-      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -1004,7 +812,7 @@
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
-      "price": "650.00",
+      "price": "550.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -1797,6 +1605,81 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Kinusaiga Workshop",
+    "description": "Discover the art of Kinusaiga \u2014 a beautiful Japanese fabric-tucking technique where fabric, texture and creativity come together without stitching. \ud83c\udf38Join Trivenya Art Studio for an immersive Kinusaiga Art Workshop (Japanese Fabric Tucking Masterclass) and create your own beautiful 8\u00d78\" fabric artwork inspired by traditional Japanese aesthetics.\u2728 What you\u2019ll experience:\u2022 Learn the basics and techniques of Kinusaiga\u2022 Create your own 8\u00d78\" artwork step-by-step\u2022 All materials provided\u2022 A relaxed, creative caf\u00e9 experience\u2022 Take home your handcrafted artwork\u2022 Enjoy a complimentary beverage while you create \u2615",
+    "startDate": "2026-09-26T11:30:00+05:30",
+    "endDate": "2026-09-26T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Joy Central, Sector 65, Gurugram, Haryana 122101, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40518030000000000000",
+        "longitude": "77.06046340000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "1250.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Trivenya Art Studio",
+      "url": "https://urbanaut.app/partner/trivenya-art-studio"
+    },
+    "url": "https://urbanaut.app/spot/kinusaiga-workshop",
+    "keywords": [
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "One Night Stand",
+    "description": "ONE NIGHT STANDNo Taboo Experience \u00d7 Out of SequenceOne apartment. Three bedrooms. A night of music, art, discovery, and a little bit of chaos.One Night Stand transforms a private apartment in Greater Kailash into an intimate, one-night-only experience where every room has something different waiting for you. Explore immersive brand worlds, discover independent women-led and queer-led labels, get a tarot reading, grab a flash tattoo, shop, drink, dance, and meet people who are just as curious as you are.The night features live performances by Yanshi, Finding, and Indy, bringing together intimate songwriting, indie sounds and an atmosphere designed to feel less like an event and more like you've stumbled into someone's very interesting night.Come for the pop-ups. Stay for the party. Leave with a story.26 September 2026 | Greater Kailash 2, DelhiPop-up: 2 PM \u2013 1 AM | Party: 9 PM \u2013 1 AMIMPORTANT \u2014 PLEASE NOTE \ud83d\udda4Most of One Night Stand is FREE to access!Your daytime access includes all pop-up experiences, brand activations, workshops, Dog Speed Dating and other activities happening throughout the day \u2014 no ticket required.The Screening + Night Party are separately ticketed experiences.\ud83c\udf9f Pre-booked party ticket: \u20b9599\ud83d\udeaa At-the-door: \u20b9699Your free access to the venue and daytime experiences does not include the screening or party. If you\u2019d like to stay for the ticketed experiences, simply purchase your ticket online or at the venue, subject to capacity.Come for the pop-ups. Stay for the experiences. And if you\u2019re staying for the night, grab your ticket. \ud83d\udda4Entry is strictly via tickets for the night.Zero tolerance for bad vibes. Violence or inappropriate behaviour = immediate removal. No second chances.Look out for each other. If you\u2019re in distress, DM us \u2014 we\u2019ve got you.Respect the artists. No track or photo requests to DJs/performers, and please maintain a safe distance from the performers. This is an intimate setup, so give them their space.Phones down, people up. We want you to actually meet, talk, flirt, dance and have a social night. Keep your phones in your bags or pockets \u2014 we\u2019ll take the bomb pictures for you. \ud83d\udcf8Let\u2019s keep it intentional, safe and locked in.",
+    "startDate": "2026-09-26T13:00:00+05:30",
+    "endDate": "2026-09-26T23:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "E-574, Inder Mohan Bhardwaj Marg, near ICICI Bank, Block E, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53998170000000000000",
+        "longitude": "77.24032340000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "No Taboo Experience",
+      "url": "https://urbanaut.app/partner/no-taboo-experience"
+    },
+    "url": "https://urbanaut.app/spot/one-night-stand",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Pop-up Event",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "SROT x Rosei Ghara | Chef's Table",
     "description": "SROT x Rosei Ghara \u2014 A Chef\u2019s TableFor two days this September, SROT joins Rosei Ghara for an intimate Chef\u2019s Table exploring the flavours of Odisha through a fresh, contemporary perspective.Led by Chef Nitesh Kumar Sinha and Chef Amit Kumar, SROT is rooted in rediscovering India\u2019s lesser-known regional cuisines and presenting them through a refined, modern expression. Together with Rosei Ghara, the chefs have created a 7-course tasting menu inspired by Odia ingredients, flavours and food traditions - familiar at heart, but reimagined for the table.What makes this edition particularly special is the setting. It will be hosted at Rosei Ghara\u2019s new diner in Shahpurjat, Delhi right alongside the kitchen where it all comes together. With just 10 guests at each service, expect a small, personal table and a menu created specifically for the occasion.26 & 27 SeptemberLunch \u2014 1 PM onwardsDinner \u2014 8 PM onwardsA table built around Odisha, collaboration, and the joy of seeing regional food take on a new form.",
@@ -1943,6 +1826,44 @@
       "Music",
       "Workshop",
       "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Queer Histories: Heritage Walk & Baithak",
+    "description": "Queer Heritage Walk & BaithakA journey through stories, silences, and identities across time.There are histories we inherit\u2014and then there are histories we are made to forget.Join us for a queer heritage walk that begins with an intimate baithak at Jamali Kamali Tomb, where we gather to listen, reflect, and open up conversations around queerness in the past and present.From there, we walk through layered histories\u2014tracing narratives across Indian mythology, medieval accounts in India, colonial-era Victorian paranoia, and into modern expressions through films, laws, and literature. Together, we question and dismantle the persistent myth that queerness is a \u201cWestern import,\u201d uncovering instead its deep, complex, and indigenous roots in the subcontinent.Our journey concludes at the evocative site of Hijron ka Khanqah\u2014the medieval burial ground of eunuchs\u2014where histories of marginality, spirituality, and belonging come together in quiet resonance.\u2728 At Darwesh, heritage is not just about monuments\u2014it is about memory, identity, and the courage to reclaim what has always been ours.Age appropriate for 12 years & above",
+    "startDate": "2026-09-26T17:00:00+05:30",
+    "endDate": "2026-09-26T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "ladha sarai, Jamali Kamali, Mehrauli Archeological Pk Trl, Christian Colony, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.51957120000000000000",
+        "longitude": "77.18714460000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/queerwlk",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -2233,7 +2154,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "549.00",
+      "price": "749.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -2247,6 +2168,44 @@
       "Leisure",
       "Workshop",
       "Food & drink",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Zebunissa- Princess in Prison @ Salimgarh Red Fort",
+    "description": "Hidden within the Red Fort complex, Salimgarh Fort predates the Red Fort by nearly a century. Built around 1546 by *Salim Shah Suri*, son of Sher Shah Suri, this forgotten fort has witnessed some fascinating and turbulent chapters of Delhi\u2019s history.On this walk, we enter Salimgarh through the life of *Zeb-un-Nisa, the eldest daughter of Aurangzeb\u2014a Mughal princess, Sufi, scholar and gifted Persian poet who wrote under the pen name **Makhfi, meaning *\u201cthe Hidden One.\u201d Her poetry, later collected as the Diwan-e-Makhfi, reveals a deeply introspective woman searching for love, freedom and spiritual liberation.But Zeb-un-Nisa\u2019s life was far from sheltered. Accused of involvement in a political conspiracy connected with her brother, she fell out of favour with Aurangzeb and was eventually imprisoned.Through *dramatic readings, monologue-style storytelling and passages from her poetry*, we will bring her voice and story alive against the very backdrop of the fort\u2019s history.We will also explore Salimgarh\u2019s later colonial history, including the barracks where *Indian National Army prisoners were held*\u2014spaces that have since acquired their own haunting legends.*A fort within a fort. A princess who became a prisoner. And the hidden voice of Makhfi.*Join us for an evocative journey into one of the Red Fort complex\u2019s least-known and most intriguing stories.Meeting point: Redfort gate 2 , next to Redfort Parking lot.Ending point: Redfort ",
+    "startDate": "2026-09-27T15:30:00+05:30",
+    "endDate": "2026-09-27T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Netaji Subhash Marg, Old Delhi, Lal Qila, Chandni Chowk, New Delhi, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.65615920000000000000",
+        "longitude": "77.24102030000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "900.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/zebunissa-princess-in-prison-salimgarh-red-fort",
+    "keywords": [
+      "History & heritage",
+      "Guided tour",
       "Art & culture",
       "URBANAUT"
     ]
