@@ -1950,6 +1950,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Gossip | Trivia Game Show by Tasty Trivia",
+    "description": "Gossip: The Trivia Show Where Nothing Stays SecretYou have always been the one who knew. Who told who. Who was seen where. Who said what, to whom, and why it mattered.Gossip is a live trivia game show built entirely around the world's oldest currency: rumour, scandal, drama, and the stories people were not supposed to tell. Celebrity gossip, political scandals, historical intrigue, fictional drama, pop culture's messiest moments, and the kind of story that starts with \"okay, do not tell anyone, but...\"Nothing is off the record. No reputation is safe. No secret stays buried. If it was whispered, leaked, exposed, or none of your business, it is fair game.The Rumour Mill: Format and RoundsDid You Hear? (Warm-up, about 20 minutes)Easy enough to get everyone talking. The kind of round where someone at your table will confidently say the wrong name and never live it down.The Grapevine (Main Rounds, about 60 to 75 minutes)Trivia, audio-visual rounds, identify-the-headline, and moments where you will either feel like the most informed person in the room or realise you have been completely out of the loop. Celebrity drama, political scandals, historical gossip, fictional rivalries, pop culture feuds, leaked moments, and everything in between.Face OffTwo tables. One piece of gossip. One team knows. The other thinks it does.The BidsBet your points. Someone will go all in on something they half remember. That someone might be you.Surprise Round (whenever)A twist nobody saw coming. Do not spread it around.How It WorksTeams of up to 4. Come with your crew, or we will find you one.Flying solo? We will sort you out.No gossip addiction required, just curiosity and a loose definition of \"need to know.\"Prizes for the winners, a good time for everyone else.You have always known more than you let on. Gossip is where you prove it.",
+    "startDate": "2026-09-27T16:00:00+05:30",
+    "endDate": "2026-09-27T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "143 A, Ground Floor, Shahpur Jat, Siri Fort, New Delhi, Delhi 110049, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54782230000000000000",
+        "longitude": "77.21647519999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "399.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Tasty Trivia",
+      "url": "https://urbanaut.app/partner/tasty-trivia"
+    },
+    "url": "https://urbanaut.app/spot/gossip-trivia-game-show-by-tasty-trivia",
+    "keywords": [
+      "Live GIG",
+      "Active",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Trailing Gandhi's Footsteps",
     "description": "Kathika is delighted to host a special Baithak celebrating the occasion of Gandhi Jayanti, bringing together conversation, reflection and a hands-on engagement with one of the most enduring symbols of Mahatma Gandhi\u2019s philosophy \u2014 the Charkha.The Baithak will feature an engaging conversation with Ms. Biba Sobti and Mr. A. Annamalai, Director of the National Gandhi Museum, exploring the relevance of Gandhi\u2019s ideas and legacy in contemporary times. Through an intimate and thoughtful discussion, the session will reflect upon the values that shaped Gandhi\u2019s life and continue to inspire generations \u2014 simplicity, self-reliance, dignity of labour and the power of individual action.The conversation will be followed by a Charkha spinning session, offering participants an opportunity to engage directly with the practice that became a powerful symbol of India\u2019s freedom movement and Gandhi\u2019s vision of Swadeshi and self-sufficiency. Beyond its political significance, the Charkha represented a deeper philosophy \u2014 of patience, mindfulness, self-reliance and a connection with the labour and processes behind everyday life.Through this Baithak, Kathika invites participants to pause and reflect on Gandhi\u2019s enduring legacy, not merely as a chapter in history, but as a set of ideas that continue to hold meaning in our rapidly changing world.The evening will conclude with High Tea, providing an opportunity for participants to continue the conversation in the warm and intimate setting of Kathika.",
@@ -2493,7 +2531,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "350.00",
+      "price": "499.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
