@@ -32,5 +32,90 @@
       "@type": "Organization",
       "name": "The Japan Foundation"
     }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Home Town Edition #4",
+    "url": "https://fillum.in/event/6188",
+    "startDate": "2026-09-27T14:00:00+05:30",
+    "endDate": "2026-09-27T14:00:00+05:30",
+    "description": "This time, we're taking Hometown to Saket Social.Films From Underground presents Hometown Edition #4 \u2014 4 homegrown indie shorts, one afternoon for independent cinema, the filmmakers who put th..more",
+    "location": {
+      "@type": "Place",
+      "name": "Saket Social, DLF Saket",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Films From Underground"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Bhangaar (Obsolete)(2023)",
+    "url": "https://fillum.in/screening/6194",
+    "startDate": "2026-10-01T19:00:00+05:30",
+    "endDate": "2026-10-01T19:00:00+05:30",
+    "description": "Free entry.",
+    "location": {
+      "@type": "Place",
+      "name": "Stein Auditorium India Habitat Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kriti Film Club"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "To Die a Frenchman(2026)",
+    "url": "https://fillum.in/screening/6196",
+    "startDate": "2026-10-04T19:00:00+05:30",
+    "endDate": "2026-10-04T19:00:00+05:30",
+    "description": "Free entry.",
+    "location": {
+      "@type": "Place",
+      "name": "India Habitat Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kriti Film Club"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "EcoReels Selections and Conversation with Pradip Krishnen",
+    "url": "https://fillum.in/event/6197",
+    "startDate": "2026-10-05T19:00:00+05:30",
+    "endDate": "2026-10-05T19:00:00+05:30",
+    "description": "Free entry.THE BECOMING OF A WILDSCAPE(18:09 mins | English, Tamil, Kannada w. English subs | 2026 | Docu)Dir. Tanmayi Gidh (Untold Earth) |Prod. Zerodha Broking Pvt Ltd. and Teepoi Prod..more",
+    "location": {
+      "@type": "Place",
+      "name": "India Habitat Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kriti Film Club"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Nico(2022)",
+    "url": "https://fillum.in/screening/6193",
+    "startDate": "2026-10-06T19:00:00+05:30",
+    "endDate": "2026-10-06T19:00:00+05:30",
+    "description": "Free entry. Post-screening discussion with Vani Subramanian.",
+    "location": {
+      "@type": "Place",
+      "name": "Siddhartha Hall, Goethe-Institut",
+      "address": "Lodhi Road, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Goethe-Institut New Delhi"
+    }
   }
 ]
