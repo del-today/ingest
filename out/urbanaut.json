@@ -114,44 +114,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Featherheads Haokui: Live In New Delhi",
-    "description": "Featherheads Haokui: Live In New Delhi Ft. Jack Of Spade'zFeatherheads Haokui is a folk-rock outfit from Ukhrul, Manipur, whose music is steeped in the oral traditions, folklore, and identity of the Tangkhul Naga community. Founded and fronted by Augustine L. Shimray, the band formally reformed in 2016, though its origins trace back to 2012. Featherheads Haokui fuses traditional Tangkhul folk melodies, chants, instruments (including hao l\u0101\u0101 folk tunes and tingteila, a traditional stringed instrument) with folk-rock, electro-folk, and alternative guitar arrangements. Their songs often address themes of: Identity and cultural heritage; reconnecting with ancestral ways, and contemporary social issues: youth and generational detachment, technology, addiction, and the pull of modern culture.  Visually and in performance, the band places strong emphasis on cultural aesthetics \u2014 from costumes, tattoos, hairstyles, to filming locations in Tangkhul villages, rugged landscapes seldom seen in mainstream media.  Jack Of Spade'z is a Rock \u2018n\u2019 Roll trio hailing from Manipur and New Delhi \u2014 Alem Mahukva (vocals/Guitar), Ngatik Asara (Bass), and Adhyan Emerson (Drums) brings high-energy riffs, a fearless attitude, and a sound that hits hard and stays real.",
-    "startDate": "2026-09-20T21:00:00+05:30",
-    "endDate": "2026-09-20T23:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53415570000000000000",
-        "longitude": "77.24300939999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Depot48",
-      "url": "https://urbanaut.app/partner/depot48"
-    },
-    "url": "https://urbanaut.app/spot/featherheads-haokui",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "The Strategy Table: Taiwanese Mahjong",
     "description": "\u2728 LATITUDE CAFE \u00d7 GOODEARTH \u00d7 THE MAHJONG NETWORK \u2728The Strategy Table: Taiwanese Mahjong\ud83d\udcc5 22nd September\u23f0 2:00 PM \u2013 5:30 PM\ud83d\udccd Latitude Cafe\ud83d\udcb0 \u20b93,200 per personAn afternoon designed for players who already know the game and want to play it better.Please note: This is not a beginner class. Participants must already know how to play Taiwanese Mahjong.Led by certified teacher and tournament specialist Astha Narvekar from Bombay, The Strategy Table goes beyond basic gameplay to focus on the details that make the biggest difference at the table \u2014 sharper scoring, smarter decisions, and more confident strategy.The session will include:\ud83c\udc04 Official LRC scoring \u2014 understanding how to correctly calculate and account for points\ud83c\udc04 Scoring drills using real hands\ud83c\udc04 Strategy for special hands \u2014 when to commit, when to pivot, and how to read the table\ud83c\udc04 Calling strategy and risk vs reward\ud83c\udc04 Reading discards and recognising what other players may be building\ud83c\udc04 Common scoring mistakes and how to avoid them\ud83c\udc04 Live practice rounds with Astha guiding each tableEvery guest will also take home a specially curated Good Earth gift, extending the experience beyond the table.The session is intentionally intimate and hands-on, giving every player time for individual attention, questions, and live gameplay guidance.Hosted by The Mahjong Network, this is an afternoon to sharpen your strategy, master your scoring, and take your Taiwanese Mahjong game to the next level.20 seats only.Reserve your place at the table.",
@@ -886,6 +848,114 @@
       "Leisure",
       "Pop-up Event",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "UNSENT: A 2040 Safety Hackathon",
+    "description": "What if, in 2040, nobody had to say, \u201cText me when you get home\u201d?UNSENT is a speculative safety experience that asks participants to imagine a future where the conditions that make this sentence necessary have disappeared. Rather than designing better ways to check in, participants work backwards from this imagined 2040 to uncover what had to change in our streets, public spaces, mobility systems, technology, policies, social norms and cultures of care.Through lived experiences, speculative scenarios, collective mapping and system-building, participants explore where safety currently breaks down, how people compensate for it, and who or what they depend on to feel safe. They then build competing visions of 2040, testing each against questions of freedom, risk, access and control.The ideas generated are captured in the 2040 Safety Atlas: a collective map of safety gaps, dependencies, interventions, stakeholders and trade-offs.At its heart, UNSENT asks a simple but provocative question:What would have to change today to build a world where nobody needs to text when they get home?",
+    "startDate": "2026-09-26T13:30:00+05:30",
+    "endDate": "2026-09-26T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Noida, Uttar Pradesh, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53551610000000000000",
+        "longitude": "77.39102650000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Text When You Get Home",
+      "url": "https://urbanaut.app/partner/text-when-you-get-home"
+    },
+    "url": "https://urbanaut.app/spot/unsentnoida",
+    "keywords": [
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "UNSENT: A 2040 Safety Hackathon",
+    "description": "What if, in 2040, nobody had to say, \u201cText me when you get home\u201d?UNSENT is a speculative safety experience that asks participants to imagine a future where the conditions that make this sentence necessary have disappeared. Rather than designing better ways to check in, participants work backwards from this imagined 2040 to uncover what had to change in our streets, public spaces, mobility systems, technology, policies, social norms and cultures of care.Through lived experiences, speculative scenarios, collective mapping and system-building, participants explore where safety currently breaks down, how people compensate for it, and who or what they depend on to feel safe. They then build competing visions of 2040, testing each against questions of freedom, risk, access and control.The ideas generated are captured in the 2040 Safety Atlas: a collective map of safety gaps, dependencies, interventions, stakeholders and trade-offs.At its heart, UNSENT asks a simple but provocative question:What would have to change today to build a world where nobody needs to text when they get home?",
+    "startDate": "2026-09-26T13:30:00+05:30",
+    "endDate": "2026-09-26T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gurugram, Haryana, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.45949650000000000000",
+        "longitude": "77.02663830000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Text When You Get Home",
+      "url": "https://urbanaut.app/partner/text-when-you-get-home"
+    },
+    "url": "https://urbanaut.app/spot/unsentgurgaon",
+    "keywords": [
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "UNSENT: A 2040 Safety Hackathon",
+    "description": "What if, in 2040, nobody had to say, \u201cText me when you get home\u201d?UNSENT is a speculative safety experience that asks participants to imagine a future where the conditions that make this sentence necessary have disappeared. Rather than designing better ways to check in, participants work backwards from this imagined 2040 to uncover what had to change in our streets, public spaces, mobility systems, technology, policies, social norms and cultures of care.Through lived experiences, speculative scenarios, collective mapping and system-building, participants explore where safety currently breaks down, how people compensate for it, and who or what they depend on to feel safe. They then build competing visions of 2040, testing each against questions of freedom, risk, access and control.The ideas generated are captured in the 2040 Safety Atlas: a collective map of safety gaps, dependencies, interventions, stakeholders and trade-offs.At its heart, UNSENT asks a simple but provocative question:What would have to change today to build a world where nobody needs to text when they get home?",
+    "startDate": "2026-09-26T13:30:00+05:30",
+    "endDate": "2026-09-26T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.70405920000000000000",
+        "longitude": "77.10249019999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Text When You Get Home",
+      "url": "https://urbanaut.app/partner/text-when-you-get-home"
+    },
+    "url": "https://urbanaut.app/spot/unsentdelhi",
+    "keywords": [
+      "Workshop",
       "URBANAUT"
     ]
   },
@@ -1795,6 +1865,41 @@
     "url": "https://urbanaut.app/spot/cyanotype-workshop-15572",
     "keywords": [
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "When AI Starts Inventing",
+    "description": "When AI Starts Inventing: How AI Is Cracking Problems That Have Resisted Us for Decades, and How to Bring It from Big Tech's Labs to Your LaptopIn September 2026, OpenAI announced that a team of AI agents had produced a proof, machine-verified in Lean, for a problem about how fluids move that has stood open for ninety years and carries a million-dollar prize. Before that, an AI agent found a faster way to multiply matrices, the operation that sits underneath almost all modern computing, beating a record set in 1969. It is starting to feel routine: every few weeks, another problem that resisted people for decades quietly falls to an AI agent.How does this actually happen? That is what we will look at first, because the mechanism turns out to be stranger and simpler than most people expect.Then a harder question. Every time the agent is asked to produce something, someone pays, and the more capable the AI, the higher the bill. A single discovery run makes thousands of such calls, which is why almost all of this work happens inside a handful of enormously wealthy labs. In our lab we are trying to change that, and doing so means asking questions nobody bothers to ask when the budget is unlimited. Does every step really need the most expensive AI model, or would a cheaper one do just as well? Is every attempt the agent makes actually worth making? Our investigation of these discovery pipelines, across several notoriously hard problems, reveals that around 98% of the AI agent's calls contribute nothing to the eventual solution. And they still succeed. Which leaves a genuinely open question: is that waste the price of discovery, or simply a bill nobody has bothered to reduce?About the SpeakerProf. Sayan Ranu is the DS Chair Professor in AI at IIT Delhi, jointly appointed in the Department of Computer Science and Engineering and the Yardi School of AI. His research focuses on machine learning for structured data, particularly graphs, and increasingly on AI systems that can reason, plan and discover solutions on their own. His work spans automated algorithm discovery, AI agents, self-supervised learning and trustworthy AI. His research has been published at leading AI and machine learning conferences including NeurIPS, ICML, ICLR and KDD. He was also a recipient of the Teaching Excellence Award at IIT Delhi and currently serves as a Senior Area Chair for NeurIPS 2026 and Program Co-Chair for the Datasets & Benchmarks Track at KDD 2027.Book now & develop your own pint of view! \ud83c\udf7b",
+    "startDate": "2026-10-03T15:00:00+05:30",
+    "endDate": "2026-10-03T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Eldeco Centre, Hauz Rani, Malviya Nagar, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52840100000000000000",
+        "longitude": "77.20589749999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "999.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Pint of View Delhi NCR",
+      "url": "https://urbanaut.app/partner/pint-of-view-delhi-ncr"
+    },
+    "url": "https://urbanaut.app/spot/when-ai-starts-inventing",
+    "keywords": [
       "URBANAUT"
     ]
   },
