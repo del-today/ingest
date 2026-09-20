@@ -2,157 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Chatti Choru @ Cocobay",
-    "description": "Missed the Sadhya, you still got the *Chatti Choru* to try and this time it comes with a Non Vegetarian add on.\u00a0All Sept at Cocobay at Flxho Horizon One, 574 Sector 43 Golf Course Road",
-    "startDate": "2026-09-19T12:00:00+05:30",
-    "endDate": "2026-09-27T15:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Metro Station, 574, 43, off Golf Course Road, Sector 43, Gurugram, Haryana 122009, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.45706690000000000000",
-        "longitude": "77.09607650000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "730.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Cocobay - South Indian Cafe",
-      "url": "https://urbanaut.app/partner/cocobay-south-indian-cafe"
-    },
-    "url": "https://urbanaut.app/spot/chattichorucocobay",
-    "keywords": [
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Sanjay Van: Forgotten Ruins & Forest Picnic",
-    "description": "Sunrise Hiking ExperienceThis early morning hiking experience takes you through forest trails, historic ruins, and scenic viewpoints for a refreshing start to the day. Designed to be beginner friendly, it combines nature, light adventure, storytelling, and meaningful group moments, making it ideal for solo travellers, couples, friends, and small groups.Along the way, discover interesting stories and hidden history, take part in fun group activities, and pause for a peaceful forest bathing experience. The morning comes together with a relaxed picnic breakfast at a scenic spot, bringing exploration, history, nature, and connection into one refreshing outdoor experience.Experience Flow1. Arrival and Meet Up at 5:15 AMAssemble at the meeting point by 5:15 AM for check in and a quick introduction. The experience begins at 5:30 AM sharp, so arriving on time allows you to settle in comfortably before the hike begins.2. Briefing and Warm UpMeet the hike leaders and attend a short safety briefing before getting started. Ease into the morning with a light ice breaker and a few interesting stories about the trail and its surroundings.3. Sunrise Hike Through Forests and RuinsSet out on a guided walk through forest trails, lesser known paths, old ruins, and scenic viewpoints. Enjoy the fresh morning air while discovering the quieter side of the landscape as the sun rises.4. Stories, Games and Forest PauseTake breaks along the way to hear local legends and stories of hidden history. Enjoy fun group activities before slowing down for a calm forest bathing moment and taking in the surrounding nature.5. Picnic Breakfast and Wrap Up at 8:30 AMEnd the morning at a scenic spot with a relaxed picnic breakfast. After some time to unwind and enjoy the surroundings, make your way back with the group. ",
-    "startDate": "2026-09-20T05:30:00+05:30",
-    "endDate": "2026-09-20T09:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "G5PJ+PMP Sanjay Van, New Mehrauli Road, Block B, Qutab Institutional Area, New Delhi, Delhi 110016, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53698790000000000000",
-        "longitude": "77.18188470000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1427.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Trail It Hiking and Outdoors",
-      "url": "https://urbanaut.app/partner/trail-it-hiking-and-outdoors"
-    },
-    "url": "https://urbanaut.app/spot/sanjayvanexperience",
-    "keywords": [
-      "Adventure",
-      "Premium",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "B(RUN)ch Like A Girl",
-    "description": "SWAG Gurgaon Runs are back, and this is a special one, because we are going for breakfast at Aku's!Plan is simple, we meet at\u00a0Leisure Valley Park, start with some warm up, do a beginner friendly 3.5 KM run, and end at Aku's, HQ27 for the afterparty! We also have a beginner Skateboarding experience! Your ticket includes the warm-up & run, coffee at Aku's, a cover charge of INR 275/- for breakfast. We have also planned some surprises after the run! This can be perfect catch-up date for you and your bestie or just the place to meet new friends if you are coming solo! See you Sunday!The Community:At Sweat Like A Girl, we curate women-first sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
-    "startDate": "2026-09-20T07:30:00+05:30",
-    "endDate": "2026-09-20T10:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Showroom No 10, HQ27 - The Headquarters, B - 660, Sushant Lok Phase I, Sector 27, Gurugram, Haryana 122009, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46631820000000000000",
-        "longitude": "77.07397499999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "399.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/brunch-like-a-girl",
-    "keywords": [
-      "Wellness",
-      "Workshop",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Begum & her Hookah heritage walk : Chandni Chowk",
-    "description": "Join us as we excavate the little known stories of the women who through the changing and often challenging times have continued to enrich the city\u2019s historical and cultural landscape. We will meander through streets around the Chandni Chowk area, sharing stories of Begums, shadows Empresses, Nautch girls, Milk mothers, Havelis and Harems.In this walk we walk the by-lanes of Shahjahanabad looking for stories of the bygone era, making the women who shaped the city and its history our focus.Milestones of our journey will be:1.\tDigambar Jain Temple (Lal Mandir), Sunehri Masjid, Gauri Shankar temple, Sis Ganj Gurudwara2.\tBegum Samru Ki haveli3.\tDariba Kalan (Silver Street): The Street of the Incomparable Pearl4.\tKinari Bazaar(Wedding street)5.\tNaughara (Nine Jain houses)6.\tParanthe wali Gali7.\tTownhall building8.\tLala Chunnamal ki Haveli9.\tFatehpuri Masjid : (Built in 1650s by emperor Shahjahan\u2019s wife Fatehpuri Begum)10.\tKhari Baoli (the biggest spice market in Asia)This walk is being curated & conducted by Darwesh heritage walks in collaboration with Sabhyata Foundation",
-    "startDate": "2026-09-20T08:30:00+05:30",
-    "endDate": "2026-09-20T10:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Chandni Chowk, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.65053310000000000000",
-        "longitude": "77.23033699999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "800.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "DARWESH_TALEWEAVERS",
-      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
-    },
-    "url": "https://urbanaut.app/spot/begumh",
-    "keywords": [
-      "History & heritage",
-      "Guided tour",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
     "name": "Artisanal Sourdough Bread Workshop",
     "description": "Learn how to bake an artisan loaf - real bread made the old-fashioned way, with just flour, water, and salt! No prior baking or cooking experience required. This is a hands-on class for those seriously interested in the sourdough baking process. Under Anita's guidance, each participant will work independently to make their loaf from start to finish. At the end of class you will go home with the confidence to start baking sourdough bread in your home kitchen. The class also includes a session on Sourdough Focaccia.250+ workshops and counting! Anita is a practicing Landscape Architect who enjoys cooking with seasonal ingredients. Like-minded people join her in the kitchen on weekends to cook and eat. She has been baking sourdough breads at home for over 15 years using local flours and her lively wild yeast starter. Come for the Bread, stay for the food.Two slots:Sun, Sept 20: 10:00am-4:30pm Full Day (mix, shape, bake in-class)Sun, Sept 6: 10:00-11:30am (Short Format, mix dough in class, bake at home) Recommended for those who have been baking on their on but want to improve their loaves (bring a baked loaf to class for discussion), or would like a refresher, or feel pressed for time.Sourdough bread baking requires practice. The workshops are for those seriously seeking to learn the art and craft of baking sourdough breads, not for casual experience seekers.",
     "startDate": "2026-09-20T10:00:00+05:30",
@@ -261,6 +110,43 @@
     "keywords": [
       "Wellness",
       "Workshop",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Chatti Choru @ Cocobay",
+    "description": "Missed the Sadhya, you still got the *Chatti Choru* to try and this time it comes with a Non Vegetarian add on.\u00a0All Sept at Cocobay at Flxho Horizon One, 574 Sector 43 Golf Course Road",
+    "startDate": "2026-09-20T12:00:00+05:30",
+    "endDate": "2026-09-27T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Metro Station, 574, 43, off Golf Course Road, Sector 43, Gurugram, Haryana 122009, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.45706690000000000000",
+        "longitude": "77.09607650000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "730.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Cocobay - South Indian Cafe",
+      "url": "https://urbanaut.app/partner/cocobay-south-indian-cafe"
+    },
+    "url": "https://urbanaut.app/spot/chattichorucocobay",
+    "keywords": [
+      "Pop-up Event",
       "Food & drink",
       "URBANAUT"
     ]
