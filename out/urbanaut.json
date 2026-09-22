@@ -76,43 +76,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Grounds for Thought: Janpath",
-    "description": "Grounds for Thought: Janpath, September 2026A Blue Tokai \u00d7 unLecture Series, Three Tuesday evenings. Three very different conversations.Grounds for Thought is a monthly series where Blue Tokai and unLecture bring researchers, scientists, and thinkers out of their institutions and into a coffee shop. The format is simple: an expert, a room full of curious people, and a conversation that goes somewhere a classroom rarely does. This September, the series spreads further than ever \u2014 four venues across Delhi and Bangalore, and a spread of ideas running from gender and work to princely politics, from children's books to comic-book uncles.17th September: Prateek MundejaWhy Do Good Ideas Fail in Government?Governance is usually discussed in ideals \u2014 promises, ambition, the world as it ought to be. Prateek Mundeja, Assistant Professor of Political Science and Mookerjee Fellow (2025\u201326), argues that the more useful question is a duller one: what actually works? This session takes a realist's tour through limited resources, institutional capacity, and the gap between stated intentions and delivered outcomes \u2014 and makes the case that ideals only survive contact with the world when backed by hard, unglamorous choices.22nd September: Aarushee ShuklaThe Pause, The Buzzword, and The CollectiveIn a meeting room in Bihar and Kerala, Aarushee Shukla asked women what their collective meant to them, and got a long, deliberate silence back. That silence, she found, wasn't an absence of an answer \u2014 it was its own kind of answer, one we're rarely taught to read. This session recreates that pause live, then turns to the vocabulary \u2014 \"empowerment,\" \"participation,\" \"social capital\" \u2014 that runs through women's lives on paper, asking who gets to write those words and who is simply left to live inside them.29th September: Amitrajeet MukherjeeVoices from War: Revisiting John Keegan's The Face of BattleJohn Keegan's landmark book opened with a deceptively simple question \u2014 what is it actually like to be in a battle? Fifty years on, his witnesses remain almost entirely European, despite spanning centuries of warfare. Amitrajeet Mukherjee, a doctoral candidate in English Literature at Delhi University, widens that frame to the two and a half million Indians who served in the Second World War \u2014 diarists, letter-writers, the censored and the unrecorded \u2014 and asks whose voices get to define what \"war writing\" is for.",
-    "startDate": "2026-09-22T18:30:00+05:30",
-    "endDate": "2026-09-29T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "No 48, Mezzanine & Ground Floor, Atul Grove Road, Janpath, Connaught Place, New Delhi, Delhi 110001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.62697200000000000000",
-        "longitude": "77.21977799999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "550.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/grounds-for-thought-janpath-sept",
-    "keywords": [
-      "Workshop",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "The Festival of Tiles - DELHI Tournament!",
     "description": "\ud83c\udf8a\u2728 FESTIVAL OF TILES \u2728\ud83c\udf8a\ud83c\udc04\ufe0f A Mahjong Tournament for Passport and Goulash in Delhi \ud83c\udc04\ufe0f Join The Mahjong Network x Mahjong Studio x DLF Promenade for a tournament designed to be competitive and exciting, yet easy-going and fun.Expect good games, great company, plenty of food, and many exciting prizes.\ud83d\uddd3\ufe0f 23rd September, Wednesday\ud83d\udd5a 11AM\u2013 3PM\ud83d\udccd Caf\u00e9 Delhi Heights , DLF Promenade, Vasant Kunj\ud83c\udf9f\ufe0f \u20b93,000++ per player\ud83c\udfc6 PRIZES\u2728 Table Winners\u2728 Top 5 Players of the Day\u2728 Some Festive surprisesNote: Players must know how to play and score independently. Detailed rules of gameplay and scoring will be shared with each player in advance to ensure consistency and clarity. \ud83d\ude0aWhether you\u2019re coming to compete for the top spot or simply for a really good time around the mahjong table, this one is for you! Limited tables available. Registrations now open.",
@@ -555,7 +518,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "YUNGSTA - BRAGGING RIGHTS Listening Session",
-    "description": "Yungsta's new album Bragging Rights is coming out. And you can brag about being one of the first few  to listen to it with him! We\u2019re throwing an intimate, early listening party, and Yungsta will be in the room hanging out with everyone as the whole project plays end-to-end.What to Expect:Exclusive First Listen: Hear the new album before it hits streaming platforms.Yungsta Live & In-Person: He\u2019ll be breaking down the tracks, sharing stories behind the beats, and chatting about how the whole project came together.Good Vibes & Community: Hang out, grab a drink, meet fellow music fans, and kick it with one of the finest in Indian hip-hop.Capacity is super tight to keep the energy cozy and personal, so snag your ticket early.",
+    "description": "Yungsta's new album Bragging Rights is coming out.And you can brag about being one of the first few to listen to it with him! We\u2019re throwing an intimate, early listening party, and Yungsta will be in the room hanging out with everyone as the whole project plays end-to-end.What to Expect:Exclusive First Listen with The man himself! Yungsta Live & In-Person: He\u2019ll be breaking down the tracks, sharing stories behind the beats, and chatting about how the whole project came together.Good Vibes & Community: Hang out, grab a drink, meet fellow music fans, and kick it with one of the finest in Indian hip-hop.Capacity is super tight to keep the energy cozy and personal, so snag your ticket early.",
     "startDate": "2026-09-25T20:00:00+05:30",
     "endDate": "2026-09-25T23:00:00+05:30",
     "location": {
@@ -1711,6 +1674,43 @@
     "keywords": [
       "Live GIG",
       "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Grounds for Thought: Janpath",
+    "description": "Grounds for Thought: Janpath, September 2026A Blue Tokai \u00d7 unLecture Series, Three Tuesday evenings. Three very different conversations.Grounds for Thought is a monthly series where Blue Tokai and unLecture bring researchers, scientists, and thinkers out of their institutions and into a coffee shop. The format is simple: an expert, a room full of curious people, and a conversation that goes somewhere a classroom rarely does. This September, the series spreads further than ever \u2014 four venues across Delhi and Bangalore, and a spread of ideas running from gender and work to princely politics, from children's books to comic-book uncles.17th September: Prateek MundejaWhy Do Good Ideas Fail in Government?Governance is usually discussed in ideals \u2014 promises, ambition, the world as it ought to be. Prateek Mundeja, Assistant Professor of Political Science and Mookerjee Fellow (2025\u201326), argues that the more useful question is a duller one: what actually works? This session takes a realist's tour through limited resources, institutional capacity, and the gap between stated intentions and delivered outcomes \u2014 and makes the case that ideals only survive contact with the world when backed by hard, unglamorous choices.29th September: Amitrajeet MukherjeeVoices from War: Revisiting John Keegan's The Face of BattleJohn Keegan's landmark book opened with a deceptively simple question \u2014 what is it actually like to be in a battle? Fifty years on, his witnesses remain almost entirely European, despite spanning centuries of warfare. Amitrajeet Mukherjee, a doctoral candidate in English Literature at Delhi University, widens that frame to the two and a half million Indians who served in the Second World War \u2014 diarists, letter-writers, the censored and the unrecorded \u2014 and asks whose voices get to define what \"war writing\" is for.",
+    "startDate": "2026-09-29T18:30:00+05:30",
+    "endDate": "2026-09-29T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "No 48, Mezzanine & Ground Floor, Atul Grove Road, Janpath, Connaught Place, New Delhi, Delhi 110001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.62697200000000000000",
+        "longitude": "77.21977799999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "550.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/grounds-for-thought-janpath-sept",
+    "keywords": [
+      "Workshop",
       "Food & drink",
       "URBANAUT"
     ]
