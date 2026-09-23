@@ -76,44 +76,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Gaurav ft. Pranay Verma and Parijat Kirti",
-    "description": "Gaurav is a singer-songwriter whose music is rooted in storytelling, emotion, and a deep sense of musical expression. Whether through his originals, reimagined pop songs, or the Hindi and Bollywood music he grew up with, he approaches every song with the same intention: to make it feel honest, intimate, and alive.For this special set at Depot 48, Gaurav brings his original music to life alongside Pranay and Parijat in a stripped-back trio setting of two guitars and one voice. The arrangements are built around the character of each song, leaving space for lyrical storytelling, intricate guitar interplay, and the quiet moments that make a song breathe.Alongside his originals, the trio will also weave in their own arrangements of favourite pop and Hindi/Bollywood songs, creating an evening that moves freely between familiar melodies and new stories.",
-    "startDate": "2026-09-23T21:00:00+05:30",
-    "endDate": "2026-09-23T23:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53415570000000000000",
-        "longitude": "77.24300939999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Depot48",
-      "url": "https://urbanaut.app/partner/depot48"
-    },
-    "url": "https://urbanaut.app/spot/gaurav-ft-pranay-verma-and-parijat-kirti",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "VDHM Training Run - Week 2 / Speed Run 2",
     "description": "Hi If you are participating in the Vedanta Marathon, this will be the first training session with SWAG. We will be doing a speed run session tomorrow. Speed runs basically mean that you run at a very fast pace for a particular distance, depending on your level of training so 500 m, 800m, 1 km. After each running lap,  you take a 1 min breather, and then you run again. Kashika and I will be leading the run tomorrow, and we\u2019ll also walk everyone through the training plan and what the weeks ahead will look like. Please be on time, and sign up only if you\u2019re ready to show up consistently and take your training seriously. :)",
