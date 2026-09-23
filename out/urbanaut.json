@@ -2,9 +2,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "The Festival of Tiles - DELHI Tournament!",
+    "description": "\ud83c\udf8a\u2728 FESTIVAL OF TILES \u2728\ud83c\udf8a\ud83c\udc04\ufe0f A Mahjong Tournament for Passport and Goulash in Delhi \ud83c\udc04\ufe0f Join The Mahjong Network x Mahjong Studio x DLF Promenade for a tournament designed to be competitive and exciting, yet easy-going and fun.Expect good games, great company, plenty of food, and many exciting prizes.\ud83d\uddd3\ufe0f 23rd September, Wednesday\ud83d\udd5a 11AM\u2013 3PM\ud83d\udccd Caf\u00e9 Delhi Heights , DLF Promenade, Vasant Kunj\ud83c\udf9f\ufe0f \u20b93,000++ per player\ud83c\udfc6 PRIZES\u2728 Table Winners\u2728 Top 5 Players of the Day\u2728 Some Festive surprisesNote: Players must know how to play and score independently. Detailed rules of gameplay and scoring will be shared with each player in advance to ensure consistency and clarity. \ud83d\ude0aWhether you\u2019re coming to compete for the top spot or simply for a really good time around the mahjong table, this one is for you! Limited tables available. Registrations now open.",
+    "startDate": "2026-09-23T11:00:00+05:30",
+    "endDate": "2026-09-23T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shop No 302 - 304, 2nd Floor, DLF Promenade Mall, Vasant Kunj II, Vasant Kunj, New Delhi, Delhi 110070, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54194130000000000000",
+        "longitude": "77.15563379999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Mahjong Network",
+      "url": "https://urbanaut.app/partner/the-mahjong-network"
+    },
+    "url": "https://urbanaut.app/spot/the-festival-of-tiles-delhi-tournament",
+    "keywords": [
+      "Leisure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Kathika Cultural Experience",
     "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
-    "startDate": "2026-09-22T11:30:00+05:30",
+    "startDate": "2026-09-23T11:30:00+05:30",
     "endDate": "2026-09-30T14:00:00+05:30",
     "location": {
       "@type": "Place",
@@ -42,7 +78,7 @@
     "@type": "FoodEvent",
     "name": "Chatti Choru @ Cocobay",
     "description": "Missed the Sadhya, you still got the *Chatti Choru* to try and this time it comes with a Non Vegetarian add on.\u00a0All Sept at Cocobay at Flxho Horizon One, 574 Sector 43 Golf Course Road",
-    "startDate": "2026-09-22T12:00:00+05:30",
+    "startDate": "2026-09-23T12:00:00+05:30",
     "endDate": "2026-09-27T15:00:00+05:30",
     "location": {
       "@type": "Place",
@@ -71,42 +107,6 @@
     "keywords": [
       "Pop-up Event",
       "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Festival of Tiles - DELHI Tournament!",
-    "description": "\ud83c\udf8a\u2728 FESTIVAL OF TILES \u2728\ud83c\udf8a\ud83c\udc04\ufe0f A Mahjong Tournament for Passport and Goulash in Delhi \ud83c\udc04\ufe0f Join The Mahjong Network x Mahjong Studio x DLF Promenade for a tournament designed to be competitive and exciting, yet easy-going and fun.Expect good games, great company, plenty of food, and many exciting prizes.\ud83d\uddd3\ufe0f 23rd September, Wednesday\ud83d\udd5a 11AM\u2013 3PM\ud83d\udccd Caf\u00e9 Delhi Heights , DLF Promenade, Vasant Kunj\ud83c\udf9f\ufe0f \u20b93,000++ per player\ud83c\udfc6 PRIZES\u2728 Table Winners\u2728 Top 5 Players of the Day\u2728 Some Festive surprisesNote: Players must know how to play and score independently. Detailed rules of gameplay and scoring will be shared with each player in advance to ensure consistency and clarity. \ud83d\ude0aWhether you\u2019re coming to compete for the top spot or simply for a really good time around the mahjong table, this one is for you! Limited tables available. Registrations now open.",
-    "startDate": "2026-09-23T11:00:00+05:30",
-    "endDate": "2026-09-23T15:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Shop No 302 - 304, 2nd Floor, DLF Promenade Mall, Vasant Kunj II, Vasant Kunj, New Delhi, Delhi 110070, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54194130000000000000",
-        "longitude": "77.15563379999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3000.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Mahjong Network",
-      "url": "https://urbanaut.app/partner/the-mahjong-network"
-    },
-    "url": "https://urbanaut.app/spot/the-festival-of-tiles-delhi-tournament",
-    "keywords": [
-      "Leisure",
       "URBANAUT"
     ]
   },
@@ -299,6 +299,42 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
+    "name": "Bulldozers, Bullets, and the Constitution",
+    "description": "About the LectureFor the last decade or more, the Indian Constitution has played a starring role in the romance of the Indian nation, especially among those who identify as liberals. This lecture sounds a more pessimistic note. It focuses on Article 21, the article that purports to protect life and personal liberty \u2014 and asks what its well-documented inadequacies actually mean.A clear view of these gaps should make us question the idea that the Constitution is a solution to our contemporary troubles. In some respects, it may be part of the problem.The session explores:Why Article 21's protections of life and personal liberty are, in practice, woefully inadequateWhat the gap between constitutional promise and constitutional practice revealsWhy treating the Constitution as sacred might get in the way of confronting its limitsHow \"colonial law\" and the history of civil liberties shaped the Indian constitutional traditionAbout the SpeakerArudra Burra has a background in political philosophy and law. He wandered into Indian constitutional history while working on questions involving the idea of \"colonial law\" and the history of civil liberties in the Indian constitutional tradition \u2014 concerns he is currently exploring in a book project titled Constitutionalism before the Constitution. He is also interested in the connections between Western and Indian philosophical traditions, explored most recently in his paper \"What is 'Indian' about Indian Political Thought?\" He teaches in the Department of Humanities and Social Sciences at IIT Delhi.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-09-24T18:30:00+05:30",
+    "endDate": "2026-09-24T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M-25, First Floor, Greater Kailash-2, M-Block Market, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53348370000000000000",
+        "longitude": "77.24203949999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/bulldozers-bullets-and-the-constitution",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
     "name": "Grounds for Thought: Defence Colony",
     "description": "Grounds for Thought: Defence Colony, September 2026A Blue Tokai \u00d7 unLecture Series, Three Thursday evenings. Three very different conversations.Grounds for Thought is a monthly series where Blue Tokai and unLecture bring researchers, scientists, and thinkers out of their institutions and into a coffee shop. The format is simple: an expert, a room full of curious people, and a conversation that goes somewhere a classroom rarely does. This September, the series spreads further than ever \u2014 four venues across Delhi and Bangalore, and a spread of ideas running from gender and work to princely politics, from children's books to comic-book uncles.3rd September: Dr. Rahul KapoorWomen, Work and Well BeingWomen's participation in paid and unpaid work shapes far more than a household budget, it shapes physical, psychological, economic, and social well-being all at once. But that participation is rarely on equal terms: wage gaps, occupational segregation, invisible care work, and the daily balancing act between job and family all take a toll. Dr. Rahul Kapoor, Assistant Professor of Sociology and Social Work at Gautam Buddha University and author of Women and Work: The Sky is Full of Sexism, asks what a genuinely gender-sensitive approach to employment and social protection would actually look like \u2014 and why economic participation alone was never going to be enough.17th September: Anukriti AgarwalChacha Knows Best: Chacha Chaudhary and the Politics of NostalgiaBefore Indian households had cable or the internet, they had Chacha Chaudhary \u2014 a turbaned uncle whose brain worked faster than a computer, created by Pran Kumar Sharma in 1971. Fifty years on, that same deliberately ordinary uncle now sells toilets, water conservation, and voter turnout on behalf of government ministries. Anukriti Agarwal, a language educator and Fulbright Fellow at Yale, traces how a comic-book uncle went from newsprint to nation-building \u2014 and what it reveals when a state borrows the nostalgia the middle class grew up on.24th September: Dr Shashank SinghPrinces in the Polls: Indian Royals and Inherited Power in a Democratic Age, 1948\u20131967Between the 1950s and 60s, former princely elites didn't disappear from Indian politics \u2014 they reinvented themselves within it. Dr Shashank Singh, Junior Fellow at the Prime Ministers Museum and Library and a historian of Gwalior's princely order, uses electoral data and legislative debate from Rajasthan and Madhya Pradesh to show how monarchical charisma and patronage fused with electoral legitimacy. His argument: India's democratic consolidation didn't dismantle the feudal order so much as absorb and repurpose it.",
     "startDate": "2026-09-24T18:30:00+05:30",
@@ -329,42 +365,6 @@
     "url": "https://urbanaut.app/spot/grounds-for-thought-defence-colony-sept",
     "keywords": [
       "History & heritage",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Bulldozers, Bullets, and the Constitution",
-    "description": "About the LectureFor the last decade or more, the Indian Constitution has played a starring role in the romance of the Indian nation, especially among those who identify as liberals. This lecture sounds a more pessimistic note. It focuses on Article 21, the article that purports to protect life and personal liberty \u2014 and asks what its well-documented inadequacies actually mean.A clear view of these gaps should make us question the idea that the Constitution is a solution to our contemporary troubles. In some respects, it may be part of the problem.The session explores:Why Article 21's protections of life and personal liberty are, in practice, woefully inadequateWhat the gap between constitutional promise and constitutional practice revealsWhy treating the Constitution as sacred might get in the way of confronting its limitsHow \"colonial law\" and the history of civil liberties shaped the Indian constitutional traditionAbout the SpeakerArudra Burra has a background in political philosophy and law. He wandered into Indian constitutional history while working on questions involving the idea of \"colonial law\" and the history of civil liberties in the Indian constitutional tradition \u2014 concerns he is currently exploring in a book project titled Constitutionalism before the Constitution. He is also interested in the connections between Western and Indian philosophical traditions, explored most recently in his paper \"What is 'Indian' about Indian Political Thought?\" He teaches in the Department of Humanities and Social Sciences at IIT Delhi.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
-    "startDate": "2026-09-24T19:00:00+05:30",
-    "endDate": "2026-09-24T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M-25, First Floor, Greater Kailash-2, M-Block Market, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53348370000000000000",
-        "longitude": "77.24203949999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/bulldozers-bullets-and-the-constitution",
-    "keywords": [
       "Food & drink",
       "URBANAUT"
     ]
@@ -2088,6 +2088,42 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Body Language Speaks Louder Than Words",
+    "description": "About the LectureA raised eyebrow. A shift in posture. A half-second pause before an answer. Long before you finish a sentence, your body has usually already told the room the truth.This lecture explores body language as one of the most powerful forms of communication we have. From micro-expressions and eye movements to posture, gestures and the subtle inconsistencies between what someone says and what they do, we'll examine how non-verbal cues reveal emotion, confidence, stress and intention long before words catch up.Drawing on years of training law enforcement, forensic and academic institutions across India \u2014 from the Delhi Police Crime Branch to CISF and the CBI's forensic science laboratory \u2014 and on his recent analysis of world leaders at the BRICS Summit in New Delhi, Gaurav Gill takes the same tools used in interrogation rooms and diplomatic summits and turns them toward everyday life: negotiations, dates, interviews, and the conversations you have every day without realising how much you're saying.The session explores:How facial expressions, posture and gestures reveal what words often hideThe difference between a nervous habit and a genuine sign of deceptionHow law enforcement and forensic experts read non-verbal cues in real investigationsPractical ways to apply body language reading to your own personal and professional lifeAbout the SpeakerGaurav Gill is a body language expert and consultant psychologist who has trained several of India's most prestigious law enforcement, forensic and academic institutions. In September 2026, WION News invited him to analyse the non-verbal communication of global leaders at the 18th BRICS Summit in New Delhi, decoding the handshakes, gestures, posture, facial expressions, eye contact and physical proximity behind high-level diplomatic engagements. He has also featured on Raj Shamani's Figuring Out podcast, in an episode that has drawn more than 2.9 million views.His training assignments include the Delhi Police Crime Branch AHTU, Delhi Police (Central District \u2014 Kamla Market, Hauz Khas and IP Estate), Pune Police and Pune Crime Branch AHTU, SPUWAC Headquarters (Special Police Unit for Women and Children), the Railway Protection Force (RPF), Government Railway Police (GRP), CISF and the CISF ASG Unit. He has conducted specialised body language training for forensic experts at DFSS-CFSL (formerly CBI-CFSL), New Delhi, and has been guest faculty at the National Forensic Sciences University (Delhi and Goa campuses), Rashtriya Raksha University (Gujarat campus) and the Juvenile Justice Board (JJB-VII), Dwarka, Delhi.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-10-04T16:00:00+05:30",
+    "endDate": "2026-10-04T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "32nd avenue, Sector 15 Part 2, Sector 15, Gurugram, Haryana 122001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46145160000000000000",
+        "longitude": "77.04983410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/body-language-speaks-louder-than-words",
+    "keywords": [
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Serving Clarity: Your Professional Glowup",
     "description": "Feeling stuck? questioning your career? randomly wondering \u201cwait\u2026 is this actually what i want to do?\u201d\u200byeah, this one\u2019s for you. We\u2019re hosting a wellness-led career clarity session for women who are figuring things out \u2014 career switches, burnout, dissatisfaction, indecision, or just wanting to know what\u2019s next.\u200bNo boring career counselling. no \u201c5 steps to find your dream job\" just guided exercises, honest conversations, reflection, a little yapping, and space to actually figure out what you want.\u200bwhat\u2019s happening\u200b\u2192 guided career clarity activities\u200b\u2192 conversations + reflection\u200b\u2192 practical prompts to unpack your next move\u200b\u2192 a room full of women figuring it out too\u200b\ud83c\udfa4 meet the speaker\u200bTarika Khanna is a Warwick graduate, entrepreneur, and career researcher. After graduating in Global Sustainable Development, she returned to India and co-founded WitWise Education, an education consulting startup.\u200bWhile building WitWise, she noticed how many young people felt confused, dissatisfied, or simply unsure about their career paths. Even though you got the \u201c right job\u201d it still didn\u2019t feel right. Today, she\u2019s researching Gen Z, career dissatisfaction, workplace culture, and why we leave jobs.\u200bHaving navigated the \u201cwhat am I actually doing with my life?\u201d phase herself, Tarika is exploring how we can build careers more intentionally beyond the endless advice to \u201cfind your passion\u201d and \u201cfollow the right path.\u201d\u200bIf you\u2019re lost, overwhelmed, or just questioning your career choices, this session is for you.\u200bPS: this is not a preachy lecture session. Come expect fun, therapeutic chat and a sense of comfortWhat should the attendee know? Please note that the Sunder Nursery entry ticket is not included and must be purchased separately by the attendee.",
@@ -2120,6 +2156,43 @@
     "keywords": [
       "Wellness",
       "Pop-up Event",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Cultures Through Clay: Civilisation Held In A Bowl",
+    "description": "About the LectureWe sometimes just think of pots as functional. But across three cultures \u2014 Bangladesh, Turkey and Japan \u2014 the same simple act of shaping wet clay reveals three completely different value systems: community and belonging, beauty and craftsmanship, imperfection and impermanence.This talk isn't really about pottery. It's about how to read the objects around us, and what your own everyday things might be quietly saying about you.Drawing on folklorist Henry Glassie's The Potter's Art, the session zooms into three pottery traditions: in Bangladesh, pottery woven into caste, community and everyday ritual life; in Turkey, pottery as a vessel for aesthetic pride and decorative mastery; and in Japan's Hagi tradition, tied to the tea ceremony, where the values invert entirely \u2014 imperfection, asymmetry and impermanence, the wabi-sabi aesthetic, are not flaws to correct but the entire point.The session explores:How the same craft, shaping wet clay, produces radically different worlds of meaning across culturesWhat pottery in Bangladesh, Turkey and Japan reveals about caste, beauty and impermanenceWhy folk art is never really anonymous, static or purely functionalWhat your own everyday objects might be quietly saying about what you valueAbout the Speaker Simran Sushila is a folklorist and a professor, currently pursuing her PhD in Folklore at Indiana University Bloomington, USA. Her research looks at how communities use tradition to make sense of identity, memory, belonging, and change....and then, somewhere along the way, the she became an entrepreneur. Years of teaching and evaluating students made her increasingly curious about something: how does a person take what they know \u2013 and make another person see it, understand it, and believe it?That question became The VoiceCraft Institute: her attempt to build something India doesn't quite have yet \u2013 a serious space for learning expression, language, and communication, beyond grammar classes and beyond test-prep English.Because knowing English is one thing. Knowing what to say, how to say it, and how to make it land \u2013 that's a craft. And crafts can be taught.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-10-04T16:30:00+05:30",
+    "endDate": "2026-10-04T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M-25, First Floor, Greater Kailash-2, M-Block Market, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53348370000000000000",
+        "longitude": "77.24203949999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/cultures-through-clay-civilisation-held-in-a-bowl",
+    "keywords": [
+      "History & heritage",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -2196,6 +2269,42 @@
       "Adventure",
       "Premium",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Designing Your Life, The Stanford Way",
+    "description": "About the LectureWhat if the life you're living right now is one you drifted into by default, not one you chose?We are born into stories, about success, work, money, relationships, identity and what a good life should look like. Somewhere along the way, those stories start to feel like our own, and a life shaped by default begins to feel like one shaped by choice.Stanford's Designing Your Life offers another way to look at it: life as something you can actively design. That doesn't mean finding one \"true\" self or one perfect path. It means moving towards self-authorship: questioning the narratives you inherited, imagining different futures, and accepting that there may be more than one life within you worth living.Design turns out to be an unusually useful lens for this, because it doesn't require you to know the answer before you begin. It lets you work with ambiguity, hold several possibilities at once, and experiment rather than predict. In a world where lives are increasingly nonlinear, that may be more useful than having a perfect plan.The session explores:How inherited social narratives quietly become the stories we live byWhy there may be more than one life within us worth livingHow designers work with ambiguity, and why that matters for life decisionsMoving from a life by default to a life by design: question, imagine, prototypeAbout the SpeakerNavyug Mohnot is a Stanford-certified Designing Your Life educator, coach and facilitator, a visiting faculty member at ISB and Ashoka University, and the founder and CEO of QAI Global. He is a certified leadership coach from Harvard University, has spoken at conferences around the world, and is a TEDx speaker (\"Manifesting Desires, Embracing Contradictions\"). He has coached professionals across the globe, served on company boards, and mentored startups as an angel investor. Navyug did his B.Tech at IIT Delhi and received the \"Outstanding Contribution to National Development\" award from the IIT Delhi Alumni Association. Outside work, he meditates, runs a film club, loves art, film and architecture, and hopes to direct a full-length film someday.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-10-10T15:00:00+05:30",
+    "endDate": "2026-10-10T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/designing-your-life-the-stanford-way",
+    "keywords": [
+      "Workshop",
       "URBANAUT"
     ]
   },
