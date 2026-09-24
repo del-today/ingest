@@ -1980,6 +1980,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Pocket IV (supported by Arlo & Maya)",
+    "description": "Pocket IV makes a full circle as they return to Depot 48 since making their debut here in Pride Month. Being a queer inclusive band, there is no venue that brings us more joy to perform at than Depot 48, as we strive to bridge the gap between the new and the old and across varied identities, answering one simple question- what if Bollywood retro classics were made by Gen-Zs and Millenials? What if we came together for one night to celebrate love.Arlo and Maya are a duo putting forth on stage their love of retro music- and beyond. With a blend of finger-style guitar and vocals, they bring a unique dynamic to stage, asking everyone to join in to sing along to hits from all ages.",
+    "startDate": "2026-10-03T21:00:00+05:30",
+    "endDate": "2026-10-03T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/pocket-iv-supported-by-arlo-maya",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Running, Photo Walk & Coffee Rave",
     "description": "A Sunday morning, but make it active and fun.We\u2019re meeting at Lodhi Garden for a Sunday morning run, a photo walk, and coffee + music + conversation with good people.Come move, wander, click pictures, meet strangers and make your Sunday morning count.4 October 20267 AM onwardsLodhi GardenCome as you are. Bring your phone/camera, your running shoes & your favourite people.See you on Sunday.",
@@ -2308,6 +2346,82 @@
       "url": "https://urbanaut.app/partner/depot48"
     },
     "url": "https://urbanaut.app/spot/manish-vaid-project",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Lil Mama Tips and the Band",
+    "description": "Tipriti Kharbangar the blues queen of India is back at Depot with her band ",
+    "startDate": "2026-10-07T21:00:00+05:30",
+    "endDate": "2026-10-07T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1050.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/lil-mama-tips-and-the-band",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "KAASHI in concert for DSIF (Creating Value)",
+    "description": "Get ready for an unforgettable evening of soul-stirring music with Kaashi The Band, blending heart-pounding rock with rich melodies! Every ticket you buy directly powers DSIF\u2019s grassroots mission to transform lives and uplift local communities. Join us for a night where great entertainment meets meaningful impact!",
+    "startDate": "2026-10-09T21:00:00+05:30",
+    "endDate": "2026-10-09T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "400.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/kaashi-in-concert-for-dsif-creating-value",
     "keywords": [
       "Live GIG",
       "Music",
