@@ -4,7 +4,7 @@
     "@type": "Event",
     "name": "Kathika Cultural Experience",
     "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
-    "startDate": "2026-09-23T11:30:00+05:30",
+    "startDate": "2026-09-24T11:30:00+05:30",
     "endDate": "2026-09-30T14:00:00+05:30",
     "location": {
       "@type": "Place",
@@ -42,7 +42,7 @@
     "@type": "FoodEvent",
     "name": "Chatti Choru @ Cocobay",
     "description": "Missed the Sadhya, you still got the *Chatti Choru* to try and this time it comes with a Non Vegetarian add on.\u00a0All Sept at Cocobay at Flxho Horizon One, 574 Sector 43 Golf Course Road",
-    "startDate": "2026-09-23T12:00:00+05:30",
+    "startDate": "2026-09-24T12:00:00+05:30",
     "endDate": "2026-09-27T15:00:00+05:30",
     "location": {
       "@type": "Place",
@@ -71,42 +71,6 @@
     "keywords": [
       "Pop-up Event",
       "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "VDHM Training Run - Week 2 / Speed Run 2",
-    "description": "Hi If you are participating in the Vedanta Marathon, this will be the first training session with SWAG. We will be doing a speed run session tomorrow. Speed runs basically mean that you run at a very fast pace for a particular distance, depending on your level of training so 500 m, 800m, 1 km. After each running lap,  you take a 1 min breather, and then you run again. Kashika and I will be leading the run tomorrow, and we\u2019ll also walk everyone through the training plan and what the weeks ahead will look like. Please be on time, and sign up only if you\u2019re ready to show up consistently and take your training seriously. :)",
-    "startDate": "2026-09-24T06:30:00+05:30",
-    "endDate": "2026-09-24T07:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "H5VV+M56 Nehru park, Nehru Park, Niti Marg, Ramnagar, Chanakyapuri, New Delhi, Delhi 110021, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59416260000000000000",
-        "longitude": "77.19303599999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swagvedanta",
-    "keywords": [
-      "Active",
       "URBANAUT"
     ]
   },
@@ -1903,6 +1867,44 @@
     "url": "https://urbanaut.app/spot/cyanotype-workshop-15572",
     "keywords": [
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Wattpad Girlies Support Group | Fictional Red Flag",
+    "description": "For everyone whose formative years involved wildly questionable fictional men, impossible standards and plots we probably had no business reading at 14.We\u2019re getting a small group of women together in a cute GK caf\u00e9 to defend our tropes, confess our fiction sins, play games and collectively debrief the men who ruined us with plenty of time to eat, yap and meet people who grew up on the same lore.Join this exorcism for your reading history.Come solo or bring a friend. Food and Beverage voucher includedDM us @ukiyocollective_ for any questions!",
+    "startDate": "2026-10-03T13:00:00+05:30",
+    "endDate": "2026-10-03T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Greater Kailash II, Greater Kailash, New Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53536000000000000000",
+        "longitude": "77.24195220000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "549.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Ukiyo Collective",
+      "url": "https://urbanaut.app/partner/ukiyo"
+    },
+    "url": "https://urbanaut.app/spot/wattpad-girlies",
+    "keywords": [
+      "Leisure",
+      "Pop-up Event",
+      "Art & culture",
       "URBANAUT"
     ]
   },
