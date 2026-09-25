@@ -100,46 +100,6 @@
     ]
   },
   {
-    "@type": "EducationEvent",
-    "name": "Building the Wada again",
-    "url": "https://www.knma.org/whats-on/talks/building-the-wada-again",
-    "startDate": "2026-09-25T10:00:00+05:30",
-    "endDate": "2026-09-25T10:00:00+05:30",
-    "description": "Theatre",
-    "location": {
-      "@type": "Place",
-      "name": "Sunken Garden, Sunder Nursery, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "In the Moonlit Kingdom",
-    "url": "https://www.knma.org/whats-on/events/in-the-moonlit-kingdom",
-    "startDate": "2026-09-25T10:00:00+05:30",
-    "endDate": "2026-09-25T10:00:00+05:30",
-    "description": "WeekendsatKNMA",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
     "@type": "Event",
     "name": "The Language of Belonging",
     "url": "https://www.knma.org/whats-on/events/the-language-of-belonging",
@@ -209,6 +169,26 @@
     "location": {
       "@type": "Place",
       "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "TheaterEvent",
+    "name": "KNMA Dance Festival",
+    "url": "https://www.knma.org/whats-on/performing-arts/knma-dance-festival",
+    "startDate": "2026-10-15T10:00:00+05:30",
+    "endDate": "2026-10-18T18:00:00+05:30",
+    "description": "Dance Festival",
+    "location": {
+      "@type": "Place",
+      "name": "Sunder Nursery, New Delhi",
       "address": "New Delhi"
     },
     "organizer": {

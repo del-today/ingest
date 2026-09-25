@@ -18,6 +18,23 @@
   },
   {
     "@type": "ScreeningEvent",
+    "name": "Oslo: A Tail of Promise(2025)",
+    "url": "https://fillum.in/screening/6217",
+    "startDate": "2026-09-25T18:30:00+05:30",
+    "endDate": "2026-09-25T18:30:00+05:30",
+    "description": "Free entry. Open to all.",
+    "location": {
+      "@type": "Place",
+      "name": "IIC Annexe - Lecture Room I",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "India International Centre"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "A Man Escaped(1956)",
     "url": "https://fillum.in/screening/6199",
     "startDate": "2026-09-26T12:00:00+05:30",
@@ -69,6 +86,23 @@
   },
   {
     "@type": "ScreeningEvent",
+    "name": "Pickpocket(1959)",
+    "url": "https://fillum.in/screening/6198",
+    "startDate": "2026-09-26T16:00:00+05:30",
+    "endDate": "2026-09-26T16:00:00+05:30",
+    "description": "His hands are faster than your eyes.A crowded street.A passing stranger.One moment of distraction.And your wallet is gone.But this isn't simply a story about a thief. It is a hauntin..more",
+    "location": {
+      "@type": "Place",
+      "name": "iPley Music Studio, GK-1",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "SomeArt"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "964 Pinocchio(1991)",
     "url": "https://fillum.in/screening/6212",
     "startDate": "2026-09-26T16:00:00+05:30",
@@ -99,57 +133,6 @@
     "organizer": {
       "@type": "Organization",
       "name": "Khatarnaak Films"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Y Tu Mam\u00e1 Tambi\u00e9n(2001)",
-    "url": "https://fillum.in/screening/6206",
-    "startDate": "2026-09-26T19:00:00+05:30",
-    "endDate": "2026-09-26T19:00:00+05:30",
-    "description": "Screening #2 for 'One Night Stand', a one day suite takeover in collaboration with No Taboo Experience at a screening room in ONEOFF Hotel, GK 2.The event also features specialty coffee worksho..more",
-    "location": {
-      "@type": "Place",
-      "name": "ONEOFF Hotel, GK 2",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Out of Sequence"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Battle Royale(2000)",
-    "url": "https://fillum.in/screening/6214",
-    "startDate": "2026-09-26T20:00:00+05:30",
-    "endDate": "2026-09-26T20:00:00+05:30",
-    "description": "Tickets include drinks and snacks.",
-    "location": {
-      "@type": "Place",
-      "name": "Q Block Jangpura Extension",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Khatarnaak Films"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Home Town Edition #4",
-    "url": "https://fillum.in/event/6188",
-    "startDate": "2026-09-27T14:00:00+05:30",
-    "endDate": "2026-09-27T14:00:00+05:30",
-    "description": "This time, we're taking Hometown to Saket Social.Films From Underground presents Hometown Edition #4 \u2014 4 homegrown indie shorts, one afternoon for independent cinema, the filmmakers who put th..more",
-    "location": {
-      "@type": "Place",
-      "name": "Saket Social, DLF Saket",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Films From Underground"
     }
   }
 ]
