@@ -1,79 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Film and Analog photography workshop",
-    "description": "A comprehensive two-day workshop covering all aspects of the analog process from taking photographs on film to making silver prints on photographic paper.Structure of the workshopDay 1:A lecture on the origin of photography - Discover how photography began and explore early processes through a short, engaging introduction.Shooting on Film - Learn how to manually operate a film camera & a light meter to get correct exposures.Developing the Film - Learn how to develop your film roll in a darkroom with chemical solutions to get photographic negatives.Day 2:Create contact sheets - Using your negatives, create contact sheets and gain a clear understanding of exposure, development and timing.Create a test strip - Learn how to judge and determine the best exposure while creating prints in the darkroom.Create final prints - Learn how to create silver gelatine prints in the darkroom and workarounds to possible errors.Frequently asked questions:Is there any prior knowledge needed to attend this workshop?No, there is no prior knowledge needed for this workshop.Is there an age restriction for this workshop?Yes, the workshop is meant for ages 15+Do we as participants need to bring anything?No, all equipment and materials will be provided by Museo.Will we get to take our prints and negatives home at the end of the workshop?Yes, you will get to take your photographic negatives and prints home.Will there be a certificate provided once the workshop is over?Yes, a digital certificate will be provided upon completion of the workshop.What is the batch size of the workshop?The workshop is conducted in small batches of up-to 4 people per batch.Does the workshop also teach us how to use colour film?No, the workshop only covers black and white film photography.What is the recommended attire for the workshop?Comfortable clothing and shoes are recommended for the workshop.Will lunch be provided?Each participant will receive a 15% discount at the museum cafe on both days of the workshop.Once the workshop is over, how can I continue to practice the process?You can book the darkroom to practice the process, to do so you would have to write to us at workshops@museocamera.orgMeet your trainers Taught by some of the best practicing photographers and printmakers.Aditya AryaFounder, Director, Museo CameraWith 45+ years of experiencePhotographer, historian and Founder-Director of Museo Camera with years of experience across advertising and fine art, he champions the slowness of analog processes. He practices and teaches historic techniques like cyanotype and wet plate collodion, keeping them alive through hands-on learning.https://www.adityaarya.com/Avinash AggarwalFacilitatorwith 45+ years of experienceAggarwal\u2019s practice spans several decades, encompassing commercial work in product, industrial, interior, and portrait photography. Alongside this, he has consistently engaged with the artistic and experimental dimensions of the medium, with expertise in black-and-white and colour darkroom processes, as well as alternative photographic techniques. He currently runs his studio, Studio A89, at Kaladham, Greater Noida, where he also teaches analogue and alternative photography, and conducts workshops across institutions in the Delhi NCR region.Khushi Upadhyay Darkroom AssistantWith 2+ years of experienceShe is a photographer working with analog and alternative processes, embracing slowness while guiding others to do the same. Rooted in light and material, she leads cyanotype and historic process workshops through hands-on, immersive image-making.",
-    "startDate": "2026-09-26T11:00:00+05:30",
-    "endDate": "2026-09-26T17:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Shri Ganesh Mandir Marg, Sector 28, DLF Phase IV, Gurugram, Haryana 122009, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46961600000000000000",
-        "longitude": "77.08038510000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "8159.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Museo Camera",
-      "url": "https://urbanaut.app/partner/museo-camera"
-    },
-    "url": "https://urbanaut.app/spot/film-and-analog",
-    "keywords": [
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Kinusaiga Workshop",
-    "description": "Discover the art of Kinusaiga \u2014 a beautiful Japanese fabric-tucking technique where fabric, texture and creativity come together without stitching. \ud83c\udf38Join Trivenya Art Studio for an immersive Kinusaiga Art Workshop (Japanese Fabric Tucking Masterclass) and create your own beautiful 8\u00d78\" fabric artwork inspired by traditional Japanese aesthetics.\u2728 What you\u2019ll experience:\u2022 Learn the basics and techniques of Kinusaiga\u2022 Create your own 8\u00d78\" artwork step-by-step\u2022 All materials provided\u2022 A relaxed, creative caf\u00e9 experience\u2022 Take home your handcrafted artwork\u2022 Enjoy a complimentary beverage while you create \u2615",
-    "startDate": "2026-09-26T11:30:00+05:30",
-    "endDate": "2026-09-26T13:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Joy Central, Sector 65, Gurugram, Haryana 122101, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.40518030000000000000",
-        "longitude": "77.06046340000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "1250.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Trivenya Art Studio",
-      "url": "https://urbanaut.app/partner/trivenya-art-studio"
-    },
-    "url": "https://urbanaut.app/spot/kinusaiga-workshop",
-    "keywords": [
-      "Workshop",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Kathika Cultural Experience",
     "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
@@ -220,150 +147,6 @@
       "Leisure",
       "Pop-up Event",
       "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "UNSENT: A 2040 Safety Hackathon",
-    "description": "What if, in 2040, nobody had to say, \u201cText me when you get home\u201d?UNSENT is a speculative safety experience that asks participants to imagine a future where the conditions that make this sentence necessary have disappeared. Rather than designing better ways to check in, participants work backwards from this imagined 2040 to uncover what had to change in our streets, public spaces, mobility systems, technology, policies, social norms and cultures of care.Through lived experiences, speculative scenarios, collective mapping and system-building, participants explore where safety currently breaks down, how people compensate for it, and who or what they depend on to feel safe. They then build competing visions of 2040, testing each against questions of freedom, risk, access and control.The ideas generated are captured in the 2040 Safety Atlas: a collective map of safety gaps, dependencies, interventions, stakeholders and trade-offs.At its heart, UNSENT asks a simple but provocative question:What would have to change today to build a world where nobody needs to text when they get home?",
-    "startDate": "2026-09-26T13:30:00+05:30",
-    "endDate": "2026-09-26T15:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Noida, Uttar Pradesh, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53551610000000000000",
-        "longitude": "77.39102650000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Text When You Get Home",
-      "url": "https://urbanaut.app/partner/text-when-you-get-home"
-    },
-    "url": "https://urbanaut.app/spot/unsentnoida",
-    "keywords": [
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "UNSENT: A 2040 Safety Hackathon",
-    "description": "What if, in 2040, nobody had to say, \u201cText me when you get home\u201d?UNSENT is a speculative safety experience that asks participants to imagine a future where the conditions that make this sentence necessary have disappeared. Rather than designing better ways to check in, participants work backwards from this imagined 2040 to uncover what had to change in our streets, public spaces, mobility systems, technology, policies, social norms and cultures of care.Through lived experiences, speculative scenarios, collective mapping and system-building, participants explore where safety currently breaks down, how people compensate for it, and who or what they depend on to feel safe. They then build competing visions of 2040, testing each against questions of freedom, risk, access and control.The ideas generated are captured in the 2040 Safety Atlas: a collective map of safety gaps, dependencies, interventions, stakeholders and trade-offs.At its heart, UNSENT asks a simple but provocative question:What would have to change today to build a world where nobody needs to text when they get home?",
-    "startDate": "2026-09-26T13:30:00+05:30",
-    "endDate": "2026-09-26T15:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Gurugram, Haryana, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.45949650000000000000",
-        "longitude": "77.02663830000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Text When You Get Home",
-      "url": "https://urbanaut.app/partner/text-when-you-get-home"
-    },
-    "url": "https://urbanaut.app/spot/unsentgurgaon",
-    "keywords": [
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "UNSENT: A 2040 Safety Hackathon",
-    "description": "What if, in 2040, nobody had to say, \u201cText me when you get home\u201d?UNSENT is a speculative safety experience that asks participants to imagine a future where the conditions that make this sentence necessary have disappeared. Rather than designing better ways to check in, participants work backwards from this imagined 2040 to uncover what had to change in our streets, public spaces, mobility systems, technology, policies, social norms and cultures of care.Through lived experiences, speculative scenarios, collective mapping and system-building, participants explore where safety currently breaks down, how people compensate for it, and who or what they depend on to feel safe. They then build competing visions of 2040, testing each against questions of freedom, risk, access and control.The ideas generated are captured in the 2040 Safety Atlas: a collective map of safety gaps, dependencies, interventions, stakeholders and trade-offs.At its heart, UNSENT asks a simple but provocative question:What would have to change today to build a world where nobody needs to text when they get home?",
-    "startDate": "2026-09-26T13:30:00+05:30",
-    "endDate": "2026-09-26T15:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.70405920000000000000",
-        "longitude": "77.10249019999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Text When You Get Home",
-      "url": "https://urbanaut.app/partner/text-when-you-get-home"
-    },
-    "url": "https://urbanaut.app/spot/unsentdelhi",
-    "keywords": [
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Tending To Loss -Grief circle for any kind of loss",
-    "description": "A small circle for tending to loss and grief - in whatever form and shape it may be. A person who died. A baby who never arrived. A marriage that ended. A job that is no longer there. A version of yourself you had to leave behind. A gentle space to pause and stay with it. Some fictional storytelling, movement and quiet moments, we will try to make room for what you have been carrying.Nothing to prepare. Nothing you have to share.No advice, no silver linings, no pressure to move on.Facilitated by Ruchira Gupta, Coach & Therapist.www.BeingU.in",
-    "startDate": "2026-09-26T14:00:00+05:30",
-    "endDate": "2026-09-26T17:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "DLF Phase 5, Sector 43, Gurugram, Haryana, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.44769110000000000000",
-        "longitude": "77.09477849999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1800.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "BEING U",
-      "url": "https://urbanaut.app/partner/beingu"
-    },
-    "url": "https://urbanaut.app/spot/tendingtoloss",
-    "keywords": [
-      "Wellness",
       "URBANAUT"
     ]
   },
@@ -633,44 +416,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Raat Ke Afsane : Qutub Minar",
-    "description": "Experience the magic of Qutub Minar like never before\u2014under the stars and glowing lights. This is a guided heritage walk led by a historian, who will take you through the stunning Qutub complex after dark. As the entire site is beautifully illuminated at night, the minaret shines like Delhi\u2019s very own Eiffel Tower\u2014majestic, mysterious, and unforgettable.Walk through centuries of history, discover forgotten stories, and explore Delhi\u2019s medieval past through engaging storytelling. The play of light, shadow, and silence transforms this heritage site into something truly cinematicPlaces we will cover : 1. Mughal Serai2. Alai Minar3. Iltutmish Tomb4. Qutub Minar5. Iron Pilar6. 27 Jain and hindu temples7. Alai Darwaza8. Alauddin Khilji grave and madarsa .Important Points:  1. Details of the heritage walk will be mailed to you when you book the tickets2. No guided fees for kids below 5.3. Medium of communication : Hindi and English4. Please note that in case of unavoidable external reasons such as (weather conditions, political rallies, VIP movement, powercut) the walk may be canceled. The participant has the liberty to take another walk by the company against the payment they have made within 30 days since the date of the registered walk.5. The company does not have refund policy.",
-    "startDate": "2026-09-26T18:30:00+05:30",
-    "endDate": "2026-10-03T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Qutub Minar Complex Rd, Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52371860000000000000",
-        "longitude": "77.18469040000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "650.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Enroute Indian History",
-      "url": "https://urbanaut.app/partner/enrouteindianhistory"
-    },
-    "url": "https://urbanaut.app/spot/raat-ke-afsane-qutub-minar",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "BOLLYWOOD TRIVIA NIGHT",
     "description": "Picture abhi baaki hai, mere dost.Your Bollywood knowledge is about to be put to the ultimate test.This September, AfterDark MIXTable brings you a night dedicated to everything filmi - iconic movies, unforgettable dialogues, legendary characters, songs, scenes, games and the moments that made Bollywood what it is.Think you can identify a movie from one dialogue?Recognise a song from just a few beats?Remember those iconic characters everyone else has forgotten?Come find out.What to expect:Bollywood Trivia - Test your knowledge across movies, music, dialogues, characters and iconic moments.Games and challenges - Because a trivia night should never be just questions and answers.Team competition - Come with your FRIEND CIRCLE or FLY SOLO. Teams will be formed at the event.Medals for the winning team - Because winning deserves a little Bollywood-level drama.Winning team bonus - The winning team's mandatory food cover of Rs. 250 per person will be reimbursed by The MIXTable.Early Bird - Be there on time for a chance to win an Early Bird Prize.Whether you are a Bollywood encyclopedia or someone who confidently guesses every answer, this one's for you.Come for the trivia. Stay for the chaos. Leave with a medal.",
     "startDate": "2026-09-26T19:00:00+05:30",
@@ -783,43 +528,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Badass Begum: Women Architecture in Old Delhi",
-    "description": "Badass Begums: An Old Delhi Heritage WalkA guided heritage walk through the lanes of Old Delhi exploring the stories of the women who shaped its history. The walk focuses on the lives, influence and cultural presence of the Begums of Mughal-era Delhi.Led by author and historian Anoushika Jain, the experience shares stories of women who contributed to politics, culture, art, food traditions and social life. The walk is designed as a storytelling experience with narration and interaction along the route.The walk takes participants through Old Delhi and concludes with a curated food experience. It also includes select takeaways for participants.Language of communication is Hindi and English.",
-    "startDate": "2026-09-27T07:30:00+05:30",
-    "endDate": "2026-09-27T09:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M65G+7XC, Old Delhi, Town Hall, Chandni Chowk, Delhi, 110006, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.65818810000000000000",
-        "longitude": "77.22740259999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "900.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Enroute Indian History",
-      "url": "https://urbanaut.app/partner/enrouteindianhistory"
-    },
-    "url": "https://urbanaut.app/spot/badass-begum-women-architecture-in-old-delhi",
-    "keywords": [
-      "History & heritage",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Hot Girls Do Pilates",
     "description": "Let\u2019s make your Sunday morning extra feel-good with Hot Girls Do Pilates, a guided mat pilates experience by SWAG x Airia Mall.Come and feel fitter in the company of like-minded women, and stay back for a quick breakfast at Three O Clock cafe, and not to forget Foot care cream and socks by Moha.Here's the plan,We start with a Mat Pilates session.Slow down with some breath-work and meditation.Head for a quick Brekkie at Three O Clock cafe.Take home foot cream by MohaNo need to carry your mats, we will take care of that.Can't wait to see you this Sunday!",
@@ -839,7 +547,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "349.00",
+      "price": "499.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -1205,7 +913,7 @@
     "name": "Haunted Walk: Mehrauli Archaeological Park",
     "description": "Join us for a hauntingly beautiful night walk through the Mehrauli Archaeological Park, a place where centuries of Delhi\u2019s history come alive\u2014alongside tales of the unseen. In this special segment, Ruhaani Raatein, we delve into the world of djinns, the mystical beings believed to reside in this ancient land.Guided by a historian and storyteller, we\u2019ll explore how djinns are viewed and worshipped in Islamic traditions, and how folklore continues to shape the spiritual character of Mehrauli even today.Our walk will take you through: The tomb of Jamali Kamali, often called the Gay Taj Mahal for its poetic mystique and timeless love story A haunting 500-year-old baoli (stepwell)The remnants of a British-era swimming pool, hidden in plain sight A peaceful lakeside caf\u00e9, perfect for ending the evening with a quiet reflection or a warm chaiAs night falls and shadows grow, let the stories guide you through one of Delhi\u2019s oldest, most magical spaces\u2014where the past is never truly past.",
     "startDate": "2026-09-27T17:00:00+05:30",
-    "endDate": "2026-09-27T18:30:00+05:30",
+    "endDate": "2026-10-04T18:30:00+05:30",
     "location": {
       "@type": "Place",
       "address": "Anuvrat Marg, opposite Qutab Minar Metro Station, Christian Colony, Mehrauli, New Delhi, Delhi 110030, India",
@@ -1499,6 +1207,45 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Nature Journaling",
+    "description": "A 2-hour Nature Journaling workshop to step away from the rush and spend some unhurried time simply noticing, exploring and being present. We\u2019ll begin with a gentle nature walk, where we\u2019ll learn about the flora and fauna around us, before finding a quiet spot by the lake to slow down and journal.What to expect:A gentle nature walk exploring the flora and faunaSlow observation & sensory explorationGuided nature journaling promptsMoments to pause, reflect and reconnect with the presentPlenty of unhurried time to simply beAll materials for the activityCome slow down, get curious about the little things around you, and rediscover the joy of dilly-dallying in nature \u2014 just like we did as children.",
+    "startDate": "2026-10-02T16:00:00+05:30",
+    "endDate": "2026-10-02T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "H6VW+PC6, Bharat Scouts and Guides Marg, Nizamuddin, National Zoological Park, Sundar Nagar, New Delhi, Delhi 110013, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59428540000000000000",
+        "longitude": "77.24600699999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "600.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Reset with Nature",
+      "url": "https://urbanaut.app/partner/reset-with-nature"
+    },
+    "url": "https://urbanaut.app/spot/nature-journaling-16940",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Walking Tour",
       "Art & culture",
       "URBANAUT"
     ]
@@ -1983,6 +1730,45 @@
     "keywords": [
       "Live GIG",
       "Music",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Clay in the Wild",
+    "description": "2-Hour Nature Pottery ExperienceStep into a gentle rhythm of nature and creativity in this two-hour immersive session.We begin with a slow, mindful nature walk, exploring trails alongside scientists that are usually not open for public exploration. As you walk, you\u2019ll discover hidden details of the landscape, gathering inspiration, textures, and a few fallen leaves or flowers along the way.We then settle in to work with our hands.Using soft air-dry clay, you\u2019ll shape your own trinket trays and small plates, creating one-of-a-kind botanical imprints inspired by what you discovered on the trail.This is more than craft. It\u2019s a quiet conversation with the natural world:Feel the cool clay respond to your touchDiscover patterns hidden in leaves, bark, and wild stemsExplore lesser-known trails with scientists and learn about the natural world around youCreate functional pieces that carry a little memory of the landscape homeCome ready to walk, explore, gather, imprint, and shape.You\u2019ll leave with handmade trays and plates that hold both beauty and the calm of time spent deeply engaged with nature.",
+    "startDate": "2026-10-04T16:00:00+05:30",
+    "endDate": "2026-10-04T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Nehru park, Ramnagar, Chanakyapuri, New Delhi, Delhi 110021, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59096880000000000000",
+        "longitude": "77.19320030000002000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "999.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Reset with Nature",
+      "url": "https://urbanaut.app/partner/reset-with-nature"
+    },
+    "url": "https://urbanaut.app/spot/clay-in-the-wild-16909",
+    "keywords": [
+      "Wellness",
+      "Eco Friendly",
+      "Walking Tour",
+      "Art & culture",
       "URBANAUT"
     ]
   },
