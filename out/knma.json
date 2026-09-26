@@ -100,35 +100,15 @@
     ]
   },
   {
-    "@type": "Event",
-    "name": "The Language of Belonging",
-    "url": "https://www.knma.org/whats-on/events/the-language-of-belonging",
+    "@type": "EducationEvent",
+    "name": "KNMA Curator-Led Walkthrough",
+    "url": "https://www.knma.org/whats-on/guided-tours/knma-curator-led-walkthrough",
     "startDate": "2026-09-26T10:00:00+05:30",
-    "endDate": "2026-09-26T10:00:00+05:30",
+    "endDate": "2026-12-19T18:00:00+05:30",
     "description": "",
     "location": {
       "@type": "Place",
       "name": "KNMA, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "EducationEvent",
-    "name": "Silent Frames",
-    "url": "https://www.knma.org/whats-on/workshops/silent-frames",
-    "startDate": "2026-09-26T10:00:00+05:30",
-    "endDate": "2026-09-26T10:00:00+05:30",
-    "description": "Workshop",
-    "location": {
-      "@type": "Place",
-      "name": "Qutub Minar, Delhi",
       "address": "New Delhi"
     },
     "organizer": {
@@ -165,6 +145,66 @@
     "url": "https://www.knma.org/whats-on/workshops/if-trees-could-write",
     "startDate": "2026-10-03T10:00:00+05:30",
     "endDate": "2026-10-03T10:00:00+05:30",
+    "description": "Saturday Family Workshop",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Repetition/Variation",
+    "url": "https://www.knma.org/whats-on/workshops/repetition-variation",
+    "startDate": "2026-10-09T10:00:00+05:30",
+    "endDate": "2026-10-10T18:00:00+05:30",
+    "description": "Methods",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Chalo Bachpan",
+    "url": "https://www.knma.org/whats-on/workshops/chalo-bachpan",
+    "startDate": "2026-10-10T10:00:00+05:30",
+    "endDate": "2026-10-11T18:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "Triveni Kala Sangam",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Kinetic Forms",
+    "url": "https://www.knma.org/whats-on/workshops/kinetic-forms",
+    "startDate": "2026-10-10T10:00:00+05:30",
+    "endDate": "2026-10-10T10:00:00+05:30",
     "description": "Saturday Family Workshop",
     "location": {
       "@type": "Place",

@@ -1,156 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Kathika Cultural Experience",
-    "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
-    "startDate": "2026-09-25T11:30:00+05:30",
-    "endDate": "2026-09-30T14:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.64610280000000000000",
-        "longitude": "77.22736410000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kathika Cultural Centre and Museum",
-      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
-    },
-    "url": "https://urbanaut.app/spot/kathika-cultural-experience-15616",
-    "keywords": [
-      "Music",
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Chatti Choru @ Cocobay",
-    "description": "Missed the Sadhya, you still got the *Chatti Choru* to try and this time it comes with a Non Vegetarian add on.\u00a0All Sept at Cocobay at Flxho Horizon One, 574 Sector 43 Golf Course Road",
-    "startDate": "2026-09-25T12:00:00+05:30",
-    "endDate": "2026-09-27T15:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Metro Station, 574, 43, off Golf Course Road, Sector 43, Gurugram, Haryana 122009, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.45706690000000000000",
-        "longitude": "77.09607650000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "730.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Cocobay - South Indian Cafe",
-      "url": "https://urbanaut.app/partner/cocobay-south-indian-cafe"
-    },
-    "url": "https://urbanaut.app/spot/chattichorucocobay",
-    "keywords": [
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Romance of Railway Buildings",
-    "description": "About the LectureJoin us for a lecture on the unlikely architects of Indian grandeur:The Indian Railways.During the late nineteenth and early twentieth centuries, the Railways built or came to occupy some of the finest public buildings in India, grand stations that still anchor our cities today. This lecture traces the evolution of the architectural styles Railway companies adopted: Classical Revival, Romanesque Revival, Victorian Gothic, Indo-Saracenic, and more, closely following developments taking place in the UK and Europe at the time.Expect deep dives into individual buildings and the architects behind them, and a look at the charm and beauty of colonial railway architecture that most of us walk past without a second glance.The session explores:How Railway companies came to build some of India's finest public architectureThe evolution of styles, from Classical and Romanesque Revival to Victorian Gothic and Indo-SaracenicHow these buildings tracked architectural developments happening in the UK and EuropeStories of individual stations, buildings and the architects who designed themAbout the SpeakerVinoo Mathur joined the Indian Railway Traffic Service in 1971 and served the Railways in various capacities, including as Divisional Railway Manager, Secretary Railway Board, General Manager Northern Railway, and Member Traffic, Railway Board, before retiring in 2008. His career included overseas assignments in Iraq, Mozambique and Jordan. Since retirement, he has served as Managing Director of a Railway joint venture company, an Independent Director on the Board of Indian Oil Corporation, and an Advisor to Japanese consultants for the Mumbai\u2013Ahmedabad High Speed Railway Project. His interest in heritage architecture began while studying history for his Masters, and deepened in 2004 when, as Secretary Railway Board, he was asked to make the case for Chhatrapati Shivaji Terminus (formerly Bombay V.T.) to be inscribed as a UNESCO World Heritage Site \u2014 a case that succeeded. He is currently President of the Rail Enthusiasts' Society.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
-    "startDate": "2026-09-26T04:30:00+05:30",
-    "endDate": "2026-09-26T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M-25, First Floor, Greater Kailash-2, M-Block Market, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53348370000000000000",
-        "longitude": "77.24203949999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/the-romance-of-railway-buildings",
-    "keywords": [
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Run Like A Girl | Hauz Khas",
-    "description": "We are starting the weekend with a SWAG Run (3.5 KM and 7.5 KM batches).Here's the plan:Warm-up at Public Supply, Hauz Khas. 3.5 KM & 7.5KM Community Run (7.5 KM Run starts at 6:30 AM, 3.5 KM Run starts at 7 AM)Meet at Public Supply for some drinks, refuelling, and community social!   This is a women-only run. If you are a beginner and want to start running, our 3.5KM run is the best place to start.The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
-    "startDate": "2026-09-26T06:30:00+05:30",
-    "endDate": "2026-09-26T08:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "G-12A, Hauz Khas Market, Block G, Hauz Khas, New Delhi, Delhi 110016, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55048930000000000000",
-        "longitude": "77.20535450000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/run-like-a-girl-hauz-khas",
-    "keywords": [
-      "Adventure",
-      "Wellness",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Film and Analog photography workshop",
     "description": "A comprehensive two-day workshop covering all aspects of the analog process from taking photographs on film to making silver prints on photographic paper.Structure of the workshopDay 1:A lecture on the origin of photography - Discover how photography began and explore early processes through a short, engaging introduction.Shooting on Film - Learn how to manually operate a film camera & a light meter to get correct exposures.Developing the Film - Learn how to develop your film roll in a darkroom with chemical solutions to get photographic negatives.Day 2:Create contact sheets - Using your negatives, create contact sheets and gain a clear understanding of exposure, development and timing.Create a test strip - Learn how to judge and determine the best exposure while creating prints in the darkroom.Create final prints - Learn how to create silver gelatine prints in the darkroom and workarounds to possible errors.Frequently asked questions:Is there any prior knowledge needed to attend this workshop?No, there is no prior knowledge needed for this workshop.Is there an age restriction for this workshop?Yes, the workshop is meant for ages 15+Do we as participants need to bring anything?No, all equipment and materials will be provided by Museo.Will we get to take our prints and negatives home at the end of the workshop?Yes, you will get to take your photographic negatives and prints home.Will there be a certificate provided once the workshop is over?Yes, a digital certificate will be provided upon completion of the workshop.What is the batch size of the workshop?The workshop is conducted in small batches of up-to 4 people per batch.Does the workshop also teach us how to use colour film?No, the workshop only covers black and white film photography.What is the recommended attire for the workshop?Comfortable clothing and shoes are recommended for the workshop.Will lunch be provided?Each participant will receive a 15% discount at the museum cafe on both days of the workshop.Once the workshop is over, how can I continue to practice the process?You can book the darkroom to practice the process, to do so you would have to write to us at workshops@museocamera.orgMeet your trainers Taught by some of the best practicing photographers and printmakers.Aditya AryaFounder, Director, Museo CameraWith 45+ years of experiencePhotographer, historian and Founder-Director of Museo Camera with years of experience across advertising and fine art, he champions the slowness of analog processes. He practices and teaches historic techniques like cyanotype and wet plate collodion, keeping them alive through hands-on learning.https://www.adityaarya.com/Avinash AggarwalFacilitatorwith 45+ years of experienceAggarwal\u2019s practice spans several decades, encompassing commercial work in product, industrial, interior, and portrait photography. Alongside this, he has consistently engaged with the artistic and experimental dimensions of the medium, with expertise in black-and-white and colour darkroom processes, as well as alternative photographic techniques. He currently runs his studio, Studio A89, at Kaladham, Greater Noida, where he also teaches analogue and alternative photography, and conducts workshops across institutions in the Delhi NCR region.Khushi Upadhyay Darkroom AssistantWith 2+ years of experienceShe is a photographer working with analog and alternative processes, embracing slowness while guiding others to do the same. Rooted in light and material, she leads cyanotype and historic process workshops through hands-on, immersive image-making.",
@@ -219,6 +69,81 @@
     "keywords": [
       "Workshop",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Kathika Cultural Experience",
+    "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
+    "startDate": "2026-09-26T11:30:00+05:30",
+    "endDate": "2026-09-30T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64610280000000000000",
+        "longitude": "77.22736410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kathika Cultural Centre and Museum",
+      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
+    },
+    "url": "https://urbanaut.app/spot/kathika-cultural-experience-15616",
+    "keywords": [
+      "Music",
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Chatti Choru @ Cocobay",
+    "description": "Missed the Sadhya, you still got the *Chatti Choru* to try and this time it comes with a Non Vegetarian add on.\u00a0All Sept at Cocobay at Flxho Horizon One, 574 Sector 43 Golf Course Road",
+    "startDate": "2026-09-26T12:00:00+05:30",
+    "endDate": "2026-09-27T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Metro Station, 574, 43, off Golf Course Road, Sector 43, Gurugram, Haryana 122009, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.45706690000000000000",
+        "longitude": "77.09607650000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "730.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Cocobay - South Indian Cafe",
+      "url": "https://urbanaut.app/partner/cocobay-south-indian-cafe"
+    },
+    "url": "https://urbanaut.app/spot/chattichorucocobay",
+    "keywords": [
+      "Pop-up Event",
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -552,6 +477,43 @@
       "Music",
       "Workshop",
       "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Romance of Railway Buildings",
+    "description": "About the LectureJoin us for a lecture on the unlikely architects of Indian grandeur:The Indian Railways.During the late nineteenth and early twentieth centuries, the Railways built or came to occupy some of the finest public buildings in India, grand stations that still anchor our cities today. This lecture traces the evolution of the architectural styles Railway companies adopted: Classical Revival, Romanesque Revival, Victorian Gothic, Indo-Saracenic, and more, closely following developments taking place in the UK and Europe at the time.Expect deep dives into individual buildings and the architects behind them, and a look at the charm and beauty of colonial railway architecture that most of us walk past without a second glance.The session explores:How Railway companies came to build some of India's finest public architectureThe evolution of styles, from Classical and Romanesque Revival to Victorian Gothic and Indo-SaracenicHow these buildings tracked architectural developments happening in the UK and EuropeStories of individual stations, buildings and the architects who designed themAbout the SpeakerVinoo Mathur joined the Indian Railway Traffic Service in 1971 and served the Railways in various capacities, including as Divisional Railway Manager, Secretary Railway Board, General Manager Northern Railway, and Member Traffic, Railway Board, before retiring in 2008. His career included overseas assignments in Iraq, Mozambique and Jordan. Since retirement, he has served as Managing Director of a Railway joint venture company, an Independent Director on the Board of Indian Oil Corporation, and an Advisor to Japanese consultants for the Mumbai\u2013Ahmedabad High Speed Railway Project. His interest in heritage architecture began while studying history for his Masters, and deepened in 2004 when, as Secretary Railway Board, he was asked to make the case for Chhatrapati Shivaji Terminus (formerly Bombay V.T.) to be inscribed as a UNESCO World Heritage Site \u2014 a case that succeeded. He is currently President of the Rail Enthusiasts' Society.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-09-26T16:30:00+05:30",
+    "endDate": "2026-09-26T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M-25, First Floor, Greater Kailash-2, M-Block Market, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53348370000000000000",
+        "longitude": "77.24203949999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/the-romance-of-railway-buildings",
+    "keywords": [
+      "History & heritage",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -2215,7 +2177,7 @@
     "@type": "FoodEvent",
     "name": "KAASHI in concert for DSIF (Creating Value)",
     "description": "Get ready for an unforgettable evening of soul-stirring music with Kaashi The Band, blending heart-pounding rock with rich melodies! Every ticket you buy directly powers DSIF\u2019s grassroots mission to transform lives and uplift local communities. Join us for a night where great entertainment meets meaningful impact!",
-    "startDate": "2026-10-09T21:00:00+05:30",
+    "startDate": "2026-10-09T20:30:00+05:30",
     "endDate": "2026-10-09T23:30:00+05:30",
     "location": {
       "@type": "Place",
