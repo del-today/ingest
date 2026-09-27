@@ -2,197 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Yoga, Art and Picnic - Vekawellness",
-    "description": "A slow morning in a pretty garden.Vekawellness Movement Club is hosting a curated morning at \ud83d\udccdSangeet Shyamala, Vasant Vihar _Instructor-led_ yoga, meditation, a walk around the art gallery, guided journaling, and food & drinks on us.\ud83d\uddd3\ufe0f 27th September | Sunday 8:30 AM - 11:00 AM (please reach by 8:15 AM)What\u2019s included:\u2022  Yoga + meditation flow \ud83e\uddd8\u200d\u2640\ufe0f \u2022  A walk around the Art Gallery \ud83c\udfa8\u2022  Journaling session \ud83d\udcd4 \u2022  Food & drinks in the garden \ud83e\udeb4 Bring your mat. Arrive as you are, find your circle!",
-    "startDate": "2026-09-27T08:00:00+05:30",
-    "endDate": "2026-09-27T11:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Intersection of Streets, A11 and A12, Block A, Vasant Vihar, New Delhi, Delhi 110057, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.56206020000000000000",
-        "longitude": "77.16440349999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1899.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Vekawellness",
-      "url": "https://urbanaut.app/partner/vekawellness"
-    },
-    "url": "https://urbanaut.app/spot/yoga-art-and-picnic-vekawellness",
-    "keywords": [
-      "Wellness",
-      "Food & drink",
-      "Guided tour",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Reformer Pilates | Defence Colony",
-    "description": "Let\u2019s make your Sunday morning extra feel-good with Hot Girls Do Pilates, a guided reformer pilates experience by SWAG \ud83d\udc9bWe have only 4 spots!Come and feel fitter in the company of like-minded women, and stayback for some chit-chat!",
-    "startDate": "2026-09-27T11:00:00+05:30",
-    "endDate": "2026-09-27T12:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "A322, Block A, Defence Colony, New Delhi, Delhi 110024, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.57351930000000000000",
-        "longitude": "77.22945200000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1399.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swagdc",
-    "keywords": [
-      "Wellness",
-      "Workshop",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "The Himalayan Table",
-    "description": "The Himalayan table is a 6 course dining experience pairing delicious Himalayan food with specialty coffee from Sikkim, Nagaland and NepalIt is curated by Nimtho\u2019s Binita Chamling and Slow Pour CollectiveExpect never before had combinations of food and coffee, off menu items by Binita, their signature momo and specialty coffee drinks which you ll want moreMenuGorkhe achaar/Chicken Choila paired with  Japanese style iced pour over from NepalSel roti w/ Himalayan dum aloo or Chicken karchi marchi paired with Sikkim butter coffeeKhuri roll, mustard greens w/ chimping chutney paired with an earthy French press from NagalandNimtho\u2019s Signature momo (Veg/Chicken/Pork) paired with Timbur cold brew highballThenthuk(Veg/Chicken/Pork)Sikarni with coffee crumble",
-    "startDate": "2026-09-27T11:30:00+05:30",
-    "endDate": "2026-09-27T14:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Greater Kailash I, New Delhi, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55553280000000000000",
-        "longitude": "77.23373200000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3675.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Slow Pour Collective",
-      "url": "https://urbanaut.app/partner/slow-pour-collective"
-    },
-    "url": "https://urbanaut.app/spot/the-himalayan-table-delhi",
-    "keywords": [
-      "Workshop",
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Chatti Choru @ Cocobay",
-    "description": "Missed the Sadhya, you still got the *Chatti Choru* to try and this time it comes with a Non Vegetarian add on.\u00a0All Sept at Cocobay at Flxho Horizon One, 574 Sector 43 Golf Course Road",
-    "startDate": "2026-09-27T12:00:00+05:30",
-    "endDate": "2026-09-27T15:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Metro Station, 574, 43, off Golf Course Road, Sector 43, Gurugram, Haryana 122009, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.45706690000000000000",
-        "longitude": "77.09607650000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "730.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Cocobay - South Indian Cafe",
-      "url": "https://urbanaut.app/partner/cocobay-south-indian-cafe"
-    },
-    "url": "https://urbanaut.app/spot/chattichorucocobay",
-    "keywords": [
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Coffee & Canvas",
-    "description": "\ud83c\udfa8 Do you love skies?And do you believe your skies don\u2019t have to be just blue\u2014but can be pink, yellow, green, violet\u2026 or any colour you imagine? \ud83c\udf08\u2728Come join us for a fun Canvas Art Workshop where you can let your imagination take over, paint your own dreamy sky, and create something uniquely yours. \u2601\ufe0f\ud83c\udfa8And the best part? Paint while sipping your favourite coffee! \u2615No prior art experience needed-just bring your creativity and good vibes. \ud83d\udcabCome paint. Come sip. Come create your own sky. \ud83c\udf05",
-    "startDate": "2026-09-27T13:00:00+05:30",
-    "endDate": "2026-09-27T15:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "13-B, Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55455900000000000000",
-        "longitude": "77.19440500000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "549.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Riwayat Walks",
-      "url": "https://urbanaut.app/partner/riwayatwalks"
-    },
-    "url": "https://urbanaut.app/spot/coffee-canvas",
-    "keywords": [
-      "Leisure",
-      "Workshop",
-      "Food & drink",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
     "name": "SROT x Rosei Ghara | Chef's Table",
     "description": "SROT x Rosei Ghara \u2014 A Chef\u2019s TableFor two days this September, SROT joins Rosei Ghara for an intimate Chef\u2019s Table exploring the flavours of Odisha through a fresh, contemporary perspective.Led by Chef Nitesh Kumar Sinha and Chef Amit Kumar, SROT is rooted in rediscovering India\u2019s lesser-known regional cuisines and presenting them through a refined, modern expression. Together with Rosei Ghara, the chefs have created a 7-course tasting menu inspired by Odia ingredients, flavours and food traditions - familiar at heart, but reimagined for the table.What makes this edition particularly special is the setting. It will be hosted at Rosei Ghara\u2019s new diner in Shahpurjat, Delhi right alongside the kitchen where it all comes together. With just 10 guests at each service, expect a small, personal table and a menu created specifically for the occasion.26 & 27 SeptemberLunch \u2014 1 PM onwardsDinner \u2014 8 PM onwardsA table built around Odisha, collaboration, and the joy of seeing regional food take on a new form.",
     "startDate": "2026-09-27T13:00:00+05:30",
@@ -414,42 +223,6 @@
     },
     "url": "https://urbanaut.app/spot/how-criminal-wealth-hides-in-plain-sight",
     "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Haunted Walk: Mehrauli Archaeological Park",
-    "description": "Join us for a hauntingly beautiful night walk through the Mehrauli Archaeological Park, a place where centuries of Delhi\u2019s history come alive\u2014alongside tales of the unseen. In this special segment, Ruhaani Raatein, we delve into the world of djinns, the mystical beings believed to reside in this ancient land.Guided by a historian and storyteller, we\u2019ll explore how djinns are viewed and worshipped in Islamic traditions, and how folklore continues to shape the spiritual character of Mehrauli even today.Our walk will take you through: The tomb of Jamali Kamali, often called the Gay Taj Mahal for its poetic mystique and timeless love story A haunting 500-year-old baoli (stepwell)The remnants of a British-era swimming pool, hidden in plain sight A peaceful lakeside caf\u00e9, perfect for ending the evening with a quiet reflection or a warm chaiAs night falls and shadows grow, let the stories guide you through one of Delhi\u2019s oldest, most magical spaces\u2014where the past is never truly past.",
-    "startDate": "2026-09-27T17:00:00+05:30",
-    "endDate": "2026-10-04T18:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Anuvrat Marg, opposite Qutab Minar Metro Station, Christian Colony, Mehrauli, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52020410000000000000",
-        "longitude": "77.18767900000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "650.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Enroute Indian History",
-      "url": "https://urbanaut.app/partner/enrouteindianhistory"
-    },
-    "url": "https://urbanaut.app/spot/haunted-walk-mehrauli-archaeological-park",
-    "keywords": [
-      "Adventure",
       "URBANAUT"
     ]
   },
@@ -1051,6 +824,44 @@
       "Wellness",
       "Workshop",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Raat Ke Afsane : Qutub Minar",
+    "description": "Experience the magic of Qutub Minar like never before\u2014under the stars and glowing lights. This is a guided heritage walk led by a historian, who will take you through the stunning Qutub complex after dark. As the entire site is beautifully illuminated at night, the minaret shines like Delhi\u2019s very own Eiffel Tower\u2014majestic, mysterious, and unforgettable.Walk through centuries of history, discover forgotten stories, and explore Delhi\u2019s medieval past through engaging storytelling. The play of light, shadow, and silence transforms this heritage site into something truly cinematicPlaces we will cover : 1. Mughal Serai2. Alai Minar3. Iltutmish Tomb4. Qutub Minar5. Iron Pilar6. 27 Jain and hindu temples7. Alai Darwaza8. Alauddin Khilji grave and madarsa .Important Points:  1. Details of the heritage walk will be mailed to you when you book the tickets2. No guided fees for kids below 5.3. Medium of communication : Hindi and English4. Please note that in case of unavoidable external reasons such as (weather conditions, political rallies, VIP movement, powercut) the walk may be canceled. The participant has the liberty to take another walk by the company against the payment they have made within 30 days since the date of the registered walk.5. The company does not have refund policy.",
+    "startDate": "2026-10-03T18:30:00+05:30",
+    "endDate": "2026-10-31T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Qutub Minar Complex Rd, Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52371860000000000000",
+        "longitude": "77.18469040000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/raat-ke-afsane-qutub-minar",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
       "URBANAUT"
     ]
   },
