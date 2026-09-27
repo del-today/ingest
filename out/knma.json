@@ -80,26 +80,6 @@
     ]
   },
   {
-    "@type": "TheaterEvent",
-    "name": "Virasat",
-    "url": "https://www.knma.org/whats-on/performing-arts/virasat",
-    "startDate": "2026-09-24T10:00:00+05:30",
-    "endDate": "2026-09-27T18:00:00+05:30",
-    "description": "Theatre",
-    "location": {
-      "@type": "Place",
-      "name": "Sunder Nursery, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
     "@type": "EducationEvent",
     "name": "KNMA Curator-Led Walkthrough",
     "url": "https://www.knma.org/whats-on/guided-tours/knma-curator-led-walkthrough",
