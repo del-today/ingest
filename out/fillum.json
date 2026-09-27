@@ -1,1 +1,138 @@
-[]
+[
+  {
+    "@type": "ScreeningEvent",
+    "name": "My Neighbor Totoro(1988)",
+    "url": "https://fillum.in/screening/6200",
+    "startDate": "2026-09-27T12:00:00+05:30",
+    "endDate": "2026-09-27T12:00:00+05:30",
+    "description": "What if the forest next door was hiding a secret?Two sisters.A mysterious new home.A forest filled with whispers, spirits and creatures you could never have imagined.When childhood curio..more",
+    "location": {
+      "@type": "Place",
+      "name": "iPley Music Studio, GK-1",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "SomeArt"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Home Town Edition #4",
+    "url": "https://fillum.in/event/6188",
+    "startDate": "2026-09-27T14:00:00+05:30",
+    "endDate": "2026-09-27T14:00:00+05:30",
+    "description": "This time, we're taking Hometown to Saket Social.Films From Underground presents Hometown Edition #4 \u2014 4 homegrown indie shorts, one afternoon for independent cinema, the filmmakers who put th..more",
+    "location": {
+      "@type": "Place",
+      "name": "Saket Social, DLF Saket",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Films From Underground"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Nine to Five(1980)",
+    "url": "https://fillum.in/screening/6224",
+    "startDate": "2026-09-27T14:00:00+05:30",
+    "endDate": "2026-09-27T14:00:00+05:30",
+    "description": "Home screening set up with a projector and speaker, followed by a discussion. Please feel free to bring your own snacks. Please do not consume or carry any alcohol.RSVPs will be confirmed by Sun..more",
+    "location": {
+      "@type": "Place",
+      "name": "IP Extension, Patparganj",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Work in Progress Film Club"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "He Used To Bring Me Apples(2020)",
+    "url": "https://fillum.in/screening/6221",
+    "startDate": "2026-09-27T17:00:00+05:30",
+    "endDate": "2026-09-27T17:00:00+05:30",
+    "description": "The film will be followed by Q&A with the director. We will be discussing the land grab by corporates and the persecution of Indigenous activists in Kaziranga.",
+    "location": {
+      "@type": "Place",
+      "name": "mool, B-17 (basement), South Extension 2",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Camera Commune"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Flicks & Frames - 28th Edition",
+    "url": "https://fillum.in/event/6220",
+    "startDate": "2026-09-27T18:00:00+05:30",
+    "endDate": "2026-09-27T18:00:00+05:30",
+    "description": "THE ACCUSED - Subhankar DasA HANDSHAKE - Kanhaiya TrivediRIWAYAAT - Nishant Singh RajputOVER THINKING OVER LOVE OVER - Harsh Vardhan OjhaMERA SUPERMAN - Sarvjit & Harry KhalsaJoi..more",
+    "location": {
+      "@type": "Place",
+      "name": "Niv Art Centre (Studio A), Neb Sarai",
+      "address": "Sainik Farm, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Niv Art Centre & Film Studios"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Bhangaar (Obsolete)(2023)",
+    "url": "https://fillum.in/screening/6194",
+    "startDate": "2026-10-01T19:00:00+05:30",
+    "endDate": "2026-10-01T19:00:00+05:30",
+    "description": "Free entry.",
+    "location": {
+      "@type": "Place",
+      "name": "Stein Auditorium India Habitat Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kriti Film Club"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "To Die a Frenchman(2026)",
+    "url": "https://fillum.in/screening/6196",
+    "startDate": "2026-10-04T19:00:00+05:30",
+    "endDate": "2026-10-04T19:00:00+05:30",
+    "description": "Free entry.",
+    "location": {
+      "@type": "Place",
+      "name": "India Habitat Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kriti Film Club"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "EcoReels Selections and Conversation with Pradip Krishnen",
+    "url": "https://fillum.in/event/6197",
+    "startDate": "2026-10-05T19:00:00+05:30",
+    "endDate": "2026-10-05T19:00:00+05:30",
+    "description": "Free entry.THE BECOMING OF A WILDSCAPE(18:09 mins | English, Tamil, Kannada w. English subs | 2026 | Docu)Dir. Tanmayi Gidh (Untold Earth) |Prod. Zerodha Broking Pvt Ltd. and Teepoi Prod..more",
+    "location": {
+      "@type": "Place",
+      "name": "India Habitat Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kriti Film Club"
+    }
+  }
+]

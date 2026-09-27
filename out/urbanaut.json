@@ -1,157 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Kathika Cultural Experience",
-    "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
-    "startDate": "2026-09-26T11:30:00+05:30",
-    "endDate": "2026-09-30T14:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.64610280000000000000",
-        "longitude": "77.22736410000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kathika Cultural Centre and Museum",
-      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
-    },
-    "url": "https://urbanaut.app/spot/kathika-cultural-experience-15616",
-    "keywords": [
-      "Music",
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Chatti Choru @ Cocobay",
-    "description": "Missed the Sadhya, you still got the *Chatti Choru* to try and this time it comes with a Non Vegetarian add on.\u00a0All Sept at Cocobay at Flxho Horizon One, 574 Sector 43 Golf Course Road",
-    "startDate": "2026-09-26T12:00:00+05:30",
-    "endDate": "2026-09-27T15:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Metro Station, 574, 43, off Golf Course Road, Sector 43, Gurugram, Haryana 122009, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.45706690000000000000",
-        "longitude": "77.09607650000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "730.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Cocobay - South Indian Cafe",
-      "url": "https://urbanaut.app/partner/cocobay-south-indian-cafe"
-    },
-    "url": "https://urbanaut.app/spot/chattichorucocobay",
-    "keywords": [
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "SROT x Rosei Ghara | Chef's Table",
-    "description": "SROT x Rosei Ghara \u2014 A Chef\u2019s TableFor two days this September, SROT joins Rosei Ghara for an intimate Chef\u2019s Table exploring the flavours of Odisha through a fresh, contemporary perspective.Led by Chef Nitesh Kumar Sinha and Chef Amit Kumar, SROT is rooted in rediscovering India\u2019s lesser-known regional cuisines and presenting them through a refined, modern expression. Together with Rosei Ghara, the chefs have created a 7-course tasting menu inspired by Odia ingredients, flavours and food traditions - familiar at heart, but reimagined for the table.What makes this edition particularly special is the setting. It will be hosted at Rosei Ghara\u2019s new diner in Shahpurjat, Delhi right alongside the kitchen where it all comes together. With just 10 guests at each service, expect a small, personal table and a menu created specifically for the occasion.26 & 27 SeptemberLunch \u2014 1 PM onwardsDinner \u2014 8 PM onwardsA table built around Odisha, collaboration, and the joy of seeing regional food take on a new form.",
-    "startDate": "2026-09-26T13:00:00+05:30",
-    "endDate": "2026-09-27T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Shahpur Jat, Siri Fort, New Delhi, Delhi 110049, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54878510000000000000",
-        "longitude": "77.21596509999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Rosei Ghara",
-      "url": "https://urbanaut.app/partner/roseighara"
-    },
-    "url": "https://urbanaut.app/spot/srot-x-rosei-ghara-chefs-table",
-    "keywords": [
-      "Leisure",
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Hot Girls Do Pilates",
-    "description": "Let\u2019s make your Sunday morning extra feel-good with Hot Girls Do Pilates, a guided mat pilates experience by SWAG x Airia Mall.Come and feel fitter in the company of like-minded women, and stay back for a quick breakfast at Three O Clock cafe, and not to forget Foot care cream and socks by Moha.Here's the plan,We start with a Mat Pilates session.Slow down with some breath-work and meditation.Head for a quick Brekkie at Three O Clock cafe.Take home foot cream by MohaNo need to carry your mats, we will take care of that.Can't wait to see you this Sunday!",
-    "startDate": "2026-09-27T08:00:00+05:30",
-    "endDate": "2026-09-27T10:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Sector 68, Badshahpur Sohna Rd, Sector 68, Gurugram, Haryana 122101, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.38319810000000000000",
-        "longitude": "77.05290500000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swagpilates",
-    "keywords": [
-      "Wellness",
-      "Workshop",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Yoga, Art and Picnic - Vekawellness",
     "description": "A slow morning in a pretty garden.Vekawellness Movement Club is hosting a curated morning at \ud83d\udccdSangeet Shyamala, Vasant Vihar _Instructor-led_ yoga, meditation, a walk around the art gallery, guided journaling, and food & drinks on us.\ud83d\uddd3\ufe0f 27th September | Sunday 8:30 AM - 11:00 AM (please reach by 8:15 AM)What\u2019s included:\u2022  Yoga + meditation flow \ud83e\uddd8\u200d\u2640\ufe0f \u2022  A walk around the Art Gallery \ud83c\udfa8\u2022  Journaling session \ud83d\udcd4 \u2022  Food & drinks in the garden \ud83e\udeb4 Bring your mat. Arrive as you are, find your circle!",
@@ -268,6 +117,43 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
+    "name": "Chatti Choru @ Cocobay",
+    "description": "Missed the Sadhya, you still got the *Chatti Choru* to try and this time it comes with a Non Vegetarian add on.\u00a0All Sept at Cocobay at Flxho Horizon One, 574 Sector 43 Golf Course Road",
+    "startDate": "2026-09-27T12:00:00+05:30",
+    "endDate": "2026-09-27T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Metro Station, 574, 43, off Golf Course Road, Sector 43, Gurugram, Haryana 122009, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.45706690000000000000",
+        "longitude": "77.09607650000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "730.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Cocobay - South Indian Cafe",
+      "url": "https://urbanaut.app/partner/cocobay-south-indian-cafe"
+    },
+    "url": "https://urbanaut.app/spot/chattichorucocobay",
+    "keywords": [
+      "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
     "name": "Coffee & Canvas",
     "description": "\ud83c\udfa8 Do you love skies?And do you believe your skies don\u2019t have to be just blue\u2014but can be pink, yellow, green, violet\u2026 or any colour you imagine? \ud83c\udf08\u2728Come join us for a fun Canvas Art Workshop where you can let your imagination take over, paint your own dreamy sky, and create something uniquely yours. \u2601\ufe0f\ud83c\udfa8And the best part? Paint while sipping your favourite coffee! \u2615No prior art experience needed-just bring your creativity and good vibes. \ud83d\udcabCome paint. Come sip. Come create your own sky. \ud83c\udf05",
     "startDate": "2026-09-27T13:00:00+05:30",
@@ -301,6 +187,44 @@
       "Workshop",
       "Food & drink",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "SROT x Rosei Ghara | Chef's Table",
+    "description": "SROT x Rosei Ghara \u2014 A Chef\u2019s TableFor two days this September, SROT joins Rosei Ghara for an intimate Chef\u2019s Table exploring the flavours of Odisha through a fresh, contemporary perspective.Led by Chef Nitesh Kumar Sinha and Chef Amit Kumar, SROT is rooted in rediscovering India\u2019s lesser-known regional cuisines and presenting them through a refined, modern expression. Together with Rosei Ghara, the chefs have created a 7-course tasting menu inspired by Odia ingredients, flavours and food traditions - familiar at heart, but reimagined for the table.What makes this edition particularly special is the setting. It will be hosted at Rosei Ghara\u2019s new diner in Shahpurjat, Delhi right alongside the kitchen where it all comes together. With just 10 guests at each service, expect a small, personal table and a menu created specifically for the occasion.26 & 27 SeptemberLunch \u2014 1 PM onwardsDinner \u2014 8 PM onwardsA table built around Odisha, collaboration, and the joy of seeing regional food take on a new form.",
+    "startDate": "2026-09-27T13:00:00+05:30",
+    "endDate": "2026-09-27T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shahpur Jat, Siri Fort, New Delhi, Delhi 110049, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54878510000000000000",
+        "longitude": "77.21596509999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Rosei Ghara",
+      "url": "https://urbanaut.app/partner/roseighara"
+    },
+    "url": "https://urbanaut.app/spot/srot-x-rosei-ghara-chefs-table",
+    "keywords": [
+      "Leisure",
+      "Pop-up Event",
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -641,6 +565,44 @@
       "Live GIG",
       "Music",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Kathika Cultural Experience",
+    "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
+    "startDate": "2026-09-28T11:30:00+05:30",
+    "endDate": "2026-09-30T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64610280000000000000",
+        "longitude": "77.22736410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kathika Cultural Centre and Museum",
+      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
+    },
+    "url": "https://urbanaut.app/spot/kathika-cultural-experience-15616",
+    "keywords": [
+      "Music",
+      "History & heritage",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -1948,6 +1910,44 @@
       "Festival",
       "Food & drink",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Delhi Dash",
+    "description": "Think you know Delhi? Prove it.We\u2019re turning the city into a game board for one afternoon. You\u2019ll be sorted into teams at the starting line and sent off to crack clues, hunt down hidden spots and complete increasingly ridiculous missions before the other teams do.Come solo or with friends, everyone gets teamed up on the spot. You might start as strangers and finish aggressively arguing over whether you\u2019ve interpreted Clue #7 correctly.\ud83e\udde9 Clues, challenges and surprises\ud83d\udeb6\u200d\u2640\ufe0f Entirely on foot\ud83d\udc6f\u200d\u2640\ufe0f Teams formed at the starting line\ud83c\udfc6 Prizes + eternal bragging rights\ud83d\udc83 Women only\u00a0Come curious. Wear comfortable shoes. Leave with stories.",
+    "startDate": "2026-10-24T15:00:00+05:30",
+    "endDate": "2026-10-24T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.70405920000000000000",
+        "longitude": "77.10249019999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "362.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Ukiyo Collective",
+      "url": "https://urbanaut.app/partner/ukiyo"
+    },
+    "url": "https://urbanaut.app/spot/the-delhi-dash",
+    "keywords": [
+      "Local",
+      "Walking Tour",
+      "Active",
       "URBANAUT"
     ]
   },
