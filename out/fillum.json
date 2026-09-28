@@ -49,5 +49,22 @@
       "@type": "Organization",
       "name": "Kriti Film Club"
     }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Nico(2022)",
+    "url": "https://fillum.in/screening/6193",
+    "startDate": "2026-10-06T19:00:00+05:30",
+    "endDate": "2026-10-06T19:00:00+05:30",
+    "description": "Free entry. Post-screening discussion with Vani Subramanian.",
+    "location": {
+      "@type": "Place",
+      "name": "Siddhartha Hall, Goethe-Institut",
+      "address": "Lodhi Road, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Goethe-Institut New Delhi"
+    }
   }
 ]
