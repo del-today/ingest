@@ -1,1 +1,2100 @@
-[]
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Kathika Cultural Experience",
+    "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
+    "startDate": "2026-09-28T11:30:00+05:30",
+    "endDate": "2026-09-30T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64610280000000000000",
+        "longitude": "77.22736410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kathika Cultural Centre and Museum",
+      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
+    },
+    "url": "https://urbanaut.app/spot/kathika-cultural-experience-15616",
+    "keywords": [
+      "Music",
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Grounds for Thought: Janpath",
+    "description": "Grounds for Thought: Janpath, September 2026A Blue Tokai \u00d7 unLecture Series, Three Tuesday evenings. Three very different conversations.Grounds for Thought is a monthly series where Blue Tokai and unLecture bring researchers, scientists, and thinkers out of their institutions and into a coffee shop. The format is simple: an expert, a room full of curious people, and a conversation that goes somewhere a classroom rarely does. This September, the series spreads further than ever \u2014 four venues across Delhi and Bangalore, and a spread of ideas running from gender and work to princely politics, from children's books to comic-book uncles.17th September: Prateek MundejaWhy Do Good Ideas Fail in Government?Governance is usually discussed in ideals \u2014 promises, ambition, the world as it ought to be. Prateek Mundeja, Assistant Professor of Political Science and Mookerjee Fellow (2025\u201326), argues that the more useful question is a duller one: what actually works? This session takes a realist's tour through limited resources, institutional capacity, and the gap between stated intentions and delivered outcomes \u2014 and makes the case that ideals only survive contact with the world when backed by hard, unglamorous choices.29th September: Amitrajeet MukherjeeVoices from War: Revisiting John Keegan's The Face of BattleJohn Keegan's landmark book opened with a deceptively simple question \u2014 what is it actually like to be in a battle? Fifty years on, his witnesses remain almost entirely European, despite spanning centuries of warfare. Amitrajeet Mukherjee, a doctoral candidate in English Literature at Delhi University, widens that frame to the two and a half million Indians who served in the Second World War \u2014 diarists, letter-writers, the censored and the unrecorded \u2014 and asks whose voices get to define what \"war writing\" is for.",
+    "startDate": "2026-09-29T18:30:00+05:30",
+    "endDate": "2026-09-29T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "No 48, Mezzanine & Ground Floor, Atul Grove Road, Janpath, Connaught Place, New Delhi, Delhi 110001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.62697200000000000000",
+        "longitude": "77.21977799999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "550.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/grounds-for-thought-janpath-sept",
+    "keywords": [
+      "Workshop",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Brew & Paint: Coffee Painting Workshop",
+    "description": "Swap your paint set for freshly brewed coffee! In this cozy and sweet-smelling session, you will learn how mixing different amounts of water with coffee creates everything from light honey tones to dark chocolate browns. We will guide you step by step to paint soft washes, add shadows, and draw fine vintage details. Leave with a gorgeous sepia painting that looks antique and smells amazing.",
+    "startDate": "2026-10-01T16:00:00+05:30",
+    "endDate": "2026-10-01T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "N.S-5, Munirka Marg, next to MTNL Office, Indian Air Lines & Air India Estate, Vasant Vihar, New Delhi, Delhi 110057, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55951440000000000000",
+        "longitude": "77.15727950000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "944.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Oasis Art Studio",
+      "url": "https://urbanaut.app/partner/oasis-art-studio"
+    },
+    "url": "https://urbanaut.app/spot/brew-paint-coffee-painting-workshop",
+    "keywords": [
+      "Local",
+      "Workshop",
+      "Eco Friendly",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "GFT: October Edition in Defence Colony",
+    "description": "Grounds for Thought: October 2026A Blue Tokai \u00d7 unLecture SeriesGrounds for Thought is a monthly series where Blue Tokai and unLecture bring researchers,\u00a0scientists, and thinkers out of their institutions and into a coffee shop. The format is simple: an\u00a0expert, a room full of curious people, and a conversation that goes somewhere a classroom\u00a0rarely does. October runs across Delhi and Bangalore, moving from temple sculpture to constitutional pedagogy, from parenting in the AI age to the politics of a Bollywood item number.1st October: Dolan SamantaTemple sculpture is usually read as devotion \u2014 divine bodies carved to be worshipped. This\u00a0session argues it does something more: these images are sites where gender, desire, and\u00a0authority are negotiated, not just depicted.\u00a0Taking two ninth-to-eleventh-century carvings of \u015aiva\u00a0and P\u0101rvat\u012b from the N\u012blaka\u1e47\u1e6dha temple at K\u0101la\u00f1jara as its central text, and reading them\u00a0through Puranic myth, Foucault, and Judith Butler's account of gender as performance, Dolan\u00a0Samanta, a history educator and JNU-trained researcher, asks why \u015aiva appears nude, enraged, and armed, his sexuality fused with dominance, while P\u0101rvat\u012b appears smaller,\u00a0modest, at once desired and desiring. The question stone carved a thousand years ago still puts\u00a0to us: who was permitted power, and who was only expected to receive it?8th October: Tania KapoorMost parents still treat marks as the surest route to a child's future \u2014 but school mostly rewards memorising, following instructions, and reproducing the right answer in the right way, exactly the\u00a0kind of work AI is fastest at absorbing. Tania Kapoor, a Delhi-based child and adolescent psychologist trained at AIIMS, argues that what will actually distinguish children going forward \u2014 adaptability, emotional regulation, impulse control, comfort with ambiguity \u2014 is precisely what\u00a0classrooms and busy households keep treating as something to address \"later\" Grounded in\u00a0clinical practice, this session asks what parents should be paying attention to now, before later\u00a0becomes too late.15th October: Dr. Jasleen RanaEvery purchase carries a story that has little to do with the product itself \u2014 emotion, aspiration, insecurity, identity. Dr. Jasleen Rana, who holds a PhD in Consumer Psychology and teaches Marketing at JIMS Kalkaji, moves past the question of what we buy to the more revealing one\u00a0why. Through brand archetypes, hidden motivations, and everyday examples \u2014 choosing one\u00a0coffee shop over another, paying more for a brand that does exactly what a cheaper one does \u2014 this interactive session decodes the psychological triggers behind consumer choice, and\u00a0what those choices reveal about identity, belonging, and self-image.22nd October: Shubham YadavWhat if ordinary citizens believed they had something to teach the members of the Constituent\u00a0Assembly? Shubham Yadav, a Senior Research Fellow at JNU's Zakir Husain Centre for Educational Studies, argues that India's Constitution wasn't shaped by elites alone \u2014 it emerged from a running exchange in which both \"the people\" and \"the makers\" wanted to instruct each other on what the new nation should be. Framed as a conversation rather than a\u00a0lecture, the session traces that two-way pedagogy, and what it reveals about how theConstitution actually came to be built.",
+    "startDate": "2026-10-01T18:30:00+05:30",
+    "endDate": "2026-10-22T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "No A/57 to A/59, DDA Shopping Complex, Block F, Defence Colony, New Delhi, Delhi 110024, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.56615030000000000000",
+        "longitude": "77.23328000000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "550.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/gft-october-edition-in-defence-colony",
+    "keywords": [
+      "Food & drink",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Echoes of the Red Fort | Heritage Walk",
+    "description": "Step beyond the iconic red sandstone walls and discover the stories, spaces, and secrets that shaped one of Delhi\u2019s most celebrated landmarks.It is a guided heritage walk through the magnificent Red Fort, exploring its architecture, courtyards, gateways, royal chambers, gardens, and ceremonial spaces. Go beyond dates and dynasties as we uncover the people, traditions, craftsmanship, and fascinating episodes connected to the fort and the city of Shahjahanabad.",
+    "startDate": "2026-10-02T09:00:00+05:30",
+    "endDate": "2026-10-02T10:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Netaji Subhash Marg, Old Delhi, Lal Qila, Chandni Chowk, New Delhi, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.65615920000000000000",
+        "longitude": "77.24102030000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "720.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Riwayat Walks",
+      "url": "https://urbanaut.app/partner/riwayatwalks"
+    },
+    "url": "https://urbanaut.app/spot/echoes-of-the-red-fort-heritage-walk",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Nature Journaling",
+    "description": "A 2-hour Nature Journaling workshop to step away from the rush and spend some unhurried time simply noticing, exploring and being present. We\u2019ll begin with a gentle nature walk, where we\u2019ll learn about the flora and fauna around us, before finding a quiet spot by the lake to slow down and journal.What to expect:A gentle nature walk exploring the flora and faunaSlow observation & sensory explorationGuided nature journaling promptsMoments to pause, reflect and reconnect with the presentPlenty of unhurried time to simply beAll materials for the activityCome slow down, get curious about the little things around you, and rediscover the joy of dilly-dallying in nature \u2014 just like we did as children.",
+    "startDate": "2026-10-02T16:00:00+05:30",
+    "endDate": "2026-10-02T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "H6VW+PC6, Bharat Scouts and Guides Marg, Nizamuddin, National Zoological Park, Sundar Nagar, New Delhi, Delhi 110013, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59428540000000000000",
+        "longitude": "77.24600699999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "600.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Reset with Nature",
+      "url": "https://urbanaut.app/partner/reset-with-nature"
+    },
+    "url": "https://urbanaut.app/spot/nature-journaling-16940",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Walking Tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Night Walk in Qutub Minar: Gandhi Jayanti Special",
+    "description": "Experience the magic of Qutub Minar like never before\u2014under the stars and glowing lights.This is a guided heritage walk led by a historian, who will take you through the stunning Qutub complex after dark. As the entire site is beautifully illuminated at night, the minaret shines like Delhi\u2019s very own Eiffel Tower\u2014majestic, mysterious, and unforgettable.Walk through centuries of history, discover forgotten stories, and explore Delhi\u2019s medieval past through engaging storytelling. The play of light, shadow, and silence transforms this heritage site into something truly cinematicPlaces we will cover :1. Mughal Serai2. Alai Minar3. Iltutmish Tomb4. Qutub Minar5. Iron Pilar6. 27 Jain and hindu temples7. Alai Darwaza8. Alauddin Khilji grave and madarsa .Important Points:1. Details of the heritage walk will be mailed to you when you book the tickets2. No guided fees for kids below 5.3. Medium of communication : Hindi and English4. Please note that in case of unavoidable external reasons such as (weather conditions, political rallies, VIP movement, powercut) the walk may be canceled. The participant has the liberty to take another walk by the company against the payment they have made within 30 days since the date of the registered walk.5. The company does not have refund policy.",
+    "startDate": "2026-10-02T17:30:00+05:30",
+    "endDate": "2026-10-02T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52447540000000000000",
+        "longitude": "77.18552059999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/night-walk-in-qutub-minar-gandhi-jayanti-special",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "SUBKO x GULLY LABS: CINEMA GHAR (October)",
+    "description": "Subko Coffee and Gully Labs Present Cinema GharWelcome to Cinema Ghar, a cozy monthly gathering dedicated to celebrating independent filmmakers and passionate storytellers. Join us for an intimate evening of diverse short films, engaging post-screening Q&As, and vibrant conversations with local creators. Reserve your seat below to experience fresh cinema, support emerging talent, and connect with a community that loves movies as much as you do.This Month we haveSpear -Frank receives a journal diary of Emmy, a paranormal investigator. There is a ritual that Frank follows because he thinks it\u2019s all stupid and fake stuff. But after that, everything starts going sideways.Cigars on Canvas -When a famous visitor burns a young painter\u2019s canvas with a cigarette, the unexpected result fascinates her. In chasing that same accidental perfection, she slips into addiction and self-destruction\u2014until she is forced to confront the deeply subjective nature of art.Bulbul -Two ambulance drivers spend their days hauling dead bodies across the city like they\u2019re delivering pizzas. They trade insults and dark jokes over a fresh corpse, but their casual indifference is pushed to the limit when a routine shift turns into a devastating emotional wake up call.Lokkhon Rekha - This is a dark comedy set in a cramped Kolkata apartment, where Suman, a young man who has lost his job and his will to live, keeps failing to find the privacy to end his life amid a family of five. When a seemingly ordinary Saturday lunch tips into chaos, the smallest provocations expose the intergenerational trauma running through a dysfunctional middle-class household. What unfolds is a darkly comic, deeply uncomfortable portrait of a family that chooses not to see the pain in front of its own eyes.",
+    "startDate": "2026-10-02T19:30:00+05:30",
+    "endDate": "2026-10-02T21:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
+    },
+    "url": "https://urbanaut.app/spot/subko-x-gully-labs-cinema-ghar-october",
+    "keywords": [
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Bejewelled headphone making workshop X gully labs",
+    "description": "Turn your boring headphones into a bedazzling statement piece \u2728 Join us for a hands-on Bejeweled Headphone Workshop where you\u2019ll transform a standard pair of headphones into a bedazzled, one-of-a-kind wearable art masterpiece.",
+    "startDate": "2026-10-03T11:00:00+05:30",
+    "endDate": "2026-10-03T16:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Creative Rituals",
+      "url": "https://urbanaut.app/partner/creative-rituals"
+    },
+    "url": "https://urbanaut.app/spot/bejewelled-headphone-making-workshop-x-gully-labs",
+    "keywords": [
+      "Workshop",
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Cyanotype Workshop",
+    "description": "The workshop on the Cyanotype Process is an immersive one-day workshop where the participants learn the historic 19th century printmaking process and get to create their own unique handmade prints on both paper & fabric and take them home.Structure of the workshop:History of Cyanotype - Learn about the origin of Cyanotype, an alternative printing technique through a brief presentation.Science of Cyanotype - Mix chemicals and coat your own surfaces in a hands-on darkroom setting.Creation & Patience - Compose with natural elements and watch your images develop through light and time.Your Final Prints - Wash and finish the prints you've created to take home.Frequently asked questions:Is there any prior knowledge needed to attend this workshop?No, there is no prior knowledge needed for this workshop.Is there an age restriction for this workshop?Yes, the workshop is meant for 15 years and older.If there is no sun how would the workshop be conducted?On the days where the sun is not there we have an artificial source of UV light that can be used.Does cyanotype only work with leaves and other natural materials?No, cyanotype can be done with any flat object, we at Museo, also have some stock negatives that can be used during the workshop.Do we as participants need to bring anything?No, all equipment and materials will be provided by Museo.What is the recommended attire for the workshop?Comfortable clothing and shoes are recommended for the workshop.Will lunch be provided?Each participant will receive a 15% discount at the museum cafe.How many prints will I be able to make in the workshop?Each participant will make 10 paper prints and a fabric print, which they can take home.Once the workshop is over, how can I continue to practice the process?You can book the darkroom or you can buy the chemicals from us to create the solution and make prints at home. For both of them you would have to write to us at workshops@museocamera.orgIs Cyanotype safe?Yes, cyanotype is one of the safest photographic processes out there.Meet your trainers Aditya AryaLead facilitator 45+ years of experience Photographer, historian and Founder-Director of Museo Camera with years of experience across advertising and fine art, he champions the slowness of analog processes. He practices and teaches historic techniques like cyanotype and wet plate collodion, keeping them alive through hands-on learning.https://www.adityaarya.com/Khushi Upadhyay Assistant 2+ years of experience She is a photographer working with analog and alternative processes, embracing slowness while guiding others to do the same. Rooted in light and material, she leads cyanotype and historic process workshops through hands-on, immersive image-making.",
+    "startDate": "2026-10-03T11:00:00+05:30",
+    "endDate": "2026-10-17T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shri Ganesh Mandir Marg, Sector 28, DLF Phase IV, Gurugram, Haryana 122009, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46961600000000000000",
+        "longitude": "77.08038510000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3899.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Museo Camera",
+      "url": "https://urbanaut.app/partner/museo-camera"
+    },
+    "url": "https://urbanaut.app/spot/cyanotype-workshop-15572",
+    "keywords": [
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Wattpad Girlies Support Group | Fictional Red Flag",
+    "description": "For everyone whose formative years involved wildly questionable fictional men, impossible standards and plots we probably had no business reading at 14.We\u2019re getting a small group of women together in a cute GK caf\u00e9 to defend our tropes, confess our fiction sins, play games and collectively debrief the men who ruined us with plenty of time to eat, yap and meet people who grew up on the same lore.Join this exorcism for your reading history.Come solo or bring a friend. Food and Beverage voucher includedDM us @ukiyocollective_ for any questions!",
+    "startDate": "2026-10-03T13:00:00+05:30",
+    "endDate": "2026-10-03T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Greater Kailash II, Greater Kailash, New Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53536000000000000000",
+        "longitude": "77.24195220000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "549.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Ukiyo Collective",
+      "url": "https://urbanaut.app/partner/ukiyo"
+    },
+    "url": "https://urbanaut.app/spot/wattpad-girlies",
+    "keywords": [
+      "Leisure",
+      "Pop-up Event",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "When AI Starts Inventing",
+    "description": "When AI Starts Inventing: How AI Is Cracking Problems That Have Resisted Us for Decades, and How to Bring It from Big Tech's Labs to Your LaptopIn September 2026, OpenAI announced that a team of AI agents had produced a proof, machine-verified in Lean, for a problem about how fluids move that has stood open for ninety years and carries a million-dollar prize. Before that, an AI agent found a faster way to multiply matrices, the operation that sits underneath almost all modern computing, beating a record set in 1969. It is starting to feel routine: every few weeks, another problem that resisted people for decades quietly falls to an AI agent.How does this actually happen? That is what we will look at first, because the mechanism turns out to be stranger and simpler than most people expect.Then a harder question. Every time the agent is asked to produce something, someone pays, and the more capable the AI, the higher the bill. A single discovery run makes thousands of such calls, which is why almost all of this work happens inside a handful of enormously wealthy labs. In our lab we are trying to change that, and doing so means asking questions nobody bothers to ask when the budget is unlimited. Does every step really need the most expensive AI model, or would a cheaper one do just as well? Is every attempt the agent makes actually worth making? Our investigation of these discovery pipelines, across several notoriously hard problems, reveals that around 98% of the AI agent's calls contribute nothing to the eventual solution. And they still succeed. Which leaves a genuinely open question: is that waste the price of discovery, or simply a bill nobody has bothered to reduce?About the SpeakerProf. Sayan Ranu is the DS Chair Professor in AI at IIT Delhi, jointly appointed in the Department of Computer Science and Engineering and the Yardi School of AI. His research focuses on machine learning for structured data, particularly graphs, and increasingly on AI systems that can reason, plan and discover solutions on their own. His work spans automated algorithm discovery, AI agents, self-supervised learning and trustworthy AI. His research has been published at leading AI and machine learning conferences including NeurIPS, ICML, ICLR and KDD. He was also a recipient of the Teaching Excellence Award at IIT Delhi and currently serves as a Senior Area Chair for NeurIPS 2026 and Program Co-Chair for the Datasets & Benchmarks Track at KDD 2027.Book now & develop your own pint of view! \ud83c\udf7b",
+    "startDate": "2026-10-03T15:00:00+05:30",
+    "endDate": "2026-10-03T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Eldeco Centre, Hauz Rani, Malviya Nagar, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52840100000000000000",
+        "longitude": "77.20589749999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "999.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Pint of View Delhi NCR",
+      "url": "https://urbanaut.app/partner/pint-of-view-delhi-ncr"
+    },
+    "url": "https://urbanaut.app/spot/when-ai-starts-inventing",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Rewriting Epics The Feminist Way",
+    "description": "About the LectureThe Epics have held the Indian imagination since time immemorial, narrated, performed and rendered into cinema again and again. Looking at them afresh means asking the questions they've spent centuries deflecting: the role of women, the contribution of the dispossessed, and the quintessential human questions of survival and existence.A feminist retelling brings the women back to the centre. It strips away the proverbial sheen of the \"just\" war to focus on the human question underneath. Whether it's the fiery Draupadi, the \"manipulative\" Satyavati, the warrior queen Chitrangada, Janaki, or the duo of Kaikeyi and Manthara, the Epics allow us to deconstruct these women through a modern feminist lens.The session explores:How feminist retellings of the Mahabharata and Ramayana recentre their women charactersWhat writers like Tagore, Mahasweta Devi, Irawati Karve and Chitra Divakaruni reveal through their retellingsWhy the Epics' \"timeless\" characters remain contemporary and urgently relevantHow deconstructing canonical narratives changes what the stories are actually aboutAbout the SpeakerDr. Nandini C. Sen is a Professor of English at the University of Delhi \u2014 an author, editor, literary critic and storyteller. For nearly three decades, she has explored how literature shapes the way we understand history, identity, gender and the world around us, working across African Literature, Diaspora studies, mythology, postcolonial studies and feminist readings of the Indian epics. Her academic journey has taken her from Delhi to London as a Charles Wallace Scholar, to the Indian Institute of Advanced Study, Shimla as a Fellow, and to universities and literary forums across the world. She is the recipient of the Write India Award for creative writing, the Ambassador for Peace Prize for teaching in a slum cluster, and the Best Lecturer's Award from the Government of Delhi. She is the author of the bestselling short story collection The Second Wife and Other Stories, and editor of several acclaimed books.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-10-03T15:00:00+05:30",
+    "endDate": "2026-10-03T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "550.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/rewriting-epics-the-feminist-way-16395",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Paw-traits on Canvas: Acrylic Pet Portrait",
+    "description": "Paint your favorite dog, cat, or bird on a real canvas! Bring a clear photo of your pet on your phone, and we will show you how to sketch their face shape easily. You will learn simple brush tricks to paint soft, realistic fur, blend colorful background shades, and capture the sparkle in their eyes. No portrait experience needed; you will take home a finished piece ready to hang on your wall.",
+    "startDate": "2026-10-03T16:00:00+05:30",
+    "endDate": "2026-10-03T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "N.S-5, Munirka Marg, next to MTNL Office, Indian Air Lines & Air India Estate, Vasant Vihar, New Delhi, Delhi 110057, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55951440000000000000",
+        "longitude": "77.15727950000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "944.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Oasis Art Studio",
+      "url": "https://urbanaut.app/partner/oasis-art-studio"
+    },
+    "url": "https://urbanaut.app/spot/paw-traits-on-canvas-acrylic-pet-portrait",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Raat Ke Afsane : Qutub Minar",
+    "description": "Experience the magic of Qutub Minar like never before\u2014under the stars and glowing lights. This is a guided heritage walk led by a historian, who will take you through the stunning Qutub complex after dark. As the entire site is beautifully illuminated at night, the minaret shines like Delhi\u2019s very own Eiffel Tower\u2014majestic, mysterious, and unforgettable.Walk through centuries of history, discover forgotten stories, and explore Delhi\u2019s medieval past through engaging storytelling. The play of light, shadow, and silence transforms this heritage site into something truly cinematicPlaces we will cover : 1. Mughal Serai2. Alai Minar3. Iltutmish Tomb4. Qutub Minar5. Iron Pilar6. 27 Jain and hindu temples7. Alai Darwaza8. Alauddin Khilji grave and madarsa .Important Points:  1. Details of the heritage walk will be mailed to you when you book the tickets2. No guided fees for kids below 5.3. Medium of communication : Hindi and English4. Please note that in case of unavoidable external reasons such as (weather conditions, political rallies, VIP movement, powercut) the walk may be canceled. The participant has the liberty to take another walk by the company against the payment they have made within 30 days since the date of the registered walk.5. The company does not have refund policy.",
+    "startDate": "2026-10-03T18:30:00+05:30",
+    "endDate": "2026-10-31T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Qutub Minar Complex Rd, Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52371860000000000000",
+        "longitude": "77.18469040000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/raat-ke-afsane-qutub-minar",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Pocket IV (supported by Arlo & Maya)",
+    "description": "Pocket IV makes a full circle as they return to Depot 48 since making their debut here in Pride Month. Being a queer inclusive band, there is no venue that brings us more joy to perform at than Depot 48, as we strive to bridge the gap between the new and the old and across varied identities, answering one simple question- what if Bollywood retro classics were made by Gen-Zs and Millenials? What if we came together for one night to celebrate love.Arlo and Maya are a duo putting forth on stage their love of retro music- and beyond. With a blend of finger-style guitar and vocals, they bring a unique dynamic to stage, asking everyone to join in to sing along to hits from all ages.",
+    "startDate": "2026-10-03T21:00:00+05:30",
+    "endDate": "2026-10-03T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/pocket-iv-supported-by-arlo-maya",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Running, Photo Walk & Coffee Rave",
+    "description": "A Sunday morning, but make it active and fun.We\u2019re meeting at Lodhi Garden for a Sunday morning run, a photo walk, and coffee + music + conversation with good people.Come move, wander, click pictures, meet strangers and make your Sunday morning count.4 October 20267 AM onwardsLodhi GardenCome as you are. Bring your phone/camera, your running shoes & your favourite people.See you on Sunday.",
+    "startDate": "2026-10-04T07:00:00+05:30",
+    "endDate": "2026-10-04T09:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Lodhi Rd, Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59309590000000000000",
+        "longitude": "77.21967939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "249.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Shoshabaazi",
+      "url": "https://urbanaut.app/partner/shoshabaazi"
+    },
+    "url": "https://urbanaut.app/spot/running-photo-walk-coffee-rave",
+    "keywords": [
+      "Wellness",
+      "Active",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Shakti Walk : Durga Idol making at CR Park",
+    "description": "Shakti Walk - Durga Idol Making at C.R. ParkStep into the vibrant lanes of Chittaranjan Park, Delhi's very own mini-Kolkata, where the spirit of Durga Puja comes alive long before the festivities begin. This special Shakti Walk takes you into the heart of Kumartuli - the artisan quarters - where skilled craftsmen shape clay into the awe-inspiring idols of Goddess Durga.Watch the magical process unfold as straw, clay, and colours are transformed into divine forms. Along the way, discover the traditions, rituals, and stories that make Durga Puja more than just a festival - it's an emotion, a celebration of feminine power, or Shakti.Join us for this unique experience that blends culture, devotion, and artistry in the most soulful way.",
+    "startDate": "2026-10-04T08:00:00+05:30",
+    "endDate": "2026-10-04T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Chittaranjan Park, New Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53978420000000000000",
+        "longitude": "77.24897260000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/shakti-walk-durga-idol-making-at-cr-park",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Humayun's Tomb & Museum : A heritage walk",
+    "description": "Step into the grandeur of Humayun's Tomb with us for an immersive heritage walk that goes beyond stone and symmetry.We will not only explore the monument\u2019s magnificent architecture, its Persian influences, and its place in the evolution of Mughal design \u2014 but also rediscover Humayun himself, perhaps the most underestimated of the Mughals. His struggles, exile, return, and legacy shaped the empire in ways we rarely pause to notice.Our journey will then continue to the Humayun's Tomb Museum \u2014 because no visit to the tomb is truly complete without experiencing the stories, artefacts, and narratives preserved there.Come, walk through history \u2014 and meet the emperor behind the monument.(walk is curated by Darwesh heritage walks in collaboration with Sabhyata foundation)",
+    "startDate": "2026-10-04T09:00:00+05:30",
+    "endDate": "2026-10-04T11:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Hazrat Nizamuddin Aulia Dargah, Mathura Rd, Nizamuddin, Nizamuddin East, New Delhi, Delhi 110013, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59328480000000000000",
+        "longitude": "77.25074920000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/htm",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Walk at Harappan and Stone Age Gallery",
+    "description": "Explore the National Museum's Harappan Gallery with Silsila Heritage. It hosts a variety of artifacts, including the Dancing Girl, the Pashupati seal, terracotta figures of the Mother Goddess, and so on.Understand what makes the Harappan script the most debated topic in popular discourse. What religion did the Harappan people follow? What led to the decline of the Harappan civilization, and was it abrupt?We will also bring you stories of the excavations done in the 1920s and how popular understanding of the Harappans has created many myths around them.Let's explore the Harappan world together!",
+    "startDate": "2026-10-04T10:00:00+05:30",
+    "endDate": "2026-10-04T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Janpath Rd, Central Secretariat, Kartavya Path, New Delhi, Delhi 110011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.61190780000000000000",
+        "longitude": "77.21929089999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Silsila Heritage",
+      "url": "https://urbanaut.app/partner/silsilaheritage"
+    },
+    "url": "https://urbanaut.app/spot/silsilaharappa",
+    "keywords": [
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Time Lapse - A Guided Walk of Analog Photography",
+    "description": "Time Lapse - A Guided Walk Tracing Two Centuries of Analog PhotographyJoin us on a journey spanning more than 200 years of photography, exploring a collection of 2500+ antique cameras, historic photographic processes, original archives, and a dazzling array of photographic ephemera. The walk also offers a rare look inside a fully functioning darkroom, with demonstrations of analog techniques, film loading, enlargers, and traditional printing processes.",
+    "startDate": "2026-10-04T12:00:00+05:30",
+    "endDate": "2026-10-04T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shri Ganesh Mandir Marg, Sector 28, DLF Phase IV, Gurugram, Haryana 122009, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46961600000000000000",
+        "longitude": "77.08038510000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Museo Camera",
+      "url": "https://urbanaut.app/partner/museo-camera"
+    },
+    "url": "https://urbanaut.app/spot/time-lapse-a-guided-walk-of-analog-photography",
+    "keywords": [
+      "Walking Tour",
+      "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Nani's Table by V's Supper Stories",
+    "description": "Nani ka Ghar by V's Supper Stories A supper brunch of home-cooked nostalgia.Some recipes don't survive migration. They get left behind in old kitchens, remembered only in fragments- a smell, a story, a dish someone's grandmother used to make that no one quite knows how to recreate anymore.Nani ka Ghar is a supper built around dishes like that. Rooted in Multan, where my own Nani is from, and reaching into Lahore and Sindh - the homes our grandparents carried with them. This menu brings back food that's slow, laborious, and increasingly rare: a sourdough flatbread fermented over three days, a lotus-stem starter barely made anymore even in Sindhi households, a moth dal kachori you'll mostly only find on a handful of old Delhi streets.Alongside them sit the dishes that never left, a rich Lahori chicken karahi, a comforting channay, and phirni made exactly the way it's made every Holi in our family, because some things don't need reviving. They just need to be shared.Come hungry. Come with stories of your own kitchens, if you have them.Date - 4th October Time - 12:30pm - 3pmA limited seating supper. Multani, Lahori, and Sindhi dishes, veg and non-veg options available.",
+    "startDate": "2026-10-04T12:30:00+05:30",
+    "endDate": "2026-10-04T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Maple Community, A-840 A, Block A, Sushant Lok Phase I, Sector 43, Gurugram, Haryana 122009, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.47081920000000000000",
+        "longitude": "77.07737470000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3100.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "V's Supper Stories",
+      "url": "https://urbanaut.app/partner/vsupperstories"
+    },
+    "url": "https://urbanaut.app/spot/nanikaghar",
+    "keywords": [
+      "Premium",
+      "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Lucia's Student Showcase 2026 | The Rising Stars",
+    "description": "Sentirenla Lucia is a vocalist, vocal coach and performing artist specializing in R&B, Neo-soul and Contemporary Jazz. Originally from Nagaland and Kerala, India, she draws on her diverse cultural heritage and deep roots in gospel, choral and contemporary music.Based in New Delhi since 2016, Lucia teaches private voice and has worked with The British School, Global Music Institute and Blue Notes School of Music in the Delhi NCR region. She works with singers focusing on healthy vocal technique, musicality, confidence and individual expression. She continues to perform whenever the opportunity arises. Many students that she has mentored have been accepted into prestigious Music Colleges such as Berklee College of Music, Oberlin Conservatory of Music, BIMM etc. with scholarship under her tutelage.Lucia began performing and recording professionally in New Delhi, working on jingles and television projects that received nationwide radio and television airplay. In 2002, she became a founding member of Artistes Unlimited, a 60-member choir and charitable trust, collaborating with artists including Shubha Mudgal, Parikrama and composer Julius Packiam. She has also performed with Them Clones and other leading musicians.In 2005, Lucia received a scholarship through Berklee College of Music\u2019s World Scholarship Tour. She graduated from Berklee in 2010 with a degree in Vocal Performance. During her time there, she performed at the Berklee Performance Center, sang background vocals for artists including Tata Vega, Rhiannon and Larry Watson, and shared stages with Lalah Hathaway, Amel Larrieux, Esperanza Spalding and Eguie Castrillo. She also worked as a session vocalist and was selected to sing in a tribute to Angelique Kidjo at Berklee\u2019s graduation ceremony.Lucia has taught and performed in both India and the United States. In Boston, she taught private voice and directed a cappella ensembles at Zumix, City Music \u2013 Berklee College of Music and School of Groove. She has also performed with Jazz Urbane, Semper Soul, The Singing Tribe and Sung Deep, and founded Phoenix Anthology to promote musical diversity and create opportunities for musicians from Nagaland. After she received her Artist Visa she taught private voice lessons and background. She also had the privilege to attend a workshop with Bobby McFerrin, who is her inspiration and since then has been on the journey to discover every aspect of vocal training attainable.Lucia hopes to inspire and motivate those who may have lost their sense of purpose through music, while continuing to learn, perform and contribute to a more diverse and expressive musical community.",
+    "startDate": "2026-10-04T13:30:00+05:30",
+    "endDate": "2026-10-04T14:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/lucias-student-showcase-2026-the-rising-stars",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Lucia's Student Showcase 2026 | The Showstoppers",
+    "description": "Sentirenla Lucia is a vocalist, vocal coach and performing artist specializing in R&B, Neo-soul and Contemporary Jazz. Originally from Nagaland and Kerala, India, she draws on her diverse cultural heritage and deep roots in gospel, choral and contemporary music. Based in New Delhi since 2016, Lucia teaches private voice and has worked with The British School, Global Music Institute and Blue Notes School of Music in the Delhi NCR region. She works with singers focusing on healthy vocal technique, musicality, confidence and individual expression. She continues to perform whenever the opportunity arises. Many students that she has mentored have been accepted into prestigious Music Colleges such as Berklee College of Music, Oberlin Conservatory of Music, BIMM etc. with scholarship under her tutelage. Lucia began performing and recording professionally in New Delhi, working on jingles and television projects that received nationwide radio and television airplay. In 2002, she became a founding member of Artistes Unlimited, a 60-member choir and charitable trust, collaborating with artists including Shubha Mudgal, Parikrama and composer Julius Packiam. She has also performed with Them Clones and other leading musicians. In 2005, Lucia received a scholarship through Berklee College of Music\u2019s World Scholarship Tour. She graduated from Berklee in 2010 with a degree in Vocal Performance. During her time there, she performed at the Berklee Performance Center, sang background vocals for artists including Tata Vega, Rhiannon and Larry Watson, and shared stages with Lalah Hathaway, Amel Larrieux, Esperanza Spalding and Eguie Castrillo. She also worked as a session vocalist and was selected to sing in a tribute to Angelique Kidjo at Berklee\u2019s graduation ceremony. Lucia has taught and performed in both India and the United States. In Boston, she taught private voice and directed a cappella ensembles at Zumix, City Music \u2013 Berklee College of Music and School of Groove. She has also performed with Jazz Urbane, Semper Soul, The Singing Tribe and Sung Deep, and founded Phoenix Anthology to promote musical diversity and create opportunities for musicians from Nagaland. After she received her Artist Visa she taught private voice lessons and background. She also had the privilege to attend a workshop with Bobby McFerrin, who is her inspiration and since then has been on the journey to discover every aspect of vocal training attainable. Lucia hopes to inspire and motivate those who may have lost their sense of purpose through music, while continuing to learn, perform and contribute to a more diverse and expressive musical community.",
+    "startDate": "2026-10-04T15:30:00+05:30",
+    "endDate": "2026-10-04T16:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/the-showstoppers",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Yamuna- A river, A city, A memory",
+    "description": "The Yamuna has been many things to Delhi \u2014 a river, a boundary, a source of life, a sacredpresence, and a witness to the making and remaking of the city.On this walk at the Vasudev Ghat near Kashmere Gate we follow the river through the story of Delhi itself. We look at the floodplains thatonce allowed the Yamuna to breathe, and trace the changing relationship between the river and arapidly expanding city. We explore the many drains that now carry the city\u2019s waste into the river,the challenges of treating that waste, and the difficult question of what happens when a cityslowly turns its back on the river that sustains it.But the Yamuna is more than an environmental story. She is Yamuna Mata \u2014 a goddess, a mother, and a deeply loved presence in Hindu mythology. We explore the stories, beliefs and rituals that have shaped the sacred imagination around this river for centuries.And as the evening gathers, we end where the river meets ritual. The walk culminates in the Yamuna Aarti at Vasudev Ghat, held every Sunday evening \u2014 an evocative coming together of river, light, music, prayer and memory.As lamps are lit and the aarti unfolds beside the darkening river, the Yamuna becomes, for a brief while, not just the river that flows through Delhi, but the river that lives within its imagination.(Plz note the fee being charged is just for the curated experience & not for entry into Vasudev ghat)",
+    "startDate": "2026-10-04T16:00:00+05:30",
+    "endDate": "2026-10-04T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M6CM+M3C, Ladakh Budh Vihar Colony, Qudsia Ghat, New Delhi, Delhi, 110054, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.67169220000000000000",
+        "longitude": "77.23264490000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "900.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/yamuna-a-river-a-city-a-memory",
+    "keywords": [
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Clay in the Wild",
+    "description": "2-Hour Nature Pottery ExperienceStep into a gentle rhythm of nature and creativity in this two-hour immersive session.We begin with a slow, mindful nature walk, exploring trails alongside scientists that are usually not open for public exploration. As you walk, you\u2019ll discover hidden details of the landscape, gathering inspiration, textures, and a few fallen leaves or flowers along the way.We then settle in to work with our hands.Using soft air-dry clay, you\u2019ll shape your own trinket trays and small plates, creating one-of-a-kind botanical imprints inspired by what you discovered on the trail.This is more than craft. It\u2019s a quiet conversation with the natural world:Feel the cool clay respond to your touchDiscover patterns hidden in leaves, bark, and wild stemsExplore lesser-known trails with scientists and learn about the natural world around youCreate functional pieces that carry a little memory of the landscape homeCome ready to walk, explore, gather, imprint, and shape.You\u2019ll leave with handmade trays and plates that hold both beauty and the calm of time spent deeply engaged with nature.",
+    "startDate": "2026-10-04T16:00:00+05:30",
+    "endDate": "2026-10-04T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Nehru park, Ramnagar, Chanakyapuri, New Delhi, Delhi 110021, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59096880000000000000",
+        "longitude": "77.19320030000002000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "999.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Reset with Nature",
+      "url": "https://urbanaut.app/partner/reset-with-nature"
+    },
+    "url": "https://urbanaut.app/spot/clay-in-the-wild-16909",
+    "keywords": [
+      "Wellness",
+      "Eco Friendly",
+      "Walking Tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Body Language Speaks Louder Than Words",
+    "description": "About the LectureA raised eyebrow. A shift in posture. A half-second pause before an answer. Long before you finish a sentence, your body has usually already told the room the truth.This lecture explores body language as one of the most powerful forms of communication we have. From micro-expressions and eye movements to posture, gestures and the subtle inconsistencies between what someone says and what they do, we'll examine how non-verbal cues reveal emotion, confidence, stress and intention long before words catch up.Drawing on years of training law enforcement, forensic and academic institutions across India \u2014 from the Delhi Police Crime Branch to CISF and the CBI's forensic science laboratory \u2014 and on his recent analysis of world leaders at the BRICS Summit in New Delhi, Gaurav Gill takes the same tools used in interrogation rooms and diplomatic summits and turns them toward everyday life: negotiations, dates, interviews, and the conversations you have every day without realising how much you're saying.The session explores:How facial expressions, posture and gestures reveal what words often hideThe difference between a nervous habit and a genuine sign of deceptionHow law enforcement and forensic experts read non-verbal cues in real investigationsPractical ways to apply body language reading to your own personal and professional lifeAbout the SpeakerGaurav Gill is a body language expert and consultant psychologist who has trained several of India's most prestigious law enforcement, forensic and academic institutions. In September 2026, WION News invited him to analyse the non-verbal communication of global leaders at the 18th BRICS Summit in New Delhi, decoding the handshakes, gestures, posture, facial expressions, eye contact and physical proximity behind high-level diplomatic engagements. He has also featured on Raj Shamani's Figuring Out podcast, in an episode that has drawn more than 2.9 million views.His training assignments include the Delhi Police Crime Branch AHTU, Delhi Police (Central District \u2014 Kamla Market, Hauz Khas and IP Estate), Pune Police and Pune Crime Branch AHTU, SPUWAC Headquarters (Special Police Unit for Women and Children), the Railway Protection Force (RPF), Government Railway Police (GRP), CISF and the CISF ASG Unit. He has conducted specialised body language training for forensic experts at DFSS-CFSL (formerly CBI-CFSL), New Delhi, and has been guest faculty at the National Forensic Sciences University (Delhi and Goa campuses), Rashtriya Raksha University (Gujarat campus) and the Juvenile Justice Board (JJB-VII), Dwarka, Delhi.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-10-04T16:00:00+05:30",
+    "endDate": "2026-10-04T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "32nd avenue, Sector 15 Part 2, Sector 15, Gurugram, Haryana 122001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46145160000000000000",
+        "longitude": "77.04983410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/body-language-speaks-louder-than-words",
+    "keywords": [
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Serving Clarity: Your Professional Glowup",
+    "description": "Feeling stuck? questioning your career? randomly wondering \u201cwait\u2026 is this actually what i want to do?\u201d\u200byeah, this one\u2019s for you. We\u2019re hosting a wellness-led career clarity session for women who are figuring things out \u2014 career switches, burnout, dissatisfaction, indecision, or just wanting to know what\u2019s next.\u200bNo boring career counselling. no \u201c5 steps to find your dream job\" just guided exercises, honest conversations, reflection, a little yapping, and space to actually figure out what you want.\u200bwhat\u2019s happening\u200b\u2192 guided career clarity activities\u200b\u2192 conversations + reflection\u200b\u2192 practical prompts to unpack your next move\u200b\u2192 a room full of women figuring it out too\u200b\ud83c\udfa4 meet the speaker\u200bTarika Khanna is a Warwick graduate, entrepreneur, and career researcher. After graduating in Global Sustainable Development, she returned to India and co-founded WitWise Education, an education consulting startup.\u200bWhile building WitWise, she noticed how many young people felt confused, dissatisfied, or simply unsure about their career paths. Even though you got the \u201c right job\u201d it still didn\u2019t feel right. Today, she\u2019s researching Gen Z, career dissatisfaction, workplace culture, and why we leave jobs.\u200bHaving navigated the \u201cwhat am I actually doing with my life?\u201d phase herself, Tarika is exploring how we can build careers more intentionally beyond the endless advice to \u201cfind your passion\u201d and \u201cfollow the right path.\u201d\u200bIf you\u2019re lost, overwhelmed, or just questioning your career choices, this session is for you.\u200bPS: this is not a preachy lecture session. Come expect fun, therapeutic chat and a sense of comfortWhat should the attendee know? Please note that the Sunder Nursery entry ticket is not included and must be purchased separately by the attendee.",
+    "startDate": "2026-10-04T16:00:00+05:30",
+    "endDate": "2026-10-04T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Bharat Scouts and Guides Marg, opposite Humayun Tomb Park, Nizamuddin, Hazrat Nizamuddin, National Zoological Park, Sundar Nagar, New Delhi, Delhi 110013, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59564670000000000000",
+        "longitude": "77.24516910000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Galhood",
+      "url": "https://urbanaut.app/partner/the-galhood"
+    },
+    "url": "https://urbanaut.app/spot/serving-clarity-your-professional-glowup",
+    "keywords": [
+      "Wellness",
+      "Pop-up Event",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "RAAG2ROCK",
+    "description": "OneStoryHigh Unplugged presentsRAAG2ROCKOneStoryHigh brings its curated gatherings to live music, with an evening built around two generations of musicians.Expect music from across the generations, performed live, all in one small, easy Sunday evening.English & Hindi | Pop & Rock | Mashups\u00a0Vocal | Solo Guitar | Percussions \u00a0Open Mic & JamSunday, 4 October | 4:30 - 6:30 PMThe Social House, Hauz Khas Village,\u00a0New DelhiLimited seats | Book your spot now.",
+    "startDate": "2026-10-04T16:30:00+05:30",
+    "endDate": "2026-10-04T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Building no. 18, 2nd Floor, Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55467540000000000000",
+        "longitude": "77.19423619999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "OneStoryHigh",
+      "url": "https://urbanaut.app/partner/story-spotting-an-evening-with-a-bollywood-screenwriter"
+    },
+    "url": "https://urbanaut.app/spot/raag2rockgig",
+    "keywords": [
+      "Live GIG",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Cultures Through Clay: Civilisation Held In A Bowl",
+    "description": "About the LectureWe sometimes just think of pots as functional. But across three cultures \u2014 Bangladesh, Turkey and Japan \u2014 the same simple act of shaping wet clay reveals three completely different value systems: community and belonging, beauty and craftsmanship, imperfection and impermanence.This talk isn't really about pottery. It's about how to read the objects around us, and what your own everyday things might be quietly saying about you.Drawing on folklorist Henry Glassie's The Potter's Art, the session zooms into three pottery traditions: in Bangladesh, pottery woven into caste, community and everyday ritual life; in Turkey, pottery as a vessel for aesthetic pride and decorative mastery; and in Japan's Hagi tradition, tied to the tea ceremony, where the values invert entirely \u2014 imperfection, asymmetry and impermanence, the wabi-sabi aesthetic, are not flaws to correct but the entire point.The session explores:How the same craft, shaping wet clay, produces radically different worlds of meaning across culturesWhat pottery in Bangladesh, Turkey and Japan reveals about caste, beauty and impermanenceWhy folk art is never really anonymous, static or purely functionalWhat your own everyday objects might be quietly saying about what you valueAbout the Speaker Simran Sushila is a folklorist and a professor, currently pursuing her PhD in Folklore at Indiana University Bloomington, USA. Her research looks at how communities use tradition to make sense of identity, memory, belonging, and change....and then, somewhere along the way, the she became an entrepreneur. Years of teaching and evaluating students made her increasingly curious about something: how does a person take what they know \u2013 and make another person see it, understand it, and believe it?That question became The VoiceCraft Institute: her attempt to build something India doesn't quite have yet \u2013 a serious space for learning expression, language, and communication, beyond grammar classes and beyond test-prep English.Because knowing English is one thing. Knowing what to say, how to say it, and how to make it land \u2013 that's a craft. And crafts can be taught.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-10-04T16:30:00+05:30",
+    "endDate": "2026-10-04T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M-25, First Floor, Greater Kailash-2, M-Block Market, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53348370000000000000",
+        "longitude": "77.24203949999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/cultures-through-clay-civilisation-held-in-a-bowl",
+    "keywords": [
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Manish Vaid Project",
+    "description": "Manish vaid Project is Delhi based Bollywood Pop Rock Band. The Group is composed of Manish, Anuj, Pawan and Vishal. The band is known for their tasteful renditions as well as for creating original music with a unique perspective.",
+    "startDate": "2026-10-04T21:00:00+05:30",
+    "endDate": "2026-10-04T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "399.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/manish-vaid-project",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "ART AFTER DARK",
+    "description": "Tired of the post-work scroll-and-sleep routine? Reclaim your weeknights with Punching Out: our new series designed to give your brain a creative break after work!We\u2019re kicking things off with our 4-Session Drawing Workshop, starting right when your workday wraps!Whether you haven't touched a pencil since high school or just want to try something new, this beginner-friendly series covers the fundamentals using the classic academic method of drawing. You'll work from life with a  model in a relaxed, easygoing setting.Ditch the couch, and come hang out for a few hours of pure creativity. No experience needed\u2014just show up!",
+    "startDate": "2026-10-07T20:00:00+05:30",
+    "endDate": "2026-10-28T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1620.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
+    },
+    "url": "https://urbanaut.app/spot/art-after-dark",
+    "keywords": [
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Lil Mama Tips and the Band",
+    "description": "Tipriti Kharbangar the blues queen of India is back at Depot with her band ",
+    "startDate": "2026-10-07T21:00:00+05:30",
+    "endDate": "2026-10-07T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1050.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/lil-mama-tips-and-the-band",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "KAASHI in concert for DSIF (Creating Value)",
+    "description": "Get ready for an unforgettable evening of soul-stirring music with Kaashi The Band, blending heart-pounding rock with rich melodies! Every ticket you buy directly powers DSIF\u2019s grassroots mission to transform lives and uplift local communities. Join us for a night where great entertainment meets meaningful impact!",
+    "startDate": "2026-10-09T20:30:00+05:30",
+    "endDate": "2026-10-09T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "400.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/kaashi-in-concert-for-dsif-creating-value",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Dawn Trails & Lakeside Picnic in Delhi NCR",
+    "description": "This early morning hiking experience takes you across rocky paths, scenic ridgelines and a picturesque lakeside setting, offering a refreshing escape into nature.The experience brings together gentle adventure, outdoor exploration, group activities and a picnic breakfast, making it suitable for beginners, couples, friends and solo travellers.Participants will be accompanied by experienced hike leaders throughout the trail.The experience also includes a curated picnic breakfast, storytelling, engaging group activities and basic first aid support.Experience Schedule1. Arrival and Meet Up at 5:15 AMReach the starting point by 5:15 AM and meet the rest of the group before setting off.Briefing and Introduction: Get acquainted with the hike leaders as they give you a quick overview of the trail, the experience and what to expect during the morning.2. Sunrise Hike Begins at 5:30 AMBegin the hike at 5:30 AM and follow a guided route through scenic trails, rocky stretches and boulder sections.Enjoy the peaceful morning atmosphere and beautiful views as the landscape comes alive around you.3. Nature Pause and Group ActivitiesTake brief pauses during the hike to soak in the surroundings and discover interesting details about the natural landscape.Participate in fun outdoor activities designed to keep the group engaged and make the experience more interactive.4. Picnic BreakfastStop at a scenic location to unwind and enjoy a curated picnic breakfast.Take some time to relax, connect with the group and enjoy your meal surrounded by nature.5. Walk Back and Wrap Up at 8:30 AMBegin the return walk with the group after the picnic and make your way back to the starting point.",
+    "startDate": "2026-10-10T05:30:00+05:30",
+    "endDate": "2026-10-10T09:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "95VP+C6C, Mangar, Haryana 121004, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.39356250000000000000",
+        "longitude": "77.18551560000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1428.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Trail It Hiking and Outdoors",
+      "url": "https://urbanaut.app/partner/trail-it-hiking-and-outdoors"
+    },
+    "url": "https://urbanaut.app/spot/picnicatmangarlake",
+    "keywords": [
+      "Adventure",
+      "Premium",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Designing Your Life, The Stanford Way",
+    "description": "About the LectureWhat if the life you're living right now is one you drifted into by default, not one you chose?We are born into stories, about success, work, money, relationships, identity and what a good life should look like. Somewhere along the way, those stories start to feel like our own, and a life shaped by default begins to feel like one shaped by choice.Stanford's Designing Your Life offers another way to look at it: life as something you can actively design. That doesn't mean finding one \"true\" self or one perfect path. It means moving towards self-authorship: questioning the narratives you inherited, imagining different futures, and accepting that there may be more than one life within you worth living.Design turns out to be an unusually useful lens for this, because it doesn't require you to know the answer before you begin. It lets you work with ambiguity, hold several possibilities at once, and experiment rather than predict. In a world where lives are increasingly nonlinear, that may be more useful than having a perfect plan.The session explores:How inherited social narratives quietly become the stories we live byWhy there may be more than one life within us worth livingHow designers work with ambiguity, and why that matters for life decisionsMoving from a life by default to a life by design: question, imagine, prototypeAbout the SpeakerNavyug Mohnot is a Stanford-certified Designing Your Life educator, coach and facilitator, a visiting faculty member at ISB and Ashoka University, and the founder and CEO of QAI Global. He is a certified leadership coach from Harvard University, has spoken at conferences around the world, and is a TEDx speaker (\"Manifesting Desires, Embracing Contradictions\"). He has coached professionals across the globe, served on company boards, and mentored startups as an angel investor. Navyug did his B.Tech at IIT Delhi and received the \"Outstanding Contribution to National Development\" award from the IIT Delhi Alumni Association. Outside work, he meditates, runs a film club, loves art, film and architecture, and hopes to direct a full-length film someday.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-10-10T15:00:00+05:30",
+    "endDate": "2026-10-10T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/designing-your-life-the-stanford-way",
+    "keywords": [
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Clearing the Smoke and Mirrors",
+    "description": "About the LectureJoin us for a lecture that cuts through the winter blame game:Delhi blames Punjab, Punjab blames Delhi, and everyone blames the weather. So what is actually in the air we breathe?We've all been there: complaining about the AQI, feeling what the air does to our lungs, sleep, skin and routines. Every winter we're handed the same list of culprits: stubble burning, construction dust, industrial emissions, cars, trucks, garbage fires, landfills, brick kilns, diesel generators and, of course, the wind. The panels shout, the season passes, and by next November we're no clearer on which of these actually matters, or by how much.Atmospheric scientist Dr Mohammad Rafiuddin begins with Delhi's meteorology and geography: a landlocked city on the Indo-Gangetic Plain, hemmed in by the Himalayas, with winter air that sits still. It's a bad hand, but not a unique one, and if cities around the world with the same conditions have got their air under control, so can Delhi. From there, we'll go sector by sector through what's actually in the air, and which solutions would genuinely cut emissions from each.The session explores:Why Delhi's geography and winter weather trap pollution, and why that isn't an excuseWhat's actually in Delhi's air: transport, biomass and solid-fuel burning, waste, dust, construction, industry and stubbleWhich sources matter most, and by how muchThe solutions that would genuinely cut emissions, sector by sectorAbout the SpeakerDr Mohammad Rafiuddin is an atmospheric scientist who once built a fog-forecasting system for Bengaluru airport, which means pilots have landed on his maths. He is now Programme Lead \u2013 Clean Air at CEEW, where he researches what Delhi's air is made of, how well the city can predict it, and why the answer never stops at Delhi's border. He holds a PhD in atmospheric sciences from the Jawaharlal Nehru Centre for Advanced Scientific Research, Bengaluru, a Post Graduate Diploma in Urban Environmental Management and Law from National Law University, and a BTech in mechanical engineering from Jawaharlal Nehru Technological University, Hyderabad.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-10-10T16:00:00+05:30",
+    "endDate": "2026-10-10T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Vasant Kunj Mall Rd T-306, Third Floor, Ambience Mall, 2, Nelson Mandela Marg, Ambience Island, Vasant Kunj II, Vasant Kunj, New Delhi, Delhi 110070, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54095240000000000000",
+        "longitude": "77.15509150000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "550.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/clearing-the-smoke-and-mirrors",
+    "keywords": [
+      "Eco Friendly",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Raat Ke Afsane : Night walk in Sunder Nursery",
+    "description": "Night Walk in Sunder NurseryStep into history after sunset as we explore Sunder Nursery, a stunning heritage park adjacent to Humayun's Tomb and Nizamuddin Basti. Once part of the Mughal Grand Trunk Road, this space has served as a halting and recreating spot since the Mughal era and it continues to reveal its secrets even today through ongoing excavations.As dusk falls, the garden transforms into a magical world. Walk through beautifully illuminated Mughal-era monuments, wander past serene water bodies, and discover the rare flora and fauna that make this 90-acre heritage park a living museum. With every turn, you'll witness how the past and present blend seamlessly in this award-winning landscape.What to Expect:1. A guided storytelling walk through Sunder Nursery under the night sky.2. Stunning views of Mughal tombs and monuments glowing under soft lights.3. Insights into the garden's evolution from a Mughal halting ground to a UNESCO-recognized heritage park.4. Stories of ongoing excavations and discoveries that keep rewriting Delhi's history.5. A sensory experience of history, architecture, and nature like never before.",
+    "startDate": "2026-10-10T16:30:00+05:30",
+    "endDate": "2026-10-10T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "H6WW+8V, Nizamuddin, National Zoological Park, Sundar Nagar, New Delhi, Delhi 110013, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59582470000000000000",
+        "longitude": "77.24716599999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/night-walk-in-sunder-nursery",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Haunted Walk: Purana Quila",
+    "description": "Ruhani Raatein: Haunted Walk at Purana QilaAs the sun sets behind Delhis ancient ramparts, join us for a moonlit journey through one of the city s oldest forts-Purana Qila, where history whispers and shadows linger.From ghostly legends to chilling ruins, this walk blends myth, mystery, and Mughal-era memories. Are the tales true? Were voices heard in the dark? Come find out for yourself, if you dare.Not just a walk-this is an experience that tingles your spine and stirs your soul.",
+    "startDate": "2026-10-10T17:00:00+05:30",
+    "endDate": "2026-10-10T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Mathura Rd, Near Delhi Zoo, J65V+RFH, Pragati Maidan, New Delhi, Delhi 110001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.60957440000000000000",
+        "longitude": "77.24373709999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "700.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/haunted-walk-purana-quila",
+    "keywords": [
+      "Adventure",
+      "Walking Tour",
+      "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Purani Dilli: Spiritual and Living Heritage",
+    "description": "Step back in time to the 17th-century, where grand urban vision meets centuries of lived history. Designed by Mughal princess Jahanara, Chandni Chowk is not merely a market\u2014it is a living archive of Delhi\u2019s culture and pluralistic soul.On this heritage walk, we will trace Chandni Chowk's historic street, marvelling at an extraordinary row of sacred spaces\u2014temples, mosques, a gurdwara, and a church\u2014standing side by side as silent testimony to centuries of multi-faith harmony. Leaving the broad boulevard behind, we will venture into the labyrinthine galis, katras, and kuchas, where the city\u2019s true character resides. Here, amid historic havelis, ancestral trade guilds, and old neighbourhood markets, we\u2019ll explore Old Delhi's vibrant tapestry.Note: There is no walk fee for children under 12 years old. ",
+    "startDate": "2026-10-11T08:00:00+05:30",
+    "endDate": "2026-10-11T09:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Chandni Chowk, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.65053310000000000000",
+        "longitude": "77.23033699999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "600.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mera \u0936\u0939\u0930 \u2013 My City Walks",
+      "url": "https://urbanaut.app/partner/merasheharmycitywalks"
+    },
+    "url": "https://urbanaut.app/spot/purani-dilli-spiritual-and-living-heritage",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Humayun's Tomb : Heritage Walk",
+    "description": "About the ExperienceExplore the Humayun's Tomb complex on a guided heritage walk and learn about its history, architecture, and cultural significance. Built in the 16th century by Haji Begum in memory of Emperor Humayun, the monument is one of the earliest examples of Mughal garden tomb architecture in India.The walk covers the main mausoleum along with other important monuments within the complex, including Isa Khan's Tomb, Arab Sarai, Barber's Tomb, the mosque, and Afsarwala's Tomb. Throughout the experience, the storyteller will share historical context, architectural features, and interesting facts about the site.The walk is conducted at a comfortable pace and includes opportunities for questions and photography.",
+    "startDate": "2026-10-11T09:00:00+05:30",
+    "endDate": "2026-10-11T11:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Hazrat Nizamuddin Aulia Dargah, Mathura Rd, Nizamuddin, Nizamuddin East, New Delhi, Delhi 110013, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59328480000000000000",
+        "longitude": "77.25074920000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/humayuns-tomb-heritage-walk",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Tales of Indigenous Indian Entrepreneurship",
+    "description": "About the LectureLong before Zomato and Zerodha, who was building India's wealth, and how?Indian entrepreneurship is strangely under-represented in the mainstream story. Startup India and the unicorns tipped the balance a little, but India's business history goes back hundreds of years before the \"Z brothers\" became household names. Indian traders and entrepreneurs were building financial instruments, credit systems, accounting methods and contract management long before these were written up in Harvard textbooks and case studies.Most of us know almost nothing about this history. Many of the communities that built it have faded into obscurity, with tales of a glorious past but rarely a shared plan for the future. This lecture digs into what made them great, what they invented, and what happened to that edge.The session explores:What made India's traditional business communities so successfulThe innovations in business and finance that built the wealth of the Jagat Seths, the Birlas and everyone who came afterMarwari social and cultural systems, and how they shaped individual and collective entrepreneurshipThe lost edge, and whether there's hope for the futureAbout the SpeakerDr Nihar Amoncar is Pro Vice Chancellor at IILM University and Director of the IILM School of Management. He completed his PhD in Family Business Strategy on a full scholarship at the University of South Wales, and has won several international awards for his research on traditional business communities, including the Best Paper Award at the Academy of Marketing. He is a Fellow of Higher Education (UK), serves on the board of the Academy of Marketing's Special Interest Group on Entrepreneurship and Marketing, and is the Asia representative of GRCME (USA).About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-10-11T16:00:00+05:30",
+    "endDate": "2026-10-11T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Panchshila Park, 61/7, Panchshila Park, Block C, Panchsheel Park South, Malviya Nagar, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53946110000000000000",
+        "longitude": "77.21371580000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/tales-of-indigenous-indian-entrepreneurship",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Can We Make Delhi a Human City?",
+    "description": "Welcome to Human City Conversations where we have intimate conversations about how cities are built, how they are lived, and who gets to shape them.Conversation 1: HOW DO WE MAKE DELHI A HUMAN CITY?Delhi is a city of contradictions. It has some of India's best public institutions, an expanding metro network, enormous infrastructure projects and a new Master Plan for Delhi 2047 that sets out a vision for how the city should grow and change over the next two decades. And yet, the experience of living in Delhi can be very different.Millions of people spend hours commuting across the city. Walking can feel like an afterthought. Public spaces are often unevenly distributed and poorly connected. For many women, moving through the city comes with a calculation of safety that men may never have to make. And then there is the air. Every winter, Delhi's air pollution becomes a public health crisis forcing a city of millions to think about something as fundamental as whether it is safe to breathe outside.So how can a city with so much planning, infrastructure and investment still struggle with some of the most basic conditions of everyday urban life? Perhaps the problem is not simply how much we build, perhaps we need to ask a more fundamental question:What kind of city are we actually trying to build? And more importantly, who is that city being built for?For the first Human City Conversation, urbanist Jagan Shah joins Ruchita Bansal for an open conversation about Delhi, its future and the gap between the city we plan on paper and the city people actually experience. We'll explore what makes a city genuinely liveable from mobility and housing to public space, safety, air pollution and neighbourhoods and look at what Delhi's new Master Plan for 2047 could mean on the ground.What to ExpectA curated, open conversation between urbanist Jagan Shah and Ruchita BansalA look at Delhi's urban future and what the new Master Plan for Delhi 2047 could mean on the groundA discussion about the gap between the city we plan and the city people actually experienceA closer look at how cities are shaped by policies, infrastructure and development decisionsPerspectives on what makes a city genuinely liveable, accessible and inclusiveA 30 minute Q&A SessionInformal discussion and one on one conversation after the conversationEvent Details\ud83d\udcc5 Sunday, 11 October 2026\ud83d\udd54 5:00 PM onwards\ud83d\udccd Kunzum Books, GK II, Delhi\u2615 Your ticket includes one coffee/tea .About the SpeakerJagan Shah is an urbanist, architect and former Director of the National Institute of Urban Affairs (NIUA), with decades of experience working at the intersection of urban planning, policy, governance and development. He has been closely involved in shaping India's urban policy and planning landscape, including work connected to Delhi's Master Plan, the Smart Cities Mission and other national urban development programmes. His work has involved developing and implementing policies and frameworks that influence how Indian cities grow, transform and respond to the challenges of rapid urbanisation.Over the years, Jagan has worked across urban planning, housing, infrastructure, heritage, governance and institutional development, working with governments and institutions at different levels.His experience spans both the making of plans and policies and the realities of implementing them, making him particularly well placed to examine the gap between the city we envision on paper and the city that people actually experience.About the ModeratorRuchita Bansal is an architect and urban planner with 15 years of experience working on cities, urban development and planning policy. Her work has ranged from developing planning frameworks and regulations to working directly on large-scale urban transformation projects. She was part of the team behind Ayodhya Vision 2047, working on one of India's most complex and rapidly transforming urban environments and seeing first-hand the challenges of translating ambitious plans and visions into reality on the ground.Today, Ruchita is the Creator and Host of The Human City Podcast and the founder of SheCity India, using conversations, research and storytelling to make urban planning more accessible and bring the discussion about cities beyond the professional planning community. Through The Human City, she explores a simple but often overlooked question: what does all this planning mean for the people who actually live in our cities?Note: Attendance implies consent to being filmed for event documentation. If you do not wish to be filmed, please reach out to your curator for the evening, Ruchita. Come curious. Come questioning. Come ready to talk about the city we call home.",
+    "startDate": "2026-10-11T17:00:00+05:30",
+    "endDate": "2026-10-11T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "60, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53358170000000000000",
+        "longitude": "77.24417700000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "349.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Human City Conversations",
+      "url": "https://urbanaut.app/partner/human-city-conversations"
+    },
+    "url": "https://urbanaut.app/spot/can-we-make-delhi-a-human-city",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Kheyechish?",
+    "description": "Kheyechish? (Ate?), a 90-minute solo performance that combines theatre and live cooking, Kheyechish? explores chosen and forced hunger, chosen and forced migration, precarious artistic labour, and inherited memory through autobiography, humour, and storytelling. During the performance, I cook Alu Posto and Phena Bhaat live onstage, allowing food itself to become archive, memory, and a theatrical language.A curated menu with flavours from Bengal.With live cooking on stage, the play carries stories of survival through famine-born dishes- Alu Posto and Phena Bhaat.Inspired by Bertolt Brecht\u2019s poem 'The Shopper', Kheyechish? is a play about hunger, hustle, home, and the quiet inheritances we live with and was created with the support of the Niloufer Sagar Alumni Production Grant.",
+    "startDate": "2026-10-11T19:00:00+05:30",
+    "endDate": "2026-10-11T20:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gate No. 1, Bahadur Shah Zafar Marg, inside Shaheedi park, Balmiki Basti, Vikram Nagar, New Delhi, Delhi, 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.63445520000000000000",
+        "longitude": "77.24131700000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1890.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Project Otenga",
+      "url": "https://urbanaut.app/partner/project-otenga"
+    },
+    "url": "https://urbanaut.app/spot/kheyechish",
+    "keywords": [
+      "Food & drink",
+      "Active",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Hard and Heavy by Anarchy and D2O",
+    "description": "Anarchy is a high-energy alternative/punk rock and heavy metal band formed in 2020 during the pandemic lockdown. Known for their fast, aggressive and unapologetically loud sound, Anarchy combines raw heavy metal roots with gritty hard-rock energy. The band consists of Nowel Rana (Lead Vocals/Rhythm Guitar), Zubin Justin (Drums/Lyrics), Robby Sangha (Bass), and Ankit Sharma (Lead Guitar). With singles like \"\"My School My Rule\"\" and \"\"Rock n' Rolla Queen,\"\" as well as headlining slots across the regional live circuit, Anarchy continues to build a reputation for explosive stage presence and unyielding rock 'n' roll passion.Formed in 2012, D2O began as a college band united by a shared love for hardrock and heavy metal. What started as fun jam sessions quickly turned into arelentless sonic force.With super-harmonious vocals and soulful guitars to searing riffs, brutalbreakdowns, and unapologetic aggression, every track we cover hits like asledgehammer.We pull you in with soaring melodies before slamming you into the heaviness.",
+    "startDate": "2026-10-11T20:00:00+05:30",
+    "endDate": "2026-10-11T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "299.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/hard-and-heavy-by-anarchy-and-d2o",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Tanupriya Somesh",
+    "description": "Tanupriya Somesh is an independent composer duo consisting of Tanupriya Shakya and Somesh Bhadula. Both are composers, with Tanupriya also being the duo\u2019s vocalist, while Somesh focuses on lyrics and production. Together, they create honest, acoustic-led music that blends organic sounds with emotive arrangements and a raw, timeless sensibility.Their debut EP, Mann Chale, explores themes of love, longing, relationships, and introspection through intimate songwriting and melodic arrangements. Their music is rooted in the idea of keeping the song and its emotion at the centre of the listening experience.For Depot48, the proposed performance will be a solo set by Tanupriya Shakya, featuring songs from Mann Chale, selected unreleased originals, and a few carefully chosen covers. The set is particularly suited to Depot48\u2019s intimate live environment, where original, acoustic-led music can connect directly with the audience.Depot48\u2019s focus on independent and original music makes the venue especially relevant to this performance. The intention is to create an intimate, song-focused evening rather than a conventional stage show, giving the audience an opportunity to experience Tanupriya Somesh's music and compositions in a more personal live setting.",
+    "startDate": "2026-10-14T21:00:00+05:30",
+    "endDate": "2026-10-14T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "399.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/tanupriya-somesh",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Duga Duga: Pandal Visit at CR Park",
+    "description": "Shakti Walk - Durga Puja at C.R. ParkThis Pujo, walk with us into the heart of Chittaranjan Park, Delhi's very own mini-Kolkata, where devotion, tradition, and festivity come together.As the pandal comes alive with the evening arati, the fragrance of incense, and the rhythmic beats of the dhak, immerse yourself in the festive spirit of Shashthi. Experience the energy of the celebrations as the community comes together to welcome Goddess Durga.Witness the glow of the Evening Arati, followed by the graceful and spirited Dhunuchi dance, one of the most captivating traditions of Durga Puja. From there, explore the vibrant atmosphere of C.R. Park, with its cultural performances, food stalls, festive decorations, and the warmth of a community celebrating together.Come dressed in the festive spirit - saris, dhotis, or kurta-pyjamas- and join us as we experience the stories, sights, sounds, and traditions of Pujo in the heart of Delhi.",
+    "startDate": "2026-10-17T11:00:00+05:30",
+    "endDate": "2026-10-17T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Chittaranjan Park, New Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53978420000000000000",
+        "longitude": "77.24897260000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/duga-duga-pandal-visit-at-cr-park",
+    "keywords": [
+      "Festival",
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Raat ke Afsane : Safdarjung Tomb",
+    "description": "Safdarjung Tomb Walk: Stories After SunsetA guided heritage walk through the Safdarjung Tomb complex exploring the history, architecture and cultural significance of one of the last grand monuments of the Mughal era in Delhi.The walk highlights the transition from late Mughal power to emerging regional influences and explores the political, cultural and artistic context in which the monument was built. Participants will learn about its architecture, design elements and historical importance in Delhi\u2019s heritage landscape.The experience is conducted during the evening, allowing participants to view the monument in a calm and atmospheric setting while engaging with its history through guided storytelling.Language of communication is Hindi and English.",
+    "startDate": "2026-10-18T17:00:00+05:30",
+    "endDate": "2026-10-18T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Airforce Golf Course, Delhi Race Club, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.58941560000000000000",
+        "longitude": "77.21062190000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/heritage-walk-safdarjung-tomb-raat-ke-afsane",
+    "keywords": [
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Durga Puja Pandal Hopping",
+    "description": "Navratri is here, Durga Puja is around the corner and we\u2019re going pandal hopping! \ud83c\udf3aJoin us for an evening of exploring festive pandals, soaking in the lights, colours, music and all the magic that comes with the season. Come dressed in your festive best, bring your friends (or come solo), and meet some new people along the way.\ud83d\udcc5 18 October 2026\ud83d\udd55 6 PM onwards\ud83d\udccd Dakshinayan Apartments, DwarkaA little wandering, a little dancing, a lot of festive spirit. \u2728",
+    "startDate": "2026-10-18T18:00:00+05:30",
+    "endDate": "2026-10-18T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Plot No 19, Sector 4, Dwarka, New Delhi, Delhi, 110078, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.60213610000000000000",
+        "longitude": "77.04400509999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "249.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Shoshabaazi",
+      "url": "https://urbanaut.app/partner/shoshabaazi"
+    },
+    "url": "https://urbanaut.app/spot/durga-puja-pandal-hopping",
+    "keywords": [
+      "Festival",
+      "Food & drink",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Durga Puja : Celebration at CR Park",
+    "description": "\ud83c\udf3a MAHA ASHTAMI AT DURGOTSAB GK2 \ud83c\udf3aJoin Enroute Indian History this Maha Ashtami for an evening of art, culture, devotion, music & contemporary expression.\u2728 What\u2019s in store:\ud83c\udfa8 5:30 PM \u2014 Curated Art Gallery Walk & conversation around this year's theme, \u2018Vande Mataram\u2019, exploring identity, belonging, assimilation and the many cultural influences that shape a Bengali Puja in Delhi.\ud83d\udc83 6:30 PM \u2014 Kathak performance by Varsha Dasgupta\ud83e\ude94 7:00 PM \u2014 Sandhya Aarti followed by Dhunuchi Naach \u2014 experience the devotional and celebratory heart of Bengali Puja.\ud83c\udfb8 9:30 PM onwards \u2014 Susmit Sen Chronicles, featuring former Indian Ocean guitarist Susmit Sen.A beautiful evening that moves from art and storytelling to ritual, dance, and contemporary Indian music \u2014 all within the vibrant setting of Durgotsab GK2.",
+    "startDate": "2026-10-19T17:00:00+05:30",
+    "endDate": "2026-10-19T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Chittaranjan Park, New Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53978420000000000000",
+        "longitude": "77.24897260000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "700.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/durga-puja-celebration-at-cr-park",
+    "keywords": [
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Delhi Dash",
+    "description": "Think you know Delhi? Prove it.We\u2019re turning the city into a game board for one afternoon. You\u2019ll be sorted into teams at the starting line and sent off to crack clues, hunt down hidden spots and complete increasingly ridiculous missions before the other teams do.Come solo or with friends, everyone gets teamed up on the spot. You might start as strangers and finish aggressively arguing over whether you\u2019ve interpreted Clue #7 correctly.\ud83e\udde9 Clues, challenges and surprises\ud83d\udeb6\u200d\u2640\ufe0f Entirely on foot\ud83d\udc6f\u200d\u2640\ufe0f Teams formed at the starting line\ud83c\udfc6 Prizes + eternal bragging rights\ud83d\udc83 Women only\u00a0Come curious. Wear comfortable shoes. Leave with stories.",
+    "startDate": "2026-10-24T15:00:00+05:30",
+    "endDate": "2026-10-24T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.70405920000000000000",
+        "longitude": "77.10249019999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "362.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Ukiyo Collective",
+      "url": "https://urbanaut.app/partner/ukiyo"
+    },
+    "url": "https://urbanaut.app/spot/the-delhi-dash",
+    "keywords": [
+      "Local",
+      "Walking Tour",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Bazar - i - husn : tawaifs of chawri bazaar",
+    "description": "Step into the world of grace, wit, and artistry as we explore the lives of Tawaifs\u2014the courtesans who once defined high culture, poetry, and performance in Delhi. This walk takes you through old city lanes that once echoed with ghazals, thumris, and the quiet power of women who shaped taste and tradition.Uncover the layered stories of kothas\u2014not as places of shame, but as salons of sophistication, resistance, and refined art. Let\u2019s reclaim these narratives and see history through a different lens.",
+    "startDate": "2026-10-25T08:30:00+05:30",
+    "endDate": "2026-10-25T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Chawri Bazar, Chandni Chowk, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64820100000000000000",
+        "longitude": "77.22695350000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "700.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/bazar-i-husn-exploring-tawaif-culture",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "National Museum (Indus Valley Civilisation)",
+    "description": "Step into the fascinating world of the Indus Valley Civilization at the iconic National Museum and uncover the mysteries of one of the world\u2019s oldest urban cultures. From advanced city planning and drainage systems to intricate seals, jewellery, pottery, and trade networks, this walk takes you deep into the lives of a civilization that flourished over 4,500 years ago.Explore the stories hidden behind ancient artefacts, decode symbols that still remain unsolved, and discover how the people of Harappa and Mohenjo-Daro were far ahead of their time. Whether you\u2019re a history enthusiast, a curious explorer, or someone who simply loves untold stories, this immersive museum experience promises a journey through India\u2019s remarkable ancient past.Join us as history comes alive \u2014 one artefact, one mystery, and one story at a time.",
+    "startDate": "2026-10-25T16:30:00+05:30",
+    "endDate": "2026-10-25T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Janpath Rd, Central Secretariat, Kartavya Path, New Delhi, Delhi 110011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.61183900000000000000",
+        "longitude": "77.21829500000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/national-museum-indus-valley-civilisation",
+    "keywords": [
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Halloween Games Party + Potluck Lunch",
+    "description": "This Halloween, The Ravenswood Society is opening its doors to ravens of all ages. \u200bJoin The Ravenswood Society on 31 October for a family-friendly Halloween gathering featuring Blood on the Clocktower, other social deduction games, and a big bring-and-share potluck lunch. \u200bCome with your friends, siblings, kids, parents or the entire suspicious household. Whether you're an experienced social deduction player or completely new, we'll have beginner-friendly games and people happy to teach.\u200b\ud83c\udf72 Potluck LunchBring something to eat and share with everyone \u2014 homemade food, snacks, desserts, drinks, or your family's favourite dish. Bring. Share. Eat & Accuse.\u200b\ud83c\udfb2 GamesBlood on the Clocktower will be one of our main games, alongside other social deduction and party games suitable for different groups and experience levels.\u200b\ud83c\udf9f\ufe0f Choose your fate\u200b\ud83d\udc26 Early Ravens \u2014 \u20b9111 \u00b7 until 30 September\u200b\ud83d\ude08 Halloween Entry \u2014 \u20b9333 \u00b7 1\u201315 October\u200b\ud83d\udcd6 Demon's Punishment \u2014 \u20b9666 \u00b7 16\u201330 October\u200b\ud83d\udd6f\ufe0f A Family-Friendly Halloween\u200bThis is a smoke-free and alcohol-free event. Smoking, vaping, alcohol and other intoxicants are not permitted at the venue. \u200bKids, parents, families and friends are all welcome. Halloween costumes are encouraged but completely optional.\u200b\ud83d\udcc5 31 October 2026 (10 AM - 6 PM)\ud83c\udf83 Halloween Game Party\ud83c\udfb2 Blood on the Clocktower + Social Deduction Games\ud83c\udf72 Bring-and-share Potluck Lunch\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66 Family & Kids friendly\ud83d\udead No smoking\ud83c\udf7a No alcohol\ud83e\ude78 Beginner friendly\ud83d\udd6f\ufe0f Hosted by The Ravenswood Society\u200bTrust nobody. Bring your family. Bring some food.",
+    "startDate": "2026-10-31T10:00:00+05:30",
+    "endDate": "2026-10-31T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Raj Niwas Marg, Ludlow Castle, Civil Lines, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.67284360000000000000",
+        "longitude": "77.22102060000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "333.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Table Top Games Club",
+      "url": "https://urbanaut.app/partner/the-table-top-games-club"
+    },
+    "url": "https://urbanaut.app/spot/halloween-game-party-potluck-lunch",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Heritage Walk: Red Fort",
+    "description": "A Heritage Walk Through the Red FortStep into the world of Qila e Mubarak, popularly known as the Red Fort, through a specially arranged private heritage walk exploring its history, architecture and cultural traditions.Discover the world of Shah Jahan and the Mughal court, while uncovering stories behind the fort's lesser-known features, including the Nahr e Bihisht, Stream of Paradise, silken qanats and the original artistic traditions of Chatta Chowk.Through engaging storytelling, explore the Red Fort as more than a monument, a royal space shaped by emperors, nobles, artists and forgotten traditions.The language of communication is Hindi and English.Specially Arranged Private Heritage Walk",
+    "startDate": "2026-10-31T17:00:00+05:30",
+    "endDate": "2026-10-31T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Netaji Subhash Marg, Old Delhi, Lal Qila, Chandni Chowk, New Delhi, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.65615920000000000000",
+        "longitude": "77.24102030000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/heritage-walk-red-fort",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Mehfil-e-Yashraj",
+    "description": "Mehfil-e-Yashraj ~ An unforgettable evening of ghazalYashraj is a remarkably talented 12-year-old ghazal and Sufi singer who has already created a growing audience through social media platforms such as Facebook and Instagram. Despite his young age, he has participated in and won several state-level music competitions and is also a Sangam Kala Group winner.His soulful and soothing voice has earned him appreciation and blessings from renowned personalities of the ghazal and music fraternity, including Ustaad Ghulam Ali Khan Sahib and Murshid Ali. His musical journey is deeply rooted in the guidance of his guru, Sh. Sudhanshu Ehsaas, who has been nurturing and training him since Yashraj was just six years old.The talent that Yashraj displays today is the result of years of dedicated riyaaz, discipline, learning and hard work\u2014both by the young artist and his guru. His understanding of music, command over ghazal and Sufi compositions, and his naturally peaceful and expressive voice make him a truly promising young performer. Depot 48 provide talented singers and performers with a platform where they can build their artistic profile, gain confidence and, most importantly, experience the energy and dynamics of a live audience.For Yashraj, this opportunity is especially meaningful. At just 12, he already possesses the musical ability of a seasoned young artist, while live audience engagement is naturally an area where he will continue to grow with experience. With more stage exposure, interactions with diverse audiences and continued riyaaz, he has immense potential to develop into a confident and compelling live performer.",
+    "startDate": "2026-11-15T21:00:00+05:30",
+    "endDate": "2026-11-15T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1048.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/mehfil-e-yashraj",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  }
+]
