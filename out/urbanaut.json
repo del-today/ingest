@@ -76,6 +76,42 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "VDHM Training Run - Week 3 / Speed Run 3",
+    "description": "HiIf you are participating in the Vedanta Marathon, this will be a training session with SWAG. We will be doing a speed run session. Speed runs basically mean that you run at a very fast pace for a particular distance, depending on your level of training so 500 m, 800m, 1 km. After each running lap, you take a 1 min breather, and then you run again.Srishti will be leading the run, and we\u2019ll also head for coffee after the run! Please be on time, and sign up only if you\u2019re ready to show up consistently and take your training seriously. :)",
+    "startDate": "2026-10-01T06:30:00+05:30",
+    "endDate": "2026-10-01T07:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "H5VV+M56 Nehru park, Nehru Park, Niti Marg, Ramnagar, Chanakyapuri, New Delhi, Delhi 110021, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59416260000000000000",
+        "longitude": "77.19303599999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swagvdhm",
+    "keywords": [
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Brew & Paint: Coffee Painting Workshop",
     "description": "Swap your paint set for freshly brewed coffee! In this cozy and sweet-smelling session, you will learn how mixing different amounts of water with coffee creates everything from light honey tones to dark chocolate browns. We will guide you step by step to paint soft washes, add shadows, and draw fine vintage details. Leave with a gorgeous sepia painting that looks antique and smells amazing.",
@@ -337,44 +373,6 @@
     "url": "https://urbanaut.app/spot/subko-x-gully-labs-cinema-ghar-october",
     "keywords": [
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Hot Girls Do Pilates",
-    "description": "Let\u2019s make your Saturday morning extra feel-good with Hot Girls Do Pilates, a guided mat pilates experience by SWAG x Life Pilates.Come and feel fitter in the company of like-minded women, and stay back for a quick coffee and some chit-chat This can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!.Here's the plan,We start with a Mat Pilates session.Slow down with some breath-work and meditation.Sit down for a quick coffee & social.No need to carry your mats, we will take care of that.Can't wait to see you this Saturday!",
-    "startDate": "2026-10-03T10:00:00+05:30",
-    "endDate": "2026-10-03T11:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "2nd floor, Hanuman Mandir, Khasra no. 715/1, Plot, No 4, Gate, Main Chhatarpur Rd, opposite DLF Farms, Rajpur Khurd Extension, Chhatarpur, New Delhi, Delhi 110074, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.48746760000000000000",
-        "longitude": "77.18689189999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "449.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swagpilates1",
-    "keywords": [
-      "Wellness",
-      "Workshop",
-      "Active",
       "URBANAUT"
     ]
   },
@@ -708,44 +706,6 @@
     "keywords": [
       "Live GIG",
       "Music",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Run Like A Girl | Hauz Khas",
-    "description": "We are starting our Sunday with a SWAG Run (3.5 KM and 7.5 KM batches).Here's the plan:Meet at the Deer Park entry right outside Hauz Khas Village.Warm-up 3.5 KM & 7.5KM Community Run (7.5 KM Run starts at 6:30 AM, 3.5 KM Run starts at 7 AM)Post-run refuelling and community social!This is a women-only run.If you are a beginner and want to start running, our 3.5KM run is the best place to start. Prepping for the upcoming Marathons? Join the 7.5KM group.The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
-    "startDate": "2026-10-04T06:30:00+05:30",
-    "endDate": "2026-10-04T08:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Deer Park, Hauz Khas, New Delhi, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55495230000000000000",
-        "longitude": "77.19164970000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swagrun",
-    "keywords": [
-      "Adventure",
-      "Wellness",
       "Food & drink",
       "URBANAUT"
     ]
@@ -1579,6 +1539,42 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
+    "name": "Slow Burn - A 4 Course Drinking Experience",
+    "description": "Tucked into a corner of Lodhi Colony, The Love Hotel is Delhi's best-kept secret \u2014 a 20-seat cocktail room that takes its cues from the love hotels of Japan. It's intimate without being intense, flirtatious without trying too hard.Slow Burn is a four-course cocktail tasting built for this room \u2014 but where most tasting menus put food at the centre, here the cocktails play hero.It begins the second you walk in with a welcome shot. From there, four cocktails unfold in sequence \u2014 each its own chapter, drawn from the same five-taste philosophy that powers The Love Hotel's acclaimed program. Every pour lands with a course of tapas alongside it.An evening where the spirit leads, and the plate follows. And with only twenty seats, the room stays intimate & exclusive.",
+    "startDate": "2026-10-08T19:00:00+05:30",
+    "endDate": "2026-10-22T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Main Market, 28, Lodhi Rd, Block 13, Lodi Colony, New Delhi, Delhi, 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.58474620000000000000",
+        "longitude": "77.22387390000002000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3200.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Love Hotel",
+      "url": "https://urbanaut.app/partner/the-love-hotel"
+    },
+    "url": "https://urbanaut.app/spot/slow-burn-martini-cocktail-tasting-menu",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
     "name": "KAASHI in concert for DSIF (Creating Value)",
     "description": "Get ready for an unforgettable evening of soul-stirring music with Kaashi The Band, blending heart-pounding rock with rich melodies! Every ticket you buy directly powers DSIF\u2019s grassroots mission to transform lives and uplift local communities. Join us for a night where great entertainment meets meaningful impact!",
     "startDate": "2026-10-09T20:30:00+05:30",
@@ -2246,6 +2242,45 @@
       "Local",
       "Walking Tour",
       "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "\u092c\u091a\u092a\u0928 se Baatein",
+    "description": "A 2-day experiential workshop to reconnect with the parts of yourself you may have lost touch with while growing up.Through nature walks, childhood games, creative reflection and guided visualisation, we\u2019ll create space to meet your inner child with curiosity, compassion and play.Day 1 (24 October) Reconnect & Reflect 30-minute nature walk to slow down and arrive in the present.Connect with others through play, laughter and shared experiencesGuided reflection on joy, childhood, and the parts of yourself you may have left behind.Guided visualisation to meet and connect with your inner child.Day 2 (25 October 2026) Conversation & CareWe begin with a mindful nature walkExplore the hidden parts of you pushed away while growing upWrite a letter to your younger self offering forgiveness, understanding and compassionLearn simple grounding practices to hold difficult emotions with greater awarenessEnd with reflection and ways to bring more play, joy and gentleness into everyday life",
+    "startDate": "2026-10-24T16:00:00+05:30",
+    "endDate": "2026-10-25T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55339970000000000000",
+        "longitude": "77.19416540000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Reset with Nature",
+      "url": "https://urbanaut.app/partner/reset-with-nature"
+    },
+    "url": "https://urbanaut.app/spot/se-baatein",
+    "keywords": [
+      "Wellness",
+      "Eco Friendly",
+      "Walking Tour",
+      "Guided tour",
       "URBANAUT"
     ]
   },
