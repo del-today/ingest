@@ -87,6 +87,63 @@
   },
   {
     "@type": "SportsEvent",
+    "name": "PaceX x HRX, Run Together. Go Further.",
+    "url": "https://indiarunning.com/events/pacex_x_hrx_run_together_go_further_57958",
+    "startDate": "2026-10-10T07:00:00+05:30",
+    "endDate": "2026-10-10T10:30:00+05:30",
+    "description": "Get ready for a special PaceX \u00d7 HRX running experience built around \ncommunity, performance and the half-marathon journey.\nWhat\u2019s in store:\n\ud83c\udfcb\ufe0f \nStrength & Conditioning Session\n \ud83d\udc83 \nWarm-up / Zumba\n \ud83c\udfc3 \nGuided Run\n \ud83e\uddd8 \nCool-down\n \ud83d\udca7 \nHydration + Nutrition\n \ud83c\udf81 \nHRX Goodies\n \ud83d\udd25 \nHRX Running Squad Integration\n \ud83c\udfc5 \nHalf-Marathon focused activities & integration\nWhether you\u2019re training for your next half marathon or simply looking to get your miles in with the community, come ready to \nmove, train, run and push yourself a little further.\nPaceX \u00d7 HRX\nRun together. Go further.",
+    "image": "https://race-registration-cdn.indiarunning.com/events/2026/10/10/pacex-x-hrx%2C-run-together.-go-further.-2026/banner1790611594580",
+    "location": {
+      "@type": "Place",
+      "name": "Kothnur",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "7th phase, 5th floor, 721, RBI Layout Main Rd, above reliance smart bazaar, Kothnur, RBI Layout, JP Nagar 7th Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560078",
+        "addressCountry": "India"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.8870828,
+        "longitude": 77.5818783
+      }
+    },
+    "sport": "Running",
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "2.5K",
+        "price": "499",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "name": "5k",
+        "price": "499",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "name": "7K",
+        "price": "499",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "name": "10k",
+        "price": "499",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@type": "SportsEvent",
     "name": "NAMMA RUN BENGALURU - 2026",
     "url": "https://indiarunning.com/events/namma_run_bengaluru__south_edition_51834",
     "startDate": "2026-10-11T05:30:00+05:30",
@@ -422,21 +479,21 @@
       {
         "@type": "Offer",
         "name": "5k",
-        "price": "1250",
+        "price": "1062.50",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock"
       },
       {
         "@type": "Offer",
         "name": "10k",
-        "price": "1250",
+        "price": "1062.50",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock"
       },
       {
         "@type": "Offer",
         "name": "21.1K",
-        "price": "1250",
+        "price": "1062.50",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock"
       }
@@ -546,56 +603,6 @@
         "@type": "Offer",
         "name": "32K",
         "price": "700",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@type": "SportsEvent",
-    "name": "Chalo Bharat Walkathon Bengaluru Edition 2027",
-    "url": "https://indiarunning.com/events/chalo_bharat_walkathon_bengaluru_edition_2026_43370",
-    "startDate": "2027-03-14T05:30:00+05:30",
-    "endDate": "2027-03-14T11:00:00+05:30",
-    "description": "Bengaluru Edition | Chalo Bharat Walkathon\nLace up your shoes, Bengaluru!\nThe \nChalo Bharat Walkathon\n arrives in the city to celebrate fitness, community, and an active lifestyle. Join us on \n14th March 2027\n for a high-energy morning filled with movement, music, and positivity.\nFrom casual walkers to fitness lovers\u2014everyone is invited to be part of this vibrant experience.\nRace Categories:-\n3K Walk - Untimed Walk\n5K Walk - Timed Walk\n10K Walk - Timed Walk\nEvent Highlights:-\nLively atmosphere with music & entertainment\nCommunity-driven fitness experience\nIconic city route (venue to be announced soo\nParticipant Benefits:-\nT-shirt\nFinisher Medal\nVouchers\nBreakfast\nEvent Details:-\nDate: 14th March 2027\nVenue: To be announced\nBIB Collection: 12 & 13 March 2027\nAge Group: \nOpen to all\nLet\u2019s make every step count, Bengaluru!",
-    "image": "https://race-registration-cdn.indiarunning.com/events/2026/12/20/chalo-bharat-walkathon-bengaluru-edition-2026-2026/banner1785499387076",
-    "location": {
-      "@type": "Place",
-      "name": "Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Bengaluru, Karnataka, India",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "Karnataka",
-        "postalCode": "560001",
-        "addressCountry": "India"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9628957,
-        "longitude": 77.57754
-      }
-    },
-    "sport": "Running",
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "3K",
-        "price": "850",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      },
-      {
-        "@type": "Offer",
-        "name": "5k",
-        "price": "850",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      },
-      {
-        "@type": "Offer",
-        "name": "10k",
-        "price": "850",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock"
       }
