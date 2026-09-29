@@ -39,43 +39,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Grounds for Thought: Janpath",
-    "description": "Grounds for Thought: Janpath, September 2026A Blue Tokai \u00d7 unLecture Series, Three Tuesday evenings. Three very different conversations.Grounds for Thought is a monthly series where Blue Tokai and unLecture bring researchers, scientists, and thinkers out of their institutions and into a coffee shop. The format is simple: an expert, a room full of curious people, and a conversation that goes somewhere a classroom rarely does. This September, the series spreads further than ever \u2014 four venues across Delhi and Bangalore, and a spread of ideas running from gender and work to princely politics, from children's books to comic-book uncles.17th September: Prateek MundejaWhy Do Good Ideas Fail in Government?Governance is usually discussed in ideals \u2014 promises, ambition, the world as it ought to be. Prateek Mundeja, Assistant Professor of Political Science and Mookerjee Fellow (2025\u201326), argues that the more useful question is a duller one: what actually works? This session takes a realist's tour through limited resources, institutional capacity, and the gap between stated intentions and delivered outcomes \u2014 and makes the case that ideals only survive contact with the world when backed by hard, unglamorous choices.29th September: Amitrajeet MukherjeeVoices from War: Revisiting John Keegan's The Face of BattleJohn Keegan's landmark book opened with a deceptively simple question \u2014 what is it actually like to be in a battle? Fifty years on, his witnesses remain almost entirely European, despite spanning centuries of warfare. Amitrajeet Mukherjee, a doctoral candidate in English Literature at Delhi University, widens that frame to the two and a half million Indians who served in the Second World War \u2014 diarists, letter-writers, the censored and the unrecorded \u2014 and asks whose voices get to define what \"war writing\" is for.",
-    "startDate": "2026-09-29T18:30:00+05:30",
-    "endDate": "2026-09-29T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "No 48, Mezzanine & Ground Floor, Atul Grove Road, Janpath, Connaught Place, New Delhi, Delhi 110001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.62697200000000000000",
-        "longitude": "77.21977799999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "550.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/grounds-for-thought-janpath-sept",
-    "keywords": [
-      "Workshop",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "VDHM Training Run - Week 3 / Speed Run 3",
     "description": "HiIf you are participating in the Vedanta Marathon, this will be a training session with SWAG. We will be doing a speed run session. Speed runs basically mean that you run at a very fast pace for a particular distance, depending on your level of training so 500 m, 800m, 1 km. After each running lap, you take a 1 min breather, and then you run again.Srishti will be leading the run, and we\u2019ll also head for coffee after the run! Please be on time, and sign up only if you\u2019re ready to show up consistently and take your training seriously. :)",
@@ -245,7 +208,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "720.00",
+      "price": "600.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -373,6 +336,82 @@
     "url": "https://urbanaut.app/spot/subko-x-gully-labs-cinema-ghar-october",
     "keywords": [
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Hot Girls Do Pilates",
+    "description": "Let\u2019s make your Saturday morning extra feel-good with Hot Girls Do Pilates, a guided mat pilates experience by SWAG x Life Pilates.Come and feel fitter in the company of like-minded women, and stay back for a quick coffee and some chit-chat This can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!Here's the plan,We start with a Mat Pilates session.Slow down with some breath-work and meditation.Enjoy a curates grazing table.No need to carry your mats, we will take care of that.Can't wait to see you this Saturday!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "startDate": "2026-10-03T10:00:00+05:30",
+    "endDate": "2026-10-03T11:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "2nd floor, Hanuman Mandir, Khasra no. 715/1, Plot, No 4, Gate, Main Chhatarpur Rd, opposite DLF Farms, Rajpur Khurd Extension, Chhatarpur, New Delhi, Delhi 110074, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.48746760000000000000",
+        "longitude": "77.18689189999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "749.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swagpilates1",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Delhi Sadar Bazaar Walk",
+    "description": ":-10 years of experience can help you find something new and a perfect purchasing experience.:- I promise: if you buy 5k worth of products in the market, that costs around 15k:-This walk helps you with festive decor purchases as well as future purchases: where to buy and what to buy:-This will help you to start your business from home/online/ecommrece*** If you are joining this walk, please keep it at least 3k to 5k because you can't control yourself from purchasing (and fir baad main main paise ni duga )*** thanks .. Continue.. itSadar Bazar is the largest wholesale market of household items in Delhi, India. Like other major markets of Old Delhi, this market is very crowded and buzzes with activity. Although it is primarily a wholesale market, it also caters to occasional retail buyers. Owing to the sheer volumes that are traded here every day, a visit to the market can be termed sensory overload. In addition to being a market for traders, Sadar Bazaar is a parliamentary constituency, making it a hub for politics.1 -Rui Mandi in Sadar Bazar, Delhi, is most famous as a massive wholesale and retail hub for artificial and imitation jewelry, cosmetics, and beauty productsArtificial & Bridal Jewelry: A huge variety of kundan, polki, American diamond (AD), and temple jewelry sets, necklaces, and bangles.Cosmetics & Makeup: Some of the lowest-priced makeup products and beauty essentials in the city.Accessories: Hair accessories, hair clips, handbags, and parlor supplies.Event Decor: Items for mehendi and haldi decorations2 Matke wali gali sadar bazar Crowded market with shops selling items including clothes, electronics, kitchenware and cosmetics at wholesale prices.",
+    "startDate": "2026-10-03T10:30:00+05:30",
+    "endDate": "2026-10-03T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Sadar Bazar, New Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.65851050000000000000",
+        "longitude": "77.21273049999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Pagalkhana",
+      "url": "https://urbanaut.app/partner/pagalkhana"
+    },
+    "url": "https://urbanaut.app/spot/delhi-sadar-bazaar-walk",
+    "keywords": [
+      "Local",
+      "Walking Tour",
+      "Guided tour",
       "URBANAUT"
     ]
   },
@@ -745,6 +784,44 @@
       "Wellness",
       "Active",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "THE QUTUB CODE: Decode stories hidden in stone",
+    "description": "What if the Qutub Minar could tell you the story of Delhi?Step into the Qutub Complex and explore the layers of history, architecture, power and cultural exchange that shaped medieval Delhi. From the soaring Qutub Minar and the intricate Alai Darwaza to the ancient Iron Pillar and the ruins of the Quwwatu\u2019l-Islam Mosque, every stone reveals a different chapter.This is not just a walk around a monument. It is a journey through the making of Delhi- its rulers, ambitions, architectural experiments, conflicts, craftsmanship and forgotten stories.Come for the Qutub Minar. Stay for the stories hidden around it.",
+    "startDate": "2026-10-04T08:00:00+05:30",
+    "endDate": "2026-10-04T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "G5GQ+443, Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52526250000000000000",
+        "longitude": "77.18779690000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "600.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Riwayat Walks",
+      "url": "https://urbanaut.app/partner/riwayatwalks"
+    },
+    "url": "https://urbanaut.app/spot/the-qutub-code-decode-stories-hidden-in-stone",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
       "URBANAUT"
     ]
   },
@@ -1278,7 +1355,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Climb Like A Girl",
-    "description": "Climb Like A Girl is a beginner-friendly, women-only climbing experience by Sweat Like A Girl.The plan is simple,We will meet at Climb Central Gurugram.Stretch & warm-up.Gear up! (climbing shoes & safety gear provided by the venue)Briefing by professional guide1 hour of ClimbingPost climb coffee & socialJust bring your energy, curiosity, and love for trying something new! This can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "description": "Climb Like A Girl is a beginner-friendly, women-only climbing experience by Sweat Like A Girl.The plan is simple,We will meet at Climb Central Gurugram.Gear up! (climbing shoes & safety gear provided by the venue) + Briefing by professional guide1 hour of ClimbingPost climb grazing at Roast & Co. with a special tasting menu for SWAG (https://www.instagram.com/roastandco.in/)Just bring your energy, curiosity, and love for trying something new! This can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
     "startDate": "2026-10-04T17:00:00+05:30",
     "endDate": "2026-10-04T18:30:00+05:30",
     "location": {
@@ -1295,7 +1372,7 @@
     "typicalAgeRange": "25+",
     "offers": {
       "@type": "Offer",
-      "price": "499.00",
+      "price": "549.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -1874,6 +1951,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Heritage Walk of Mehrauli",
+    "description": "Before many of the capitals that rose and fell across northern India, there was Mehrauli, a landscape where Delhi's story first took enduring shape. Rather than existing as a single monument or archaeological site, Mehrauli is a living palimpsest where centuries of political ambition, spiritual devotion, architectural innovation, and everyday life continue to overlap. Every monument here belongs to a different chapter, yet together they narrate the remarkable continuity of one of the India's oldest inhabited urban landscapes.This experience journeys through reservoirs, stepwells, royal retreats, tombs, and mosques, exploring how successive dynasties transformed the landscape while preserving echoes of those who came before them. Participants discover how water sustained medieval settlements, how sacred spaces shaped political authority, and how architecture reflected changing ideas of power and faith. Blending historical research with immersive storytelling, the walk encourages participants to look beyond isolated monuments and instead understand Mehrauli as an evolving cultural landscape, one where history is not confined to the past but continues to live within the city itself.Detailed Flow of WalkIntroduction to Mehrauli as Delhi's oldest continuously inhabited urban landscape.Visit Hauz-i-Shamsi and understand the importance of water management and sacred geography.Explore Jahaz Mahal and discuss royal leisure, architecture and seasonal festivals.Walk through Mughal Jharna while examining Mughal landscape planning.Visit Gandhak ki Baoli and learn about medieval stepwells and water conservation.Explore Zafar Mahal, tracing the decline of the Mughal Empire and Bahadur Shah Zafar's association with Mehrauli.Conclude at Adham Khan's Tomb (Bhool Bhulaiya), discussing Akbar's reign, political intrigue and adaptive reuse through history.Final discussion connecting more than eight centuries of Delhi's evolving landscape.Key Themes & Highlights Delhi's oldest settlementSultanate architectureMughal landscapeWater heritageSacred geographyLiving heritageUrban continuity",
+    "startDate": "2026-10-11T09:30:00+05:30",
+    "endDate": "2026-10-11T12:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "G57H+M9P, Talaab lane, Aam Bagh, Khandsa Colony, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.51422310000000000000",
+        "longitude": "77.17846010000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Trip Warden",
+      "url": "https://urbanaut.app/partner/trip-warden"
+    },
+    "url": "https://urbanaut.app/spot/heritage-walk-of-mehrauli",
+    "keywords": [
+      "Local",
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Tales of Indigenous Indian Entrepreneurship",
     "description": "About the LectureLong before Zomato and Zerodha, who was building India's wealth, and how?Indian entrepreneurship is strangely under-represented in the mainstream story. Startup India and the unicorns tipped the balance a little, but India's business history goes back hundreds of years before the \"Z brothers\" became household names. Indian traders and entrepreneurs were building financial instruments, credit systems, accounting methods and contract management long before these were written up in Harvard textbooks and case studies.Most of us know almost nothing about this history. Many of the communities that built it have faded into obscurity, with tales of a glorious past but rarely a shared plan for the future. This lecture digs into what made them great, what they invented, and what happened to that edge.The session explores:What made India's traditional business communities so successfulThe innovations in business and finance that built the wealth of the Jagat Seths, the Birlas and everyone who came afterMarwari social and cultural systems, and how they shaped individual and collective entrepreneurshipThe lost edge, and whether there's hope for the futureAbout the SpeakerDr Nihar Amoncar is Pro Vice Chancellor at IILM University and Director of the IILM School of Management. He completed his PhD in Family Business Strategy on a full scholarship at the University of South Wales, and has won several international awards for his research on traditional business communities, including the Best Paper Award at the Academy of Marketing. He is a Fellow of Higher Education (UK), serves on the board of the Academy of Marketing's Special Interest Group on Entrepreneurship and Marketing, and is the Asia representative of GRCME (USA).About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
     "startDate": "2026-10-11T16:00:00+05:30",
@@ -2097,6 +2213,84 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Tughlaqabad: Rise and Fall of a Dynasty",
+    "description": "Rising dramatically from the rocky landscape of southern Delhi, Tughlaqabad stands as one of the most ambitious and haunting experiments in medieval urban history. Built in the fourteenth century by Ghiyasuddin Tughlaq, the vast fortified city marked the beginning of the Tughlaq dynasty and reflected a new architectural language defined by massive walls, sloping fortifications and an imposing sense of military power. Yet the city that was conceived to embody permanence would itself become closely associated with decline and abandonment.This walk explores the rise and fall of the Tughlaq dynasty through the extraordinary remains of Tughlaqabad and its surrounding landscape. Participants trace the vision behind this ambitious capital while uncovering the stories of Adilabad Fort, Nai ka Kot and the political and architectural developments that shaped the dynasty's early years. The experience culminates at the tomb of Ghiyasuddin Tughlaq, one of the earliest and most distinctive monuments of Tughlaq architecture, where its design is explored in connection with the earlier tomb of Zafar Khan and the architectural ideas that preceded the Tughlaqs.Detailed Flow of WalkIntroduction to Tughlaqabad and the emergence of the Tughlaq dynasty in fourteenth-century Delhi.Explore Tughlaqabad Fort and understand Ghiyasuddin Tughlaq's extraordinary vision of creating a vast fortified capital.Examine the distinctive military architecture of the fort, including its massive defensive walls, sloping bastions and strategic relationship with the surrounding rocky landscape.Discuss the rise of the Tughlaq dynasty and the circumstances that eventually contributed to the decline and abandonment of this ambitious imperial city.Explore the story and significance of Adilabad Fort and understand its relationship with the larger fortified landscape of Tughlaqabad.Discuss Nai ka Kot and its place within the wider story of Delhi's medieval defensive and urban landscape.Visit the tomb of Ghiyasuddin Tughlaq and examine one of the earliest examples of the architectural style that would come to define the Tughlaq period.Compare its architectural ideas with the earlier tomb of Zafar Khan, exploring the transition in tomb architecture and the developments that preceded the distinctive Tughlaq style.Conclude with a discussion on the ambitions, achievements and eventual decline of the Tughlaq dynasty, and how Tughlaqabad continues to preserve the memory of one of medieval Delhi's most dramatic experiments in imperial city-building.Key Themes & Highlights Rise of the Tughlaq DynastyTughlaqabad FortMedieval military architectureRise and fall of an imperial capitalAdilabad FortNai ka KotGhiyasuddin Tughlaq's TombEvolution of Tughlaq architectureConnection with Zafar Khan's TombDelhi Sultanate politics and power",
+    "startDate": "2026-10-17T16:00:00+05:30",
+    "endDate": "2026-10-17T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "G766+9W9, Tughlaqabad Fort, Tughlakabad, New Delhi, Delhi 110044, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.51091700000000000000",
+        "longitude": "77.26235369999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Trip Warden",
+      "url": "https://urbanaut.app/partner/trip-warden"
+    },
+    "url": "https://urbanaut.app/spot/tughlaqabad-rise-and-fall-of-a-dynasty",
+    "keywords": [
+      "Local",
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Delhi Ridge: From Empires to the Uprising",
+    "description": "Long before Delhi expanded into the metropolis we know today, a rocky ridge defined its geography, protected its settlements, and silently witnessed the rise and fall of empires. Delhi Ridge: From Empires to the Uprising explores this remarkable landscape where natural history and human history have remained inseparable for more than two thousand years. From Mauryan inscriptions and Sultanate monuments to colonial memorials and battlefields, every stop reveals how the ridge repeatedly became the stage upon which Delhi's destiny unfolded.The experience traces the ridge's transformation across different eras, culminating in the dramatic events of the Revolt of 1857, when these elevated grounds became the decisive military position during the Siege of Delhi. Yet beyond the conflict lies a deeper story of ecology influencing empire, geography shaping political power, and landscapes preserving memories long after kingdoms disappeared. Through archaeological remains, historic structures, and carefully researched narratives, participants discover how this overlooked terrain offers one of the most compelling lenses through which to understand Delhi's layered past and its enduring relationship with the land itself.Detailed Flow of WalkIntroduction to the geological and historical significance of Delhi Ridge.Visit Flagstaff Tower to understand its strategic importance during the Revolt of 1857.Walk towards Khooni Khan Jheel while discussing ecology, water bodies and local folklore.Explore Chauburja Masjid and understand the Sultanate presence along the ridge.Visit Pir Ghaib and uncover the legends surrounding this unique observatory.Visit the Ashokan Pillar and discuss the Mauryan Empire and the movement of ancient inscriptions.Conclude at the Mutiny Memorial with a balanced interpretation of the Siege of Delhi, colonial narratives and India's struggle for independence.Closing discussion on the relationship between landscape, warfare and memory.Key Themes & Highlights Delhi Sultanate Revolt of 1857 Military history Colonial Delhi Archaeology Natural heritage ",
+    "startDate": "2026-10-18T07:00:00+05:30",
+    "endDate": "2026-10-18T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Kamla Nehru Ridge, Civil Lines, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.68487630000000000000",
+        "longitude": "77.21608499999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Trip Warden",
+      "url": "https://urbanaut.app/partner/trip-warden"
+    },
+    "url": "https://urbanaut.app/spot/delhi-ridge-from-empires-to-the-uprising",
+    "keywords": [
+      "Local",
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Raat ke Afsane : Safdarjung Tomb",
     "description": "Safdarjung Tomb Walk: Stories After SunsetA guided heritage walk through the Safdarjung Tomb complex exploring the history, architecture and cultural significance of one of the last grand monuments of the Mughal era in Delhi.The walk highlights the transition from late Mughal power to emerging regional influences and explores the political, cultural and artistic context in which the monument was built. Participants will learn about its architecture, design elements and historical importance in Delhi\u2019s heritage landscape.The experience is conducted during the evening, allowing participants to view the monument in a calm and atmospheric setting while engaging with its history through guided storytelling.Language of communication is Hindi and English.",
     "startDate": "2026-10-18T17:00:00+05:30",
@@ -2204,6 +2398,45 @@
       "History & heritage",
       "Guided tour",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Heritage Walk : Shadows of Jahanpanah",
+    "description": "Among Delhi's many historic cities, Jahanpanah remains perhaps the most elusive. Conceived in the fourteenth century as an ambitious attempt to unite earlier settlements within a single fortified capital, it was envisioned as a city without precedent. Today, however, its grand design survives only in fragments\u2014hidden mosques, crumbling walls, forgotten reservoirs, and scattered monuments quietly woven into the modern city. Shadows of Jahanpanah seeks to reconnect these surviving pieces and reveal the extraordinary vision that once shaped this landscape.As participants move through its surviving monuments, the experience explores the political ambitions of the Delhi Sultanate, the ingenuity of medieval urban planning, and the architectural innovations that distinguished this remarkable capital. Beyond the monuments themselves lie larger questions about memory, impermanence, and the cities history chooses to celebrate or forget. Through historical interpretation, architectural observation, and compelling storytelling, the walk reconstructs a city that has almost vanished from sight, inviting participants to imagine the scale, complexity, and ambition of one of medieval India's most fascinating experiments in urban design.Detailed Flow of WalkIntroduction to Jahanpanah vision of Delhi's fourth city.Visit Satpula and examine medieval hydraulic engineering and defensive architecture.Explore Khirki Masjid while understanding the evolution of Sultanate mosque architecture.Visit Shaikh Yusuf Qattal's Tomb and discuss Sufi traditions during the Delhi Sultanate.Explore Begumpur Masjid, one of Delhi's grandest congregational mosques, and its urban significance.Conclude at Bijay Mandal while reconstructing the scale and ambition of Jahanpanah's royal citadel.Final discussion on medieval urban planning, the rise and decline of imperial cities, and the importance of preserving Delhi's lesser-known heritage.Key Themes & Highlights Tughlaq & Khilji dynastyMedieval urban planningSultanate architectureWater managementForgotten city of DelhiMonumental mosquesHidden heritage",
+    "startDate": "2026-10-24T09:00:00+05:30",
+    "endDate": "2026-10-24T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "88C, Press Enclave Marg, Khirki Extension, Malviya Nagar, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53105060000000000000",
+        "longitude": "77.22182579999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Trip Warden",
+      "url": "https://urbanaut.app/partner/trip-warden"
+    },
+    "url": "https://urbanaut.app/spot/heritage-walk-shadows-of-jahanpanah",
+    "keywords": [
+      "Local",
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
       "URBANAUT"
     ]
   },
@@ -2357,6 +2590,45 @@
       "History & heritage",
       "Guided tour",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Red Fort: The Making of Shahjahanabad",
+    "description": "More than a royal residence, the Red Fort was the heart of Shahjahanabad.This walk explores the Red Fort as a carefully designed imperial world where architecture, ceremony, water and power came together to express the grandeur of the Mughal Empire. Participants journey through its surviving palaces, audience halls and gardens to understand how the emperor's authority was physically staged and experienced within the fort. From the public spectacle of the Diwan-i-Aam to the private elegance of the imperial apartments, every space reveals a different aspect of Mughal courtly life.The experience also explores the transformation of the fort across centuries, from the glory of Shah Jahan's reign to the changing political fortunes of the Mughal Empire and the events that reshaped its identity in the colonial period. Through architecture and storytelling, the walk reveals the Red Fort not simply as a monument, but as the centre of an imperial vision that once shaped the life and identity of an entire city.Detailed Flow of WalkIntroduction to Shah Jahan's decision to establish Shahjahanabad and the role of the Red Fort as the political and ceremonial heart of the new Mughal capital.Enter the fort and examine its strategic location, monumental architecture and relationship with the wider city of Shahjahanabad.Explore the Diwan-i-Aam and understand the rituals of Mughal kingship, public audiences and the carefully designed relationship between the emperor and his subjects.Visit the Diwan-i-Khas and examine the world of imperial privilege, courtly culture and the political symbolism expressed through its extraordinary architecture.Trace the Nahr-i-Bihisht, or Stream of Paradise, and understand the importance of water in Mughal architecture, garden design and ideas of paradise.Explore the imperial residential spaces and discuss the daily life, privacy and ceremonial practices of the Mughal court.Examine the architectural language of the Red Fort and understand how materials, ornamentation, gardens and water were brought together to create an idealised imperial landscape.Discuss the changing fortunes of the Mughal Empire and the transformation of the fort as imperial power gradually declined.Conclude with the later history and legacy of the Red Fort, reflecting on how a seventeenth-century imperial palace became one of the most powerful symbols of Delhi and India's historical memory.Key Themes & Highlights Shah Jahan and the making of ShahjahanabadMughal imperial architectureArchitecture of powerRoyal court and ceremonyDiwan-i-Aam and Diwan-i-KhasImperial palaces and private lifeWater architecture and the Nahr-i-BihishtMughal gardens and aestheticsDecline of Mughal powerTransformation of the Red Fort through history",
+    "startDate": "2026-10-31T10:00:00+05:30",
+    "endDate": "2026-10-31T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Netaji Subhash Marg, Old Delhi, Lal Qila, Chandni Chowk, New Delhi, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.65615920000000000000",
+        "longitude": "77.24102030000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Trip Warden",
+      "url": "https://urbanaut.app/partner/trip-warden"
+    },
+    "url": "https://urbanaut.app/spot/red-fort-the-making-of-shahjahanabad",
+    "keywords": [
+      "Local",
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
       "URBANAUT"
     ]
   },
