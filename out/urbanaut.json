@@ -305,7 +305,7 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Hot Girls Do Pilates",
-    "description": "Let\u2019s start the weekend with a one hour mat Pilates session at Life Pilates, followed by a grazing and social hour.\u00a0Here's the plan,We start with a guided Mat Pilates session.Slow down with some breath-work and meditation.Enjoy a Moringa Matcha / Lemonades etc by the Boring Food Company.Take home some amazing beauty products by BetterBeauty.\u00a0No need to carry your mats, we will take care of that.Can't wait to see you this Saturday!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "description": "Let\u2019s start the weekend with a one hour mat Pilates session at Life Pilates, followed by a grazing and social hour.\u00a0Here's the plan,We start with a guided Mat Pilates session.Slow down with some breath-work and meditation.Protein packed breakfest by GOAT LifeEnjoy a Moringa Matcha / Lemonades etc by the Boring Food Company.Take home some amazing beauty products by BetterBeauty.\u00a0No need to carry your mats, we will take care of that.Can't wait to see you this Saturday!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
     "startDate": "2026-10-03T10:00:00+05:30",
     "endDate": "2026-10-03T11:00:00+05:30",
     "location": {
@@ -342,7 +342,7 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Delhi Sadar Bazaar Walk",
+    "name": "Delhi Sadar Bazaar Walk live Experience",
     "description": ":-10 years of experience can help you find something new and a perfect purchasing experience.:- I promise: if you buy 5k worth of products in the market, that costs around 15k:-This walk helps you with festive decor purchases as well as future purchases: where to buy and what to buy:-This will help you to start your business from home/online/ecommrece*** If you are joining this walk, please keep it at least 3k to 5k because you can't control yourself from purchasing (and fir baad main main paise ni duga )*** thanks .. Continue.. itSadar Bazar is the largest wholesale market of household items in Delhi, India. Like other major markets of Old Delhi, this market is very crowded and buzzes with activity. Although it is primarily a wholesale market, it also caters to occasional retail buyers. Owing to the sheer volumes that are traded here every day, a visit to the market can be termed sensory overload. In addition to being a market for traders, Sadar Bazaar is a parliamentary constituency, making it a hub for politics.1 -Rui Mandi in Sadar Bazar, Delhi, is most famous as a massive wholesale and retail hub for artificial and imitation jewelry, cosmetics, and beauty productsArtificial & Bridal Jewelry: A huge variety of kundan, polki, American diamond (AD), and temple jewelry sets, necklaces, and bangles.Cosmetics & Makeup: Some of the lowest-priced makeup products and beauty essentials in the city.Accessories: Hair accessories, hair clips, handbags, and parlor supplies.Event Decor: Items for mehendi and haldi decorations2 Matke wali gali sadar bazar Crowded market with shops selling items including clothes, electronics, kitchenware and cosmetics at wholesale prices.",
     "startDate": "2026-10-03T10:30:00+05:30",
     "endDate": "2026-10-03T13:30:00+05:30",
@@ -2817,6 +2817,41 @@
       "Live GIG",
       "Music",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "ALT EFF 2026 <> CEEW Delhi",
+    "description": "There are times in history that ask something different of us. This is one of them.The 7th edition of the All Living Things Environmental Film Festival returns with stories that don't look away. Films that find beauty in unlikely places, humour in dark times, and communities imagining futures worth fighting for.For one day, we'll gather around cinema that challenges, delights and surprises in equal measure. Expect award winning films from around the world, filmmaker Q&As, unforgettable conversations, great food, drinks, and a room full of people who aren't afraid to ask difficult questions.Pull up a chair.Let's meet the times together.This event is part of ALT EFF's decentralised screenings, proudly presented in partnership with Council on Energy, Environment and Water (CEEW)This is art as witness, joy as resistance, and cinema as a way back to each other. Program10th December 2026, Thursday6:30 - 6:45 PM: Through The Dappled Light (Puneet Raj Singh, Nikita Sharma, Apoorva Sharma / India / 8 mins / Hindi / 2025) 6:45 - 7:00 PM: Before the Fire (Swara Garge and Prakhar Dobhal / India / 11 mins / Hindi / 2026)7:00 - 7:30 PM: Namsing | Preserving A Tradition (Ruella Rahman Khound / India / 21 mins / Assamese, Mising / 2025)7:30 - 7:50 PM: Choora (Anand Rama Krishnan / India / 17 mins / Malayalam / 2024)7:50 - 8:05 PM: Where the Water Hides (Marhaba Hilali / India / 13 mins / Sindhi, Kutchi, Gujarati, Hindi / 2026)8:05 - 8:45 PM: Sincerity of Saryan (Varun Chauva / India / 34 mins / English, Hindi / 2026) ",
+    "startDate": "2026-12-11T17:00:00+05:30",
+    "endDate": "2026-12-11T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "3, KG Marg, Mandi House, New Delhi, Delhi 110001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.62389100000000000000",
+        "longitude": "77.22423500000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "All Living Things Environmental Film Festival",
+      "url": "https://urbanaut.app/partner/alt-eff-2026"
+    },
+    "url": "https://urbanaut.app/spot/alt-eff-2026-delhi",
+    "keywords": [
       "URBANAUT"
     ]
   }

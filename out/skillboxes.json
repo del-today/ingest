@@ -88,7 +88,7 @@
       "description": "Jackfruit Dance Party turns #5 - Weekender - IndiranagarSOCIAL",
       "endDate": "2026-10-10T23:59:00",
       "identifier": "com.skillboxes.41875",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/STJTQlp1Q25mekRBMnhqRno2czM4Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1790594877wtqsfs7yjt6FItzo.jpeg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1790777744gcHkvVBCiuNqKPMh.jpeg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Club Gigs - Music"
@@ -109,8 +109,16 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Valid for both days\n",
+            "inventoryLevel": 16,
+            "name": "Early Bird Pass || 2 Day Weekend Access",
+            "url": "https://www.skillboxes.com/events/ticket/jackfruit-dance-party-turns-5-weekender-indiranagarsocial-sbolhkcv"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Valid for both days\n",
             "inventoryLevel": 3,
-            "name": "Super Early Bird Pass",
+            "name": "Super Early Bird || 2 Day Weekend Access",
             "url": "https://www.skillboxes.com/events/ticket/jackfruit-dance-party-turns-5-weekender-indiranagarsocial-sbolhkcv"
          }
       ],
