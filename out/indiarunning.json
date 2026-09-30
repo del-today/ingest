@@ -87,6 +87,56 @@
   },
   {
     "@type": "SportsEvent",
+    "name": "PaceX x FUAARK, Run and Challenges",
+    "url": "https://indiarunning.com/events/pacex_x_fuaark_run_and_challenges_37376",
+    "startDate": "2026-10-04T07:00:00+05:30",
+    "endDate": "2026-10-04T10:30:00+05:30",
+    "description": "Get ready for a fun Sunday morning with \nPaceX \u00d7 FUAARK\n at their Indiranagar store!\nPost-run, we\u2019re keeping the energy going at the venue with:\n\ud83d\udca7 Hydration + electrolytes\n\ud83c\udf73 Breakfast\n\ud83c\udfaf Fun challenges & games\n\ud83c\udfc6 Hampers for challenge winners\n\ud83c\udf89 A fun post-run experience at the FUAARK store\nRun. Refuel. Challenge yourself. Have fun.",
+    "image": "https://race-registration-cdn.indiarunning.com/events/2026/10/04/pacex-x-fuaark%2C-run-and-challenges-2026/banner1790677449747",
+    "location": {
+      "@type": "Place",
+      "name": "2nd Stage",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1147, 12th Main Road, Kaypee Icon, 80 Feet Rd, near Sony Signal, 2nd Stage, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560038",
+        "addressCountry": "India"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9701698,
+        "longitude": 77.6418846
+      }
+    },
+    "sport": "Running",
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "2.5K",
+        "price": "499",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "name": "5k",
+        "price": "499",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "name": "7K",
+        "price": "499",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@type": "SportsEvent",
     "name": "PaceX x HRX, Run Together. Go Further.",
     "url": "https://indiarunning.com/events/pacex_x_hrx_run_together_go_further_57958",
     "startDate": "2026-10-10T07:00:00+05:30",
@@ -479,21 +529,21 @@
       {
         "@type": "Offer",
         "name": "5k",
-        "price": "1062.50",
+        "price": "1125",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock"
       },
       {
         "@type": "Offer",
         "name": "10k",
-        "price": "1062.50",
+        "price": "1125",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock"
       },
       {
         "@type": "Offer",
         "name": "21.1K",
-        "price": "1062.50",
+        "price": "1125",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock"
       }
@@ -546,63 +596,6 @@
         "@type": "Offer",
         "name": "21.1K",
         "price": "1799",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@type": "SportsEvent",
-    "name": "Thump Celebration Bengaluru 1/2 Marathon and 10K RUN 2026",
-    "url": "https://indiarunning.com/events/thump_celebration_bengaluru_12_marathon_and_10k_run_2026_38459",
-    "startDate": "2026-12-20T05:30:00+05:30",
-    "endDate": "2026-12-20T11:00:00+05:30",
-    "description": "Life is Calling Sports Welcome to the 13th edition of Celebration Bengaluru 1/2 Marathon and 10k RUN. The event is scheduled on a Sunday early morning at 4:30 AM\nCome join thousands of runners from our community at \nNICE Road\n and enjoy the crisp December morning at Thump!\nEvent Date: 20th December 2026\nEvent Venue:\n \nNice Road Check Post, NICE Bangalore Mysore Expressway, Hosakerehalli, Bengaluru\nLast date of registration: December 1st, 2026\nPartners for the EVENT:\n \nTour de Malnad\n are our \nCycling Tour Partner\n, \nEventzalley\n are our \nTicketing Partner\n, \nSambhrama Farms\n are our \nFarm Stay Partner\nThump 5K RUN 2026\n5 Kms Celebration Run / Walk for participants above 10 yrs (Men & Women)\nRegistration fees: 700 Rs/Ticket (Non-Timed Run) Plus 18% GST\nStart Time: 7:30 AM - Until Finish\nThump 10K RUN 2026\nOpen Category (16 yrs to 45 yrs), Senior Category (46 yrs to 60 yrs) and Veteran Category (61 yrs to Above) | (Men & Women)\nRegistration fees: 1500 Rs/Ticket Plus 18% GST\nStart Time: 6:15 AM - Until Finish\nThump Half Marathon(21.1K) RUN 2026\nOpen Category (16 yrs to 45 yrs), Senior Category (46 yrs to 60 yrs) and Veteran Category (61 yrs to Above) | (Men & Women)\nRegistration fees: 1700 Rs/Ticket Plus 18% GST\nStart Time: 5:45 AM - Until Finish\nThump 20 Miler (32K) RUN 2026\nOpen Category (16 yrs to 45 yrs), Senior Category (46 yrs to 60 yrs) and Veteran Category (61 yrs to Above) | (Men & Women)\nRegistration fees: 1800 Rs/Ticket Plus 18% GST\nStart Time: 5:30 AM - Until Finish\nThump 5K X 4 Team Timed Relay 2026\nTeam Relay will host Corporate category (all Male and all Female teams) and Open category (all Male and all Female teams).\nCORPORATE TEAM: 4 colleagues who work for the same Corporate company or entity can form a teams.\nOPEN TEAM: Any 4 individuals can form an Open Category relay team.\nParticipants above 10 yrs (Men & Women). The top-3 teams will be awarded podiums in Male and Female Teams.\n(3 Top Teams in Male and Female teams in both Open and Corporate category)\nRegistration fees: 5000 Rs/Ticket Plus 18% GST\nStart Time: 6:30 AM - Until Finish\nInclusions:\nT-shirt\nFinisher e-certificate\nFinisher Medal\nPost Race Refreshments\nFor any queries or details, feel free to WhatsApp or Text us on +91 9606622006 or contact@lifeiscalling-sports.com",
-    "image": "https://race-registration-cdn.indiarunning.com/events/2026/12/20/thump-celebration-bengaluru-1/2-marathon-and-10k-run-2026-2026/banner1786099410973",
-    "location": {
-      "@type": "Place",
-      "name": "Dwaraka Nagar",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "WGPJ+JFW, Dwaraka Nagar, Hosakerehalli, Bengaluru, Karnataka 560026, India",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "Karnataka",
-        "postalCode": "560026",
-        "addressCountry": "India"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9366173,
-        "longitude": 77.53119319999999
-      }
-    },
-    "sport": "Running",
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "5k",
-        "price": "700",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      },
-      {
-        "@type": "Offer",
-        "name": "10k",
-        "price": "700",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      },
-      {
-        "@type": "Offer",
-        "name": "21.1K",
-        "price": "700",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      },
-      {
-        "@type": "Offer",
-        "name": "32K",
-        "price": "700",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock"
       }

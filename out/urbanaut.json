@@ -2,44 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Kathika Cultural Experience",
-    "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
-    "startDate": "2026-09-30T11:30:00+05:30",
-    "endDate": "2026-09-30T14:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.64610280000000000000",
-        "longitude": "77.22736410000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kathika Cultural Centre and Museum",
-      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
-    },
-    "url": "https://urbanaut.app/spot/kathika-cultural-experience-15616",
-    "keywords": [
-      "Music",
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "VDHM Training Run - Week 3 / Speed Run 3",
     "description": "HiIf you are participating in the Vedanta Marathon, this will be a training session with SWAG. We will be doing a speed run session. Speed runs basically mean that you run at a very fast pace for a particular distance, depending on your level of training so 500 m, 800m, 1 km. After each running lap, you take a 1 min breather, and then you run again.Srishti will be leading the run, and we\u2019ll also head for coffee after the run! Please be on time, and sign up only if you\u2019re ready to show up consistently and take your training seriously. :)",
     "startDate": "2026-10-01T06:30:00+05:30",
@@ -343,7 +305,7 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Hot Girls Do Pilates",
-    "description": "Let\u2019s make your Saturday morning extra feel-good with Hot Girls Do Pilates, a guided mat pilates experience by SWAG x Life Pilates.Come and feel fitter in the company of like-minded women, and stay back for a quick coffee and some chit-chat This can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!Here's the plan,We start with a Mat Pilates session.Slow down with some breath-work and meditation.Enjoy a curates grazing table.No need to carry your mats, we will take care of that.Can't wait to see you this Saturday!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "description": "Let\u2019s start the weekend with a one hour mat Pilates session at Life Pilates, followed by a grazing and social hour.\u00a0Here's the plan,We start with a guided Mat Pilates session.Slow down with some breath-work and meditation.Enjoy a Moringa Matcha / Lemonades etc by the Boring Food Company.Take home some amazing beauty products by BetterBeauty.\u00a0No need to carry your mats, we will take care of that.Can't wait to see you this Saturday!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
     "startDate": "2026-10-03T10:00:00+05:30",
     "endDate": "2026-10-03T11:00:00+05:30",
     "location": {
@@ -409,8 +371,8 @@
     },
     "url": "https://urbanaut.app/spot/delhi-sadar-bazaar-walk",
     "keywords": [
-      "Local",
       "Walking Tour",
+      "History & heritage",
       "Guided tour",
       "URBANAUT"
     ]
@@ -529,6 +491,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Coffee Circle - A women-only curated meet up",
+    "description": "We are surrounded by a sea of people yet hardly any to call on. So, we are building spaces for real conversations and connections, a community that you can call home, not just another event where you are one among many in another sea of people. Join us for an curated circle designed for women to gather and meet each other over a cuppa of joe and talk about our lives beyond work & family. A chance to meet new people matched to your vibe, exchange ideas, listen and share, with activities and prompts designed to get to know each other in a shared space. We will end with a little creative activity to ground the room. No awkward ice breakers, no mini groups, no onus on you to make idle conversation. We will sit and share and listen as a collective. Each person will have the room as the room will have you. Exact venue details to be shared 24 hours prior. ",
+    "startDate": "2026-10-03T15:00:00+05:30",
+    "endDate": "2026-10-03T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Safdarjung Enclave, New Delhi, Delhi 110029, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.56472600000000000000",
+        "longitude": "77.19491640000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "149.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Wander & Wonder",
+      "url": "https://urbanaut.app/partner/wander-wonder"
+    },
+    "url": "https://urbanaut.app/spot/coffee-circle-a-women-only-curated-meet-up",
+    "keywords": [
+      "Leisure",
+      "Local",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "When AI Starts Inventing",
     "description": "When AI Starts Inventing: How AI Is Cracking Problems That Have Resisted Us for Decades, and How to Bring It from Big Tech's Labs to Your LaptopIn September 2026, OpenAI announced that a team of AI agents had produced a proof, machine-verified in Lean, for a problem about how fluids move that has stood open for ninety years and carries a million-dollar prize. Before that, an AI agent found a faster way to multiply matrices, the operation that sits underneath almost all modern computing, beating a record set in 1969. It is starting to feel routine: every few weeks, another problem that resisted people for decades quietly falls to an AI agent.How does this actually happen? That is what we will look at first, because the mechanism turns out to be stranger and simpler than most people expect.Then a harder question. Every time the agent is asked to produce something, someone pays, and the more capable the AI, the higher the bill. A single discovery run makes thousands of such calls, which is why almost all of this work happens inside a handful of enormously wealthy labs. In our lab we are trying to change that, and doing so means asking questions nobody bothers to ask when the budget is unlimited. Does every step really need the most expensive AI model, or would a cheaper one do just as well? Is every attempt the agent makes actually worth making? Our investigation of these discovery pipelines, across several notoriously hard problems, reveals that around 98% of the AI agent's calls contribute nothing to the eventual solution. And they still succeed. Which leaves a genuinely open question: is that waste the price of discovery, or simply a bill nobody has bothered to reduce?About the SpeakerProf. Sayan Ranu is the DS Chair Professor in AI at IIT Delhi, jointly appointed in the Department of Computer Science and Engineering and the Yardi School of AI. His research focuses on machine learning for structured data, particularly graphs, and increasingly on AI systems that can reason, plan and discover solutions on their own. His work spans automated algorithm discovery, AI agents, self-supervised learning and trustworthy AI. His research has been published at leading AI and machine learning conferences including NeurIPS, ICML, ICLR and KDD. He was also a recipient of the Teaching Excellence Award at IIT Delhi and currently serves as a Senior Area Chair for NeurIPS 2026 and Program Co-Chair for the Datasets & Benchmarks Track at KDD 2027.Book now & develop your own pint of view! \ud83c\udf7b",
@@ -632,6 +632,44 @@
       "Wellness",
       "Workshop",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Rise and Fall of Awadh:  Safdarjung Tomb",
+    "description": "Safdarjung's Tomb, a striking sandstone and marble mausoleum in Delhi, was built in 1754 for Nawab Safdarjung, the influential prime minister of the Mughal Empire. As Mughal power waned, Awadh, with its capital at Faizabad, flourished under its Nawabs. Saadat Khan, the first Nawab, established Faizabad, which saw significant development under Safdarjung and his successor. The Nawabs of Awadh, a Persian Shia Muslim dynasty, cultivated a rich cultural heritage and invited scholars, poets, and artists from across the empire. However, the region's prosperity faded after the capital moved to Lucknow and as British influence grew. This heritage walk at Safdarjung's Tomb delves into the story of the rise and fall of Awadh.",
+    "startDate": "2026-10-03T17:00:00+05:30",
+    "endDate": "2026-10-03T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Airforce Golf Course, Delhi Race Club, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.58941560000000000000",
+        "longitude": "77.21062190000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "295.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sikkawala",
+      "url": "https://urbanaut.app/partner/sikkawala"
+    },
+    "url": "https://urbanaut.app/spot/the-rise-and-fall-of-awadh-a-heritage-walk-at-saf",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
       "URBANAUT"
     ]
   },
@@ -1990,41 +2028,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Tales of Indigenous Indian Entrepreneurship",
-    "description": "About the LectureLong before Zomato and Zerodha, who was building India's wealth, and how?Indian entrepreneurship is strangely under-represented in the mainstream story. Startup India and the unicorns tipped the balance a little, but India's business history goes back hundreds of years before the \"Z brothers\" became household names. Indian traders and entrepreneurs were building financial instruments, credit systems, accounting methods and contract management long before these were written up in Harvard textbooks and case studies.Most of us know almost nothing about this history. Many of the communities that built it have faded into obscurity, with tales of a glorious past but rarely a shared plan for the future. This lecture digs into what made them great, what they invented, and what happened to that edge.The session explores:What made India's traditional business communities so successfulThe innovations in business and finance that built the wealth of the Jagat Seths, the Birlas and everyone who came afterMarwari social and cultural systems, and how they shaped individual and collective entrepreneurshipThe lost edge, and whether there's hope for the futureAbout the SpeakerDr Nihar Amoncar is Pro Vice Chancellor at IILM University and Director of the IILM School of Management. He completed his PhD in Family Business Strategy on a full scholarship at the University of South Wales, and has won several international awards for his research on traditional business communities, including the Best Paper Award at the Academy of Marketing. He is a Fellow of Higher Education (UK), serves on the board of the Academy of Marketing's Special Interest Group on Entrepreneurship and Marketing, and is the Asia representative of GRCME (USA).About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
-    "startDate": "2026-10-11T16:00:00+05:30",
-    "endDate": "2026-10-11T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Panchshila Park, 61/7, Panchshila Park, Block C, Panchsheel Park South, Malviya Nagar, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53946110000000000000",
-        "longitude": "77.21371580000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/tales-of-indigenous-indian-entrepreneurship",
-    "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Can We Make Delhi a Human City?",
     "description": "Welcome to Human City Conversations where we have intimate conversations about how cities are built, how they are lived, and who gets to shape them.Conversation 1: HOW DO WE MAKE DELHI A HUMAN CITY?Delhi is a city of contradictions. It has some of India's best public institutions, an expanding metro network, enormous infrastructure projects and a new Master Plan for Delhi 2047 that sets out a vision for how the city should grow and change over the next two decades. And yet, the experience of living in Delhi can be very different.Millions of people spend hours commuting across the city. Walking can feel like an afterthought. Public spaces are often unevenly distributed and poorly connected. For many women, moving through the city comes with a calculation of safety that men may never have to make. And then there is the air. Every winter, Delhi's air pollution becomes a public health crisis forcing a city of millions to think about something as fundamental as whether it is safe to breathe outside.So how can a city with so much planning, infrastructure and investment still struggle with some of the most basic conditions of everyday urban life? Perhaps the problem is not simply how much we build, perhaps we need to ask a more fundamental question:What kind of city are we actually trying to build? And more importantly, who is that city being built for?For the first Human City Conversation, urbanist Jagan Shah joins Ruchita Bansal for an open conversation about Delhi, its future and the gap between the city we plan on paper and the city people actually experience. We'll explore what makes a city genuinely liveable from mobility and housing to public space, safety, air pollution and neighbourhoods and look at what Delhi's new Master Plan for 2047 could mean on the ground.What to ExpectA curated, open conversation between urbanist Jagan Shah and Ruchita BansalA look at Delhi's urban future and what the new Master Plan for Delhi 2047 could mean on the groundA discussion about the gap between the city we plan and the city people actually experienceA closer look at how cities are shaped by policies, infrastructure and development decisionsPerspectives on what makes a city genuinely liveable, accessible and inclusiveA 30 minute Q&A SessionInformal discussion and one on one conversation after the conversationEvent Details\ud83d\udcc5 Sunday, 11 October 2026\ud83d\udd54 5:00 PM onwards\ud83d\udccd Kunzum Books, GK II, Delhi\u2615 Your ticket includes one coffee/tea .About the SpeakerJagan Shah is an urbanist, architect and former Director of the National Institute of Urban Affairs (NIUA), with decades of experience working at the intersection of urban planning, policy, governance and development. He has been closely involved in shaping India's urban policy and planning landscape, including work connected to Delhi's Master Plan, the Smart Cities Mission and other national urban development programmes. His work has involved developing and implementing policies and frameworks that influence how Indian cities grow, transform and respond to the challenges of rapid urbanisation.Over the years, Jagan has worked across urban planning, housing, infrastructure, heritage, governance and institutional development, working with governments and institutions at different levels.His experience spans both the making of plans and policies and the realities of implementing them, making him particularly well placed to examine the gap between the city we envision on paper and the city that people actually experience.About the ModeratorRuchita Bansal is an architect and urban planner with 15 years of experience working on cities, urban development and planning policy. Her work has ranged from developing planning frameworks and regulations to working directly on large-scale urban transformation projects. She was part of the team behind Ayodhya Vision 2047, working on one of India's most complex and rapidly transforming urban environments and seeing first-hand the challenges of translating ambitious plans and visions into reality on the ground.Today, Ruchita is the Creator and Host of The Human City Podcast and the founder of SheCity India, using conversations, research and storytelling to make urban planning more accessible and bring the discussion about cities beyond the professional planning community. Through The Human City, she explores a simple but often overlooked question: what does all this planning mean for the people who actually live in our cities?Note: Attendance implies consent to being filmed for event documentation. If you do not wish to be filmed, please reach out to your curator for the evening, Ruchita. Come curious. Come questioning. Come ready to talk about the city we call home.",
     "startDate": "2026-10-11T17:00:00+05:30",
@@ -2403,6 +2406,42 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Inside Commerce: Shaping India's Digital Commerce",
+    "description": "India\u2019s e-commerce ecosystem is entering a new phase of maturity, marked by rapid growth in consumers, sellers and new business models. The industry is expected to reach US$300 billion by 2030. Its growth is also geographically diverse, with Tier-II and Tier-III cities accounting for an increasing share of online commerce.As the e-commerce ecosystem matures, so too do consumer expectations around speed, convenience, reliability and choice, alongside evolving perspectives of sellers, workers and businesses. At the same time, technological and regulatory developments are continually shaping how diverse marketplaces operate.Against this backdrop, the Digital Commerce Coalition is convening its inaugural public forum bringing together 100+ relevant stakeholders from across the digital commerce ecosystem, including businesses, consumers, sellers, and policymakers.",
+    "startDate": "2026-10-23T09:30:00+05:30",
+    "endDate": "2026-10-23T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "New Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.61392980000000000000",
+        "longitude": "77.20882820000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1178.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Koan Advisory",
+      "url": "https://urbanaut.app/partner/koan"
+    },
+    "url": "https://urbanaut.app/spot/dcc-half-day-conference",
+    "keywords": [
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Heritage Walk : Shadows of Jahanpanah",
     "description": "Among Delhi's many historic cities, Jahanpanah remains perhaps the most elusive. Conceived in the fourteenth century as an ambitious attempt to unite earlier settlements within a single fortified capital, it was envisioned as a city without precedent. Today, however, its grand design survives only in fragments\u2014hidden mosques, crumbling walls, forgotten reservoirs, and scattered monuments quietly woven into the modern city. Shadows of Jahanpanah seeks to reconnect these surviving pieces and reveal the extraordinary vision that once shaped this landscape.As participants move through its surviving monuments, the experience explores the political ambitions of the Delhi Sultanate, the ingenuity of medieval urban planning, and the architectural innovations that distinguished this remarkable capital. Beyond the monuments themselves lie larger questions about memory, impermanence, and the cities history chooses to celebrate or forget. Through historical interpretation, architectural observation, and compelling storytelling, the walk reconstructs a city that has almost vanished from sight, inviting participants to imagine the scale, complexity, and ambition of one of medieval India's most fascinating experiments in urban design.Detailed Flow of WalkIntroduction to Jahanpanah vision of Delhi's fourth city.Visit Satpula and examine medieval hydraulic engineering and defensive architecture.Explore Khirki Masjid while understanding the evolution of Sultanate mosque architecture.Visit Shaikh Yusuf Qattal's Tomb and discuss Sufi traditions during the Delhi Sultanate.Explore Begumpur Masjid, one of Delhi's grandest congregational mosques, and its urban significance.Conclude at Bijay Mandal while reconstructing the scale and ambition of Jahanpanah's royal citadel.Final discussion on medieval urban planning, the rise and decline of imperial cities, and the importance of preserving Delhi's lesser-known heritage.Key Themes & Highlights Tughlaq & Khilji dynastyMedieval urban planningSultanate architectureWater managementForgotten city of DelhiMonumental mosquesHidden heritage",
@@ -2702,6 +2741,44 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Other Seat- Diwali Baithak",
+    "description": "DIWALI BAITHAK \u2014 A FESTIVE SUPPER BY THE OTHER SEATThis Diwali, we are trading crowded restaurants and loud parties for something a little more intimate.A Diwali Baithak \u2014 the kind where you sit low on a gadda, have a drink beside you, eat between songs, and listen as a live vocalist and musician fill the room with festive vibesNot a concertNot a Diwali party.We are only hosting 10- 12 guestsWe've put together a Diwali menu for the evening, two cocktails, and a few hours that we hope you'll remember for reasons that have very little to do with what was planned. The menu is uploaded in the gallery.Dress code: Strictly EthnicDiwali Baithak is our take on the kind of festive evening we actually want to have \u2014 good food, a beautiful room, familiar songs, a few drinks and a table full of people who may not know each other when they arrive.Come with your friends, come as a couple or come by yourself. There\u2019s always another seat at The Other Seat.",
+    "startDate": "2026-10-31T19:30:00+05:30",
+    "endDate": "2026-10-31T23:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gurugram, Haryana, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.45949650000000000000",
+        "longitude": "77.02663830000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3850.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "THE OTHER SEAT",
+      "url": "https://urbanaut.app/partner/the-other-seat"
+    },
+    "url": "https://urbanaut.app/spot/uncorked",
+    "keywords": [
+      "Leisure",
+      "Pop-up Event",
+      "Food & drink",
       "URBANAUT"
     ]
   },
