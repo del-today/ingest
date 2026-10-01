@@ -39,44 +39,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Baddy with Baddies | Mehrauli",
-    "description": "SWAG Baddy with Baddies is a women-only, badminton meet-up.It is the perfect mid-week reset, with some badminton rallies, quick sets of both doubles and singles followed by a coffee and chit chat at the Reppp Cafe! It can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.Note: Only non-marking sports shoes are allowed on court. Don't have non-marking shoes? No worries - you can rent a pair at the venue of play bare foot.",
-    "startDate": "2026-10-01T20:00:00+05:30",
-    "endDate": "2026-10-01T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "near Qutab Minar Metro Station, Aam Bagh, Ladha Sarai Village, Mehrauli, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.51514850000000000000",
-        "longitude": "77.18640390000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "299.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swagmehrauli",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Echoes of the Red Fort | Heritage Walk",
     "description": "Step beyond the iconic red sandstone walls and discover the stories, spaces, and secrets that shaped one of Delhi\u2019s most celebrated landmarks.It is a guided heritage walk by an architect and urban designer through the magnificent Red Fort, exploring its architecture, courtyards, gateways, royal chambers, gardens, and ceremonial spaces. Go beyond dates and dynasties as we uncover the people, traditions, craftsmanship, and fascinating episodes connected to the fort and the city of Shahjahanabad.",
     "startDate": "2026-10-02T09:00:00+05:30",
@@ -373,44 +335,6 @@
     "url": "https://urbanaut.app/spot/cyanotype-workshop-15572",
     "keywords": [
       "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Wattpad Girlies Support Group | Fictional Red Flag",
-    "description": "For everyone whose formative years involved wildly questionable fictional men, impossible standards and plots we probably had no business reading at 14.We\u2019re getting a small group of women together in a cute GK caf\u00e9 to defend our tropes, confess our fiction sins, play games and collectively debrief the men who ruined us with plenty of time to eat, yap and meet people who grew up on the same lore.Join this exorcism for your reading history.Come solo or bring a friend. Food and Beverage voucher includedDM us @ukiyocollective_ for any questions!",
-    "startDate": "2026-10-03T13:00:00+05:30",
-    "endDate": "2026-10-03T15:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Greater Kailash II, Greater Kailash, New Delhi, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53536000000000000000",
-        "longitude": "77.24195220000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "549.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Ukiyo Collective",
-      "url": "https://urbanaut.app/partner/ukiyo"
-    },
-    "url": "https://urbanaut.app/spot/wattpad-girlies",
-    "keywords": [
-      "Leisure",
-      "Pop-up Event",
-      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -792,7 +716,7 @@
     "name": "THE QUTUB CODE: Decode stories hidden in stone",
     "description": "What if the Qutub Minar could tell you the story of Delhi?Step into the Qutub Complex and explore the layers of history, architecture, power and cultural exchange that shaped medieval Delhi. From the soaring Qutub Minar and the intricate Alai Darwaza to the ancient Iron Pillar and the ruins of the Quwwatu\u2019l-Islam Mosque, every stone reveals a different chapter.This is not just a walk around a monument. It is a journey through the making of Delhi- its rulers, ambitions, architectural experiments, conflicts, craftsmanship and forgotten stories.Come for the Qutub Minar. Stay for the stories hidden around it.",
     "startDate": "2026-10-04T08:00:00+05:30",
-    "endDate": "2026-10-04T10:00:00+05:30",
+    "endDate": "2026-10-04T19:00:00+05:30",
     "location": {
       "@type": "Place",
       "address": "G5GQ+443, Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
@@ -807,7 +731,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "600.00",
+      "price": "350.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
