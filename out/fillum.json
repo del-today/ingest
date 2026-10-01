@@ -69,6 +69,23 @@
   },
   {
     "@type": "ScreeningEvent",
+    "name": "The Weight of Water: The Human Cost of Climate Crisis(2022)",
+    "url": "https://fillum.in/screening/6265",
+    "startDate": "2026-10-03T15:00:00+05:30",
+    "endDate": "2026-10-03T15:00:00+05:30",
+    "description": "Postcards is coming together with The Philosophy Project to host a screening of \"The Weight of Water: The Human Cost of the Climate Crisis\" co-directed by Neelima Vallangi and Deej Phillips, on 3rd ..more",
+    "location": {
+      "@type": "Place",
+      "name": "Q Block Road, Jungpura (Full address on approval)",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Postcards"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "The Face of Another(1966)",
     "url": "https://fillum.in/screening/6250",
     "startDate": "2026-10-04T12:00:00+05:30",
@@ -133,23 +150,6 @@
     "organizer": {
       "@type": "Organization",
       "name": "SomeArt"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Funny Games(1997)",
-    "url": "https://fillum.in/screening/6252",
-    "startDate": "2026-10-04T17:30:00+05:30",
-    "endDate": "2026-10-04T17:30:00+05:30",
-    "description": "Michael Haneke\u2019s most notorious provocation, Funny Games spares no detail in its depiction of the agony of a bourgeois family held captive at their vacation home by a pair of white-gloved young me..more",
-    "location": {
-      "@type": "Place",
-      "name": "Mool, South Ex II",
-      "address": "South Ex II, New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Out of Sequence"
     }
   }
 ]
