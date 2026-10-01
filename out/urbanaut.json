@@ -1,42 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "VDHM Training Run - Week 3 / Speed Run 3",
-    "description": "HiIf you are participating in the Vedanta Marathon, this will be a training session with SWAG. We will be doing a speed run session. Speed runs basically mean that you run at a very fast pace for a particular distance, depending on your level of training so 500 m, 800m, 1 km. After each running lap, you take a 1 min breather, and then you run again.Srishti will be leading the run, and we\u2019ll also head for coffee after the run! Please be on time, and sign up only if you\u2019re ready to show up consistently and take your training seriously. :)",
-    "startDate": "2026-10-01T06:30:00+05:30",
-    "endDate": "2026-10-01T07:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "H5VV+M56 Nehru park, Nehru Park, Niti Marg, Ramnagar, Chanakyapuri, New Delhi, Delhi 110021, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59416260000000000000",
-        "longitude": "77.19303599999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swagvdhm",
-    "keywords": [
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Brew & Paint: Coffee Painting Workshop",
     "description": "Swap your paint set for freshly brewed coffee! In this cozy and sweet-smelling session, you will learn how mixing different amounts of water with coffee creates everything from light honey tones to dark chocolate browns. We will guide you step by step to paint soft washes, add shadows, and draw fine vintage details. Leave with a gorgeous sepia painting that looks antique and smells amazing.",
@@ -153,7 +117,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Echoes of the Red Fort | Heritage Walk",
-    "description": "Step beyond the iconic red sandstone walls and discover the stories, spaces, and secrets that shaped one of Delhi\u2019s most celebrated landmarks.It is a guided heritage walk through the magnificent Red Fort, exploring its architecture, courtyards, gateways, royal chambers, gardens, and ceremonial spaces. Go beyond dates and dynasties as we uncover the people, traditions, craftsmanship, and fascinating episodes connected to the fort and the city of Shahjahanabad.",
+    "description": "Step beyond the iconic red sandstone walls and discover the stories, spaces, and secrets that shaped one of Delhi\u2019s most celebrated landmarks.It is a guided heritage walk by an architect and urban designer through the magnificent Red Fort, exploring its architecture, courtyards, gateways, royal chambers, gardens, and ceremonial spaces. Go beyond dates and dynasties as we uncover the people, traditions, craftsmanship, and fascinating episodes connected to the fort and the city of Shahjahanabad.",
     "startDate": "2026-10-02T09:00:00+05:30",
     "endDate": "2026-10-02T10:30:00+05:30",
     "location": {
@@ -322,7 +286,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "749.00",
+      "price": "549.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -1796,6 +1760,45 @@
     "url": "https://urbanaut.app/spot/designing-your-life-the-stanford-way",
     "keywords": [
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "A Walk Through Basti Nizamuddin",
+    "description": "Long before it was a monument, it was Ghiyaspur \u2014 a village where a saint's khanqah drew seekers from every walk of life. A stepwell defied a Sultan's orders, a disciple lit a lamp with water instead of oil & earned the name Chiragh-e-Dilli, and a language was born in the meeting of Persian verse with Indian soil. Even today, the courtyard at Urs Mahal fills with Qawwali, keeping that same devotion alive.Silsila Heritage invites you to walk through the Dargah, the Baoli, Chausath Khamba & Urs Mahal \u2014 five stops through a landscape where spirituality & everyday life still meet. Along the way, we'll talk about the Chishti Sufi tradition, the legacy of Amir Khusrau, and how this neighborhood shaped the language, music & culture we've inherited.Whether you know Nizamuddin for its qawwals, its stories, or simply its quiet corners, this walk is a chance to see it as a living tradition rather than a stop on a map!",
+    "startDate": "2026-10-10T16:00:00+05:30",
+    "endDate": "2026-10-10T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Nizamuddin West, New Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.58921260000000000000",
+        "longitude": "77.24267069999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Silsila Heritage",
+      "url": "https://urbanaut.app/partner/silsilaheritage"
+    },
+    "url": "https://urbanaut.app/spot/a-walk-through-basti-nizamuddin",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
       "URBANAUT"
     ]
   },
