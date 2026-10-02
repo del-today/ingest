@@ -1,82 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "GFT: October Edition in Defence Colony",
-    "description": "Grounds for Thought: October 2026 (Defence Colony)A Blue Tokai \u00d7 unLecture SeriesGrounds for Thought is a monthly series where Blue Tokai and unLecture bring researchers,\u00a0scientists, and thinkers out of their institutions and into a coffee shop. The format is simple: an\u00a0expert, a room full of curious people, and a conversation that goes somewhere a classroom\u00a0rarely does. October runs across Delhi and Bangalore, moving from temple sculpture to constitutional pedagogy, from parenting in the AI age to the politics of a Bollywood item number.1st October: Dolan SamantaTemple sculpture is usually read as devotion \u2014 divine bodies carved to be worshipped. This\u00a0session argues it does something more: these images are sites where gender, desire, and\u00a0authority are negotiated, not just depicted.\u00a0Taking two ninth-to-eleventh-century carvings of \u015aiva\u00a0and P\u0101rvat\u012b from the N\u012blaka\u1e47\u1e6dha temple at K\u0101la\u00f1jara as its central text, and reading them\u00a0through Puranic myth, Foucault, and Judith Butler's account of gender as performance, Dolan\u00a0Samanta, a history educator and JNU-trained researcher, asks why \u015aiva appears nude, enraged, and armed, his sexuality fused with dominance, while P\u0101rvat\u012b appears smaller,\u00a0modest, at once desired and desiring. The question stone carved a thousand years ago still puts\u00a0to us: who was permitted power, and who was only expected to receive it?8th October: Tania KapoorMost parents still treat marks as the surest route to a child's future \u2014 but school mostly rewards memorising, following instructions, and reproducing the right answer in the right way, exactly the\u00a0kind of work AI is fastest at absorbing. Tania Kapoor, a Delhi-based child and adolescent psychologist trained at AIIMS, argues that what will actually distinguish children going forward \u2014 adaptability, emotional regulation, impulse control, comfort with ambiguity \u2014 is precisely what\u00a0classrooms and busy households keep treating as something to address \"later\" Grounded in\u00a0clinical practice, this session asks what parents should be paying attention to now, before later\u00a0becomes too late.15th October: Dr. Jasleen RanaEvery purchase carries a story that has little to do with the product itself \u2014 emotion, aspiration, insecurity, identity. Dr. Jasleen Rana, who holds a PhD in Consumer Psychology and teaches Marketing at JIMS Kalkaji, moves past the question of what we buy to the more revealing one\u00a0why. Through brand archetypes, hidden motivations, and everyday examples \u2014 choosing one\u00a0coffee shop over another, paying more for a brand that does exactly what a cheaper one does \u2014 this interactive session decodes the psychological triggers behind consumer choice, and\u00a0what those choices reveal about identity, belonging, and self-image.22nd October: Shubham YadavWhat if ordinary citizens believed they had something to teach the members of the Constituent\u00a0Assembly? Shubham Yadav, a Senior Research Fellow at JNU's Zakir Husain Centre for Educational Studies, argues that India's Constitution wasn't shaped by elites alone \u2014 it emerged from a running exchange in which both \"the people\" and \"the makers\" wanted to instruct each other on what the new nation should be. Framed as a conversation rather than a\u00a0lecture, the session traces that two-way pedagogy, and what it reveals about how theConstitution actually came to be built.",
-    "startDate": "2026-10-01T18:30:00+05:30",
-    "endDate": "2026-10-22T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "No A/57 to A/59, DDA Shopping Complex, Block F, Defence Colony, New Delhi, Delhi 110024, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.56615030000000000000",
-        "longitude": "77.23328000000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "550.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/gft-october-edition-in-defence-colony",
-    "keywords": [
-      "Food & drink",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Echoes of the Red Fort | Heritage Walk",
-    "description": "Step beyond the iconic red sandstone walls and discover the stories, spaces, and secrets that shaped one of Delhi\u2019s most celebrated landmarks.It is a guided heritage walk by an architect and urban designer through the magnificent Red Fort, exploring its architecture, courtyards, gateways, royal chambers, gardens, and ceremonial spaces. Go beyond dates and dynasties as we uncover the people, traditions, craftsmanship, and fascinating episodes connected to the fort and the city of Shahjahanabad.",
-    "startDate": "2026-10-02T09:00:00+05:30",
-    "endDate": "2026-10-02T10:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Netaji Subhash Marg, Old Delhi, Lal Qila, Chandni Chowk, New Delhi, Delhi, 110006, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.65615920000000000000",
-        "longitude": "77.24102030000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "350.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Riwayat Walks",
-      "url": "https://urbanaut.app/partner/riwayatwalks"
-    },
-    "url": "https://urbanaut.app/spot/echoes-of-the-red-fort-heritage-walk",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Nature Journaling",
     "description": "A 2-hour Nature Journaling workshop to step away from the rush and spend some unhurried time simply noticing, exploring and being present. We\u2019ll begin with a gentle nature walk, where we\u2019ll learn about the flora and fauna around us, before finding a quiet spot by the lake to slow down and journal.What to expect:A gentle nature walk exploring the flora and faunaSlow observation & sensory explorationGuided nature journaling promptsMoments to pause, reflect and reconnect with the presentPlenty of unhurried time to simply beAll materials for the activityCome slow down, get curious about the little things around you, and rediscover the joy of dilly-dallying in nature \u2014 just like we did as children.",
@@ -1533,6 +1457,43 @@
       "Live GIG",
       "Music",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "GFT: October Edition in Defence Colony",
+    "description": "Grounds for Thought: October 2026 (Defence Colony)A Blue Tokai \u00d7 unLecture SeriesGrounds for Thought is a monthly series where Blue Tokai and unLecture bring researchers,\u00a0scientists, and thinkers out of their institutions and into a coffee shop. The format is simple: an\u00a0expert, a room full of curious people, and a conversation that goes somewhere a classroom\u00a0rarely does. October runs across Delhi and Bangalore, moving from temple sculpture to constitutional pedagogy, from parenting in the AI age to the politics of a Bollywood item number.1st October: Dolan SamantaTemple sculpture is usually read as devotion \u2014 divine bodies carved to be worshipped. This\u00a0session argues it does something more: these images are sites where gender, desire, and\u00a0authority are negotiated, not just depicted.\u00a0Taking two ninth-to-eleventh-century carvings of \u015aiva\u00a0and P\u0101rvat\u012b from the N\u012blaka\u1e47\u1e6dha temple at K\u0101la\u00f1jara as its central text, and reading them\u00a0through Puranic myth, Foucault, and Judith Butler's account of gender as performance, Dolan\u00a0Samanta, a history educator and JNU-trained researcher, asks why \u015aiva appears nude, enraged, and armed, his sexuality fused with dominance, while P\u0101rvat\u012b appears smaller,\u00a0modest, at once desired and desiring. The question stone carved a thousand years ago still puts\u00a0to us: who was permitted power, and who was only expected to receive it?8th October: Tania KapoorMost parents still treat marks as the surest route to a child's future \u2014 but school mostly rewards memorising, following instructions, and reproducing the right answer in the right way, exactly the\u00a0kind of work AI is fastest at absorbing. Tania Kapoor, a Delhi-based child and adolescent psychologist trained at AIIMS, argues that what will actually distinguish children going forward \u2014 adaptability, emotional regulation, impulse control, comfort with ambiguity \u2014 is precisely what\u00a0classrooms and busy households keep treating as something to address \"later\" Grounded in\u00a0clinical practice, this session asks what parents should be paying attention to now, before later\u00a0becomes too late.15th October: Dr. Jasleen RanaEvery purchase carries a story that has little to do with the product itself \u2014 emotion, aspiration, insecurity, identity. Dr. Jasleen Rana, who holds a PhD in Consumer Psychology and teaches Marketing at JIMS Kalkaji, moves past the question of what we buy to the more revealing one\u00a0why. Through brand archetypes, hidden motivations, and everyday examples \u2014 choosing one\u00a0coffee shop over another, paying more for a brand that does exactly what a cheaper one does \u2014 this interactive session decodes the psychological triggers behind consumer choice, and\u00a0what those choices reveal about identity, belonging, and self-image.22nd October: Shubham YadavWhat if ordinary citizens believed they had something to teach the members of the Constituent\u00a0Assembly? Shubham Yadav, a Senior Research Fellow at JNU's Zakir Husain Centre for Educational Studies, argues that India's Constitution wasn't shaped by elites alone \u2014 it emerged from a running exchange in which both \"the people\" and \"the makers\" wanted to instruct each other on what the new nation should be. Framed as a conversation rather than a\u00a0lecture, the session traces that two-way pedagogy, and what it reveals about how theConstitution actually came to be built.",
+    "startDate": "2026-10-08T18:30:00+05:30",
+    "endDate": "2026-10-22T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "No A/57 to A/59, DDA Shopping Complex, Block F, Defence Colony, New Delhi, Delhi 110024, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.56615030000000000000",
+        "longitude": "77.23328000000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "550.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/gft-october-edition-in-defence-colony",
+    "keywords": [
+      "Food & drink",
+      "Art & culture",
       "URBANAUT"
     ]
   },
