@@ -1,83 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Nature Journaling",
-    "description": "A 2-hour Nature Journaling workshop to step away from the rush and spend some unhurried time simply noticing, exploring and being present. We\u2019ll begin with a gentle nature walk, where we\u2019ll learn about the flora and fauna around us, before finding a quiet spot by the lake to slow down and journal.What to expect:A gentle nature walk exploring the flora and faunaSlow observation & sensory explorationGuided nature journaling promptsMoments to pause, reflect and reconnect with the presentPlenty of unhurried time to simply beAll materials for the activityCome slow down, get curious about the little things around you, and rediscover the joy of dilly-dallying in nature \u2014 just like we did as children.",
-    "startDate": "2026-10-02T16:00:00+05:30",
-    "endDate": "2026-10-02T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "H6VW+PC6, Bharat Scouts and Guides Marg, Nizamuddin, National Zoological Park, Sundar Nagar, New Delhi, Delhi 110013, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59428540000000000000",
-        "longitude": "77.24600699999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "600.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Reset with Nature",
-      "url": "https://urbanaut.app/partner/reset-with-nature"
-    },
-    "url": "https://urbanaut.app/spot/nature-journaling-16940",
-    "keywords": [
-      "Wellness",
-      "Workshop",
-      "Walking Tour",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Night Walk in Qutub Minar: Gandhi Jayanti Special",
-    "description": "Experience the magic of Qutub Minar like never before\u2014under the stars and glowing lights.This is a guided heritage walk led by a historian, who will take you through the stunning Qutub complex after dark. As the entire site is beautifully illuminated at night, the minaret shines like Delhi\u2019s very own Eiffel Tower\u2014majestic, mysterious, and unforgettable.Walk through centuries of history, discover forgotten stories, and explore Delhi\u2019s medieval past through engaging storytelling. The play of light, shadow, and silence transforms this heritage site into something truly cinematicPlaces we will cover :1. Mughal Serai2. Alai Minar3. Iltutmish Tomb4. Qutub Minar5. Iron Pilar6. 27 Jain and hindu temples7. Alai Darwaza8. Alauddin Khilji grave and madarsa .Important Points:1. Details of the heritage walk will be mailed to you when you book the tickets2. No guided fees for kids below 5.3. Medium of communication : Hindi and English4. Please note that in case of unavoidable external reasons such as (weather conditions, political rallies, VIP movement, powercut) the walk may be canceled. The participant has the liberty to take another walk by the company against the payment they have made within 30 days since the date of the registered walk.5. The company does not have refund policy.",
-    "startDate": "2026-10-02T17:30:00+05:30",
-    "endDate": "2026-10-02T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52447540000000000000",
-        "longitude": "77.18552059999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "650.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Enroute Indian History",
-      "url": "https://urbanaut.app/partner/enrouteindianhistory"
-    },
-    "url": "https://urbanaut.app/spot/night-walk-in-qutub-minar-gandhi-jayanti-special",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "SUBKO x GULLY LABS: CINEMA GHAR (October)",
     "description": "Subko Coffee and Gully Labs Present Cinema GharWelcome to Cinema Ghar, a cozy monthly gathering dedicated to celebrating independent filmmakers and passionate storytellers. Join us for an intimate evening of diverse short films, engaging post-screening Q&As, and vibrant conversations with local creators. Reserve your seat below to experience fresh cinema, support emerging talent, and connect with a community that loves movies as much as you do.This Month we haveSpear -Frank receives a journal diary of Emmy, a paranormal investigator. There is a ritual that Frank follows because he thinks it\u2019s all stupid and fake stuff. But after that, everything starts going sideways.Cigars on Canvas -When a famous visitor burns a young painter\u2019s canvas with a cigarette, the unexpected result fascinates her. In chasing that same accidental perfection, she slips into addiction and self-destruction\u2014until she is forced to confront the deeply subjective nature of art.Bulbul -Two ambulance drivers spend their days hauling dead bodies across the city like they\u2019re delivering pizzas. They trade insults and dark jokes over a fresh corpse, but their casual indifference is pushed to the limit when a routine shift turns into a devastating emotional wake up call.Lokkhon Rekha - This is a dark comedy set in a cramped Kolkata apartment, where Suman, a young man who has lost his job and his will to live, keeps failing to find the privacy to end his life amid a family of five. When a seemingly ordinary Saturday lunch tips into chaos, the smallest provocations expose the intergenerational trauma running through a dysfunctional middle-class household. What unfolds is a darkly comic, deeply uncomfortable portrait of a family that chooses not to see the pain in front of its own eyes.",
@@ -109,6 +32,44 @@
     "url": "https://urbanaut.app/spot/subko-x-gully-labs-cinema-ghar-october",
     "keywords": [
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Rendezvous with the Author",
+    "description": "Rendezvous with the Author | An Afternoon of Books, Life & StoriesWhat if a Saturday morning could slow you down in the best possible way?Join RiFoM Community for an intimate rendezvous with author Shubha Menon at the beautiful Sunder Nursery. Come for a relaxed conversation about books, life, stories, and the art of expressing ourselves better.Whether you\u2019re an avid reader, an aspiring writer, someone who loves meaningful conversations, or simply looking for a lovely way to spend your Saturday this gathering is for you.We\u2019ll talk about stories that stay with us, the experiences that shape what we write, and how we find the words for things we sometimes struggle to express.What to expect\u2022 A warm, informal conversation with Shubha Menon\u2022 Conversations around books, writing & life\u2022 Ideas on expressing yourself with greater clarity\u2022 A chance to meet fellow readers, writers and curious minds\u2022 A beautiful morning at Sunder Nursery\ud83d\udcc5 Saturday, 3 October 2026\u23f0 10:30 AM \u2013 12:30 PM (approx.)\ud83d\udccd Sunder Nursery, Delhi\ud83c\udf9f\ufe0f Entry: FreeCome for the books. Stay for the conversations.RiFoM Community \u2014 Pause \u2022 Presence \u2022 Perspective",
+    "startDate": "2026-10-03T10:00:00+05:30",
+    "endDate": "2026-10-03T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Bharat Scouts and Guides Marg, opposite Humayun Tomb Park, Nizamuddin, Hazrat Nizamuddin, National Zoological Park, Sundar Nagar, New Delhi, Delhi 110013, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59564670000000000000",
+        "longitude": "77.24516910000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "RiFoM Community",
+      "url": "https://urbanaut.app/partner/rifom-community"
+    },
+    "url": "https://urbanaut.app/spot/rendezvous-with-the-author",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Walking Tour",
       "URBANAUT"
     ]
   },
@@ -171,7 +132,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "800.00",
+      "price": "350.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -185,44 +146,6 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Bejewelled headphone making workshop X gully labs",
-    "description": "Turn your boring headphones into a bedazzling statement piece \u2728 Join us for a hands-on Bejeweled Headphone Workshop where you\u2019ll transform a standard pair of headphones into a bedazzled, one-of-a-kind wearable art masterpiece.",
-    "startDate": "2026-10-03T11:00:00+05:30",
-    "endDate": "2026-10-03T16:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54778550000000000000",
-        "longitude": "77.21136729999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Creative Rituals",
-      "url": "https://urbanaut.app/partner/creative-rituals"
-    },
-    "url": "https://urbanaut.app/spot/bejewelled-headphone-making-workshop-x-gully-labs",
-    "keywords": [
-      "Workshop",
-      "History & heritage",
-      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -790,6 +713,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Tarot & Pet Intuitive Readings",
+    "description": "Tarot, Guidance & Pet Intuitive ReadingsA space for the questions you carry about yourself, your path, and the companions who share your life.Join Megha of Yin Your Yang at Greenr, GK 1, for an intuitive afternoon of Tarot & Pet Readings.Whether you\u2019re looking for clarity around a personal question or wondering what your pet may be feeling, needing or trying to communicate, Megha offers intuitive guidance to help you look at things from a different perspective.You can explore:Tarot & Guidance ReadingsGain perspective on questions around relationships, life, decisions and what may be unfolding ahead.Pet Intuitive ReadingsConnect more deeply with your pet through intuitive insights into their emotions, needs, behaviour and wellbeing.Come with a question, a curiosity, or simply an open mind. You can choose the reading that speaks to you \u2014 or experience both.\ud83d\udcc5 Sunday, 4 October 2026\ud83d\udccd Greenr, N Block, Greater Kailash 1, New Delhi\u23f0 10:00 AM \u2013 7:00 PMEntry: Free | Readings are charged separatelyWalk-ins welcomeTarot for the questions in your mind.Pet readings for the conversations beyond words.",
+    "startDate": "2026-10-04T10:00:00+05:30",
+    "endDate": "2026-10-04T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "N - 4, N, Block Market, N Block, Greater Kailash I, New Delhi, Delhi 110047, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55685060000000000000",
+        "longitude": "77.23310790000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "RiFoM Community",
+      "url": "https://urbanaut.app/partner/rifom-community"
+    },
+    "url": "https://urbanaut.app/spot/tarot-pet-readings",
+    "keywords": [
+      "Local",
+      "Wellness",
+      "Pop-up Event",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Walk at Harappan and Stone Age Gallery",
     "description": "Explore the National Museum's Harappan Gallery with Silsila Heritage. It hosts a variety of artifacts, including the Dancing Girl, the Pashupati seal, terracotta figures of the Mother Goddess, and so on.Understand what makes the Harappan script the most debated topic in popular discourse. What religion did the Harappan people follow? What led to the decline of the Harappan civilization, and was it abrupt?We will also bring you stories of the excavations done in the 1920s and how popular understanding of the Harappans has created many myths around them.Let's explore the Harappan world together!",
     "startDate": "2026-10-04T10:00:00+05:30",
@@ -819,6 +780,44 @@
     },
     "url": "https://urbanaut.app/spot/silsilaharappa",
     "keywords": [
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Delhi Sadar Bazaar har gali kuch kehti hai",
+    "description": ":-10 years of experience can help you find something new and a perfect purchasing experience.:- I promise: if you buy 5k worth of products in the market, that costs around 15k:-This walk helps you with festive decor purchases as well as future purchases: where to buy and what to buy:-This will help you to start your business from home/online/ecommrece*** If you are joining this walk, please keep it at least 3k to 5k because you can't control yourself from purchasing (and fir baad main main paise ni duga )*** thanks .. Continue.. itSadar Bazar is the largest wholesale market of household items in Delhi, India. Like other major markets of Old Delhi, this market is very crowded and buzzes with activity. Although it is primarily a wholesale market, it also caters to occasional retail buyers. Owing to the sheer volumes that are traded here every day, a visit to the market can be termed sensory overload. In addition to being a market for traders, Sadar Bazaar is a parliamentary constituency, making it a hub for politics.1 -Rui Mandi in Sadar Bazar, Delhi, is most famous as a massive wholesale and retail hub for artificial and imitation jewelry, cosmetics, and beauty productsArtificial & Bridal Jewelry: A huge variety of kundan, polki, American diamond (AD), and temple jewelry sets, necklaces, and bangles.Cosmetics & Makeup: Some of the lowest-priced makeup products and beauty essentials in the city.Accessories: Hair accessories, hair clips, handbags, and parlor supplies.Event Decor: Items for mehendi and haldi decorations2 Matke wali gali sadar bazar Crowded market with shops selling items including clothes, electronics, kitchenware and cosmetics at wholesale prices.",
+    "startDate": "2026-10-04T10:30:00+05:30",
+    "endDate": "2026-10-04T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Sadar Bazar, New Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.65851050000000000000",
+        "longitude": "77.21273049999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "350.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Pagalkhana",
+      "url": "https://urbanaut.app/partner/pagalkhana"
+    },
+    "url": "https://urbanaut.app/spot/delhi-sadar-bazaar-har-gali-kuch-kehti-hai",
+    "keywords": [
+      "Walking Tour",
       "History & heritage",
       "Guided tour",
       "URBANAUT"
@@ -1536,6 +1535,43 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
+    "name": "When Emotions Get Under Your Skin",
+    "description": "About the TableWhen Emotions Get Under Your SkinAnger, Stress, Relationships and the surprising ways our social environment may influence our biology. By Dr. Ramon LlambaWe tend to think of them as things that happen in our minds. But what if our experiences don\u2019t always stop there?Do the people around us, the stress we carry, and the experiences we live through also influence what happens inside our bodies?For Table #01, we\u2019re following that question beneath the surface.How does the body respond to prolonged stress? Can a difficult relationship become more than an emotional experience? Why do some experiences seem to stay with us long after they\u2019re over? And what can science actually tell us about the connection between the lives we live and the bodies we live them in?The Table is a conversation. You\u2019ll hear from Dr Ramon Llamba, follow your own curiosity, ask the questions you\u2019ve always wondered about, and explore the ideas together with interactive experiences.\u00a0And because good conversations are always better over food & coffee, so grab yourself a coffee or something to eat, settle in, and spend your Friday evening discovering something you probably weren\u2019t talking about last Friday.Come curious. You might leave with some answers and probably with better questions.About the SpeakerDr Ramon LlambaWhat happens when someone trained in quantum physics spends nearly three decades exploring the human mind, body and emotional experience?Dr Ramon Llamba brings an unusually multidisciplinary perspective to the table. With a PhD in Quantum Physics, she is a certified somatic psychotherapist and internationally certified breath work facilitator whose work spans emotional wellbeing, mind-body practices, meditation and personal transformation.She is the founder of Golden Age Isvara, an organisation dedicated to personal transformation and holistic wellbeing, and has spent close to three decades working with people on questions around emotions, behavioural patterns, relationships and the mind-body connection.About The Curious TableThe Curious Table is a Delhi NCR community built for people who haven\u2019t stopped being curious.We create evenings around questions you don\u2019t usually get the chance to explore bringing together people who know fascinating things and people who simply want to understand them over food and drinks.\u00a0One Table might take you inside the biology of emotions. The next could wander into psychology, science, technology, health, history, culture - or something you didn\u2019t know you were curious about yet.Come curious. Pull up a chair.",
+    "startDate": "2026-10-09T18:30:00+05:30",
+    "endDate": "2026-10-09T20:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "No 59, PVR Priya Complex, Basant Lok, Vasant Vihar, New Delhi, Delhi 110057, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55737140000000000000",
+        "longitude": "77.16439730000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1099.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Curious Table",
+      "url": "https://urbanaut.app/partner/the-curious-table"
+    },
+    "url": "https://urbanaut.app/spot/the-curious-table-when-emotions-get-under-the-skin",
+    "keywords": [
+      "Workshop",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
     "name": "KAASHI in concert for DSIF (Creating Value)",
     "description": "Get ready for an unforgettable evening of soul-stirring music with Kaashi The Band, blending heart-pounding rock with rich melodies! Every ticket you buy directly powers DSIF\u2019s grassroots mission to transform lives and uplift local communities. Join us for a night where great entertainment meets meaningful impact!",
     "startDate": "2026-10-09T20:30:00+05:30",
@@ -1606,6 +1642,44 @@
       "Adventure",
       "Premium",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "bad art, good chat",
+    "description": "For everyone who stopped making art because they decided they were \u201cbad\u201d at it.We\u2019re bringing it back. Badly.Paint something questionable. Doodle outside the lines. Make a masterpiece only a mother could love. No talent required. In fact, it might be an advantage.Once we\u2019ve sufficiently embarrassed ourselves artistically, we\u2019ll put the brushes down for a Listening Circle \u2014 a few fun prompts, a few real ones, and conversations that could go pretty much anywhere.No need to be artistic. No need to know anyone.Just come ready to make, listen, share and have a good time. \ud83d\udc9c\ud83d\udcc5 Saturday, 10 October | 12:30\u20132:30 PM\ud83d\udccd FabCafe, Lajpat Nagar\ud83c\udfa8 All art supplies included\ud83c\udf74 \u20b9100 F&B credit includedCome solo or bring a friend.We promise not to judge your art or your stories.For help, DM @ukiyocollective_",
+    "startDate": "2026-10-10T12:30:00+05:30",
+    "endDate": "2026-10-10T14:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "First Floor, Fabindia Experience Centre, 44, Ring Rd, Block H, Lajpat Nagar III, Lajpat Nagar, New Delhi, Delhi 110024, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.56558910000000000000",
+        "longitude": "77.23802880000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "424.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Ukiyo Collective",
+      "url": "https://urbanaut.app/partner/ukiyo"
+    },
+    "url": "https://urbanaut.app/spot/bad-art-good-chat",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -1912,6 +1986,43 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Carving Lines",
+    "description": "Join us at Gallery XXL for Carving Lines, a woodcutting workshop with artist Bikash Chandra Senapati, whose solo exhibition, Kya nadi ke paar sukoon hai?, is currently on display, presenting woodcuts, acrylic on canvas, pen on paper, and etchings.Trained in printmaking at Indira Kala Sangeet Vishwavidyalaya, Khairagarh, Bikash will facilitate the workshop.Participants will begin by creating or choosing an image to work with, which will then be transferred onto an A4 MDF woodblock. With guidance from Bikash, participants will learn how to carve the surface of the block, understanding how the marks and spaces they create will translate onto the final print.Once the block is ready, participants will learn how to apply ink and use the block to create a woodblock print on paper. Each participant will take home the print they create during the workshop.The session offers an opportunity to experience the process behind a woodcut \u2014 from developing an image and carving the block, to inking and making the final print.As part of the workshop, each participant is required to submit two photographs prior to the session, which they will work with during the workshop.Ticket price: \u20b91350 per participantDate: Sunday, October 11, 2026Time: 10am onwardsVenue: Gallery XXL, A-277, Defence Colony, New Delhi, Delhi-110024*All materials will be provided at the venue*Please note there is limited parking available at the gallery; we recommend using public transport",
+    "startDate": "2026-10-11T10:00:00+05:30",
+    "endDate": "2026-10-11T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "2nd Floor, A-277, Block A, Defence Colony, New Delhi, Delhi 110024, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.57405660000000000000",
+        "longitude": "77.22903090000001000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1350.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gallery XXL",
+      "url": "https://urbanaut.app/partner/galleryxxl"
+    },
+    "url": "https://urbanaut.app/spot/carvinglines",
+    "keywords": [
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Tandoor, Tawa & Dilli : A Partition Food Story",
     "description": "A Partition Food StoryWhat happens to a city's food when its people change?In this conversation at Embassy Restaurant, we explore how the 1947 Partition transformed Delhi`s culinary landscape. The arrival of refugees from Punjab and other parts of the subcontinent brought new tastes, cooking traditions, ingredients and entrepreneurial cultures that gradually became part of the city's everyday food identity.We'll look at the restaurants, eateries, dhabas and food businesses that emerged or grew during this period, and uncover the stories behind some of Delhi's most enduring culinary traditions. From tandoori cooking and Punjabi influences to the evolution and popularisation of the rich, restaurant-style Mughlai food Delhi is known for today, we'll trace how food became a way to rebuild lives, create livelihoods, and reshape a city.But this is not just a story about dishes. It is also a story of migration, memory, survival and reinvention.We`ll also explore Embassy Restaurant`s history, its place in Delhi`s changing food culture, and how it became part of the city`s culinary history.Join us for a short, delicious journey through Partition, people and the food of Delhi.",
@@ -2173,6 +2284,44 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Dusherra: A Festive Table",
+    "description": "A vegetarian Dusherra celebration inspired by festive kitchens across India. I bring together bright chaat, generous seasonal dishes and the warmth of a home gathering, with each course carrying a different regional memory.The menuFour vegetarian courses with two paired pours. Tell me what you need in your enquiry.First courseRajgira papdi chaat, sweet potato, pomegranate and tamarindPaired pourMarigold HighballSaffron gin, marigold cordial, citrus and tonicSecond courseKashmiri morel yakhni, lotus stem crisp, walnutThird courseSmoked paneer, Awadhi gravy, sheermal and festive greensPaired pourVictory SourBourbon, jaggery, lemon and cardamomFourth courseMishti doi br\u00fbl\u00e9e, nolen gur and pistachioA private home in Noida. The exact address is shared on acceptance.",
+    "startDate": "2026-10-17T19:30:00+05:30",
+    "endDate": "2026-10-17T21:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Noida, Uttar Pradesh, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53551610000000000000",
+        "longitude": "77.39102650000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3700.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Wandering Table",
+      "url": "https://urbanaut.app/partner/the-wandering-table"
+    },
+    "url": "https://urbanaut.app/spot/dusherra-a-festive-table",
+    "keywords": [
+      "Leisure",
+      "Festival",
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -2775,6 +2924,44 @@
     "url": "https://urbanaut.app/spot/mehfil-e-yashraj",
     "keywords": [
       "Live GIG",
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "A Visit to Mexico",
+    "description": "This table travels to Mexico: charred bhutta, bright salsas, slow cooked beans and a squeeze of lime over everything. Four courses, two margaritas and an evening that moves at the pace of good conversation, made in my Noida home for six strangers who may leave as friends.The menuFour vegetarian courses with two paired pours. Tell me what you need in your enquiry.First courseBhutta elote cups: charred sweet corn, lime and hung curd crema, crumbled paneer, red chilli, chaat masala and corianderPaired pourClassic Lime MargaritaTequila, fresh nimbu, orange liqueur, honey syrup, salted rimSecond courseCrisp makki tostadas, smoky rajma, avocado, pickled pyaaz and roasted tomato salsaThird courseMushroom and roasted capsicum enchiladas in smoky Kashmiri chilli sauce with Mexican rice and refried rajma (veg), or chicken tinga tacos on soft makki tortillas with lime and cabbage slaw (non-veg)Paired pourSpicy Guava MargaritaTequila, fresh guava, lime and a little green chilli, chilli salt rimFourth courseChurros with a warm cinnamon hot chocolate dipA private home in Noida. The exact address is shared on acceptance.",
+    "startDate": "2026-11-21T19:30:00+05:30",
+    "endDate": "2026-11-21T21:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Noida, Uttar Pradesh, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53551610000000000000",
+        "longitude": "77.39102650000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "4000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Wandering Table",
+      "url": "https://urbanaut.app/partner/the-wandering-table"
+    },
+    "url": "https://urbanaut.app/spot/a-visit-to-mexico",
+    "keywords": [
+      "Leisure",
       "Music",
       "Food & drink",
       "URBANAUT"
