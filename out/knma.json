@@ -85,7 +85,7 @@
     "url": "https://www.knma.org/whats-on/exhibitions/inheritors-of-earth",
     "startDate": "2026-09-09T10:00:00+05:30",
     "endDate": "2026-12-22T18:00:00+05:30",
-    "description": "Installation",
+    "description": "Experiential",
     "location": {
       "@type": "Place",
       "name": "KNMA, New Delhi",
@@ -129,26 +129,6 @@
     "location": {
       "@type": "Place",
       "name": "The Museum of Modern Art",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "EducationEvent",
-    "name": "If Trees Could Write",
-    "url": "https://www.knma.org/whats-on/workshops/if-trees-could-write",
-    "startDate": "2026-10-03T10:00:00+05:30",
-    "endDate": "2026-10-03T10:00:00+05:30",
-    "description": "Saturday Family Workshop",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA, New Delhi",
       "address": "New Delhi"
     },
     "organizer": {
@@ -229,6 +209,46 @@
     "location": {
       "@type": "Place",
       "name": "Sunder Nursery, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Networks of Exchange",
+    "url": "https://www.knma.org/whats-on/talks/networks-of-exchange-by-line-european-and-nawabi-patrons-and-collectors-in-18th-century-lucknow",
+    "startDate": "2026-10-17T10:00:00+05:30",
+    "endDate": "2026-10-17T10:00:00+05:30",
+    "description": "Standalone",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Weaving Geometry",
+    "url": "https://www.knma.org/whats-on/workshops/weaving-geometry",
+    "startDate": "2026-10-17T10:00:00+05:30",
+    "endDate": "2026-10-17T10:00:00+05:30",
+    "description": "Saturday Family Workshop",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
       "address": "New Delhi"
     },
     "organizer": {

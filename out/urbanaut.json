@@ -1,42 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "SUBKO x GULLY LABS: CINEMA GHAR (October)",
-    "description": "Subko Coffee and Gully Labs Present Cinema GharWelcome to Cinema Ghar, a cozy monthly gathering dedicated to celebrating independent filmmakers and passionate storytellers. Join us for an intimate evening of diverse short films, engaging post-screening Q&As, and vibrant conversations with local creators. Reserve your seat below to experience fresh cinema, support emerging talent, and connect with a community that loves movies as much as you do.This Month we haveSpear -Frank receives a journal diary of Emmy, a paranormal investigator. There is a ritual that Frank follows because he thinks it\u2019s all stupid and fake stuff. But after that, everything starts going sideways.Cigars on Canvas -When a famous visitor burns a young painter\u2019s canvas with a cigarette, the unexpected result fascinates her. In chasing that same accidental perfection, she slips into addiction and self-destruction\u2014until she is forced to confront the deeply subjective nature of art.Bulbul -Two ambulance drivers spend their days hauling dead bodies across the city like they\u2019re delivering pizzas. They trade insults and dark jokes over a fresh corpse, but their casual indifference is pushed to the limit when a routine shift turns into a devastating emotional wake up call.Lokkhon Rekha - This is a dark comedy set in a cramped Kolkata apartment, where Suman, a young man who has lost his job and his will to live, keeps failing to find the privacy to end his life amid a family of five. When a seemingly ordinary Saturday lunch tips into chaos, the smallest provocations expose the intergenerational trauma running through a dysfunctional middle-class household. What unfolds is a darkly comic, deeply uncomfortable portrait of a family that chooses not to see the pain in front of its own eyes.",
-    "startDate": "2026-10-02T19:30:00+05:30",
-    "endDate": "2026-10-02T21:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54778550000000000000",
-        "longitude": "77.21136729999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "800.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Gully Labs",
-      "url": "https://urbanaut.app/partner/baithak"
-    },
-    "url": "https://urbanaut.app/spot/subko-x-gully-labs-cinema-ghar-october",
-    "keywords": [
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Rendezvous with the Author",
     "description": "Rendezvous with the Author | An Afternoon of Books, Life & StoriesWhat if a Saturday morning could slow you down in the best possible way?Join RiFoM Community for an intimate rendezvous with author Shubha Menon at the beautiful Sunder Nursery. Come for a relaxed conversation about books, life, stories, and the art of expressing ourselves better.Whether you\u2019re an avid reader, an aspiring writer, someone who loves meaningful conversations, or simply looking for a lovely way to spend your Saturday this gathering is for you.We\u2019ll talk about stories that stay with us, the experiences that shape what we write, and how we find the words for things we sometimes struggle to express.What to expect\u2022 A warm, informal conversation with Shubha Menon\u2022 Conversations around books, writing & life\u2022 Ideas on expressing yourself with greater clarity\u2022 A chance to meet fellow readers, writers and curious minds\u2022 A beautiful morning at Sunder Nursery\ud83d\udcc5 Saturday, 3 October 2026\u23f0 10:30 AM \u2013 12:30 PM (approx.)\ud83d\udccd Sunder Nursery, Delhi\ud83c\udf9f\ufe0f Entry: FreeCome for the books. Stay for the conversations.RiFoM Community \u2014 Pause \u2022 Presence \u2022 Perspective",
@@ -2211,6 +2175,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "No Signal",
+    "description": "No Signal is a six-piece alternative and pop-rock band creating emotionally charged music through layered instrumentation, powerful vocals, and immersive live arrangements. Featuring Yahba Jar, Sam, Shilpa, Vedant, and Satyam, all members bring extensive live-performance experience to the band, delivering shows that command attention and draw audiences deeply into the music.",
+    "startDate": "2026-10-16T21:00:00+05:30",
+    "endDate": "2026-10-16T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "300.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/no-signal",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Duga Duga: Pandal Visit at CR Park",
     "description": "Shakti Walk - Durga Puja at C.R. ParkThis Pujo, walk with us into the heart of Chittaranjan Park, Delhi's very own mini-Kolkata, where devotion, tradition, and festivity come together.As the pandal comes alive with the evening arati, the fragrance of incense, and the rhythmic beats of the dhak, immerse yourself in the festive spirit of Shashthi. Experience the energy of the celebrations as the community comes together to welcome Goddess Durga.Witness the glow of the Evening Arati, followed by the graceful and spirited Dhunuchi dance, one of the most captivating traditions of Durga Puja. From there, explore the vibrant atmosphere of C.R. Park, with its cultural performances, food stalls, festive decorations, and the warmth of a community celebrating together.Come dressed in the festive spirit - saris, dhotis, or kurta-pyjamas- and join us as we experience the stories, sights, sounds, and traditions of Pujo in the heart of Delhi.",
@@ -2321,6 +2323,44 @@
     "keywords": [
       "Leisure",
       "Festival",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Cold Turkey",
+    "description": "Cold Turkey is a Delhi-based rock band performing original music influenced by rock, blues, and classic rock traditions. The band\u2019s live sets combine original compositions with selected covers, with an emphasis on dynamics, groove, and live energy. For Depot48, Cold Turkey aims to bring this evolving live set to a space known for supporting independent artists and original music, with the performance centred around the band\u2019s own compositions.",
+    "startDate": "2026-10-17T20:00:00+05:30",
+    "endDate": "2026-10-17T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "300.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/cold-turkey",
+    "keywords": [
+      "Live GIG",
+      "Music",
       "Food & drink",
       "URBANAUT"
     ]
@@ -2474,6 +2514,44 @@
       "History & heritage",
       "Guided tour",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Quarternote",
+    "description": "Divyath is a keyboardist and pianist, who mostly performs blues, jazz, funk, and rock. Known for his lead oriented style, he brings a very unique atmosphere mixing synth solo breaks with covers and unreleased originals. Look forward to upbeat, Solo heavy and head-bop enducing performances",
+    "startDate": "2026-10-21T21:00:00+05:30",
+    "endDate": "2026-10-21T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "299.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/quarternote",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -2812,6 +2890,42 @@
     },
     "url": "https://urbanaut.app/spot/halloween-game-party-potluck-lunch",
     "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Ideas can be built - an entrepreneurship workshop",
+    "description": "IDEAS CAN BE BUILT ia a workshop on entrepreneurship for Students.What if your next big idea could become a real business?Every great startup begins with an idea. But how do you know if your idea is worth pursuing? How do you turn a problem into an opportunity? And what does it actually take to build a business?Ideas Can Be Built is an interactive, hands-on entrepreneurship workshop designed for curious, ambitious students in Classes 9, 10 and 11 who want to explore the world of startups and business.Whether you already have a startup idea, have a problem you want to solve, or are simply curious about entrepreneurship, this workshop will help you start thinking like a founder.What Will You Learn?Think Like an Entrepreneur: Learn to identify real-world problems and turn them into business opportunities.Find Your Big Idea: Discover how to brainstorm, develop and refine a startup idea.Validate Your Idea: Understand how to determine whether people actually need what you want to build.Build a Business: Explore the fundamentals of business models, customers, pricing and taking an idea to market.Think Like an Investor: Understand what investors look for in startups and what makes a business worth investing in.Expect real startup stories, practical exercises, open discussions and an opportunity to ask all your questions about entrepreneurship.Meet Your Mentor: Yamika MehraWith 18+ years of experience as an operator, two-time founder and venture capital investor, Yamika brings a unique perspective on what it takes to build, grow and invest in businesses.Having experienced the startup ecosystem from both sides of the table\u2014as a founder building businesses and as an investor backing them\u2014she brings real-world insights that go beyond textbooks and traditional classroom learning.Through this workshop, Yamika aims to introduce young minds to entrepreneurship early and help them develop the confidence to explore their own ideas.Who Should Attend?Students in Classes 9, 10, 11 and 12 who are curious about startups, have a business idea they want to develop, enjoy solving problems or simply want to discover what entrepreneurship is all about.You don\u2019t need a business idea or any prior experience. Just bring your curiosity, creativity and willingness to think differently.Event DetailsDate: 31st October 2026Time: 11:00 AM \u2013 1:00 PMVenue: The Third Place, M Block, GK II, New DelhiDuration: 2 hoursSeats: Limited to 10 studentsWhy Only 10 Students?This isn\u2019t a lecture. It\u2019s an intimate, interactive workshop designed to give every student the opportunity to participate, share ideas, ask questions and receive individual attention.Come with curiosity. Leave thinking like a founder.Registrations are open. Reserve your seat today!For enquiries: +91 8697723933",
+    "startDate": "2026-10-31T11:00:00+05:30",
+    "endDate": "2026-10-31T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "2nd Floor M, Part-Il Market, 63, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53342780000000000000",
+        "longitude": "77.24401089999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Askyamika",
+      "url": "https://urbanaut.app/partner/askyamika"
+    },
+    "url": "https://urbanaut.app/spot/entrepreneurship-workshop-for-students",
+    "keywords": [
+      "Workshop",
       "URBANAUT"
     ]
   },

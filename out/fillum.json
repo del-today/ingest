@@ -1,23 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "SUBKO x GULLY LABS presents: CINEMAGHAR",
-    "url": "https://fillum.in/event/6249",
-    "startDate": "2026-10-02T19:30:00+05:30",
-    "endDate": "2026-10-02T19:30:00+05:30",
-    "description": "Welcome to Cinema Ghar, a cozy monthly gathering dedicated to celebrating independent filmmakers and passionate storytellers. Join us for an intimate evening of diverse short films, engaging post-sc..more",
-    "location": {
-      "@type": "Place",
-      "name": "Gully Labs Baithak, Panchsheel Park",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Gully Labs"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "The Virgin Spring(1960)",
     "url": "https://fillum.in/screening/6253",
     "startDate": "2026-10-03T12:10:00+05:30",
@@ -133,6 +116,40 @@
     "organizer": {
       "@type": "Organization",
       "name": "SomeArt"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Funny Games(1997)",
+    "url": "https://fillum.in/screening/6252",
+    "startDate": "2026-10-04T17:30:00+05:30",
+    "endDate": "2026-10-04T17:30:00+05:30",
+    "description": "Michael Haneke\u2019s most notorious provocation, Funny Games spares no detail in its depiction of the agony of a bourgeois family held captive at their vacation home by a pair of white-gloved young me..more",
+    "location": {
+      "@type": "Place",
+      "name": "Mool, South Ex II",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "To Die a Frenchman(2026)",
+    "url": "https://fillum.in/screening/6196",
+    "startDate": "2026-10-04T19:00:00+05:30",
+    "endDate": "2026-10-04T19:00:00+05:30",
+    "description": "Update: Cancelled",
+    "location": {
+      "@type": "Place",
+      "name": "India Habitat Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kriti Film Club"
     }
   }
 ]
