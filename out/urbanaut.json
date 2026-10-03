@@ -37,120 +37,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Paw-traits on Canvas: Acrylic Pet Portrait",
-    "description": "Paint your favorite dog, cat, or bird on a real canvas! Bring a clear photo of your pet on your phone, and we will show you how to sketch their face shape easily. You will learn simple brush tricks to paint soft, realistic fur, blend colorful background shades, and capture the sparkle in their eyes. No portrait experience needed; you will take home a finished piece ready to hang on your wall.",
-    "startDate": "2026-10-03T16:00:00+05:30",
-    "endDate": "2026-10-03T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "N.S-5, Munirka Marg, next to MTNL Office, Indian Air Lines & Air India Estate, Vasant Vihar, New Delhi, Delhi 110057, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55951440000000000000",
-        "longitude": "77.15727950000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "944.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Oasis Art Studio",
-      "url": "https://urbanaut.app/partner/oasis-art-studio"
-    },
-    "url": "https://urbanaut.app/spot/paw-traits-on-canvas-acrylic-pet-portrait",
-    "keywords": [
-      "Wellness",
-      "Workshop",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Rise and Fall of Awadh:  Safdarjung Tomb",
-    "description": "Safdarjung's Tomb, a striking sandstone and marble mausoleum in Delhi, was built in 1754 for Nawab Safdarjung, the influential prime minister of the Mughal Empire. As Mughal power waned, Awadh, with its capital at Faizabad, flourished under its Nawabs. Saadat Khan, the first Nawab, established Faizabad, which saw significant development under Safdarjung and his successor. The Nawabs of Awadh, a Persian Shia Muslim dynasty, cultivated a rich cultural heritage and invited scholars, poets, and artists from across the empire. However, the region's prosperity faded after the capital moved to Lucknow and as British influence grew. This heritage walk at Safdarjung's Tomb delves into the story of the rise and fall of Awadh.",
-    "startDate": "2026-10-03T17:00:00+05:30",
-    "endDate": "2026-10-03T18:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Airforce Golf Course, Delhi Race Club, New Delhi, Delhi 110003, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.58941560000000000000",
-        "longitude": "77.21062190000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "295.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sikkawala",
-      "url": "https://urbanaut.app/partner/sikkawala"
-    },
-    "url": "https://urbanaut.app/spot/the-rise-and-fall-of-awadh-a-heritage-walk-at-saf",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Smash Like a Girl (Tennis | Delhi)",
-    "description": "Smash Like A Girl is  a women-only, beginner-friendly, guided tennis session by Sweat Like A Girl.You can expect warm-up, skill drills with a trained coach to learn the sport and some friendly-rallies to end the session.It is the perfect weekend plan, if you are looking to learn a new sport, find like-minded women to play with and do something active without entering the gym! You can make this a catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
-    "startDate": "2026-10-03T17:00:00+05:30",
-    "endDate": "2026-10-03T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "J6HH+MMC, Barakhamba Rd, Todermal Road Area, Mandi House, New Delhi, Delhi 110001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.62917610000000000000",
-        "longitude": "77.22913750000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "495.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swagat",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Pocket IV (supported by Arlo & Maya)",
     "description": "Pocket IV makes a full circle as they return to Depot 48 since making their debut here in Pride Month. Being a queer inclusive band, there is no venue that brings us more joy to perform at than Depot 48, as we strive to bridge the gap between the new and the old and across varied identities, answering one simple question- what if Bollywood retro classics were made by Gen-Zs and Millenials? What if we came together for one night to celebrate love.Arlo and Maya are a duo putting forth on stage their love of retro music- and beyond. With a blend of finger-style guitar and vocals, they bring a unique dynamic to stage, asking everyone to join in to sing along to hits from all ages.",
@@ -258,44 +144,6 @@
       "Wellness",
       "Active",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "THE QUTUB CODE: Decode stories hidden in stone",
-    "description": "What if the Qutub Minar could tell you the story of Delhi?Step into the Qutub Complex and explore the layers of history, architecture, power and cultural exchange that shaped medieval Delhi. From the soaring Qutub Minar and the intricate Alai Darwaza to the ancient Iron Pillar and the ruins of the Quwwatu\u2019l-Islam Mosque, every stone reveals a different chapter.This is not just a walk around a monument. It is a journey through the making of Delhi- its rulers, ambitions, architectural experiments, conflicts, craftsmanship and forgotten stories.Come for the Qutub Minar. Stay for the stories hidden around it.",
-    "startDate": "2026-10-04T08:00:00+05:30",
-    "endDate": "2026-10-04T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "G5GQ+443, Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52526250000000000000",
-        "longitude": "77.18779690000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "350.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Riwayat Walks",
-      "url": "https://urbanaut.app/partner/riwayatwalks"
-    },
-    "url": "https://urbanaut.app/spot/the-qutub-code-decode-stories-hidden-in-stone",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
       "URBANAUT"
     ]
   },
@@ -860,6 +708,44 @@
       "Adventure",
       "Wellness",
       "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "THE QUTUB CODE: Decode stories hidden in stone",
+    "description": "What if the Qutub Minar could tell you the story of Delhi?Step into the Qutub Complex and explore the layers of history, architecture, power and cultural exchange that shaped medieval Delhi. From the soaring Qutub Minar and the intricate Alai Darwaza to the ancient Iron Pillar and the ruins of the Quwwatu\u2019l-Islam Mosque, every stone reveals a different chapter.This is not just a walk around a monument. It is a journey through the making of Delhi- its rulers, ambitions, architectural experiments, conflicts, craftsmanship and forgotten stories.Come for the Qutub Minar. Stay for the stories hidden around it.",
+    "startDate": "2026-10-04T17:30:00+05:30",
+    "endDate": "2026-10-04T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "G5GQ+443, Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52526250000000000000",
+        "longitude": "77.18779690000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "350.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Riwayat Walks",
+      "url": "https://urbanaut.app/partner/riwayatwalks"
+    },
+    "url": "https://urbanaut.app/spot/the-qutub-code-decode-stories-hidden-in-stone",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
       "URBANAUT"
     ]
   },
@@ -2302,7 +2188,7 @@
     "@type": "FoodEvent",
     "name": "Quarternote",
     "description": "Divyath is a keyboardist and pianist, who mostly performs blues, jazz, funk, and rock. Known for his lead oriented style, he brings a very unique atmosphere mixing synth solo breaks with covers and unreleased originals. Look forward to upbeat, Solo heavy and head-bop enducing performances",
-    "startDate": "2026-10-21T21:00:00+05:30",
+    "startDate": "2026-10-21T20:00:00+05:30",
     "endDate": "2026-10-21T23:30:00+05:30",
     "location": {
       "@type": "Place",
@@ -2709,6 +2595,44 @@
     "url": "https://urbanaut.app/spot/entrepreneurship-workshop-for-students",
     "keywords": [
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Halloween party",
+    "description": "Prepare for an afternoon of thrills, chills, and wicked fun. The coven is gathering, the blood-red drinks are flowing, and you're invited to the spookiest Halloween bash in townGrab your brooms, sharpen your fangs, and reserve your spot before it's too late!",
+    "startDate": "2026-10-31T12:00:00+05:30",
+    "endDate": "2026-10-31T16:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "F, 21A, F Block Vijay Nagar, opposite NDPL Office, Block F, GTB Nagar, Delhi, 110033, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.69398980000000000000",
+        "longitude": "77.20426100000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Creative Rituals",
+      "url": "https://urbanaut.app/partner/creative-rituals"
+    },
+    "url": "https://urbanaut.app/spot/halloweenparty",
+    "keywords": [
+      "Adventure",
+      "Festival",
+      "Food & drink",
       "URBANAUT"
     ]
   },
