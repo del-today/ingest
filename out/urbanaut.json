@@ -37,44 +37,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Pocket IV (supported by Arlo & Maya)",
-    "description": "Pocket IV makes a full circle as they return to Depot 48 since making their debut here in Pride Month. Being a queer inclusive band, there is no venue that brings us more joy to perform at than Depot 48, as we strive to bridge the gap between the new and the old and across varied identities, answering one simple question- what if Bollywood retro classics were made by Gen-Zs and Millenials? What if we came together for one night to celebrate love.Arlo and Maya are a duo putting forth on stage their love of retro music- and beyond. With a blend of finger-style guitar and vocals, they bring a unique dynamic to stage, asking everyone to join in to sing along to hits from all ages.",
-    "startDate": "2026-10-03T21:00:00+05:30",
-    "endDate": "2026-10-03T23:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53415570000000000000",
-        "longitude": "77.24300939999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Depot48",
-      "url": "https://urbanaut.app/partner/depot48"
-    },
-    "url": "https://urbanaut.app/spot/pocket-iv-supported-by-arlo-maya",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "VDHM Training Run - Week 3 / Run 3",
     "description": "This is a SWAG's women-only training run for those running the VDMH. We will be running in 2 batches of 3.5 KM and 7.5 KM. You can choose which distance you wish to run.Here's the plan:Warm-up at Lizzu Cafe.3.5 KM & 7.5KM Community Run in Lodhi Garden\u00a0(7.5 KM Run starts at 6:30 AM, 3.5 KM Run starts at 7 AM)Meet at Lizzu Cafe, Lodhi Colony Market for some coffee, refuelling, and community social!Srishti & Kashika and I will be leading the run. Please be on time, and sign up only if you\u2019re ready to show up consistently and take your training seriously. :)The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
@@ -1276,6 +1238,42 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "#lecture: The Magic of Boredom",
+    "description": "How do you get the ideas behind your short stories? Someone had asked the Russian writer Anton Chekhov. Reportedly, Chekhov had responded: \u201cPut your cigarette on this ash-tray and I\u2019ll write a story about it.\u201dThis response presents the perfect picture of modern literature that came into existence with the popularisation of print culture and the making of novels and short stories.Classical epics, oral tales, and myths and legends of the past took a great, telescopic view of grand subjects, particularly those of war and romance, in a world full of magic and fantasy populated by gods and kings.This lecture will show how modern literature, shaped by the rhythm of the factory, dominated by clock-time and full of industrial workers and a middle class, turned to everyday themes that resonated with ordinary people, and focused a microscopic lens on the small magic of the cigarette on the ash-tray.About the Speaker\u00a0Saikat Majumdar is a novelist, critic and educator. He taught literature at Stanford University for nine years, has been a fellow at Wellesley College, the institutes of Advanced Study in JNU, Stellenbosch, Budapest, and Brasov, and is currently Professor of English & Creative Writing at Ashoka University.He is the author of five novels, most recently, The Remains of the Body, published as Penguin Random House\u2019s 2024 Pride Month Selection. His other novels include The Scent of God (2019), a story of love between two teenage boys in a Hindu monastic boarding school, The Firebird (2015), which narrates a young boy\u2019s destructive obsession with his mother\u2019s life as an actress, and The Middle Finger (2022), a queer, contemporary college-campus retelling of the Ekalavya story.He has also published four books of nonfiction and criticism, including Open Intelligence: Education between Art and Artificial (2026), which outlines possibilities for education in the age of Artificial Intelligence with particular attention to the changing definitions of talent, merit, and career, The Amateur, a book about people who learned to read and write without proper educational support, and College: Pathways of Possibility (2018), a popular book on interdisciplinary liberal arts education in India.\u00a0",
+    "startDate": "2026-10-10T15:00:00+05:30",
+    "endDate": "2026-10-10T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "32nd avenue, Sector 15 Part 2, Sector 15, Gurugram, Haryana 122001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46145160000000000000",
+        "longitude": "77.04983410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "899.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Pint of View Delhi NCR",
+      "url": "https://urbanaut.app/partner/pint-of-view-delhi-ncr"
+    },
+    "url": "https://urbanaut.app/spot/lecture-the-magic-of-boredom",
+    "keywords": [
+      "Live GIG",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Designing Your Life, The Stanford Way",
     "description": "About the LectureWhat if the life you're living right now is one you drifted into by default, not one you chose?We are born into stories, about success, work, money, relationships, identity and what a good life should look like. Somewhere along the way, those stories start to feel like our own, and a life shaped by default begins to feel like one shaped by choice.Stanford's Designing Your Life offers another way to look at it: life as something you can actively design. That doesn't mean finding one \"true\" self or one perfect path. It means moving towards self-authorship: questioning the narratives you inherited, imagining different futures, and accepting that there may be more than one life within you worth living.Design turns out to be an unusually useful lens for this, because it doesn't require you to know the answer before you begin. It lets you work with ambiguity, hold several possibilities at once, and experiment rather than predict. In a world where lives are increasingly nonlinear, that may be more useful than having a perfect plan.The session explores:How inherited social narratives quietly become the stories we live byWhy there may be more than one life within us worth livingHow designers work with ambiguity, and why that matters for life decisionsMoving from a life by default to a life by design: question, imagine, prototypeAbout the SpeakerNavyug Mohnot is a Stanford-certified Designing Your Life educator, coach and facilitator, a visiting faculty member at ISB and Ashoka University, and the founder and CEO of QAI Global. He is a certified leadership coach from Harvard University, has spoken at conferences around the world, and is a TEDx speaker (\"Manifesting Desires, Embracing Contradictions\"). He has coached professionals across the globe, served on company boards, and mentored startups as an angel investor. Navyug did his B.Tech at IIT Delhi and received the \"Outstanding Contribution to National Development\" award from the IIT Delhi Alumni Association. Outside work, he meditates, runs a film club, loves art, film and architecture, and hopes to direct a full-length film someday.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
@@ -1458,6 +1456,41 @@
       "Adventure",
       "Walking Tour",
       "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Bollywood Trivia night by Afterdark MIXTable",
+    "description": "Bollywood lovers, your Saturday just got a LOT more interesting. \ud83c\udfac\u2728Because this one is for the people who know the movie from one dialogue, recognise a song in 3 seconds and somehow remember who said what in which scene.AFTER DARK MIXTABLE presents...BOLLYWOOD TRIVIA NIGHTA night of movies, music, iconic characters, unforgettable dialogues, unexpected twists and some serious Bollywood bragging rights.Come with your gang or come solo. We will team you up at the event, so you don't need to worry about finding a team.And yes, there is something to take home.\ud83c\udfc5 Medals for the winning team and a Gift\ud83c\udf81 A special prize for our early birdsNo food cover. Just bring your Bollywood brain.Think you know Bollywood?Let's see. \ud83d\udc40Tickets are LIVE. Grab yours before the seats disappear.",
+    "startDate": "2026-10-10T18:30:00+05:30",
+    "endDate": "2026-10-10T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "3rd Floor, South Point Mall, Unit No. 312-A, DLF Phase 5, Sector 53, Gurugram, Haryana 122011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.44756350000000000000",
+        "longitude": "77.09948450000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "699.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The MIXTable",
+      "url": "https://urbanaut.app/partner/the-mixtable"
+    },
+    "url": "https://urbanaut.app/spot/bollywood-trivia-night-by-afterdark-mixtable",
+    "keywords": [
       "URBANAUT"
     ]
   },
