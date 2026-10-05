@@ -526,6 +526,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Tracing Mughal Grandeur beyond Humayun's Tomb",
+    "description": "Delhi, often associated with iconic Mughal monuments like the Red Fort and Humayun's Tomb, also nestles many lesser-known sites that offer a quieter, more intimate glimpse into the Mughal grandeur. One such place is the Khan-i-Khana Tomb, located next to Humayun's Tomb in the bustling Nizamuddin area.The tomb stands as a silent yet eloquent reminder of the syncretic era when art, architecture, and culture flourished. It isn\u2019t just a monument ; it is a testament to reflects the importance of people other than the rulers who played a key role in shaping the Mughal Empire.Join us this Saturday to get a glimpse into the life and lore of Khan - i- Khanan and the many shades of the capital.",
+    "startDate": "2026-10-10T15:00:00+05:30",
+    "endDate": "2026-10-10T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Nizamuddin, Jaipur Estata, Nizamuddin East, New Delhi, Delhi 110013, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.58806270000000000000",
+        "longitude": "77.24801400000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "700.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Samvad",
+      "url": null
+    },
+    "url": "https://urbanaut.app/spot/tracing-mughal-grandeur-beyond-humayuns-tomb",
+    "keywords": [
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "#lecture: The Magic of Boredom",
     "description": "How do you get the ideas behind your short stories? Someone had asked the Russian writer Anton Chekhov. Reportedly, Chekhov had responded: \u201cPut your cigarette on this ash-tray and I\u2019ll write a story about it.\u201dThis response presents the perfect picture of modern literature that came into existence with the popularisation of print culture and the making of novels and short stories.Classical epics, oral tales, and myths and legends of the past took a great, telescopic view of grand subjects, particularly those of war and romance, in a world full of magic and fantasy populated by gods and kings.This lecture will show how modern literature, shaped by the rhythm of the factory, dominated by clock-time and full of industrial workers and a middle class, turned to everyday themes that resonated with ordinary people, and focused a microscopic lens on the small magic of the cigarette on the ash-tray.About the Speaker\u00a0Saikat Majumdar is a novelist, critic and educator. He taught literature at Stanford University for nine years, has been a fellow at Wellesley College, the institutes of Advanced Study in JNU, Stellenbosch, Budapest, and Brasov, and is currently Professor of English & Creative Writing at Ashoka University.He is the author of five novels, most recently, The Remains of the Body, published as Penguin Random House\u2019s 2024 Pride Month Selection. His other novels include The Scent of God (2019), a story of love between two teenage boys in a Hindu monastic boarding school, The Firebird (2015), which narrates a young boy\u2019s destructive obsession with his mother\u2019s life as an actress, and The Middle Finger (2022), a queer, contemporary college-campus retelling of the Ekalavya story.He has also published four books of nonfiction and criticism, including Open Intelligence: Education between Art and Artificial (2026), which outlines possibilities for education in the age of Artificial Intelligence with particular attention to the changing definitions of talent, merit, and career, The Amateur, a book about people who learned to read and write without proper educational support, and College: Pathways of Possibility (2018), a popular book on interdisciplinary liberal arts education in India.\u00a0",
     "startDate": "2026-10-10T15:00:00+05:30",
@@ -1697,7 +1735,7 @@
     "name": "Public Tuition",
     "description": "What is Public Tuition?We\u2019re getting the unLecture community together for a slow, cosy morning in the sun this October.The idea is pretty simple: everyone brings one thing they know how to do and teaches it to whoever wants to learn. Maybe you crochet, solve Sudoku ridiculously fast, know a few good yoga poses, write poetry, dance, sing, fold very complicated things out of paper \u2014 whatever. It doesn\u2019t have to be a \"serious\" skill, and you definitely don\u2019t have to be an \"expert\", just some passion and interest goes a long way.Come teach us something. Come learn something. Or just come hang out and meet some new, really cool people.We\u2019ll have a picnic-y setup, a potluck (bring something to eat and share), lots of sitting around and chatting, and a bunch of little lessons happening throughout the morning.The location is going to be an open public space in Delhi, and we\u2019ll share the exact spot with everyone who registers.A few things to know:- Bring one skill you\u2019d like to share, big or small- Come ready to pick up a completely random new skill from someone else- Bring something for the potluck if you can- Wear something comfortable and come prepared to sit on the grass ( Bonus if you can bring some extra mats for the group )- No expertise required. Seriously.Entry is open to everyone. Just bring yourself, something to share, and a little curiosity.",
     "startDate": "2026-10-24T09:00:00+05:30",
-    "endDate": "2026-10-24T11:00:00+05:30",
+    "endDate": "2026-10-24T18:00:00+05:30",
     "location": {
       "@type": "Place",
       "address": "Lodhi Rd, Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003, India",
