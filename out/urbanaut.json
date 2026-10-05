@@ -394,7 +394,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "450.00",
+      "price": "650.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -1030,7 +1030,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "500.00",
+      "price": "700.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -1688,6 +1688,41 @@
       "Live GIG",
       "Music",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Public Tuition",
+    "description": "What is Public Tuition?We\u2019re getting the unLecture community together for a slow, cosy morning in the sun this October.The idea is pretty simple: everyone brings one thing they know how to do and teaches it to whoever wants to learn. Maybe you crochet, solve Sudoku ridiculously fast, know a few good yoga poses, write poetry, dance, sing, fold very complicated things out of paper \u2014 whatever. It doesn\u2019t have to be a \"serious\" skill, and you definitely don\u2019t have to be an \"expert\", just some passion and interest goes a long way.Come teach us something. Come learn something. Or just come hang out and meet some new, really cool people.We\u2019ll have a picnic-y setup, a potluck (bring something to eat and share), lots of sitting around and chatting, and a bunch of little lessons happening throughout the morning.The location is going to be an open public space in Delhi, and we\u2019ll share the exact spot with everyone who registers.A few things to know:- Bring one skill you\u2019d like to share, big or small- Come ready to pick up a completely random new skill from someone else- Bring something for the potluck if you can- Wear something comfortable and come prepared to sit on the grass ( Bonus if you can bring some extra mats for the group )- No expertise required. Seriously.Entry is open to everyone. Just bring yourself, something to share, and a little curiosity.",
+    "startDate": "2026-10-24T09:00:00+05:30",
+    "endDate": "2026-10-24T11:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Lodhi Rd, Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59309590000000000000",
+        "longitude": "77.21967939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/public-tuition",
+    "keywords": [
       "URBANAUT"
     ]
   },
