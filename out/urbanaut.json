@@ -223,6 +223,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Baddy with Baddies | Mehrauli",
+    "description": "SWAG Baddy with Baddies is a women-only, badminton meet-up.It is the perfect mid-week reset, with some badminton rallies, quick sets of both doubles and singles followed by a coffee and chit chat at the Reppp Cafe! It can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.Note: Only non-marking sports shoes are allowed on court. Don't have non-marking shoes? No worries - you can rent a pair at the venue of play bare foot.",
+    "startDate": "2026-10-08T20:00:00+05:30",
+    "endDate": "2026-10-08T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "near Qutab Minar Metro Station, Aam Bagh, Ladha Sarai Village, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.51514850000000000000",
+        "longitude": "77.18640390000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "299.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag10",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "When Emotions Get Under Your Skin",
     "description": "About the TableWhen Emotions Get Under Your SkinAnger, Stress, Relationships and the surprising ways our social environment may influence our biology. By Dr. Ramon LlambaWe tend to think of them as things that happen in our minds. But what if our experiences don\u2019t always stop there?Do the people around us, the stress we carry, and the experiences we live through also influence what happens inside our bodies?For Table #01, we\u2019re following that question beneath the surface.How does the body respond to prolonged stress? Can a difficult relationship become more than an emotional experience? Why do some experiences seem to stay with us long after they\u2019re over? And what can science actually tell us about the connection between the lives we live and the bodies we live them in?The Table is a conversation. You\u2019ll hear from Dr Ramon Llamba, follow your own curiosity, ask the questions you\u2019ve always wondered about, and explore the ideas together with interactive experiences.\u00a0And because good conversations are always better over food & coffee, so grab yourself a coffee or something to eat, settle in, and spend your Friday evening discovering something you probably weren\u2019t talking about last Friday.Come curious. You might leave with some answers and probably with better questions.About the SpeakerDr Ramon LlambaWhat happens when someone trained in quantum physics spends nearly three decades exploring the human mind, body and emotional experience?Dr Ramon Llamba brings an unusually multidisciplinary perspective to the table. With a PhD in Quantum Physics, she is a certified somatic psychotherapist and internationally certified breath work facilitator whose work spans emotional wellbeing, mind-body practices, meditation and personal transformation.She is the founder of Golden Age Isvara, an organisation dedicated to personal transformation and holistic wellbeing, and has spent close to three decades working with people on questions around emotions, behavioural patterns, relationships and the mind-body connection.About The Curious TableThe Curious Table is a Delhi NCR community built for people who haven\u2019t stopped being curious.We create evenings around questions you don\u2019t usually get the chance to explore bringing together people who know fascinating things and people who simply want to understand them over food and drinks.\u00a0One Table might take you inside the biology of emotions. The next could wander into psychology, science, technology, health, history, culture - or something you didn\u2019t know you were curious about yet.Come curious. Pull up a chair.",
@@ -336,18 +374,18 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Begum & her Hookah heritage walk : Chandni Chowk",
-    "description": "Join us as we excavate the little known stories of the women who through the changing and often challenging times have continued to enrich the city\u2019s historical and cultural landscape. We will meander through streets around the Chandni Chowk area, sharing stories of Begums, shadows Empresses, Nautch girls, Milk mothers, Havelis and Harems.In this walk we walk the by-lanes of Shahjahanabad looking for stories of the bygone era, making the women who shaped the city and its history our focus.Milestones of our journey will be:1.\tDigambar Jain Temple (Lal Mandir), Sunehri Masjid, Gauri Shankar temple, Sis Ganj Gurudwara2.\tBegum Samru Ki haveli3.\tDariba Kalan (Silver Street): The Street of the Incomparable Pearl4.\tKinari Bazaar(Wedding street)5.\tNaughara (Nine Jain houses)6.\tParanthe wali Gali7.\tTownhall building8.\tLala Chunnamal ki Haveli9.\tFatehpuri Masjid : (Built in 1650s by emperor Shahjahan\u2019s wife Fatehpuri Begum)10.\tKhari Baoli (the biggest spice market in Asia)",
-    "startDate": "2026-10-10T09:00:00+05:30",
-    "endDate": "2026-10-10T11:30:00+05:30",
+    "@type": "FoodEvent",
+    "name": "Run Like A Girl | Lodhi Gardens",
+    "description": "We are starting our Saturday with a SWAG Run (3.5 KM and 7.5 KM batches).Here's the plan:Meet at the Lizzu Cafe.Warm-up 3.5 KM & 7.5KM Community Run (7.5 KM Run starts at 6:30 AM, 3.5 KM Run starts at 7 AM)Hydration by Fast&UpPost-run refuelling and community social at Lizzu Cafe! (1 coffee & cover charge of INR 200/-)This is a women-only run.If you are a beginner and want to start running, our 3.5KM run is the best place to start. Prepping for the upcoming Marathons? Join the 7.5KM group.The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "startDate": "2026-10-10T06:30:00+05:30",
+    "endDate": "2026-10-10T08:00:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "Chandni Chowk, Delhi, India",
+      "address": "No. 18, Market, Block 13, Lodi Colony, New Delhi, Delhi 110003, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.65053310000000000000",
-        "longitude": "77.23033699999999000000"
+        "latitude": "28.58468340000000000000",
+        "longitude": "77.22320940000000000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -355,20 +393,58 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "800.00",
+      "price": "200.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "DARWESH_TALEWEAVERS",
-      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
     },
-    "url": "https://urbanaut.app/spot/chnchk",
+    "url": "https://urbanaut.app/spot/swag12",
     "keywords": [
-      "History & heritage",
-      "Guided tour",
-      "Art & culture",
+      "Adventure",
+      "Wellness",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Reformer Pilates | Defence Colony",
+    "description": "Let\u2019s make your Sunday morning extra feel-good with Hot Girls Do Pilates, a guided reformer pilates experience by SWAG \ud83d\udc9bWe have only 4 spots!Come and feel fitter in the company of like-minded women, and stayback for some chit-chat!",
+    "startDate": "2026-10-10T10:00:00+05:30",
+    "endDate": "2026-10-10T11:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "A322, Block A, Defence Colony, New Delhi, Delhi 110024, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.57351930000000000000",
+        "longitude": "77.22945200000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1399.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag25",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Active",
       "URBANAUT"
     ]
   },
@@ -668,44 +744,6 @@
     "url": "https://urbanaut.app/spot/designing-your-life-the-stanford-way",
     "keywords": [
       "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Nizamuddin Heritage walk on Sufism & Poetry",
-    "description": "In the Sufi Bylanes of Nizamuddin \u2014 A Heritage Walk of Stories, Shrines & SilenceStep into the tender, time-worn lanes of Nizamuddin, where the fragrance of incense mingles with qawwali echoes and centuries of faith, love, and longing still breathe through stone and sky.Join us for a soulful heritage walk through the sacred precincts of Nizamuddin , as we trace the footsteps of saints, poets, patrons, and wanderers who made this neighbourhood a living archive of Delhi\u2019s Sufi soul.On this journey, we will also pause at:\u2728 Ghalib\u2019s Mazar \u2014 remembering the poet of longing and lament\u2728 Chausath Khamba \u2014 a marble pavilion of quiet grace and symmetry\u2728 Atagha Khan\u2019s Tomb \u2014 a Mughal-era resting place of power and piety\u2728 Pateh Shah\u2019s \u2014 where devotion meets deep serenity. Along the way, we\u2019ll listen to stories of shrines and seekers, of migration and memory, of music, miracles, and mysticism \u2014 stories that still whisper through these alleys at dusk.(Plz note the fee is only for the curated heritage walk experience & not for entry into any religious place & neither for  any qawwali performance ).",
-    "startDate": "2026-10-10T16:00:00+05:30",
-    "endDate": "2026-10-10T18:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Bharat Scouts and Guides Marg, opposite Humayun Tomb Park, Nizamuddin, Hazrat Nizamuddin, National Zoological Park, Sundar Nagar, New Delhi, Delhi 110013, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59564670000000000000",
-        "longitude": "77.24516910000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "800.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "DARWESH_TALEWEAVERS",
-      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
-    },
-    "url": "https://urbanaut.app/spot/nizz",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
       "URBANAUT"
     ]
   },
@@ -1201,6 +1239,42 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Exploring Sultan Ghari - Delhi's First Mausoleum",
+    "description": "Sultan Ghari Tomb, the first mausoleum of the Delhi Sultanate. On this historical journey, we will delve into the fascinating story of religious syncretism and the intriguing life of Prince Nasiruddin Mahmud. Date: 7th January 2024 Time: 11:00 AM - 1:00 PMOur journey will begin at the Sultan Ghari Tomb, a majestic mausoleum built in 1231 AD for Prince Nasiruddin Mahmud, the eldest son of Iltutmish and brother of Razia Sultan. The tomb is situated in the enchanting \"funerary landscape of Delhi,\" nestled within the Nangal Dewat Forest, now known as Vasant Kunj.As we explore this architectural marvel, we will learn about the illustrious life of Nasiruddin, who served as the governor of Awadh and Bengal and was the heir-apparent of the Slave Dynasty. Tragically, in 1229, Nasiruddin passed away unexpectedly in Bengal, and his remains were brought to Delhi, where Iltutmish lovingly laid him to rest in this grand mausoleum.Over the centuries, the tomb has evolved into a place of deep devotion and pilgrimage. The local community believes that it now serves as a dargah, holding the remains of their revered Pir Baba.The Mausoleum along with a few structures around from 800 years of history comes out as one of the best kept secret of Delhi.",
+    "startDate": "2026-10-11T16:00:00+05:30",
+    "endDate": "2026-10-11T17:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "G4MP+9R4, Garhi's Tomb Rd, Ruchi Vihar, Vasant Kunj, New Delhi, Delhi 110070, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53339020000000000000",
+        "longitude": "77.13707140000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "250.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sikkawala",
+      "url": "https://urbanaut.app/partner/sikkawala"
+    },
+    "url": "https://urbanaut.app/spot/sultanghari",
+    "keywords": [
+      "Walking Tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Tandoor, Tawa & Dilli : A Partition Food Story",
     "description": "A Partition Food StoryWhat happens to a city's food when its people change?In this conversation at Embassy Restaurant, we explore how the 1947 Partition transformed Delhi`s culinary landscape. The arrival of refugees from Punjab and other parts of the subcontinent brought new tastes, cooking traditions, ingredients and entrepreneurial cultures that gradually became part of the city's everyday food identity.We'll look at the restaurants, eateries, dhabas and food businesses that emerged or grew during this period, and uncover the stories behind some of Delhi's most enduring culinary traditions. From tandoori cooking and Punjabi influences to the evolution and popularisation of the rich, restaurant-style Mughlai food Delhi is known for today, we'll trace how food became a way to rebuild lives, create livelihoods, and reshape a city.But this is not just a story about dishes. It is also a story of migration, memory, survival and reinvention.We`ll also explore Embassy Restaurant`s history, its place in Delhi`s changing food culture, and how it became part of the city`s culinary history.Join us for a short, delicious journey through Partition, people and the food of Delhi.",
@@ -1270,6 +1344,44 @@
     },
     "url": "https://urbanaut.app/spot/can-we-make-delhi-a-human-city",
     "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Hot Girls Do Garba",
+    "description": "Time to get the festivities season started, and there's no better place than a Garba Party with the girls!Grab your bestie-or come solo-and hit the dance floor for the ultimate garba party this Sunday! Hot Girls Do Garba by SWAG is a women-only community garba event.Plan is simple. You dress-up, show-up and dance! Don't know the steps? Let's figure it out together, which is the whole point of this community! We're dancing our way through Bollywood bangers, traditional beats and some unexpected hits you won't hear at any other garba in town! Your ticket includes 1 drink (virgin mojito or a pint of beer) and a cover charge worth Rs. 500/-.Whether you're catching up with old friends or meeting new ones, this is the place to celebrate!\u2728 We also have some groups discounts, make sure you book for your besties too!",
+    "startDate": "2026-10-11T18:00:00+05:30",
+    "endDate": "2026-10-11T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Panchshila Park, 61/7, Panchshila Park, Block C, Panchsheel Park South, Malviya Nagar, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53946110000000000000",
+        "longitude": "77.21371580000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "849.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/hot-girls-do-garba",
+    "keywords": [
+      "Festival",
+      "Food & drink",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -1504,6 +1616,46 @@
     "endDate": "2026-10-15T19:30:00+05:30",
     "location": {
       "@type": "Place",
+      "address": "Noida, Uttar Pradesh, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53551610000000000000",
+        "longitude": "77.39102650000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "99.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Zuva Life",
+      "url": "https://urbanaut.app/partner/zuvalife"
+    },
+    "url": "https://urbanaut.app/spot/rethinkingworkinmidlife-noida",
+    "keywords": [
+      "Live GIG",
+      "Virtual",
+      "Workshop",
+      "Eco Friendly",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Rethinking Work in Midlife",
+    "description": "What does work look like in the second half of life?For many professionals, midlife brings a shift in how they think about work, purpose, identity, and financial security. The questions begin to change. Do I want to continue doing what I've always done? What else could I explore? How can I use my experience in new and meaningful ways?Rethinking Work in Midlife is a Zuva Life series that explores the evolving relationship between work and life in our 40s, 50s, and beyond.Through conversations with professionals, practitioners, and people who have navigated their own transitions, we explore different pathways to staying economically active and engaged, from teaching and consulting to entrepreneurship, advisory roles, and opportunities beyond traditional corporate careers.The series is about opening up possibilities, sharing real experiences, and helping people discover practical pathways to shape their next chapter of work.",
+    "startDate": "2026-10-15T18:30:00+05:30",
+    "endDate": "2026-10-15T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
       "address": "Gurugram, Haryana, India",
       "geo": {
         "@type": "GeoCoordinates",
@@ -1572,6 +1724,42 @@
       "Workshop",
       "Eco Friendly",
       "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Who Gets to Adapt? Online webinar",
+    "description": "Who Gets to Adapt? Gender, Care and Everyday Life in a Changing ClimateWe\u2019re often told that adapting to climate change means changing how we live \u2013 travelling differently, staying indoors during extreme heat, finding ways to cope with flooding, conserving water, or changing our routines.But adaptation isn\u2019t equally available to everyone.What happens when your ability to adapt is shaped by your gender, the work you do, how you move through the city, how much you earn, whether you feel safe, or the people you are responsible for caring for?And when climate disruption enters everyday life, who absorbs the extra work of making things function \u2014 changing schedules, finding water, caring for others, navigating unsafe conditions, or simply carrying on?This conversation asks a deceptively simple question: who gets to adapt?And perhaps more importantly: when we ask people to adapt to a changing climate, who is actually absorbing the cost of that adaptation?",
+    "startDate": "2026-10-15T19:00:00+05:30",
+    "endDate": "2026-10-15T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.70405920000000000000",
+        "longitude": "77.10249019999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mudito",
+      "url": "https://urbanaut.app/partner/mudito"
+    },
+    "url": "https://urbanaut.app/spot/whogetstoadaptdelhi",
+    "keywords": [
+      "Virtual",
       "URBANAUT"
     ]
   },
@@ -2258,6 +2446,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Mountain Moon Rock Night",
+    "description": "\"Mountain Moon Rock Night ft. HEAVENS DOWN, TIN HATS & BLUE GOLD INDIGO\"Different bands. Different generations. One Rock NightThree bands we believe in. Three bands we believe you should know.HEAVENS DOWN - Delhi\u2019s best-kept Rock \u2019n\u2019 Roll secret.TIN HATS - Seasoned musicians throw out the mainstream rulebook and return to the 90s & 00s rock that shaped them.BLUE GOLD INDIGO - Young, hungry and full of energy \u2014 a band with serious promise.24 OCTOBER | 8 PM | DEPOT 48 | DELHIBest Rock Gig in town. Come hear why !!",
+    "startDate": "2026-10-24T20:30:00+05:30",
+    "endDate": "2026-10-24T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/mountain-moon-rock-night",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Bazar - i - husn : tawaifs of chawri bazaar",
     "description": "Step into the world of grace, wit, and artistry as we explore the lives of Tawaifs\u2014the courtesans who once defined high culture, poetry, and performance in Delhi. This walk takes you through old city lanes that once echoed with ghazals, thumris, and the quiet power of women who shaped taste and tradition.Uncover the layered stories of kothas\u2014not as places of shame, but as salons of sophistication, resistance, and refined art. Let\u2019s reclaim these narratives and see history through a different lens.",
@@ -2329,6 +2555,44 @@
       "History & heritage",
       "Guided tour",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Doab Collective",
+    "description": "\"Doab Collective ft: sommaiya angrish , ashmita sawhney & jai aditya\"Doab collective emerges from a grounded approach to creativity, rooted in Jalandhar, yet deliberately looking past it. A local artist residency and living space, the collective is both a home and studio, with its physical which has been curated last summer. The collective seeks to ask uneasy but necessary questions about folk music, memory, and the youth\u2019s relationship with inheritance. It opens its doors to established artists and folk musicians alike, not to diminish tradition, but to allow voices that fly under the radar to circulate, resonate, and envision where the region\u2019s soundscape can go. \u2028Depot 48 is known in the scene to be a space where musicians from anywhere can perform and start their career in live music hence.Sommaiya Angrish is an independent alternative Hindi-pop artist, composer and multi-instrumentalist blending hip-hop, electronic music and South Asian influences into cinematic, emotionally driven productions. Known for his bilingual songwriting and genre-fluid sound, Sommaiya has built a growing catalogue of releases and collaborations that reflect a distinctly contemporary Indian voice.Ashmita Sawhney is a Delhi-based vocalist and musician whose practice draws from Indian and Western vocal traditions, with a repertoire spanning classical and light Indian music, ghazals, Bollywood and contemporary music. She has been actively performing on Delhi's independent and college music circuit while studying music at the University of Delhi. The Talented Indian. Sawhney has built a strong competitive performance record, including a first-place finish in Indian Light Solo Vocal at SVC's Nexus 2024, as well as podium finishes at inter-college competitions. She was also awarded second place in Western Vocal Solo at the University of Delhi Culture Council's 2025 competitions.Raised on a diet of Rock n\u2019 Roll, classic Pop and Hindi film music, Jaiditya Jha has been performing and earning music since he was in diapers. As a live performer, he\u2019s played a few dozen shows in North India over the past two years. His approach to production is informed by what works organically on stage. As a result, his work is based on the marriage of organic and live instruments with electronic, synth-adjacent elements. Jha is also the frontman and guitarist for the hard rock act Delhivision. This young artist\u2019s earlier catalogue oscillated between country-style acoustic numbers in English and art-rock numbers in Hindi, as well as the odd playback assignment. Off the back of his latest release, an alt-pop/rock EP called \u2018Shaitan Ki Nazar\u2019, he aims to bring the polish of classic pop to his sound with his next few outings.",
+    "startDate": "2026-10-25T21:00:00+05:30",
+    "endDate": "2026-10-25T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/doab-collective",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -2632,6 +2896,43 @@
       "Leisure",
       "Music",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Year Recap Journal 2026",
+    "description": "Before the year rushes past, take a moment to pause, reflect, and celebrate everything it held.Join us for a cozy Year Recap Journal experience where you\u2019ll creatively look back at your year - the big moments, little wins, lessons, people, places, feelings, and everything in between.This isn\u2019t about writing the \u201cperfect\u201d journal. It\u2019s about creating a personal snapshot of your year, your way.What to Bring:Bring along your favourite printed photos from the year -moments, people, places, memories, silly pictures, screenshots-turned-prints\u2026 anything you\u2019d love to include in your journal!Want us to print your photos for you?No worries! You can simply fill out the photo printing form shared with your booking, and we\u2019ll take care of the printing for you.Photo printing is an optional add-on and is not included in the ticket price.",
+    "startDate": "2026-12-06T15:00:00+05:30",
+    "endDate": "2026-12-20T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Sri Aurobindo Society Campus, Shaheed Jeet Singh Marg, Adchini, Adhchini Village, Qutab Enclave, New Delhi, Delhi 110016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53707100000000000000",
+        "longitude": "77.19661479999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "550.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Art Social",
+      "url": "https://urbanaut.app/partner/the-art-social"
+    },
+    "url": "https://urbanaut.app/spot/year-recap-journal-2026",
+    "keywords": [
+      "Workshop",
+      "Art & culture",
       "URBANAUT"
     ]
   },

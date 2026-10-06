@@ -1,57 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "The Disenchantment(1976)",
-    "url": "https://fillum.in/screening/6257",
-    "startDate": "2026-10-06T18:30:00+05:30",
-    "endDate": "2026-10-06T18:30:00+05:30",
-    "description": "Free entry. Intro and post-screening discussion.",
-    "location": {
-      "@type": "Place",
-      "name": "Instituto Cervantes",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Instituto Cervantes Nueva Delhi"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Corbett's Trail(2025)",
-    "url": "https://fillum.in/screening/6285",
-    "startDate": "2026-10-06T18:30:00+05:30",
-    "endDate": "2026-10-06T18:30:00+05:30",
-    "description": "Free entry. Open to all.",
-    "location": {
-      "@type": "Place",
-      "name": "IIC Annexe - Lecture Room I",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "India International Centre"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Nico(2022)",
-    "url": "https://fillum.in/screening/6193",
-    "startDate": "2026-10-06T19:00:00+05:30",
-    "endDate": "2026-10-06T19:00:00+05:30",
-    "description": "Free entry. Post-screening discussion with Vani Subramanian.",
-    "location": {
-      "@type": "Place",
-      "name": "Siddhartha Hall, Goethe-Institut",
-      "address": "Lodhi Road, New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Goethe-Institut New Delhi"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "Anka Sessions 01",
     "url": "https://fillum.in/event/6273",
     "startDate": "2026-10-08T19:30:00+05:30",
@@ -99,6 +48,40 @@
     "organizer": {
       "@type": "Organization",
       "name": "Kriti Film Club"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Noroi: The Curse(2005)",
+    "url": "https://fillum.in/screening/6299",
+    "startDate": "2026-10-10T12:00:00+05:30",
+    "endDate": "2026-10-10T12:00:00+05:30",
+    "description": "Limited Capacity.In collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress ..more",
+    "location": {
+      "@type": "Place",
+      "name": "Jangpura",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "The Beyond(1981)",
+    "url": "https://fillum.in/screening/6300",
+    "startDate": "2026-10-10T14:30:00+05:30",
+    "endDate": "2026-10-10T14:30:00+05:30",
+    "description": "Limited Capacity.In collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress ..more",
+    "location": {
+      "@type": "Place",
+      "name": "Jangpura",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
     }
   },
   {
