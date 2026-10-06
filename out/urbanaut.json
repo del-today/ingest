@@ -337,6 +337,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Begum & her Hookah heritage walk : Chandni Chowk",
+    "description": "Join us as we excavate the little known stories of the women who through the changing and often challenging times have continued to enrich the city\u2019s historical and cultural landscape. We will meander through streets around the Chandni Chowk area, sharing stories of Begums, shadows Empresses, Nautch girls, Milk mothers, Havelis and Harems.In this walk we walk the by-lanes of Shahjahanabad looking for stories of the bygone era, making the women who shaped the city and its history our focus.Milestones of our journey will be:1.\tDigambar Jain Temple (Lal Mandir), Sunehri Masjid, Gauri Shankar temple, Sis Ganj Gurudwara2.\tBegum Samru Ki haveli3.\tDariba Kalan (Silver Street): The Street of the Incomparable Pearl4.\tKinari Bazaar(Wedding street)5.\tNaughara (Nine Jain houses)6.\tParanthe wali Gali7.\tTownhall building8.\tLala Chunnamal ki Haveli9.\tFatehpuri Masjid : (Built in 1650s by emperor Shahjahan\u2019s wife Fatehpuri Begum)10.\tKhari Baoli (the biggest spice market in Asia)",
+    "startDate": "2026-10-10T09:00:00+05:30",
+    "endDate": "2026-10-10T11:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Chandni Chowk, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.65053310000000000000",
+        "longitude": "77.23033699999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/chnchk",
+    "keywords": [
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Mental Health Nature Walk",
     "description": "A 2-hour guided nature walk that blends adventure, history, and deep presence.We\u2019ll explore trails alongside scientists that are usually not open for public exploration. The place offers sweeping views of the forest canopy. We will walk through centuries old rocks, forest area, and open clearings where the city fades into the background.Along the way, we will engage in simple sensory grounding practices:\ud83e\udeb5Feel the texture of bark and stone under your fingers\ud83e\udd9cListen to the sounds of birds and wind\ud83c\udf42Breathe in the scent of dry earth and wild herbs\ud83e\udebeSense your feet meeting the ancient pathThese moments of quiet attention create an experience that is simultaneously invigorating and restorative: the challenge of the climb and uneven terrain, the curiosity of discovering hidden corners of Aravalli Biodiversity, and the steadying effect of moving slowly and noticing deeply.Carry a bottle of water with you and come ready to walk, climb, listen, and return a little more grounded than when you began.",
     "startDate": "2026-10-10T10:00:00+05:30",
@@ -394,7 +432,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "650.00",
+      "price": "400.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -630,6 +668,44 @@
     "url": "https://urbanaut.app/spot/designing-your-life-the-stanford-way",
     "keywords": [
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Nizamuddin Heritage walk on Sufism & Poetry",
+    "description": "In the Sufi Bylanes of Nizamuddin \u2014 A Heritage Walk of Stories, Shrines & SilenceStep into the tender, time-worn lanes of Nizamuddin, where the fragrance of incense mingles with qawwali echoes and centuries of faith, love, and longing still breathe through stone and sky.Join us for a soulful heritage walk through the sacred precincts of Nizamuddin , as we trace the footsteps of saints, poets, patrons, and wanderers who made this neighbourhood a living archive of Delhi\u2019s Sufi soul.On this journey, we will also pause at:\u2728 Ghalib\u2019s Mazar \u2014 remembering the poet of longing and lament\u2728 Chausath Khamba \u2014 a marble pavilion of quiet grace and symmetry\u2728 Atagha Khan\u2019s Tomb \u2014 a Mughal-era resting place of power and piety\u2728 Pateh Shah\u2019s \u2014 where devotion meets deep serenity. Along the way, we\u2019ll listen to stories of shrines and seekers, of migration and memory, of music, miracles, and mysticism \u2014 stories that still whisper through these alleys at dusk.(Plz note the fee is only for the curated heritage walk experience & not for entry into any religious place & neither for  any qawwali performance ).",
+    "startDate": "2026-10-10T16:00:00+05:30",
+    "endDate": "2026-10-10T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Bharat Scouts and Guides Marg, opposite Humayun Tomb Park, Nizamuddin, Hazrat Nizamuddin, National Zoological Park, Sundar Nagar, New Delhi, Delhi 110013, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59564670000000000000",
+        "longitude": "77.24516910000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/nizz",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
       "URBANAUT"
     ]
   },
@@ -936,6 +1012,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Purana Qila- The Lost City Within",
+    "description": "Step into the ancient heart of Delhi and explore Purana Qila, a monument layered with stories of empires, cities, architecture, and legends.This heritage walk takes you through the imposing gateways, grand walls, mosque, palace remains, and archaeological landscape of one of Delhi\u2019s most fascinating historic sites. Discover the stories associated with Sher Shah Suri and Humayun, while exploring the architectural details that reveal how the fort evolved through different periods.Beyond monuments and dates, the walk looks at the larger story of Indraprastha, Dinpanah and historic Delhi, connecting architecture with the changing urban landscape of the city.Led through the lens of history, architecture, art and urban heritage, this experience is designed for anyone curious about Delhi\u2019s layered past.",
+    "startDate": "2026-10-11T09:00:00+05:30",
+    "endDate": "2026-10-11T10:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Mathura Rd, near Delhi Zoo, Pragati Maidan, New Delhi, Delhi 110001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.60957440000000000000",
+        "longitude": "77.24373709999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "300.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Riwayat Walks",
+      "url": "https://urbanaut.app/partner/riwayatwalks"
+    },
+    "url": "https://urbanaut.app/spot/puranaqila",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Humayun's Tomb : Heritage Walk",
     "description": "About the ExperienceExplore the Humayun's Tomb complex on a guided heritage walk and learn about its history, architecture, and cultural significance. Built in the 16th century by Haji Begum in memory of Emperor Humayun, the monument is one of the earliest examples of Mughal garden tomb architecture in India.The walk covers the main mausoleum along with other important monuments within the complex, including Isa Khan's Tomb, Arab Sarai, Barber's Tomb, the mosque, and Afsarwala's Tomb. Throughout the experience, the storyteller will share historical context, architectural features, and interesting facts about the site.The walk is conducted at a comfortable pace and includes opportunities for questions and photography.",
     "startDate": "2026-10-11T09:00:00+05:30",
@@ -1068,7 +1182,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "700.00",
+      "price": "400.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
