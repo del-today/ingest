@@ -86,7 +86,7 @@
   },
   {
     "@type": "ScreeningEvent",
-    "name": "Time is Never Ripe - Documentaries by Raqs Collective",
+    "name": "Time is Never Ripe - Works by Raqs Collective",
     "url": "https://fillum.in/event/6271",
     "startDate": "2026-10-10T15:00:00+05:30",
     "endDate": "2026-10-10T15:00:00+05:30",
@@ -99,6 +99,23 @@
     "organizer": {
       "@type": "Organization",
       "name": "Anant Foundation for the Arts"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Daughter of the Mountains(2026)",
+    "url": "https://fillum.in/screening/6289",
+    "startDate": "2026-10-10T15:00:00+05:30",
+    "endDate": "2026-10-10T15:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "Pyare Lal Bhawan - Gandhi Memorial Hall, ITO",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fillum"
     }
   }
 ]

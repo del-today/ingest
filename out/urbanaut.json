@@ -77,44 +77,6 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Lil Mama Tips and the Band",
-    "description": "Tipriti Kharbangar the blues queen of India is back at Depot with her band ",
-    "startDate": "2026-10-07T21:00:00+05:30",
-    "endDate": "2026-10-07T23:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53415570000000000000",
-        "longitude": "77.24300939999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1050.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Depot48",
-      "url": "https://urbanaut.app/partner/depot48"
-    },
-    "url": "https://urbanaut.app/spot/lil-mama-tips-and-the-band",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
     "name": "GFT: October Edition in Defence Colony",
     "description": "Grounds for Thought: October 2026 (Defence Colony)A Blue Tokai \u00d7 unLecture SeriesGrounds for Thought is a monthly series where Blue Tokai and unLecture bring researchers,\u00a0scientists, and thinkers out of their institutions and into a coffee shop. The format is simple: an\u00a0expert, a room full of curious people, and a conversation that goes somewhere a classroom\u00a0rarely does. October runs across Delhi and Bangalore, moving from temple sculpture to constitutional pedagogy, from parenting in the AI age to the politics of a Bollywood item number.1st October: Dolan SamantaTemple sculpture is usually read as devotion \u2014 divine bodies carved to be worshipped. This\u00a0session argues it does something more: these images are sites where gender, desire, and\u00a0authority are negotiated, not just depicted.\u00a0Taking two ninth-to-eleventh-century carvings of \u015aiva\u00a0and P\u0101rvat\u012b from the N\u012blaka\u1e47\u1e6dha temple at K\u0101la\u00f1jara as its central text, and reading them\u00a0through Puranic myth, Foucault, and Judith Butler's account of gender as performance, Dolan\u00a0Samanta, a history educator and JNU-trained researcher, asks why \u015aiva appears nude, enraged, and armed, his sexuality fused with dominance, while P\u0101rvat\u012b appears smaller,\u00a0modest, at once desired and desiring. The question stone carved a thousand years ago still puts\u00a0to us: who was permitted power, and who was only expected to receive it?8th October: Tania KapoorMost parents still treat marks as the surest route to a child's future \u2014 but school mostly rewards memorising, following instructions, and reproducing the right answer in the right way, exactly the\u00a0kind of work AI is fastest at absorbing. Tania Kapoor, a Delhi-based child and adolescent psychologist trained at AIIMS, argues that what will actually distinguish children going forward \u2014 adaptability, emotional regulation, impulse control, comfort with ambiguity \u2014 is precisely what\u00a0classrooms and busy households keep treating as something to address \"later\" Grounded in\u00a0clinical practice, this session asks what parents should be paying attention to now, before later\u00a0becomes too late.15th October: Dr. Jasleen RanaEvery purchase carries a story that has little to do with the product itself \u2014 emotion, aspiration, insecurity, identity. Dr. Jasleen Rana, who holds a PhD in Consumer Psychology and teaches Marketing at JIMS Kalkaji, moves past the question of what we buy to the more revealing one\u00a0why. Through brand archetypes, hidden motivations, and everyday examples \u2014 choosing one\u00a0coffee shop over another, paying more for a brand that does exactly what a cheaper one does \u2014 this interactive session decodes the psychological triggers behind consumer choice, and\u00a0what those choices reveal about identity, belonging, and self-image.22nd October: Shubham YadavWhat if ordinary citizens believed they had something to teach the members of the Constituent\u00a0Assembly? Shubham Yadav, a Senior Research Fellow at JNU's Zakir Husain Centre for Educational Studies, argues that India's Constitution wasn't shaped by elites alone \u2014 it emerged from a running exchange in which both \"the people\" and \"the makers\" wanted to instruct each other on what the new nation should be. Framed as a conversation rather than a\u00a0lecture, the session traces that two-way pedagogy, and what it reveals about how theConstitution actually came to be built.",
     "startDate": "2026-10-08T18:30:00+05:30",
@@ -220,6 +182,42 @@
       "Leisure",
       "Wellness",
       "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Why are Women's Rights a Culture Shock",
+    "description": "Delhi has had at least 13 reported cases of rape and sexual assault in the last few weeks. The response from authorities? Restrict entry into parks after sunset. Fewer gates. More barriers. The message, as one writer put it, is not subtle: change your behaviour, change your routine, stay inside.We've heard this before. And we're tired of hearing it.This Friday, we're doing something we've never done before, a Crash Course. Unplanned, unscripted, and responding directly to what's happening in this city right now. Kavita Krishnan, feminist activist, writer, and one of India's most fearless voices on gender and freedom, is coming to talk with us through everything on our minds. We'll be talking about what safety actually means, and who it's really designed for. About why the answer to violence against women keeps ending up as instructions for women. About what freedom looks like in a city that keeps telling half its population to make themselves smaller.Come as you are. Bring your anger, your questions, everything you've been feeling and haven't known where to put.This Friday | 6:30 PM onwards | Blue Tokai, Panchsheel ParkOpen to all. See you there.",
+    "startDate": "2026-10-09T18:30:00+05:30",
+    "endDate": "2026-10-09T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Basement, Ground floor and First floor Building no. 12, Panchsheel Community Centre, Shahpur Jat, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54805190000000000000",
+        "longitude": "77.21147640000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/crashcourse-why-is-womens-rights-a-culture-shock",
+    "keywords": [
+      "Local",
       "URBANAUT"
     ]
   },
@@ -1309,6 +1307,42 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The FishMarket #2",
+    "description": "A FishMarket isn't a lecture. It's a room full of concerned citizens trying to solve a problem together.This one is about something we all experience every single day, and almost never stop to actually diagnose.Moving through a city should be simple. And yet an ordinary journey on foot, by bicycle, motorcycle or car routinely becomes an exercise in negotiation. The footpath disappears into parking. The pedestrian steps onto the road. The rider squeezes through a gap that probably shouldn't exist. The car stops wherever space appears. Each decision seems reasonable to the person making it. Together, they produce confusion, delay, and risk.But here's what we rarely ask: is this actually about bad civic sense? Or is it about a street that was designed without ever considering how people actually use it?This FishMarket will investigate how everyday disorder is created across the entire street. We'll will diagnose situations. We'll ask who or what shapes them. And then we'll move from diagnosis to solutions, examining which responsibilities belong to citizens, drivers, vendors, planners and authorities, and what changes in behaviour, rules, or design could actually help.Come ready to observe, challenge easy assumptions, and propose a better way for everyone to share the city.",
+    "startDate": "2026-10-11T18:00:00+05:30",
+    "endDate": "2026-10-11T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gate No. 1, Bahadur Shah Zafar Marg, inside Shaheedi park, Balmiki Basti, Vikram Nagar, New Delhi, Delhi, 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.63445520000000000000",
+        "longitude": "77.24131700000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "250.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/the-fishmarket-2",
+    "keywords": [
+      "Local",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Hot Girls Do Garba",
     "description": "Time to get the festivities season started, and there's no better place than a Garba Party with the girls!Grab your bestie-or come solo-and hit the dance floor for the ultimate garba party this Sunday! Hot Girls Do Garba by SWAG is a women-only community garba event.Plan is simple. You dress-up, show-up and dance! Don't know the steps? Let's figure it out together, which is the whole point of this community! We're dancing our way through Bollywood bangers, traditional beats and some unexpected hits you won't hear at any other garba in town! Your ticket includes 1 drink (virgin mojito or a pint of beer) and a cover charge worth Rs. 500/-.Whether you're catching up with old friends or meeting new ones, this is the place to celebrate!\u2728 We also have some groups discounts, make sure you book for your besties too!",
@@ -1949,6 +1983,44 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
+    "name": "Surthaal - A Navratri Night",
+    "description": "Surthaal happens once a year, Last November, we gathered around one long table to celebrate Surthaal the coming together of Sur and Thaal, of music and food, of stories and people, and just like that, it\u2019s that time of the year again.A once-a-year celebration of everything we love about coming together music in the air, conversations around the table, and this time the festive spirit of Navratri.We eat together, We listen together, And when the meal is done, we dance together.Not the Navratri you're used to, No crowded grounds, No loud stages.Just the rare experience of Mandli Raas a beautiful community tradition of music, dancing, and celebration that is seldom experienced in Delhi NCR.6-8 PM - Dinner (Thaal)8-10 PM - Mandli Raas (Sur)Safed our Navratri palette, think ivory Chaniya Cholis, crisp kurtas, old silver, heirloom jewels and your own interpretation of festive whites. Come dressed for the occasion Navratri only comes around once a year.One evening of Sur and Thaal.",
+    "startDate": "2026-10-17T18:00:00+05:30",
+    "endDate": "2026-10-17T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Fatehpur Beri, New Delhi, Delhi 110074, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.45875750000000000000",
+        "longitude": "77.17932619999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3600.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Jimmno",
+      "url": "https://urbanaut.app/partner/100peoplesupper"
+    },
+    "url": "https://urbanaut.app/spot/surthaal",
+    "keywords": [
+      "Leisure",
+      "Festival",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
     "name": "Dusherra: A Festive Table",
     "description": "A vegetarian Dusherra celebration inspired by festive kitchens across India. I bring together bright chaat, generous seasonal dishes and the warmth of a home gathering, with each course carrying a different regional memory.The menuFour vegetarian courses with two paired pours. Tell me what you need in your enquiry.First courseRajgira papdi chaat, sweet potato, pomegranate and tamarindPaired pourMarigold HighballSaffron gin, marigold cordial, citrus and tonicSecond courseKashmiri morel yakhni, lotus stem crisp, walnutThird courseSmoked paneer, Awadhi gravy, sheermal and festive greensPaired pourVictory SourBourbon, jaggery, lemon and cardamomFourth courseMishti doi br\u00fbl\u00e9e, nolen gur and pistachioA private home in Noida. The exact address is shared on acceptance.",
     "startDate": "2026-10-17T19:30:00+05:30",
@@ -2099,7 +2171,7 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Geo-Heritage Walk and Sunset Experience at Sanjay",
+    "name": "Geo-Heritage Walk and Sunset at Sanjay Van",
     "description": "From the ruins of Delhi's first cities to the vibrant flora and fauna of the Aravalis, this is your chance to walk until sunset and explore Delhi's often-ignored geography and our relationship with it.Gain insight into the Aravalis and their formation (India's oldest mountain range), their stones such as quartz, and their flora, from native species to invasive ones. Learn how they shaped the making of Delhi and its early settlements.Uncover how early settlements and cities came to be at the place that once hosted Delhi's first city, Lal Kot.Get answers to questions like: Why has Delhi been so important throughout history? Why did it serve as the capital of most of the important dynasties?This is your chance to appreciate Delhi's geography, ecology, environment, and, of course, its history.",
     "startDate": "2026-10-18T16:00:00+05:30",
     "endDate": "2026-10-18T18:15:00+05:30",
@@ -2910,7 +2982,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "800.00",
+      "price": "799.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
