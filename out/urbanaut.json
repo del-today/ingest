@@ -340,7 +340,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Run Like A Girl | Nehru Park",
-    "description": "We are starting our Saturday with a SWAG Run (3.5 KM and 7.5 KM batches).Here's the plan:Meet at the Nehru Park Gate No. 1.Warm-up3.5 KM & 7.5KM Community Run (7.5 KM Run starts at 6:30 AM, 3.5 KM Run starts at 7 AM)Hydration by Fast&UpPost-run refuelling and community social.This is a women-only run.If you are a beginner and want to start running, our 3.5KM run is the best place to start. Prepping for the upcoming Marathons? Join the 7.5KM group.The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "description": "We are starting our Saturday with a SWAG Run (3.5 KM and 5.5 KM batches).Here's the plan:Meet at the Nehru Park Gate No. 1. Warm-up 3.5 KM & 5. 5KM Community Run (5.5 KM Run starts at 6:45 AM, 3.5 KM Run starts at 7 AM)Hydration by Fast&UpPost-run refuelling and community social. This is a women-only run. If you are a beginner and want to start running, our 3.5KM run is the best place to start. Prepping for the upcoming Marathons? Join the 5.5KM group.The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
     "startDate": "2026-10-10T06:30:00+05:30",
     "endDate": "2026-10-10T08:00:00+05:30",
     "location": {
@@ -486,6 +486,43 @@
       "Local",
       "Walking Tour",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Why do we overthink everything?",
+    "description": "CURIOUS CONVERSATIONS #01Why Do We Overthink Everything? \ud83e\udde0\ud83d\udcadEver replayed a conversation hours later and wondered, \u201cWhy did I say that?\u201dOr spent way too long deciding between two perfectly good options?Or created 17 possible scenarios in your head before anything has even happened?You\u2019re probably not the only one. ;)Curious Conversations is bringing together a group of girls of honest, interesting conversations around one very familiar habit \u2014 overthinking.We\u2019ll explore:\u2728 Why does our brain turn tiny things into big questions?\u2728 Do we overthink because we care too much, fear getting it wrong, or simply can\u2019t switch off?\u2728 When does thinking things through become too much thinking?\u2728 And is there actually a way to make peace with our wonderfully overactive minds?This isn\u2019t a workshop, therapy session or networking event.It\u2019s simply good questions, unexpected perspectives and conversations with people you\u2019ve just met.Come curious. Leave with a few new perspectives \u2014 and maybe a little less to overthink. \ud83c\udf3fLimited spots | Come solo or bring a friend.",
+    "startDate": "2026-10-10T11:00:00+05:30",
+    "endDate": "2026-10-10T12:15:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "H3 A, Block H, Green Park Extension, Green Park, New Delhi, Delhi 110016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55989790000000000000",
+        "longitude": "77.20584860000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "679.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Curious Conversations",
+      "url": "https://urbanaut.app/partner/curious-conversations"
+    },
+    "url": "https://urbanaut.app/spot/why-do-we-overthink-everything",
+    "keywords": [
+      "Workshop",
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -1200,39 +1237,37 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Tandoor, Tawa & Dilli : A Partition Food Story",
-    "description": "A Partition Food StoryWhat happens to a city's food when its people change?In this conversation at Embassy Restaurant, we explore how the 1947 Partition transformed Delhi`s culinary landscape. The arrival of refugees from Punjab and other parts of the subcontinent brought new tastes, cooking traditions, ingredients and entrepreneurial cultures that gradually became part of the city's everyday food identity.We'll look at the restaurants, eateries, dhabas and food businesses that emerged or grew during this period, and uncover the stories behind some of Delhi's most enduring culinary traditions. From tandoori cooking and Punjabi influences to the evolution and popularisation of the rich, restaurant-style Mughlai food Delhi is known for today, we'll trace how food became a way to rebuild lives, create livelihoods, and reshape a city.But this is not just a story about dishes. It is also a story of migration, memory, survival and reinvention.We`ll also explore Embassy Restaurant`s history, its place in Delhi`s changing food culture, and how it became part of the city`s culinary history.Join us for a short, delicious journey through Partition, people and the food of Delhi.",
+    "@type": "Event",
+    "name": "Navratri Special Dance Workshop | Garba & Dandiya",
+    "description": "Get ready to groove this Navratri season! Join our Beginner-Friendly Garba & Dandiya Workshop for a fun, energetic 2-hour session where no prior dance experience is required.Workshop Highlights:What You'll Learn: Master 3 classic Garba and Dandiya steps, plus a lively choreographed routine on a popular Bollywood track!When: October 11th | 4:30 PM \u2013 6:30 PMLevel: Beginners & Intermediate (Everyone is welcome)Bring your energy, grab your dandiya sticks, and let\u2019s get ready to twirl!",
     "startDate": "2026-10-11T16:30:00+05:30",
     "endDate": "2026-10-11T18:30:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "3 Nelson Mandela Road, Vasant Kunj Mall Road, Vasant Kunj II, Vasant Kunj, New Delhi, Delhi 110070, India",
+      "address": "M 49, Vinoba Puri, Block M, Lajpat Nagar II, Lajpat Nagar, New Delhi, Delhi 110024, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.54266940000000000000",
-        "longitude": "77.15585030000000000000"
+        "latitude": "28.56789310000000000000",
+        "longitude": "77.24771590000000000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
+    "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "650.00",
+      "price": "500.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Enroute Indian History",
-      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+      "name": "Pujita Lunia",
+      "url": "https://urbanaut.app/partner/pujita-lunia"
     },
-    "url": "https://urbanaut.app/spot/tandoor-tawa-dilli-a-partition-food-story-17131",
+    "url": "https://urbanaut.app/spot/navratri-special-dance-workshop-garba-dandiya",
     "keywords": [
-      "History & heritage",
-      "Food & drink",
-      "Guided tour",
+      "Active",
       "Art & culture",
       "URBANAUT"
     ]
@@ -1697,6 +1732,42 @@
     "endDate": "2026-10-15T20:00:00+05:30",
     "location": {
       "@type": "Place",
+      "address": "Gurugram, Haryana, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.45949650000000000000",
+        "longitude": "77.02663830000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mudito",
+      "url": "https://urbanaut.app/partner/mudito"
+    },
+    "url": "https://urbanaut.app/spot/whogetstoadaptgurugram",
+    "keywords": [
+      "Virtual",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Who Gets to Adapt? Online webinar",
+    "description": "Who Gets to Adapt? Gender, Care and Everyday Life in a Changing ClimateWe\u2019re often told that adapting to climate change means changing how we live \u2013 travelling differently, staying indoors during extreme heat, finding ways to cope with flooding, conserving water, or changing our routines.But adaptation isn\u2019t equally available to everyone.What happens when your ability to adapt is shaped by your gender, the work you do, how you move through the city, how much you earn, whether you feel safe, or the people you are responsible for caring for?And when climate disruption enters everyday life, who absorbs the extra work of making things function \u2014 changing schedules, finding water, caring for others, navigating unsafe conditions, or simply carrying on?This conversation asks a deceptively simple question: who gets to adapt?And perhaps more importantly: when we ask people to adapt to a changing climate, who is actually absorbing the cost of that adaptation?",
+    "startDate": "2026-10-15T19:00:00+05:30",
+    "endDate": "2026-10-15T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
       "address": "Delhi, India",
       "geo": {
         "@type": "GeoCoordinates",
@@ -1842,6 +1913,41 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Say Less: A Field Guide To Being Watched",
+    "description": "About the LectureIs there a way to be seen that doesn't cost you your voice? Or was this trade always built into the system?You don't need to be arrested to stop speaking. You just need to suspect someone might be watching. After the 2013 Snowden revelations, researchers found a measurable drop in Wikipedia views of sensitive topics. No one was punished for reading an article. People simply stopped.This lecture is a field guide to being watched today. It covers the state with facial recognition and a database to match it against, the platforms built for advertising that can identify you from your own digital trail, and the quietest kind of all: the friend who screenshots, the forward, being recognised by someone you know. Along the way, we'll look at why visibility alone can be enough to change how we behave, and what that means for how freely any of us really speak.The session explores:Three ways of being watched: institutional, platform and lateral (peer) surveillanceThe panopticon: why the possibility of being watched does the work, not the watching itselfSocial sorting: how surveillance judges the category you've been placed in, not youThe chilling effect, and the evidence that it's more than a metaphorAbout the SpeakerSoumya Singh Chauhan is an Assistant Professor at O.P. Jindal Global University, where she is also pursuing her PhD on state data collection practices. Her research interests lie in privacy, surveillance and intellectual property law, and she teaches a surveillance elective at the university. When she's not thinking about the deep dystopia we live in, she zooms in: writing poetry, making art, or learning dance and music. A real escape would be to zoom out and finally pursue her as-yet-unsatiated interest in astronomy. Don't ask her anything about it right now; she knows nothing.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-10-17T17:00:00+05:30",
+    "endDate": "2026-10-17T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "3rd Floor, G-16B, Hudson Ln, Block G, Vijay Nagar, Delhi, 110009, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.69452480000000000000",
+        "longitude": "77.20396410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/say-less-a-field-guide-to-being-watched",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Dusherra: A Festive Table",
     "description": "A vegetarian Dusherra celebration inspired by festive kitchens across India. I bring together bright chaat, generous seasonal dishes and the warmth of a home gathering, with each course carrying a different regional memory.The menuFour vegetarian courses with two paired pours. Tell me what you need in your enquiry.First courseRajgira papdi chaat, sweet potato, pomegranate and tamarindPaired pourMarigold HighballSaffron gin, marigold cordial, citrus and tonicSecond courseKashmiri morel yakhni, lotus stem crisp, walnutThird courseSmoked paneer, Awadhi gravy, sheermal and festive greensPaired pourVictory SourBourbon, jaggery, lemon and cardamomFourth courseMishti doi br\u00fbl\u00e9e, nolen gur and pistachioA private home in Noida. The exact address is shared on acceptance.",
@@ -1949,6 +2055,81 @@
     "url": "https://urbanaut.app/spot/delhi-ridge-from-empires-to-the-uprising",
     "keywords": [
       "Local",
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "How Indians Became Indian-Americans",
+    "description": "About the LectureIn 1923, what did it take for an Indian man to be legally counted as \"American\"?Step inside one of the strangest, highest-stakes legal battles in modern history: United States v. Bhagat Singh Thind. At a time when American citizenship was limited to white people and people of African descent, a Sikh man went to the US Supreme Court to argue that he belonged. The Court responded by changing its own rules, overnight shifting the legal definition of \"whiteness\" from scientific classification to \"common man\" prejudice, to keep South Asians out.Lawyer and historian Vishwajeet Deshmukh has worked through archives in India, the United States and the United Kingdom to uncover the hidden layers of the case. Thind's argument, often criticised as promoting caste supremacy, turns out to have been a brilliant, desperate litigation strategy devised by the Ghadar Party, a radical, secular and explicitly anti-caste revolutionary movement. And behind the American courtroom, the British Empire was pulling strings. Terrified that Indian revolutionaries would secure US passports and immunity from British arrest, colonial spies used global surveillance to make sure South Asians were stripped of citizenship.With birthright citizenship back before the US Supreme Court, this story of identity, secret intelligence and a global fight over who gets to belong feels newly urgent.The session explores:How Indians in the United States used the law to fight for citizenship in the 1920sHow the US Supreme Court rewrote the definition of \"whiteness\" to exclude South AsiansThe Ghadar Party's hidden hand in Thind's legal strategyHow British intelligence shaped the outcome of an American court caseAbout the SpeakerVishwajeet Deshmukh is a lawyer and historian whose work focuses on how law creates identities and how legal systems shape them. He has written on the legal history of Anglo-Indians, Jews and South Asian Americans. He holds an LLM from Harvard Law School with a focus on legal history, has spoken at TEDx, and has been a guest lecturer at National Law University Delhi, National Law University Ranchi and Government Law College, Mumbai. He received the Tata Trusts Grant from the 1947 Partition Archive and Ashoka University for his research on the impact of Partition on minorities in India and Pakistan, and the Sutin Prize and Jeannie Shawl Prize from JURIST, University of Pittsburgh. He has clerked at the Bombay High Court and worked as an archival researcher at ETH Z\u00fcrich.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive, unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-10-18T16:00:00+05:30",
+    "endDate": "2026-10-18T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "E-17, Market Ln, Hauz Khas Market, Block E, Hauz Khas, Delhi, New Delhi, Delhi 110016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55122750000000000000",
+        "longitude": "77.20838499999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/how-indians-became-indian-americans",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Geo-Heritage Walk and Sunset Experience at Sanjay",
+    "description": "From the ruins of Delhi's first cities to the vibrant flora and fauna of the Aravalis, this is your chance to walk until sunset and explore Delhi's often-ignored geography and our relationship with it.Gain insight into the Aravalis and their formation (India's oldest mountain range), their stones such as quartz, and their flora, from native species to invasive ones. Learn how they shaped the making of Delhi and its early settlements.Uncover how early settlements and cities came to be at the place that once hosted Delhi's first city, Lal Kot.Get answers to questions like: Why has Delhi been so important throughout history? Why did it serve as the capital of most of the important dynasties?This is your chance to appreciate Delhi's geography, ecology, environment, and, of course, its history.",
+    "startDate": "2026-10-18T16:00:00+05:30",
+    "endDate": "2026-10-18T18:15:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Sanjay Van, New Delhi, Delhi",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53090720000000000000",
+        "longitude": "77.18014900000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "599.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Silsila Heritage",
+      "url": "https://urbanaut.app/partner/silsilaheritage"
+    },
+    "url": "https://urbanaut.app/spot/sanjayvan",
+    "keywords": [
+      "Leisure",
+      "Adventure",
       "Walking Tour",
       "History & heritage",
       "Guided tour",
@@ -2297,7 +2478,7 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "name": "Film and Analog photography workshop",
+    "name": "Film and Analog photography workshop 24 & 25 Oct",
     "description": "A comprehensive two-day workshop covering all aspects of the analog process from taking photographs on film to making silver prints on photographic paper.Structure of the workshopDay 1:A lecture on the origin of photography - Discover how photography began and explore early processes through a short, engaging introduction.Shooting on Film - Learn how to manually operate a film camera & a light meter to get correct exposures.Developing the Film - Learn how to develop your film roll in a darkroom with chemical solutions to get photographic negatives.Day 2:Create contact sheets - Using your negatives, create contact sheets and gain a clear understanding of exposure, development and timing.Create a test strip - Learn how to judge and determine the best exposure while creating prints in the darkroom.Create final prints - Learn how to create silver gelatine prints in the darkroom and workarounds to possible errors.Frequently asked questions:Is there any prior knowledge needed to attend this workshop?No, there is no prior knowledge needed for this workshop.Is there an age restriction for this workshop?Yes, the workshop is meant for ages 15+Do we as participants need to bring anything?No, all equipment and materials will be provided by Museo.Will we get to take our prints and negatives home at the end of the workshop?Yes, you will get to take your photographic negatives and prints home.Will there be a certificate provided once the workshop is over?Yes, a digital certificate will be provided upon completion of the workshop.What is the batch size of the workshop?The workshop is conducted in small batches of up-to 4 people per batch.Does the workshop also teach us how to use colour film?No, the workshop only covers black and white film photography.What is the recommended attire for the workshop?Comfortable clothing and shoes are recommended for the workshop.Will lunch be provided?Each participant will receive a 15% discount at the museum cafe on both days of the workshop.Once the workshop is over, how can I continue to practice the process?You can book the darkroom to practice the process, to do so you would have to write to us at workshops@museocamera.orgMeet your trainers Taught by some of the best practicing photographers and printmakers.Aditya AryaFounder, Director, Museo CameraWith 45+ years of experiencePhotographer, historian and Founder-Director of Museo Camera with years of experience across advertising and fine art, he champions the slowness of analog processes. He practices and teaches historic techniques like cyanotype and wet plate collodion, keeping them alive through hands-on learning.https://www.adityaarya.com/Avinash AggarwalFacilitatorwith 45+ years of experienceAggarwal\u2019s practice spans several decades, encompassing commercial work in product, industrial, interior, and portrait photography. Alongside this, he has consistently engaged with the artistic and experimental dimensions of the medium, with expertise in black-and-white and colour darkroom processes, as well as alternative photographic techniques. He currently runs his studio, Studio A89, at Kaladham, Greater Noida, where he also teaches analogue and alternative photography, and conducts workshops across institutions in the Delhi NCR region.Khushi Upadhyay Darkroom AssistantWith 2+ years of experienceShe is a photographer working with analog and alternative processes, embracing slowness while guiding others to do the same. Rooted in light and material, she leads cyanotype and historic process workshops through hands-on, immersive image-making.",
     "startDate": "2026-10-24T11:00:00+05:30",
     "endDate": "2026-10-24T17:00:00+05:30",

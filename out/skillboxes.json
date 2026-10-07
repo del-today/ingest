@@ -1,6 +1,83 @@
 [
    {
       "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "A year of underground dance music with B2N ! 2 DJs / EXTENDED SETS. 25.10. SUNDAY",
+      "endDate": "2026-10-26T00:45:00",
+      "identifier": "com.skillboxes.42201",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/c2VJZHU3cnU0TlozdzFIdmp4WGVzdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1791370143Sb8pJVpYvG5mNTQM.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Plot 37, 80 Feet Rd, Hal, HAL 3rd Stage, Hal, New Thippasandra, Bengaluru, Karnataka 560075, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9707654",
+            "longitude": "77.6476266"
+         },
+         "name": "Indiranagar Social"
+      },
+      "name": "B2N",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "ONE INDIVIDUAL ENTRY TICKET\nVenue cover charge applicable",
+            "inventoryLevel": 12,
+            "name": "LIMITED PRE-SALE",
+            "url": "https://www.skillboxes.com/events/ticket/bender2night-sbpwrmbz"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "INDIVIDUAL ENTRY TICKET\nVenue cover charge applicaple",
+            "inventoryLevel": 25,
+            "name": "GENERAL SALES",
+            "url": "https://www.skillboxes.com/events/ticket/bender2night-sbpwrmbz"
+         }
+      ],
+      "startDate": "2026-10-25T18:00:00",
+      "url": "https://www.skillboxes.com/events/bender2night-sbpwrmbz"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": " Swaradhya is an Instrumental World Music Ensemble based out of Bangalore, India, known for its innovative blend of Indian classical music with ",
+      "endDate": "2026-10-28T23:55:00",
+      "identifier": "com.skillboxes.42186",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YkM5YUkzb1JFbnltd25oanVpNnR6UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1791359371uTkS9tOocJCLBAV1.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Concerts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "",
+            "longitude": ""
+         },
+         "name": "To Be Announced"
+      },
+      "name": "Grassroots Wednesdays with Swaradhya + Mosaïek",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 450,
+            "name": "GA",
+            "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-swaradhya-mosaiek-sbopware"
+         }
+      ],
+      "startDate": "2026-10-28T21:00:00",
+      "url": "https://www.skillboxes.com/events/grassroots-wednesdays-with-swaradhya-mosaiek-sbopware"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "EducationEvent",
       "description": "LVDS Bootcamp\r\n\r\n \r\n\r\n🔥 READY TO LEVEL UP YOUR SOCIAL JIVE?\r\n\r\n \r\n\r\nJoin Lourd Vijay for a high-energy 4-hour Social Jive Bootcamp — technique, styling, combinations, musicality and loads of dancing. ",
       "endDate": "2026-10-10T13:30:00",
