@@ -4,7 +4,7 @@
     "@type": "Event",
     "name": "Kathika Cultural Experience",
     "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
-    "startDate": "2026-10-06T11:30:00+05:30",
+    "startDate": "2026-10-07T11:30:00+05:30",
     "endDate": "2026-10-31T14:00:00+05:30",
     "location": {
       "@type": "Place",
@@ -34,42 +34,6 @@
       "Music",
       "History & heritage",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "GFT: October Edition in Janpath",
-    "description": "Grounds for Thought: October 2026 (Janpath)A Blue Tokai \u00d7 unLecture SeriesGrounds for Thought is a monthly series where Blue Tokai and unLecture bring researchers, scientists, and thinkers out of their institutions and into a coffee shop. The format is simple: an expert, a room full of curious people, and a conversation that goes somewhere a classroom rarely does. October runs across Delhi and Bangalore, moving from temple sculpture to constitutional pedagogy, from parenting in the AI age to the politics of a Bollywood item number.6th October: Harshit BishtYour phone finishes your sentences, your inbox drafts your replies, a chatbot will happily name your business for you \u2014 and it's doing the same for millions of other people at once. Harshit Bisht, a PhD scholar in artificial intelligence at IIT Delhi researching multimodal foundation models for scientific discovery, asks what happens when systems trained on existing culture start setting the default for what counts as a \"good\" or \"natural\" answer, across countries, languages, and ways of seeing the world. Built around everyday experience rather than technical background, the session isn't trying to settle whether AI is good or bad \u2014 only what happens to the differences between us as these tools get better at helping each of us individually.13th October: Prerna VatsWords like \"comprehensive,\" \"flexible,\" and \"excellence\" fill education policy documents, but what do they mean once they reach an actual classroom \u2014 and who decides? Prerna Vats, a PhD scholar in Women and Gender Studies at Ambedkar University and a teacher trainer and sexuality educator, reads the National Education Policy 2020 alongside Krishna Kumar's 1992 text What Is Worth Teaching to trace the gap between education's imagined goals and its measurable outcomes. The session puts the figure of the teacher \u2014 and participants' own educational journeys \u2014 at the centre, asking who gets left out in the pursuit of \"quality\" education.27th October: Abhishek PanchalClimate communication has leaned so heavily on doomsday narratives that it often produces disengagement instead of action, while pseudo-sustainable habits let people feel involved without shifting the underlying politics. Abhishek Panchal, a research scientist at Ashoka University and former ISRO scientist-engineer, introduces Pralay, a cooperative strategy board game where players navigate competing climate priorities at the individual, state, and global level. Built on storytelling and discussion rather than lecture, the session asks whether an evening around a game table can do what doomsday statistics haven't \u2014 and examines whether it actually shifts attitudes, not just conversation.",
-    "startDate": "2026-10-06T18:30:00+05:30",
-    "endDate": "2026-10-27T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "No 48, Mezzanine & Ground Floor, Atul Grove Road, Janpath, Connaught Place, New Delhi, Delhi 110001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.62697200000000000000",
-        "longitude": "77.21977799999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "550.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/gft-october-edition-in-janpath",
-    "keywords": [
-      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -375,17 +339,17 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Run Like A Girl | Lodhi Gardens",
-    "description": "We are starting our Saturday with a SWAG Run (3.5 KM and 7.5 KM batches).Here's the plan:Meet at the Lizzu Cafe.Warm-up 3.5 KM & 7.5KM Community Run (7.5 KM Run starts at 6:30 AM, 3.5 KM Run starts at 7 AM)Hydration by Fast&UpPost-run refuelling and community social at Lizzu Cafe! (1 coffee & cover charge of INR 200/-)This is a women-only run.If you are a beginner and want to start running, our 3.5KM run is the best place to start. Prepping for the upcoming Marathons? Join the 7.5KM group.The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "name": "Run Like A Girl | Nehru Park",
+    "description": "We are starting our Saturday with a SWAG Run (3.5 KM and 7.5 KM batches).Here's the plan:Meet at the Nehru Park Gate No. 1.Warm-up3.5 KM & 7.5KM Community Run (7.5 KM Run starts at 6:30 AM, 3.5 KM Run starts at 7 AM)Hydration by Fast&UpPost-run refuelling and community social.This is a women-only run.If you are a beginner and want to start running, our 3.5KM run is the best place to start. Prepping for the upcoming Marathons? Join the 7.5KM group.The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
     "startDate": "2026-10-10T06:30:00+05:30",
     "endDate": "2026-10-10T08:00:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "No. 18, Market, Block 13, Lodi Colony, New Delhi, Delhi 110003, India",
+      "address": "H5VV+M56 Nehru park, Nehru Park, Niti Marg, Ramnagar, Chanakyapuri, New Delhi, Delhi 110021, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.58468340000000000000",
-        "longitude": "77.22320940000000000000"
+        "latitude": "28.59416260000000000000",
+        "longitude": "77.19303599999999000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -393,7 +357,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "200.00",
+      "price": "0.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -744,45 +708,6 @@
     "url": "https://urbanaut.app/spot/designing-your-life-the-stanford-way",
     "keywords": [
       "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "A Walk Through Basti Nizamuddin",
-    "description": "Long before it was a monument, it was Ghiyaspur \u2014 a village where a saint's khanqah drew seekers from every walk of life. A stepwell defied a Sultan's orders, a disciple lit a lamp with water instead of oil & earned the name Chiragh-e-Dilli, and a language was born in the meeting of Persian verse with Indian soil. Even today, the courtyard at Urs Mahal fills with Qawwali, keeping that same devotion alive.Silsila Heritage invites you to walk through the Dargah, the Baoli, Chausath Khamba & Urs Mahal \u2014 five stops through a landscape where spirituality & everyday life still meet. Along the way, we'll talk about the Chishti Sufi tradition, the legacy of Amir Khusrau, and how this neighborhood shaped the language, music & culture we've inherited.Whether you know Nizamuddin for its qawwals, its stories, or simply its quiet corners, this walk is a chance to see it as a living tradition rather than a stop on a map!",
-    "startDate": "2026-10-10T16:00:00+05:30",
-    "endDate": "2026-10-10T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Nizamuddin West, New Delhi, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.58921260000000000000",
-        "longitude": "77.24267069999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Silsila Heritage",
-      "url": "https://urbanaut.app/partner/silsilaheritage"
-    },
-    "url": "https://urbanaut.app/spot/a-walk-through-basti-nizamuddin",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
-      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -1572,6 +1497,42 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
+    "name": "GFT: October Edition in Janpath",
+    "description": "Grounds for Thought: October 2026 (Janpath)A Blue Tokai \u00d7 unLecture SeriesGrounds for Thought is a monthly series where Blue Tokai and unLecture bring researchers, scientists, and thinkers out of their institutions and into a coffee shop. The format is simple: an expert, a room full of curious people, and a conversation that goes somewhere a classroom rarely does. October runs across Delhi and Bangalore, moving from temple sculpture to constitutional pedagogy, from parenting in the AI age to the politics of a Bollywood item number.6th October: Harshit BishtYour phone finishes your sentences, your inbox drafts your replies, a chatbot will happily name your business for you \u2014 and it's doing the same for millions of other people at once. Harshit Bisht, a PhD scholar in artificial intelligence at IIT Delhi researching multimodal foundation models for scientific discovery, asks what happens when systems trained on existing culture start setting the default for what counts as a \"good\" or \"natural\" answer, across countries, languages, and ways of seeing the world. Built around everyday experience rather than technical background, the session isn't trying to settle whether AI is good or bad \u2014 only what happens to the differences between us as these tools get better at helping each of us individually.13th October: Prerna VatsWords like \"comprehensive,\" \"flexible,\" and \"excellence\" fill education policy documents, but what do they mean once they reach an actual classroom \u2014 and who decides? Prerna Vats, a PhD scholar in Women and Gender Studies at Ambedkar University and a teacher trainer and sexuality educator, reads the National Education Policy 2020 alongside Krishna Kumar's 1992 text What Is Worth Teaching to trace the gap between education's imagined goals and its measurable outcomes. The session puts the figure of the teacher \u2014 and participants' own educational journeys \u2014 at the centre, asking who gets left out in the pursuit of \"quality\" education.27th October: Abhishek PanchalClimate communication has leaned so heavily on doomsday narratives that it often produces disengagement instead of action, while pseudo-sustainable habits let people feel involved without shifting the underlying politics. Abhishek Panchal, a research scientist at Ashoka University and former ISRO scientist-engineer, introduces Pralay, a cooperative strategy board game where players navigate competing climate priorities at the individual, state, and global level. Built on storytelling and discussion rather than lecture, the session asks whether an evening around a game table can do what doomsday statistics haven't \u2014 and examines whether it actually shifts attitudes, not just conversation.",
+    "startDate": "2026-10-13T18:30:00+05:30",
+    "endDate": "2026-10-27T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "No 48, Mezzanine & Ground Floor, Atul Grove Road, Janpath, Connaught Place, New Delhi, Delhi 110001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.62697200000000000000",
+        "longitude": "77.21977799999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "550.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/gft-october-edition-in-janpath",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
     "name": "Tanupriya Somesh",
     "description": "Tanupriya Somesh is an independent composer duo consisting of Tanupriya Shakya and Somesh Bhadula. Both are composers, with Tanupriya also being the duo\u2019s vocalist, while Somesh focuses on lyrics and production. Together, they create honest, acoustic-led music that blends organic sounds with emotive arrangements and a raw, timeless sensibility.Their debut EP, Mann Chale, explores themes of love, longing, relationships, and introspection through intimate songwriting and melodic arrangements. Their music is rooted in the idea of keeping the song and its emotion at the centre of the listening experience.For Depot48, the proposed performance will be a solo set by Tanupriya Shakya, featuring songs from Mann Chale, selected unreleased originals, and a few carefully chosen covers. The set is particularly suited to Depot48\u2019s intimate live environment, where original, acoustic-led music can connect directly with the audience.Depot48\u2019s focus on independent and original music makes the venue especially relevant to this performance. The intention is to create an intimate, song-focused evening rather than a conventional stage show, giving the audience an opportunity to experience Tanupriya Somesh's music and compositions in a more personal live setting.",
     "startDate": "2026-10-14T21:00:00+05:30",
@@ -1991,6 +1952,43 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Journey Of Hearts - Delhi Open Mic",
+    "description": "Delhi, we\u2019re bringing the mic to you.There\u2019s something about Delhi evenings \u2014 the chai, the long conversations, the stories you hear from strangers and somehow carry back home.On 18th October, we\u2019re creating a little space for those stories.A room where you can bring the poem you\u2019ve been writing in your notes app, the story you\u2019ve never told out loud, a song you\u2019ve been waiting to sing, or simply come sit in the audience and listen.Likhon Dil Se Open Mic is an evening of poetry, stories, music, laughter, and all the feelings in between.No pressure to be perfect.Just come as you are, and say what you\u2019ve been meaning to say.Maybe you\u2019ll leave with a new favourite poem.Maybe a new story.Maybe just a memory of a really good Delhi evening.",
+    "startDate": "2026-10-18T16:00:00+05:30",
+    "endDate": "2026-10-18T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "C-110, near Sapna Cinema Road, beside Janta Bakery, C- Block, Dayanand Colony, Lajpat Nagar 4, Redlight, New Delhi, Delhi 110024, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.56062630000000000000",
+        "longitude": "77.24616180000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "200.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "LIKHON DIL SE",
+      "url": "https://urbanaut.app/partner/likhondilse"
+    },
+    "url": "https://urbanaut.app/spot/journey-of-hearts-delhi-open-mic-17338",
+    "keywords": [
+      "Leisure",
+      "Live GIG",
       "URBANAUT"
     ]
   },
@@ -2517,6 +2515,45 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "A Walk Through Basti Nizamuddin",
+    "description": "Long before it was a monument, it was Ghiyaspur \u2014 a village where a saint's khanqah drew seekers from every walk of life. A stepwell defied a Sultan's orders, a disciple lit a lamp with water instead of oil & earned the name Chiragh-e-Dilli, and a language was born in the meeting of Persian verse with Indian soil. Even today, the courtyard at Urs Mahal fills with Qawwali, keeping that same devotion alive.Silsila Heritage invites you to walk through the Dargah, the Baoli, Chausath Khamba & Urs Mahal \u2014 five stops through a landscape where spirituality & everyday life still meet. Along the way, we'll talk about the Chishti Sufi tradition, the legacy of Amir Khusrau, and how this neighborhood shaped the language, music & culture we've inherited.Whether you know Nizamuddin for its qawwals, its stories, or simply its quiet corners, this walk is a chance to see it as a living tradition rather than a stop on a map!",
+    "startDate": "2026-10-25T16:00:00+05:30",
+    "endDate": "2026-10-25T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Nizamuddin West, New Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.58921260000000000000",
+        "longitude": "77.24267069999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Silsila Heritage",
+      "url": "https://urbanaut.app/partner/silsilaheritage"
+    },
+    "url": "https://urbanaut.app/spot/a-walk-through-basti-nizamuddin",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
       "URBANAUT"
     ]
   },
