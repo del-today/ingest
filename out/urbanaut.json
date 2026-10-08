@@ -113,44 +113,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Baddy with Baddies | Mehrauli",
-    "description": "SWAG Baddy with Baddies is a women-only, badminton meet-up.It is the perfect mid-week reset, with some badminton rallies, quick sets of both doubles and singles followed by a coffee and chit chat at the Reppp Cafe! It can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.Note: Only non-marking sports shoes are allowed on court. Don't have non-marking shoes? No worries - you can rent a pair at the venue of play bare foot.",
-    "startDate": "2026-10-08T20:00:00+05:30",
-    "endDate": "2026-10-08T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "near Qutab Minar Metro Station, Aam Bagh, Ladha Sarai Village, Mehrauli, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.51514850000000000000",
-        "longitude": "77.18640390000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "299.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag10",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Why are Women's Rights a Culture Shock",
     "description": "Delhi has had at least 13 reported cases of rape and sexual assault in the last few weeks. The response from authorities? Restrict entry into parks after sunset. Fewer gates. More barriers. The message, as one writer put it, is not subtle: change your behaviour, change your routine, stay inside.We've heard this before. And we're tired of hearing it.This Friday, we're doing something we've never done before, a Crash Course. Unplanned, unscripted, and responding directly to what's happening in this city right now. Kavita Krishnan, feminist activist, writer, and one of India's most fearless voices on gender and freedom, is coming to talk with us through everything on our minds. We'll be talking about what safety actually means, and who it's really designed for. About why the answer to violence against women keeps ending up as instructions for women. About what freedom looks like in a city that keeps telling half its population to make themselves smaller.Come as you are. Bring your anger, your questions, everything you've been feeling and haven't known where to put.This Friday | 6:30 PM onwards | Blue Tokai, Panchsheel ParkOpen to all. See you there.",
     "startDate": "2026-10-09T18:30:00+05:30",
@@ -789,7 +751,7 @@
     "name": "Safdarjung Tomb: The Last Garden of the Mughals",
     "description": "Step beyond the grand fa\u00e7ade of Safdarjung Tomb and explore one of Delhi\u2019s most evocative late-Mughal monuments.This experience looks closely at the monument- not just as a tomb, but as a carefully designed landscape of gardens, water channels, pavilions, gateways, arches and hidden spaces.Discover the stories behind the Charbagh garden, the central mausoleum, the elegant pavilions known as Moti Mahal, Jangli Mahal and Badshah Pasand, and the architectural details that reveal how Mughal architecture evolved during its later period.",
     "startDate": "2026-10-10T17:00:00+05:30",
-    "endDate": "2026-10-10T18:00:00+05:30",
+    "endDate": "2026-10-25T11:30:00+05:30",
     "location": {
       "@type": "Place",
       "address": "Airforce Golf Course, Delhi Race Club, New Delhi, Delhi 110003, India",
@@ -2213,6 +2175,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "THE QUTUB CODE: Decode stories hidden in stone",
+    "description": "What if the Qutub Minar could tell you the story of Delhi?Step into the Qutub Complex and explore the layers of history, architecture, power and cultural exchange that shaped medieval Delhi. From the soaring Qutub Minar and the intricate Alai Darwaza to the ancient Iron Pillar and the ruins of the Quwwatu\u2019l-Islam Mosque, every stone reveals a different chapter.This is not just a walk around a monument. It is a journey through the making of Delhi- its rulers, ambitions, architectural experiments, conflicts, craftsmanship and forgotten stories.Come for the Qutub Minar. Stay for the stories hidden around it.",
+    "startDate": "2026-10-18T08:30:00+05:30",
+    "endDate": "2026-10-18T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "G5GQ+443, Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52526250000000000000",
+        "longitude": "77.18779690000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "350.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Riwayat Walks",
+      "url": "https://urbanaut.app/partner/riwayatwalks"
+    },
+    "url": "https://urbanaut.app/spot/the-qutub-code-decode-stories-hidden-in-stone",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "How Indians Became Indian-Americans",
     "description": "About the LectureIn 1923, what did it take for an Indian man to be legally counted as \"American\"?Step inside one of the strangest, highest-stakes legal battles in modern history: United States v. Bhagat Singh Thind. At a time when American citizenship was limited to white people and people of African descent, a Sikh man went to the US Supreme Court to argue that he belonged. The Court responded by changing its own rules, overnight shifting the legal definition of \"whiteness\" from scientific classification to \"common man\" prejudice, to keep South Asians out.Lawyer and historian Vishwajeet Deshmukh has worked through archives in India, the United States and the United Kingdom to uncover the hidden layers of the case. Thind's argument, often criticised as promoting caste supremacy, turns out to have been a brilliant, desperate litigation strategy devised by the Ghadar Party, a radical, secular and explicitly anti-caste revolutionary movement. And behind the American courtroom, the British Empire was pulling strings. Terrified that Indian revolutionaries would secure US passports and immunity from British arrest, colonial spies used global surveillance to make sure South Asians were stripped of citizenship.With birthright citizenship back before the US Supreme Court, this story of identity, secret intelligence and a global fight over who gets to belong feels newly urgent.The session explores:How Indians in the United States used the law to fight for citizenship in the 1920sHow the US Supreme Court rewrote the definition of \"whiteness\" to exclude South AsiansThe Ghadar Party's hidden hand in Thind's legal strategyHow British intelligence shaped the outcome of an American court caseAbout the SpeakerVishwajeet Deshmukh is a lawyer and historian whose work focuses on how law creates identities and how legal systems shape them. He has written on the legal history of Anglo-Indians, Jews and South Asian Americans. He holds an LLM from Harvard Law School with a focus on legal history, has spoken at TEDx, and has been a guest lecturer at National Law University Delhi, National Law University Ranchi and Government Law College, Mumbai. He received the Tata Trusts Grant from the 1947 Partition Archive and Ashoka University for his research on the impact of Partition on minorities in India and Pakistan, and the Sutin Prize and Jeannie Shawl Prize from JURIST, University of Pittsburgh. He has clerked at the Bombay High Court and worked as an archival researcher at ETH Z\u00fcrich.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive, unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
     "startDate": "2026-10-18T16:00:00+05:30",
@@ -2774,6 +2774,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Heritage walk at Humayun's tomb",
+    "description": "A guided walk through Delhi\u2019s first garden-tomb, exploring Mughal architecture, charbagh design, and hidden stories.",
+    "startDate": "2026-10-24T16:00:00+05:30",
+    "endDate": "2026-10-24T17:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Hazrat Nizamuddin Aulia Dargah, Mathura Rd, Nizamuddin, Nizamuddin East, New Delhi, Delhi 110013, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59328480000000000000",
+        "longitude": "77.25074920000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "450.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Riwayat Walks",
+      "url": "https://urbanaut.app/partner/riwayatwalks"
+    },
+    "url": "https://urbanaut.app/spot/heritage-walk-at-humayuns-tomb",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Mountain Moon Rock Night",
     "description": "\"Mountain Moon Rock Night ft. HEAVENS DOWN, TIN HATS & BLUE GOLD INDIGO\"Different bands. Different generations. One Rock NightThree bands we believe in. Three bands we believe you should know.HEAVENS DOWN - Delhi\u2019s best-kept Rock \u2019n\u2019 Roll secret.TIN HATS - Seasoned musicians throw out the mainstream rulebook and return to the 90s & 00s rock that shaped them.BLUE GOLD INDIGO - Young, hungry and full of energy \u2014 a band with serious promise.24 OCTOBER | 8 PM | DEPOT 48 | DELHIBest Rock Gig in town. Come hear why !!",
@@ -3155,6 +3193,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Halloween special: Tracing Djinns of Kotla Ferozshah",
+    "description": "TRACING THE DJINNS of FEROZSHAH KOTLA FORT (Halloween Special)As twilight deepens and shadows lengthen across the old walls, we will gather at the main gate of Feroz Shah Kotla. Before us lie crumbling stone portals, hollowed arches, and silent courtyards that once bustled with life in the 14th century under Sultan Feroz Shah Tughlaq.This is no ordinary heritage walk. That evening, we will tread the boundary between history and myth \u2014 stepping into the realm of the djinns said to haunt these ruins, to listen, to judge, and sometimes to grant wishes.Led by expert storyteller and myth-hunter, the walk will weave together folklore, historical lore, and spooky tales when moonlight meets masonry. Expect atmospheric narration, dramatic pauses, unexpected twists \u2014 and maybe a few ghostly encounters.Not for the faint hearted !!Highlights* A guided evening walk through ruins, hidden chambers, and alleyways* Folklore and legends of djinns haunting the fort* Dramatic storytelling under the evening skies* Occasional \u201cmystery stops\u201d and whispers in the dark* A themed ritual (writing wishes / invoking legends) in the end.",
+    "startDate": "2026-10-31T16:00:00+05:30",
+    "endDate": "2026-10-31T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "J6MV+X87, Balmiki Basti, Vikram Nagar, New Delhi, Delhi, 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.63491590000000000000",
+        "longitude": "77.24330530000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/djinkot",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Heritage Walk: Red Fort",
     "description": "A Heritage Walk Through the Red FortStep into the world of Qila e Mubarak, popularly known as the Red Fort, through a specially arranged private heritage walk exploring its history, architecture and cultural traditions.Discover the world of Shah Jahan and the Mughal court, while uncovering stories behind the fort's lesser-known features, including the Nahr e Bihisht, Stream of Paradise, silken qanats and the original artistic traditions of Chatta Chowk.Through engaging storytelling, explore the Red Fort as more than a monument, a royal space shaped by emperors, nobles, artists and forgotten traditions.The language of communication is Hindi and English.Specially Arranged Private Heritage Walk",
     "startDate": "2026-10-31T17:00:00+05:30",
@@ -3383,9 +3459,9 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "ALT EFF 2026 <> CEEW Delhi",
-    "description": "There are times in history that ask something different of us. This is one of them.The 7th edition of the All Living Things Environmental Film Festival returns with stories that don't look away. Films that find beauty in unlikely places, humour in dark times, and communities imagining futures worth fighting for.For one day, we'll gather around cinema that challenges, delights and surprises in equal measure. Expect award winning films from around the world, filmmaker Q&As, unforgettable conversations, great food, drinks, and a room full of people who aren't afraid to ask difficult questions.Pull up a chair.Let's meet the times together.This event is part of ALT EFF's decentralised screenings, proudly presented in partnership with Council on Energy, Environment and Water (CEEW)This is art as witness, joy as resistance, and cinema as a way back to each other. Program10th December 2026, Thursday6:30 - 6:45 PM: Through The Dappled Light (Puneet Raj Singh, Nikita Sharma, Apoorva Sharma / India / 8 mins / Hindi / 2025) 6:45 - 7:00 PM: Before the Fire (Swara Garge and Prakhar Dobhal / India / 11 mins / Hindi / 2026)7:00 - 7:30 PM: Namsing | Preserving A Tradition (Ruella Rahman Khound / India / 21 mins / Assamese, Mising / 2025)7:30 - 7:50 PM: Choora (Anand Rama Krishnan / India / 17 mins / Malayalam / 2024)7:50 - 8:05 PM: Where the Water Hides (Marhaba Hilali / India / 13 mins / Sindhi, Kutchi, Gujarati, Hindi / 2026)8:05 - 8:45 PM: Sincerity of Saryan (Varun Chauva / India / 34 mins / English, Hindi / 2026) ",
-    "startDate": "2026-12-11T17:00:00+05:30",
-    "endDate": "2026-12-11T20:00:00+05:30",
+    "description": "There are times in history that ask something different of us. This is one of them.The 7th edition of the All Living Things Environmental Film Festival returns with stories that don't look away. Films that find beauty in unlikely places, humour in dark times, and communities imagining futures worth fighting for.For one day, we'll gather around cinema that challenges, delights and surprises in equal measure. Expect award winning films from around the world, filmmaker Q&As, unforgettable conversations, great food, drinks, and a room full of people who aren't afraid to ask difficult questions.Pull up a chair.Let's meet the times together.This event is part of ALT EFF's decentralised screenings, proudly presented in partnership with Council on Energy, Environment and Water (CEEW)This is art as witness, joy as resistance, and cinema as a way back to each other. Program10th December 2026, Thursday6:30 - 6:35 PM: Introduction6:35 - 6:50 PM: Choora (Anand Rama Krishnan / India / 17 mins / Malayalam / 2024)6:50 - 7:05 PM: It\u2019s Only 47\u00b0C (Tej Sisodia / India / 16 mins / Hindi / 2026)7:05 - 7:15 PM: Through The Dappled Light (Puneet Raj Singh, Nikita Sharma, Apoorva Sharma / India / 8 mins / Hindi / 2025)7:15 - 7:45 PM: Q&A with the Filmmaker (TBC) 7:45 - 8:00 PM: Where the Water Hides (Marhaba Hilali / India / 13 mins / Sindhi, Kutchi, Gujarati, Hindi / 2026)8:00 - 8:20 PM: Uppuveedukal (Arathi MR / India / 22 mins / Malayalam / 2025)8:20 - 8:30 PM: Before the Fire (Swara Garge and Prakhar Dobhal / India / 11 mins / Hindi / 2026)8:30 - 9:00 PM: Q&A with the Filmmaker (TBC)",
+    "startDate": "2026-12-11T18:00:00+05:30",
+    "endDate": "2026-12-11T21:00:00+05:30",
     "location": {
       "@type": "Place",
       "address": "3, KG Marg, Mandi House, New Delhi, Delhi 110001, India",
@@ -3411,6 +3487,9 @@
     },
     "url": "https://urbanaut.app/spot/alt-eff-2026-delhi",
     "keywords": [
+      "Festival",
+      "Eco Friendly",
+      "Art & culture",
       "URBANAUT"
     ]
   }

@@ -1,23 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "Anka Sessions 01",
-    "url": "https://fillum.in/event/6273",
-    "startDate": "2026-10-08T19:30:00+05:30",
-    "endDate": "2026-10-08T19:30:00+05:30",
-    "description": "Free Entry \u00b7 RSVP RequiredANKA SESSIONS 01 marks the first public chapter of ANKA, an evolving interdisciplinary artistic practice by filmmaker and performance artist Priyanka Sarkar.An eve..more",
-    "location": {
-      "@type": "Place",
-      "name": "STRANGR, GK-1",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Priyanka Sarkar"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "Marmaille(2024)",
     "url": "https://fillum.in/screening/6258",
     "startDate": "2026-10-09T18:30:00+05:30",
@@ -39,7 +22,7 @@
     "url": "https://fillum.in/screening/6286",
     "startDate": "2026-10-09T18:30:00+05:30",
     "endDate": "2026-10-09T18:30:00+05:30",
-    "description": "Free entry. Open to all.",
+    "description": "",
     "location": {
       "@type": "Place",
       "name": "IIC Annexe - Lecture Room I",
@@ -116,6 +99,40 @@
     "organizer": {
       "@type": "Organization",
       "name": "Fillum"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "KINKI(2025)",
+    "url": "https://fillum.in/screening/6301",
+    "startDate": "2026-10-10T16:30:00+05:30",
+    "endDate": "2026-10-10T16:30:00+05:30",
+    "description": "Limited Capacity.In collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress ..more",
+    "location": {
+      "@type": "Place",
+      "name": "Jangpura",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Gonjiam: Haunted Asylum(2018)",
+    "url": "https://fillum.in/screening/6302",
+    "startDate": "2026-10-10T18:30:00+05:30",
+    "endDate": "2026-10-10T18:30:00+05:30",
+    "description": "Limited Capacity.In collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress ..more",
+    "location": {
+      "@type": "Place",
+      "name": "Jangpura",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
     }
   }
 ]
