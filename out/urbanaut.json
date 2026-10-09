@@ -40,117 +40,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Why are Women's Rights a Culture Shock",
-    "description": "Delhi has had at least 13 reported cases of rape and sexual assault in the last few weeks. The response from authorities? Restrict entry into parks after sunset. Fewer gates. More barriers. The message, as one writer put it, is not subtle: change your behaviour, change your routine, stay inside.We've heard this before. And we're tired of hearing it.This Friday, we're doing something we've never done before, a Crash Course. Unplanned, unscripted, and responding directly to what's happening in this city right now. Kavita Krishnan, feminist activist, writer, and one of India's most fearless voices on gender and freedom, is coming to talk with us through everything on our minds. We'll be talking about what safety actually means, and who it's really designed for. About why the answer to violence against women keeps ending up as instructions for women. About what freedom looks like in a city that keeps telling half its population to make themselves smaller.Come as you are. Bring your anger, your questions, everything you've been feeling and haven't known where to put.This Friday | 6:30 PM onwards | Blue Tokai, Panchsheel ParkOpen to all. See you there.",
-    "startDate": "2026-10-09T18:30:00+05:30",
-    "endDate": "2026-10-09T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Basement, Ground floor and First floor Building no. 12, Panchsheel Community Centre, Shahpur Jat, Panchsheel Park, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54805190000000000000",
-        "longitude": "77.21147640000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/crashcourse-why-is-womens-rights-a-culture-shock",
-    "keywords": [
-      "Local",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "When Emotions Get Under Your Skin",
-    "description": "About the TableWhen Emotions Get Under Your SkinAnger, Stress, Relationships and the surprising ways our social environment may influence our biology. By Dr. Ramon LlambaWe tend to think of them as things that happen in our minds. But what if our experiences don\u2019t always stop there?Do the people around us, the stress we carry, and the experiences we live through also influence what happens inside our bodies?For Table #01, we\u2019re following that question beneath the surface.How does the body respond to prolonged stress? Can a difficult relationship become more than an emotional experience? Why do some experiences seem to stay with us long after they\u2019re over? And what can science actually tell us about the connection between the lives we live and the bodies we live them in?The Table is a conversation. You\u2019ll hear from Dr Ramon Llamba, follow your own curiosity, ask the questions you\u2019ve always wondered about, and explore the ideas together with interactive experiences.\u00a0And because good conversations are always better over food & coffee, so grab yourself a coffee or something to eat, settle in, and spend your Friday evening discovering something you probably weren\u2019t talking about last Friday.Come curious. You might leave with some answers and probably with better questions.About the SpeakerDr Ramon LlambaWhat happens when someone trained in quantum physics spends nearly three decades exploring the human mind, body and emotional experience?Dr Ramon Llamba brings an unusually multidisciplinary perspective to the table. With a PhD in Quantum Physics, she is a certified somatic psychotherapist and internationally certified breath work facilitator whose work spans emotional wellbeing, mind-body practices, meditation and personal transformation.She is the founder of Golden Age Isvara, an organisation dedicated to personal transformation and holistic wellbeing, and has spent close to three decades working with people on questions around emotions, behavioural patterns, relationships and the mind-body connection.About The Curious TableThe Curious Table is a Delhi NCR community built for people who haven\u2019t stopped being curious.We create evenings around questions you don\u2019t usually get the chance to explore bringing together people who know fascinating things and people who simply want to understand them over food and drinks.\u00a0One Table might take you inside the biology of emotions. The next could wander into psychology, science, technology, health, history, culture - or something you didn\u2019t know you were curious about yet.Come curious. Pull up a chair.",
-    "startDate": "2026-10-09T18:30:00+05:30",
-    "endDate": "2026-10-09T20:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "No 59, PVR Priya Complex, Basant Lok, Vasant Vihar, New Delhi, Delhi 110057, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55737140000000000000",
-        "longitude": "77.16439730000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1099.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Curious Table",
-      "url": "https://urbanaut.app/partner/the-curious-table"
-    },
-    "url": "https://urbanaut.app/spot/the-curious-table-when-emotions-get-under-the-skin",
-    "keywords": [
-      "Workshop",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "KAASHI in concert for DSIF (Creating Value)",
-    "description": "Get ready for an unforgettable evening of soul-stirring music with Kaashi The Band, blending heart-pounding rock with rich melodies! Every ticket you buy directly powers DSIF\u2019s grassroots mission to transform lives and uplift local communities. Join us for a night where great entertainment meets meaningful impact!",
-    "startDate": "2026-10-09T20:30:00+05:30",
-    "endDate": "2026-10-09T23:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53415570000000000000",
-        "longitude": "77.24300939999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "400.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Depot48",
-      "url": "https://urbanaut.app/partner/depot48"
-    },
-    "url": "https://urbanaut.app/spot/kaashi-in-concert-for-dsif-creating-value",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Dawn Trails & Lakeside Picnic in Delhi NCR",
     "description": "This early morning hiking experience takes you across rocky paths, scenic ridgelines and a picturesque lakeside setting, offering a refreshing escape into nature.The experience brings together gentle adventure, outdoor exploration, group activities and a picnic breakfast, making it suitable for beginners, couples, friends and solo travellers.Participants will be accompanied by experienced hike leaders throughout the trail.The experience also includes a curated picnic breakfast, storytelling, engaging group activities and basic first aid support.Experience Schedule1. Arrival and Meet Up at 5:15 AMReach the starting point by 5:15 AM and meet the rest of the group before setting off.Briefing and Introduction: Get acquainted with the hike leaders as they give you a quick overview of the trail, the experience and what to expect during the morning.2. Sunrise Hike Begins at 5:30 AMBegin the hike at 5:30 AM and follow a guided route through scenic trails, rocky stretches and boulder sections.Enjoy the peaceful morning atmosphere and beautiful views as the landscape comes alive around you.3. Nature Pause and Group ActivitiesTake brief pauses during the hike to soak in the surroundings and discover interesting details about the natural landscape.Participate in fun outdoor activities designed to keep the group engaged and make the experience more interactive.4. Picnic BreakfastStop at a scenic location to unwind and enjoy a curated picnic breakfast.Take some time to relax, connect with the group and enjoy your meal surrounded by nature.5. Walk Back and Wrap Up at 8:30 AMBegin the return walk with the group after the picnic and make your way back to the starting point.",
     "startDate": "2026-10-10T05:30:00+05:30",
@@ -189,17 +78,17 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Run Like A Girl | Nehru Park",
-    "description": "We are starting our Saturday with a SWAG Run (3.5 KM and 5.5 KM batches).Here's the plan:Meet at the Nehru Park Gate No. 1. Warm-up 3.5 KM & 5. 5KM Community Run (5.5 KM Run starts at 6:45 AM, 3.5 KM Run starts at 7 AM)Hydration by Fast&UpPost-run refuelling and community social. This is a women-only run. If you are a beginner and want to start running, our 3.5KM run is the best place to start. Prepping for the upcoming Marathons? Join the 5.5KM group.The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "name": "Run Like A Girl | Deer Park",
+    "description": "We are starting our Sunday with a SWAG Run (3.5 KM and 5.5 KM batches).Here's the plan:Meet at the Deer Park Gate, opposite Centre for Sight, Safdarjung.Warm-up3.5 KM & 5. 5KM Community Run (5.5 KM Run starts at 6:45 AM, 3.5 KM Run starts at 7 AM)Hydration by Fast&UpPost-run refuelling and community social.This is a women-only run. If you are a beginner and want to start running, our 3.5KM run is the best place to start. Prepping for the upcoming Marathons? Join the 5.5KM group.The Community: At Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
     "startDate": "2026-10-10T06:30:00+05:30",
-    "endDate": "2026-10-10T08:00:00+05:30",
+    "endDate": "2026-10-11T09:00:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "H5VV+M56 Nehru park, Nehru Park, Niti Marg, Ramnagar, Chanakyapuri, New Delhi, Delhi 110021, India",
+      "address": "H55R+WC4, Chaudhary Harsukh Marg, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.59416260000000000000",
-        "longitude": "77.19303599999999000000"
+        "latitude": "28.55976950000000000000",
+        "longitude": "77.19107869999999000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -601,80 +490,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Clearing the Smoke and Mirrors",
-    "description": "About the LectureJoin us for a lecture that cuts through the winter blame game:Delhi blames Punjab, Punjab blames Delhi, and everyone blames the weather. So what is actually in the air we breathe?We've all been there: complaining about the AQI, feeling what the air does to our lungs, sleep, skin and routines. Every winter we're handed the same list of culprits: stubble burning, construction dust, industrial emissions, cars, trucks, garbage fires, landfills, brick kilns, diesel generators and, of course, the wind. The panels shout, the season passes, and by next November we're no clearer on which of these actually matters, or by how much.Atmospheric scientist Dr Mohammad Rafiuddin begins with Delhi's meteorology and geography: a landlocked city on the Indo-Gangetic Plain, hemmed in by the Himalayas, with winter air that sits still. It's a bad hand, but not a unique one, and if cities around the world with the same conditions have got their air under control, so can Delhi. From there, we'll go sector by sector through what's actually in the air, and which solutions would genuinely cut emissions from each.The session explores:Why Delhi's geography and winter weather trap pollution, and why that isn't an excuseWhat's actually in Delhi's air: transport, biomass and solid-fuel burning, waste, dust, construction, industry and stubbleWhich sources matter most, and by how muchThe solutions that would genuinely cut emissions, sector by sectorAbout the SpeakerDr Mohammad Rafiuddin is an atmospheric scientist who once built a fog-forecasting system for Bengaluru airport, which means pilots have landed on his maths. He is now Programme Lead \u2013 Clean Air at CEEW, where he researches what Delhi's air is made of, how well the city can predict it, and why the answer never stops at Delhi's border. He holds a PhD in atmospheric sciences from the Jawaharlal Nehru Centre for Advanced Scientific Research, Bengaluru, a Post Graduate Diploma in Urban Environmental Management and Law from National Law University, and a BTech in mechanical engineering from Jawaharlal Nehru Technological University, Hyderabad.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
-    "startDate": "2026-10-10T16:00:00+05:30",
-    "endDate": "2026-10-10T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Vasant Kunj Mall Rd T-306, Third Floor, Ambience Mall, 2, Nelson Mandela Marg, Ambience Island, Vasant Kunj II, Vasant Kunj, New Delhi, Delhi 110070, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54095240000000000000",
-        "longitude": "77.15509150000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "550.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/clearing-the-smoke-and-mirrors",
-    "keywords": [
-      "Eco Friendly",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Raat Ke Afsane : Night walk in Sunder Nursery",
-    "description": "Night Walk in Sunder NurseryStep into history after sunset as we explore Sunder Nursery, a stunning heritage park adjacent to Humayun's Tomb and Nizamuddin Basti. Once part of the Mughal Grand Trunk Road, this space has served as a halting and recreating spot since the Mughal era and it continues to reveal its secrets even today through ongoing excavations.As dusk falls, the garden transforms into a magical world. Walk through beautifully illuminated Mughal-era monuments, wander past serene water bodies, and discover the rare flora and fauna that make this 90-acre heritage park a living museum. With every turn, you'll witness how the past and present blend seamlessly in this award-winning landscape.What to Expect:1. A guided storytelling walk through Sunder Nursery under the night sky.2. Stunning views of Mughal tombs and monuments glowing under soft lights.3. Insights into the garden's evolution from a Mughal halting ground to a UNESCO-recognized heritage park.4. Stories of ongoing excavations and discoveries that keep rewriting Delhi's history.5. A sensory experience of history, architecture, and nature like never before.",
-    "startDate": "2026-10-10T16:30:00+05:30",
-    "endDate": "2026-10-10T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "H6WW+8V, Nizamuddin, National Zoological Park, Sundar Nagar, New Delhi, Delhi 110013, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59582470000000000000",
-        "longitude": "77.24716599999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "650.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Enroute Indian History",
-      "url": "https://urbanaut.app/partner/enrouteindianhistory"
-    },
-    "url": "https://urbanaut.app/spot/night-walk-in-sunder-nursery",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Safdarjung Tomb: The Last Garden of the Mughals",
     "description": "Step beyond the grand fa\u00e7ade of Safdarjung Tomb and explore one of Delhi\u2019s most evocative late-Mughal monuments.This experience looks closely at the monument- not just as a tomb, but as a carefully designed landscape of gardens, water channels, pavilions, gateways, arches and hidden spaces.Discover the stories behind the Charbagh garden, the central mausoleum, the elegant pavilions known as Moti Mahal, Jangli Mahal and Badshah Pasand, and the architectural details that reveal how Mughal architecture evolved during its later period.",
     "startDate": "2026-10-10T17:00:00+05:30",
@@ -707,44 +522,6 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Haunted Walk: Purana Quila",
-    "description": "Ruhani Raatein: Haunted Walk at Purana QilaAs the sun sets behind Delhis ancient ramparts, join us for a moonlit journey through one of the city s oldest forts-Purana Qila, where history whispers and shadows linger.From ghostly legends to chilling ruins, this walk blends myth, mystery, and Mughal-era memories. Are the tales true? Were voices heard in the dark? Come find out for yourself, if you dare.Not just a walk-this is an experience that tingles your spine and stirs your soul.",
-    "startDate": "2026-10-10T17:00:00+05:30",
-    "endDate": "2026-10-10T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Mathura Rd, Near Delhi Zoo, J65V+RFH, Pragati Maidan, New Delhi, Delhi 110001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.60957440000000000000",
-        "longitude": "77.24373709999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "700.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Enroute Indian History",
-      "url": "https://urbanaut.app/partner/enrouteindianhistory"
-    },
-    "url": "https://urbanaut.app/spot/haunted-walk-purana-quila",
-    "keywords": [
-      "Adventure",
-      "Walking Tour",
-      "History & heritage",
       "URBANAUT"
     ]
   },
@@ -1236,7 +1013,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Hot Girls Do Garba",
-    "description": "Time to get the festivities season started, and there's no better place than a Garba Party with the girls!Grab your bestie-or come solo-and hit the dance floor for the ultimate garba party this Sunday! Hot Girls Do Garba by SWAG is a women-only community garba event.Plan is simple. You dress-up, show-up and dance! Don't know the steps? Let's figure it out together, which is the whole point of this community! We're dancing our way through Bollywood bangers, traditional beats and some unexpected hits you won't hear at any other garba in town! Your ticket includes 1 drink (virgin mojito or a pint of beer) and a cover charge worth Rs. 500/-.Whether you're catching up with old friends or meeting new ones, this is the place to celebrate!\u2728 We also have some groups discounts, make sure you book for your besties too!",
+    "description": "Time to get the festivities season started, and there's no better place than a Garba Party with the girls!Grab your bestie-or come solo-and hit the dance floor for the ultimate garba party this Sunday! Hot Girls Do Garba by SWAG is a women-only community garba event.Plan is simple. You dress-up, show-up and dance! Don't know the steps? Let's figure it out together, which is the whole point of this community! We're dancing our way through Bollywood bangers, traditional beats and some unexpected hits you won't hear at any other garba in town!Your ticket includes:1 drink (virgin mojito or a pint of beer) Cover charge worth Rs. 500/-.Jell-O shots for all by Jell-IT (alcoholic & non-alcoholic)Goodies by Pee SafeBrand pop-ups and gamesWhether you're catching up with old friends or meeting new ones, this is the place to celebrate!\u2728 We also have some groups discounts, make sure you book for your besties too!",
     "startDate": "2026-10-11T18:00:00+05:30",
     "endDate": "2026-10-11T21:00:00+05:30",
     "location": {
@@ -1487,6 +1264,43 @@
     "url": "https://urbanaut.app/spot/gft-october-edition-in-janpath",
     "keywords": [
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "UNLECTURE x GULLY LABS: Art History Series",
+    "description": "Tired of the post work scroll-and-sleep routine? Reclaim your weeknights with Out of Office: our new series designed to give your brain a creative break after work! This October Unlecture and Gully Labs is bringing you a series of Art history lectures to fill your cup!Oct 13 | Lolita Dutta \u2014 From Analog to Digital: Transitions in Design   From old-school pencils and B&W photos to pen tabs and AI. A total deep-dive into how design evolved without losing its soul.   Oct 16 | Sanchita Khurana Street View: On Reading a City & Its Walls   City walls are literally talking. We\u2019re reading street art, murals, and graffiti to decode visibility, ownership, and urban vibes.   Oct 23 | Chetna Khanna \u2014 Feminist Art History: Asia Differs from the West   Why copy Western frameworks? Exploring feminist art history through a uniquely Asian lens at the intersection of gender, culture, and society.   Oct 29 | Parul Dave Mukherji \u2014 Who is Afraid of Indian Aesthetics? From the Erotic to the Grotesque   Not everything in classical Indian art is pretty sculptures. Unpacking the dark, fearful, and lowkey 'Halloweenesque' aesthetics.   Pull up, bring your friends, and let\u2019s reframe the vibe!",
+    "startDate": "2026-10-13T19:30:00+05:30",
+    "endDate": "2026-10-29T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "708.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
+    },
+    "url": "https://urbanaut.app/spot/unlecture-x-gully-labs-art-history-series",
+    "keywords": [
+      "History & heritage",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -3149,44 +2963,6 @@
     "url": "https://urbanaut.app/spot/entrepreneurship-workshop-for-students",
     "keywords": [
       "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Halloween party",
-    "description": "Prepare for an afternoon of thrills, chills, and wicked fun. The coven is gathering, the blood-red drinks are flowing, and you're invited to the spookiest Halloween bash in townGrab your brooms, sharpen your fangs, and reserve your spot before it's too late!",
-    "startDate": "2026-10-31T12:00:00+05:30",
-    "endDate": "2026-10-31T16:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "F, 21A, F Block Vijay Nagar, opposite NDPL Office, Block F, GTB Nagar, Delhi, 110033, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.69398980000000000000",
-        "longitude": "77.20426100000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "799.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Creative Rituals",
-      "url": "https://urbanaut.app/partner/creative-rituals"
-    },
-    "url": "https://urbanaut.app/spot/halloweenparty",
-    "keywords": [
-      "Adventure",
-      "Festival",
-      "Food & drink",
       "URBANAUT"
     ]
   },
