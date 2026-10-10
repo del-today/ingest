@@ -1,120 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Mental Health Nature Walk",
-    "description": "A 2-hour guided nature walk that blends adventure, history, and deep presence.We\u2019ll explore trails alongside scientists that are usually not open for public exploration. The place offers sweeping views of the forest canopy. We will walk through centuries old rocks, forest area, and open clearings where the city fades into the background.Along the way, we will engage in simple sensory grounding practices:\ud83e\udeb5Feel the texture of bark and stone under your fingers\ud83e\udd9cListen to the sounds of birds and wind\ud83c\udf42Breathe in the scent of dry earth and wild herbs\ud83e\udebeSense your feet meeting the ancient pathThese moments of quiet attention create an experience that is simultaneously invigorating and restorative: the challenge of the climb and uneven terrain, the curiosity of discovering hidden corners of Aravalli Biodiversity, and the steadying effect of moving slowly and noticing deeply.Carry a bottle of water with you and come ready to walk, climb, listen, and return a little more grounded than when you began.",
-    "startDate": "2026-10-10T10:00:00+05:30",
-    "endDate": "2026-10-10T12:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "G4WX+F5F, Vasant Kunj Institutional Area, Vasant Kunj II, Vasant Kunj, New Delhi, Delhi 110070, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54619790000000000000",
-        "longitude": "77.14793060000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Reset with Nature",
-      "url": "https://urbanaut.app/partner/reset-with-nature"
-    },
-    "url": "https://urbanaut.app/spot/mental-health-nature-walk",
-    "keywords": [
-      "Wellness",
-      "Walking Tour",
-      "Active",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Delhi Sadar Bazaar har gali kuch kehti hai",
-    "description": ":-:-10 years of experience can help you find something new and a perfect purchasing experience.:- I promise if you buy 5k worth of products in the market, that costs around 15k:-This walk helps you with festive decor purchases as well as future purchases: where to buy and what to buy:-This will help you to start your e-commerce business from home/online/(*Hindi /English both languages\u00a0*Its not mandatory to buy anything)1 -Rui Mandi in Sadar Bazar, Delhi, is most famous as a massive wholesale and retail hub for artificial and imitation jewelry, cosmetics, and beauty productsArtificial & Bridal Jewelry: A huge variety of kundan, polki, American diamond (AD), and temple jewelry sets, necklaces, and bangles.Cosmetics & Makeup: Some of the lowest-priced makeup products and beauty essentials in the city.Accessories: Hair accessories, hair clips, handbags, and parlor supplies.Event Decor: Items for mehendi and haldi decorations2 Matke wali gali sadar bazar Crowded market with shops selling items including clothes, electronics, kitchenware and cosmetics at wholesale prices.For more, check the bullet point mention ...",
-    "startDate": "2026-10-10T10:30:00+05:30",
-    "endDate": "2026-10-10T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Sadar Bazar, New Delhi, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.65851050000000000000",
-        "longitude": "77.21273049999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "400.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Pagalkhana",
-      "url": "https://urbanaut.app/partner/pagalkhana"
-    },
-    "url": "https://urbanaut.app/spot/ldelhi-sadar-bazaarkigali",
-    "keywords": [
-      "Local",
-      "Walking Tour",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Why do we overthink everything?",
-    "description": "CURIOUS CONVERSATIONS #01Why Do We Overthink Everything? \ud83e\udde0\ud83d\udcadEver replayed a conversation hours later and wondered, \u201cWhy did I say that?\u201dOr spent way too long deciding between two perfectly good options?Or created 17 possible scenarios in your head before anything has even happened?You\u2019re probably not the only one. ;)Curious Conversations is bringing together a group of girls of honest, interesting conversations around one very familiar habit \u2014 overthinking.We\u2019ll explore:\u2728 Why does our brain turn tiny things into big questions?\u2728 Do we overthink because we care too much, fear getting it wrong, or simply can\u2019t switch off?\u2728 When does thinking things through become too much thinking?\u2728 And is there actually a way to make peace with our wonderfully overactive minds?This isn\u2019t a workshop, therapy session or networking event.It\u2019s simply good questions, unexpected perspectives and conversations with people you\u2019ve just met.Come curious. Leave with a few new perspectives \u2014 and maybe a little less to overthink. \ud83c\udf3fLimited spots | Come solo or bring a friend.",
-    "startDate": "2026-10-10T11:00:00+05:30",
-    "endDate": "2026-10-10T12:15:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "H3 A, Block H, Green Park Extension, Green Park, New Delhi, Delhi 110016, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55989790000000000000",
-        "longitude": "77.20584860000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "679.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Curious Conversations",
-      "url": "https://urbanaut.app/partner/curious-conversations"
-    },
-    "url": "https://urbanaut.app/spot/why-do-we-overthink-everything",
-    "keywords": [
-      "Workshop",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Cyanotype Workshop",
     "description": "The workshop on the Cyanotype Process is an immersive one-day workshop where the participants learn the historic 19th century printmaking process and get to create their own unique handmade prints on both paper & fabric and take them home.Structure of the workshop:History of Cyanotype - Learn about the origin of Cyanotype, an alternative printing technique through a brief presentation.Science of Cyanotype - Mix chemicals and coat your own surfaces in a hands-on darkroom setting.Creation & Patience - Compose with natural elements and watch your images develop through light and time.Your Final Prints - Wash and finish the prints you've created to take home.Frequently asked questions:Is there any prior knowledge needed to attend this workshop?No, there is no prior knowledge needed for this workshop.Is there an age restriction for this workshop?Yes, the workshop is meant for 15 years and older.If there is no sun how would the workshop be conducted?On the days where the sun is not there we have an artificial source of UV light that can be used.Does cyanotype only work with leaves and other natural materials?No, cyanotype can be done with any flat object, we at Museo, also have some stock negatives that can be used during the workshop.Do we as participants need to bring anything?No, all equipment and materials will be provided by Museo.What is the recommended attire for the workshop?Comfortable clothing and shoes are recommended for the workshop.Will lunch be provided?Each participant will receive a 15% discount at the museum cafe.How many prints will I be able to make in the workshop?Each participant will make 10 paper prints and a fabric print, which they can take home.Once the workshop is over, how can I continue to practice the process?You can book the darkroom or you can buy the chemicals from us to create the solution and make prints at home. For both of them you would have to write to us at workshops@museocamera.orgIs Cyanotype safe?Yes, cyanotype is one of the safest photographic processes out there.Meet your trainers Aditya AryaLead facilitator 45+ years of experience Photographer, historian and Founder-Director of Museo Camera with years of experience across advertising and fine art, he champions the slowness of analog processes. He practices and teaches historic techniques like cyanotype and wet plate collodion, keeping them alive through hands-on learning.https://www.adityaarya.com/Khushi Upadhyay Assistant 2+ years of experience She is a photographer working with analog and alternative processes, embracing slowness while guiding others to do the same. Rooted in light and material, she leads cyanotype and historic process workshops through hands-on, immersive image-making.",
@@ -184,192 +70,6 @@
       "Music",
       "History & heritage",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "bad art, good chat",
-    "description": "For everyone who stopped making art because they decided they were \u201cbad\u201d at it.We\u2019re bringing it back. Badly.Paint something questionable. Doodle outside the lines. Make a masterpiece only a mother could love. No talent required. In fact, it might be an advantage.Once we\u2019ve sufficiently embarrassed ourselves artistically, we\u2019ll put the brushes down for a Listening Circle \u2014 a few fun prompts, a few real ones, and conversations that could go pretty much anywhere.No need to be artistic. No need to know anyone.Just come ready to make, listen, share and have a good time. \ud83d\udc9c\ud83d\udcc5 Saturday, 10 October | 12:30\u20132:30 PM\ud83d\udccd FabCafe, Lajpat Nagar\ud83c\udfa8 All art supplies included\ud83c\udf74 \u20b9100 F&B credit includedCome solo or bring a friend.We promise not to judge your art or your stories.For help, DM @ukiyocollective_",
-    "startDate": "2026-10-10T12:30:00+05:30",
-    "endDate": "2026-10-10T14:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "First Floor, Fabindia Experience Centre, 44, Ring Rd, Block H, Lajpat Nagar III, Lajpat Nagar, New Delhi, Delhi 110024, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.56558910000000000000",
-        "longitude": "77.23802880000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "424.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Ukiyo Collective",
-      "url": "https://urbanaut.app/partner/ukiyo"
-    },
-    "url": "https://urbanaut.app/spot/bad-art-good-chat",
-    "keywords": [
-      "Leisure",
-      "Workshop",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Wick & Whims- A Candle-Making Social",
-    "description": "Step into a warm, creative space and spend a few hours making something beautiful with your own hands. Wick & Whimsy is a hands-on candle-making experience where you\u2019ll learn the basics of candle making, explore fragrances, play with colours and design, and create your very own scented candle to take home.Whether you\u2019re a complete beginner, an art lover, or simply looking for a fun way to spend your evening, this workshop is designed to be relaxed, social and creative. Come solo, bring a friend, or meet someone new while creating something that smells as good as it looks.No prior experience required - just bring your curiosity!",
-    "startDate": "2026-10-10T13:00:00+05:30",
-    "endDate": "2026-10-10T15:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "13-B, Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55455900000000000000",
-        "longitude": "77.19440500000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1900.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Art Social",
-      "url": "https://urbanaut.app/partner/the-art-social"
-    },
-    "url": "https://urbanaut.app/spot/candle-making-theartsocial",
-    "keywords": [
-      "Workshop",
-      "Food & drink",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Tracing Mughal Grandeur beyond Humayun's Tomb",
-    "description": "Delhi, often associated with iconic Mughal monuments like the Red Fort and Humayun's Tomb, also nestles many lesser-known sites that offer a quieter, more intimate glimpse into the Mughal grandeur. One such place is the Khan-i-Khana Tomb, located next to Humayun's Tomb in the bustling Nizamuddin area.The tomb stands as a silent yet eloquent reminder of the syncretic era when art, architecture, and culture flourished. It isn\u2019t just a monument ; it is a testament to reflects the importance of people other than the rulers who played a key role in shaping the Mughal Empire.Join us this Saturday to get a glimpse into the life and lore of Khan - i- Khanan and the many shades of the capital.",
-    "startDate": "2026-10-10T15:00:00+05:30",
-    "endDate": "2026-10-10T17:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Nizamuddin, Jaipur Estata, Nizamuddin East, New Delhi, Delhi 110013, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.58806270000000000000",
-        "longitude": "77.24801400000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "700.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Samvad",
-      "url": null
-    },
-    "url": "https://urbanaut.app/spot/tracing-mughal-grandeur-beyond-humayuns-tomb",
-    "keywords": [
-      "History & heritage",
-      "Guided tour",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "#lecture: The Magic of Boredom",
-    "description": "How do you get the ideas behind your short stories? Someone had asked the Russian writer Anton Chekhov. Reportedly, Chekhov had responded: \u201cPut your cigarette on this ash-tray and I\u2019ll write a story about it.\u201dThis response presents the perfect picture of modern literature that came into existence with the popularisation of print culture and the making of novels and short stories.Classical epics, oral tales, and myths and legends of the past took a great, telescopic view of grand subjects, particularly those of war and romance, in a world full of magic and fantasy populated by gods and kings.This lecture will show how modern literature, shaped by the rhythm of the factory, dominated by clock-time and full of industrial workers and a middle class, turned to everyday themes that resonated with ordinary people, and focused a microscopic lens on the small magic of the cigarette on the ash-tray.About the Speaker\u00a0Saikat Majumdar is a novelist, critic and educator. He taught literature at Stanford University for nine years, has been a fellow at Wellesley College, the institutes of Advanced Study in JNU, Stellenbosch, Budapest, and Brasov, and is currently Professor of English & Creative Writing at Ashoka University.He is the author of five novels, most recently, The Remains of the Body, published as Penguin Random House\u2019s 2024 Pride Month Selection. His other novels include The Scent of God (2019), a story of love between two teenage boys in a Hindu monastic boarding school, The Firebird (2015), which narrates a young boy\u2019s destructive obsession with his mother\u2019s life as an actress, and The Middle Finger (2022), a queer, contemporary college-campus retelling of the Ekalavya story.He has also published four books of nonfiction and criticism, including Open Intelligence: Education between Art and Artificial (2026), which outlines possibilities for education in the age of Artificial Intelligence with particular attention to the changing definitions of talent, merit, and career, The Amateur, a book about people who learned to read and write without proper educational support, and College: Pathways of Possibility (2018), a popular book on interdisciplinary liberal arts education in India.\u00a0",
-    "startDate": "2026-10-10T15:00:00+05:30",
-    "endDate": "2026-10-10T17:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "32nd avenue, Sector 15 Part 2, Sector 15, Gurugram, Haryana 122001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46145160000000000000",
-        "longitude": "77.04983410000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "899.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Pint of View Delhi NCR",
-      "url": "https://urbanaut.app/partner/pint-of-view-delhi-ncr"
-    },
-    "url": "https://urbanaut.app/spot/lecture-the-magic-of-boredom",
-    "keywords": [
-      "Live GIG",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Designing Your Life, The Stanford Way",
-    "description": "About the LectureWhat if the life you're living right now is one you drifted into by default, not one you chose?We are born into stories, about success, work, money, relationships, identity and what a good life should look like. Somewhere along the way, those stories start to feel like our own, and a life shaped by default begins to feel like one shaped by choice.Stanford's Designing Your Life offers another way to look at it: life as something you can actively design. That doesn't mean finding one \"true\" self or one perfect path. It means moving towards self-authorship: questioning the narratives you inherited, imagining different futures, and accepting that there may be more than one life within you worth living.Design turns out to be an unusually useful lens for this, because it doesn't require you to know the answer before you begin. It lets you work with ambiguity, hold several possibilities at once, and experiment rather than predict. In a world where lives are increasingly nonlinear, that may be more useful than having a perfect plan.The session explores:How inherited social narratives quietly become the stories we live byWhy there may be more than one life within us worth livingHow designers work with ambiguity, and why that matters for life decisionsMoving from a life by default to a life by design: question, imagine, prototypeAbout the SpeakerNavyug Mohnot is a Stanford-certified Designing Your Life educator, coach and facilitator, a visiting faculty member at ISB and Ashoka University, and the founder and CEO of QAI Global. He is a certified leadership coach from Harvard University, has spoken at conferences around the world, and is a TEDx speaker (\"Manifesting Desires, Embracing Contradictions\"). He has coached professionals across the globe, served on company boards, and mentored startups as an angel investor. Navyug did his B.Tech at IIT Delhi and received the \"Outstanding Contribution to National Development\" award from the IIT Delhi Alumni Association. Outside work, he meditates, runs a film club, loves art, film and architecture, and hopes to direct a full-length film someday.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
-    "startDate": "2026-10-10T15:00:00+05:30",
-    "endDate": "2026-10-10T17:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53415570000000000000",
-        "longitude": "77.24300939999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/designing-your-life-the-stanford-way",
-    "keywords": [
-      "Workshop",
       "URBANAUT"
     ]
   },
@@ -747,6 +447,41 @@
       "Local",
       "Walking Tour",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Blood on the Clocktower - A Social Deduction Game!",
+    "description": "\u200b\u200b\u200b\u200bBotC is a game of murder and mystery, lies and logic, deduction and deception for five-to-twenty courageous players and one devious storyteller.A social game played in person, seated in a circle, each player receives either a \u2018good\u2019 or \u2018evil\u2019 token with their unique character on it. Good players share information to solve the mystery whilst evil players lie about who they are and what they know. The good team wins if they can piece together their knowledge, trust each other, and execute the demon. The evil team wins if the demon can sow distrust, evade detection, and wipe out the town.",
+    "startDate": "2026-10-11T15:00:00+05:30",
+    "endDate": "2026-10-11T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gate no 3, 4/23-B, Asaf Ali Rd, opp. Metro Station, Old Delhi, Chatta lal Miya, Delhi Gate, Daryaganj, New Delhi, Delhi, 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64083430000000000000",
+        "longitude": "77.23897370000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "250.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Table Top Games Club",
+      "url": "https://urbanaut.app/partner/the-table-top-games-club"
+    },
+    "url": "https://urbanaut.app/spot/blood-on-the-clocktower-a-social-deduction-game",
+    "keywords": [
       "URBANAUT"
     ]
   },
@@ -1837,6 +1572,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Gut Feeling",
+    "description": "The Gut Feeling is a 5 piece Band featuring Tanvi Samaddar on vocals, Saniya Dhawan on bass, Tushant Naugain on guitar, Moksh Dhawan on keys and Nikhil Negi on Drums. They are a cover band playing music you can feel in your gut. Expect everything from Lake Street Dive, Michael Jackson, Nubian Twist to Hiatus Kaiyote, Raye, The Beatels and many more.",
+    "startDate": "2026-10-17T22:00:00+05:30",
+    "endDate": "2026-10-17T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/the-gut-feeling",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Delhi Ridge: From Empires to the Uprising",
     "description": "Long before Delhi expanded into the metropolis we know today, a rocky ridge defined its geography, protected its settlements, and silently witnessed the rise and fall of empires. Delhi Ridge: From Empires to the Uprising explores this remarkable landscape where natural history and human history have remained inseparable for more than two thousand years. From Mauryan inscriptions and Sultanate monuments to colonial memorials and battlefields, every stop reveals how the ridge repeatedly became the stage upon which Delhi's destiny unfolded.The experience traces the ridge's transformation across different eras, culminating in the dramatic events of the Revolt of 1857, when these elevated grounds became the decisive military position during the Siege of Delhi. Yet beyond the conflict lies a deeper story of ecology influencing empire, geography shaping political power, and landscapes preserving memories long after kingdoms disappeared. Through archaeological remains, historic structures, and carefully researched narratives, participants discover how this overlooked terrain offers one of the most compelling lenses through which to understand Delhi's layered past and its enduring relationship with the land itself.Detailed Flow of WalkIntroduction to the geological and historical significance of Delhi Ridge.Visit Flagstaff Tower to understand its strategic importance during the Revolt of 1857.Walk towards Khooni Khan Jheel while discussing ecology, water bodies and local folklore.Explore Chauburja Masjid and understand the Sultanate presence along the ridge.Visit Pir Ghaib and uncover the legends surrounding this unique observatory.Visit the Ashokan Pillar and discuss the Mauryan Empire and the movement of ancient inscriptions.Conclude at the Mutiny Memorial with a balanced interpretation of the Siege of Delhi, colonial narratives and India's struggle for independence.Closing discussion on the relationship between landscape, warfare and memory.Key Themes & Highlights Delhi Sultanate Revolt of 1857 Military history Colonial Delhi Archaeology Natural heritage ",
@@ -2325,40 +2098,39 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Heritage Walk : Shadows of Jahanpanah",
-    "description": "Among Delhi's many historic cities, Jahanpanah remains perhaps the most elusive. Conceived in the fourteenth century as an ambitious attempt to unite earlier settlements within a single fortified capital, it was envisioned as a city without precedent. Today, however, its grand design survives only in fragments\u2014hidden mosques, crumbling walls, forgotten reservoirs, and scattered monuments quietly woven into the modern city. Shadows of Jahanpanah seeks to reconnect these surviving pieces and reveal the extraordinary vision that once shaped this landscape.As participants move through its surviving monuments, the experience explores the political ambitions of the Delhi Sultanate, the ingenuity of medieval urban planning, and the architectural innovations that distinguished this remarkable capital. Beyond the monuments themselves lie larger questions about memory, impermanence, and the cities history chooses to celebrate or forget. Through historical interpretation, architectural observation, and compelling storytelling, the walk reconstructs a city that has almost vanished from sight, inviting participants to imagine the scale, complexity, and ambition of one of medieval India's most fascinating experiments in urban design.Detailed Flow of WalkIntroduction to Jahanpanah vision of Delhi's fourth city.Visit Satpula and examine medieval hydraulic engineering and defensive architecture.Explore Khirki Masjid while understanding the evolution of Sultanate mosque architecture.Visit Shaikh Yusuf Qattal's Tomb and discuss Sufi traditions during the Delhi Sultanate.Explore Begumpur Masjid, one of Delhi's grandest congregational mosques, and its urban significance.Conclude at Bijay Mandal while reconstructing the scale and ambition of Jahanpanah's royal citadel.Final discussion on medieval urban planning, the rise and decline of imperial cities, and the importance of preserving Delhi's lesser-known heritage.Key Themes & Highlights Tughlaq & Khilji dynastyMedieval urban planningSultanate architectureWater managementForgotten city of DelhiMonumental mosquesHidden heritage",
-    "startDate": "2026-10-24T09:00:00+05:30",
-    "endDate": "2026-10-24T12:00:00+05:30",
+    "@type": "FoodEvent",
+    "name": "DDC presents \u201cDisco Fever\u201d",
+    "description": "What do you get when you mix 5 veteran musicians with tight vocal harmonies, explosive live energy and an endless supply of the best party hits?  The time of your f\u2019n life!The DDC is a Delhi-based band that plays timeless party and dance anthems across all eras and genres. Comprising of seasoned musicians from the Delhi scene namely: Abhimanyu Pratap on keys and vocals Amar Pandey on bass and vocals Mayank Lawrence on guitar and vocals(subbed in by Siddhant for this show)Sherry Mathiews on Vocals and percussions Nikhil Vasudevan on Drums and VocalsDDC Nights at Depot48 promises to be a groovey, jivey, funky night for those who are looking to let their hair down and Freak out to some good ol\u2019 disco and dance the night away! All aboard The DDC Express, Final destination: Ze Dance Floor!!",
+    "startDate": "2026-10-23T22:00:00+05:30",
+    "endDate": "2026-10-23T23:30:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "88C, Press Enclave Marg, Khirki Extension, Malviya Nagar, New Delhi, Delhi 110017, India",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.53105060000000000000",
-        "longitude": "77.22182579999999000000"
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
+    "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
-      "price": "800.00",
+      "price": "500.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Trip Warden",
-      "url": "https://urbanaut.app/partner/trip-warden"
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
     },
-    "url": "https://urbanaut.app/spot/heritage-walk-shadows-of-jahanpanah",
+    "url": "https://urbanaut.app/spot/ddc-presents-disco-fever",
     "keywords": [
-      "Local",
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
+      "Live GIG",
+      "Music",
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -2922,6 +2694,45 @@
     },
     "url": "https://urbanaut.app/spot/djinkot",
     "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Heritage Walk : Shadows of Jahanpanah",
+    "description": "Among Delhi's many historic cities, Jahanpanah remains perhaps the most elusive. Conceived in the fourteenth century as an ambitious attempt to unite earlier settlements within a single fortified capital, it was envisioned as a city without precedent. Today, however, its grand design survives only in fragments\u2014hidden mosques, crumbling walls, forgotten reservoirs, and scattered monuments quietly woven into the modern city. Shadows of Jahanpanah seeks to reconnect these surviving pieces and reveal the extraordinary vision that once shaped this landscape.As participants move through its surviving monuments, the experience explores the political ambitions of the Delhi Sultanate, the ingenuity of medieval urban planning, and the architectural innovations that distinguished this remarkable capital. Beyond the monuments themselves lie larger questions about memory, impermanence, and the cities history chooses to celebrate or forget. Through historical interpretation, architectural observation, and compelling storytelling, the walk reconstructs a city that has almost vanished from sight, inviting participants to imagine the scale, complexity, and ambition of one of medieval India's most fascinating experiments in urban design.Detailed Flow of WalkIntroduction to Jahanpanah vision of Delhi's fourth city.Visit Satpula and examine medieval hydraulic engineering and defensive architecture.Explore Khirki Masjid while understanding the evolution of Sultanate mosque architecture.Visit Shaikh Yusuf Qattal's Tomb and discuss Sufi traditions during the Delhi Sultanate.Explore Begumpur Masjid, one of Delhi's grandest congregational mosques, and its urban significance.Conclude at Bijay Mandal while reconstructing the scale and ambition of Jahanpanah's royal citadel.Final discussion on medieval urban planning, the rise and decline of imperial cities, and the importance of preserving Delhi's lesser-known heritage.Key Themes & Highlights Tughlaq & Khilji dynastyMedieval urban planningSultanate architectureWater managementForgotten city of DelhiMonumental mosquesHidden heritage",
+    "startDate": "2026-10-31T16:00:00+05:30",
+    "endDate": "2026-10-31T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "88C, Press Enclave Marg, Khirki Extension, Malviya Nagar, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53105060000000000000",
+        "longitude": "77.22182579999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Trip Warden",
+      "url": "https://urbanaut.app/partner/trip-warden"
+    },
+    "url": "https://urbanaut.app/spot/heritage-walk-shadows-of-jahanpanah",
+    "keywords": [
+      "Local",
       "Walking Tour",
       "History & heritage",
       "Guided tour",
