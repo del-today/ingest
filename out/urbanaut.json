@@ -75,6 +75,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Wick & Whims- A Candle-Making Social",
+    "description": "Step into a warm, creative space and spend a few hours making something beautiful with your own hands. Wick & Whimsy is a hands-on candle-making experience where you\u2019ll learn the basics of candle making, explore fragrances, play with colours and design, and create your very own scented candle to take home.Whether you\u2019re a complete beginner, an art lover, or simply looking for a fun way to spend your evening, this workshop is designed to be relaxed, social and creative. Come solo, bring a friend, or meet someone new while creating something that smells as good as it looks.No prior experience required - just bring your curiosity!",
+    "startDate": "2026-10-10T13:00:00+05:30",
+    "endDate": "2026-10-17T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "13-B, Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55455900000000000000",
+        "longitude": "77.19440500000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1900.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Art Social",
+      "url": "https://urbanaut.app/partner/the-art-social"
+    },
+    "url": "https://urbanaut.app/spot/candle-making-theartsocial",
+    "keywords": [
+      "Workshop",
+      "Food & drink",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Safdarjung Tomb: The Last Garden of the Mughals",
     "description": "Step beyond the grand fa\u00e7ade of Safdarjung Tomb and explore one of Delhi\u2019s most evocative late-Mughal monuments.This experience looks closely at the monument- not just as a tomb, but as a carefully designed landscape of gardens, water channels, pavilions, gateways, arches and hidden spaces.Discover the stories behind the Charbagh garden, the central mausoleum, the elegant pavilions known as Moti Mahal, Jangli Mahal and Badshah Pasand, and the architectural details that reveal how Mughal architecture evolved during its later period.",
@@ -108,41 +146,6 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Bollywood Trivia night by Afterdark MIXTable",
-    "description": "Bollywood lovers, your Saturday just got a LOT more interesting. \ud83c\udfac\u2728Because this one is for the people who know the movie from one dialogue, recognise a song in 3 seconds and somehow remember who said what in which scene.AFTER DARK MIXTABLE presents...BOLLYWOOD TRIVIA NIGHTA night of movies, music, iconic characters, unforgettable dialogues, unexpected twists and some serious Bollywood bragging rights.Come with your gang or come solo. We will team you up at the event, so you don't need to worry about finding a team.And yes, there is something to take home.\ud83c\udfc5 Medals for the winning team and a Gift\ud83c\udf81 A special prize for our early birdsNo food cover. Just bring your Bollywood brain.Think you know Bollywood?Let's see. \ud83d\udc40Tickets are LIVE. Grab yours before the seats disappear.",
-    "startDate": "2026-10-10T18:30:00+05:30",
-    "endDate": "2026-10-10T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "3rd Floor, South Point Mall, Unit No. 312-A, DLF Phase 5, Sector 53, Gurugram, Haryana 122011, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.44756350000000000000",
-        "longitude": "77.09948450000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "699.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The MIXTable",
-      "url": "https://urbanaut.app/partner/the-mixtable"
-    },
-    "url": "https://urbanaut.app/spot/bollywood-trivia-night-by-afterdark-mixtable",
-    "keywords": [
       "URBANAUT"
     ]
   },
@@ -291,44 +294,6 @@
       "url": "https://urbanaut.app/partner/riwayatwalks"
     },
     "url": "https://urbanaut.app/spot/puranaqila",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Humayun's Tomb : Heritage Walk",
-    "description": "About the ExperienceExplore the Humayun's Tomb complex on a guided heritage walk and learn about its history, architecture, and cultural significance. Built in the 16th century by Haji Begum in memory of Emperor Humayun, the monument is one of the earliest examples of Mughal garden tomb architecture in India.The walk covers the main mausoleum along with other important monuments within the complex, including Isa Khan's Tomb, Arab Sarai, Barber's Tomb, the mosque, and Afsarwala's Tomb. Throughout the experience, the storyteller will share historical context, architectural features, and interesting facts about the site.The walk is conducted at a comfortable pace and includes opportunities for questions and photography.",
-    "startDate": "2026-10-11T09:00:00+05:30",
-    "endDate": "2026-10-11T11:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Hazrat Nizamuddin Aulia Dargah, Mathura Rd, Nizamuddin, Nizamuddin East, New Delhi, Delhi 110013, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59328480000000000000",
-        "longitude": "77.25074920000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "650.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Enroute Indian History",
-      "url": "https://urbanaut.app/partner/enrouteindianhistory"
-    },
-    "url": "https://urbanaut.app/spot/humayuns-tomb-heritage-walk",
     "keywords": [
       "Walking Tour",
       "History & heritage",
@@ -629,42 +594,6 @@
       "Music",
       "History & heritage",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The FishMarket #2",
-    "description": "A FishMarket isn't a lecture. It's a room full of concerned citizens trying to solve a problem together.This one is about something we all experience every single day, and almost never stop to actually diagnose.Moving through a city should be simple. And yet an ordinary journey on foot, by bicycle, motorcycle or car routinely becomes an exercise in negotiation. The footpath disappears into parking. The pedestrian steps onto the road. The rider squeezes through a gap that probably shouldn't exist. The car stops wherever space appears. Each decision seems reasonable to the person making it. Together, they produce confusion, delay, and risk.But here's what we rarely ask: is this actually about bad civic sense? Or is it about a street that was designed without ever considering how people actually use it?This FishMarket will investigate how everyday disorder is created across the entire street. We'll will diagnose situations. We'll ask who or what shapes them. And then we'll move from diagnosis to solutions, examining which responsibilities belong to citizens, drivers, vendors, planners and authorities, and what changes in behaviour, rules, or design could actually help.Come ready to observe, challenge easy assumptions, and propose a better way for everyone to share the city.",
-    "startDate": "2026-10-11T18:00:00+05:30",
-    "endDate": "2026-10-11T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Gate No. 1, Bahadur Shah Zafar Marg, inside Shaheedi park, Balmiki Basti, Vikram Nagar, New Delhi, Delhi, 110002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.63445520000000000000",
-        "longitude": "77.24131700000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "250.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/the-fishmarket-2",
-    "keywords": [
-      "Local",
       "URBANAUT"
     ]
   },
@@ -2430,6 +2359,44 @@
     "keywords": [
       "Walking Tour",
       "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "bad art club",
+    "description": "For everyone who stopped making art because they decided they were \u201cbad\u201d at it.We\u2019re bringing it back. Badly.Paint something questionable. Doodle outside the lines. Make a masterpiece only a mother could love. No talent required. In fact, it might be an advantage.Once we\u2019ve sufficiently embarrassed ourselves artistically, we\u2019ll put the brushes down for a Listening Circle \u2014 a few fun prompts, a few real ones, and conversations that could go pretty much anywhere.No need to be artistic. No need to know anyone.Just come ready to make, listen, share and have a good time. \ud83d\udc9c\ud83d\udcc5 Saturday, 10 October | 12:30\u20132:30 PM\ud83d\udccd FabCafe, Lajpat Nagar\ud83c\udfa8 All art supplies included\ud83c\udf74 \u20b9100 F&B credit includedCome solo or bring a friend.We promise not to judge your art or your stories.For help, DM @ukiyocollective_",
+    "startDate": "2026-10-25T12:30:00+05:30",
+    "endDate": "2026-10-25T14:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "First Floor, Fabindia Experience Centre, 44, Ring Rd, Block H, Lajpat Nagar III, Lajpat Nagar, New Delhi, Delhi 110024, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.56558910000000000000",
+        "longitude": "77.23802880000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "424.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Ukiyo Collective",
+      "url": "https://urbanaut.app/partner/ukiyo"
+    },
+    "url": "https://urbanaut.app/spot/bad-art-club",
+    "keywords": [
+      "Leisure",
+      "Workshop",
       "Art & culture",
       "URBANAUT"
     ]
