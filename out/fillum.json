@@ -1,40 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "Noroi: The Curse(2005)",
-    "url": "https://fillum.in/screening/6299",
-    "startDate": "2026-10-10T12:00:00+05:30",
-    "endDate": "2026-10-10T12:00:00+05:30",
-    "description": "Limited Capacity.In collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress ..more",
-    "location": {
-      "@type": "Place",
-      "name": "Jangpura",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Out of Sequence"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "The Beyond(1981)",
-    "url": "https://fillum.in/screening/6300",
-    "startDate": "2026-10-10T14:30:00+05:30",
-    "endDate": "2026-10-10T14:30:00+05:30",
-    "description": "Limited Capacity.In collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress ..more",
-    "location": {
-      "@type": "Place",
-      "name": "Jangpura",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Out of Sequence"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "Time is Never Ripe - Works by Raqs Collective",
     "url": "https://fillum.in/event/6271",
     "startDate": "2026-10-10T15:00:00+05:30",
@@ -69,15 +35,15 @@
   },
   {
     "@type": "ScreeningEvent",
-    "name": "KINKI(2025)",
-    "url": "https://fillum.in/screening/6301",
-    "startDate": "2026-10-10T16:30:00+05:30",
-    "endDate": "2026-10-10T16:30:00+05:30",
-    "description": "Limited Capacity.In collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress ..more",
+    "name": "Santa sangre(1989)",
+    "url": "https://fillum.in/screening/5929",
+    "startDate": "2026-10-11T12:00:00+05:30",
+    "endDate": "2026-10-11T12:00:00+05:30",
+    "description": "Jodorowsky's Santa Sangre explores the extreme (yes: perverse) ties between a boy and his mother with macabre, Fellini-esque verve.",
     "location": {
       "@type": "Place",
-      "name": "Jangpura",
-      "address": "Delhi"
+      "name": "mool, south ex II",
+      "address": "South Ex II, New Delhi"
     },
     "organizer": {
       "@type": "Organization",
@@ -86,19 +52,53 @@
   },
   {
     "@type": "ScreeningEvent",
-    "name": "Gonjiam: Haunted Asylum(2018)",
-    "url": "https://fillum.in/screening/6302",
-    "startDate": "2026-10-10T18:30:00+05:30",
-    "endDate": "2026-10-10T18:30:00+05:30",
-    "description": "Limited Capacity.In collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress ..more",
+    "name": "Roma(1972)",
+    "url": "https://fillum.in/screening/5930",
+    "startDate": "2026-10-11T14:30:00+05:30",
+    "endDate": "2026-10-11T14:30:00+05:30",
+    "description": "Travelogue, memoir, and outrageous cinematic spectacle converge in this kaleidoscopic valentine to the Eternal City, composed by one of its most iconic inhabitants. Leisurely one moment and breathle..more",
     "location": {
       "@type": "Place",
-      "name": "Jangpura",
-      "address": "Delhi"
+      "name": "mool, south ex II",
+      "address": "South Ex II, New Delhi"
     },
     "organizer": {
       "@type": "Organization",
       "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "The Gospel According to St. Matthew(1965)",
+    "url": "https://fillum.in/screening/5931",
+    "startDate": "2026-10-11T17:00:00+05:30",
+    "endDate": "2026-10-11T17:00:00+05:30",
+    "description": "A biblical epic that only the Marxist dissident Pier Paolo Pasolini could make, this intensely faithful adaptation of Saint Matthew\u2019s Gospel depicts the life and teachings of Jesus Christ (Enrique..more",
+    "location": {
+      "@type": "Place",
+      "name": "mool, south ex II",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Out of Sequence"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "The Turin Horse(2011)",
+    "url": "https://fillum.in/screening/6325",
+    "startDate": "2026-10-11T17:00:00+05:30",
+    "endDate": "2026-10-11T17:00:00+05:30",
+    "description": "Six days. A father and daughter. A horse that refuses to move. And a world that seems to be slowly shutting itself down.Films From Underground presents B\u00e9la Tarr\u2019s The Turin Horse (2011) \u2014 ..more",
+    "location": {
+      "@type": "Place",
+      "name": "Niv Art Centre, Neb Sarai",
+      "address": "Sainik Farm, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Films From Underground"
     }
   }
 ]

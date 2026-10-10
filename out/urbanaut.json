@@ -2,158 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Kathika Cultural Experience",
-    "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
-    "startDate": "2026-10-09T11:30:00+05:30",
-    "endDate": "2026-10-31T14:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.64610280000000000000",
-        "longitude": "77.22736410000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kathika Cultural Centre and Museum",
-      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
-    },
-    "url": "https://urbanaut.app/spot/kathika-cultural-experience-15616",
-    "keywords": [
-      "Music",
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Dawn Trails & Lakeside Picnic in Delhi NCR",
-    "description": "This early morning hiking experience takes you across rocky paths, scenic ridgelines and a picturesque lakeside setting, offering a refreshing escape into nature.The experience brings together gentle adventure, outdoor exploration, group activities and a picnic breakfast, making it suitable for beginners, couples, friends and solo travellers.Participants will be accompanied by experienced hike leaders throughout the trail.The experience also includes a curated picnic breakfast, storytelling, engaging group activities and basic first aid support.Experience Schedule1. Arrival and Meet Up at 5:15 AMReach the starting point by 5:15 AM and meet the rest of the group before setting off.Briefing and Introduction: Get acquainted with the hike leaders as they give you a quick overview of the trail, the experience and what to expect during the morning.2. Sunrise Hike Begins at 5:30 AMBegin the hike at 5:30 AM and follow a guided route through scenic trails, rocky stretches and boulder sections.Enjoy the peaceful morning atmosphere and beautiful views as the landscape comes alive around you.3. Nature Pause and Group ActivitiesTake brief pauses during the hike to soak in the surroundings and discover interesting details about the natural landscape.Participate in fun outdoor activities designed to keep the group engaged and make the experience more interactive.4. Picnic BreakfastStop at a scenic location to unwind and enjoy a curated picnic breakfast.Take some time to relax, connect with the group and enjoy your meal surrounded by nature.5. Walk Back and Wrap Up at 8:30 AMBegin the return walk with the group after the picnic and make your way back to the starting point.",
-    "startDate": "2026-10-10T05:30:00+05:30",
-    "endDate": "2026-10-10T09:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "95VP+C6C, Mangar, Haryana 121004, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.39356250000000000000",
-        "longitude": "77.18551560000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1428.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Trail It Hiking and Outdoors",
-      "url": "https://urbanaut.app/partner/trail-it-hiking-and-outdoors"
-    },
-    "url": "https://urbanaut.app/spot/picnicatmangarlake",
-    "keywords": [
-      "Adventure",
-      "Premium",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Run Like A Girl | Deer Park",
-    "description": "We are starting our Sunday with a SWAG Run (3.5 KM and 5.5 KM batches).Here's the plan:Meet at the Deer Park Gate, opposite Centre for Sight, Safdarjung.Warm-up3.5 KM & 5. 5KM Community Run (5.5 KM Run starts at 6:45 AM, 3.5 KM Run starts at 7 AM)Hydration by Fast&UpPost-run refuelling and community social.This is a women-only run. If you are a beginner and want to start running, our 3.5KM run is the best place to start. Prepping for the upcoming Marathons? Join the 5.5KM group.The Community: At Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
-    "startDate": "2026-10-10T06:30:00+05:30",
-    "endDate": "2026-10-11T09:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "H55R+WC4, Chaudhary Harsukh Marg, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55976950000000000000",
-        "longitude": "77.19107869999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag12",
-    "keywords": [
-      "Adventure",
-      "Wellness",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Reformer Pilates | Defence Colony",
-    "description": "Let\u2019s make your Sunday morning extra feel-good with Hot Girls Do Pilates, a guided reformer pilates experience by SWAG \ud83d\udc9bWe have only 4 spots!Come and feel fitter in the company of like-minded women, and stayback for some chit-chat!",
-    "startDate": "2026-10-10T10:00:00+05:30",
-    "endDate": "2026-10-10T11:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "A322, Block A, Defence Colony, New Delhi, Delhi 110024, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.57351930000000000000",
-        "longitude": "77.22945200000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1399.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag25",
-    "keywords": [
-      "Wellness",
-      "Workshop",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Mental Health Nature Walk",
     "description": "A 2-hour guided nature walk that blends adventure, history, and deep presence.We\u2019ll explore trails alongside scientists that are usually not open for public exploration. The place offers sweeping views of the forest canopy. We will walk through centuries old rocks, forest area, and open clearings where the city fades into the background.Along the way, we will engage in simple sensory grounding practices:\ud83e\udeb5Feel the texture of bark and stone under your fingers\ud83e\udd9cListen to the sounds of birds and wind\ud83c\udf42Breathe in the scent of dry earth and wild herbs\ud83e\udebeSense your feet meeting the ancient pathThese moments of quiet attention create an experience that is simultaneously invigorating and restorative: the challenge of the climb and uneven terrain, the curiosity of discovering hidden corners of Aravalli Biodiversity, and the steadying effect of moving slowly and noticing deeply.Carry a bottle of water with you and come ready to walk, climb, listen, and return a little more grounded than when you began.",
     "startDate": "2026-10-10T10:00:00+05:30",
@@ -298,6 +146,44 @@
     "url": "https://urbanaut.app/spot/cyanotype-workshop-15572",
     "keywords": [
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Kathika Cultural Experience",
+    "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
+    "startDate": "2026-10-10T11:30:00+05:30",
+    "endDate": "2026-10-31T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64610280000000000000",
+        "longitude": "77.22736410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kathika Cultural Centre and Museum",
+      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
+    },
+    "url": "https://urbanaut.app/spot/kathika-cultural-experience-15616",
+    "keywords": [
+      "Music",
+      "History & heritage",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -557,6 +443,44 @@
     },
     "url": "https://urbanaut.app/spot/bollywood-trivia-night-by-afterdark-mixtable",
     "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Run Like A Girl | Deer Park",
+    "description": "We are starting our Sunday with a SWAG Run (3.5 KM and 5.5 KM batches).Here's the plan:Meet at the Deer Park Gate, opposite Centre for Sight, Safdarjung.Warm-up3.5 KM & 5. 5KM Community Run (5.5 KM Run starts at 6:45 AM, 3.5 KM Run starts at 7 AM)Hydration by Fast&UpPost-run refuelling and community social.This is a women-only run. If you are a beginner and want to start running, our 3.5KM run is the best place to start. Prepping for the upcoming Marathons? Join the 5.5KM group.The Community: At Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "startDate": "2026-10-11T07:00:00+05:30",
+    "endDate": "2026-10-11T09:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "H55R+WC4, Chaudhary Harsukh Marg, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55976950000000000000",
+        "longitude": "77.19107869999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag12",
+    "keywords": [
+      "Adventure",
+      "Wellness",
+      "Food & drink",
       "URBANAUT"
     ]
   },

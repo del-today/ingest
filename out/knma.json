@@ -141,26 +141,6 @@
   },
   {
     "@type": "EducationEvent",
-    "name": "Repetition/Variation",
-    "url": "https://www.knma.org/whats-on/workshops/repetition-variation",
-    "startDate": "2026-10-09T10:00:00+05:30",
-    "endDate": "2026-10-10T18:00:00+05:30",
-    "description": "Methods",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "EducationEvent",
     "name": "Chalo Bachpan",
     "url": "https://www.knma.org/whats-on/workshops/chalo-bachpan",
     "startDate": "2026-10-10T10:00:00+05:30",
@@ -169,26 +149,6 @@
     "location": {
       "@type": "Place",
       "name": "Triveni Kala Sangam",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "EducationEvent",
-    "name": "Kinetic Forms",
-    "url": "https://www.knma.org/whats-on/workshops/kinetic-forms",
-    "startDate": "2026-10-10T10:00:00+05:30",
-    "endDate": "2026-10-10T10:00:00+05:30",
-    "description": "Saturday Family Workshop",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA, New Delhi",
       "address": "New Delhi"
     },
     "organizer": {
@@ -269,6 +229,66 @@
     "location": {
       "@type": "Place",
       "name": "Adani International School",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "\u0905\u0935\u093e\u0930-\u0928\u0935\u093e\u0930 \u091b\u094b\u0930\u093f\u092f\u093e\u0902 / Every Now and Then Girls\u2026",
+    "url": "https://www.knma.org/whats-on/events/%e0%a4%85%e0%a4%b5%e0%a4%be%e0%a4%b0-%e0%a4%a8%e0%a4%b5%e0%a4%be%e0%a4%b0-%e0%a4%9b%e0%a5%8b%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%82-every-now-and-then-girls",
+    "startDate": "2026-10-24T10:00:00+05:30",
+    "endDate": "2026-10-24T10:00:00+05:30",
+    "description": "Cine Paradiso",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Space in Between",
+    "url": "https://www.knma.org/whats-on/workshops/space-in-between",
+    "startDate": "2026-10-24T10:00:00+05:30",
+    "endDate": "2026-10-24T10:00:00+05:30",
+    "description": "Artist in Me",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Structure Within Nature",
+    "url": "https://www.knma.org/whats-on/workshops/structure-within-nature",
+    "startDate": "2026-10-24T10:00:00+05:30",
+    "endDate": "2026-10-24T10:00:00+05:30",
+    "description": "Saturday Family Workshop",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
       "address": "New Delhi"
     },
     "organizer": {
