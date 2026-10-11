@@ -1,231 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Cyanotype Workshop",
-    "description": "The workshop on the Cyanotype Process is an immersive one-day workshop where the participants learn the historic 19th century printmaking process and get to create their own unique handmade prints on both paper & fabric and take them home.Structure of the workshop:History of Cyanotype - Learn about the origin of Cyanotype, an alternative printing technique through a brief presentation.Science of Cyanotype - Mix chemicals and coat your own surfaces in a hands-on darkroom setting.Creation & Patience - Compose with natural elements and watch your images develop through light and time.Your Final Prints - Wash and finish the prints you've created to take home.Frequently asked questions:Is there any prior knowledge needed to attend this workshop?No, there is no prior knowledge needed for this workshop.Is there an age restriction for this workshop?Yes, the workshop is meant for 15 years and older.If there is no sun how would the workshop be conducted?On the days where the sun is not there we have an artificial source of UV light that can be used.Does cyanotype only work with leaves and other natural materials?No, cyanotype can be done with any flat object, we at Museo, also have some stock negatives that can be used during the workshop.Do we as participants need to bring anything?No, all equipment and materials will be provided by Museo.What is the recommended attire for the workshop?Comfortable clothing and shoes are recommended for the workshop.Will lunch be provided?Each participant will receive a 15% discount at the museum cafe.How many prints will I be able to make in the workshop?Each participant will make 10 paper prints and a fabric print, which they can take home.Once the workshop is over, how can I continue to practice the process?You can book the darkroom or you can buy the chemicals from us to create the solution and make prints at home. For both of them you would have to write to us at workshops@museocamera.orgIs Cyanotype safe?Yes, cyanotype is one of the safest photographic processes out there.Meet your trainers Aditya AryaLead facilitator 45+ years of experience Photographer, historian and Founder-Director of Museo Camera with years of experience across advertising and fine art, he champions the slowness of analog processes. He practices and teaches historic techniques like cyanotype and wet plate collodion, keeping them alive through hands-on learning.https://www.adityaarya.com/Khushi Upadhyay Assistant 2+ years of experience She is a photographer working with analog and alternative processes, embracing slowness while guiding others to do the same. Rooted in light and material, she leads cyanotype and historic process workshops through hands-on, immersive image-making.",
-    "startDate": "2026-10-10T11:00:00+05:30",
-    "endDate": "2026-10-17T17:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Shri Ganesh Mandir Marg, Sector 28, DLF Phase IV, Gurugram, Haryana 122009, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46961600000000000000",
-        "longitude": "77.08038510000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3899.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Museo Camera",
-      "url": "https://urbanaut.app/partner/museo-camera"
-    },
-    "url": "https://urbanaut.app/spot/cyanotype-workshop-15572",
-    "keywords": [
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Kathika Cultural Experience",
-    "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
-    "startDate": "2026-10-10T11:30:00+05:30",
-    "endDate": "2026-10-31T14:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.64610280000000000000",
-        "longitude": "77.22736410000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kathika Cultural Centre and Museum",
-      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
-    },
-    "url": "https://urbanaut.app/spot/kathika-cultural-experience-15616",
-    "keywords": [
-      "Music",
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Wick & Whims- A Candle-Making Social",
-    "description": "Step into a warm, creative space and spend a few hours making something beautiful with your own hands. Wick & Whimsy is a hands-on candle-making experience where you\u2019ll learn the basics of candle making, explore fragrances, play with colours and design, and create your very own scented candle to take home.Whether you\u2019re a complete beginner, an art lover, or simply looking for a fun way to spend your evening, this workshop is designed to be relaxed, social and creative. Come solo, bring a friend, or meet someone new while creating something that smells as good as it looks.No prior experience required - just bring your curiosity!",
-    "startDate": "2026-10-10T13:00:00+05:30",
-    "endDate": "2026-10-17T10:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "13-B, Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55455900000000000000",
-        "longitude": "77.19440500000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1900.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Art Social",
-      "url": "https://urbanaut.app/partner/the-art-social"
-    },
-    "url": "https://urbanaut.app/spot/candle-making-theartsocial",
-    "keywords": [
-      "Workshop",
-      "Food & drink",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Safdarjung Tomb: The Last Garden of the Mughals",
-    "description": "Step beyond the grand fa\u00e7ade of Safdarjung Tomb and explore one of Delhi\u2019s most evocative late-Mughal monuments.This experience looks closely at the monument- not just as a tomb, but as a carefully designed landscape of gardens, water channels, pavilions, gateways, arches and hidden spaces.Discover the stories behind the Charbagh garden, the central mausoleum, the elegant pavilions known as Moti Mahal, Jangli Mahal and Badshah Pasand, and the architectural details that reveal how Mughal architecture evolved during its later period.",
-    "startDate": "2026-10-10T17:00:00+05:30",
-    "endDate": "2026-10-25T11:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Airforce Golf Course, Delhi Race Club, New Delhi, Delhi 110003, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.58941560000000000000",
-        "longitude": "77.21062190000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "300.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Riwayat Walks",
-      "url": "https://urbanaut.app/partner/riwayatwalks"
-    },
-    "url": "https://urbanaut.app/spot/safdarjung-tomb-riwayatwalks",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Run Like A Girl | Deer Park",
-    "description": "We are starting our Sunday with a SWAG Run (3.5 KM and 5.5 KM batches).Here's the plan:Meet at the Deer Park Gate, opposite Centre for Sight, Safdarjung.Warm-up3.5 KM & 5. 5KM Community Run (5.5 KM Run starts at 6:45 AM, 3.5 KM Run starts at 7 AM)Hydration by Fast&UpPost-run refuelling and community social.This is a women-only run. If you are a beginner and want to start running, our 3.5KM run is the best place to start. Prepping for the upcoming Marathons? Join the 5.5KM group.The Community: At Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
-    "startDate": "2026-10-11T07:00:00+05:30",
-    "endDate": "2026-10-11T09:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "H55R+WC4, Chaudhary Harsukh Marg, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55976950000000000000",
-        "longitude": "77.19107869999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag12",
-    "keywords": [
-      "Adventure",
-      "Wellness",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Purani Dilli: Spiritual and Living Heritage",
-    "description": "Step back in time to the 17th-century, where grand urban vision meets centuries of lived history. Designed by Mughal princess Jahanara, Chandni Chowk is not merely a market\u2014it is a living archive of Delhi\u2019s culture and pluralistic soul.On this heritage walk, we will trace Chandni Chowk's historic street, marvelling at an extraordinary row of sacred spaces\u2014temples, mosques, a gurdwara, and a church\u2014standing side by side as silent testimony to centuries of multi-faith harmony. Leaving the broad boulevard behind, we will venture into the labyrinthine galis, katras, and kuchas, where the city\u2019s true character resides. Here, amid historic havelis, ancestral trade guilds, and old neighbourhood markets, we\u2019ll explore Old Delhi's vibrant tapestry.Note: There is no walk fee for children under 12 years old. ",
-    "startDate": "2026-10-11T08:00:00+05:30",
-    "endDate": "2026-10-11T09:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Chandni Chowk, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.65053310000000000000",
-        "longitude": "77.23033699999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "600.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Mera \u0936\u0939\u0930 \u2013 My City Walks",
-      "url": "https://urbanaut.app/partner/merasheharmycitywalks"
-    },
-    "url": "https://urbanaut.app/spot/purani-dilli-spiritual-and-living-heritage",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Tales and Tastes - Old Delhi Breakfast Walk",
     "description": "Join us for a delicious adventure through the lively streets of Old Delhi, where every corner tells a story. Indulge in the city's legendary street breakfast \u2014 from piping hot jalebis and crispy samosas to buttery parathas, refreshing faluda and luscious rabri. Uncover the hidden gems, local legends and mouthwatering flavours that make Purani Dilli an unforgettable culinary paradise.The walk will be followed by Live Cultural Performance by classical Indian artists at Kathika Cultural Centre & Museum.",
@@ -259,44 +34,6 @@
       "Walking Tour",
       "History & heritage",
       "Food & drink",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Purana Qila- The Lost City Within",
-    "description": "Step into the ancient heart of Delhi and explore Purana Qila, a monument layered with stories of empires, cities, architecture, and legends.This heritage walk takes you through the imposing gateways, grand walls, mosque, palace remains, and archaeological landscape of one of Delhi\u2019s most fascinating historic sites. Discover the stories associated with Sher Shah Suri and Humayun, while exploring the architectural details that reveal how the fort evolved through different periods.Beyond monuments and dates, the walk looks at the larger story of Indraprastha, Dinpanah and historic Delhi, connecting architecture with the changing urban landscape of the city.Led through the lens of history, architecture, art and urban heritage, this experience is designed for anyone curious about Delhi\u2019s layered past.",
-    "startDate": "2026-10-11T09:00:00+05:30",
-    "endDate": "2026-10-11T10:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Mathura Rd, near Delhi Zoo, Pragati Maidan, New Delhi, Delhi 110001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.60957440000000000000",
-        "longitude": "77.24373709999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "300.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Riwayat Walks",
-      "url": "https://urbanaut.app/partner/riwayatwalks"
-    },
-    "url": "https://urbanaut.app/spot/puranaqila",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
       "Guided tour",
       "URBANAUT"
     ]
@@ -412,6 +149,44 @@
       "Local",
       "Walking Tour",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Kathika Cultural Experience",
+    "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
+    "startDate": "2026-10-11T11:30:00+05:30",
+    "endDate": "2026-10-31T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64610280000000000000",
+        "longitude": "77.22736410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kathika Cultural Centre and Museum",
+      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
+    },
+    "url": "https://urbanaut.app/spot/kathika-cultural-experience-15616",
+    "keywords": [
+      "Music",
+      "History & heritage",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -603,7 +378,7 @@
     "name": "Hot Girls Do Garba",
     "description": "Time to get the festivities season started, and there's no better place than a Garba Party with the girls!Grab your bestie-or come solo-and hit the dance floor for the ultimate garba party this Sunday! Hot Girls Do Garba by SWAG is a women-only community garba event.Plan is simple. You dress-up, show-up and dance! Don't know the steps? Let's figure it out together, which is the whole point of this community! We're dancing our way through Bollywood bangers, traditional beats and some unexpected hits you won't hear at any other garba in town!Your ticket includes:1 drink (virgin mojito or a pint of beer) Cover charge worth Rs. 500/-.Jell-O shots for all by Jell-IT (alcoholic & non-alcoholic)Goodies by Pee SafeBrand pop-ups and gamesWhether you're catching up with old friends or meeting new ones, this is the place to celebrate!\u2728 We also have some groups discounts, make sure you book for your besties too!",
     "startDate": "2026-10-11T18:00:00+05:30",
-    "endDate": "2026-10-11T21:00:00+05:30",
+    "endDate": "2026-10-18T23:00:00+05:30",
     "location": {
       "@type": "Place",
       "address": "Panchshila Park, 61/7, Panchshila Park, Block C, Panchsheel Park South, Malviya Nagar, New Delhi, Delhi 110017, India",
@@ -1274,6 +1049,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Wick & Whims- A Candle-Making Social",
+    "description": "Step into a warm, creative space and spend a few hours making something beautiful with your own hands. Wick & Whimsy is a hands-on candle-making experience where you\u2019ll learn the basics of candle making, explore fragrances, play with colours and design, and create your very own scented candle to take home.Whether you\u2019re a complete beginner, an art lover, or simply looking for a fun way to spend your evening, this workshop is designed to be relaxed, social and creative. Come solo, bring a friend, or meet someone new while creating something that smells as good as it looks.No prior experience required - just bring your curiosity!",
+    "startDate": "2026-10-17T09:00:00+05:30",
+    "endDate": "2026-10-17T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "13-B, Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55455900000000000000",
+        "longitude": "77.19440500000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1900.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Art Social",
+      "url": "https://urbanaut.app/partner/the-art-social"
+    },
+    "url": "https://urbanaut.app/spot/candle-making-theartsocial",
+    "keywords": [
+      "Workshop",
+      "Food & drink",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Duga Duga: Pandal Visit at CR Park",
     "description": "Shakti Walk - Durga Puja at C.R. ParkThis Pujo, walk with us into the heart of Chittaranjan Park, Delhi's very own mini-Kolkata, where devotion, tradition, and festivity come together.As the pandal comes alive with the evening arati, the fragrance of incense, and the rhythmic beats of the dhak, immerse yourself in the festive spirit of Shashthi. Experience the energy of the celebrations as the community comes together to welcome Goddess Durga.Witness the glow of the Evening Arati, followed by the graceful and spirited Dhunuchi dance, one of the most captivating traditions of Durga Puja. From there, explore the vibrant atmosphere of C.R. Park, with its cultural performances, food stalls, festive decorations, and the warmth of a community celebrating together.Come dressed in the festive spirit - saris, dhotis, or kurta-pyjamas- and join us as we experience the stories, sights, sounds, and traditions of Pujo in the heart of Delhi.",
@@ -1308,6 +1121,42 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Cyanotype Workshop",
+    "description": "The workshop on the Cyanotype Process is an immersive one-day workshop where the participants learn the historic 19th century printmaking process and get to create their own unique handmade prints on both paper & fabric and take them home.Structure of the workshop:History of Cyanotype - Learn about the origin of Cyanotype, an alternative printing technique through a brief presentation.Science of Cyanotype - Mix chemicals and coat your own surfaces in a hands-on darkroom setting.Creation & Patience - Compose with natural elements and watch your images develop through light and time.Your Final Prints - Wash and finish the prints you've created to take home.Frequently asked questions:Is there any prior knowledge needed to attend this workshop?No, there is no prior knowledge needed for this workshop.Is there an age restriction for this workshop?Yes, the workshop is meant for 15 years and older.If there is no sun how would the workshop be conducted?On the days where the sun is not there we have an artificial source of UV light that can be used.Does cyanotype only work with leaves and other natural materials?No, cyanotype can be done with any flat object, we at Museo, also have some stock negatives that can be used during the workshop.Do we as participants need to bring anything?No, all equipment and materials will be provided by Museo.What is the recommended attire for the workshop?Comfortable clothing and shoes are recommended for the workshop.Will lunch be provided?Each participant will receive a 15% discount at the museum cafe.How many prints will I be able to make in the workshop?Each participant will make 10 paper prints and a fabric print, which they can take home.Once the workshop is over, how can I continue to practice the process?You can book the darkroom or you can buy the chemicals from us to create the solution and make prints at home. For both of them you would have to write to us at workshops@museocamera.orgIs Cyanotype safe?Yes, cyanotype is one of the safest photographic processes out there.Meet your trainers Aditya AryaLead facilitator 45+ years of experience Photographer, historian and Founder-Director of Museo Camera with years of experience across advertising and fine art, he champions the slowness of analog processes. He practices and teaches historic techniques like cyanotype and wet plate collodion, keeping them alive through hands-on learning.https://www.adityaarya.com/Khushi Upadhyay Assistant 2+ years of experience She is a photographer working with analog and alternative processes, embracing slowness while guiding others to do the same. Rooted in light and material, she leads cyanotype and historic process workshops through hands-on, immersive image-making.",
+    "startDate": "2026-10-17T11:00:00+05:30",
+    "endDate": "2026-10-17T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shri Ganesh Mandir Marg, Sector 28, DLF Phase IV, Gurugram, Haryana 122009, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46961600000000000000",
+        "longitude": "77.08038510000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3899.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Museo Camera",
+      "url": "https://urbanaut.app/partner/museo-camera"
+    },
+    "url": "https://urbanaut.app/spot/cyanotype-workshop-15572",
+    "keywords": [
+      "Workshop",
       "URBANAUT"
     ]
   },
@@ -2360,6 +2209,44 @@
       "Walking Tour",
       "History & heritage",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Safdarjung Tomb: The Last Garden of the Mughals",
+    "description": "Step beyond the grand fa\u00e7ade of Safdarjung Tomb and explore one of Delhi\u2019s most evocative late-Mughal monuments.This experience looks closely at the monument- not just as a tomb, but as a carefully designed landscape of gardens, water channels, pavilions, gateways, arches and hidden spaces.Discover the stories behind the Charbagh garden, the central mausoleum, the elegant pavilions known as Moti Mahal, Jangli Mahal and Badshah Pasand, and the architectural details that reveal how Mughal architecture evolved during its later period.",
+    "startDate": "2026-10-25T10:00:00+05:30",
+    "endDate": "2026-10-25T11:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Airforce Golf Course, Delhi Race Club, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.58941560000000000000",
+        "longitude": "77.21062190000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "300.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Riwayat Walks",
+      "url": "https://urbanaut.app/partner/riwayatwalks"
+    },
+    "url": "https://urbanaut.app/spot/safdarjung-tomb-riwayatwalks",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
       "URBANAUT"
     ]
   },
