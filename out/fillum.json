@@ -1,70 +1,53 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "Santa sangre(1989)",
-    "url": "https://fillum.in/screening/5929",
-    "startDate": "2026-10-11T12:00:00+05:30",
-    "endDate": "2026-10-11T12:00:00+05:30",
-    "description": "Jodorowsky's Santa Sangre explores the extreme (yes: perverse) ties between a boy and his mother with macabre, Fellini-esque verve.",
+    "name": "Ivan the Terrible, Part II: The Boyars' Plot(1958)",
+    "url": "https://fillum.in/screening/6287",
+    "startDate": "2026-10-14T18:30:00+05:30",
+    "endDate": "2026-10-14T18:30:00+05:30",
+    "description": "Free entry.",
     "location": {
       "@type": "Place",
-      "name": "mool, south ex II",
-      "address": "South Ex II, New Delhi"
+      "name": "C. D. Deshmukh Auditorium, India International Centre",
+      "address": "Delhi"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Out of Sequence"
+      "name": "India International Centre"
     }
   },
   {
     "@type": "ScreeningEvent",
-    "name": "Roma(1972)",
-    "url": "https://fillum.in/screening/5930",
-    "startDate": "2026-10-11T14:30:00+05:30",
-    "endDate": "2026-10-11T14:30:00+05:30",
-    "description": "Travelogue, memoir, and outrageous cinematic spectacle converge in this kaleidoscopic valentine to the Eternal City, composed by one of its most iconic inhabitants. Leisurely one moment and breathle..more",
+    "name": "Cinergy: Beyond Perception",
+    "url": "https://fillum.in/event/6332",
+    "startDate": "2026-10-17T14:00:00+05:30",
+    "endDate": "2026-10-17T14:00:00+05:30",
+    "description": "A curated evening of psychological thriller short films, paired with a live mentalist act and an immersive art experience. Part of Cinergy's \"Art Under One Roof\" series, the event blends cinema, liv..more",
     "location": {
       "@type": "Place",
-      "name": "mool, south ex II",
-      "address": "South Ex II, New Delhi"
+      "name": "Social, Saket",
+      "address": "Delhi"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Out of Sequence"
+      "name": "Cinergy Club"
     }
   },
   {
     "@type": "ScreeningEvent",
-    "name": "The Gospel According to St. Matthew(1965)",
-    "url": "https://fillum.in/screening/5931",
-    "startDate": "2026-10-11T17:00:00+05:30",
-    "endDate": "2026-10-11T17:00:00+05:30",
-    "description": "A biblical epic that only the Marxist dissident Pier Paolo Pasolini could make, this intensely faithful adaptation of Saint Matthew\u2019s Gospel depicts the life and teachings of Jesus Christ (Enrique..more",
+    "name": "Leo from Chicago(2025)",
+    "url": "https://fillum.in/screening/6272",
+    "startDate": "2026-10-19T18:30:00+05:30",
+    "endDate": "2026-10-19T18:30:00+05:30",
+    "description": "Free entry.",
     "location": {
       "@type": "Place",
-      "name": "mool, south ex II",
-      "address": "South Ex II, New Delhi"
+      "name": "C. D. Deshmukh Auditorium, India International Centre",
+      "address": "Delhi"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Out of Sequence"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "The Turin Horse(2011)",
-    "url": "https://fillum.in/screening/6325",
-    "startDate": "2026-10-11T17:00:00+05:30",
-    "endDate": "2026-10-11T17:00:00+05:30",
-    "description": "Six days. A father and daughter. A horse that refuses to move. And a world that seems to be slowly shutting itself down.Films From Underground presents B\u00e9la Tarr\u2019s The Turin Horse (2011) \u2014 ..more",
-    "location": {
-      "@type": "Place",
-      "name": "Niv Art Centre, Neb Sarai",
-      "address": "Sainik Farm, New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Films From Underground"
+      "name": "India International Centre"
     }
   }
 ]
