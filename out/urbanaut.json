@@ -4,7 +4,7 @@
     "@type": "Event",
     "name": "Kathika Cultural Experience",
     "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
-    "startDate": "2026-10-11T11:30:00+05:30",
+    "startDate": "2026-10-13T11:30:00+05:30",
     "endDate": "2026-10-31T14:00:00+05:30",
     "location": {
       "@type": "Place",
@@ -33,44 +33,6 @@
     "keywords": [
       "Music",
       "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Hot Girls Do Garba",
-    "description": "Time to get the festivities season started, and there's no better place than a Garba Party with the girls!Grab your bestie-or come solo-and hit the dance floor for the ultimate garba party this Sunday! Hot Girls Do Garba by SWAG is a women-only community garba event.Plan is simple. You dress-up, show-up and dance! Don't know the steps? Let's figure it out together, which is the whole point of this community! We're dancing our way through Bollywood bangers, traditional beats and some unexpected hits you won't hear at any other garba in town!Your ticket includes:1 drink (virgin mojito or a pint of beer) Cover charge worth Rs. 500/-.Jell-O shots for all by Jell-IT (alcoholic & non-alcoholic)Goodies by Pee SafeBrand pop-ups and gamesWhether you're catching up with old friends or meeting new ones, this is the place to celebrate!\u2728 We also have some groups discounts, make sure you book for your besties too!",
-    "startDate": "2026-10-11T18:00:00+05:30",
-    "endDate": "2026-10-18T23:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Panchshila Park, 61/7, Panchshila Park, Block C, Panchsheel Park South, Malviya Nagar, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53946110000000000000",
-        "longitude": "77.21371580000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "849.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/hot-girls-do-garba",
-    "keywords": [
-      "Festival",
-      "Food & drink",
       "Art & culture",
       "URBANAUT"
     ]
@@ -823,6 +785,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Raat Ke Afsane : Qutub Minar",
+    "description": "Experience the magic of Qutub Minar like never before\u2014under the stars and glowing lights. This is a guided heritage walk led by a historian, who will take you through the stunning Qutub complex after dark. As the entire site is beautifully illuminated at night, the minaret shines like Delhi\u2019s very own Eiffel Tower\u2014majestic, mysterious, and unforgettable.Walk through centuries of history, discover forgotten stories, and explore Delhi\u2019s medieval past through engaging storytelling. The play of light, shadow, and silence transforms this heritage site into something truly cinematicPlaces we will cover : 1. Mughal Serai2. Alai Minar3. Iltutmish Tomb4. Qutub Minar5. Iron Pilar6. 27 Jain and hindu temples7. Alai Darwaza8. Alauddin Khilji grave and madarsa .Important Points:  1. Details of the heritage walk will be mailed to you when you book the tickets2. No guided fees for kids below 5.3. Medium of communication : Hindi and English4. Please note that in case of unavoidable external reasons such as (weather conditions, political rallies, VIP movement, powercut) the walk may be canceled. The participant has the liberty to take another walk by the company against the payment they have made within 30 days since the date of the registered walk.5. The company does not have refund policy.",
+    "startDate": "2026-10-17T17:30:00+05:30",
+    "endDate": "2026-10-31T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Qutub Minar Complex Rd, Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52371860000000000000",
+        "longitude": "77.18469040000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/raat-ke-afsane-qutub-minar",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Surthaal - A Navratri Night",
     "description": "Surthaal happens once a year, Last November, we gathered around one long table to celebrate Surthaal the coming together of Sur and Thaal, of music and food, of stories and people, and just like that, it\u2019s that time of the year again.A once-a-year celebration of everything we love about coming together music in the air, conversations around the table, and this time the festive spirit of Navratri.We eat together, We listen together, And when the meal is done, we dance together.Not the Navratri you're used to, No crowded grounds, No loud stages.Just the rare experience of Mandli Raas a beautiful community tradition of music, dancing, and celebration that is seldom experienced in Delhi NCR.6-8 PM - Dinner (Thaal)8-10 PM - Mandli Raas (Sur)Safed our Navratri palette, think ivory Chaniya Cholis, crisp kurtas, old silver, heirloom jewels and your own interpretation of festive whites. Come dressed for the occasion Navratri only comes around once a year.One evening of Sur and Thaal.",
@@ -1268,6 +1268,44 @@
       "url": "https://urbanaut.app/partner/shoshabaazi"
     },
     "url": "https://urbanaut.app/spot/durga-puja-pandal-hopping",
+    "keywords": [
+      "Festival",
+      "Food & drink",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Hot Girls Do Garba",
+    "description": "Time to get the festivities season started, and there's no better place than a Garba Party with the girls!Grab your bestie-or come solo-and hit the dance floor for the ultimate garba party this Sunday! Hot Girls Do Garba by SWAG is a women-only community garba event.Plan is simple. You dress-up, show-up and dance! Don't know the steps? Let's figure it out together, which is the whole point of this community! We're dancing our way through Bollywood bangers, traditional beats and some unexpected hits you won't hear at any other garba in town!Your ticket includes:1 drink (virgin mojito or a pint of beer) Cover charge worth Rs. 500/-.Jell-O shots for all by Jell-IT (alcoholic & non-alcoholic)Goodies by Pee SafeBrand pop-ups and gamesWhether you're catching up with old friends or meeting new ones, this is the place to celebrate!\u2728 We also have some groups discounts, make sure you book for your besties too!",
+    "startDate": "2026-10-18T20:00:00+05:30",
+    "endDate": "2026-10-18T23:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Panchshila Park, 61/7, Panchshila Park, Block C, Panchsheel Park South, Malviya Nagar, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53946110000000000000",
+        "longitude": "77.21371580000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "849.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/hot-girls-do-garba",
     "keywords": [
       "Festival",
       "Food & drink",
