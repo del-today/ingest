@@ -1,6 +1,159 @@
 [
    {
       "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Highlights:Theme PartyDJ LijohnNon-Stop Music Bollywood Night Dance Floor Mouth-Watering AppetizersCocktails and MocktailsAn epic night of mu",
+      "endDate": "2026-10-18T23:59:00",
+      "identifier": "com.skillboxes.42358",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/ZTBUb1FOd3k5QXo5ZmxvS3hBOHVQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1791915479sqVMduMjGik1FiwJ.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Party"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "2nd Floor, Allied Grand Plaza, 8, Magrath Rd, above Nalli Silks, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.970285",
+            "longitude": "77.6109419"
+         },
+         "name": "Nolimmits Lounge & Club"
+      },
+      "name": "Desi Sunday at No Limmits | MG Road",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "One pass allow one single entry\n",
+            "inventoryLevel": 500,
+            "name": "Ladies",
+            "url": "https://www.skillboxes.com/events/ticket/desi-sunday-at-no-limmits-mg-road-sbdcgdhq"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Free entry till 0930pm post cover changes applicable\n",
+            "inventoryLevel": 500,
+            "name": "Couple",
+            "url": "https://www.skillboxes.com/events/ticket/desi-sunday-at-no-limmits-mg-road-sbdcgdhq"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable through out the event\n",
+            "inventoryLevel": 500,
+            "name": "Stag",
+            "url": "https://www.skillboxes.com/events/ticket/desi-sunday-at-no-limmits-mg-road-sbdcgdhq"
+         }
+      ],
+      "startDate": "2026-10-18T20:00:00",
+      "url": "https://www.skillboxes.com/events/desi-sunday-at-no-limmits-mg-road-sbdcgdhq"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "HighlightsDJ Night Non-Stop Music Bollywood Music Dance Floor Great Ambience Mouth-Watering Appetizers Cocktails and Mocktails Transform your Friday night into an electrifying escape from the ordinary. Step",
+      "endDate": "2026-10-16T23:59:00",
+      "identifier": "com.skillboxes.42357",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/ZTBUb1FOd3k5QXo5ZmxvS3hBOHVQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1791914246rYJhhbNCEPoygOEg.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Party"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "23, 1st Floor, 1st Main Rd, KHB Colony, Koramangala Industrial Layout, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9348483",
+            "longitude": "77.6138996"
+         },
+         "name": "Badmaash Koramangala"
+      },
+      "name": "Friday Nakhra Night at Badmaash Koramangala",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable through out the event\n",
+            "inventoryLevel": 500,
+            "name": "Stag",
+            "url": "https://www.skillboxes.com/events/ticket/friday-nakhra-night-at-badmaash-koramangala-sbdabfzz"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Free entry till 0930pm post cover charges applicable\n",
+            "inventoryLevel": 500,
+            "name": "Couple",
+            "url": "https://www.skillboxes.com/events/ticket/friday-nakhra-night-at-badmaash-koramangala-sbdabfzz"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "One pass allow one single entry\n",
+            "inventoryLevel": 500,
+            "name": "Ladies",
+            "url": "https://www.skillboxes.com/events/ticket/friday-nakhra-night-at-badmaash-koramangala-sbdabfzz"
+         }
+      ],
+      "startDate": "2026-10-16T20:00:00",
+      "url": "https://www.skillboxes.com/events/friday-nakhra-night-at-badmaash-koramangala-sbdabfzz"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Highlights Featuring Roan, DJ Rohit Bollywood, Bollytech, BollyAfro soundsTease Tuesday – Let’s Paint the City PinkSpecial Girls Night vibesHigh-energy dance floor & playful party atmospherePremium cocktails & elec",
+      "endDate": "2026-10-20T23:59:00",
+      "identifier": "com.skillboxes.42356",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/ZTBUb1FOd3k5QXo5ZmxvS3hBOHVQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1791913441Op0L9wh3If3IZ4Vh.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Party"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "5th Block, 40, 4th B Cross Rd, KHB Colony, Koramangala Industrial Layout, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9338061",
+            "longitude": "77.6153361"
+         },
+         "name": "Happy Brew Bar & Kitchen"
+      },
+      "name": "Tease Tuesday I Ladies Night at Happy Brew",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges appliable through out the event\n",
+            "inventoryLevel": 500,
+            "name": "Stag",
+            "url": "https://www.skillboxes.com/events/ticket/tease-tuesday-i-ladies-night-at-happy-brew-sbcxwisi"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "One pass allow one single entry\n",
+            "inventoryLevel": 500,
+            "name": "Ladies",
+            "url": "https://www.skillboxes.com/events/ticket/tease-tuesday-i-ladies-night-at-happy-brew-sbcxwisi"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Free entry till 0930pm post cover charges applicable\n",
+            "inventoryLevel": 500,
+            "name": "Couple",
+            "url": "https://www.skillboxes.com/events/ticket/tease-tuesday-i-ladies-night-at-happy-brew-sbcxwisi"
+         }
+      ],
+      "startDate": "2026-10-20T20:00:00",
+      "url": "https://www.skillboxes.com/events/tease-tuesday-i-ladies-night-at-happy-brew-sbcxwisi"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "EducationEvent",
       "description": "Ready to spice up your moves? Join our beginner-friendly Salsa experience! No partner or experience needed.📅 18th October 2026 | 5:30–9:30 PM",
       "endDate": "2026-10-18T21:30:00",
@@ -274,7 +427,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "LIMITED NUMBER OF PASSES AT A DISCOUNT IF YOU BRING YOUR FRIENDS\nAdditional cover charges of INR 500 applicable at gates. Fully redeemable on Food and beverages",
-            "inventoryLevel": 10,
+            "inventoryLevel": 9,
             "name": "Group of 2 Pass",
             "url": "https://www.skillboxes.com/events/ticket/western-express-highway-s-sbkklfym"
          },
