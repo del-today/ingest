@@ -487,44 +487,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Smash Like a Girl (Tennis | Delhi)",
-    "description": "Smash Like A Girl is  a women-only, beginner-friendly, guided tennis session by Sweat Like A Girl.You can expect warm-up, skill drills with a trained coach to learn the sport and some friendly-rallies to end the session.It is the perfect weekend plan, if you are looking to learn a new sport, find like-minded women to play with and do something active without entering the gym! You can make this a catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
-    "startDate": "2026-10-17T17:00:00+05:30",
-    "endDate": "2026-10-17T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "J6HH+MMC, Barakhamba Rd, Todermal Road Area, Mandi House, New Delhi, Delhi 110001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.62917610000000000000",
-        "longitude": "77.22913750000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "495.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag76",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Say Less: A Field Guide To Being Watched",
     "description": "About the LectureIs there a way to be seen that doesn't cost you your voice? Or was this trade always built into the system?You don't need to be arrested to stop speaking. You just need to suspect someone might be watching. After the 2013 Snowden revelations, researchers found a measurable drop in Wikipedia views of sensitive topics. No one was punished for reading an article. People simply stopped.This lecture is a field guide to being watched today. It covers the state with facial recognition and a database to match it against, the platforms built for advertising that can identify you from your own digital trail, and the quietest kind of all: the friend who screenshots, the forward, being recognised by someone you know. Along the way, we'll look at why visibility alone can be enough to change how we behave, and what that means for how freely any of us really speak.The session explores:Three ways of being watched: institutional, platform and lateral (peer) surveillanceThe panopticon: why the possibility of being watched does the work, not the watching itselfSocial sorting: how surveillance judges the category you've been placed in, not youThe chilling effect, and the evidence that it's more than a metaphorAbout the SpeakerSoumya Singh Chauhan is an Assistant Professor at O.P. Jindal Global University, where she is also pursuing her PhD on state data collection practices. Her research interests lie in privacy, surveillance and intellectual property law, and she teaches a surveillance elective at the university. When she's not thinking about the deep dystopia we live in, she zooms in: writing poetry, making art, or learning dance and music. A real escape would be to zoom out and finally pursue her as-yet-unsatiated interest in astronomy. Don't ask her anything about it right now; she knows nothing.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
     "startDate": "2026-10-17T17:00:00+05:30",
@@ -859,44 +821,6 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Reformer Pilates | Defence Colony",
-    "description": "Let\u2019s make your Sunday morning extra feel-good with Hot Girls Do Pilates, a guided reformer pilates experience by SWAG \ud83d\udc9bWe have only 4 spots!Come and feel fitter in the company of like-minded women, and stayback for some chit-chat!",
-    "startDate": "2026-10-18T11:00:00+05:30",
-    "endDate": "2026-10-18T12:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "A322, Block A, Defence Colony, New Delhi, Delhi 110024, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.57351930000000000000",
-        "longitude": "77.22945200000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1399.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag77",
-    "keywords": [
-      "Wellness",
-      "Workshop",
-      "Active",
       "URBANAUT"
     ]
   },
