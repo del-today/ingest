@@ -76,78 +76,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Who Gets to Adapt? Online webinar",
-    "description": "Who Gets to Adapt? Gender, Care and Everyday Life in a Changing ClimateWe\u2019re often told that adapting to climate change means changing how we live \u2013 travelling differently, staying indoors during extreme heat, finding ways to cope with flooding, conserving water, or changing our routines.But adaptation isn\u2019t equally available to everyone.What happens when your ability to adapt is shaped by your gender, the work you do, how you move through the city, how much you earn, whether you feel safe, or the people you are responsible for caring for?And when climate disruption enters everyday life, who absorbs the extra work of making things function \u2014 changing schedules, finding water, caring for others, navigating unsafe conditions, or simply carrying on?This conversation asks a deceptively simple question: who gets to adapt?And perhaps more importantly: when we ask people to adapt to a changing climate, who is actually absorbing the cost of that adaptation?",
-    "startDate": "2026-10-15T19:00:00+05:30",
-    "endDate": "2026-10-15T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Gurugram, Haryana, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.45949650000000000000",
-        "longitude": "77.02663830000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Mudito",
-      "url": "https://urbanaut.app/partner/mudito"
-    },
-    "url": "https://urbanaut.app/spot/whogetstoadaptgurugram",
-    "keywords": [
-      "Virtual",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Who Gets to Adapt? Online webinar",
-    "description": "Who Gets to Adapt? Gender, Care and Everyday Life in a Changing ClimateWe\u2019re often told that adapting to climate change means changing how we live \u2013 travelling differently, staying indoors during extreme heat, finding ways to cope with flooding, conserving water, or changing our routines.But adaptation isn\u2019t equally available to everyone.What happens when your ability to adapt is shaped by your gender, the work you do, how you move through the city, how much you earn, whether you feel safe, or the people you are responsible for caring for?And when climate disruption enters everyday life, who absorbs the extra work of making things function \u2014 changing schedules, finding water, caring for others, navigating unsafe conditions, or simply carrying on?This conversation asks a deceptively simple question: who gets to adapt?And perhaps more importantly: when we ask people to adapt to a changing climate, who is actually absorbing the cost of that adaptation?",
-    "startDate": "2026-10-15T19:00:00+05:30",
-    "endDate": "2026-10-15T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.70405920000000000000",
-        "longitude": "77.10249019999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Mudito",
-      "url": "https://urbanaut.app/partner/mudito"
-    },
-    "url": "https://urbanaut.app/spot/whogetstoadaptdelhi",
-    "keywords": [
-      "Virtual",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Slow Burn - A 4 Course Drinking Experience",
     "description": "Tucked into a corner of Lodhi Colony, The Love Hotel is Delhi's best-kept secret \u2014 a 20-seat cocktail room that takes its cues from the love hotels of Japan. It's intimate without being intense, flirtatious without trying too hard.Slow Burn is a four-course cocktail tasting built for this room \u2014 but where most tasting menus put food at the centre, here the cocktails play hero.It begins the second you walk in with a welcome shot. From there, four cocktails unfold in sequence \u2014 each its own chapter, drawn from the same five-taste philosophy that powers The Love Hotel's acclaimed program. Every pour lands with a course of tapas alongside it.An evening where the spirit leads, and the plate follows. And with only twenty seats, the room stays intimate & exclusive.",
@@ -253,6 +181,44 @@
     "keywords": [
       "Live GIG",
       "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Shakeout Run SWAG - Adidas Runners Club",
+    "description": "We\u2019re kicking things off with a SWAG Community Run, and we\u2019d love for you to be a part of it!Here's the plan:Meet at the Dirty GoodWarm-up3.5 KM community runPre-run hair Braiding stationA fun Nail art stationHydration by Fast&UpPost-run refuelling with coffee, smoothies and more at Dirty GoodThis is a women-only run. If you are a beginner and want to start running, our 3.5 KM run is the best place to start.The Community: At Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "startDate": "2026-10-17T06:30:00+05:30",
+    "endDate": "2026-10-17T08:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Musical Fountain Park, Ground Floor, Block 7A and Block 7B, Within Block 3, One Golden Mile, Shaheed Sudhir Tyagi Marg, Block A, Netaji Nagar, New Delhi, Delhi 110066, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.57073010000000000000",
+        "longitude": "77.18547450000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/run1",
+    "keywords": [
+      "Adventure",
+      "Wellness",
       "Food & drink",
       "URBANAUT"
     ]
@@ -1576,6 +1542,42 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Uncovering Betrayal: About Anti-National Histories",
+    "description": "About the LectureThe historian, much like Perseus, is expected to go on a quest to the archive, a repository of truth waiting to be discovered. But sometimes the archive gives up stories nobody went looking for: stories of deception, of broken loyalty, of comrades who turned.This talk recounts the history of Bhagat Singh's associates who reneged on the cause and betrayed their fellow revolutionaries. It then asks the uncomfortable questions: why bother with histories like these, and what does recounting them do for our present?The session explores:The little-told story of the revolutionaries who betrayed Bhagat Singh's circleWhat historians do when the archive contradicts the heroic narrativeWhy \"anti-national\" histories are worth recovering at allWhat remembering betrayal does to how we understand the presentAbout the SpeakerProfessor Aparna Vaidik teaches History at Ashoka University. Educated at St. Stephen's College, Cambridge University and Jawaharlal Nehru University, she has previously taught at Georgetown University, Washington DC, and the University of Delhi. She is the author of Imperial Andamans, Waiting for Swaraj and Revolutionaries on Trial, and of the creative non-fiction book My Son's Inheritance. She is actively involved in public pedagogy and is President Trustee of a charitable trust that runs a community library with more than 5,000 members. Although she writes about revolutionaries and militant protest in the British period, she encounters it every morning at home: she is the parent of two sassy and surly teenaged un-schoolers, one a trigger-happy radical and the other a brainy anarchist. When she isn't teaching or researching, her favourite pastime is couch-potatoing.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-10-24T15:00:00+05:30",
+    "endDate": "2026-10-24T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "550.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/uncovering-betrayal-about-anti-national-histories",
+    "keywords": [
+      "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "The Delhi Dash",
     "description": "Think you know Delhi? Prove it.We\u2019re turning the city into a game board for one afternoon. You\u2019ll be sorted into teams at the starting line and sent off to crack clues, hunt down hidden spots and complete increasingly ridiculous missions before the other teams do.Come solo or with friends, everyone gets teamed up on the spot. You might start as strangers and finish aggressively arguing over whether you\u2019ve interpreted Clue #7 correctly.\ud83e\udde9 Clues, challenges and surprises\ud83d\udeb6\u200d\u2640\ufe0f Entirely on foot\ud83d\udc6f\u200d\u2640\ufe0f Teams formed at the starting line\ud83c\udfc6 Prizes + eternal bragging rights\ud83d\udc83 Women only\u00a0Come curious. Wear comfortable shoes. Leave with stories.",
     "startDate": "2026-10-24T15:00:00+05:30",
@@ -2026,6 +2028,42 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Can We Compute Society?",
+    "description": "About the LectureCan a computer detect political polarization? Can an algorithm tell whether a news outlet is biased?Can we map an online community, track the spread of misinformation, or teach a machine to understand what people are arguing about? Computational Social Science sits at the curious intersection of people and machines, using data, algorithms and AI to study everything from elections and social media to culture, language and collective behaviour.In this lecture, Professor Anirban Sen takes us on a tour of the field's most fascinating \u2014 and occasionally surprising \u2014 applications, drawing on his own research into misinformation, hate speech and propaganda communities online. Along the way, we'll ask the question underneath all of it: what do we gain, and what do we lose, when we turn society into data?The session explores:How researchers use data and algorithms to detect polarization and media biasWhat happens to misinformation, hate speech and propaganda communities as they grow and change onlineThe techniques behind the field: NLP, machine learning, information retrieval and good old qualitative analysisWhat it means to study people at the scale of the entire web, and where that approach runs out of roadAbout the SpeakerAnirban Sen is an Assistant Professor in the Department of Computer Science at Ashoka University. Before joining Ashoka in 2024, he was a postdoctoral researcher at Microsoft Research India, on the Technology for Emerging Markets team, where he studied misinformation, hate speech and propaganda communities on social media and how they evolve over time. He completed his PhD in Computer Science and Engineering at IIT Delhi, where he was part of the Appropriate Computing Technologies for Development (ACT4D) group and helped build a system for political economy analysis of Indian policy events using publicly available web and media data. He has also worked in industry as a data scientist, building solutions across banking, finance and insurance, including with generative AI.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-10-25T16:00:00+05:30",
+    "endDate": "2026-10-25T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gate No. 1, Bahadur Shah Zafar Marg, inside Shaheedi park, Balmiki Basti, Vikram Nagar, New Delhi, Delhi, 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.63445520000000000000",
+        "longitude": "77.24131700000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/can-we-compute-society",
+    "keywords": [
+      "Local",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "A Walk Through Basti Nizamuddin",
     "description": "Long before it was a monument, it was Ghiyaspur \u2014 a village where a saint's khanqah drew seekers from every walk of life. A stepwell defied a Sultan's orders, a disciple lit a lamp with water instead of oil & earned the name Chiragh-e-Dilli, and a language was born in the meeting of Persian verse with Indian soil. Even today, the courtyard at Urs Mahal fills with Qawwali, keeping that same devotion alive.Silsila Heritage invites you to walk through the Dargah, the Baoli, Chausath Khamba & Urs Mahal \u2014 five stops through a landscape where spirituality & everyday life still meet. Along the way, we'll talk about the Chishti Sufi tradition, the legacy of Amir Khusrau, and how this neighborhood shaped the language, music & culture we've inherited.Whether you know Nizamuddin for its qawwals, its stories, or simply its quiet corners, this walk is a chance to see it as a living tradition rather than a stop on a map!",
     "startDate": "2026-10-25T16:00:00+05:30",
@@ -2253,6 +2291,44 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
+    "name": "Halloween Carnival 2026",
+    "description": "Step into a world where chaos meets celebration. Shellbeacon x Mitra Mesh bring you a 3-night immersive carnival experience in Hauz Khas Village. Expect eerie vibes, theatrical energy, and unforgettable nights under the stars.Dark. Mysterious. Seductive.A celebration of gothic aesthetics, moody music, deep house, underground energy, costumes, chaos, and carnival vibes. Expect creepy characters, wild dance floors, themed cocktails, and a crowd dressed to impress (or scare).Decadence meets drama with cabaret performances, vintage glamour, artistic expression, and bold energy inspired by 1920s Berlin.What to Expect:Themed d\u00e9cor & immersive ambianceLive DJs & curated musicSpecial Halloween cocktails & event menuCostume-friendly crowd & photo momentsRooftop forest vibes in the heart of HKVDress Code Recommended:Goth | Halloween Costumes | Vintage/CabaretThis isn\u2019t just a party.It\u2019s a 3-night escape into a different world.",
+    "startDate": "2026-10-30T12:00:00+05:30",
+    "endDate": "2026-11-01T23:55:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "ShellBeacon Patio Cafe, 3rd Floor, 1A/1, Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55470520000000000000",
+        "longitude": "77.19515770000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "300.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Wavelength",
+      "url": "https://urbanaut.app/partner/wavelength"
+    },
+    "url": "https://urbanaut.app/spot/halloween-carnival-2026",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
     "name": "25K Live!",
     "description": "25K is a versatile, multi-genre band that effortlessly blends Jazz, RnB, Funk, and other musical influences to create a unique and vibrant sound. With each member bringing years of live performance experience from across India, this project was born from a shared desire to collaborate and showcase their musical talents. They achieve this through fresh arrangements and a commitment to unfettered creative expression for allmembers. Their songwriting process is also highly collaborative, resulting in captivating and musically dynamic songs that truly reflect the collective vision of the band.This band really shines at live shows, effortlessly moving from smooth, soulful ballads to upbeat, funky jams. They keep audiences captivated with their infectious energy and impressive displays of each musician's individual prowess. Whether they're playing their own original songs or putting a fresh spin on classic hits, 25K delivers an unforgettable show that highlights their creativity, passion, and wide-ranging musical abilities.",
     "startDate": "2026-10-30T21:00:00+05:30",
@@ -2360,6 +2436,42 @@
     "url": "https://urbanaut.app/spot/entrepreneurship-workshop-for-students",
     "keywords": [
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Possession: The Ghost, The Priest & The Asylum",
+    "description": "About the LectureWe understand illness through a familiar triangle: the body, the mind, and society. Medicine, psychology, and social work divide it between themselves. But this framework, however useful, has always struggled to account for what happens when a community understands suffering not as malfunction, but as divine visitation \u2014 when ghosts replace hormones and deities replace doctors.This lecture moves through three distinct territories. First, the sociology of illness \u2014 how suffering is experienced, symbolised, and socially perceived. Then, the power embedded in medical knowledge itself, through Foucault and contemporary political discourse. And finally, into the Jagar ritual tradition, where spirit possession fractures the clean line between health and unhealth, and suffering becomes something altogether more complicated than a problem to be solved.This is not a lecture about superstition versus science. It is about whose knowledge counts, who gets to define suffering, and what gets lost when we insist on only one answer.The session explores:The sociology of illness: how suffering is experienced, symbolised, and socially perceivedThe power embedded in medical knowledge, through Foucault and contemporary political discourseThe Jagar ritual tradition and what spirit possession reveals about the limits of clinical frameworksWhose knowledge counts when two systems of understanding collideAbout the SpeakerShambhavi Tiwari is a doctoral research scholar at the Centre for Political Studies, JNU, and a Political Research Associate at Think Small, Connaught Place. She writes poetry and short fiction in Hindi, with publications in Hindwi and Sadaneera. She is motivated by her passion for ghosts, gods, dogs, cats, and a thorough hatred for anything premised on individualisation, obedience, or violence.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-10-31T15:00:00+05:30",
+    "endDate": "2026-10-31T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shop No: 229, FIRST FLOOR, DLF Avenue Mall, 232, Mandir Marg, Saket District Centre, District Centre, Sector 6, Saket, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52834140000000000000",
+        "longitude": "77.21575450000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "550.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/possessed-the-ghost-the-priest-the-asylum",
+    "keywords": [
+      "History & heritage",
       "URBANAUT"
     ]
   },
@@ -2557,6 +2669,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Nizamuddin Heritage walk on Sufism & Poetry",
+    "description": "In the Sufi Bylanes of Nizamuddin \u2014 A Heritage Walk of Stories, Shrines & SilenceStep into the tender, time-worn lanes of Nizamuddin, where the fragrance of incense mingles with qawwali echoes and centuries of faith, love, and longing still breathe through stone and sky.Join us for a soulful heritage walk through the sacred precincts of Nizamuddin Dargah, as we trace the footsteps of saints, poets, patrons, and wanderers who made this neighbourhood a living archive of Delhi\u2019s Sufi soul.On this journey, we will also pause at:\u2728 Ghalib\u2019s Mazar \u2014 remembering the poet of longing and lament\u2728 Chausath Khamba \u2014 a marble pavilion of quiet grace and symmetry\u2728 Atagha Khan\u2019s Tomb \u2014 a Mughal-era resting place of power and piety\u2728 Pateh Shah\u2019s Dargah \u2014 where devotion meets deep serenity. Along the way, we\u2019ll listen to stories of shrines and seekers, of migration and memory, of music, miracles, and mysticism \u2014 stories that still whisper through these alleys at dusk.",
+    "startDate": "2026-11-01T16:00:00+05:30",
+    "endDate": "2026-11-01T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Bharat Scouts and Guides Marg, opposite Humayun Tomb Park, Nizamuddin, Hazrat Nizamuddin, National Zoological Park, Sundar Nagar, New Delhi, Delhi 110013, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59564670000000000000",
+        "longitude": "77.24516910000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/nizzz",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Body Language Speaks Louder Than Words",
     "description": "About the LectureThis lecture explores body language as one of the most powerful forms of communication we have. From micro-expressions and eye movements to posture, gestures and the subtle inconsistencies between what someone says and what they do, we'll examine how non-verbal cues reveal emotion, confidence, stress and intention long before words catch up.Drawing on years of training law enforcement agencies such as Delhi Police Crime Branch AHTU to CISF, CISF ASG. RPF, GRP to forensic and academic institutions across India such as training forensic experts at Directorate of Forensic Science Services Central Forensic Science Laboratory, National Forensic Science University Delhi and Goa Campus and Rashtriya Raksha University, Gujarat.Recently he was invited for analysing Body language of world leaders at the BRICS Summit in New Delhi, Gaurav Gill takes the same tools used in interrogation rooms and diplomatic summits and turns them toward everyday life: negotiations, dates, interviews, and the conversations you have every day without realising how much you're saying.The session explores:How facial expressions, posture and gestures reveal what words often hideThe difference between a nervous habit and a genuine sign of deceptionHow law enforcement and forensic experts read non-verbal cues in real investigationsPractical ways to apply body language reading to your own personal and professional lifeAbout the SpeakerGaurav Gill is a body language expert and consultant psychologist. He has taken guest lectures at the National Forensic Sciences University (Delhi and Goa campuses), Rashtriya Raksha University (Gujarat campus) and conducted workshop at  Juvenile Justice Board (JJB-VII), Dwarka, Delhi.  He has also featured on Raj Shamani's Figuring Out podcast, in an episode that has drawn more than 3.2 million views.His training assignments include the Delhi Police Crime Branch AHTU, Delhi Police (Central District \u2014 Kamla Market, Hauz Khas and IP Estate), Pune Police and Pune Crime Branch AHTU, SPUWAC Headquarters (Special Police Unit for Women and Children), the Railway Protection Force (RPF), Government Railway Police (GRP), CISF and the CISF ASG Unit. He has conducted specialised body language training for forensic experts at DFSS-CFSL (formerly CBI-CFSL), New Delhi, and has been guest faculty at the National Forensic Sciences University (Delhi and Goa campuses), Rashtriya Raksha University (Gujarat campus) and the Juvenile Justice Board (JJB-VII), Dwarka, Delhi.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
     "startDate": "2026-11-01T16:00:00+05:30",
@@ -2705,6 +2855,82 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Haunted Walk: Purana Quila",
+    "description": "Ruhani Raatein: Haunted Walk at Purana QilaAs the sun sets behind Delhis ancient ramparts, join us for a moonlit journey through one of the city s oldest forts-Purana Qila, where history whispers and shadows linger.From ghostly legends to chilling ruins, this walk blends myth, mystery, and Mughal-era memories. Are the tales true? Were voices heard in the dark? Come find out for yourself, if you dare.Not just a walk-this is an experience that tingles your spine and stirs your soul.",
+    "startDate": "2026-11-07T16:00:00+05:30",
+    "endDate": "2026-11-07T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Mathura Rd, Near Delhi Zoo, J65V+RFH, Pragati Maidan, New Delhi, Delhi 110001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.60957440000000000000",
+        "longitude": "77.24373709999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "700.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/haunted-walk-purana-quila",
+    "keywords": [
+      "Adventure",
+      "Walking Tour",
+      "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Kaboortarbazi in Turkman gate : A heritage walk",
+    "description": "Once a passion of emperors, nobles, and city elites, Kabootarbaazi was more than a sport \u2014 it was skill, strategy, pride, and poetry in flight.From the rooftops of medieval Delhi to the lanes of Turkman Gate, pigeons carried messages, status, and stories. This heritage walk explores the ancient and medieval world of Kabootarbaazi, alongside the layered history of Turkman Gate \u2014 a gateway that has witnessed sultans, sieges, resistance, and everyday life for centuries.Join us as we trace a living tradition, still fluttering above the old city, and uncover how sport, culture, and urban history come together in the skies of Purani Dilli.",
+    "startDate": "2026-11-15T10:00:00+05:30",
+    "endDate": "2026-11-15T12:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "2067, Asaf Ali Rd, Old Delhi, Central, Kamla Market, Ajmeri Gate, Delhi, 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64224410000000000000",
+        "longitude": "77.23266060000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "900.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/kaboortarbazi-in-turkman-gate-a-heritage-walk",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Mehfil-e-Yashraj",
     "description": "Mehfil-e-Yashraj ~ An unforgettable evening of ghazalYashraj is a remarkably talented 12-year-old ghazal and Sufi singer who has already created a growing audience through social media platforms such as Facebook and Instagram. Despite his young age, he has participated in and won several state-level music competitions and is also a Sangam Kala Group winner.His soulful and soothing voice has earned him appreciation and blessings from renowned personalities of the ghazal and music fraternity, including Ustaad Ghulam Ali Khan Sahib and Murshid Ali. His musical journey is deeply rooted in the guidance of his guru, Sh. Sudhanshu Ehsaas, who has been nurturing and training him since Yashraj was just six years old.The talent that Yashraj displays today is the result of years of dedicated riyaaz, discipline, learning and hard work\u2014both by the young artist and his guru. His understanding of music, command over ghazal and Sufi compositions, and his naturally peaceful and expressive voice make him a truly promising young performer. Depot 48 provide talented singers and performers with a platform where they can build their artistic profile, gain confidence and, most importantly, experience the energy and dynamics of a live audience.For Yashraj, this opportunity is especially meaningful. At just 12, he already possesses the musical ability of a seasoned young artist, while live audience engagement is naturally an area where he will continue to grow with experience. With more stage exposure, interactions with diverse audiences and continued riyaaz, he has immense potential to develop into a confident and compelling live performer.",
@@ -2776,6 +3002,44 @@
       "Leisure",
       "Music",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Ghalib Aur Dilli : Poetry ,People & Lost Worlds",
+    "description": "What happens when a poet's beloved city begins to disappear before his eyes?This is not a conventional Chandni Chowk heritage walk. Instead, we explore Old Delhi through the eyes, words and wonderfully complicated life of Mirza Ghalib\u2014one of the greatest poets of the Urdu language.Ghalib loved Delhi, its culture, its people and its refined social world. But he also witnessed the city undergo extraordinary upheaval, particularly during and after the Revolt of 1857. As Delhi was devastated and its familiar world transformed, the poet found himself grappling with loss, uncertainty and the disappearance of a way of life he had known.Through his letters, poetry and anecdotes, we will explore how Ghalib saw his city, how he responded to its changing fortunes, and what his writings reveal about Delhi during one of the most turbulent periods in its history.As we walk through selected corners of Old Delhi, the city becomes the backdrop to his extraordinary story. The experience concludes at Ghalib ki Haveli in Ballimaran, bringing us closer to the poet, his world and the city that inspired him.Come for Ghalib's poetry, stay for his stories\u2014and discover a very different way of looking at Old Delhi.",
+    "startDate": "2026-11-22T10:00:00+05:30",
+    "endDate": "2026-11-22T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Netaji Subhash Marg, opposite Red Fort, Old Delhi, Chandni Chowk, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.65581870000000000000",
+        "longitude": "77.23618300000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/ghalib-aur-dilli-poetry-people-lost-worlds",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
       "URBANAUT"
     ]
   },
@@ -2919,6 +3183,45 @@
     "url": "https://urbanaut.app/spot/rethinkingworkinmidlife-delhi",
     "keywords": [
       "Virtual",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Haunted Walk: Mehrauli Archaeological Park",
+    "description": "Join us for a hauntingly beautiful night walk through the Mehrauli Archaeological Park, a place where centuries of Delhi\u2019s history come alive\u2014alongside tales of the unseen. In this special segment, Ruhaani Raatein, we delve into the world of djinns, the mystical beings believed to reside in this ancient land.Guided by a historian and storyteller, we\u2019ll explore how djinns are viewed and worshipped in Islamic traditions, and how folklore continues to shape the spiritual character of Mehrauli even today.Our walk will take you through: The tomb of Jamali Kamali, often called the Gay Taj Mahal for its poetic mystique and timeless love story A haunting 500-year-old baoli (stepwell)The remnants of a British-era swimming pool, hidden in plain sight A peaceful lakeside caf\u00e9, perfect for ending the evening with a quiet reflection or a warm chaiAs night falls and shadows grow, let the stories guide you through one of Delhi\u2019s oldest, most magical spaces\u2014where the past is never truly past.",
+    "startDate": "2026-11-29T17:00:00+05:30",
+    "endDate": "2026-11-29T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Anuvrat Marg, opposite Qutab Minar Metro Station, Christian Colony, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52020410000000000000",
+        "longitude": "77.18767900000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "700.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/haunted-walk-mehrauli-archaeological-park",
+    "keywords": [
+      "Adventure",
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
       "URBANAUT"
     ]
   },
