@@ -189,7 +189,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Shakeout Run SWAG - Adidas Runners Club",
-    "description": "We\u2019re kicking things off with a SWAG Community Run, and we\u2019d love for you to be a part of it!Here's the plan:Meet at the Dirty GoodWarm-up3.5 KM community runPre-run hair Braiding stationA fun Nail art stationHydration by Fast&UpPost-run refuelling with coffee, smoothies and more at Dirty GoodThis is a women-only run. If you are a beginner and want to start running, our 3.5 KM run is the best place to start.The Community: At Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "description": "We\u2019re kicking things off with a SWAG Community Run, and we\u2019d love for you to be a part of it!Here's the plan:Meet at the Dirty GoodWarm-up3.5 KM community runPre-run hair Braiding stationA fun Nail art stationHydration by Fast&UpThis is a women-only run. If you are a beginner and want to start running, our 3.5 KM run is the best place to start.The Community: At Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
     "startDate": "2026-10-17T06:30:00+05:30",
     "endDate": "2026-10-17T08:30:00+05:30",
     "location": {
@@ -2549,6 +2549,43 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Wasl Ki Shaam - An Ode to Coke Studio",
+    "description": "Wasl Ki Shaam - An Ode to Coke StudioStep into an intimate, curated live music experience celebrating the timeless melodies and soulful sounds of Coke Studio.From Mujhse Pehli Si Mohabbat to Paar Chana De, from Ronay Na Diya to Faasle by Kaavish \u2014 we\u2019ve got it all.Expect soulful live renditions, familiar melodies, and an evening filled with music, nostalgia, and memories.Thoughtfully curated for a niche community of music lovers, Wasl Ki Shaam is an experience designed to be felt, not just heard.Date: October 31, 2026 | 5\u20137 PMLocation: South DelhiVenue details: The exact location will be shared with registered guests on WhatsApp once their booking is confirmed, preserving the intimacy and exclusivity of the experience.Come for the music. Stay for the feeling.",
+    "startDate": "2026-10-31T17:00:00+05:30",
+    "endDate": "2026-10-31T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "New Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.61392980000000000000",
+        "longitude": "77.20882820000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Wasl Ki Shaam",
+      "url": "https://urbanaut.app/partner/wasl-ki-shaam"
+    },
+    "url": "https://urbanaut.app/spot/wasl-ki-shaam",
+    "keywords": [
+      "Live GIG",
+      "Music",
       "URBANAUT"
     ]
   },
