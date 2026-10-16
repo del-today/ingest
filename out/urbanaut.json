@@ -305,41 +305,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Say Less: A Field Guide To Being Watched",
-    "description": "About the LectureIs there a way to be seen that doesn't cost you your voice? Or was this trade always built into the system?You don't need to be arrested to stop speaking. You just need to suspect someone might be watching. After the 2013 Snowden revelations, researchers found a measurable drop in Wikipedia views of sensitive topics. No one was punished for reading an article. People simply stopped.This lecture is a field guide to being watched today. It covers the state with facial recognition and a database to match it against, the platforms built for advertising that can identify you from your own digital trail, and the quietest kind of all: the friend who screenshots, the forward, being recognised by someone you know. Along the way, we'll look at why visibility alone can be enough to change how we behave, and what that means for how freely any of us really speak.The session explores:Three ways of being watched: institutional, platform and lateral (peer) surveillanceThe panopticon: why the possibility of being watched does the work, not the watching itselfSocial sorting: how surveillance judges the category you've been placed in, not youThe chilling effect, and the evidence that it's more than a metaphorAbout the SpeakerSoumya Singh Chauhan is an Assistant Professor at O.P. Jindal Global University, where she is also pursuing her PhD on state data collection practices. Her research interests lie in privacy, surveillance and intellectual property law, and she teaches a surveillance elective at the university. When she's not thinking about the deep dystopia we live in, she zooms in: writing poetry, making art, or learning dance and music. A real escape would be to zoom out and finally pursue her as-yet-unsatiated interest in astronomy. Don't ask her anything about it right now; she knows nothing.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
-    "startDate": "2026-10-17T17:00:00+05:30",
-    "endDate": "2026-10-17T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "3rd Floor, G-16B, Hudson Ln, Block G, Vijay Nagar, Delhi, 110009, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.69452480000000000000",
-        "longitude": "77.20396410000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/say-less-a-field-guide-to-being-watched",
-    "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Raat Ke Afsane : Qutub Minar",
     "description": "Experience the magic of Qutub Minar like never before\u2014under the stars and glowing lights. This is a guided heritage walk led by a historian, who will take you through the stunning Qutub complex after dark. As the entire site is beautifully illuminated at night, the minaret shines like Delhi\u2019s very own Eiffel Tower\u2014majestic, mysterious, and unforgettable.Walk through centuries of history, discover forgotten stories, and explore Delhi\u2019s medieval past through engaging storytelling. The play of light, shadow, and silence transforms this heritage site into something truly cinematicPlaces we will cover : 1. Mughal Serai2. Alai Minar3. Iltutmish Tomb4. Qutub Minar5. Iron Pilar6. 27 Jain and hindu temples7. Alai Darwaza8. Alauddin Khilji grave and madarsa .Important Points:  1. Details of the heritage walk will be mailed to you when you book the tickets2. No guided fees for kids below 5.3. Medium of communication : Hindi and English4. Please note that in case of unavoidable external reasons such as (weather conditions, political rallies, VIP movement, powercut) the walk may be canceled. The participant has the liberty to take another walk by the company against the payment they have made within 30 days since the date of the registered walk.5. The company does not have refund policy.",
     "startDate": "2026-10-17T17:30:00+05:30",
@@ -834,9 +799,9 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Raat ke Afsane : Safdarjung Tomb",
-    "description": "Safdarjung Tomb Walk: Stories After SunsetA guided heritage walk through the Safdarjung Tomb complex exploring the history, architecture and cultural significance of one of the last grand monuments of the Mughal era in Delhi.The walk highlights the transition from late Mughal power to emerging regional influences and explores the political, cultural and artistic context in which the monument was built. Participants will learn about its architecture, design elements and historical importance in Delhi\u2019s heritage landscape.The experience is conducted during the evening, allowing participants to view the monument in a calm and atmospheric setting while engaging with its history through guided storytelling.Language of communication is Hindi and English.",
+    "description": "Safdarjung Tomb Walk: Stories After SunsetA guided heritage walk at Safdarjung Tomb in Delhi exploring its history, architecture and cultural importance. The monument represents the late Mughal period and reflects the transition of power in Delhi.The walk covers the monument complex and its surroundings, sharing stories about its construction, design, and historical context. It introduces Mughal architecture and the area's heritage.The experience is conducted in Hindi and English.Important Information1. Details will be shared after booking confirmation2. Children below 5 years are not charged3. In case of unavoidable circumstances, the event may be rescheduled or cancelled. An alternate date may be offered within 30 days, subject to availability4. No refunds once tickets are booked",
     "startDate": "2026-10-18T17:00:00+05:30",
-    "endDate": "2026-10-18T18:30:00+05:30",
+    "endDate": "2026-11-15T18:30:00+05:30",
     "location": {
       "@type": "Place",
       "address": "Airforce Golf Course, Delhi Race Club, New Delhi, Delhi 110003, India",
@@ -851,7 +816,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "650.00",
+      "price": "700.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -862,6 +827,7 @@
     },
     "url": "https://urbanaut.app/spot/heritage-walk-safdarjung-tomb-raat-ke-afsane",
     "keywords": [
+      "Walking Tour",
       "History & heritage",
       "Guided tour",
       "URBANAUT"
@@ -2931,6 +2897,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Raat ke afsane: Heritage walk at Red Fort",
+    "description": "Raat Afsaane: Kile-e-MubarakA Private Moonlit Walk Through the Red FortWhat if you could experience the Red Fort after the crowds leave, with its magnificent structures illuminated under the night sky? Join En Route Indian History for a specially curated heritage experience that offers an intimate exploration of the Mughal Empire's grandeur.What Makes This Experience Special?Exclusive Access: Experience the Red Fort in a private setting, away from the usual public crowds.Moonlit Grandeur: Witness the fort's magnificent historic structures under the night sky.Private Guided Walk: Explore the complex through an expert-led heritage walk.Immersive Storytelling: Discover the stories of Mughal emperors, their courts, ambitions and legacies.Technology Meets History: Enjoy guided narration via microphone and tablet to explore historical details.Beyond the Monuments: Uncover architectural marvels, hidden histories, and fascinating stories behind the Mughal Empire's rise and decline.The walk will be conducted in Hindi and English.",
+    "startDate": "2026-11-14T19:00:00+05:30",
+    "endDate": "2026-11-14T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Netaji Subhash Marg, Old Delhi, Lal Qila, Chandni Chowk, New Delhi, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.65615920000000000000",
+        "longitude": "77.24102030000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "700.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/raat-ke-afsane-heritage-walk-at-red-fort",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Kaboortarbazi in Turkman gate : A heritage walk",
     "description": "Once a passion of emperors, nobles, and city elites, Kabootarbaazi was more than a sport \u2014 it was skill, strategy, pride, and poetry in flight.From the rooftops of medieval Delhi to the lanes of Turkman Gate, pigeons carried messages, status, and stories. This heritage walk explores the ancient and medieval world of Kabootarbaazi, alongside the layered history of Turkman Gate \u2014 a gateway that has witnessed sultans, sieges, resistance, and everyday life for centuries.Join us as we trace a living tradition, still fluttering above the old city, and uncover how sport, culture, and urban history come together in the skies of Purani Dilli.",
     "startDate": "2026-11-15T10:00:00+05:30",
@@ -3118,6 +3123,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Bazm-i-Havelis : Chandni Chowk",
+    "description": "Havelis of Chandni Chowk: Stories Behind the DoorsA guided heritage walk through Chandni Chowk's historic lanes, exploring the grand havelis of Shahjahanabad. The walk introduces participants to the architectural and cultural heritage of old Delhi, once home to merchants, poets and noble families.Through storytelling, the experience highlights the history of these havelis, their architectural features such as courtyards, jharokhas, and wooden doors, and their transformation from the Mughal era to the present day.The walk offers insights into the social, cultural and economic life of historic Delhi as participants explore selected haveli sites in the area.Communication is in Hindi and English.Important InformationDetails of the walk will be shared after booking confirmationChildren below 5 years are not charged for guided participationThe walk will be conducted in Hindi and EnglishIn unavoidable circumstances such as weather conditions, restrictions, VIP movement, or power failure, the event may be cancelled or rescheduled. Participants may be offered an alternate date within 30 days, subject to availabilityThe organiser does not offer refunds once tickets are booked",
+    "startDate": "2026-11-22T17:00:00+05:30",
+    "endDate": "2026-11-22T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Chandni Chowk, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.65053310000000000000",
+        "longitude": "77.23033699999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "700.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/bazm-i-havelis-chandni-chowk",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Rethinking Work in Midlife",
     "description": "From Leadership to the Boardroom: What Does It Take?After years of leading teams, building businesses and making decisions, have you ever wondered whether a board role could be part of your next chapter?Board roles and independent directorships are often seen as a natural progression for experienced professionals. But what does it really mean to move from running a business or leading a function to contributing at the board level?How do people find their way into these roles? What does a board look for? And what are the responsibilities, expectations and trade-offs that may not be obvious from the outside?Join us for the next conversation in Zuva Life's Rethinking Work in Midlife series, where we'll hear from experienced board directors about their own journeys, how they got started, what they've learnt along the way and what they wish they had known earlier.What we'll exploreHow experienced professionals find their way into board rolesWhat changes when you move from an executive role to a board roleWhat boards look for in independent directorsThe responsibilities, risks and trade-offs involvedHow you can begin exploring this path before making a larger commitmentWho is this for?Experienced professionals, senior leaders, entrepreneurs and independent professionals who are curious about board roles and independent directorships, whether as a future possibility or something they are already beginning to explore.",
     "startDate": "2026-11-26T18:30:00+05:30",
@@ -3220,6 +3263,45 @@
     "url": "https://urbanaut.app/spot/rethinkingworkinmidlife-delhi",
     "keywords": [
       "Virtual",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "NIGHT IN A MUSEUM : HUMAYUN TOMB MUSEUM WALK",
+    "description": "Indus Valley Civilisation Walk at the National MuseumStep back over 4,000 years and explore the fascinating world of the Indus Valley Civilisation through a guided walk at the National Museum.Discover ancient treasures from Harappa and Mohenjo-Daro, including seals, pottery, jewellery, sculptures, and everyday objects. Learn about one of the world's earliest urban civilisations, its advanced city planning, trade networks, craftsmanship, and the enduring mystery of the undeciphered Indus script.Experience history through engaging stories and expert insights into the people and culture that shaped this remarkable civilisation.Highlights1. Guided exploration of the Indus Valley galleries at the National Museum2. Artefacts from Harappa, Mohenjo-Daro, and other archaeological sites3. Insights into ancient urban planning, architecture, and technology4. Stories of trade, craftsmanship, and daily life5. The mystery of the undeciphered Indus script6. Historical context behind seals, pottery, jewellery, and sculpturesImportant Information1. Please arrive at the meeting point at least 15 minutes before the scheduled start time.Comfortable walking shoes are recommended.2 Photography may be restricted in certain areas of the museum. Please follow museum guidelines.3 Tickets once booked are non-refundable and cannot be cancelled or transferred.4. In the event of unforeseen circumstances beyond the organiser's control, such as government restrictions, political disturbances, public safety concerns, natural calamities, or any situation that makes conducting the event unsafe or impossible, the event will be rescheduled. The same ticket will remain valid for the rescheduled date, and we will inform participants in advance.",
+    "startDate": "2026-11-29T17:00:00+05:30",
+    "endDate": "2026-11-29T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Hazrat Nizamuddin Aulia Dargah, Mathura Rd, Nizamuddin, Nizamuddin East, New Delhi, Delhi 110013, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59328480000000000000",
+        "longitude": "77.25074920000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "700.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/night-in-a-museum-humayun-tomb-museum-walk",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
       "URBANAUT"
     ]
   },

@@ -52,6 +52,23 @@
   },
   {
     "@type": "ScreeningEvent",
+    "name": "Film screenings at PHOTOINK - I",
+    "url": "https://fillum.in/event/6366",
+    "startDate": "2026-10-18T11:00:00+05:30",
+    "endDate": "2026-10-18T11:00:00+05:30",
+    "description": "A day-long programme of films on industry and labour, selected by artists Madhuban Mitra and Manas Bhattacharya. Conceived in close dialogue with and as a response to At Work, this programme extends..more",
+    "location": {
+      "@type": "Place",
+      "name": "B-74, Defence Colony",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "PHOTOINK"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "Monster(2023)",
     "url": "https://fillum.in/screening/6352",
     "startDate": "2026-10-18T12:00:00+05:30",
@@ -103,6 +120,23 @@
   },
   {
     "@type": "ScreeningEvent",
+    "name": "Film screenings at PHOTOINK - II",
+    "url": "https://fillum.in/event/6367",
+    "startDate": "2026-10-18T14:50:00+05:30",
+    "endDate": "2026-10-18T14:50:00+05:30",
+    "description": "A day-long programme of films on industry and labour, selected by artists Madhuban Mitra and Manas Bhattacharya. Conceived in close dialogue with and as a response to At Work, this programme extends..more",
+    "location": {
+      "@type": "Place",
+      "name": "B-74, Defence Colony",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "PHOTOINK"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "The Wicker Man(1973)",
     "url": "https://fillum.in/screening/6360",
     "startDate": "2026-10-18T16:00:00+05:30",
@@ -116,40 +150,6 @@
     "organizer": {
       "@type": "Organization",
       "name": "SomeArt"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Thirst(2009)",
-    "url": "https://fillum.in/screening/6354",
-    "startDate": "2026-10-18T17:00:00+05:30",
-    "endDate": "2026-10-18T17:00:00+05:30",
-    "description": "A respected priest volunteers for an experimental procedure that may lead to a cure for a deadly virus. He gets infected and dies, but a blood transfusion of unknown origin brings him back to life. ..more",
-    "location": {
-      "@type": "Place",
-      "name": "Mool, South Ex II",
-      "address": "South Ex II, New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Out of Sequence"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Leo from Chicago(2025)",
-    "url": "https://fillum.in/screening/6272",
-    "startDate": "2026-10-19T18:30:00+05:30",
-    "endDate": "2026-10-19T18:30:00+05:30",
-    "description": "Free entry.",
-    "location": {
-      "@type": "Place",
-      "name": "C. D. Deshmukh Auditorium, India International Centre",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "India International Centre"
     }
   }
 ]
