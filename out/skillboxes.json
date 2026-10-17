@@ -270,15 +270,7 @@
             "availability": "InStock",
             "description": "Additional mandatory cover charges of INR 500 each applicable at gates.\n",
             "inventoryLevel": 50,
-            "name": "Group of 2 Pass",
-            "url": "https://www.skillboxes.com/events/ticket/kurukshetra-by-aditya-prerna-sbvwbbzk"
-         },
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "description": "Additional mandatory cover charges of INR 500 applicable at gates.\n",
-            "inventoryLevel": 0,
-            "name": "Early Bird Pass",
+            "name": "Phase 1 Group of 2 Pass",
             "url": "https://www.skillboxes.com/events/ticket/kurukshetra-by-aditya-prerna-sbvwbbzk"
          }
       ],
@@ -455,7 +447,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional cover charges of INR 500 applicable at gates.\nFully redeemable on Food and beverages",
-            "inventoryLevel": 100,
+            "inventoryLevel": 99,
             "name": "Phase 1 Pass",
             "url": "https://www.skillboxes.com/events/ticket/western-express-highway-s-sbkklfym"
          },

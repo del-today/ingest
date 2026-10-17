@@ -52,6 +52,23 @@
   },
   {
     "@type": "ScreeningEvent",
+    "name": "The Voice of Hind Rajab(2025)",
+    "url": "https://fillum.in/screening/6372",
+    "startDate": "2026-10-18T13:00:00+05:30",
+    "endDate": "2026-10-18T13:00:00+05:30",
+    "description": "Home screening set up with a projector and speaker, followed by a discussion. Please feel free to bring your own snacks. Please do not consume or carry any alcohol.RSVPs will be confirmed by Sun..more",
+    "location": {
+      "@type": "Place",
+      "name": "Green Park",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Work in Progress Film Club"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "The Medium(2021)",
     "url": "https://fillum.in/screening/6353",
     "startDate": "2026-10-18T14:30:00+05:30",
@@ -82,23 +99,6 @@
     "organizer": {
       "@type": "Organization",
       "name": "PHOTOINK"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "The Wicker Man(1973)",
-    "url": "https://fillum.in/screening/6360",
-    "startDate": "2026-10-18T16:00:00+05:30",
-    "endDate": "2026-10-18T16:00:00+05:30",
-    "description": "A missing girl. A remote island. Smiling strangers who seem to know more than they reveal.When a police sergeant arrives searching for answers, he finds a community where ancient rituals thrive,..more",
-    "location": {
-      "@type": "Place",
-      "name": "iPley Music Studio, GK-1",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "SomeArt"
     }
   }
 ]
