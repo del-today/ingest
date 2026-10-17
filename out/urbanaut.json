@@ -2,119 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Kathika Cultural Experience",
-    "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
-    "startDate": "2026-10-16T11:30:00+05:30",
-    "endDate": "2026-10-31T14:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.64610280000000000000",
-        "longitude": "77.22736410000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kathika Cultural Centre and Museum",
-      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
-    },
-    "url": "https://urbanaut.app/spot/kathika-cultural-experience-15616",
-    "keywords": [
-      "Music",
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "UNLECTURE x GULLY LABS: Art History Series",
-    "description": "Tired of the post work scroll-and-sleep routine? Reclaim your weeknights with Out of Office: our new series designed to give your brain a creative break after work! This October Unlecture and Gully Labs is bringing you a series of Art history lectures to fill your cup!Oct 16 | Sanchita Khurana Street View: On Reading a City & Its Walls   City walls are literally talking. We\u2019re reading street art, murals, and graffiti to decode visibility, ownership, and urban vibes.   Oct 23 | Chetna Khanna \u2014 Feminist Art History: Asia Differs from the West   Why copy Western frameworks? Exploring feminist art history through a uniquely Asian lens at the intersection of gender, culture, and society.   Oct 24 | Lolita Dutta \u2014 From Analog to Digital: Transitions in DesignFrom old-school pencils and B&W photos to pen tabs and AI. A total deep-dive into how design evolved without losing its soul.Oct 29 | Parul Dave Mukherji \u2014 Who is Afraid of Indian Aesthetics? From the Erotic to the Grotesque   Not everything in classical Indian art is pretty sculptures. Unpacking the dark, fearful, and lowkey 'Halloweenesque' aesthetics.   Pull up, bring your friends, and let\u2019s reframe the vibe!",
-    "startDate": "2026-10-16T19:30:00+05:30",
-    "endDate": "2026-10-29T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54778550000000000000",
-        "longitude": "77.21136729999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "708.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Gully Labs",
-      "url": "https://urbanaut.app/partner/baithak"
-    },
-    "url": "https://urbanaut.app/spot/unlecture-x-gully-labs-art-history-series",
-    "keywords": [
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Shakeout Run SWAG - Adidas Runners Club",
-    "description": "We\u2019re kicking things off with a SWAG Community Run, and we\u2019d love for you to be a part of it!Here's the plan:Meet at the Dirty GoodWarm-up3.5 KM community runPre-run hair Braiding stationA fun Nail art stationHydration by Fast&UpThis is a women-only run. If you are a beginner and want to start running, our 3.5 KM run is the best place to start.The Community: At Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
-    "startDate": "2026-10-17T06:30:00+05:30",
-    "endDate": "2026-10-17T08:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Musical Fountain Park, Ground Floor, Block 7A and Block 7B, Within Block 3, One Golden Mile, Shaheed Sudhir Tyagi Marg, Block A, Netaji Nagar, New Delhi, Delhi 110066, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.57073010000000000000",
-        "longitude": "77.18547450000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/run1",
-    "keywords": [
-      "Adventure",
-      "Wellness",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Partition & Delhi heritage walk @Purana Qila",
     "description": "Join Us for Partition & Delhi heritage walk & Baithak at Purana Qila From nuclear proliferation to terrorism, the Partition of India continues to cast its shadow even today. Join us for a Baithak that seeks to understand the complex experiences of Partition\u2014an event that remains deeply misunderstood both within and beyond the subcontinent. Through facts, poetry, literature, photographs, paintings, and personal belongings, we will revisit this significant chapter of history. Discover how Partition shaped Delhi\u2019s culture and internal geography.Kuch Pal Purana Qila Ke Naam! (suitable for 10 years & above)*Duration: 2 hours approx * Language: A blend of Hindi, Urdu & English(Special invitation to senior citizens, as this session involves minimal walking!)* Baithak Host: Nitika-Meeting point: Purana Qila ticket counter --Nearest metro station: Supreme Court- Instagram: Darwesh_taleweavers",
     "startDate": "2026-10-17T09:00:00+05:30",
@@ -152,45 +39,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Duga Duga: Pandal Visit at CR Park",
-    "description": "Shakti Walk - Durga Puja at C.R. ParkThis Pujo, walk with us into the heart of Chittaranjan Park, Delhi's very own mini-Kolkata, where devotion, tradition, and festivity come together.As the pandal comes alive with the evening arati, the fragrance of incense, and the rhythmic beats of the dhak, immerse yourself in the festive spirit of Shashthi. Experience the energy of the celebrations as the community comes together to welcome Goddess Durga.Witness the glow of the Evening Arati, followed by the graceful and spirited Dhunuchi dance, one of the most captivating traditions of Durga Puja. From there, explore the vibrant atmosphere of C.R. Park, with its cultural performances, food stalls, festive decorations, and the warmth of a community celebrating together.Come dressed in the festive spirit - saris, dhotis, or kurta-pyjamas- and join us as we experience the stories, sights, sounds, and traditions of Pujo in the heart of Delhi.",
-    "startDate": "2026-10-17T11:00:00+05:30",
-    "endDate": "2026-10-17T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Chittaranjan Park, New Delhi, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53978420000000000000",
-        "longitude": "77.24897260000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "650.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Enroute Indian History",
-      "url": "https://urbanaut.app/partner/enrouteindianhistory"
-    },
-    "url": "https://urbanaut.app/spot/duga-duga-pandal-visit-at-cr-park",
-    "keywords": [
-      "Festival",
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Cyanotype Workshop",
     "description": "The workshop on the Cyanotype Process is an immersive one-day workshop where the participants learn the historic 19th century printmaking process and get to create their own unique handmade prints on both paper & fabric and take them home.Structure of the workshop:History of Cyanotype - Learn about the origin of Cyanotype, an alternative printing technique through a brief presentation.Science of Cyanotype - Mix chemicals and coat your own surfaces in a hands-on darkroom setting.Creation & Patience - Compose with natural elements and watch your images develop through light and time.Your Final Prints - Wash and finish the prints you've created to take home.Frequently asked questions:Is there any prior knowledge needed to attend this workshop?No, there is no prior knowledge needed for this workshop.Is there an age restriction for this workshop?Yes, the workshop is meant for 15 years and older.If there is no sun how would the workshop be conducted?On the days where the sun is not there we have an artificial source of UV light that can be used.Does cyanotype only work with leaves and other natural materials?No, cyanotype can be done with any flat object, we at Museo, also have some stock negatives that can be used during the workshop.Do we as participants need to bring anything?No, all equipment and materials will be provided by Museo.What is the recommended attire for the workshop?Comfortable clothing and shoes are recommended for the workshop.Will lunch be provided?Each participant will receive a 15% discount at the museum cafe.How many prints will I be able to make in the workshop?Each participant will make 10 paper prints and a fabric print, which they can take home.Once the workshop is over, how can I continue to practice the process?You can book the darkroom or you can buy the chemicals from us to create the solution and make prints at home. For both of them you would have to write to us at workshops@museocamera.orgIs Cyanotype safe?Yes, cyanotype is one of the safest photographic processes out there.Meet your trainers Aditya AryaLead facilitator 45+ years of experience Photographer, historian and Founder-Director of Museo Camera with years of experience across advertising and fine art, he champions the slowness of analog processes. He practices and teaches historic techniques like cyanotype and wet plate collodion, keeping them alive through hands-on learning.https://www.adityaarya.com/Khushi Upadhyay Assistant 2+ years of experience She is a photographer working with analog and alternative processes, embracing slowness while guiding others to do the same. Rooted in light and material, she leads cyanotype and historic process workshops through hands-on, immersive image-making.",
@@ -222,6 +70,44 @@
     "url": "https://urbanaut.app/spot/cyanotype-workshop-15572",
     "keywords": [
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Kathika Cultural Experience",
+    "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
+    "startDate": "2026-10-17T11:30:00+05:30",
+    "endDate": "2026-10-31T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64610280000000000000",
+        "longitude": "77.22736410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kathika Cultural Centre and Museum",
+      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
+    },
+    "url": "https://urbanaut.app/spot/kathika-cultural-experience-15616",
+    "keywords": [
+      "Music",
+      "History & heritage",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -1278,6 +1164,43 @@
       "Leisure",
       "Eco Friendly",
       "Pop-up Event",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "UNLECTURE x GULLY LABS: Art History Series",
+    "description": "Tired of the post work scroll-and-sleep routine? Reclaim your weeknights with Out of Office: our new series designed to give your brain a creative break after work! This October Unlecture and Gully Labs is bringing you a series of Art history lectures to fill your cup!Oct 16 | Sanchita Khurana Street View: On Reading a City & Its Walls   City walls are literally talking. We\u2019re reading street art, murals, and graffiti to decode visibility, ownership, and urban vibes.   Oct 23 | Chetna Khanna \u2014 Feminist Art History: Asia Differs from the West   Why copy Western frameworks? Exploring feminist art history through a uniquely Asian lens at the intersection of gender, culture, and society.   Oct 24 | Lolita Dutta \u2014 From Analog to Digital: Transitions in DesignFrom old-school pencils and B&W photos to pen tabs and AI. A total deep-dive into how design evolved without losing its soul.Oct 29 | Parul Dave Mukherji \u2014 Who is Afraid of Indian Aesthetics? From the Erotic to the Grotesque   Not everything in classical Indian art is pretty sculptures. Unpacking the dark, fearful, and lowkey 'Halloweenesque' aesthetics.   Pull up, bring your friends, and let\u2019s reframe the vibe!",
+    "startDate": "2026-10-23T19:30:00+05:30",
+    "endDate": "2026-10-29T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "708.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
+    },
+    "url": "https://urbanaut.app/spot/unlecture-x-gully-labs-art-history-series",
+    "keywords": [
+      "History & heritage",
+      "Art & culture",
       "URBANAUT"
     ]
   },
