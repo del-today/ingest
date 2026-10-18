@@ -2,44 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Early Mughal Women - Sunder Nursery Walk",
-    "description": "Join us this Sunday, from 9:00 a.m to 11:30 a.m., for a walk through history at Sundar Nursery. Titled \u2018Her Stories: Women of the Early Mughals\u2019, this walk will explore the lesser-told narratives of the women who shaped the early Mughal dynasty - Gulbadan Bano Begum, Hamida Bano Begum, Bega Begum, among others.Through the lives of Babur and Humayun, we\u2019ll trace not only the Mughals' rise but also the deep imprint these women left on empire, memory, and architecture. This is as much a story of gardens, tombs, and dynasties as it is of mothers, daughters, and queens.",
-    "startDate": "2026-10-18T09:00:00+05:30",
-    "endDate": "2026-10-18T11:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "H6VW+PC6, Bharat Scouts and Guides Marg, Nizamuddin, National Zoological Park, Sundar Nagar, New Delhi, Delhi 110003, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59428540000000000000",
-        "longitude": "77.24600699999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "299.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sikkawala",
-      "url": "https://urbanaut.app/partner/sikkawala"
-    },
-    "url": "https://urbanaut.app/spot/emwsnw",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Kathika Cultural Experience",
     "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
     "startDate": "2026-10-18T11:30:00+05:30",
@@ -71,44 +33,6 @@
     "keywords": [
       "Music",
       "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Wick & Whims- A Candle-Making Social",
-    "description": "Step into a warm, creative space and spend a few hours making something beautiful with your own hands. Wick & Whimsy is a hands-on candle-making experience where you\u2019ll learn the basics of candle making, explore fragrances, play with colours and design, and create your very own scented candle to take home.Whether you\u2019re a complete beginner, an art lover, or simply looking for a fun way to spend your evening, this workshop is designed to be relaxed, social and creative. Come solo, bring a friend, or meet someone new while creating something that smells as good as it looks.No prior experience required - just bring your curiosity!",
-    "startDate": "2026-10-18T12:00:00+05:30",
-    "endDate": "2026-10-18T14:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "13-B, Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55455900000000000000",
-        "longitude": "77.19440500000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1400.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Art Social",
-      "url": "https://urbanaut.app/partner/the-art-social"
-    },
-    "url": "https://urbanaut.app/spot/candle-making-theartsocial",
-    "keywords": [
-      "Workshop",
-      "Food & drink",
       "Art & culture",
       "URBANAUT"
     ]
@@ -222,44 +146,6 @@
     "keywords": [
       "Leisure",
       "Live GIG",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Raat ke Afsane : Safdarjung Tomb",
-    "description": "Safdarjung Tomb Walk: Stories After SunsetA guided heritage walk at Safdarjung Tomb in Delhi exploring its history, architecture and cultural importance. The monument represents the late Mughal period and reflects the transition of power in Delhi.The walk covers the monument complex and its surroundings, sharing stories about its construction, design, and historical context. It introduces Mughal architecture and the area's heritage.The experience is conducted in Hindi and English.Important Information1. Details will be shared after booking confirmation2. Children below 5 years are not charged3. In case of unavoidable circumstances, the event may be rescheduled or cancelled. An alternate date may be offered within 30 days, subject to availability4. No refunds once tickets are booked",
-    "startDate": "2026-10-18T17:00:00+05:30",
-    "endDate": "2026-11-15T18:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Airforce Golf Course, Delhi Race Club, New Delhi, Delhi 110003, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.58941560000000000000",
-        "longitude": "77.21062190000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "700.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Enroute Indian History",
-      "url": "https://urbanaut.app/partner/enrouteindianhistory"
-    },
-    "url": "https://urbanaut.app/spot/heritage-walk-safdarjung-tomb-raat-ke-afsane",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
       "URBANAUT"
     ]
   },
@@ -976,7 +862,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Why Do We Keep Having The Same Argument?",
-    "description": "About the TableWhy Do We Keep Having The Same Argument : Decoding the patterns behind our relationshipsBy Damini GroverWhy is it sometimes so difficult to communicate what we really need? And why do certain relationship patterns keep repeating, even when we know they aren't working?From romantic relationships to friendships and family dynamics, the way we connect with others is shaped by our emotional needs, past experiences, beliefs and expectations often in ways we don't even realise.Join us at The Curious Table #02 for an evening of psychology behind human connection decoding the needs, expectations and patterns that shape our relationships.Through relatable examples, conversations and guided reflections, we'll explore:The emotional needs and expectations we bring into relationships.How our past experiences shape the way we connect.Why familiar patterns and conflicts keep repeating.The role of communication, boundaries and emotional awareness in our relationships.Come curious, bring your questions, and leave with fresh perspectives- all over coffee! \u2615Suitable for everyone and all age groups.About the SpeakerDamini Grover is a multi-award-winning Counselling Psychologist, Life Coach, and Founder of I\u2019M POWERED- Centre for Counselling & Well-Being.With over 12 years of experience in mental health and personal development, she has worked with more than 5,000 individuals, exploring the complexities of human emotions, relationships, behavioural patterns and personal growth.She is the author of The Intentional Being (Notion Press), Time to Come Home (Hay House), and Rehguzar, a collection of Hindi poetry.Beyond her counselling practice, she also hosts The Healing Circle, an intimate space for reflection, emotional exploration and meaningful conversations.At The Curious Table, she brings her experience and insights into Decoding Relationships.About The Curious TableThe Curious Table is a Delhi NCR community built for people who haven\u2019t stopped being curious.We build evenings around questions you don\u2019t often get to explore bringing together people who know fascinating things and people who simply want to understand them, over food and drinks.One Table might take you inside the biology of emotions. The next could wander into psychology, science, technology, health, history, culture, or something you didn\u2019t know you were curious about yet.Come curious. Pull up a chair.",
+    "description": "About the TableWhy Do We Keep Having The Same Argument : Decoding the patterns behind our relationshipsBy Damini GroverWhy is it sometimes so difficult to communicate what we really need? And why do certain relationship patterns keep repeating, even when we know they aren't working?From romantic relationships to friendships and family dynamics, the way we connect with others is shaped by our emotional needs, past experiences, beliefs and expectations often in ways we don't even realise.Join us at The Curious Table #02 for an evening of psychology behind human connection decoding the needs, expectations and patterns that shape our relationships.Through relatable examples, conversations and guided reflections, we'll explore:The emotional needs and expectations we bring into relationships.How our past experiences shape the way we connect.Why familiar patterns and conflicts keep repeating.The role of communication, boundaries and emotional awareness in our relationships.Come curious, bring your questions, and leave with fresh perspectives- all over food and drinks!\u00a0Suitable for everyone and all age groups.About the SpeakerDamini Grover is a multi-award-winning Counselling Psychologist, Life Coach, and Founder of I\u2019M POWERED- Centre for Counselling & Well-Being.With over 12 years of experience in mental health and personal development, she has worked with more than 5,000 individuals, exploring the complexities of human emotions, relationships, behavioural patterns and personal growth.She is the author of The Intentional Being (Notion Press), Time to Come Home (Hay House), and Rehguzar, a collection of Hindi poetry.Beyond her counselling practice, she also hosts The Healing Circle, an intimate space for reflection, emotional exploration and meaningful conversations.At The Curious Table, she brings her experience and insights into Decoding Relationships.About The Curious TableThe Curious Table is a Delhi NCR community built for people who haven\u2019t stopped being curious.We build evenings around questions you don\u2019t often get to explore bringing together people who know fascinating things and people who simply want to understand them, over food and drinks.One Table might take you inside the biology of emotions. The next could wander into psychology, science, technology, health, history, culture, or something you didn\u2019t know you were curious about yet.Come curious. Pull up a chair.",
     "startDate": "2026-10-24T15:00:00+05:30",
     "endDate": "2026-10-24T17:00:00+05:30",
     "location": {
@@ -1160,7 +1046,7 @@
     "name": "Public Tuition",
     "description": "What is Public Tuition?We\u2019re getting the unLecture community together for a slow, cosy morning in the sun this October.The idea is pretty simple: everyone brings one thing they know how to do and teaches it to whoever wants to learn. Maybe you crochet, solve Sudoku ridiculously fast, know a few good yoga poses, write poetry, dance, sing, fold very complicated things out of paper \u2014 whatever. It doesn\u2019t have to be a \"serious\" skill, and you definitely don\u2019t have to be an \"expert\", just some passion and interest goes a long way.Come teach us something. Come learn something. Or just come hang out and meet some new, really cool people.We\u2019ll have a picnic-y setup, a potluck (bring something to eat and share), lots of sitting around and chatting, and a bunch of little lessons happening throughout the morning.The location is going to be an open public space in Delhi, and we\u2019ll share the exact spot with everyone who registers.A few things to know:- Bring one skill you\u2019d like to share, big or small- Come ready to pick up a completely random new skill from someone else- Bring something for the potluck if you can- Wear something comfortable and come prepared to sit on the grass ( Bonus if you can bring some extra mats for the group )- No expertise required. Seriously.Entry is open to everyone. Just bring yourself, something to share, and a little curiosity.",
     "startDate": "2026-10-24T16:00:00+05:30",
-    "endDate": "2026-10-24T18:00:00+05:30",
+    "endDate": "2026-10-25T14:00:00+05:30",
     "location": {
       "@type": "Place",
       "address": "Lodhi Rd, Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003, India",
