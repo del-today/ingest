@@ -85,7 +85,7 @@
     "url": "https://www.knma.org/whats-on/exhibitions/inheritors-of-earth",
     "startDate": "2026-09-09T10:00:00+05:30",
     "endDate": "2026-12-22T18:00:00+05:30",
-    "description": "Experiential",
+    "description": "Installation",
     "location": {
       "@type": "Place",
       "name": "KNMA, New Delhi",
@@ -109,46 +109,6 @@
     "location": {
       "@type": "Place",
       "name": "KNMA, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "ExhibitionEvent",
-    "name": "Nilima Sheikh: Fractured Skies",
-    "url": "https://www.knma.org/whats-on/exhibitions/nilima-sheikh-fractured-skies",
-    "startDate": "2026-09-27T10:00:00+05:30",
-    "endDate": "2027-06-13T18:00:00+05:30",
-    "description": "",
-    "location": {
-      "@type": "Place",
-      "name": "The Museum of Modern Art",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "TheaterEvent",
-    "name": "KNMA Dance Festival",
-    "url": "https://www.knma.org/whats-on/performing-arts/knma-dance-festival",
-    "startDate": "2026-10-15T10:00:00+05:30",
-    "endDate": "2026-10-18T18:00:00+05:30",
-    "description": "Dance Festival",
-    "location": {
-      "@type": "Place",
-      "name": "Sunder Nursery, New Delhi",
       "address": "New Delhi"
     },
     "organizer": {
