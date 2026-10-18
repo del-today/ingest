@@ -2,121 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Kathika Cultural Experience",
-    "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
-    "startDate": "2026-10-17T11:30:00+05:30",
-    "endDate": "2026-10-31T14:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.64610280000000000000",
-        "longitude": "77.22736410000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kathika Cultural Centre and Museum",
-      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
-    },
-    "url": "https://urbanaut.app/spot/kathika-cultural-experience-15616",
-    "keywords": [
-      "Music",
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Delhi Ridge: From Empires to the Uprising",
-    "description": "Long before Delhi expanded into the metropolis we know today, a rocky ridge defined its geography, protected its settlements, and silently witnessed the rise and fall of empires. Delhi Ridge: From Empires to the Uprising explores this remarkable landscape where natural history and human history have remained inseparable for more than two thousand years. From Mauryan inscriptions and Sultanate monuments to colonial memorials and battlefields, every stop reveals how the ridge repeatedly became the stage upon which Delhi's destiny unfolded.The experience traces the ridge's transformation across different eras, culminating in the dramatic events of the Revolt of 1857, when these elevated grounds became the decisive military position during the Siege of Delhi. Yet beyond the conflict lies a deeper story of ecology influencing empire, geography shaping political power, and landscapes preserving memories long after kingdoms disappeared. Through archaeological remains, historic structures, and carefully researched narratives, participants discover how this overlooked terrain offers one of the most compelling lenses through which to understand Delhi's layered past and its enduring relationship with the land itself.Detailed Flow of WalkIntroduction to the geological and historical significance of Delhi Ridge.Visit Flagstaff Tower to understand its strategic importance during the Revolt of 1857.Walk towards Khooni Khan Jheel while discussing ecology, water bodies and local folklore.Explore Chauburja Masjid and understand the Sultanate presence along the ridge.Visit Pir Ghaib and uncover the legends surrounding this unique observatory.Visit the Ashokan Pillar and discuss the Mauryan Empire and the movement of ancient inscriptions.Conclude at the Mutiny Memorial with a balanced interpretation of the Siege of Delhi, colonial narratives and India's struggle for independence.Closing discussion on the relationship between landscape, warfare and memory.Key Themes & Highlights Delhi Sultanate Revolt of 1857 Military history Colonial Delhi Archaeology Natural heritage ",
-    "startDate": "2026-10-18T07:00:00+05:30",
-    "endDate": "2026-10-18T10:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Kamla Nehru Ridge, Civil Lines, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.68487630000000000000",
-        "longitude": "77.21608499999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "800.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Trip Warden",
-      "url": "https://urbanaut.app/partner/trip-warden"
-    },
-    "url": "https://urbanaut.app/spot/delhi-ridge-from-empires-to-the-uprising",
-    "keywords": [
-      "Local",
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "THE QUTUB CODE: Decode stories hidden in stone",
-    "description": "What if the Qutub Minar could tell you the story of Delhi?Step into the Qutub Complex and explore the layers of history, architecture, power and cultural exchange that shaped medieval Delhi. From the soaring Qutub Minar and the intricate Alai Darwaza to the ancient Iron Pillar and the ruins of the Quwwatu\u2019l-Islam Mosque, every stone reveals a different chapter.This is not just a walk around a monument. It is a journey through the making of Delhi- its rulers, ambitions, architectural experiments, conflicts, craftsmanship and forgotten stories.Come for the Qutub Minar. Stay for the stories hidden around it.",
-    "startDate": "2026-10-18T08:30:00+05:30",
-    "endDate": "2026-10-18T10:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "G5GQ+443, Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52526250000000000000",
-        "longitude": "77.18779690000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "350.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Riwayat Walks",
-      "url": "https://urbanaut.app/partner/riwayatwalks"
-    },
-    "url": "https://urbanaut.app/spot/the-qutub-code-decode-stories-hidden-in-stone",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Early Mughal Women - Sunder Nursery Walk",
     "description": "Join us this Sunday, from 9:00 a.m to 11:30 a.m., for a walk through history at Sundar Nursery. Titled \u2018Her Stories: Women of the Early Mughals\u2019, this walk will explore the lesser-told narratives of the women who shaped the early Mughal dynasty - Gulbadan Bano Begum, Hamida Bano Begum, Bega Begum, among others.Through the lives of Babur and Humayun, we\u2019ll trace not only the Mughals' rise but also the deep imprint these women left on empire, memory, and architecture. This is as much a story of gardens, tombs, and dynasties as it is of mothers, daughters, and queens.",
     "startDate": "2026-10-18T09:00:00+05:30",
@@ -149,6 +34,44 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Kathika Cultural Experience",
+    "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
+    "startDate": "2026-10-18T11:30:00+05:30",
+    "endDate": "2026-10-31T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64610280000000000000",
+        "longitude": "77.22736410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kathika Cultural Centre and Museum",
+      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
+    },
+    "url": "https://urbanaut.app/spot/kathika-cultural-experience-15616",
+    "keywords": [
+      "Music",
+      "History & heritage",
+      "Art & culture",
       "URBANAUT"
     ]
   },
