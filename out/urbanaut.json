@@ -2,44 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Kathika Cultural Experience",
-    "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
-    "startDate": "2026-10-18T11:30:00+05:30",
-    "endDate": "2026-10-31T14:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.64610280000000000000",
-        "longitude": "77.22736410000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kathika Cultural Centre and Museum",
-      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
-    },
-    "url": "https://urbanaut.app/spot/kathika-cultural-experience-15616",
-    "keywords": [
-      "Music",
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Durga Puja : Celebration at CR Park",
     "description": "\ud83c\udf3a MAHA ASHTAMI AT DURGOTSAB GK2 \ud83c\udf3aJoin Enroute Indian History this Maha Ashtami for an evening of art, culture, devotion, music & contemporary expression.\u2728 What\u2019s in store:\ud83c\udfa8 5:30 PM \u2014 Curated Art Gallery Walk & conversation around this year's theme, \u2018Vande Mataram\u2019, exploring identity, belonging, assimilation and the many cultural influences that shape a Bengali Puja in Delhi.\ud83d\udc83 6:30 PM \u2014 Kathak performance by Varsha Dasgupta\ud83e\ude94 7:00 PM \u2014 Sandhya Aarti followed by Dhunuchi Naach \u2014 experience the devotional and celebratory heart of Bengali Puja.\ud83c\udfb8 9:30 PM onwards \u2014 Susmit Sen Chronicles, featuring former Indian Ocean guitarist Susmit Sen.A beautiful evening that moves from art and storytelling to ritual, dance, and contemporary Indian music \u2014 all within the vibrant setting of Durgotsab GK2.",
     "startDate": "2026-10-19T17:00:00+05:30",
@@ -220,6 +182,44 @@
     },
     "url": "https://urbanaut.app/spot/dcc-half-day-conference",
     "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Kathika Cultural Experience",
+    "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
+    "startDate": "2026-10-22T11:30:00+05:30",
+    "endDate": "2026-10-31T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64610280000000000000",
+        "longitude": "77.22736410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kathika Cultural Centre and Museum",
+      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
+    },
+    "url": "https://urbanaut.app/spot/kathika-cultural-experience-15616",
+    "keywords": [
+      "Music",
+      "History & heritage",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -707,44 +707,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Delhi Dash",
-    "description": "Think you know Delhi? Prove it.We\u2019re turning the city into a game board for one afternoon. You\u2019ll be sorted into teams at the starting line and sent off to crack clues, hunt down hidden spots and complete increasingly ridiculous missions before the other teams do.Come solo or with friends, everyone gets teamed up on the spot. You might start as strangers and finish aggressively arguing over whether you\u2019ve interpreted Clue #7 correctly.\ud83e\udde9 Clues, challenges and surprises\ud83d\udeb6\u200d\u2640\ufe0f Entirely on foot\ud83d\udc6f\u200d\u2640\ufe0f Teams formed at the starting line\ud83c\udfc6 Prizes + eternal bragging rights\ud83d\udc83 Women only\u00a0Come curious. Wear comfortable shoes. Leave with stories.",
-    "startDate": "2026-10-24T15:00:00+05:30",
-    "endDate": "2026-10-24T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.70405920000000000000",
-        "longitude": "77.10249019999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "362.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Ukiyo Collective",
-      "url": "https://urbanaut.app/partner/ukiyo"
-    },
-    "url": "https://urbanaut.app/spot/the-delhi-dash",
-    "keywords": [
-      "Local",
-      "Walking Tour",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "The Haunted Harvest",
     "description": "Saturday, 24 October | 3:30\u20136:30 PM3:30\u20135:30 PM  Arrival, animal-area interactions and open activity stations* 6 activities by Taabur \u00d7 Wonder Lab  * Farm animal interactions  * Farm walk and farm play  * Unlimited popcorn for kids  * 1 complimentary pizza per child ticket  * Other delicious snacks available for purchase  5:30\u20135:45 PM  Halloween fancy-dress ramp walk5:45\u20136:15 PM  Spooky show by Taabur \u00d7 Wonder Lab6:15\u20136:30 PM  Prizes for the best-dressed adults and kids",
@@ -892,7 +854,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Heritage walk at Humayun's tomb",
-    "description": "A guided walk through Delhi\u2019s first garden-tomb, exploring Mughal architecture, charbagh design, and hidden stories.",
+    "description": "A guided walk through Delhi\u2019s last garden-tomb, exploring Mughal architecture, charbagh design, and hidden stories.",
     "startDate": "2026-10-24T16:00:00+05:30",
     "endDate": "2026-10-24T17:30:00+05:30",
     "location": {
