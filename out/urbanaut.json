@@ -744,6 +744,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Crime Show | Trivia Game Show by Tasty Trivia",
+    "description": "The Trivia Show Where Everyone's a Suspect.You've binged the documentaries. You've listened to the podcasts. You've had strong opinions about every verdict, every motive, every \"I didn't do it\" that clearly did it.Crime Scene is a live trivia game show about crime in all its forms. Real, fictional, cinematic. Murders, scams, heists, cover-ups, con artists, cults. Crime fiction, crime film, crime TV, true crime, white collar, petty, and the kind of story that makes you ask how nobody has made a show about this yet.Nothing is off the table. No genre is safe. No era is innocent.If it involved a scheme, a body, a courtroom, or a getaway car, it's fair game.The Docket (Format & Rounds)\ud83d\udd0d First Impressions (Warm-up | ~20 mins)Easy enough that everyone feels smart. Difficult enough that someone at your table gets something embarrassingly wrong. The kind of round that tells you exactly who thinks they know more than they do.\ud83d\udcc1 The Case Files (Main Rounds | ~60-75 mins)Trivia, audio-visual rounds, identify-the-clip, and moments where you either feel like a detective or realise you were the last person to figure out the twist. Real crimes, fictional crimes, film and TV, literature, famous trials, infamous scams, cold cases, heists, con artists, cults.\u2696\ufe0f Face OffTwo tables. One question. Someone's going home with a grudge.\ud83e\ude99 The BidsBet your points. Someone will go all in on something they half-remember. That someone might be you.\ud83d\udea8 Surprise Round (whenever)A twist nobody saw coming. That's all we're saying.How it worksTeams of up to 4. Come with a crew or we'll find you one.Flying solo? We'll sort you out.No true crime obsession required. Just curiosity and a functioning moral compass (optional).Prizes for the winners, a good time for everyone else.Note: You've always suspected you'd be good at this. Crime Scene is where you find out.By attending this event, you consent to being photographed. Photos may be used in Tasty Trivia's social media promotions. To opt out, send us a message on Instagram at @gettastytrivia before the show.",
+    "startDate": "2026-10-24T16:00:00+05:30",
+    "endDate": "2026-10-24T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "143 A, Ground Floor, Shahpur Jat, Siri Fort, New Delhi, Delhi 110049, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54782230000000000000",
+        "longitude": "77.21647519999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "399.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Tasty Trivia",
+      "url": "https://urbanaut.app/partner/tasty-trivia"
+    },
+    "url": "https://urbanaut.app/spot/crime-show-tasty-trivia-delhi-oct-24",
+    "keywords": [
+      "Live GIG",
+      "Active",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Sultan Sufi and Djinns - Heritage Walk At Firoz Shah Kotla",
     "description": "A walk through Firuz Shah Kotla, which has stories of Djinns and mystery surrounding its ruins, are the remnants of the city of Firozabad, a fortified city constructed by Sultan Firoz Shah Tughluq in 1381. It comprised eighteen villages, with Gawai which was later known as Firuz Shah Kotla.\u00a0The complex presently comprises of a mosque, a baoli, the Ashokan pillar atop Hawa Mahal and the remnants of the fort. Despite being plundered and with centuries of neglect, Feroz Shah Kotla still houses several interesting ruins, revealing the former glory and splendor.",
     "startDate": "2026-10-24T16:00:00+05:30",
