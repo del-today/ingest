@@ -486,6 +486,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Nizamuddin Heritage walk on Sufism & Poetry",
+    "description": "In the Sufi Bylanes of Nizamuddin \u2014 A Heritage Walk of Stories, Shrines & SilenceStep into the tender, time-worn lanes of Nizamuddin, where the fragrance of incense mingles with Sufi musical echoes and centuries of faith, love, and longing still breathe through stone and sky.Join us for a soulful heritage walk through the sacred precincts of Nizamuddin Basti, as we trace the footsteps of saints, poets, patrons, and wanderers who made this neighbourhood a living archive of Delhi\u2019s Sufi soul.On this journey, we will also pause at:\u2728 Ghalib\u2019s Mazar \u2014 remembering the poet of longing and lament\u2728 Chausath Khamba \u2014 a marble pavilion of quiet grace and symmetry\u2728 Atagha Khan\u2019s Tomb \u2014 a Mughal-era resting place of power and piety\u2728 Pateh Shah\u2019s Dargah \u2014 where devotion meets deep serenity. Along the way, we\u2019ll listen to stories of shrines and seekers, of migration and memory, of music, miracles, and mysticism \u2014 stories that still whisper through these alleys at dusk.",
+    "startDate": "2026-10-24T09:00:00+05:30",
+    "endDate": "2026-10-24T11:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Bharat Scouts and Guides Marg, opposite Humayun Tomb Park, Nizamuddin, Hazrat Nizamuddin, National Zoological Park, Sundar Nagar, New Delhi, Delhi 110013, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59564670000000000000",
+        "longitude": "77.24516910000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/nizwalk",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Designing Your Life, The Stanford Way",
     "description": "About The EventWhat if you didn't have to have your life figured out before moving forward?You could be doing well and still wondering what else is possible. You could be at a transition, feeling stuck, considering a new direction, or simply wanting to design the next chapter of your life more intentionally.Developed at Stanford University, the \u201cDesigning Your Life (DYL)\u201d programme brings the principles of design thinking to some of the most important questions we ask ourselves \u2014 What kind of work and life would feel meaningful? How do I move forward when I don't have all the answers?Across two immersive days, you will work through a series of conversations, reflections and hands-on exercises that will help you:understand what gives you energy, meaning and engagementreframe problems that may have been keeping you stuckimagine multiple versions of your future through Odyssey Plansprototype possibilities before making big life or career decisionsleave with practical next steps rather than another abstract planAfter multiple sold-out cohorts in India, Designing Your Life returns to New Delhi from 24-25 October 2026 at The Zorba, New Delhi.Limited seats available. Visit www.yourlife.design or reach us at anjali.gupta@q-glue.com to learn more!About the FacilitatorNavyug Mohnot is a Stanford-certified \u201cDesigning Your Life\u201d Educator, Coach and Facilitator; a Visiting Faculty at ISB and Ashoka University, and the Founder & CEO of QAI Global.He is also a certified Leadership Coach from Harvard University, has spoken at several conferences around the world and is a TEDx speaker (\u201cManifesting Desires, Embracing Contradictions\u201d). He is a passionate advocate for design, driven by the belief in its transformative power. He has coached professionals across the globe, contributed to company boards, mentored startups as an angel investor and helped countless individuals design their unique success stories.Navyug did his B.Tech from IIT Delhi and is the recipient of \u201cOutstanding Contribution to National Development\u201d from the IIT Delhi Alumni Association. Outside work, he meditates, runs a film club, loves art, film and architecture and harbours an ambition to direct a full-length film someday. He enjoys conversations that challenge assumptions, discovering new ideas, and, perhaps unsurprisingly, thinking about how we might all design lives that are a little more our own.",
@@ -928,6 +966,44 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
+    "name": "Barbecue Food walk in Old Delhi",
+    "description": "The winter chills have started to grace us Delhiwaalas and this is also the most perfect season to gorge on the most delicious barbecues that the bustling streets of Old Delhi have to offer. For the non vegetarian lovers, the winter offerings of Old Delhi are a thing to savour. So come along to taste some deliciousness as I take you to my favourite kebabchis of the Old City amidst stories of the great poet Mirza Ghalib whose descriptions of the great flavours of Delhi\u2019s kebabs you will be witnessing first hand while taking in breathtaking views of the lit up Jama Masjid! With mutton kebabs, fish fry, chicken barbecue and much more on the menu, I would advise you to have an early light lunch or to skip lunch altogether.\u00a0PS: The menu for this food walk is completely non vegetarian so I would request vegetarian to refrain from registering on this one. A vegetarian food walk will also be announced very soon!",
+    "startDate": "2026-10-24T18:00:00+05:30",
+    "endDate": "2026-10-24T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Urdu Bazar Rd, Old Delhi, Meena Bazaar, Jama Masjid, Chandni Chowk, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64991760000000000000",
+        "longitude": "77.23563520000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2400.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Unzip Delhi",
+      "url": "https://urbanaut.app/partner/unzipdelhi"
+    },
+    "url": "https://urbanaut.app/spot/nonvegfoodwalk",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
     "name": "Mountain Moon Rock Night",
     "description": "\"Mountain Moon Rock Night ft. HEAVENS DOWN, TIN HATS & BLUE GOLD INDIGO\"Different bands. Different generations. One Rock NightThree bands we believe in. Three bands we believe you should know.HEAVENS DOWN - Delhi\u2019s best-kept Rock \u2019n\u2019 Roll secret.TIN HATS - Seasoned musicians throw out the mainstream rulebook and return to the 90s & 00s rock that shaped them.BLUE GOLD INDIGO - Young, hungry and full of energy \u2014 a band with serious promise.24 OCTOBER | 8 PM | DEPOT 48 | DELHIBest Rock Gig in town. Come hear why !!",
     "startDate": "2026-10-24T20:30:00+05:30",
@@ -998,44 +1074,6 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Daughters of Shahjahan Redfort Heritage walk",
-    "description": "Daughters of Shahjahan Heritage walk at the Redfort (With Dramatic Reading of play excerpts)Join Darwesh Heritage Walks for a unique immersive experience at the Red Fort .The Red Fort (Lal Qila), an iconic symbol of India's history, stands proudly in Old Delhi as a silent witness to centuries of political, architectural, and cultural change. Commissioned by Mughal Emperor Shah Jahan in 1638, this UNESCO World Heritage Site is not just a monument\u2014it is a storyteller, narrating tales of imperial grandeur, colonial resistance, and post-independence pride. Stories about the Mughal opulence, the power politics, the powerful place of women in our history will unfold as we walk through the bygone Mughal era. The \u2018war of succession\u2019 that took place among the four sons of Shah Jahan had one novelty, while previously, wars were fought after the death of the emperor, this war was fought when Shah Jahan was still alive. All sons and daughters of Shah Jahan participated in it. While the four sons Dara Shikoh, Shah Shuja, Aurangzeb and Murad Baksh fought against each other, the sisters Jahanara and Roshanara allied themselves with one or the other brother. Through this we will bring to you to the story of the Mughal battle of succession that changed the course of Indian history. The heritage walk includes (dramatic reading of play excerpts in Hindustani) highlighting stories and scenes from the tussle going on between Shahjahan\u2019s Sons Aurangzeb and Dara Shikoh and the two daughters Jahanara and Roshanara Begum, each of whom sided with one brother.This walk is curated by Darwesh heritage walks & is being done in collaboration with Sabhyata Foundation.Meeting point: near gate 2 of Redfort near parking lot, next to Sunehri MasjidNearest metro: Jama Masjid metro station Gate 3Instagram : darwesh_taleweavers",
-    "startDate": "2026-10-25T09:00:00+05:30",
-    "endDate": "2026-10-25T11:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi, 110006, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.65615920000000000000",
-        "longitude": "77.24102030000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "800.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "DARWESH_TALEWEAVERS",
-      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
-    },
-    "url": "https://urbanaut.app/spot/redfortwalk",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -1945,6 +1983,44 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
+    "name": "LET THERE BE GRUNGE DISTILL with BRIGHTENDASH",
+    "description": "LET THERE BE GRUNGE is specific to Depot 48 because Grunge Rock is niche in India. Depot 48 as a live music venue has always been on the lookout of Independent Indie bands which are not doing commercial film music and giving them a platform to showcase their original work.This show is actively aimed at promoting new & Original Grunge Music to the Rock & Metal Community & listeners in Delhi-NCR. For listeners of niche genres this is a perfect musical night for them to discover some new music.Formed in Delhi in 2013, Distill began when guitarist Sriram and bassist Abhijit reunited with drummer Neeraj and, later, vocalist Varun. Early songs like This War and Heat set the tone for their sound. Over the years, the band\u2019s music has evolved from raw riffs into a more refined blend of heavy grooves, ambient textures, funky basslines, and emotive vocals \u2014 the true \u201cdistillation\u201d of their diverse influences into a unique and powerful identity.BRIGHTENDASH is a  4-piece Grunge Rock band based out of New Delhi with Classic Rock. Alternative Rock & Prog Rock sensibiities. Founded by Vocalist, Rhythm Guitarist, Songwriter & Composer, Abhishek Hazarika in 2025. What began as his studio project, now features Rishav Raj on Bass, Yugansh Pawah on Lead Guitars and Manhar Sharma on Drums.The band was brought together by their mutual love for Grunge Music inspired by 90's acts like Soundgarden, Pearl Jam, Nirvana, Alice in Chains, Stone Temple Pilots and The Melvins.The self-titled debut album which was released in November 2024 and reflects their musical inspirations. Just like their musical heroes of the 90's, they are taking influences from the bands that came before them and making a sound that is unqiue and authentic.Their music has been featured on prominent online music magazines like Rolling Stone India, Indian Music Diaries, Extravaganza, The New Indian Express & The Hindu. Songs from their debut album have been played on Radio on Super Hits 93.5 Red FM Northeast Edit which airs in Shillong, Gangtok & Aizawl.",
+    "startDate": "2026-10-31T20:00:00+05:30",
+    "endDate": "2026-10-31T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/let-there-be-grunge-distill-with-brightendash",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
     "name": "MIRAYA",
     "description": "Our university tradition of playing at depot 48 has been through the batches for years , People like Ashwin Shaji , Olive regan from pain protocol , Parikshit from beshaq performed there , We Miraya , formed a band 1.5 years before by college students trying to make it into the industry. Depot 48 is going to be a milestone for the journey.",
     "startDate": "2026-10-31T22:00:00+05:30",
@@ -2021,7 +2097,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Nizamuddin Heritage walk on Sufism & Poetry",
-    "description": "In the Sufi Bylanes of Nizamuddin \u2014 A Heritage Walk of Stories, Shrines & SilenceStep into the tender, time-worn lanes of Nizamuddin, where the fragrance of incense mingles with qawwali echoes and centuries of faith, love, and longing still breathe through stone and sky.Join us for a soulful heritage walk through the sacred precincts of Nizamuddin Dargah, as we trace the footsteps of saints, poets, patrons, and wanderers who made this neighbourhood a living archive of Delhi\u2019s Sufi soul.On this journey, we will also pause at:\u2728 Ghalib\u2019s Mazar \u2014 remembering the poet of longing and lament\u2728 Chausath Khamba \u2014 a marble pavilion of quiet grace and symmetry\u2728 Atagha Khan\u2019s Tomb \u2014 a Mughal-era resting place of power and piety\u2728 Pateh Shah\u2019s Dargah \u2014 where devotion meets deep serenity. Along the way, we\u2019ll listen to stories of shrines and seekers, of migration and memory, of music, miracles, and mysticism \u2014 stories that still whisper through these alleys at dusk.",
+    "description": "In the Sufi Bylanes of Nizamuddin \u2014 A Heritage Walk of Stories, Shrines & SilenceStep into the tender, time-worn lanes of Nizamuddin, where the fragrance of incense mingles with Sufi musical echoes and centuries of faith, love, and longing still breathe through stone and sky.Join us for a soulful heritage walk through the sacred precincts of Nizamuddin Basti, as we trace the footsteps of saints, poets, patrons, and wanderers who made this neighbourhood a living archive of Delhi\u2019s Sufi soul.On this journey, we will also pause at:\u2728 Ghalib\u2019s Mazar \u2014 remembering the poet of longing and lament\u2728 Chausath Khamba \u2014 a marble pavilion of quiet grace and symmetry\u2728 Atagha Khan\u2019s Tomb \u2014 a Mughal-era resting place of power and piety\u2728 Pateh Shah\u2019s Dargah \u2014 where devotion meets deep serenity. Along the way, we\u2019ll listen to stories of shrines and seekers, of migration and memory, of music, miracles, and mysticism \u2014 stories that still whisper through these alleys at dusk.",
     "startDate": "2026-11-01T16:00:00+05:30",
     "endDate": "2026-11-01T18:00:00+05:30",
     "location": {
@@ -2313,6 +2389,44 @@
       "Adventure",
       "Walking Tour",
       "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Green Day Tribute",
+    "description": "Green Day Tribute ft. Nitya in Focus, Vihaan Pant, Aditya Sarkar, Dylan Benedict, Dhruv Sarker & Neel Shankar VirmaniNitya and Neel of Shor Machao, Vihaan and Dylan of Infinities, Aditya Sarkar of Delhivision and Dhruv Sarker of Purple Cassette come together for a power packed night of Green Day covers. Depot48 has been the home turf of all their bands, making it the perfect place to have this gig. ",
+    "startDate": "2026-11-07T21:00:00+05:30",
+    "endDate": "2026-11-07T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/green-day-tribute",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
       "URBANAUT"
     ]
   },
