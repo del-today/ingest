@@ -2,44 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Cinema Under the Stars by The League x Zetu",
-    "description": "A come-solo film night on Zetu's terrace. Let the film kickstart fresh conversations, then share a drink, make a genuine connection and have a conversation with someone curious.",
-    "startDate": "2026-10-20T19:30:00+05:30",
-    "endDate": "2026-10-20T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Building No./Flat No.: Prop No-1A, Ground Floor, Block-B Road/Street: Qutub Minar, Sri Aurobindo Marg, Mehrauli, Locality/Sub Locality: Mehrauli City/Town/Village: New Delhi District: South Delhi State: Delhi PIN, Seth Sarai, Mehrauli, Delhi, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52637680000000000000",
-        "longitude": "77.18837730000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The League India",
-      "url": "https://urbanaut.app/partner/the-league-india"
-    },
-    "url": "https://urbanaut.app/spot/cinema-under-the-stars-by-the-league-x-zetu",
-    "keywords": [
-      "Leisure",
-      "Food & drink",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
     "name": "Quarternote",
     "description": "Divyath is a keyboardist and pianist, who mostly performs blues, jazz, funk, and rock. Known for his lead oriented style, he brings a very unique atmosphere mixing synth solo breaks with covers and unreleased originals. Look forward to upbeat, Solo heavy and head-bop enducing performances",
     "startDate": "2026-10-21T20:00:00+05:30",
@@ -414,7 +376,7 @@
     "name": "Even If You Beat Me",
     "description": "Indrani is a Delhi-based songwriter whose debut EP, Even If You Beat Me, began with a year of solitary creation. Indrani had already developed a reputation as a musician, providing vocals and keys for Delhi-based band Ladyship, while working full time as a fashion photographer. To find some respite from the chaos of this helter-skelter existence, she started working independently on these songs. What emerged was a body of work shaped by falling in love. The feeling of warmth that it brings, as well as the anger, ache, and decay that can come with it. Against the backdrop of a move to a new city and the uncertainty of building a career from scratch, these songs became her way of processing the newness of everything. Indrani's EP will be released on the day of the show, and she will take it live with her 5 piece band at Depot48. ",
     "startDate": "2026-10-23T20:00:00+05:30",
-    "endDate": "2026-10-23T23:30:00+05:30",
+    "endDate": "2026-10-23T22:00:00+05:30",
     "location": {
       "@type": "Place",
       "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
@@ -629,6 +591,44 @@
     "url": "https://urbanaut.app/spot/film-and-analog",
     "keywords": [
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Bhawan Hopping - A food trail via State Bhawans",
+    "description": "If food is your love language, this would be right up your alley. We are bringing together a food trail to discover the culinary richness and diversity of the Indian subcontinent by hopping across different State Bhawans over the course of the day. This circle is for everyone who loves food, people and conversations and the shared joy of exploring and partaking while learning the history of how food travels across India. While food is reason we meet, the circle is aimed at sparking conversations and hopefully connections among like-minded food connoisseurs and enable a welcoming space to get to know each other through a curated experience.Be prepared to sample diverse flavours, share your stories, walk and meet new people, find common ground on food habits, emotions and stories around food,  and debate food history and play some fun games. Come as you are, no pressure to small talk or strike conversation, the table will share and listen as a collective as we experience the wonders of India travelling from West to North to East over the course of the day.  Date: 24th October, SaturdayTime: 12 - 4 pmSchedule:12pm - Assembly 12.30pm - Gujarat Bhawan1.30pm - Ladhak/J&K Bhawan2.30 pm - Assam Bhawan3.30pm - Bihar Bhawan4pm - Surprise venue - basis everyone's alignmentF&B consumed will be charged as per actuals ",
+    "startDate": "2026-10-24T12:00:00+05:30",
+    "endDate": "2026-10-24T16:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "11, Kautilya Marg, Chanakyapuri, New Delhi, Delhi 110021, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59863100000000000000",
+        "longitude": "77.19767960000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "199.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Wander & Wonder",
+      "url": "https://urbanaut.app/partner/wander-wonder"
+    },
+    "url": "https://urbanaut.app/spot/bhawan-hopping-a-food-trail-via-state-bhawans",
+    "keywords": [
+      "Workshop",
+      "Walking Tour",
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -1422,7 +1422,7 @@
     "name": "Delhi's Amazingest Pub Quiz!",
     "description": "Delhi's Amazingest Pub Quiz! / Festivals Around The World",
     "startDate": "2026-10-25T17:30:00+05:30",
-    "endDate": "2026-10-25T19:00:00+05:30",
+    "endDate": "2026-10-25T20:00:00+05:30",
     "location": {
       "@type": "Place",
       "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
@@ -1944,6 +1944,42 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The FishMarket #2",
+    "description": "A FishMarket isn't a lecture. It's a room full of concerned citizens trying to solve a problem together.This one is about something we all experience every single day, and almost never stop to actually diagnose.Moving through a city should be simple. And yet an ordinary journey on foot, by bicycle, motorcycle or car routinely becomes an exercise in negotiation. The footpath disappears into parking. The pedestrian steps onto the road. The rider squeezes through a gap that probably shouldn't exist. The car stops wherever space appears. Each decision seems reasonable to the person making it. Together, they produce confusion, delay, and risk.But here's what we rarely ask: is this actually about bad civic sense? Or is it about a street that was designed without ever considering how people actually use it?This FishMarket will investigate how everyday disorder is created across the entire street. We'll will diagnose situations. We'll ask who or what shapes them. And then we'll move from diagnosis to solutions, examining which responsibilities belong to citizens, drivers, vendors, planners and authorities, and what changes in behaviour, rules, or design could actually help.Come ready to observe, challenge easy assumptions, and propose a better way for everyone to share the city.",
+    "startDate": "2026-10-31T18:00:00+05:30",
+    "endDate": "2026-10-31T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gate No. 1, Bahadur Shah Zafar Marg, inside Shaheedi park, Balmiki Basti, Vikram Nagar, New Delhi, Delhi, 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.63445520000000000000",
+        "longitude": "77.24131700000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "250.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/the-fishmarket-2",
+    "keywords": [
+      "Local",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "The Other Seat- Diwali Baithak",
     "description": "DIWALI BAITHAK \u2014 A FESTIVE SUPPER BY THE OTHER SEATThis Diwali, we are trading crowded restaurants and loud parties for something a little more intimate.A Diwali Baithak \u2014 the kind where you sit low on a gadda, have a drink beside you, eat between songs, and listen as a live vocalist and musician fill the room with festive vibesNot a concertNot a Diwali party.We are only hosting 10- 12 guestsWe've put together a Diwali menu for the evening, two cocktails, and a few hours that we hope you'll remember for reasons that have very little to do with what was planned. The menu is uploaded in the gallery.Dress code: Strictly EthnicDiwali Baithak is our take on the kind of festive evening we actually want to have \u2014 good food, a beautiful room, familiar songs, a few drinks and a table full of people who may not know each other when they arrive.Come with your friends, come as a couple or come by yourself. There\u2019s always another seat at The Other Seat.",
@@ -1986,7 +2022,7 @@
     "name": "LET THERE BE GRUNGE DISTILL with BRIGHTENDASH",
     "description": "LET THERE BE GRUNGE is specific to Depot 48 because Grunge Rock is niche in India. Depot 48 as a live music venue has always been on the lookout of Independent Indie bands which are not doing commercial film music and giving them a platform to showcase their original work.This show is actively aimed at promoting new & Original Grunge Music to the Rock & Metal Community & listeners in Delhi-NCR. For listeners of niche genres this is a perfect musical night for them to discover some new music.Formed in Delhi in 2013, Distill began when guitarist Sriram and bassist Abhijit reunited with drummer Neeraj and, later, vocalist Varun. Early songs like This War and Heat set the tone for their sound. Over the years, the band\u2019s music has evolved from raw riffs into a more refined blend of heavy grooves, ambient textures, funky basslines, and emotive vocals \u2014 the true \u201cdistillation\u201d of their diverse influences into a unique and powerful identity.BRIGHTENDASH is a  4-piece Grunge Rock band based out of New Delhi with Classic Rock. Alternative Rock & Prog Rock sensibiities. Founded by Vocalist, Rhythm Guitarist, Songwriter & Composer, Abhishek Hazarika in 2025. What began as his studio project, now features Rishav Raj on Bass, Yugansh Pawah on Lead Guitars and Manhar Sharma on Drums.The band was brought together by their mutual love for Grunge Music inspired by 90's acts like Soundgarden, Pearl Jam, Nirvana, Alice in Chains, Stone Temple Pilots and The Melvins.The self-titled debut album which was released in November 2024 and reflects their musical inspirations. Just like their musical heroes of the 90's, they are taking influences from the bands that came before them and making a sound that is unqiue and authentic.Their music has been featured on prominent online music magazines like Rolling Stone India, Indian Music Diaries, Extravaganza, The New Indian Express & The Hindu. Songs from their debut album have been played on Radio on Super Hits 93.5 Red FM Northeast Edit which airs in Shillong, Gangtok & Aizawl.",
     "startDate": "2026-10-31T20:00:00+05:30",
-    "endDate": "2026-10-31T23:30:00+05:30",
+    "endDate": "2026-10-31T22:00:00+05:30",
     "location": {
       "@type": "Place",
       "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
