@@ -487,43 +487,6 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "name": "Designing Your Life, The Stanford Way",
-    "description": "About The EventWhat if you didn't have to have your life figured out before moving forward?You could be doing well and still wondering what else is possible. You could be at a transition, feeling stuck, considering a new direction, or simply wanting to design the next chapter of your life more intentionally.Developed at Stanford University, the \u201cDesigning Your Life (DYL)\u201d programme brings the principles of design thinking to some of the most important questions we ask ourselves \u2014 What kind of work and life would feel meaningful? How do I move forward when I don't have all the answers?Across two immersive days, you will work through a series of conversations, reflections and hands-on exercises that will help you:understand what gives you energy, meaning and engagementreframe problems that may have been keeping you stuckimagine multiple versions of your future through Odyssey Plansprototype possibilities before making big life or career decisionsleave with practical next steps rather than another abstract planAfter multiple sold-out cohorts in India, Designing Your Life returns to New Delhi from 24-25 October 2026 at The Zorba, New Delhi.Limited seats available. Visit www.yourlife.design or reach us at anjali.gupta@q-glue.com to learn more!About the FacilitatorNavyug Mohnot is a Stanford-certified \u201cDesigning Your Life\u201d Educator, Coach and Facilitator; a Visiting Faculty at ISB and Ashoka University, and the Founder & CEO of QAI Global.He is also a certified Leadership Coach from Harvard University, has spoken at several conferences around the world and is a TEDx speaker (\u201cManifesting Desires, Embracing Contradictions\u201d). He is a passionate advocate for design, driven by the belief in its transformative power. He has coached professionals across the globe, contributed to company boards, mentored startups as an angel investor and helped countless individuals design their unique success stories.Navyug did his B.Tech from IIT Delhi and is the recipient of \u201cOutstanding Contribution to National Development\u201d from the IIT Delhi Alumni Association. Outside work, he meditates, runs a film club, loves art, film and architecture and harbours an ambition to direct a full-length film someday. He enjoys conversations that challenge assumptions, discovering new ideas, and, perhaps unsurprisingly, thinking about how we might all design lives that are a little more our own.",
-    "startDate": "2026-10-24T09:30:00+05:30",
-    "endDate": "2026-10-25T17:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.70405920000000000000",
-        "longitude": "77.10249019999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "28084.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Designing Your Life",
-      "url": "https://urbanaut.app/partner/designing-your-life"
-    },
-    "url": "https://urbanaut.app/spot/designing-your-life",
-    "keywords": [
-      "Wellness",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
     "name": "Turning Setbacks into Stepping Stones",
     "description": "Cognitive Reset with TarotTurn setbacks into stepping stones.What if three random cards and the pen in your hand held the keys and plot twists to your best life?We all have dreams and carefully imagined futures. But life doesn\u2019t always follow our script.Join us for a unique, immersive experience that blends Tarot with creative writing to help you look at life\u2019s challenges differently, unlock new perspectives, and discover creative ways to keep moving towards your goals.Because sometimes, the breakthrough isn\u2019t about changing your circumstances\u2014it\u2019s about changing the way you see them.Come with your dreams. Leave with a new perspective.Hosted by Megha of YinYourYang Astrology, in collaboration with RiFoM Community.\ud83d\udcc5 Saturday, 24 October 2026\u23f0 10 AM \u2013 12 PM\ud83d\udccd Greenr, N Block, GK1, New Delhi\ud83c\udf9f\ufe0f \u20b91,599 per person, including one beverage (coffee or tea)Participants will also receive a special discount on Megha\u2019s Karmic Reset Package.Spaces are limited. Reserve your spot and discover a different way to rewrite your story.",
     "startDate": "2026-10-24T10:00:00+05:30",
@@ -596,6 +559,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Let\u2019s D-Stress: Pause, Paint and Pour",
+    "description": "Take a break from the everyday with a cup of coffee and a splash of colour.Join The Times of India and Starbucks for a Sip & Paint workshop with visual artist Pavani Nagpal K Chhabra.Experiment with brushstrokes, let your ideas take shape and enjoy the simple pleasure of creating something of your own. A little time to unwind, express yourself and enjoy the moment.",
+    "startDate": "2026-10-24T12:00:00+05:30",
+    "endDate": "2026-10-24T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shop No 16, Ground Floor, Worldmark 1, Aerocity, New Delhi, Delhi 110037, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55062400000000000000",
+        "longitude": "77.12160180000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Times of India",
+      "url": "https://urbanaut.app/partner/the-times-of-india"
+    },
+    "url": "https://urbanaut.app/spot/lets-d-stress-pause-paint-and-pour",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Bhawan Hopping - A food trail via State Bhawans",
     "description": "If food is your love language, this would be right up your alley. We are bringing together a food trail to discover the culinary richness and diversity of the Indian subcontinent by hopping across different State Bhawans over the course of the day. This circle is for everyone who loves food, people and conversations and the shared joy of exploring and partaking while learning the history of how food travels across India. While food is reason we meet, the circle is aimed at sparking conversations and hopefully connections among like-minded food connoisseurs and enable a welcoming space to get to know each other through a curated experience.Be prepared to sample diverse flavours, share your stories, walk and meet new people, find common ground on food habits, emotions and stories around food,  and debate food history and play some fun games. Come as you are, no pressure to small talk or strike conversation, the table will share and listen as a collective as we experience the wonders of India travelling from West to North to East over the course of the day.  Date: 24th October, SaturdayTime: 12 - 4 pmSchedule:12pm - Assembly 12.30pm - Gujarat Bhawan1.30pm - Ladhak/J&K Bhawan2.30 pm - Assam Bhawan3.30pm - Bihar Bhawan4pm - Surprise venue - basis everyone's alignmentF&B consumed will be charged as per actuals ",
@@ -636,7 +637,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Why Do We Keep Having The Same Argument?",
-    "description": "About the TableWhy Do We Keep Having The Same Argument : Decoding the patterns behind our relationshipsBy Damini GroverWhy is it sometimes so difficult to communicate what we really need? And why do certain relationship patterns keep repeating, even when we know they aren't working?From romantic relationships to friendships and family dynamics, the way we connect with others is shaped by our emotional needs, past experiences, beliefs and expectations often in ways we don't even realise.Join us at The Curious Table #02 for an evening of psychology behind human connection decoding the needs, expectations and patterns that shape our relationships.Through relatable examples, conversations and guided reflections, we'll explore:The emotional needs and expectations we bring into relationships.How our past experiences shape the way we connect.Why familiar patterns and conflicts keep repeating.The role of communication, boundaries and emotional awareness in our relationships.Come curious, bring your questions, and leave with fresh perspectives- all over food and drinks!\u00a0Suitable for everyone and all age groups.About the SpeakerDamini Grover is a multi-award-winning Counselling Psychologist, Life Coach, and Founder of I\u2019M POWERED- Centre for Counselling & Well-Being.With over 12 years of experience in mental health and personal development, she has worked with more than 5,000 individuals, exploring the complexities of human emotions, relationships, behavioural patterns and personal growth.She is the author of The Intentional Being (Notion Press), Time to Come Home (Hay House), and Rehguzar, a collection of Hindi poetry.Beyond her counselling practice, she also hosts The Healing Circle, an intimate space for reflection, emotional exploration and meaningful conversations.At The Curious Table, she brings her experience and insights into Decoding Relationships.About The Curious TableThe Curious Table is a Delhi NCR community built for people who haven\u2019t stopped being curious.We build evenings around questions you don\u2019t often get to explore bringing together people who know fascinating things and people who simply want to understand them, over food and drinks.One Table might take you inside the biology of emotions. The next could wander into psychology, science, technology, health, history, culture, or something you didn\u2019t know you were curious about yet.Come curious. Pull up a chair.",
+    "description": "About the TableWhy Do We Keep Having The Same Argument : Decoding the patterns behind our relationshipsBy Damini GroverWhy is it sometimes so difficult to communicate what we really need? And why do certain relationship patterns keep repeating, even when we know they aren't working?Join us at The Curious Table #02 for an evening of psychology behind human connection decoding the needs, expectations and patterns that shape our relationships.The way we connect with others is often shaped by our emotional needs, past experiences, beliefs and expectations in ways we don't even realise.Through relatable examples, conversations and guided reflections, we'll explore:The emotional needs and expectations we bring into relationships.How our past experiences shape the way we connect.Why familiar patterns and conflicts keep repeating.The role of communication, boundaries and emotional awareness in our relationships.Come curious, bring your questions, and leave with fresh perspectives- all over food and drinks!\u00a0Suitable for everyone and all age groups.About the SpeakerDamini Grover is a multi-award-winning Counselling Psychologist, Life Coach, and Founder of I\u2019M POWERED- Centre for Counselling & Well-Being.With over 12 years of experience in mental health and personal development, she has worked with more than 5,000 individuals, exploring the complexities of human emotions, relationships, behavioural patterns and personal growth.She is the author of The Intentional Being (Notion Press), Time to Come Home (Hay House), and Rehguzar, a collection of Hindi poetry.Beyond her counselling practice, she also hosts The Healing Circle, an intimate space for reflection, emotional exploration and meaningful conversations.At The Curious Table, she brings her experience and insights into Decoding Relationships.About The Curious TableThe Curious Table is a Delhi NCR community built for people who haven\u2019t stopped being curious.We build evenings around questions you don\u2019t often get to explore bringing together people who know fascinating things and people who simply want to understand them, over food and drinks.One Table might take you inside the biology of emotions. The next could wander into psychology, science, technology, health, history, culture, or something you didn\u2019t know you were curious about yet.Come curious. Pull up a chair.",
     "startDate": "2026-10-24T15:00:00+05:30",
     "endDate": "2026-10-24T17:00:00+05:30",
     "location": {
@@ -1079,6 +1080,121 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Hot Girls Do Pilates (SWAG x WITHIN)",
+    "description": "We are meeting this Sunday morning for a Mat Pilates and Tennis Social at Cafe Casa Dunes!We will start with an intensive, beginner-friendly mat pilates session ending in breath work. Then it is time for some tennis rallies and a curated breakfast on the house! We have coffee, matcha, yogurt bowls and more on the menu. There are games and challenges lined up! You also take home WITHIN Goodie Hampers, Yoga Mats, Tumblers and more!It is a Sunday morning party! See you there.The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "startDate": "2026-10-25T07:30:00+05:30",
+    "endDate": "2026-10-25T09:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Cafe Casa Dunes, Bypass Road, Aerocity, Mahipalpur Extension, Vasant Kunj, New Delhi, Delhi 110037, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54440530000000000000",
+        "longitude": "77.13304289999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "899.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swagw",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Old Delhi Heritage Walk",
+    "description": "A Sunday morning, a pair of walking shoes and a neighbourhood with plenty to say.Join Jibin George as we wander through the streets around Chor Bizarre, uncovering pieces of Delhi\u2019s history, architecture and everyday life along the way! End your walk with a hearty Delhi-style breakfast at Chor Bizarre.",
+    "startDate": "2026-10-25T08:00:00+05:30",
+    "endDate": "2026-10-25T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Hotel Broadway, 4/15A, Asaf Ali Rd, Old Delhi, Chatta lal Miya, Chandni Mahal, Chandni Chowk, Delhi, New Delhi, Delhi 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64105660000000000000",
+        "longitude": "77.23791410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "787.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Chor Bizarre Delhi",
+      "url": "https://urbanaut.app/partner/chor-bizarre-delhi"
+    },
+    "url": "https://urbanaut.app/spot/old-delhi-heritage-walk-17709",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Food & drink",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Tracing Shahjahanabad-A Journey Through Old Delhi",
+    "description": "Old Delhi is a labyrinth that demands more than a glance\u2014it requires an exploration. Beyond the Red Fort's grand facade lies a dense, vibrant tapestry of urban life that has continued for centuries. As we navigate the legendary thoroughfare of Chandni Chowk, we will trace this historic street, marvelling at an extraordinary row of sacred spaces\u2014temples, mosques, a gurdwara, and a church\u2014standing side by side as silent testimony to centuries of multi-faith harmony. Join us for a morning of storytelling as we traverse our way through its Katras and Kutchas to explore an imperial city where every step reveals a storied past. There is no registration fee for children under 12 years.",
+    "startDate": "2026-10-25T08:00:00+05:30",
+    "endDate": "2026-10-25T09:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Chandni Chowk, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.65053310000000000000",
+        "longitude": "77.23033699999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "600.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mera \u0936\u0939\u0930 \u2013 My City Walks",
+      "url": "https://urbanaut.app/partner/merasheharmycitywalks"
+    },
+    "url": "https://urbanaut.app/spot/tracing-shahjahanabad-a-journey-through-old-delhi",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Bazar - i - husn : tawaifs of chawri bazaar",
     "description": "Step into the world of grace, wit, and artistry as we explore the lives of Tawaifs\u2014the courtesans who once defined high culture, poetry, and performance in Delhi. This walk takes you through old city lanes that once echoed with ghazals, thumris, and the quiet power of women who shaped taste and tradition.Uncover the layered stories of kothas\u2014not as places of shame, but as salons of sophistication, resistance, and refined art. Let\u2019s reclaim these narratives and see history through a different lens.",
@@ -1227,43 +1343,6 @@
       "Leisure",
       "History & heritage",
       "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Built to be Seen- A content lab for Founders",
-    "description": "Built to Be SeenA Content Lab for Founders, Creators, Builders & DesignersYou're building something. But are you talking about it?You\u2019re building a business, launching products, working with customers, solving problems and figuring things out every single day. But when it comes to showing up on LinkedIn or Instagram, things often look very different.You struggle to stay consistent. You don't know what to post. Your content starts feeling repetitive. And somewhere between building your business and running everything else, creating content keeps getting pushed to tomorrow.Built to Be Seen is a hands-on content lab designed to change that.This is a space for founders, creators, builders and designers who want to communicate what they do, share what they're building, and create content that feels authentic to them \u2014 without turning content creation into another full-time job.Over 3\u20134 hours, we'll explore how to build a content system around your work, use AI tools to make the process easier, and turn your everyday experiences into stories worth sharing.And no, this isn't going to be a room where you sit, listen to talks and leave with pages of notes.You'll participate, experiment, create and meet people who are figuring it out just like you.What we'll explore01. From Founder to CreatorExpert-led session \u00b7 Speaker to be announced soonHow do you build a personal brand while building a business?We'll explore how to show up on LinkedIn and Instagram, find your voice, tell better founder stories, and create content that goes beyond product announcements and promotional posts.We'll get into practical techniques, content formats, storytelling, hooks and ways to build consistency \u2014 even when you're busy running a business.02. Build Your Content SystemAn interactive sessionWhat should you actually post about? And how do you keep going beyond your first few posts?We'll break down how to build a content system around your business, your experiences, your expertise and your audience.You'll explore:Finding your content pillars and defining what you want to be known for.Turning customer conversations, lessons, experiments, failures and everyday work into content.Building a repeatable workflow for LinkedIn and Instagram.Using simple frameworks, prompts and techniques to generate ideas and stay consistent.Making content creation a part of your routine, instead of something you keep putting off.The goal is to leave with a system you can actually use \u2014 not another content calendar you forget about.03. The AI Content LabLive demos \u00b7 AI tools \u00b7 Hands-on explorationWhat if creating content didn't have to start with a blank page?Meet the AI tools that can help you move from an idea to a finished piece of content \u2014 faster.We'll have live demonstrations by AI tool teams, showing how their products can support different parts of your content journey, including:Turning rough thoughts into content ideas, hooks and scripts.Creating video content and making the recording and editing process easier.Repurposing one idea into multiple formats for different platforms.Creating visuals, captions and variations of your content.Building a more efficient content workflow with AI.You'll get to see the tools in action, understand where they fit into your workflow, and explore how to use them without losing your own voice.Less staring at a blank screen. More making things.04. The Founder Networking GameMeet people. Share ideas. Find your next story.Networking doesn't have to start with \u201cSo, what do you do?\u201dWe'll bring out a set of interactive flashcards designed to get the conversation going.You'll introduce your business, share what you're building, and brainstorm what kind of content you could create around it. Other participants might spot stories, ideas or angles that you haven't thought of yourself.It's a chance to meet fellow founders, creators, builders and designers, exchange perspectives, and leave with more than just a bunch of LinkedIn connections.Who knows? You might find your next collaborator, content buddy or creative partner in the room.What you'll leave withBy the end of Build to Be Seen, you'll have worked towards:A clearer understanding of your personal and business content direction.Content pillars and ideas relevant to what you're building.Practical frameworks for creating content on LinkedIn and Instagram.A look at AI tools that can make your content workflow easier.Fresh perspectives and ideas from other people in the room.A starting point for a content system you can continue using after the event.You don't need to be a content creator already. You don't need to have a perfect personal brand or a polished strategy.Just bring what you're building, what you're curious about, and a willingness to experiment.Who is this for?Founders who want to build visibility alongside their business.Creators who want to explore better content systems and AI-powered workflows.Builders and operators who have valuable experiences to share but struggle to turn them into content.Designers and creative professionals who want to communicate their work and perspective.Anyone who's been saying, \u201cI really need to start posting consistently.\u201dThe planExpect 3\u20134 hours of expert insights, practical exercises, live AI tool demonstrations, interactive networking, and time to experiment with your own ideas.We'll share the detailed schedule, venue, speakers and participating AI tools soon.Date: To be announced soon. Venue: To be announced soon. Speakers & AI tool partners: To be announced soonCome with your business. Bring your ideas, questions, and curiosity.Leave with a clearer way to tell your story \u2014 and a plan to keep showing up.Build to Be Seen \u2014 because building something is one thing. Helping the world see it is another.",
-    "startDate": "2026-10-25T12:00:00+05:30",
-    "endDate": "2026-10-25T16:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "New Delhi, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.61392980000000000000",
-        "longitude": "77.20882820000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Designly Club",
-      "url": "https://urbanaut.app/partner/designly-club"
-    },
-    "url": "https://urbanaut.app/spot/built-to-be-seen-a-content-lab-for-founders",
-    "keywords": [
-      "Workshop",
-      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -2132,6 +2211,78 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Human Ludo by The MIXTable",
+    "description": "Human Ludo: On the Mega MatSame game. Bigger fun. This time, you\u2019re the pieces!Remember the excitement of playing Ludo as a kid? Now imagine stepping inside a giant Ludo board and becoming a real-life game piece yourself.Human Ludo by The MIXTable brings this classic board game to life with a larger-than-life playing mat, team strategy, friendly competition, unexpected twists, and plenty of laughter. Roll the dice, plan your moves, work with your team, and make your way home while taking on fun side quests along the way.Whether you enjoy games, love trying new experiences, or simply want to meet new people, this event offers a refreshing way to spend your Sunday morning. Come with friends or join solo and be part of an experience built around play, connection, and shared memories.What Your Registration Includes- Human Ludo Experience: Participate in a life-sized Ludo game with team strategy, friendly competition, and plenty of fun.- Fun Side Quests and Activities: Take on additional mini challenges and activities beyond the main game.- Complimentary Refreshment:** Enjoy a refreshing drink on us during the event.- Socialising and New Connections: Meet new people, interact with fellow participants, and enjoy a welcoming group environment.No prior gaming experience is required. Just bring your energy, enthusiasm, and willingness to have fun.Come for the game. Stay for the people. Leave with stories.",
+    "startDate": "2026-11-01T07:30:00+05:30",
+    "endDate": "2026-11-01T09:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "H6R8+WM2, Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59225260000000000000",
+        "longitude": "77.21664779999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "300.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The MIXTable",
+      "url": "https://urbanaut.app/partner/the-mixtable"
+    },
+    "url": "https://urbanaut.app/spot/human-ludo",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Built to be Seen- A content lab for Founders",
+    "description": "Built to Be SeenA Content Lab for Founders, Creators, Builders & DesignersYou're building something. But are you talking about it?You\u2019re building a business, launching products, working with customers, solving problems and figuring things out every single day. But when it comes to showing up on LinkedIn or Instagram, things often look very different.You struggle to stay consistent. You don't know what to post. Your content starts feeling repetitive. And somewhere between building your business and running everything else, creating content keeps getting pushed to tomorrow.Built to Be Seen is a hands-on content lab designed to change that.This is a space for founders, creators, builders and designers who want to communicate what they do, share what they're building, and create content that feels authentic to them \u2014 without turning content creation into another full-time job.Over 3\u20134 hours, we'll explore how to build a content system around your work, use AI tools to make the process easier, and turn your everyday experiences into stories worth sharing.And no, this isn't going to be a room where you sit, listen to talks and leave with pages of notes.You'll participate, experiment, create and meet people who are figuring it out just like you.What we'll explore01. From Founder to CreatorExpert-led session \u00b7 Speaker to be announced soonHow do you build a personal brand while building a business?We'll explore how to show up on LinkedIn and Instagram, find your voice, tell better founder stories, and create content that goes beyond product announcements and promotional posts.We'll get into practical techniques, content formats, storytelling, hooks and ways to build consistency \u2014 even when you're busy running a business.02. Build Your Content SystemAn interactive sessionWhat should you actually post about? And how do you keep going beyond your first few posts?We'll break down how to build a content system around your business, your experiences, your expertise and your audience.You'll explore:Finding your content pillars and defining what you want to be known for.Turning customer conversations, lessons, experiments, failures and everyday work into content.Building a repeatable workflow for LinkedIn and Instagram.Using simple frameworks, prompts and techniques to generate ideas and stay consistent.Making content creation a part of your routine, instead of something you keep putting off.The goal is to leave with a system you can actually use \u2014 not another content calendar you forget about.03. The AI Content LabLive demos \u00b7 AI tools \u00b7 Hands-on explorationWhat if creating content didn't have to start with a blank page?Meet the AI tools that can help you move from an idea to a finished piece of content \u2014 faster.We'll have live demonstrations by AI tool teams, showing how their products can support different parts of your content journey, including:Turning rough thoughts into content ideas, hooks and scripts.Creating video content and making the recording and editing process easier.Repurposing one idea into multiple formats for different platforms.Creating visuals, captions and variations of your content.Building a more efficient content workflow with AI.You'll get to see the tools in action, understand where they fit into your workflow, and explore how to use them without losing your own voice.Less staring at a blank screen. More making things.*Free Complimentary AI Tool Credits to everyone* 04. The Founder Networking GameMeet people. Share ideas. Find your next story.Networking doesn't have to start with \u201cSo, what do you do?\u201dWe'll bring out a set of interactive flashcards designed to get the conversation going.You'll introduce your business, share what you're building, and brainstorm what kind of content you could create around it. Other participants might spot stories, ideas or angles that you haven't thought of yourself.It's a chance to meet fellow founders, creators, builders and designers, exchange perspectives, and leave with more than just a bunch of LinkedIn connections.Who knows? You might find your next collaborator, content buddy or creative partner in the room.What you'll leave withBy the end of Build to Be Seen, you'll have worked towards:A clearer understanding of your personal and business content direction.Content pillars and ideas relevant to what you're building.Practical frameworks for creating content on LinkedIn and Instagram.A look at AI tools that can make your content workflow easier.Fresh perspectives and ideas from other people in the room.A starting point for a content system you can continue using after the event.You don't need to be a content creator already. You don't need to have a perfect personal brand or a polished strategy.Just bring what you're building, what you're curious about, and a willingness to experiment.Who is this for?Founders who want to build visibility alongside their business.Creators who want to explore better content systems and AI-powered workflows.Builders and operators who have valuable experiences to share but struggle to turn them into content.Designers and creative professionals who want to communicate their work and perspective.Anyone who's been saying, \u201cI really need to start posting consistently.\u201dThe planExpect 3\u20134 hours of expert insights, practical exercises, live AI tool demonstrations, interactive networking, and time to experiment with your own ideas.We'll share the detailed schedule, venue, speakers and participating AI tools soon.Come with your business. Bring your ideas, questions, and curiosity.Leave with a clearer way to tell your story \u2014 and a plan to keep showing up.Built to Be Seen \u2014 because building something is one thing. Helping the world see it is another.",
+    "startDate": "2026-11-01T12:00:00+05:30",
+    "endDate": "2026-11-01T16:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "New Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.61392980000000000000",
+        "longitude": "77.20882820000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Designly Club",
+      "url": "https://urbanaut.app/partner/designly-club"
+    },
+    "url": "https://urbanaut.app/spot/built-to-be-seen-a-content-lab-for-founders",
+    "keywords": [
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Paper Lantern Decor Workshop",
     "description": "this diwali, we\u2019re making things a little more \u2728lit\u2728 \ud83c\udfeeyour pinterest board is coming to life! we\u2019re back with a lantern decoration workshop to get crafty, add a little sparkle & make your festive decor a little more you. \ud83d\udc8c\ud83d\uddd3\ufe0f 1st November, 2PM\ud83d\udccd location: KR Stationers,  E37 First floor, E40, Hauz Khas Market Rd, New Delhi, Delhi 110016skip the scrolling, bring your crafty besties & let\u2019s make something that deserves a spot in your diwali decor. \ud83e\ude94\ud83e\udd0eLimited spots, so book early to hold your place!",
@@ -2311,6 +2462,45 @@
       "Live GIG",
       "Music",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Raat ke afsane: Saheliz Walk",
+    "description": "Saheliz Walk: Discover the Timeless Beauty of Lodhi Garden \ud83c\udf3fStep into Delhi's rich history with the Saheliz Walk, a special heritage walk exclusively for women through the iconic Lodhi Garden.Explore magnificent tombs, beautiful Indo-Islamic architecture, and centuries of fascinating stories as we journey through the Lodhi dynasty's legacy. From grand domed structures to hidden architectural details, every stop reveals a new chapter of Delhi\u2019s medieval past.Surrounded by lush greenery and historic monuments, this leisurely walk offers the perfect opportunity to connect with history, enjoy the outdoors, and share meaningful conversations with fellow women.Whether you're a history enthusiast, a photography lover, or simply looking for a refreshing cultural experience, join us for a morning of heritage, discovery, and sisterhood.Places Covered1. Mohammed Shah's Tomb2. Bara Gumbad3. Bara Gumbad Mosque4. Sheesh Gumbad5. Sikandar Lodi's Tomb6. Athpula Bridge6. Historic Garden LandscapesImportant Information1. Details of the heritage walk will be shared via email after ticket booking confirmation.2. The walk will be conducted in Hindi and English.3. Please wear comfortable walking shoes and carry drinking water.4. The route is easy-paced and suitable for participants of all age groups.5. In case of unavoidable circumstances such as adverse weather, government restrictions, or 6. unforeseen events, the walk may be rescheduled. Participants may attend another walk organised by the company within 30 days of the registered walk date.7. No refund policy applies.",
+    "startDate": "2026-11-06T16:00:00+05:30",
+    "endDate": "2026-11-06T17:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Lodhi Rd, Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59309590000000000000",
+        "longitude": "77.21967939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/raat-ke-afsane-saheliz-walk",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -2873,6 +3063,45 @@
     "url": "https://urbanaut.app/spot/rethinkingworkinmidlife-delhi",
     "keywords": [
       "Virtual",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Viva La Vino Wine Festival: Delhi Edition",
+    "description": "Viva La Vino \u2013 Delhi Edition at The Lalit, CPGet ready, Delhi \u2013 after a smashing debut last year, India's coolest wine festival is back in your city with a bigger, bolder and even more fun Season 2! Co-curated by Sommeliers Devati Mallick and Gargi Kothari, VLV is the first-of-its-kind, a super-fun, laid-back festival with great wines + vibes, while building a wine culture that\u2019s playful, welcoming, and totally unforgettable. Experience an evening of tasting wines with old and new wine friends in a full-on festival setting. Trust us, we will have you falling in love with the wine life all over again!What's in store this year:90+ wines from around the world: Sip, swirl, and savour a stunning lineup of international and Indian wines at your own pace. Discover new favourites, revisit classics, or surprise yourself with something unexpected. All wine tastings are included in your festival ticket.Artisan cheese: Your ticket includes a dreamy artisan cheese cup for one, so you can sip and snack at the same time. Want more? Shop extra platters and also take home your cheesy favourites.Craft chocolate: Meet India\u2019s finest craft chocolate producers and shop their gourmet range to sweeten your evening. Wine, cheese, and chocolate are always a good idea!Taste + order: Loved a wine? Don\u2019t just dream about it\u2014place an order on the spot with special festival-only bottle prices.Exclusive masterclass 6-7 PM: Get a masterclass ticket for a guided tasting of 4 premium wines not available at the main fest. A rare chance to dive deep with a cool sommelier, 25 seats only!Groovy live music + festival vibes: VLV Delhi takes over the uber chic alfresco space at The Lalit, CP. Our live music band will be spinning a banging set to keep the vibes flowing all evening!Live food stations: Indulge in mouthwatering bites from live stations curated by The Lalit's chefs, available to purchase on-site additionally.Last year was a hot sell-out, and this year promises to be even bigger. Bring a friend, your partner, a whole gang of wine buddies, or come solo and find your tribe here. Just don\u2019t miss it. See you there?",
+    "startDate": "2026-11-28T18:00:00+05:30",
+    "endDate": "2026-11-28T23:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Nelson Mandela Marg, Pocket 4, Vasant Kunj II, Vasant Kunj, New Delhi, Delhi 110070, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53939900000000000000",
+        "longitude": "77.15205720000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3050.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Viva La Vino",
+      "url": "https://urbanaut.app/partner/vivalavino-winefestival"
+    },
+    "url": "https://urbanaut.app/spot/viva-la-vino-wine-festival-delhi-edition",
+    "keywords": [
+      "Leisure",
+      "Festival",
+      "Pop-up Event",
+      "Food & drink",
       "URBANAUT"
     ]
   },
