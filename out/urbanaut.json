@@ -1120,7 +1120,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Old Delhi Heritage Walk",
-    "description": "A Sunday morning, a pair of walking shoes and a neighbourhood with plenty to say.Join Jibin George as we wander through the streets around Chor Bizarre, uncovering pieces of Delhi\u2019s history, architecture and everyday life along the way! End your walk with a hearty Delhi-style breakfast at Chor Bizarre.",
+    "description": "Step into the soul of Old Delhi, where centuries of history unfold in winding lanes, bustling bazaars, ancient temples and hidden courtyards. Join Jibin George on a Sunday morning walk through the neighbourhood around Chor Bizarre, discovering the stories, architectural treasures and everyday rituals that give this timeless city its character. From the calls of street vendors to the quiet charm of forgotten corners and historic places of worship, experience Delhi as a living, breathing story. End the morning at Chor Bizarre with a hearty breakfast, savouring the flavours of a city that has always brought people and cultures together.",
     "startDate": "2026-10-25T08:00:00+05:30",
     "endDate": "2026-10-25T10:00:00+05:30",
     "location": {
@@ -1252,7 +1252,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "1599.00",
+      "price": "0.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -1650,17 +1650,17 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "GFT: October Edition in Janpath",
-    "description": "Grounds for Thought: October 2026 (Janpath)A Blue Tokai \u00d7 unLecture SeriesGrounds for Thought is a monthly series where Blue Tokai and unLecture bring researchers, scientists, and thinkers out of their institutions and into a coffee shop. The format is simple: an expert, a room full of curious people, and a conversation that goes somewhere a classroom rarely does. October runs across Delhi and Bangalore, moving from temple sculpture to constitutional pedagogy, from parenting in the AI age to the politics of a Bollywood item number.27th October: Abhishek PanchalClimate communication has leaned so heavily on doomsday narratives that it often produces disengagement instead of action, while pseudo-sustainable habits let people feel involved without shifting the underlying politics. Abhishek Panchal, a research scientist at Ashoka University and former ISRO scientist-engineer, introduces Pralay, a cooperative strategy board game where players navigate competing climate priorities at the individual, state, and global level. Built on storytelling and discussion rather than lecture, the session asks whether an evening around a game table can do what doomsday statistics haven't \u2014 and examines whether it actually shifts attitudes, not just conversation.",
+    "name": "GFT: October Edition in Panchsheel Park",
+    "description": "Grounds for Thought: October 2026 (Panchsheel Park)A Blue Tokai \u00d7 unLecture SeriesGrounds for Thought is a monthly series where Blue Tokai and unLecture bring researchers, scientists, and thinkers out of their institutions and into a coffee shop. The format is simple: an expert, a room full of curious people, and a conversation that goes somewhere a classroom rarely does. October runs across Delhi and Bangalore, moving from temple sculpture to constitutional pedagogy, from parenting in the AI age to the politics of a Bollywood item number.27th October: Abhishek PanchalClimate communication has leaned so heavily on doomsday narratives that it often produces disengagement instead of action, while pseudo-sustainable habits let people feel involved without shifting the underlying politics. Abhishek Panchal, a research scientist at Ashoka University and former ISRO scientist-engineer, introduces Pralay, a cooperative strategy board game where players navigate competing climate priorities at the individual, state, and global level. Built on storytelling and discussion rather than lecture, the session asks whether an evening around a game table can do what doomsday statistics haven't \u2014 and examines whether it actually shifts attitudes, not just conversation.",
     "startDate": "2026-10-27T18:30:00+05:30",
     "endDate": "2026-10-27T20:00:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "No 48, Mezzanine & Ground Floor, Atul Grove Road, Janpath, Connaught Place, New Delhi, Delhi 110001, India",
+      "address": "Basement, Ground floor and First floor Building no. 12, Panchsheel Community Centre, Shahpur Jat, Panchsheel Park, New Delhi, Delhi 110017, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.62697200000000000000",
-        "longitude": "77.21977799999999000000"
+        "latitude": "28.54805190000000000000",
+        "longitude": "77.21147640000000000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -2097,6 +2097,45 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Diwali Soir\u00e9e",
+    "description": "The SWAG DIWALI SOIR\u00c9E is back with its second edition!This is a women only diwali partyy. Wear what you like and party like there's no tomorrow. Where - Foxtrail Hotel, Golf Course Road, Gurgaon (we have rooms for anyone who wants to stay) When - 31st October - 6:30 PM onwardsGet ready to grab your spots before everyone else and save while you\u2019re at it , Mark your calendars for this women-only celebration that is festive, fabulous and unapologetically desi-chique because we\u2019re bringing you an evening you won\u2019t want to miss!What\u2019s in storeUnlimited food and unlimited alcoholStyling station to get party-readyBedazzling station, to add sparkle to your lookTarot reader, for a peek at what\u2019s comingPhoto booth for all the picturesCard tables and more Diwali gamesA banger DJ keeping the dance floor packedBrand goodies to take home...and a lot more!Grab your spot before everyone else (and save while you\u2019re at it!). Mark your calendars for this women-only celebration that is festive, fabulous and unapologetically desi-chique. It\u2019s an evening you won\u2019t want to miss.The Community: At Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "startDate": "2026-10-31T18:30:00+05:30",
+    "endDate": "2026-10-31T23:59:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Plot no 683P, Sector 42, Gurugram, Haryana 122009, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46323050000000000000",
+        "longitude": "77.10075859999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1999.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/diwali-soiree",
+    "keywords": [
+      "Music",
+      "Festival",
+      "Pop-up Event",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "The Other Seat- Diwali Baithak",
     "description": "DIWALI BAITHAK \u2014 A FESTIVE SUPPER BY THE OTHER SEATThis Diwali, we are trading crowded restaurants and loud parties for something a little more intimate.A Diwali Baithak \u2014 the kind where you sit low on a gadda, have a drink beside you, eat between songs, and listen as a live vocalist and musician fill the room with festive vibesNot a concertNot a Diwali party.We are only hosting 10- 12 guestsWe've put together a Diwali menu for the evening, two cocktails, and a few hours that we hope you'll remember for reasons that have very little to do with what was planned. The menu is uploaded in the gallery.Dress code: Strictly EthnicDiwali Baithak is our take on the kind of festive evening we actually want to have \u2014 good food, a beautiful room, familiar songs, a few drinks and a table full of people who may not know each other when they arrive.Come with your friends, come as a couple or come by yourself. There\u2019s always another seat at The Other Seat.",
@@ -2470,8 +2509,8 @@
     "@type": "Event",
     "name": "Raat ke afsane: Saheliz Walk",
     "description": "Saheliz Walk: Discover the Timeless Beauty of Lodhi Garden \ud83c\udf3fStep into Delhi's rich history with the Saheliz Walk, a special heritage walk exclusively for women through the iconic Lodhi Garden.Explore magnificent tombs, beautiful Indo-Islamic architecture, and centuries of fascinating stories as we journey through the Lodhi dynasty's legacy. From grand domed structures to hidden architectural details, every stop reveals a new chapter of Delhi\u2019s medieval past.Surrounded by lush greenery and historic monuments, this leisurely walk offers the perfect opportunity to connect with history, enjoy the outdoors, and share meaningful conversations with fellow women.Whether you're a history enthusiast, a photography lover, or simply looking for a refreshing cultural experience, join us for a morning of heritage, discovery, and sisterhood.Places Covered1. Mohammed Shah's Tomb2. Bara Gumbad3. Bara Gumbad Mosque4. Sheesh Gumbad5. Sikandar Lodi's Tomb6. Athpula Bridge6. Historic Garden LandscapesImportant Information1. Details of the heritage walk will be shared via email after ticket booking confirmation.2. The walk will be conducted in Hindi and English.3. Please wear comfortable walking shoes and carry drinking water.4. The route is easy-paced and suitable for participants of all age groups.5. In case of unavoidable circumstances such as adverse weather, government restrictions, or 6. unforeseen events, the walk may be rescheduled. Participants may attend another walk organised by the company within 30 days of the registered walk date.7. No refund policy applies.",
-    "startDate": "2026-11-06T16:00:00+05:30",
-    "endDate": "2026-11-06T17:30:00+05:30",
+    "startDate": "2026-11-04T16:00:00+05:30",
+    "endDate": "2026-11-04T17:30:00+05:30",
     "location": {
       "@type": "Place",
       "address": "Lodhi Rd, Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003, India",
