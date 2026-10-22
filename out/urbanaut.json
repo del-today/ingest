@@ -74,82 +74,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Singles Art Walk with The League x Itihasology",
-    "description": " A heritage walk from Jamali Kamali to Quli Khan's Tomb, with stories of lovers, poets and queer desire, ending under a lit-up Qutub Minar.",
-    "startDate": "2026-10-22T17:00:00+05:30",
-    "endDate": "2026-10-22T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Anuvrat Marg, opposite Qutab Minar Metro Station, Christian Colony, Mehrauli, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52020410000000000000",
-        "longitude": "77.18767900000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The League India",
-      "url": "https://urbanaut.app/partner/the-league-india"
-    },
-    "url": "https://urbanaut.app/spot/singles-art-walk-with-the-league-x-itihasology",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "GFT: October Edition in Defence Colony",
-    "description": "Grounds for Thought: October 2026 (Defence Colony)A Blue Tokai \u00d7 unLecture SeriesGrounds for Thought is a monthly series where Blue Tokai and unLecture bring researchers,\u00a0scientists, and thinkers out of their institutions and into a coffee shop. The format is simple: an\u00a0expert, a room full of curious people, and a conversation that goes somewhere a classroom\u00a0rarely does. October runs across Delhi and Bangalore, moving from temple sculpture to constitutional pedagogy, from parenting in the AI age to the politics of a Bollywood item number.22nd October: Shubham YadavWhat if ordinary citizens believed they had something to teach the members of the Constituent\u00a0Assembly? Shubham Yadav, a Senior Research Fellow at JNU's Zakir Husain Centre for Educational Studies, argues that India's Constitution wasn't shaped by elites alone \u2014 it emerged from a running exchange in which both \"the people\" and \"the makers\" wanted to instruct each other on what the new nation should be. Framed as a conversation rather than a\u00a0lecture, the session traces that two-way pedagogy and what it reveals about how the Constitution actually came to be built.",
-    "startDate": "2026-10-22T18:30:00+05:30",
-    "endDate": "2026-10-22T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "No A/57 to A/59, DDA Shopping Complex, Block F, Defence Colony, New Delhi, Delhi 110024, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.56615030000000000000",
-        "longitude": "77.23328000000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "550.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/gft-october-edition-in-defence-colony",
-    "keywords": [
-      "Food & drink",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Slow Burn - A 4 Course Drinking Experience",
     "description": "Tucked into a corner of Lodhi Colony, The Love Hotel is Delhi's best-kept secret \u2014 a 20-seat cocktail room that takes its cues from the love hotels of Japan. It's intimate without being intense, flirtatious without trying too hard.Slow Burn is a four-course cocktail tasting built for this room \u2014 but where most tasting menus put food at the centre, here the cocktails play hero.It begins the second you walk in with a welcome shot. From there, four cocktails unfold in sequence \u2014 each its own chapter, drawn from the same five-taste philosophy that powers The Love Hotel's acclaimed program. Every pour lands with a course of tapas alongside it.An evening where the spirit leads, and the plate follows. And with only twenty seats, the room stays intimate & exclusive.",
@@ -924,44 +848,6 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Barbecue Food walk in Old Delhi",
-    "description": "The winter chills have started to grace us Delhiwaalas and this is also the most perfect season to gorge on the most delicious barbecues that the bustling streets of Old Delhi have to offer. For the non vegetarian lovers, the winter offerings of Old Delhi are a thing to savour. So come along to taste some deliciousness as I take you to my favourite kebabchis of the Old City amidst stories of the great poet Mirza Ghalib whose descriptions of the great flavours of Delhi\u2019s kebabs you will be witnessing first hand while taking in breathtaking views of the lit up Jama Masjid! With mutton kebabs, fish fry, chicken barbecue and much more on the menu, I would advise you to have an early light lunch or to skip lunch altogether.\u00a0PS: The menu for this food walk is completely non vegetarian so I would request vegetarian to refrain from registering on this one. A vegetarian food walk will also be announced very soon!",
-    "startDate": "2026-10-24T18:00:00+05:30",
-    "endDate": "2026-10-24T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Urdu Bazar Rd, Old Delhi, Meena Bazaar, Jama Masjid, Chandni Chowk, Delhi, 110006, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.64991760000000000000",
-        "longitude": "77.23563520000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2400.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Unzip Delhi",
-      "url": "https://urbanaut.app/partner/unzipdelhi"
-    },
-    "url": "https://urbanaut.app/spot/nonvegfoodwalk",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Food & drink",
       "URBANAUT"
     ]
   },
