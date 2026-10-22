@@ -18,6 +18,57 @@
   },
   {
     "@type": "ScreeningEvent",
+    "name": "A Chip Odyssey(2025)",
+    "url": "https://fillum.in/screening/6387",
+    "startDate": "2026-10-24T09:30:00+05:30",
+    "endDate": "2026-10-24T09:30:00+05:30",
+    "description": "Free entry. As part of Taiwan Film Festival in India.",
+    "location": {
+      "@type": "Place",
+      "name": "Triveni Kala Sangam",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fillum"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Johny Mera Naam(1970)",
+    "url": "https://fillum.in/screening/6382",
+    "startDate": "2026-10-24T11:30:00+05:30",
+    "endDate": "2026-10-24T11:30:00+05:30",
+    "description": "What happens when deception becomes the perfect disguise?A world of hidden identities, dangerous secrets, and unexpected twists unfolds as a sharp-witted undercover officer navigates the shadowy..more",
+    "location": {
+      "@type": "Place",
+      "name": "iPley Music, GK-1",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "SomeArt"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "HERO! HITO!(2025)",
+    "url": "https://fillum.in/screening/6388",
+    "startDate": "2026-10-24T11:30:00+05:30",
+    "endDate": "2026-10-24T11:30:00+05:30",
+    "description": "Free entry. As part of Taiwan Film Festival in India.",
+    "location": {
+      "@type": "Place",
+      "name": "Triveni Kala Sangam",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fillum"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "Noroi: The Curse(2005)",
     "url": "https://fillum.in/screening/6299",
     "startDate": "2026-10-24T12:00:00+05:30",
@@ -52,6 +103,40 @@
   },
   {
     "@type": "ScreeningEvent",
+    "name": "Before the Bright Day(2025)",
+    "url": "https://fillum.in/screening/6389",
+    "startDate": "2026-10-24T15:40:00+05:30",
+    "endDate": "2026-10-24T15:40:00+05:30",
+    "description": "Free entry. As part of Taiwan Film Festival in India.",
+    "location": {
+      "@type": "Place",
+      "name": "Triveni Kala Sangam",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fillum"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Jewel Thief(1967)",
+    "url": "https://fillum.in/screening/6383",
+    "startDate": "2026-10-24T16:00:00+05:30",
+    "endDate": "2026-10-24T16:00:00+05:30",
+    "description": "What if the perfect crime begins with the perfect disguise?A priceless necklace disappears, suspicion runs wild, and a man finds himself trapped in a web of mistaken identity, deception, and dan..more",
+    "location": {
+      "@type": "Place",
+      "name": "iPley Music, GK-1",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "SomeArt"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "KINKI(2025)",
     "url": "https://fillum.in/screening/6301",
     "startDate": "2026-10-24T16:30:00+05:30",
@@ -69,53 +154,19 @@
   },
   {
     "@type": "ScreeningEvent",
-    "name": "Gonjiam: Haunted Asylum(2018)",
-    "url": "https://fillum.in/screening/6302",
-    "startDate": "2026-10-24T18:30:00+05:30",
-    "endDate": "2026-10-24T18:30:00+05:30",
-    "description": "In collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress seating, projection..more",
+    "name": "Deep Quiet Room(2026)",
+    "url": "https://fillum.in/screening/6390",
+    "startDate": "2026-10-24T18:00:00+05:30",
+    "endDate": "2026-10-24T18:00:00+05:30",
+    "description": "Free entry. As part of Taiwan Film Festival in India.",
     "location": {
       "@type": "Place",
-      "name": "Jangpura",
+      "name": "Triveni Kala Sangam",
       "address": "Delhi"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Out of Sequence"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Ju-on: The Grudge(2002)",
-    "url": "https://fillum.in/screening/6303",
-    "startDate": "2026-10-24T20:00:00+05:30",
-    "endDate": "2026-10-24T20:00:00+05:30",
-    "description": "In collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress seating, projection..more",
-    "location": {
-      "@type": "Place",
-      "name": "Jangpura",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Out of Sequence"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Yaadon Ki Baaraat(1973)",
-    "url": "https://fillum.in/screening/6264",
-    "startDate": "2026-10-27T19:00:00+05:30",
-    "endDate": "2026-10-27T19:00:00+05:30",
-    "description": "Free entry.",
-    "location": {
-      "@type": "Place",
-      "name": "Stein Auditorium, India Habitat Centre",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Habitat World"
+      "name": "Fillum"
     }
   }
 ]
