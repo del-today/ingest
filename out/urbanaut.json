@@ -1006,8 +1006,8 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "name": "Hot Girls Do Pilates (SWAG x WITHIN)",
-    "description": "We are meeting this Sunday morning for a Mat Pilates and Tennis Social at Cafe Casa Dunes!We will start with an intensive, beginner-friendly mat pilates session ending in breath work. Then it is time for some tennis rallies and a curated breakfast on the house! We have coffee, matcha, yogurt bowls and more on the menu. There are games and challenges lined up! You also take home WITHIN Goodie Hampers, Yoga Mats, Tumblers and more!It is a Sunday morning party! See you there.The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "name": "Love All Within",
+    "description": "We are meeting this Sunday morning for a Mat Pilates and Tennis Social at Cafe Casa Dunes!We will start with an intensive, beginner-friendly mat pilates session ending in breath work. Then it is time for some tennis rallies and a curated breakfast on the house! We have coffee, honey bowls, snacks and more on the menu. There are games and challenges lined up! You also take home WITHIN Goodie Hampers, Yoga Mats, Tumblers and more!It is a Sunday morning party! See you there.The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
     "startDate": "2026-10-25T07:30:00+05:30",
     "endDate": "2026-10-25T09:30:00+05:30",
     "location": {
@@ -2430,6 +2430,45 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Haunted Walk: Mehrauli Archaeological Park",
+    "description": "Join us for a hauntingly beautiful night walk through the Mehrauli Archaeological Park, a place where centuries of Delhi\u2019s history come alive\u2014alongside tales of the unseen. In this special segment, Ruhaani Raatein, we delve into the world of djinns, the mystical beings believed to reside in this ancient land.Guided by a historian and storyteller, we\u2019ll explore how djinns are viewed and worshipped in Islamic traditions, and how folklore continues to shape the spiritual character of Mehrauli even today.Our walk will take you through: The tomb of Jamali Kamali, often called the Gay Taj Mahal for its poetic mystique and timeless love story A haunting 500-year-old baoli (stepwell)The remnants of a British-era swimming pool, hidden in plain sight A peaceful lakeside caf\u00e9, perfect for ending the evening with a quiet reflection or a warm chaiAs night falls and shadows grow, let the stories guide you through one of Delhi\u2019s oldest, most magical spaces\u2014where the past is never truly past.",
+    "startDate": "2026-11-01T17:00:00+05:30",
+    "endDate": "2026-11-29T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Anuvrat Marg, opposite Qutab Minar Metro Station, Christian Colony, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52020410000000000000",
+        "longitude": "77.18767900000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "700.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/haunted-walk-mehrauli-archaeological-park",
+    "keywords": [
+      "Adventure",
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Mehfil-e-Ghazal With Tanushree",
     "description": "Dr. Tanushree Kashyap Sharma is a Hindustani Classical vocalist and Ghazal artist, known for her soulful voice and expressive interpretation of poetry. A B-High Graded Artist of All India Radio, Gold Medalist in Hindustani Classical Vocal from the University of Delhi, and Ph.D. in Music from Kurukshetra University, she has performed extensively across India and internationally.Her repertoire beautifully bridges the depth of Hindustani music with the emotional world of Ghazal, bringing together timeless poetry, melody and contemporary sensibility.Why Depot 48:This performance is envisioned especially for Depot 48 because its intimate, contemporary live-music setting offers the perfect space to experience Ghazal beyond a traditional concert format \u2014 up close, relaxed and immersive. The show aims to introduce a younger, urban audience to the romance, poetry and timeless emotion of Ghazal, while presenting it in a setting that feels natural and accessible to today\u2019s listeners.",
@@ -2472,7 +2511,7 @@
     "name": "Raat ke afsane: Saheliz Walk",
     "description": "Saheliz Walk: Discover the Timeless Beauty of Lodhi Garden \ud83c\udf3fStep into Delhi's rich history with the Saheliz Walk, a special heritage walk exclusively for women through the iconic Lodhi Garden.Explore magnificent tombs, beautiful Indo-Islamic architecture, and centuries of fascinating stories as we journey through the Lodhi dynasty's legacy. From grand domed structures to hidden architectural details, every stop reveals a new chapter of Delhi\u2019s medieval past.Surrounded by lush greenery and historic monuments, this leisurely walk offers the perfect opportunity to connect with history, enjoy the outdoors, and share meaningful conversations with fellow women.Whether you're a history enthusiast, a photography lover, or simply looking for a refreshing cultural experience, join us for a morning of heritage, discovery, and sisterhood.Places Covered1. Mohammed Shah's Tomb2. Bara Gumbad3. Bara Gumbad Mosque4. Sheesh Gumbad5. Sikandar Lodi's Tomb6. Athpula Bridge6. Historic Garden LandscapesImportant Information1. Details of the heritage walk will be shared via email after ticket booking confirmation.2. The walk will be conducted in Hindi and English.3. Please wear comfortable walking shoes and carry drinking water.4. The route is easy-paced and suitable for participants of all age groups.5. In case of unavoidable circumstances such as adverse weather, government restrictions, or 6. unforeseen events, the walk may be rescheduled. Participants may attend another walk organised by the company within 30 days of the registered walk date.7. No refund policy applies.",
     "startDate": "2026-11-04T16:00:00+05:30",
-    "endDate": "2026-11-04T17:30:00+05:30",
+    "endDate": "2026-11-04T18:00:00+05:30",
     "location": {
       "@type": "Place",
       "address": "Lodhi Rd, Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003, India",
@@ -2765,6 +2804,44 @@
       "url": "https://urbanaut.app/partner/darwesh_taleweavers"
     },
     "url": "https://urbanaut.app/spot/kaboortarbazi-in-turkman-gate-a-heritage-walk",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Raat ke Afsane : Safdarjung Tomb",
+    "description": "Safdarjung Tomb Walk: Stories After SunsetA guided heritage walk at Safdarjung Tomb in Delhi exploring its history, architecture and cultural importance. The monument represents the late Mughal period and reflects the transition of power in Delhi.The walk covers the monument complex and its surroundings, sharing stories about its construction, design, and historical context. It introduces Mughal architecture and the area's heritage.The experience is conducted in Hindi and English.Important Information1. Details will be shared after booking confirmation2. Children below 5 years are not charged3. In case of unavoidable circumstances, the event may be rescheduled or cancelled. An alternate date may be offered within 30 days, subject to availability4. No refunds once tickets are booked",
+    "startDate": "2026-11-15T17:00:00+05:30",
+    "endDate": "2026-11-15T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Airforce Golf Course, Delhi Race Club, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.58941560000000000000",
+        "longitude": "77.21062190000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "700.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/heritage-walk-safdarjung-tomb-raat-ke-afsane",
     "keywords": [
       "Walking Tour",
       "History & heritage",
@@ -3069,45 +3146,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Viva La Vino Wine Festival: Delhi Edition",
-    "description": "Viva La Vino \u2013 Delhi Edition at The Lalit, CPGet ready, Delhi \u2013 after a smashing debut last year, India's coolest wine festival is back in your city with a bigger, bolder and even more fun Season 2! Co-curated by Sommeliers Devati Mallick and Gargi Kothari, VLV is the first-of-its-kind, a super-fun, laid-back festival with great wines + vibes, while building a wine culture that\u2019s playful, welcoming, and totally unforgettable. Experience an evening of tasting wines with old and new wine friends in a full-on festival setting. Trust us, we will have you falling in love with the wine life all over again!What's in store this year:90+ wines from around the world: Sip, swirl, and savour a stunning lineup of international and Indian wines at your own pace. Discover new favourites, revisit classics, or surprise yourself with something unexpected. All wine tastings are included in your festival ticket.Artisan cheese: Your ticket includes a dreamy artisan cheese cup for one, so you can sip and snack at the same time. Want more? Shop extra platters and also take home your cheesy favourites.Craft chocolate: Meet India\u2019s finest craft chocolate producers and shop their gourmet range to sweeten your evening. Wine, cheese, and chocolate are always a good idea!Taste + order: Loved a wine? Don\u2019t just dream about it\u2014place an order on the spot with special festival-only bottle prices.Exclusive masterclass 6-7 PM: Get a masterclass ticket for a guided tasting of 4 premium wines not available at the main fest. A rare chance to dive deep with a cool sommelier, 25 seats only!Groovy live music + festival vibes: VLV Delhi takes over the uber chic alfresco space at The Lalit, CP. Our live music band will be spinning a banging set to keep the vibes flowing all evening!Live food stations: Indulge in mouthwatering bites from live stations curated by The Lalit's chefs, available to purchase on-site additionally.Last year was a hot sell-out, and this year promises to be even bigger. Bring a friend, your partner, a whole gang of wine buddies, or come solo and find your tribe here. Just don\u2019t miss it. See you there?",
-    "startDate": "2026-11-28T18:00:00+05:30",
-    "endDate": "2026-11-28T23:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Nelson Mandela Marg, Pocket 4, Vasant Kunj II, Vasant Kunj, New Delhi, Delhi 110070, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53939900000000000000",
-        "longitude": "77.15205720000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3050.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Viva La Vino",
-      "url": "https://urbanaut.app/partner/vivalavino-winefestival"
-    },
-    "url": "https://urbanaut.app/spot/viva-la-vino-wine-festival-delhi-edition",
-    "keywords": [
-      "Leisure",
-      "Festival",
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "NIGHT IN A MUSEUM : HUMAYUN TOMB MUSEUM WALK",
     "description": "Indus Valley Civilisation Walk at the National MuseumStep back over 4,000 years and explore the fascinating world of the Indus Valley Civilisation through a guided walk at the National Museum.Discover ancient treasures from Harappa and Mohenjo-Daro, including seals, pottery, jewellery, sculptures, and everyday objects. Learn about one of the world's earliest urban civilisations, its advanced city planning, trade networks, craftsmanship, and the enduring mystery of the undeciphered Indus script.Experience history through engaging stories and expert insights into the people and culture that shaped this remarkable civilisation.Highlights1. Guided exploration of the Indus Valley galleries at the National Museum2. Artefacts from Harappa, Mohenjo-Daro, and other archaeological sites3. Insights into ancient urban planning, architecture, and technology4. Stories of trade, craftsmanship, and daily life5. The mystery of the undeciphered Indus script6. Historical context behind seals, pottery, jewellery, and sculpturesImportant Information1. Please arrive at the meeting point at least 15 minutes before the scheduled start time.Comfortable walking shoes are recommended.2 Photography may be restricted in certain areas of the museum. Please follow museum guidelines.3 Tickets once booked are non-refundable and cannot be cancelled or transferred.4. In the event of unforeseen circumstances beyond the organiser's control, such as government restrictions, political disturbances, public safety concerns, natural calamities, or any situation that makes conducting the event unsafe or impossible, the event will be rescheduled. The same ticket will remain valid for the rescheduled date, and we will inform participants in advance.",
@@ -3142,45 +3180,6 @@
       "History & heritage",
       "Guided tour",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Haunted Walk: Mehrauli Archaeological Park",
-    "description": "Join us for a hauntingly beautiful night walk through the Mehrauli Archaeological Park, a place where centuries of Delhi\u2019s history come alive\u2014alongside tales of the unseen. In this special segment, Ruhaani Raatein, we delve into the world of djinns, the mystical beings believed to reside in this ancient land.Guided by a historian and storyteller, we\u2019ll explore how djinns are viewed and worshipped in Islamic traditions, and how folklore continues to shape the spiritual character of Mehrauli even today.Our walk will take you through: The tomb of Jamali Kamali, often called the Gay Taj Mahal for its poetic mystique and timeless love story A haunting 500-year-old baoli (stepwell)The remnants of a British-era swimming pool, hidden in plain sight A peaceful lakeside caf\u00e9, perfect for ending the evening with a quiet reflection or a warm chaiAs night falls and shadows grow, let the stories guide you through one of Delhi\u2019s oldest, most magical spaces\u2014where the past is never truly past.",
-    "startDate": "2026-11-29T17:00:00+05:30",
-    "endDate": "2026-11-29T18:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Anuvrat Marg, opposite Qutab Minar Metro Station, Christian Colony, Mehrauli, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52020410000000000000",
-        "longitude": "77.18767900000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "700.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Enroute Indian History",
-      "url": "https://urbanaut.app/partner/enrouteindianhistory"
-    },
-    "url": "https://urbanaut.app/spot/haunted-walk-mehrauli-archaeological-park",
-    "keywords": [
-      "Adventure",
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
       "URBANAUT"
     ]
   },
