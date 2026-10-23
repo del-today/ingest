@@ -114,44 +114,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "DDC presents \u201cDisco Fever\u201d",
-    "description": "What do you get when you mix 5 veteran musicians with tight vocal harmonies, explosive live energy and an endless supply of the best party hits?  The time of your f\u2019n life!The DDC is a Delhi-based band that plays timeless party and dance anthems across all eras and genres. Comprising of seasoned musicians from the Delhi scene namely: Abhimanyu Pratap on keys and vocals Amar Pandey on bass and vocals Mayank Lawrence on guitar and vocals(subbed in by Siddhant for this show)Sherry Mathiews on Vocals and percussions Nikhil Vasudevan on Drums and VocalsDDC Nights at Depot48 promises to be a groovey, jivey, funky night for those who are looking to let their hair down and Freak out to some good ol\u2019 disco and dance the night away! All aboard The DDC Express, Final destination: Ze Dance Floor!!",
-    "startDate": "2026-10-23T22:00:00+05:30",
-    "endDate": "2026-10-23T23:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53415570000000000000",
-        "longitude": "77.24300939999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Depot48",
-      "url": "https://urbanaut.app/partner/depot48"
-    },
-    "url": "https://urbanaut.app/spot/ddc-presents-disco-fever",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Turning Setbacks into Stepping Stones",
     "description": "Cognitive Reset with TarotTurn setbacks into stepping stones.What if three random cards and the pen in your hand held the keys and plot twists to your best life?We all have dreams and carefully imagined futures. But life doesn\u2019t always follow our script.Join us for a unique, immersive experience that blends Tarot with creative writing to help you look at life\u2019s challenges differently, unlock new perspectives, and discover creative ways to keep moving towards your goals.Because sometimes, the breakthrough isn\u2019t about changing your circumstances\u2014it\u2019s about changing the way you see them.Come with your dreams. Leave with a new perspective.Hosted by Megha of YinYourYang Astrology, in collaboration with RiFoM Community.\ud83d\udcc5 Saturday, 24 October 2026\u23f0 10 AM \u2013 12 PM\ud83d\udccd Greenr, N Block, GK1, New Delhi\ud83c\udf9f\ufe0f \u20b91,599 per person, including one beverage (coffee or tea)Participants will also receive a special discount on Megha\u2019s Karmic Reset Package.Spaces are limited. Reserve your spot and discover a different way to rewrite your story.",
@@ -2545,6 +2507,44 @@
       "Adventure",
       "Walking Tour",
       "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Diwali House Party: Dress like a celebrity",
+    "description": "Iss Diwali, ghar ki party mein glamour ka tadka!Shoshabaazi is bringing you a night of full-on desi drama, and the kind of Diwali party your filmy heart has been waiting for. \ud83d\udc83\ud83e\udea9Think blingy sarees, iconic Bollywood looks, dramatic sunglasses, celebrity-inspired fits, and main-character energy. Come dressed as your favourite celebrity or recreate an iconic filmi look because tonight, everyone\u2019s a star.Expect festive vibes, music, dancing, games, good food, new faces, and strangers turning into party friends. Think shaadi-level enthusiasm with house-party intimacy.\u2728 THE DETAILS\ud83d\udcc5 7 November 2026\u23f0 6 PM onwards\ud83d\udccd Janakpuri, Delhi\ud83d\udc57 DRESS CODE: DRESS LIKE A CELEBRITY",
+    "startDate": "2026-11-07T18:00:00+05:30",
+    "endDate": "2026-11-07T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Janakpuri, New Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.62189900000000000000",
+        "longitude": "77.08783849999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "999.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Shoshabaazi",
+      "url": "https://urbanaut.app/partner/shoshabaazi"
+    },
+    "url": "https://urbanaut.app/spot/diwali-house-party-dress-like-a-celebrity",
+    "keywords": [
+      "Music",
+      "Festival",
+      "Food & drink",
       "URBANAUT"
     ]
   },
