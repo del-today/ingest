@@ -2,41 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Inside Commerce: Shaping India's Digital Commerce",
-    "description": "India\u2019s e-commerce ecosystem is entering a new phase of maturity, marked by rapid growth in consumers, sellers and new business models. The industry is expected to reach US$300 billion by 2030. Its growth is also geographically diverse, with Tier-II and Tier-III cities accounting for an increasing share of online commerce.As the e-commerce ecosystem matures, so too do consumer expectations around speed, convenience, reliability and choice, alongside evolving perspectives of sellers, workers and businesses. At the same time, technological and regulatory developments are continually shaping how diverse marketplaces operate.Against this backdrop, the Digital Commerce Coalition is convening its inaugural public forum bringing together 100+ relevant stakeholders from across the digital commerce ecosystem, including businesses, consumers, sellers, and policymakers.",
-    "startDate": "2026-10-23T09:30:00+05:30",
-    "endDate": "2026-10-23T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "New Delhi, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.61392980000000000000",
-        "longitude": "77.20882820000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1178.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Koan Advisory",
-      "url": "https://urbanaut.app/partner/koan"
-    },
-    "url": "https://urbanaut.app/spot/dcc-half-day-conference",
-    "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Kathika Cultural Experience",
     "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
     "startDate": "2026-10-23T11:30:00+05:30",
@@ -615,7 +580,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "999.00",
+      "price": "799.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -1873,6 +1838,43 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Halloween Special: Make your Own Monster Pizza",
+    "description": "This Halloween, swap the tricks for some cheesy treats! \ud83d\udc7b\ud83c\udf55Join us for a fun, hands-on Halloween pizza-making workshop where you get to create your very own pizza. Get creative with your toppings, make a monster or a pumpkin, or something else altogether!Whether you're planning a fun outing with friends, a family activity, or a unique Halloween experience, this is the perfect way to celebrate the spooky season.What's in store?\ud83c\udf55 Make your own pizza from scratch with our guidance\ud83c\udf83 Get creative and have fun with your pizza toppings\ud83d\udc69\u200d\ud83c\udf73 Enjoy a hands-on, beginner-friendly experience\ud83d\ude0b Relish the pizza you create!Come hungry, bring your creativity, and get ready for a spooktacular, cheesy time!Book your spot and make this Halloween deliciously memorable! \ud83d\udc7b",
+    "startDate": "2026-10-31T17:30:00+05:30",
+    "endDate": "2026-10-31T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shop No. 18,19,28, Ascott Ireo City Central, behind Jagdish Store, Alahawas, Sector 59, Gurugram, Haryana 122098, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40815030000000000000",
+        "longitude": "77.10266890000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "943.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Joaah",
+      "url": "https://urbanaut.app/partner/joaah"
+    },
+    "url": "https://urbanaut.app/spot/halloween-special-make-your-own-monster-pizza",
+    "keywords": [
+      "Leisure",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "The FishMarket #2",
     "description": "A FishMarket isn't a lecture. It's a room full of concerned citizens trying to solve a problem together.This one is about something we all experience every single day, and almost never stop to actually diagnose.Moving through a city should be simple. And yet an ordinary journey on foot, by bicycle, motorcycle or car routinely becomes an exercise in negotiation. The footpath disappears into parking. The pedestrian steps onto the road. The rider squeezes through a gap that probably shouldn't exist. The car stops wherever space appears. Each decision seems reasonable to the person making it. Together, they produce confusion, delay, and risk.But here's what we rarely ask: is this actually about bad civic sense? Or is it about a street that was designed without ever considering how people actually use it?This FishMarket will investigate how everyday disorder is created across the entire street. We'll will diagnose situations. We'll ask who or what shapes them. And then we'll move from diagnosis to solutions, examining which responsibilities belong to citizens, drivers, vendors, planners and authorities, and what changes in behaviour, rules, or design could actually help.Come ready to observe, challenge easy assumptions, and propose a better way for everyone to share the city.",
@@ -1911,7 +1913,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Diwali Soir\u00e9e",
-    "description": "The SWAG DIWALI SOIR\u00c9E is back with its second edition!This is a women only diwali partyy. Wear what you like and party like there's no tomorrow. Where - Foxtrail Hotel, Golf Course Road, Gurgaon (we have rooms for anyone who wants to stay) When - 31st October - 6:30 PM onwardsGet ready to grab your spots before everyone else and save while you\u2019re at it , Mark your calendars for this women-only celebration that is festive, fabulous and unapologetically desi-chique because we\u2019re bringing you an evening you won\u2019t want to miss!What\u2019s in storeUnlimited food and unlimited alcoholStyling station to get party-readyBedazzling station, to add sparkle to your lookTarot reader, for a peek at what\u2019s comingPhoto booth for all the picturesCard tables and more Diwali gamesA banger DJ keeping the dance floor packedBrand goodies to take home...and a lot more!Grab your spot before everyone else (and save while you\u2019re at it!). Mark your calendars for this women-only celebration that is festive, fabulous and unapologetically desi-chique. It\u2019s an evening you won\u2019t want to miss.The Community: At Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "description": "The SWAG DIWALI SOIR\u00c9E is back with its second edition!This is a women only diwali partyy. Wear what you like and party like there's no tomorrow.Where - Foxtrail Hotel, Golf Course Road, Gurgaon (we have rooms for anyone who wants to stay)When - 31st October - 6:30 PM onwardsWhat\u2019s in storeUnlimited food and unlimited alcoholStyling station to get party-readyBedazzling station, to add sparkle to your lookTarot reader, for a peek at what\u2019s comingPhoto booth for all the picturesCard tables and more Diwali gamesA banger DJ keeping the dance floor packedBrand goodies to take home...and a lot more!Grab your spot before everyone else (and save while you\u2019re at it!). Mark your calendars for this women-only celebration that is festive, fabulous and unapologetically desi-chique. It\u2019s an evening you won\u2019t want to miss.The Community: At Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
     "startDate": "2026-10-31T18:30:00+05:30",
     "endDate": "2026-10-31T23:59:00+05:30",
     "location": {
@@ -2092,6 +2094,45 @@
     },
     "url": "https://urbanaut.app/spot/human-ludo",
     "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Artisanal Sourdough Bread Workshop",
+    "description": "Learn how to bake an artisan loaf - real bread made the old-fashioned way, with just flour, water, and salt!Small-group Workshop - 6 spots only.No prior baking or cooking experience required. This is a hands-on class for those seriously seeking to learn the art and craft of baking sourdough breads, not for casual experience seekers. Sourdough bread baking requires practice. Under Anita's guidance, each participant will work independently to make their loaf from start to finish. At the end of class you will go home with the confidence to start baking sourdough bread in your home kitchen. The class also includes a Sourdough Focaccia demo.Sun, Nov 1: 10:00am-4:30pm Full Day (mix, shape, bake in-class)250+ workshops and counting!Anita is a practicing Landscape Architect who enjoys cooking with seasonal ingredients. Like-minded people join her in the kitchen on weekends to cook and eat. She has been baking sourdough breads at home for over 15 years using local flours and her lively wild yeast starter. Come for the Bread, stay for the food.",
+    "startDate": "2026-11-01T10:00:00+05:30",
+    "endDate": "2026-11-01T16:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "A99, Block A, Swasthya Vihar, New Delhi, Delhi, 110092, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.63999000000000000000",
+        "longitude": "77.29142000000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "7800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "A Mad Tea Party",
+      "url": "https://urbanaut.app/partner/a-mad-tea-party"
+    },
+    "url": "https://urbanaut.app/spot/artisanalsourdoughbread",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Workshop",
+      "Food & drink",
       "URBANAUT"
     ]
   },
