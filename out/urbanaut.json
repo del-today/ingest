@@ -4,7 +4,7 @@
     "@type": "Event",
     "name": "Inside Commerce: Shaping India's Digital Commerce",
     "description": "India\u2019s e-commerce ecosystem is entering a new phase of maturity, marked by rapid growth in consumers, sellers and new business models. The industry is expected to reach US$300 billion by 2030. Its growth is also geographically diverse, with Tier-II and Tier-III cities accounting for an increasing share of online commerce.As the e-commerce ecosystem matures, so too do consumer expectations around speed, convenience, reliability and choice, alongside evolving perspectives of sellers, workers and businesses. At the same time, technological and regulatory developments are continually shaping how diverse marketplaces operate.Against this backdrop, the Digital Commerce Coalition is convening its inaugural public forum bringing together 100+ relevant stakeholders from across the digital commerce ecosystem, including businesses, consumers, sellers, and policymakers.",
-    "startDate": "2026-10-22T09:30:00+05:30",
+    "startDate": "2026-10-23T09:30:00+05:30",
     "endDate": "2026-10-23T13:00:00+05:30",
     "location": {
       "@type": "Place",
@@ -39,7 +39,7 @@
     "@type": "Event",
     "name": "Kathika Cultural Experience",
     "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
-    "startDate": "2026-10-22T11:30:00+05:30",
+    "startDate": "2026-10-23T11:30:00+05:30",
     "endDate": "2026-10-31T14:00:00+05:30",
     "location": {
       "@type": "Place",
@@ -69,42 +69,6 @@
       "Music",
       "History & heritage",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Slow Burn - A 4 Course Drinking Experience",
-    "description": "Tucked into a corner of Lodhi Colony, The Love Hotel is Delhi's best-kept secret \u2014 a 20-seat cocktail room that takes its cues from the love hotels of Japan. It's intimate without being intense, flirtatious without trying too hard.Slow Burn is a four-course cocktail tasting built for this room \u2014 but where most tasting menus put food at the centre, here the cocktails play hero.It begins the second you walk in with a welcome shot. From there, four cocktails unfold in sequence \u2014 each its own chapter, drawn from the same five-taste philosophy that powers The Love Hotel's acclaimed program. Every pour lands with a course of tapas alongside it.An evening where the spirit leads, and the plate follows. And with only twenty seats, the room stays intimate & exclusive.",
-    "startDate": "2026-10-22T19:00:00+05:30",
-    "endDate": "2026-10-29T23:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Main Market, 28, Lodhi Rd, Block 13, Lodi Colony, New Delhi, Delhi, 110003, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.58474620000000000000",
-        "longitude": "77.22387390000002000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3200.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Love Hotel",
-      "url": "https://urbanaut.app/partner/the-love-hotel"
-    },
-    "url": "https://urbanaut.app/spot/slow-burn-martini-cocktail-tasting-menu",
-    "keywords": [
-      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -1498,6 +1462,42 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
+    "name": "Slow Burn - A 4 Course Drinking Experience",
+    "description": "Tucked into a corner of Lodhi Colony, The Love Hotel is Delhi's best-kept secret \u2014 a 20-seat cocktail room that takes its cues from the love hotels of Japan. It's intimate without being intense, flirtatious without trying too hard.Slow Burn is a four-course cocktail tasting built for this room \u2014 but where most tasting menus put food at the centre, here the cocktails play hero.It begins the second you walk in with a welcome shot. From there, four cocktails unfold in sequence \u2014 each its own chapter, drawn from the same five-taste philosophy that powers The Love Hotel's acclaimed program. Every pour lands with a course of tapas alongside it.An evening where the spirit leads, and the plate follows. And with only twenty seats, the room stays intimate & exclusive.",
+    "startDate": "2026-10-29T19:00:00+05:30",
+    "endDate": "2026-10-29T23:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Main Market, 28, Lodhi Rd, Block 13, Lodi Colony, New Delhi, Delhi, 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.58474620000000000000",
+        "longitude": "77.22387390000002000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3200.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Love Hotel",
+      "url": "https://urbanaut.app/partner/the-love-hotel"
+    },
+    "url": "https://urbanaut.app/spot/slow-burn-martini-cocktail-tasting-menu",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
     "name": "Halloween Carnival 2026",
     "description": "Step into a world where chaos meets celebration. Shellbeacon x Mitra Mesh bring you a 3-night immersive carnival experience in Hauz Khas Village. Expect eerie vibes, theatrical energy, and unforgettable nights under the stars.Dark. Mysterious. Seductive.A celebration of gothic aesthetics, moody music, deep house, underground energy, costumes, chaos, and carnival vibes. Expect creepy characters, wild dance floors, themed cocktails, and a crowd dressed to impress (or scare).Decadence meets drama with cabaret performances, vintage glamour, artistic expression, and bold energy inspired by 1920s Berlin.What to Expect:Themed d\u00e9cor & immersive ambianceLive DJs & curated musicSpecial Halloween cocktails & event menuCostume-friendly crowd & photo momentsRooftop forest vibes in the heart of HKVDress Code Recommended:Goth | Halloween Costumes | Vintage/CabaretThis isn\u2019t just a party.It\u2019s a 3-night escape into a different world.",
     "startDate": "2026-10-30T12:00:00+05:30",
@@ -2360,7 +2360,7 @@
     "@type": "Event",
     "name": "Raat ke afsane: Saheliz Walk",
     "description": "Saheliz Walk: Discover the Timeless Beauty of Lodhi Garden \ud83c\udf3fStep into Delhi's rich history with the Saheliz Walk, a special heritage walk exclusively for women through the iconic Lodhi Garden.Explore magnificent tombs, beautiful Indo-Islamic architecture, and centuries of fascinating stories as we journey through the Lodhi dynasty's legacy. From grand domed structures to hidden architectural details, every stop reveals a new chapter of Delhi\u2019s medieval past.Surrounded by lush greenery and historic monuments, this leisurely walk offers the perfect opportunity to connect with history, enjoy the outdoors, and share meaningful conversations with fellow women.Whether you're a history enthusiast, a photography lover, or simply looking for a refreshing cultural experience, join us for a morning of heritage, discovery, and sisterhood.Places Covered1. Mohammed Shah's Tomb2. Bara Gumbad3. Bara Gumbad Mosque4. Sheesh Gumbad5. Sikandar Lodi's Tomb6. Athpula Bridge6. Historic Garden LandscapesImportant Information1. Details of the heritage walk will be shared via email after ticket booking confirmation.2. The walk will be conducted in Hindi and English.3. Please wear comfortable walking shoes and carry drinking water.4. The route is easy-paced and suitable for participants of all age groups.5. In case of unavoidable circumstances such as adverse weather, government restrictions, or 6. unforeseen events, the walk may be rescheduled. Participants may attend another walk organised by the company within 30 days of the registered walk date.7. No refund policy applies.",
-    "startDate": "2026-11-04T16:00:00+05:30",
+    "startDate": "2026-11-04T16:30:00+05:30",
     "endDate": "2026-11-04T18:00:00+05:30",
     "location": {
       "@type": "Place",
