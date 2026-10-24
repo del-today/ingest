@@ -158,5 +158,25 @@
     "keywords": [
       "KNMA"
     ]
+  },
+  {
+    "@type": "Event",
+    "name": "Skipping Time",
+    "url": "https://www.knma.org/whats-on/events/skipping-time",
+    "startDate": "2026-11-13T10:00:00+05:30",
+    "endDate": "2026-11-13T10:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
   }
 ]
