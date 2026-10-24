@@ -1,119 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Kathika Cultural Experience",
-    "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
-    "startDate": "2026-10-23T11:30:00+05:30",
-    "endDate": "2026-10-31T14:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.64610280000000000000",
-        "longitude": "77.22736410000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kathika Cultural Centre and Museum",
-      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
-    },
-    "url": "https://urbanaut.app/spot/kathika-cultural-experience-15616",
-    "keywords": [
-      "Music",
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Durga Puja postcards from Odisha | Rosei Ghara",
-    "description": "There's something about Durga Puja in Odisha that stays with you long after the festivities are over.The excitement of pandal hopping, the bustling streets, the unmistakable aroma of freshly fried chops and cutlets, and the endless conversations over food. The familiar flavours, the family traditions, and those little food memories that make Puja so special.This October, Rosei Ghara brings those memories back to the table.Join Aditi and Anubhuti for a specially curated Chef's Table inspired by the Durga Puja pandals of Odisha. An experience that celebrates the flavours, food traditions and nostalgia of Puja, one plate at a time.What's on the table?Think crispy, freshly fried chops and cutlets, comforting Poi Chingudi (prawns cooked with Malabar spinach), Odisha's beloved Chenna Podo, and a few surprises along the way.Through thoughtfully curated vegetarian and non-vegetarian tasting menus, we'll explore the food that makes pandal hopping as much a culinary adventure as a festive tradition.Expect familiar flavours, a little nostalgia, stories from Odisha, and dishes that bring the joy of Puja to your plate.The experienceHosted by Rosei Ghara's founders, Aditi and Anubhuti, this Chef's Table brings together just 10 guests per service, with five services across three days. A chance to discover Odisha's festive food traditions, share stories, and experience Puja through the flavours that have shaped our memories.Venue: Rosei Ghara, Shahpur Jat, New DelhiLimited to 10 guests per service. Advance reservations required.Come celebrate Puja, once more, with Rosei Ghara.",
-    "startDate": "2026-10-23T19:30:00+05:30",
-    "endDate": "2026-10-25T15:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Shahpur Jat, Siri Fort, New Delhi, Delhi 110049, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54878510000000000000",
-        "longitude": "77.21596509999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2625.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Rosei Ghara",
-      "url": "https://urbanaut.app/partner/roseighara"
-    },
-    "url": "https://urbanaut.app/spot/postcards-from-durga-puja-pandals-rosei-ghara",
-    "keywords": [
-      "Leisure",
-      "Eco Friendly",
-      "Pop-up Event",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "UNLECTURE x GULLY LABS: Art History Series",
-    "description": "Tired of the post work scroll-and-sleep routine? Reclaim your weeknights with Out of Office: our new series designed to give your brain a creative break after work! This October Unlecture and Gully Labs is bringing you a series of Art history lectures to fill your cup!Oct 16 | Sanchita Khurana Street View: On Reading a City & Its Walls   City walls are literally talking. We\u2019re reading street art, murals, and graffiti to decode visibility, ownership, and urban vibes.   Oct 23 | Chetna Khanna \u2014 Feminist Art History: Asia Differs from the West   Why copy Western frameworks? Exploring feminist art history through a uniquely Asian lens at the intersection of gender, culture, and society.   Oct 24 | Lolita Dutta \u2014 From Analog to Digital: Transitions in DesignFrom old-school pencils and B&W photos to pen tabs and AI. A total deep-dive into how design evolved without losing its soul.Oct 29 | Parul Dave Mukherji \u2014 Who is Afraid of Indian Aesthetics? From the Erotic to the Grotesque   Not everything in classical Indian art is pretty sculptures. Unpacking the dark, fearful, and lowkey 'Halloweenesque' aesthetics.   Pull up, bring your friends, and let\u2019s reframe the vibe!",
-    "startDate": "2026-10-23T19:30:00+05:30",
-    "endDate": "2026-10-29T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54778550000000000000",
-        "longitude": "77.21136729999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "708.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Gully Labs",
-      "url": "https://urbanaut.app/partner/baithak"
-    },
-    "url": "https://urbanaut.app/spot/unlecture-x-gully-labs-art-history-series",
-    "keywords": [
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Turning Setbacks into Stepping Stones",
     "description": "Cognitive Reset with TarotTurn setbacks into stepping stones.What if three random cards and the pen in your hand held the keys and plot twists to your best life?We all have dreams and carefully imagined futures. But life doesn\u2019t always follow our script.Join us for a unique, immersive experience that blends Tarot with creative writing to help you look at life\u2019s challenges differently, unlock new perspectives, and discover creative ways to keep moving towards your goals.Because sometimes, the breakthrough isn\u2019t about changing your circumstances\u2014it\u2019s about changing the way you see them.Come with your dreams. Leave with a new perspective.Hosted by Megha of YinYourYang Astrology, in collaboration with RiFoM Community.\ud83d\udcc5 Saturday, 24 October 2026\u23f0 10 AM \u2013 12 PM\ud83d\udccd Greenr, N Block, GK1, New Delhi\ud83c\udf9f\ufe0f \u20b91,599 per person, including one beverage (coffee or tea)Participants will also receive a special discount on Megha\u2019s Karmic Reset Package.Spaces are limited. Reserve your spot and discover a different way to rewrite your story.",
@@ -182,6 +69,44 @@
     "url": "https://urbanaut.app/spot/film-and-analog",
     "keywords": [
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Kathika Cultural Experience",
+    "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
+    "startDate": "2026-10-24T11:30:00+05:30",
+    "endDate": "2026-10-31T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64610280000000000000",
+        "longitude": "77.22736410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kathika Cultural Centre and Museum",
+      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
+    },
+    "url": "https://urbanaut.app/spot/kathika-cultural-experience-15616",
+    "keywords": [
+      "Music",
+      "History & heritage",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -263,6 +188,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Durga Puja postcards from Odisha | Rosei Ghara",
+    "description": "There's something about Durga Puja in Odisha that stays with you long after the festivities are over.The excitement of pandal hopping, the bustling streets, the unmistakable aroma of freshly fried chops and cutlets, and the endless conversations over food. The familiar flavours, the family traditions, and those little food memories that make Puja so special.This October, Rosei Ghara brings those memories back to the table.Join Aditi and Anubhuti for a specially curated Chef's Table inspired by the Durga Puja pandals of Odisha. An experience that celebrates the flavours, food traditions and nostalgia of Puja, one plate at a time.What's on the table?Think crispy, freshly fried chops and cutlets, comforting Poi Chingudi (prawns cooked with Malabar spinach), Odisha's beloved Chenna Podo, and a few surprises along the way.Through thoughtfully curated vegetarian and non-vegetarian tasting menus, we'll explore the food that makes pandal hopping as much a culinary adventure as a festive tradition.Expect familiar flavours, a little nostalgia, stories from Odisha, and dishes that bring the joy of Puja to your plate.The experienceHosted by Rosei Ghara's founders, Aditi and Anubhuti, this Chef's Table brings together just 10 guests per service, with five services across three days. A chance to discover Odisha's festive food traditions, share stories, and experience Puja through the flavours that have shaped our memories.Venue: Rosei Ghara, Shahpur Jat, New DelhiLimited to 10 guests per service. Advance reservations required.Come celebrate Puja, once more, with Rosei Ghara.",
+    "startDate": "2026-10-24T13:00:00+05:30",
+    "endDate": "2026-10-25T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shahpur Jat, Siri Fort, New Delhi, Delhi 110049, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54878510000000000000",
+        "longitude": "77.21596509999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2625.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Rosei Ghara",
+      "url": "https://urbanaut.app/partner/roseighara"
+    },
+    "url": "https://urbanaut.app/spot/postcards-from-durga-puja-pandals-rosei-ghara",
+    "keywords": [
+      "Leisure",
+      "Eco Friendly",
+      "Pop-up Event",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Why Do We Keep Having The Same Argument?",
     "description": "About the TableWhy Do We Keep Having The Same Argument : Decoding the patterns behind our relationshipsBy Damini GroverWhy is it sometimes so difficult to communicate what we really need? And why do certain relationship patterns keep repeating, even when we know they aren't working?Join us at The Curious Table #02 for an evening of psychology behind human connection decoding the needs, expectations and patterns that shape our relationships.The way we connect with others is often shaped by our emotional needs, past experiences, beliefs and expectations in ways we don't even realise.Through relatable examples, conversations and guided reflections, we'll explore:The emotional needs and expectations we bring into relationships.How our past experiences shape the way we connect.Why familiar patterns and conflicts keep repeating.The role of communication, boundaries and emotional awareness in our relationships.Come curious, bring your questions, and leave with fresh perspectives- all over food and drinks!\u00a0Suitable for everyone and all age groups.About the SpeakerDamini Grover is a multi-award-winning Counselling Psychologist, Life Coach, and Founder of I\u2019M POWERED- Centre for Counselling & Well-Being.With over 12 years of experience in mental health and personal development, she has worked with more than 5,000 individuals, exploring the complexities of human emotions, relationships, behavioural patterns and personal growth.She is the author of The Intentional Being (Notion Press), Time to Come Home (Hay House), and Rehguzar, a collection of Hindi poetry.Beyond her counselling practice, she also hosts The Healing Circle, an intimate space for reflection, emotional exploration and meaningful conversations.At The Curious Table, she brings her experience and insights into Decoding Relationships.About The Curious TableThe Curious Table is a Delhi NCR community built for people who haven\u2019t stopped being curious.We build evenings around questions you don\u2019t often get to explore bringing together people who know fascinating things and people who simply want to understand them, over food and drinks.One Table might take you inside the biology of emotions. The next could wander into psychology, science, technology, health, history, culture, or something you didn\u2019t know you were curious about yet.Come curious. Pull up a chair.",
@@ -331,6 +294,43 @@
     "url": "https://urbanaut.app/spot/uncovering-betrayal-about-anti-national-histories",
     "keywords": [
       "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "UNLECTURE x GULLY LABS: Art History Series",
+    "description": "Tired of the post work scroll-and-sleep routine? Reclaim your weeknights with Out of Office: our new series designed to give your brain a creative break after work! This October Unlecture and Gully Labs is bringing you a series of Art history lectures to fill your cup!Oct 16 | Sanchita Khurana Street View: On Reading a City & Its Walls   City walls are literally talking. We\u2019re reading street art, murals, and graffiti to decode visibility, ownership, and urban vibes.   Oct 23 | Chetna Khanna \u2014 Feminist Art History: Asia Differs from the West   Why copy Western frameworks? Exploring feminist art history through a uniquely Asian lens at the intersection of gender, culture, and society.   Oct 24 | Lolita Dutta \u2014 From Analog to Digital: Transitions in DesignFrom old-school pencils and B&W photos to pen tabs and AI. A total deep-dive into how design evolved without losing its soul.Oct 29 | Parul Dave Mukherji \u2014 Who is Afraid of Indian Aesthetics? From the Erotic to the Grotesque   Not everything in classical Indian art is pretty sculptures. Unpacking the dark, fearful, and lowkey 'Halloweenesque' aesthetics.   Pull up, bring your friends, and let\u2019s reframe the vibe!",
+    "startDate": "2026-10-24T15:00:00+05:30",
+    "endDate": "2026-10-29T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "708.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
+    },
+    "url": "https://urbanaut.app/spot/unlecture-x-gully-labs-art-history-series",
+    "keywords": [
+      "History & heritage",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -2361,9 +2361,9 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Dilli Wali Diwali",
-    "description": "Dilli Wali Diwali: An Exclusive Tash Bash Get ready for a Diwali night that blends old-world Delhi charm with a rebellious, modern edge. We\u2019re throwing an exclusive, curated sundown affair in the heart of Chhatarpur, designed for those who appreciate main-character energy and a vintage aesthetic.We are curating an intimate gathering featuring: The Vibe & Non-stop music paired with the rhythmic beats of a live Dhol to keep the energy high. High Stakes: Get your game face on for an evening of competitive Games. The Spreads: Gourmet Snacks & Munchies to keep you fueled through the night. Snap It: An interactive Photo Booth to capture your best looks. Fuel: This event is BYOB (Bring Your Own Bottle). Dress Code: Ethnic WearDress to dazzle. Think traditional with a modern twist, sunglasses with sarees, sneakers with sherwanis, or pure classical elegance.The Fine PrintThis is a high-demand, Exclusive Invite-Only event with only 40 Slots Available. Passes will be allocated on a first-come, first-served basis. Secure your spot now to avoid FOMO.When: 6th November | Sundown OnwardsWhere: Chhatarpur, DelhiRSVP: 9718021515No prior Diwali knowledge required. Good vibes mandatory.",
-    "startDate": "2026-11-06T17:00:00+05:30",
+    "name": "Dilli Ki Diwali",
+    "description": "Dilli Wali Diwali: An Exclusive Tash BashWe\u2019re throwing an exclusive, curated sundown affair in Gurugram.EVERYONE IS INVITED!!! IT'S GOING TO BE THE BEST PARTY EVERRRRRRR!We are curating an intimate gathering featuring: Live Acoustic Jamming Session, Lots & Lots of Games, Unlimited Food & Soft Drinks, Dhol & Non-stop music, Nostalgic corner, Lantern Wishes under the sky, Photo Corner & what-not!!!Fuel: This event is BYOB (Bring Your Own Bottle).Dress Code: Ethnic WearDIWALI HAI, READY HO KE AANA TOH BANTA HAI!The Fine Print-This is an Exclusive Invite-Only event with only 40 Slots Available. Passes will be allocated on a first-come, first-served basis. Secure your spot now to avoid FOMO.When: 6th November | Sundown OnwardsWhere: GurugramRSVP: 9718021515No prior Diwali knowledge required. Good vibes mandatory.",
+    "startDate": "2026-11-06T18:00:00+05:30",
     "endDate": "2026-11-06T23:00:00+05:30",
     "location": {
       "@type": "Place",
@@ -2379,7 +2379,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "2500.00",
+      "price": "1899.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -2390,6 +2390,7 @@
     },
     "url": "https://urbanaut.app/spot/jumme-ki-raat-dilli-ki-diwali",
     "keywords": [
+      "Live GIG",
       "Music",
       "Festival",
       "Food & drink",
