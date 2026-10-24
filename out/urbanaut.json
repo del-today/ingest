@@ -153,44 +153,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Mountain Moon Rock Night",
-    "description": "\"Mountain Moon Rock Night ft. HEAVENS DOWN, TIN HATS & BLUE GOLD INDIGO\"Different bands. Different generations. One Rock NightThree bands we believe in. Three bands we believe you should know.HEAVENS DOWN - Delhi\u2019s best-kept Rock \u2019n\u2019 Roll secret.TIN HATS - Seasoned musicians throw out the mainstream rulebook and return to the 90s & 00s rock that shaped them.BLUE GOLD INDIGO - Young, hungry and full of energy \u2014 a band with serious promise.24 OCTOBER | 8 PM | DEPOT 48 | DELHIBest Rock Gig in town. Come hear why !!",
-    "startDate": "2026-10-24T20:30:00+05:30",
-    "endDate": "2026-10-24T23:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53415570000000000000",
-        "longitude": "77.24300939999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Depot48",
-      "url": "https://urbanaut.app/partner/depot48"
-    },
-    "url": "https://urbanaut.app/spot/mountain-moon-rock-night",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Love All, Within",
     "description": "We are meeting this Sunday morning for a Mat Pilates and Tennis Social at Cafe Casa Dunes!We will start with an intensive, beginner-friendly mat pilates session ending in breath work. Then it is time for some tennis rallies and a curated breakfast on the house! We have coffee, honey bowls, snacks and more on the menu. There are games and challenges lined up! You also take home WITHIN Goodie Hampers, Yoga Mats, Tumblers and more!It is a Sunday morning party! See you there.The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
@@ -210,7 +172,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "899.00",
+      "price": "999.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
