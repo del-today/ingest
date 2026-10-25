@@ -2,232 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Whose Art Is It Anyway?",
-    "description": "About the LectureJoin us for a participatory lecture that asks a question most of us never think to ask:Who gets to create, define and own art?Caste, class, religion, gender and sexuality shape who is allowed to create in the first place, whose work gets taken seriously, and how it travels once it leaves the maker's hands. Some forms are celebrated as \"mainstream\"; others are filed away as \"folk\", \"obscene\" or \"political\", those labels say more about the system than about the work.Drawing on narrative and performance practices across South Asia, theatre artist Sri Vamsi Matta looks closely at how artists from historically marginalised communities navigate spaces where their work is routinely appropriated, diluted or dismissed. This is about art as a living social practice, tangled up with identity, power and access.Expect discussion, examples and interactive prompts rather than fixed answers. The aim is sharper questions: what does it mean to witness art responsibly, where do we locate ourselves in relation to what we consume, and what changes when we see art not just as representation, but as a way of negotiating dignity, memory and justice?About the SpeakerSri Vamsi Matta is a Bangalore-based interdisciplinary theatre artist whose work is rooted in lived experience, political memory and anti-caste thought. Born into a Dalit community, his practice engages with the everyday and structural violence of caste, treating art as a space for refusal, repair and collective imagination. He works across theatre, performance, writing and participatory formats, bringing together autobiography, community history and radical pedagogy.His recent work Star in the Sky, on the emotional and political lives of Dalit students in Indian universities, was developed at Indian Ensemble's Idea Development Lab, shortlisted for the Sultan Padamsee Playwriting Award, and premiered in Bangalore in 2025. Come Eat With Me, a participatory performance examining caste through food and shared meals, has been performed nearly 50 times across India, the United States and Australia. He has taught and led workshops at UW\u2013Madison, Northwestern University, Melbourne Law School, the University of Texas at Austin, Azim Premji University, Ashoka University and Mount Carmel College, among others.About Grounds for ThoughtGrounds for Thought is a series where unLecture, in collaboration with Blue Tokai brings researchers, artists and thinkers out of their institutions and into a coffee shop. The format is simple: an expert, a room full of curious people, and a conversation that goes somewhere a classroom rarely does.",
-    "startDate": "2026-10-25T16:00:00+05:30",
-    "endDate": "2026-10-25T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "No 59, PVR Priya Complex, Basant Lok, Vasant Vihar, New Delhi, Delhi 110057, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55737140000000000000",
-        "longitude": "77.16439730000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "350.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/whose-art-is-it-anyway-17580",
-    "keywords": [
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Can We Compute Society?",
-    "description": "About the LectureCan a computer detect political polarization? Can an algorithm tell whether a news outlet is biased?Can we map an online community, track the spread of misinformation, or teach a machine to understand what people are arguing about? Computational Social Science sits at the curious intersection of people and machines, using data, algorithms and AI to study everything from elections and social media to culture, language and collective behaviour.In this lecture, Professor Anirban Sen takes us on a tour of the field's most fascinating \u2014 and occasionally surprising \u2014 applications, drawing on his own research into misinformation, hate speech and propaganda communities online. Along the way, we'll ask the question underneath all of it: what do we gain, and what do we lose, when we turn society into data?The session explores:How researchers use data and algorithms to detect polarization and media biasWhat happens to misinformation, hate speech and propaganda communities as they grow and change onlineThe techniques behind the field: NLP, machine learning, information retrieval and good old qualitative analysisWhat it means to study people at the scale of the entire web, and where that approach runs out of roadAbout the SpeakerAnirban Sen is an Assistant Professor in the Department of Computer Science at Ashoka University. Before joining Ashoka in 2024, he was a postdoctoral researcher at Microsoft Research India, on the Technology for Emerging Markets team, where he studied misinformation, hate speech and propaganda communities on social media and how they evolve over time. He completed his PhD in Computer Science and Engineering at IIT Delhi, where he was part of the Appropriate Computing Technologies for Development (ACT4D) group and helped build a system for political economy analysis of Indian policy events using publicly available web and media data. He has also worked in industry as a data scientist, building solutions across banking, finance and insurance, including with generative AI.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
-    "startDate": "2026-10-25T16:00:00+05:30",
-    "endDate": "2026-10-25T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Gate No. 1, Bahadur Shah Zafar Marg, inside Shaheedi park, Balmiki Basti, Vikram Nagar, New Delhi, Delhi, 110002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.63445520000000000000",
-        "longitude": "77.24131700000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/can-we-compute-society",
-    "keywords": [
-      "Local",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "A Walk Through Basti Nizamuddin",
-    "description": "Long before it was a monument, it was Ghiyaspur \u2014 a village where a saint's khanqah drew seekers from every walk of life. A stepwell defied a Sultan's orders, a disciple lit a lamp with water instead of oil & earned the name Chiragh-e-Dilli, and a language was born in the meeting of Persian verse with Indian soil. Even today, the courtyard at Urs Mahal fills with Qawwali, keeping that same devotion alive.Silsila Heritage invites you to walk through the Dargah, the Baoli, Chausath Khamba & Urs Mahal \u2014 five stops through a landscape where spirituality & everyday life still meet. Along the way, we'll talk about the Chishti Sufi tradition, the legacy of Amir Khusrau, and how this neighborhood shaped the language, music & culture we've inherited.Whether you know Nizamuddin for its qawwals, its stories, or simply its quiet corners, this walk is a chance to see it as a living tradition rather than a stop on a map!",
-    "startDate": "2026-10-25T16:00:00+05:30",
-    "endDate": "2026-10-25T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Nizamuddin West, New Delhi, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.58921260000000000000",
-        "longitude": "77.24267069999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Silsila Heritage",
-      "url": "https://urbanaut.app/partner/silsilaheritage"
-    },
-    "url": "https://urbanaut.app/spot/a-walk-through-basti-nizamuddin",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "\u092c\u091a\u092a\u0928 se Baatein",
-    "description": "A 2-day experiential workshop to reconnect with the parts of yourself you may have lost touch with while growing up.Through nature walks, childhood games, creative reflection and guided visualisation, we\u2019ll create space to meet your inner child with curiosity, compassion and play.Day 1 (24 October) Reconnect & Reflect 30-minute nature walk to slow down and arrive in the present.Connect with others through play, laughter and shared experiencesGuided reflection on joy, childhood, and the parts of yourself you may have left behind.Guided visualisation to meet and connect with your inner child.Day 2 (25 October 2026) Conversation & CareWe begin with a mindful nature walkExplore the hidden parts of you pushed away while growing upWrite a letter to your younger self offering forgiveness, understanding and compassionLearn simple grounding practices to hold difficult emotions with greater awarenessEnd with reflection and ways to bring more play, joy and gentleness into everyday life",
-    "startDate": "2026-10-25T16:00:00+05:30",
-    "endDate": "2026-10-25T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55339970000000000000",
-        "longitude": "77.19416540000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Reset with Nature",
-      "url": "https://urbanaut.app/partner/reset-with-nature"
-    },
-    "url": "https://urbanaut.app/spot/se-baatein",
-    "keywords": [
-      "Wellness",
-      "Eco Friendly",
-      "Walking Tour",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Delhi's Amazingest Pub Quiz!",
-    "description": "Delhi's Amazingest Pub Quiz! / Festivals Around The World",
-    "startDate": "2026-10-25T17:30:00+05:30",
-    "endDate": "2026-10-25T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53415570000000000000",
-        "longitude": "77.24300939999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Depot48",
-      "url": "https://urbanaut.app/partner/depot48"
-    },
-    "url": "https://urbanaut.app/spot/delhis-amazingest-pub-quiz",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Shaam-e-Qutub : An evening heritage walk",
-    "description": "We are delighted to invite you to a special *evening heritage walk at Qutub Minar*, curated by Darwesh Heritage WalksExperience the magic of one of Delhi\u2019s most iconic monuments as it transforms at dusk\u2014when the Qutub Minar complex is beautifully lit and wrapped in an almost timeless charm.This walk takes you through the story of Delhi\u2019s first capital at Mehrauli, tracing the rise of the Tomars and Chauhans, and the arrival of the Delhi Sultanate under the early Turko-Afghan rulers. As the evening sets in, the illuminated ruins, soaring Minar, and intricate carvings create a truly immersive atmosphere\u2014perfect for experiencing history not just as a narrative, but as a living, breathing space.During this walk, we will explore:* The origins of Delhi\u2019s earliest city at Mehrauli* The political transitions from Rajput to Sultanate rule* The architectural brilliance of the Qutub complex and its symbolism* The stories hidden in its mosques, pillars, and inscriptionsJoin us for an unforgettable evening of storytelling, history, and exploration\u2014where the past comes alive under the soft glow of lights.We look forward to having you with us.(Please note: the fee is not for access to the site, but rather for curation of this experience)",
-    "startDate": "2026-10-25T17:30:00+05:30",
-    "endDate": "2026-10-25T19:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52447540000000000000",
-        "longitude": "77.18552059999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "800.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "DARWESH_TALEWEAVERS",
-      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
-    },
-    "url": "https://urbanaut.app/spot/qutwalk",
-    "keywords": [
-      "History & heritage",
-      "Guided tour",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "ACTION REPLAY: Y2K Block Party with Karaoke",
     "description": "To celebrate the launch of our Analogue Blue shoe we're taking you back to the 90s and 2000s with a bit of Karaoke, Competative Antakshari and a hook step dance off to see who can do the best \"ek pal ka jeena\" Hritik moves! ",
     "startDate": "2026-10-25T19:00:00+05:30",
@@ -1156,6 +930,43 @@
     },
     "url": "https://urbanaut.app/spot/human-ludo",
     "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Diwali PopUp",
+    "description": "FAB2VOGUE POP-UP | Fabrics \u2022 Jewellery \u2022 Festive FindsStep into a world of beautiful fabrics and statement jewellery at the Fab2Vogue Pop-Up at Greenr!Explore a thoughtfully curated collection of premium fabrics, from vibrant cotton prints and elegant rayon to flowy viscose, linen, cambric, embroidery and more. Whether you\u2019re dreaming up a bespoke outfit, refreshing your wardrobe or looking for inspiration for your next creation, discover fabrics for every style and occasion.Complete your look with a beautiful edit of semi-precious, contemporary fashion and festive jewellery from everyday elegance to statement pieces that add just the right sparkle to your celebrations.Whether you\u2019re a fashion enthusiast, a designer, a fabric lover or simply looking for something special, come browse, discover and find pieces that speak to your personal style.Date: 1 November 2026Time: 10 AM \u2013 7 PMVenue: GreenrCome for the fabrics, stay for the sparkle.\u00a0Discover your next favourite find at Fab2Vogue!",
+    "startDate": "2026-11-01T10:00:00+05:30",
+    "endDate": "2026-11-01T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "N - 4, N, Block Market, N Block, Greater Kailash I, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55685060000000000000",
+        "longitude": "77.23310790000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "RiFoM Community",
+      "url": "https://urbanaut.app/partner/rifom-community"
+    },
+    "url": "https://urbanaut.app/spot/diwali-popup",
+    "keywords": [
+      "Festival",
+      "Pop-up Event",
       "URBANAUT"
     ]
   },
@@ -2119,7 +1930,7 @@
     "typicalAgeRange": "25+",
     "offers": {
       "@type": "Offer",
-      "price": "2150.00",
+      "price": "2750.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
