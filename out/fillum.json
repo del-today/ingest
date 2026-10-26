@@ -1,6 +1,23 @@
 [
   {
     "@type": "ScreeningEvent",
+    "name": "Enzo(2025)",
+    "url": "https://fillum.in/screening/6432",
+    "startDate": "2026-10-27T18:30:00+05:30",
+    "endDate": "2026-10-27T18:30:00+05:30",
+    "description": "Free entry.",
+    "location": {
+      "@type": "Place",
+      "name": "M. L. Bhartia Auditorium, Alliance Fran\u00e7aise",
+      "address": "Lodhi Road, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Alliance Fran\u00e7aise de Delhi"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "Yaadon Ki Baaraat(1973)",
     "url": "https://fillum.in/screening/6264",
     "startDate": "2026-10-27T19:00:00+05:30",
@@ -14,6 +31,142 @@
     "organizer": {
       "@type": "Organization",
       "name": "Habitat World"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Bhootflix Night: Darr-de-Disco",
+    "url": "https://fillum.in/event/6398",
+    "startDate": "2026-10-30T19:00:00+05:30",
+    "endDate": "2026-10-30T19:00:00+05:30",
+    "description": "Filmmakers across Delhi got one prompt, Darr-de-Disco, and a deadline. Their job was to make a short film that is genuinely scary and genuinely funny. Now the best 5 films hit the big screen, and yo..more",
+    "location": {
+      "@type": "Place",
+      "name": "Social Vasant Kunj",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Cinergy Club"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Umrao Jaan(1981)",
+    "url": "https://fillum.in/screening/6410",
+    "startDate": "2026-10-30T20:30:00+05:30",
+    "endDate": "2026-10-30T20:30:00+05:30",
+    "description": "As part of IIC Experience 2026. Free entry on first come first served basis. Open to all.",
+    "location": {
+      "@type": "Place",
+      "name": "C. D. Deshmukh Auditorium, India International Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "India International Centre"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "La Commune (Paris, 1871)(2003)",
+    "url": "https://fillum.in/screening/6429",
+    "startDate": "2026-10-31T13:00:00+05:30",
+    "endDate": "2026-10-31T13:00:00+05:30",
+    "description": "Part 1. Free Entry.",
+    "location": {
+      "@type": "Place",
+      "name": "Mool, South Ex, Delhi",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Camera Commune"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Nine to Five(1980)",
+    "url": "https://fillum.in/screening/6411",
+    "startDate": "2026-10-31T14:00:00+05:30",
+    "endDate": "2026-10-31T14:00:00+05:30",
+    "description": "As part of IIC Experience 2026. Free entry on first come first served basis. Open to all.",
+    "location": {
+      "@type": "Place",
+      "name": "C. D. Deshmukh Auditorium, India International Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "India International Centre"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Her Story(2024)",
+    "url": "https://fillum.in/screening/6439",
+    "startDate": "2026-10-31T19:30:00+05:30",
+    "endDate": "2026-10-31T19:30:00+05:30",
+    "description": "As part of DIFF Chinese Film Festival (30 - 31 October). Free entry.",
+    "location": {
+      "@type": "Place",
+      "name": "Films Division Auditorium, Mahadev Road",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fillum"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Jurassic Park(1993)",
+    "url": "https://fillum.in/screening/6412",
+    "startDate": "2026-10-31T20:30:00+05:30",
+    "endDate": "2026-10-31T20:30:00+05:30",
+    "description": "As part of IIC Experience 2026. Free entry on first come first served basis. Open to all.",
+    "location": {
+      "@type": "Place",
+      "name": "C. D. Deshmukh Auditorium, India International Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "India International Centre"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Angoor(1982)",
+    "url": "https://fillum.in/screening/6413",
+    "startDate": "2026-11-01T13:00:00+05:30",
+    "endDate": "2026-11-01T13:00:00+05:30",
+    "description": "As part of IIC Experience 2026. Free entry on first come first served basis. Open to all.",
+    "location": {
+      "@type": "Place",
+      "name": "C. D. Deshmukh Auditorium, India International Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "India International Centre"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "La Commune (Paris, 1871)(2003)",
+    "url": "https://fillum.in/screening/6428",
+    "startDate": "2026-11-01T15:00:00+05:30",
+    "endDate": "2026-11-01T15:00:00+05:30",
+    "description": "Part 2. Free Entry.",
+    "location": {
+      "@type": "Place",
+      "name": "Mool, South Ex, Delhi",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Camera Commune"
     }
   }
 ]

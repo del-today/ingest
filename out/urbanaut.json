@@ -599,6 +599,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Raat Ke Afsane : Qutub Minar",
+    "description": "Experience the magic of Qutub Minar like never before\u2014under the stars and glowing lights. This is a guided heritage walk led by a historian, who will take you through the stunning Qutub complex after dark. As the entire site is beautifully illuminated at night, the minaret shines like Delhi\u2019s very own Eiffel Tower\u2014majestic, mysterious, and unforgettable.Walk through centuries of history, discover forgotten stories, and explore Delhi\u2019s medieval past through engaging storytelling. The play of light, shadow, and silence transforms this heritage site into something truly cinematicPlaces we will cover : 1. Mughal Serai2. Alai Minar3. Iltutmish Tomb4. Qutub Minar5. Iron Pilar6. 27 Jain and hindu temples7. Alai Darwaza8. Alauddin Khilji grave and madarsa .Important Points:  1. Details of the heritage walk will be mailed to you when you book the tickets2. No guided fees for kids below 5.3. Medium of communication : Hindi and English4. Please note that in case of unavoidable external reasons such as (weather conditions, political rallies, VIP movement, powercut) the walk may be canceled. The participant has the liberty to take another walk by the company against the payment they have made within 30 days since the date of the registered walk.5. The company does not have refund policy.",
+    "startDate": "2026-10-31T17:30:00+05:30",
+    "endDate": "2026-11-28T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Qutub Minar Complex Rd, Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52371860000000000000",
+        "longitude": "77.18469040000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/raat-ke-afsane-qutub-minar",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Halloween Special: Make your Own Monster Pizza",
     "description": "This Halloween, swap the tricks for some cheesy treats! \ud83d\udc7b\ud83c\udf55Join us for a fun, hands-on Halloween pizza-making workshop where you get to create your very own pizza. Get creative with your toppings, make a monster or a pumpkin, or something else altogether!Whether you're planning a fun outing with friends, a family activity, or a unique Halloween experience, this is the perfect way to celebrate the spooky season.What's in store?\ud83c\udf55 Make your own pizza from scratch with our guidance\ud83c\udf83 Get creative and have fun with your pizza toppings\ud83d\udc69\u200d\ud83c\udf73 Enjoy a hands-on, beginner-friendly experience\ud83d\ude0b Relish the pizza you create!Come hungry, bring your creativity, and get ready for a spooktacular, cheesy time!Book your spot and make this Halloween deliciously memorable! \ud83d\udc7b",
@@ -1085,6 +1123,43 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Understanding Aurangzeb & Dara Shikoh",
+    "description": "Aurangzeb & Dara Shikoh: The War WithinHow did the world\u2019s wealthiest empire begin to crumble from within?Join us for an evening exploring the bitter rivalry between Aurangzeb and Dara Shikoh, two brothers raised in the same Mughal court who became each other\u2019s greatest enemies.From their childhood and growing differences to the brutal war of succession, we\u2019ll uncover the jealousy, ambition, and political manoeuvring that shaped their lives.How did Aurangzeb defeat Dara Shikoh despite his formidable military resources? And how did a family feud change the course of Mughal history?Discover the untold human stories behind one of the most consequential power struggles in Indian history.",
+    "startDate": "2026-11-01T16:30:00+05:30",
+    "endDate": "2026-11-01T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Hazrat Nizamuddin Aulia Dargah, Mathura Rd, Nizamuddin, Nizamuddin East, New Delhi, Delhi 110013, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59328480000000000000",
+        "longitude": "77.25074920000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "600.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Unzip Delhi",
+      "url": "https://urbanaut.app/partner/unzipdelhi"
+    },
+    "url": "https://urbanaut.app/spot/understanding-aurangzeb-dara-shikoh",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Who Does the City Belong To?",
     "description": "Who Does the City Belong To?A conversation on public space and the lawYou have probably stood in front of a barricade this year. A road closed with no notice. A park gate locked at night. A station shut, a lane that used to be a shortcut now ending in a guard and a boom. Most of us have learned to route around it without thinking.But there\u2019s a question underneath that almost none of us can answer: what are we actually entitled to in a public space and what happens when that space is closed, fenced or policed?In the first edition of The Human City Conversations, the urbanist Jagan Shah described a Delhi increasingly run by barricades and closures, and someone in the audience said that what privilege buys in this city is isolation. This conversation picks up exactly where that one stopped, because the next question is a legal one.We\u2019ll ask what the Constitution actually gives us by way of a right to assemble and to protest. Whether a government can simply take a Jantar Mantar away. Whether there is such a thing as a right to walk in an Indian city, and who in Delhi really has it. And how much of what we call planning is in truth a question of who is expected to justify their presence in public, and who is not.It isn\u2019t a lecture, and it isn\u2019t a complaint session. It\u2019s an hour of conversation, in plain words, followed by your questions put directly to someone who has spent two decades arguing these things in court.About the guestMihira Sood is a lawyer and scholar in the field of women\u2019s rights, and practices at the Supreme Court of India and the Delhi High Court. She has taught at Jindal Global Law School and National Law University Delhi, and holds degrees from NALSAR University of Law, Hyderabad, and Columbia Law School, New York. She was among the youngest members to assist the Justice Verma Committee, whose recommendations reshaped India\u2019s criminal law on sexual violence. She writes and speaks widely on women\u2019s rights, feminist jurisprudence, equality law and civil liberties, and is a regular commentator in the national press. She has recently written a book Courting Equality which focusses on the Landmark Cases in the Battle for Women\u2019s Rights (Juggernaut) traces fifty years of the law\u2019s encounter with women\u2019s lives \u2014 from the anti-dowry agitations of the 1970s, through Shah Bano and the Uniform Civil Code debate, to the Nirbhaya movement and its continuing reverberations, and on to the present backlash against the supposed misuse of these very laws.Copies will be on sale at Kunzum on the evening, at 20% off.About the seriesThe Human City Conversations is the live edition of The Human City Podcast, hosted by Ruchita Bansal, which for the past year has asked how Indian cities are planned, built and experienced \u2014 and who they are built for. The podcast\u2019s questions, taken off the feed and into a room, in public, in Delhi.The detailsSunday 1 November 2026, 5 PM onwardsKunzum Books, GK-2, New DelhiLimited seats \u00b7 Tickets on Urbanaut",
     "startDate": "2026-11-01T17:00:00+05:30",
@@ -1421,6 +1496,41 @@
       "Live GIG",
       "Music",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Who Does the City Belong To?",
+    "description": "Who Does the City Belong To?A conversation on public space and the lawYou have probably stood in front of a barricade this year. A road closed with no notice. A park gate locked at night. A station shut, a lane that used to be a shortcut now ending in a guard and a boom. Most of us have learned to route around it without thinking.But there\u2019s a question underneath that almost none of us can answer: what are we actually entitled to in a public space and what happens when that space is closed, fenced or policed?In this edition of The Human City Conversations, we\u2019ll ask what the Constitution actually gives us by way of a right to assemble and to protest. Whether a government can simply take a Jantar Mantar away. Whether there is such a thing as a right to walk in an Indian city, and who in Delhi really has it. And how much of what we call planning is in truth a question of who is expected to justify their presence in public, and who is not.It isn\u2019t a lecture, and it isn\u2019t a complaint session. It\u2019s an hour of conversation, in plain words, followed by your questions put directly to someone who has spent two decades arguing these things in court.About the guestMihira Sood is a lawyer and scholar in the field of women\u2019s rights, and practices at the Supreme Court of India and the Delhi High Court. She has taught at Jindal Global Law School and National Law University Delhi, and holds degrees from NALSAR University of Law, Hyderabad, and Columbia Law School, New York. She was among the youngest members to assist the Justice Verma Committee, whose recommendations reshaped India\u2019s criminal law on sexual violence. She writes and speaks widely on women\u2019s rights, feminist jurisprudence, equality law and civil liberties, and is a regular commentator in the national press. She has recently written a book Courting Equality which focusses on the Landmark Cases in the Battle for Women\u2019s Rights (Juggernaut) traces fifty years of the law\u2019s encounter with women\u2019s lives \u2014 from the anti-dowry agitations of the 1970s, through Shah Bano and the Uniform Civil Code debate, to the Nirbhaya movement and its continuing reverberations, and on to the present backlash against the supposed misuse of these very laws.Copies will be on sale at Kunzum on the evening, at 20% off.About the seriesThe Human City Conversations is the live edition of The Human City Podcast, hosted by Ruchita Bansal, which for the past year has asked how Indian cities are planned, built and experienced \u2014 and who they are built for. The podcast\u2019s questions, taken off the feed and into a room, in public, in Delhi.The detailsSunday 14 November 2026, 1 PM onwardsKunzum Books, GK-2, New DelhiLimited seats \u00b7 Tickets on Urbanaut",
+    "startDate": "2026-11-14T13:00:00+05:30",
+    "endDate": "2026-11-14T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "60, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53358170000000000000",
+        "longitude": "77.24417700000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "449.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Human City Conversations",
+      "url": "https://urbanaut.app/partner/human-city-conversations"
+    },
+    "url": "https://urbanaut.app/spot/who-does-the-city-belong-to-17796",
+    "keywords": [
       "URBANAUT"
     ]
   },
@@ -1952,7 +2062,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "ALT EFF 2026 <> CEEW Delhi",
-    "description": "There are times in history that ask something different of us. This is one of them.The 7th edition of the All Living Things Environmental Film Festival returns with stories that don't look away. Films that find beauty in unlikely places, humour in dark times, and communities imagining futures worth fighting for.For one day, we'll gather around cinema that challenges, delights and surprises in equal measure. Expect award winning films from around the world, filmmaker Q&As, unforgettable conversations, great food, drinks, and a room full of people who aren't afraid to ask difficult questions.Pull up a chair.Let's meet the times together.This event is part of ALT EFF's decentralised screenings, proudly presented in partnership with Council on Energy, Environment and Water (CEEW)This is art as witness, joy as resistance, and cinema as a way back to each other. Program10th December 2026, Thursday6:30 - 6:35 PM: Introduction6:35 - 6:50 PM: Choora (Anand Rama Krishnan / India / 17 mins / Malayalam / 2024)6:50 - 7:05 PM: It\u2019s Only 47\u00b0C (Tej Sisodia / India / 16 mins / Hindi / 2026)7:05 - 7:15 PM: Through The Dappled Light (Puneet Raj Singh, Nikita Sharma, Apoorva Sharma / India / 8 mins / Hindi / 2025)7:15 - 7:45 PM: Q&A with the Filmmaker (TBC) 7:45 - 8:00 PM: Where the Water Hides (Marhaba Hilali / India / 13 mins / Sindhi, Kutchi, Gujarati, Hindi / 2026)8:00 - 8:20 PM: Uppuveedukal (Arathi MR / India / 22 mins / Malayalam / 2025)8:20 - 8:30 PM: Before the Fire (Swara Garge and Prakhar Dobhal / India / 11 mins / Hindi / 2026)8:30 - 9:00 PM: Q&A with the Filmmaker (TBC)",
+    "description": "There are times in history that ask something different of us. This is one of them.The 7th edition of the All Living Things Environmental Film Festival returns with stories that don't look away. Films that find beauty in unlikely places, humour in dark times, and communities imagining futures worth fighting for.For one day, we'll gather around cinema that challenges, delights and surprises in equal measure. Expect award winning films from around the world, filmmaker Q&As, unforgettable conversations, great food, drinks, and a room full of people who aren't afraid to ask difficult questions.Pull up a chair.Let's meet the times together.This event is part of ALT EFF's decentralised screenings, proudly presented in partnership with Council on Energy, Environment and Water (CEEW)This is art as witness, joy as resistance, and cinema as a way back to each other. Program10th December 2026, Thursday6:30 - 6:35 PM: Introduction6:35 - 6:50 PM: Choora (Anand Rama Krishnan / India / 17 mins / Malayalam / 2024)6:50 - 7:05 PM: It\u2019s Only 47\u00b0C (Tej Sisodia / India / 16 mins / Hindi / 2026)7:05 - 7:15 PM: Through The Dappled Light (Puneet Raj Singh, Nikita Sharma, Apoorva Sharma / India / 8 mins / Hindi / 2025)7:15 - 7:45 PM: Q&A with the Filmmaker of Through The Dappled Light7:45 - 8:00 PM: Where the Water Hides (Marhaba Hilali / India / 13 mins / Sindhi, Kutchi, Gujarati, Hindi / 2026)8:00 - 8:20 PM: Uppuveedukal (Arathi MR / India / 22 mins / Malayalam / 2025)8:20 - 8:30 PM: Before the Fire (Swara Garge and Prakhar Dobhal / India / 11 mins / Hindi / 2026)8:30 - 9:00 PM: Q&A with the filmmaker of Before the Fire",
     "startDate": "2026-12-11T18:00:00+05:30",
     "endDate": "2026-12-11T21:00:00+05:30",
     "location": {
