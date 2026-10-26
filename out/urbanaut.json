@@ -672,6 +672,45 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Dilli Ki Diwali",
+    "description": "Dilli Wali Diwali: An Exclusive Tash BashWe\u2019re throwing an exclusive, curated sundown affair in Gurugram.EVERYONE IS INVITED!!! IT'S GOING TO BE THE BEST PARTY EVERRRRRRR!We are curating an intimate gathering featuring: Live Acoustic Jamming Session, Lots & Lots of Games, Unlimited Food & Soft Drinks, Dhol & Non-stop music, Nostalgic corner, Lantern Wishes under the sky, Photo Corner & what-not!!!Fuel: This event is BYOB (Bring Your Own Bottle).Dress Code: Ethnic WearDIWALI HAI, READY HO KE AANA TOH BANTA HAI!The Fine Print-This is an Exclusive Invite-Only event with only 40 Slots Available.Passes will be allocated on a first-come, first-served basis. Secure your spot now to avoid FOMO.When: 31 st October | Sundown OnwardsWhere: GurugramRSVP: 9718021515No prior Diwali knowledge required. Good vibes mandatory.",
+    "startDate": "2026-10-31T18:00:00+05:30",
+    "endDate": "2026-10-31T23:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "93FF+XM4, Dhumaspur, Gurugram, Haryana 122102, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.37488940000000000000",
+        "longitude": "77.07419510000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1999.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Tera Mera Safar",
+      "url": "https://urbanaut.app/partner/tera-mera-safar"
+    },
+    "url": "https://urbanaut.app/spot/jumme-ki-raat-dilli-ki-diwali",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Festival",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Diwali Soir\u00e9e",
     "description": "The SWAG DIWALI SOIR\u00c9E is back with its second edition!This is a women only diwali partyy. Wear what you like and party like there's no tomorrow.Where - Foxtrail Hotel, Golf Course Road, Gurgaon (we have rooms for anyone who wants to stay)When - 31st October - 6:30 PM onwardsWhat\u2019s in storeUnlimited food and unlimited alcoholStyling station to get party-readyBedazzling station, to add sparkle to your lookTarot reader, for a peek at what\u2019s comingPhoto booth for all the picturesCard tables and more Diwali gamesA banger DJ keeping the dance floor packedBrand goodies to take home...and a lot more!Grab your spot before everyone else (and save while you\u2019re at it!). Mark your calendars for this women-only celebration that is festive, fabulous and unapologetically desi-chique. It\u2019s an evening you won\u2019t want to miss.The Community: At Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
@@ -1192,45 +1231,6 @@
       "History & heritage",
       "Guided tour",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Dilli Ki Diwali",
-    "description": "Dilli Wali Diwali: An Exclusive Tash BashWe\u2019re throwing an exclusive, curated sundown affair in Gurugram.EVERYONE IS INVITED!!! IT'S GOING TO BE THE BEST PARTY EVERRRRRRR!We are curating an intimate gathering featuring: Live Acoustic Jamming Session, Lots & Lots of Games, Unlimited Food & Soft Drinks, Dhol & Non-stop music, Nostalgic corner, Lantern Wishes under the sky, Photo Corner & what-not!!!Fuel: This event is BYOB (Bring Your Own Bottle).Dress Code: Ethnic WearDIWALI HAI, READY HO KE AANA TOH BANTA HAI!The Fine Print-This is an Exclusive Invite-Only event with only 40 Slots Available. Passes will be allocated on a first-come, first-served basis. Secure your spot now to avoid FOMO.When: 6th November | Sundown OnwardsWhere: GurugramRSVP: 9718021515No prior Diwali knowledge required. Good vibes mandatory.",
-    "startDate": "2026-11-06T18:00:00+05:30",
-    "endDate": "2026-11-06T23:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Chhatarpur, New Delhi, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.49585620000000000000",
-        "longitude": "77.18482540000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1899.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Tera Mera Safar",
-      "url": "https://urbanaut.app/partner/tera-mera-safar"
-    },
-    "url": "https://urbanaut.app/spot/jumme-ki-raat-dilli-ki-diwali",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Festival",
-      "Food & drink",
       "URBANAUT"
     ]
   },
