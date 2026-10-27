@@ -78,79 +78,6 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "GFT: October Edition in Panchsheel Park",
-    "description": "About the LectureSince the 2000s, climate communication has leaned hard on the doomsday narrative. It has produced plenty of despair, anxiety and quiet disengagement, and not much advocacy. Meanwhile disinformation keeps doing its work \u2014 enabling greenwashing, defunding critical research, bending what people believe \u2014 and the rest of us reach for pseudo-sustainable habits that feel like participation without ever touching the politics.Abhishek Panchal and his collaborators tried something else: a game. Pralay is a cooperative, strategy-based board game where players take on characters at the individual, state and global levels, each with competing priorities, and have to negotiate their way through the actual complexity of climate decisions. Rich world-building, narrative storytelling, and gameplay built to start arguments \u2014 the kind that happen in living rooms and caf\u00e9s rather than conference halls.This session introduces the game, the thinking behind it, and the open question underneath: can an immersive experience shift attitudes where facts alone have failed?The session explores:Why the doomsday narrative backfires, and what despair does to political willHow misinformation enables greenwashing and the defunding of climate researchPseudo-sustainable practice: the comfortable feeling of doing somethingHow a cooperative board game stages climate decisions across individual, state and global levelsWhether a game can work as a genuine intervention, and how you would even measure thatAbout the SpeakerAbhishek Panchal is an interdisciplinary research scientist at Ashoka University, specialising in computational modelling, data science and agent-based public health simulations. His research develops frameworks for studying epidemic spread, socio-economic health dynamics, and how factors such as urban infrastructure shape diseases including typhoid, tuberculosis and non-communicable diseases. Before moving into public health research, he spent eight years as a Scientist/Engineer at the Department of Space, conducting atmospheric research and providing operational weather support for rocket launch operations at ISRO. He holds a PG Diploma in Liberal Studies from Ashoka University's Young India Fellowship, and uses it to bridge the physical and social sciences. He co-created Pralay, is active in open-source development, and swims and plays table tennis.About Grounds for ThoughtGrounds for Thought is a series where Blue Tokai and unLecture bring researchers, artists and thinkers out of their institutions and into a coffee shop. The format is simple: an expert, a room full of curious people, and a conversation that goes somewhere a classroom rarely does.",
-    "startDate": "2026-10-27T18:30:00+05:30",
-    "endDate": "2026-10-27T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Basement, Ground floor and First floor Building no. 12, Panchsheel Community Centre, Shahpur Jat, Panchsheel Park, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54805190000000000000",
-        "longitude": "77.21147640000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "550.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/gft-october-edition-in-janpath",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "ART AFTER DARK",
-    "description": "Tired of the post-work scroll-and-sleep routine? Reclaim your weeknights with Out of Office: our new series designed to give your brain a creative break after work!We\u2019re kicking things off with our 4-Session Drawing Workshop, starting right when your workday wraps!Whether you haven't touched a pencil since high school or just want to try something new, this beginner-friendly series covers the fundamentals using the classic academic method of drawing. You'll work from life with a  model in a relaxed, easygoing setting.Ditch the couch, and come hang out for a few hours of pure creativity. No experience needed\u2014just show up!",
-    "startDate": "2026-10-28T20:00:00+05:30",
-    "endDate": "2026-10-28T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54778550000000000000",
-        "longitude": "77.21136729999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1620.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Gully Labs",
-      "url": "https://urbanaut.app/partner/baithak"
-    },
-    "url": "https://urbanaut.app/spot/art-after-dark",
-    "keywords": [
-      "Workshop",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
     "name": "Slow Burn - A 4 Course Drinking Experience",
     "description": "Tucked into a corner of Lodhi Colony, The Love Hotel is Delhi's best-kept secret \u2014 a 20-seat cocktail room that takes its cues from the love hotels of Japan. It's intimate without being intense, flirtatious without trying too hard.Slow Burn is a four-course cocktail tasting built for this room \u2014 but where most tasting menus put food at the centre, here the cocktails play hero.It begins the second you walk in with a welcome shot. From there, four cocktails unfold in sequence \u2014 each its own chapter, drawn from the same five-taste philosophy that powers The Love Hotel's acclaimed program. Every pour lands with a course of tapas alongside it.An evening where the spirit leads, and the plate follows. And with only twenty seats, the room stays intimate & exclusive.",
     "startDate": "2026-10-29T19:00:00+05:30",
@@ -806,7 +733,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "1799.00",
+      "price": "2300.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -932,6 +859,45 @@
     },
     "url": "https://urbanaut.app/spot/human-ludo",
     "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Lodhi Garden Heritage Walk",
+    "description": "Beneath Lodhi Garden's green landscape lies the memory of a turbulent period in the history of the Delhi Sultanate. Scattered across the gardens are magnificent tombs and monuments belonging to the Sayyid and Lodi periods, preserving a fascinating chapter of political transition, architectural experimentation and changing ideas of power.This walk explores Lodhi Gardens as more than a collection of beautiful monuments. Participants trace the evolution of tomb architecture from the Sayyid dynasty to the Lodi period, examining how changing political ambitions were expressed through domes, arches, ornamentation and carefully planned spaces. From the tomb of Muhammad Shah, with its distinctive octagonal form, to the enclosed garden tomb of Sikandar Lodi, the landscape reveals important developments in the history of Indo-Islamic architecture.The walk also explores monuments such as Bara Gumbad, Shish Gumbad and Athpula, uncovering their architectural significance and the stories surrounding them. Through tombs, gardens and forgotten structures, the experience reveals how Lodhi Gardens preserves the transition between the Delhi Sultanate and the world that would eventually give rise to Mughal Delhi.Detailed Flow of WalkIntroduction to Lodhi Gardens and the political landscape of fifteenth-century Delhi, when the Sayyid and Lodi dynasties ruled during the final centuries of the Delhi Sultanate.Visit Muhammad Shah's Tomb and examine its distinctive octagonal plan, architectural features and place within the evolution of Indo-Islamic funerary architecture.Explore the tomb of Sikandar Lodi and understand the changing relationship between tomb architecture, gardens and ideas of paradise. Discuss the reign of Sikandar Lodhi.Visit Bara Gumbad and examine its monumental architecture, discussing the purpose and architectural significance of the structure and its relationship with the adjoining mosque.Explore the mosque and surrounding structures, observing the development of arches, domes, decorative elements and spatial design during the Lodi period.Visit Shish Gumbad and discuss its distinctive ornamentation, architectural form and the continuing mystery surrounding the identities of those buried within.Walk through the wider landscape of Lodhi Gardens, understanding how these scattered monuments once existed within a historical landscape very different from the modern public garden seen today.Visit Athpula and explore its history and architectural significance, while discussing the importance of bridges, water and movement within Delhi's historic landscapes.Conclude with a discussion on the legacy of Sayyid and Lodi architecture and how the experiments of the Delhi Sultanate helped create architectural traditions that would later be transformed under the Mughals.",
+    "startDate": "2026-11-01T08:00:00+05:30",
+    "endDate": "2026-11-01T11:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Lodhi Rd, Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59309590000000000000",
+        "longitude": "77.21967939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Trip Warden",
+      "url": "https://urbanaut.app/partner/trip-warden"
+    },
+    "url": "https://urbanaut.app/spot/lodhi-garden-heritage-walk",
+    "keywords": [
+      "Local",
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
       "URBANAUT"
     ]
   },
@@ -1120,6 +1086,45 @@
     "keywords": [
       "Workshop",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Purana Qila Heritage Walk",
+    "description": "Purana Qila is more than the remains of a medieval capital, it is a landscape where mythology, archaeology and imperial ambition overlap. Often associated with the legendary city of Indraprastha, the site preserves layers of settlement and memory that make it one of the most fascinating places from which to explore Delhi's long history.This walk journeys through the many worlds contained within Purana Qila. Participants explore the debate surrounding Indraprastha and examine how archaeology helps us understand the deeper history buried beneath the visible fortifications. The experience then traces the rivalry between Humayun and Sher Shah Suri, whose competing visions transformed the site into successive imperial capitals - Dinpanah and Shergarh.From the monumental gateways and Qila-i-Kuhna Mosque to Sher Mandal and the excavation sites, each stop reveals a different layer of political ambition, architectural innovation and historical memory. Through stories of empire, exile, return and unfinished legacies, the walk explores how Delhi's cities were repeatedly built, destroyed, transformed and rebuilt upon the landscapes of those that came before.Detailed Flow of Walk\tIntroduction to Purana Qila as a landscape of multiple historical layers from Indraprastha to Partition.Enter through the monumental gateways and examine how fortifications, architecture and strategic planning reflected the ambitions of successive rulers.Explore the debate surrounding Indraprastha, discussing the relationship between mythology, historical memory and archaeological evidence.Visit the excavation sites and understand how archaeological layers help reconstruct the history of settlement at Purana Qila across different periods.Trace Humayun's vision of Dinpanah and discuss his attempt to establish a new imperial capital within this historic landscape.Explore the rivalry between Humayun and Sher Shah Suri and understand how Sher Shah transformed the site into Shergarh after taking control of the empire.Visit Qila-i-Kuhna Mosque and examine its architectural design, decorative details and significance as one of the important surviving examples of the period.Explore Sher Mandal and discuss its changing interpretations, its association with Humayun and the tragic story of the emperor's fall.Discover lesser-known structures and hidden corners within the fort, including its relationship with water, movement and the wider historical landscape.Conclude with stories of empire, exile, return and unfinished legacies, reflecting on how Delhi has repeatedly built new cities upon the memories and remains of older ones.",
+    "startDate": "2026-11-01T15:00:00+05:30",
+    "endDate": "2026-11-01T17:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Mathura Rd, near Delhi Zoo, Pragati Maidan, New Delhi, Delhi 110001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.60957440000000000000",
+        "longitude": "77.24373709999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Trip Warden",
+      "url": "https://urbanaut.app/partner/trip-warden"
+    },
+    "url": "https://urbanaut.app/spot/purana-qila-heritage-walk",
+    "keywords": [
+      "Local",
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
       "URBANAUT"
     ]
   },
@@ -1649,6 +1654,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Sacred Streets of Shahjahanabad",
+    "description": "Beyond the crowded bazaars and familiar landmarks of Old Delhi lies a carefully layered historic city shaped by faith, community, poetry and a distinctive way of urban life. Shahjahanabad was a city of neighbourhoods, markets, sacred spaces and grand residences, each organised according to the social and cultural needs of the people who lived there.This walk journeys through the sacred streets and hidden neighbourhoods of Shahjahanabad to understand how this remarkable Mughal city was planned and experienced. Participants explore the differences between a kucha, katra and gali, discovering how these distinct urban spaces shaped community life and movement through the city. The walk also examines the design of traditional havelis and the architectural principles that created private worlds behind their seemingly modest street-facing entrances.From the remarkable legacy of Digambar Jain Lal Mandir and Gurdwara Sis Ganj Sahib to the hidden heritage of Naughara and the enduring presence of Fatehpuri Masjid, the walk reveals how different communities shaped the city. A visit to Ghalib ki Haveli adds another layer, connecting Shahjahanabad's streets with the literary and cultural world of nineteenth-century Delhi.Detailed Flow of WalkIntroduction to Shahjahanabad as a planned Mughal city and an exploration of how its streets, markets and neighbourhoods developed around communities, occupations, faith and everyday life.Visit Digambar Jain Lal Mandir and explore the remarkable legacy of Delhi's oldest Jain temple while understanding the relationship between sacred spaces and the surrounding urban neighbourhood.Continue to Gurdwara Sis Ganj Sahib and uncover its powerful story of faith, sacrifice and resilience within the historic landscape of Chandni Chowk.Walk through the historic streets and neighbourhoods of Shahjahanabad while understanding the difference between a kucha, katra and gali, and how these spaces shaped movement, trade, privacy and community life.Explore Naughara and discover its hidden Jain temples and beautifully preserved heritage havelis.Understand how traditional havelis were designed, from their relationship with the street to the organisation of private and shared spaces within, and examine how architecture responded to the social life of the city.Continue through the hidden streets of Chandni Chowk, discovering architectural details and neighbourhood stories that reveal how Shahjahanabad functioned as a living city.Visit Ghalib ki Haveli and step into the literary world of Mirza Ghalib, exploring poetry, culture and everyday life in nineteenth-century Delhi.Visit Fatehpuri Masjid and understand its significance within the urban and commercial landscape of Shahjahanabad.Conclude with a discussion on how faith, communities, neighbourhood planning and architecture came together to create one of India's most remarkable living historic cities.",
+    "startDate": "2026-11-15T08:00:00+05:30",
+    "endDate": "2026-11-15T11:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Chandni Chowk, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.65053310000000000000",
+        "longitude": "77.23033699999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Trip Warden",
+      "url": "https://urbanaut.app/partner/trip-warden"
+    },
+    "url": "https://urbanaut.app/spot/sacred-streets-of-shahjahanabad",
+    "keywords": [
+      "Local",
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Kaboortarbazi in Turkman gate : A heritage walk",
     "description": "Once a passion of emperors, nobles, and city elites, Kabootarbaazi was more than a sport \u2014 it was skill, strategy, pride, and poetry in flight.From the rooftops of medieval Delhi to the lanes of Turkman Gate, pigeons carried messages, status, and stories. This heritage walk explores the ancient and medieval world of Kabootarbaazi, alongside the layered history of Turkman Gate \u2014 a gateway that has witnessed sultans, sieges, resistance, and everyday life for centuries.Join us as we trace a living tradition, still fluttering above the old city, and uncover how sport, culture, and urban history come together in the skies of Purani Dilli.",
     "startDate": "2026-11-15T10:00:00+05:30",
@@ -1678,6 +1722,45 @@
     },
     "url": "https://urbanaut.app/spot/kaboortarbazi-in-turkman-gate-a-heritage-walk",
     "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Safdarjung's Tomb Heritage Walk",
+    "description": "Standing quietly amidst the changing landscape of modern Delhi, Safdarjung's Tomb represents the final great expression of the Mughal garden-tomb tradition. Built in the eighteenth century for Safdarjung, a powerful nobleman and statesman during the later years of the Mughal Empire, the monument reflects both the enduring influence of Mughal architectural ideals and the changing realities of a declining empire.This walk explores Safdarjung's Tomb beyond its imposing central structure, uncovering the carefully planned landscape and lesser-known architectural spaces that together form this remarkable funerary complex. Participants examine the tomb's design and its relationship with the earlier Mughal garden-tomb tradition while exploring the mosque, elegant pavilions and arcaded structures within the complex.Through its gardens, water channels, architectural spaces and changing historical context, the walk traces the final chapter of one of India's most important architectural traditions and asks what happens when an imperial style continues to survive even as the world that created it begins to disappear.Detailed Flow of WalkIntroduction to Safdarjung's Tomb and its place in the final phase of Mughal architecture and eighteenth-century Delhi.Explore the history and architecture of Safdarjung's Tomb while understanding the story of Safdarjung and the political landscape of the declining Mughal Empire.Examine the design of the central tomb and discuss its connection with the earlier Mughal garden-tomb tradition.Explore the mosque and understand its architectural details and role within the larger funerary complex.Visit Badshah Pasand and Moti Mahal, uncovering the lesser-known structures and stories associated with the complex.Walk through the graceful arcaded pavilions and examine architectural details that are often overlooked during a regular visit.Explore the carefully planned garden, pathways and water channels and understand their importance within the traditional Mughal concept of the garden tomb.Discuss how Safdarjung's Tomb represents both the continuation of a great architectural tradition and the changing political and cultural realities of late Mughal Delhi.Conclude with a reflection on why this monument is remembered as the last great garden tomb of the Mughal era.",
+    "startDate": "2026-11-15T16:00:00+05:30",
+    "endDate": "2026-11-15T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Airforce Golf Course, Delhi Race Club, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.58941560000000000000",
+        "longitude": "77.21062190000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Trip Warden",
+      "url": "https://urbanaut.app/partner/trip-warden"
+    },
+    "url": "https://urbanaut.app/spot/safdarjungs-tomb-heritage-walk",
+    "keywords": [
+      "Local",
       "Walking Tour",
       "History & heritage",
       "Guided tour",
@@ -1757,6 +1840,45 @@
       "Live GIG",
       "Music",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Hauz Khas : Delhi's Hidden Necropolis",
+    "description": "Hauz Khas is often remembered for its magnificent reservoir and medieval madrasa, yet the landscape surrounding it preserves an extraordinary collection of funerary monuments that reveal another side of Delhi's history.This walk journeys through Delhi's hidden necropolis, tracing a remarkable network of tombs and funerary structures scattered across the landscape where each structure raises questions about memory, identity and architectural expression.The experience culminates at the Hauz Khas Complex, where the tomb of Firuz Shah Tughlaq stands beside a medieval madrasa and reservoir. Through architecture, symbolism and storytelling, the walk explores how a landscape of the dead became part of a living and constantly changing city and why Hauz Khas is often compared to medieval Baghdad.Detailed Flow of WalkThe walk begin with an introduction to the idea of Delhi as a landscape layered with forgotten tombs and funerary monuments.Explore Dadi-Poti Tombs, where architecture, memory and local stories intertwine.Explore Barah Khamba and examine its symmetry, arches and architectural details while discussing the identities that history has forgotten.Discover Sankri Gumti and Chhoti Gumti, exploring how even Delhi's smaller funerary structures preserve clues about the architectural and cultural world in which they were built.Reach the tomb of Firuz Shah Tughlaq and discuss the ruler, his legacy and the political world of the Delhi Sultanate.Explore the Hauz Khas Complex, including the medieval madrasa and reservoir, and understand how water, learning, power and memory shaped this extraordinary landscape.Conclude with a discussion on tomb architecture, symbolism and forgotten identities, reflecting on how Delhi's city of the dead continues to exist beneath and alongside the living city.",
+    "startDate": "2026-11-21T15:00:00+05:30",
+    "endDate": "2026-11-21T17:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55339970000000000000",
+        "longitude": "77.19416540000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Trip Warden",
+      "url": "https://urbanaut.app/partner/trip-warden"
+    },
+    "url": "https://urbanaut.app/spot/hauz-khas-delhis-hidden-necropolis",
+    "keywords": [
+      "Local",
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
       "URBANAUT"
     ]
   },

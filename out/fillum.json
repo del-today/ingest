@@ -1,40 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "Enzo(2025)",
-    "url": "https://fillum.in/screening/6432",
-    "startDate": "2026-10-27T18:30:00+05:30",
-    "endDate": "2026-10-27T18:30:00+05:30",
-    "description": "Free entry.",
-    "location": {
-      "@type": "Place",
-      "name": "M. L. Bhartia Auditorium, Alliance Fran\u00e7aise",
-      "address": "Lodhi Road, New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Alliance Fran\u00e7aise de Delhi"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Yaadon Ki Baaraat(1973)",
-    "url": "https://fillum.in/screening/6264",
-    "startDate": "2026-10-27T19:00:00+05:30",
-    "endDate": "2026-10-27T19:00:00+05:30",
-    "description": "Free entry.",
-    "location": {
-      "@type": "Place",
-      "name": "Stein Auditorium, India Habitat Centre",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Habitat World"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "Bhootflix Night: Darr-de-Disco",
     "url": "https://fillum.in/event/6398",
     "startDate": "2026-10-30T19:00:00+05:30",
@@ -167,6 +133,23 @@
     "organizer": {
       "@type": "Organization",
       "name": "Camera Commune"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "In Which Annie Gives It Those Ones(1989)",
+    "url": "https://fillum.in/screening/6414",
+    "startDate": "2026-11-01T15:30:00+05:30",
+    "endDate": "2026-11-01T15:30:00+05:30",
+    "description": "As part of IIC Experience 2026. Free entry on first come first served basis. Open to all.",
+    "location": {
+      "@type": "Place",
+      "name": "C. D. Deshmukh Auditorium, India International Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "India International Centre"
     }
   }
 ]
