@@ -373,6 +373,42 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "#lecture: It's Complicated!",
+    "description": "Why Do We Keep Having the Same Fight?Ever found yourself overthinking a text, reading too much into a change in someone's tone, or having the same argument with your partner for the fifth time?Why do some of us crave reassurance when things feel uncertain, while others need space? Why can a simple disagreement feel like a threat to a relationship? And why do we sometimes repeat the same patterns, even when we know better?Turns out, relationships aren't just about who we choose. They're also about how we connect, communicate, and respond to the people we care about.This time at Pint of View, we're getting into the psychology of attachment, communication, and connection.Join us for an interactive discussion on attachment styles, emotional safety, and the patterns that shape our relationships. Through relatable examples and open conversations, we'll explore why we react the way we do, what happens when our communication styles clash, and how we can navigate conflict without losing connection.Because a healthy relationship isn't one where you never disagree. It's one where you learn to understand each other, work through the difficult bits, and find your way back.About the ExpertsDevna Mehra is a Counseling Psychologist with a Master's degree from Columbia University, New York, and over five years of experience in mental health. She works with adults navigating relationship concerns, anxiety, self-esteem, and life transitions. Her therapeutic approach integrates Cognitive Behavioural Therapy (CBT) and psychodynamic therapy. Through her private practice, SpeakEasy, she offers in-person sessions in Delhi and online therapy.Sohail Rana Kanwar is a psychotherapist and founder of Space by Sohail, an independent therapy practice based in New Delhi. He holds an MSc in Counselling Studies from the University of Edinburgh and a Bachelor's degree in Psychology from Emory University. His work focuses on emotional experiences, relationship patterns, and how our past shapes the ways we connect with ourselves and others.Together, they'll help us unpack the psychology behind how we love, communicate, clash, and repair.\ud83d\udcac A Little Something ExtraWe're collaborating with MINE, a dating platform working to help people develop emotional intelligence and build compatibility.As part of the evening, we'll have an interactive activity with MINE to explore what compatibility really means, how we show up in relationships, and what it takes to build healthier connections.Because finding the right person is one thing. Understanding how to build a relationship with them is another.Who Is This For?Whether you're in a relationship, navigating the dating scene, recovering from a confusing situationship, or simply curious about why humans are the way they are, this conversation is for you.See you at Pint of View!",
+    "startDate": "2026-10-31T16:00:00+05:30",
+    "endDate": "2026-10-31T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Commercial Complex B 6/7-22 Opp Deer Park, Block B6, Humayunpur, Safdarjung Enclave, New Delhi, Delhi 110029, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55958340000000000000",
+        "longitude": "77.19693000000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "999.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Pint of View Delhi NCR",
+      "url": "https://urbanaut.app/partner/pint-of-view-delhi-ncr"
+    },
+    "url": "https://urbanaut.app/spot/lecture-attachment-communication-connection",
+    "keywords": [
+      "Leisure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Halloween special: Tracing Djinns of Kotla Ferozshah",
     "description": "TRACING THE DJINNS of FEROZSHAH KOTLA FORT (Halloween Special)As twilight deepens and shadows lengthen across the old walls, we will gather at the main gate of Feroz Shah Kotla. Before us lie crumbling stone portals, hollowed arches, and silent courtyards that once bustled with life in the 14th century under Sultan Feroz Shah Tughlaq.This is no ordinary heritage walk. That evening, we will tread the boundary between history and myth \u2014 stepping into the realm of the djinns said to haunt these ruins, to listen, to judge, and sometimes to grant wishes.Led by expert storyteller and myth-hunter, the walk will weave together folklore, historical lore, and spooky tales when moonlight meets masonry. Expect atmospheric narration, dramatic pauses, unexpected twists \u2014 and maybe a few ghostly encounters.Not for the faint hearted !!Highlights* A guided evening walk through ruins, hidden chambers, and alleyways* Folklore and legends of djinns haunting the fort* Dramatic storytelling under the evening skies* Occasional \u201cmystery stops\u201d and whispers in the dark* A themed ritual (writing wishes / invoking legends) in the end.",
     "startDate": "2026-10-31T16:00:00+05:30",
@@ -1615,6 +1651,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Dhruvi & Pranay",
+    "description": "The project brings forth a harmonically colourful, daring and soulful soundscape from the world of Brazil. Interpreting, some of the most classic brazilian tunes through a fresh and more contemporary lens, with Dhruvi on Voice and Pranay on Guitar. ",
+    "startDate": "2026-11-11T21:00:00+05:30",
+    "endDate": "2026-11-11T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "399.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/dhruvi-pranay",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Who Does the City Belong To?",
     "description": "Who Does the City Belong To?A conversation on public space and the lawYou have probably stood in front of a barricade this year. A road closed with no notice. A park gate locked at night. A station shut, a lane that used to be a shortcut now ending in a guard and a boom. Most of us have learned to route around it without thinking.But there\u2019s a question underneath that almost none of us can answer: what are we actually entitled to in a public space and what happens when that space is closed, fenced or policed?In this edition of The Human City Conversations, we\u2019ll ask what the Constitution actually gives us by way of a right to assemble and to protest. Whether a government can simply take a Jantar Mantar away. Whether there is such a thing as a right to walk in an Indian city, and who in Delhi really has it. And how much of what we call planning is in truth a question of who is expected to justify their presence in public, and who is not.It isn\u2019t a lecture, and it isn\u2019t a complaint session. It\u2019s an hour of conversation, in plain words, followed by your questions put directly to someone who has spent two decades arguing these things in court.About the guestMihira Sood is a lawyer and scholar in the field of women\u2019s rights, and practices at the Supreme Court of India and the Delhi High Court. She has taught at Jindal Global Law School and National Law University Delhi, and holds degrees from NALSAR University of Law, Hyderabad, and Columbia Law School, New York. She was among the youngest members to assist the Justice Verma Committee, whose recommendations reshaped India\u2019s criminal law on sexual violence. She writes and speaks widely on women\u2019s rights, feminist jurisprudence, equality law and civil liberties, and is a regular commentator in the national press. She has recently written a book Courting Equality which focusses on the Landmark Cases in the Battle for Women\u2019s Rights (Juggernaut) traces fifty years of the law\u2019s encounter with women\u2019s lives \u2014 from the anti-dowry agitations of the 1970s, through Shah Bano and the Uniform Civil Code debate, to the Nirbhaya movement and its continuing reverberations, and on to the present backlash against the supposed misuse of these very laws.Copies will be on sale at Kunzum on the evening, at 20% off.About the seriesThe Human City Conversations is the live edition of The Human City Podcast, hosted by Ruchita Bansal, which for the past year has asked how Indian cities are planned, built and experienced \u2014 and who they are built for. The podcast\u2019s questions, taken off the feed and into a room, in public, in Delhi.The detailsSunday 14 November 2026, 1 PM onwardsKunzum Books, GK-2, New DelhiLimited seats \u00b7 Tickets on Urbanaut",
@@ -1684,6 +1758,44 @@
       "History & heritage",
       "Guided tour",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Tribute to Indian Rock Legends with PUNCH",
+    "description": "Punch is a five-piece progressive rock band from Calcutta, known for its brand of originals and a unique cover set that pays tribute to Indian bands and rock legends such as Indus Creed, Parikrama, Zero, Motherjane, Pentagram and other legendary acts. It is the only band in India to play this set.",
+    "startDate": "2026-11-14T20:00:00+05:30",
+    "endDate": "2026-11-14T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/tribute-to-indian-rock-legends-with-punch",
+    "keywords": [
+      "Live GIG",
+      "Local",
+      "Music",
       "URBANAUT"
     ]
   },

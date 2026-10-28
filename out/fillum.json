@@ -35,6 +35,23 @@
   },
   {
     "@type": "ScreeningEvent",
+    "name": "Rashomon(1950)",
+    "url": "https://fillum.in/screening/6445",
+    "startDate": "2026-10-31T12:10:00+05:30",
+    "endDate": "2026-10-31T12:10:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "iPley Music, GK-1",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "SomeArt"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "La Commune (Paris, 1871)(2003)",
     "url": "https://fillum.in/screening/6429",
     "startDate": "2026-10-31T13:00:00+05:30",
@@ -65,6 +82,23 @@
     "organizer": {
       "@type": "Organization",
       "name": "India International Centre"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "High and Low(1963)",
+    "url": "https://fillum.in/screening/6447",
+    "startDate": "2026-10-31T16:00:00+05:30",
+    "endDate": "2026-10-31T16:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "iPley Music, GK-1",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "SomeArt"
     }
   },
   {
@@ -103,53 +137,19 @@
   },
   {
     "@type": "ScreeningEvent",
-    "name": "Angoor(1982)",
-    "url": "https://fillum.in/screening/6413",
-    "startDate": "2026-11-01T13:00:00+05:30",
-    "endDate": "2026-11-01T13:00:00+05:30",
-    "description": "As part of IIC Experience 2026. Free entry on first come first served basis. Open to all.",
+    "name": "The Wages of Fear(1953)",
+    "url": "https://fillum.in/screening/6446",
+    "startDate": "2026-11-01T12:10:00+05:30",
+    "endDate": "2026-11-01T12:10:00+05:30",
+    "description": "",
     "location": {
       "@type": "Place",
-      "name": "C. D. Deshmukh Auditorium, India International Centre",
+      "name": "iPley Music, GK-1",
       "address": "Delhi"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "India International Centre"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "La Commune (Paris, 1871)(2003)",
-    "url": "https://fillum.in/screening/6428",
-    "startDate": "2026-11-01T15:00:00+05:30",
-    "endDate": "2026-11-01T15:00:00+05:30",
-    "description": "Part 2. Free Entry.",
-    "location": {
-      "@type": "Place",
-      "name": "Mool, South Ex, Delhi",
-      "address": "South Ex II, New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Camera Commune"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "In Which Annie Gives It Those Ones(1989)",
-    "url": "https://fillum.in/screening/6414",
-    "startDate": "2026-11-01T15:30:00+05:30",
-    "endDate": "2026-11-01T15:30:00+05:30",
-    "description": "As part of IIC Experience 2026. Free entry on first come first served basis. Open to all.",
-    "location": {
-      "@type": "Place",
-      "name": "C. D. Deshmukh Auditorium, India International Centre",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "India International Centre"
+      "name": "SomeArt"
     }
   }
 ]

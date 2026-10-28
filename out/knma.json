@@ -1,5 +1,25 @@
 [
   {
+    "@type": "Event",
+    "name": "KNMA Art Battle",
+    "url": "https://www.knma.org/whats-on/events/art-battle-season-6",
+    "startDate": "2026-04-21T10:00:00+05:30",
+    "endDate": "2026-11-18T18:00:00+05:30",
+    "description": "Art Battle",
+    "location": {
+      "@type": "Place",
+      "name": "Sunder Nursery",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
     "@type": "ExhibitionEvent",
     "name": "Pata Dekhabo?",
     "url": "https://www.knma.org/whats-on/exhibitions/pata-dekhabo",
