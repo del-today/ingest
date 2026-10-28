@@ -150,6 +150,42 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "NAZAR BATTU: The Desi Halloween Party",
+    "description": "This Halloween, we\u2019re stepping away from sexy kittens and zombies and turning our gaze to India.  Ward off every bit of bad energy, toxic vibes, and buri nazar accumulated over the past year, come dressed as your favourite desi danav or chudail! The best costume will win a pair of shoes!Nazar Battu is a night of intentional imperfection, dark aesthetics, and deep bass. Consider this your annual energetic reset disguised as a party. With Tarot readings and drinks and a banger bollywood playlist!",
+    "startDate": "2026-10-30T19:00:00+05:30",
+    "endDate": "2026-10-30T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "944.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
+    },
+    "url": "https://urbanaut.app/spot/nazar-battu-the-desi-halloween-party",
+    "keywords": [
+      "Music",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "The Diwali Edit | Supperclub | SROT x Rosei Ghara",
     "description": "The Diwali Edit | SupperclubSROT \u00d7 Rosei GharaThis festive season, SROT returns to Rosei Ghara for The Diwali Edit : a supperclub celebrating good food, thoughtful cooking and the joy of coming together around a table.Bringing together SROT's contemporary culinary approach and Rosei Ghara's love for the food traditions of Odisha, this collaboration explores familiar flavours through fresh perspectives. Expect a specially curated menu, playful interpretations, interesting ingredients and a few surprises along the way.With just 10 guests per service, the supperclub offers an opportunity to experience the menu up close, discover the stories behind the dishes and enjoy an afternoon or evening of festive feasting.Dates & Timings- 30 October, Friday: Dinner at 7:30 PM- 31 October, Saturday: Lunch at 12:30 PM | Dinner at 7:30 PM- 1 November, Sunday: Lunch at 12:30 PM | Dinner at 7:30 PMVenue: Rosei Ghara, Shahpur Jat, New DelhiFive services. Three days. One special Diwali Edit.Seats are limited, and reservations are essential. We look forward to welcoming you to our table!",
@@ -1731,45 +1767,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Safdarjung's Tomb Heritage Walk",
-    "description": "Standing quietly amidst the changing landscape of modern Delhi, Safdarjung's Tomb represents the final great expression of the Mughal garden-tomb tradition. Built in the eighteenth century for Safdarjung, a powerful nobleman and statesman during the later years of the Mughal Empire, the monument reflects both the enduring influence of Mughal architectural ideals and the changing realities of a declining empire.This walk explores Safdarjung's Tomb beyond its imposing central structure, uncovering the carefully planned landscape and lesser-known architectural spaces that together form this remarkable funerary complex. Participants examine the tomb's design and its relationship with the earlier Mughal garden-tomb tradition while exploring the mosque, elegant pavilions and arcaded structures within the complex.Through its gardens, water channels, architectural spaces and changing historical context, the walk traces the final chapter of one of India's most important architectural traditions and asks what happens when an imperial style continues to survive even as the world that created it begins to disappear.Detailed Flow of WalkIntroduction to Safdarjung's Tomb and its place in the final phase of Mughal architecture and eighteenth-century Delhi.Explore the history and architecture of Safdarjung's Tomb while understanding the story of Safdarjung and the political landscape of the declining Mughal Empire.Examine the design of the central tomb and discuss its connection with the earlier Mughal garden-tomb tradition.Explore the mosque and understand its architectural details and role within the larger funerary complex.Visit Badshah Pasand and Moti Mahal, uncovering the lesser-known structures and stories associated with the complex.Walk through the graceful arcaded pavilions and examine architectural details that are often overlooked during a regular visit.Explore the carefully planned garden, pathways and water channels and understand their importance within the traditional Mughal concept of the garden tomb.Discuss how Safdarjung's Tomb represents both the continuation of a great architectural tradition and the changing political and cultural realities of late Mughal Delhi.Conclude with a reflection on why this monument is remembered as the last great garden tomb of the Mughal era.",
-    "startDate": "2026-11-15T16:00:00+05:30",
-    "endDate": "2026-11-15T18:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Airforce Golf Course, Delhi Race Club, New Delhi, Delhi 110003, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.58941560000000000000",
-        "longitude": "77.21062190000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "800.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Trip Warden",
-      "url": "https://urbanaut.app/partner/trip-warden"
-    },
-    "url": "https://urbanaut.app/spot/safdarjungs-tomb-heritage-walk",
-    "keywords": [
-      "Local",
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Raat ke Afsane : Safdarjung Tomb",
     "description": "Safdarjung Tomb Walk: Stories After SunsetA guided heritage walk at Safdarjung Tomb in Delhi exploring its history, architecture and cultural importance. The monument represents the late Mughal period and reflects the transition of power in Delhi.The walk covers the monument complex and its surroundings, sharing stories about its construction, design, and historical context. It introduces Mughal architecture and the area's heritage.The experience is conducted in Hindi and English.Important Information1. Details will be shared after booking confirmation2. Children below 5 years are not charged3. In case of unavoidable circumstances, the event may be rescheduled or cancelled. An alternate date may be offered within 30 days, subject to availability4. No refunds once tickets are booked",
     "startDate": "2026-11-15T17:00:00+05:30",
@@ -1840,45 +1837,6 @@
       "Live GIG",
       "Music",
       "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Hauz Khas : Delhi's Hidden Necropolis",
-    "description": "Hauz Khas is often remembered for its magnificent reservoir and medieval madrasa, yet the landscape surrounding it preserves an extraordinary collection of funerary monuments that reveal another side of Delhi's history.This walk journeys through Delhi's hidden necropolis, tracing a remarkable network of tombs and funerary structures scattered across the landscape where each structure raises questions about memory, identity and architectural expression.The experience culminates at the Hauz Khas Complex, where the tomb of Firuz Shah Tughlaq stands beside a medieval madrasa and reservoir. Through architecture, symbolism and storytelling, the walk explores how a landscape of the dead became part of a living and constantly changing city and why Hauz Khas is often compared to medieval Baghdad.Detailed Flow of WalkThe walk begin with an introduction to the idea of Delhi as a landscape layered with forgotten tombs and funerary monuments.Explore Dadi-Poti Tombs, where architecture, memory and local stories intertwine.Explore Barah Khamba and examine its symmetry, arches and architectural details while discussing the identities that history has forgotten.Discover Sankri Gumti and Chhoti Gumti, exploring how even Delhi's smaller funerary structures preserve clues about the architectural and cultural world in which they were built.Reach the tomb of Firuz Shah Tughlaq and discuss the ruler, his legacy and the political world of the Delhi Sultanate.Explore the Hauz Khas Complex, including the medieval madrasa and reservoir, and understand how water, learning, power and memory shaped this extraordinary landscape.Conclude with a discussion on tomb architecture, symbolism and forgotten identities, reflecting on how Delhi's city of the dead continues to exist beneath and alongside the living city.",
-    "startDate": "2026-11-21T15:00:00+05:30",
-    "endDate": "2026-11-21T17:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55339970000000000000",
-        "longitude": "77.19416540000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "800.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Trip Warden",
-      "url": "https://urbanaut.app/partner/trip-warden"
-    },
-    "url": "https://urbanaut.app/spot/hauz-khas-delhis-hidden-necropolis",
-    "keywords": [
-      "Local",
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
       "URBANAUT"
     ]
   },
@@ -2141,6 +2099,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Nizamuddin Heritage walk on Sufism & Poetry",
+    "description": "In the Sufi Bylanes of Nizamuddin \u2014 A Heritage Walk of Stories, Shrines & SilenceStep into the tender, time-worn lanes of Nizamuddin, where the fragrance of incense mingles with qawwali echoes and centuries of faith, love, and longing still breathe through stone and sky.Join us for a soulful heritage walk through the sacred precincts of Nizamuddin Dargah, as we trace the footsteps of saints, poets, patrons, and wanderers who made this neighbourhood a living archive of Delhi\u2019s Sufi soul.On this journey, we will also pause at:\u2728 Ghalib\u2019s Mazar \u2014 remembering the poet of longing and lament\u2728 Chausath Khamba \u2014 a marble pavilion of quiet grace and symmetry\u2728 Atagha Khan\u2019s Tomb \u2014 a Mughal-era resting place of power and piety\u2728 Pateh Shah\u2019s Dargah \u2014 where devotion meets deep serenity. Along the way, we\u2019ll listen to stories of shrines and seekers, of migration and memory, of music, miracles, and mysticism \u2014 stories that still whisper through these alleys at dusk.",
+    "startDate": "2026-11-28T16:00:00+05:30",
+    "endDate": "2026-11-28T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Bharat Scouts and Guides Marg, opposite Humayun Tomb Park, Nizamuddin, Hazrat Nizamuddin, National Zoological Park, Sundar Nagar, New Delhi, Delhi 110013, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59564670000000000000",
+        "longitude": "77.24516910000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/nizzwlks",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Viva La Vino Wine Festival: Delhi Edition",
     "description": "Viva La Vino \u2013 Delhi Edition 2026 \ud83c\udf77\ud83c\udfb6The wine festival you know and love is back for Season 3! Co-curated by Sommeliers Devati Mallick and Gargi Kothari, VLV is the first-of-its-kind, super-fun wine festival building a wine culture that\u2019s playful, welcoming, and totally unforgettable. Expect (unlimited!) fun wines, good food, groovy music and a fab evening out with your wine-loving tribe!We're taking over The Grand New Delhi's expansive lawn space with a full festival-style setting, elevated food, cooler spaces and all the VLV vibes you came for. \u2728What's in store at VLV Season 3:100+ wines to discover: Taste your way through 100+ International and Indian wines! Discover new producers, find your next favourite bottle, or revisit an old love, because there will be plenty of wine to keep things interesting. All wine tastings are included in your festival ticket.Introducing The Grand Cru Lounge: This season we're introducing the Grand Cru Lounge, a limited-access premium lounge for those who want to stay longer, eat better and drink some seriously good wine.The steal deal: Your Grand Cru Lounge ticket includes everything from the main festival PLUS access to the exclusive lounge, an elevated dinner buffet (included), premium wines by the glass at special festival prices, extended after-hours access, and a bunch of other cool perks, like an opportunity to win a Coravin gift set worth INR 30,000 for 1 lucky winner (a revolutionary wine preservation system that every wine lover MUST have!) after a competitive quiz.The lounge will be open from 8 PM until midnight. 50 tickets only!Vinyl DJ set + all-evening grooves: We're turning up the soundtrack this year with DJ Sindhi Curry, who has a groovy vinyl set ready that will keep the festival energy going all evening. Wine & Vinyl - can't go wrong with that stellar pairing!VLV merch: Yes, you can finally take the VLV vibe home with you. Look out for our brand-new wine-themed pins, totes, stickers, fridge magnets and more available to purchase at the festival.Artisan cheese: Your ticket includes a dreamy artisan cheese cup for one, so you can sip and snack at the same time. Want more? Shop extra platters and also take home your cheesy favourites.Craft chocolate: Meet India\u2019s finest craft chocolate producers and shop their gourmet range to sweeten your evening. Wine, cheese, and chocolate are always a good idea!Bigger, better food: We're making the food experience a much bigger part of VLV this season, with live food stations, delicious bites and a whole lot more to eat while you make your way through the wines.Sip in style with Lucaris: our glassware partner is back with a stunning collection, so you'll be tasting all your wines in glasses designed to elevate the experience. Pick up your glass on entry, sip your way through, and return it before you leave. \ud83c\udf77Last year was a hot sell-out, and this year promises to be even bigger. Bring a friend, your partner, a whole gang of wine buddies, or come solo and find your tribe here. Just don\u2019t miss it. See you there?",
@@ -2180,8 +2176,46 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Yamuna- A river, A city, A memory",
+    "description": "The Yamuna has been many things to Delhi \u2014 a river, a boundary, a source of life, a sacredpresence, and a witness to the making and remaking of the city.On this walk at the Vasudev Ghat near Kashmere Gate we follow the river through the story of Delhi itself. We look at the floodplains thatonce allowed the Yamuna to breathe, and trace the changing relationship between the river and arapidly expanding city. We explore the many drains that now carry the city\u2019s waste into the river,the challenges of treating that waste, and the difficult question of what happens when a cityslowly turns its back on the river that sustains it.But the Yamuna is more than an environmental story. She is Yamuna Mata \u2014 a goddess, a mother, and a deeply loved presence in Hindu mythology. We explore the stories, beliefs and rituals that have shaped the sacred imagination around this river for centuries.And as the evening gathers, we end where the river meets ritual. The walk culminates in the Yamuna Aarti at Vasudev Ghat, held every Sunday evening \u2014 an evocative coming together of river, light, music, prayer and memory.As lamps are lit and the aarti unfolds beside the darkening river, the Yamuna becomes, for a brief while, not just the river that flows through Delhi, but the river that lives within its imagination.(Plz note the fee being charged is just for the curated experience & not for entry into Vasudev ghat)",
+    "startDate": "2026-11-29T15:30:00+05:30",
+    "endDate": "2026-11-29T17:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M6CM+M3C, Ladakh Budh Vihar Colony, Qudsia Ghat, New Delhi, Delhi, 110054, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.67169220000000000000",
+        "longitude": "77.23264490000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "900.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DARWESH_TALEWEAVERS",
+      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
+    },
+    "url": "https://urbanaut.app/spot/yamiwalk",
+    "keywords": [
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "NIGHT IN A MUSEUM : HUMAYUN TOMB MUSEUM WALK",
-    "description": "Indus Valley Civilisation Walk at the National MuseumStep back over 4,000 years and explore the fascinating world of the Indus Valley Civilisation through a guided walk at the National Museum.Discover ancient treasures from Harappa and Mohenjo-Daro, including seals, pottery, jewellery, sculptures, and everyday objects. Learn about one of the world's earliest urban civilisations, its advanced city planning, trade networks, craftsmanship, and the enduring mystery of the undeciphered Indus script.Experience history through engaging stories and expert insights into the people and culture that shaped this remarkable civilisation.Highlights1. Guided exploration of the Indus Valley galleries at the National Museum2. Artefacts from Harappa, Mohenjo-Daro, and other archaeological sites3. Insights into ancient urban planning, architecture, and technology4. Stories of trade, craftsmanship, and daily life5. The mystery of the undeciphered Indus script6. Historical context behind seals, pottery, jewellery, and sculpturesImportant Information1. Please arrive at the meeting point at least 15 minutes before the scheduled start time.Comfortable walking shoes are recommended.2 Photography may be restricted in certain areas of the museum. Please follow museum guidelines.3 Tickets once booked are non-refundable and cannot be cancelled or transferred.4. In the event of unforeseen circumstances beyond the organiser's control, such as government restrictions, political disturbances, public safety concerns, natural calamities, or any situation that makes conducting the event unsafe or impossible, the event will be rescheduled. The same ticket will remain valid for the rescheduled date, and we will inform participants in advance.",
+    "description": "Underground Stories: Humayun Museum Walk Beneath the grandeur of Humayun's Tomb lies a world few have explored. Discover a modern underground museum showcasing the legacy of the Mughals. This heritage walk takes you through underground galleries, immersive exhibits, and rare artefacts that connect Delhi's present with its imperial past.Explore stories of architecture, empire, and memory as history meets modern technology beneath one of Delhi's most iconic monuments.Step underground and travel through centuries of history.HighlightsUnderground Stories, Humayun Museum Walk* Introduction to the underground museum and its historical significance.* Explore the galleries and immersive exhibits.* Discover Mughal artefacts, architecture, art, and culture.* Interactive storytelling about the Mughal Empire and Delhi\u2019s history.* Discussion and Q&A session with the heritage expert.Important InformationWe will share details of the heritage walk by email after you book the tickets.No guiding fee is applicable for children below 5 years of age.The walk will be conducted in Hindi and English.In case of unavoidable circumstances such as bad weather, political rallies, VIP movement, or power cuts, the walk may be cancelled. Participants may choose another walk offered by the company within 30 days from the date of the scheduled walk. The company can adjust the amount already paid against the new walk.The company does not offer refunds.",
     "startDate": "2026-11-29T17:00:00+05:30",
     "endDate": "2026-11-29T18:30:00+05:30",
     "location": {
