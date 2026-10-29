@@ -75,43 +75,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "UNLECTURE x GULLY LABS: Art History Series",
-    "description": "Tired of the post work scroll-and-sleep routine? Reclaim your weeknights with Out of Office: our new series designed to give your brain a creative break after work! This October Unlecture and Gully Labs is bringing you a series of Art history lectures to fill your cup!Oct 16 | Sanchita Khurana Street View: On Reading a City & Its Walls   City walls are literally talking. We\u2019re reading street art, murals, and graffiti to decode visibility, ownership, and urban vibes.   Oct 23 | Chetna Khanna \u2014 Feminist Art History: Asia Differs from the West   Why copy Western frameworks? Exploring feminist art history through a uniquely Asian lens at the intersection of gender, culture, and society.   Oct 24 | Lolita Dutta \u2014 From Analog to Digital: Transitions in DesignFrom old-school pencils and B&W photos to pen tabs and AI. A total deep-dive into how design evolved without losing its soul.Oct 29 | Parul Dave Mukherji \u2014 Who is Afraid of Indian Aesthetics? From the Erotic to the Grotesque   Not everything in classical Indian art is pretty sculptures. Unpacking the dark, fearful, and lowkey 'Halloweenesque' aesthetics.   Pull up, bring your friends, and let\u2019s reframe the vibe!",
-    "startDate": "2026-10-29T19:30:00+05:30",
-    "endDate": "2026-10-29T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54778550000000000000",
-        "longitude": "77.21136729999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "708.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Gully Labs",
-      "url": "https://urbanaut.app/partner/baithak"
-    },
-    "url": "https://urbanaut.app/spot/unlecture-x-gully-labs-art-history-series",
-    "keywords": [
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Halloween Carnival 2026",
     "description": "Step into a world where chaos meets celebration. Shellbeacon x Mitra Mesh bring you a 3-night immersive carnival experience in Hauz Khas Village. Expect eerie vibes, theatrical energy, and unforgettable nights under the stars.Dark. Mysterious. Seductive.A celebration of gothic aesthetics, moody music, deep house, underground energy, costumes, chaos, and carnival vibes. Expect creepy characters, wild dance floors, themed cocktails, and a crowd dressed to impress (or scare).Decadence meets drama with cabaret performances, vintage glamour, artistic expression, and bold energy inspired by 1920s Berlin.What to Expect:Themed d\u00e9cor & immersive ambianceLive DJs & curated musicSpecial Halloween cocktails & event menuCostume-friendly crowd & photo momentsRooftop forest vibes in the heart of HKVDress Code Recommended:Goth | Halloween Costumes | Vintage/CabaretThis isn\u2019t just a party.It\u2019s a 3-night escape into a different world.",
@@ -825,6 +788,42 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Disco Diwali",
+    "description": "Night of celebration\u00a0",
+    "startDate": "2026-10-31T20:30:00+05:30",
+    "endDate": "2026-10-31T23:45:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Chor Bazar",
+      "url": "https://urbanaut.app/partner/chor-bazar"
+    },
+    "url": "https://urbanaut.app/spot/disco-diwali",
+    "keywords": [
+      "Music",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "MIRAYA",
     "description": "Our university tradition of playing at depot 48 has been through the batches for years , People like Ashwin Shaji , Olive regan from pain protocol , Parikshit from beshaq performed there , We Miraya , formed a band 1.5 years before by college students trying to make it into the industry. Depot 48 is going to be a milestone for the journey.",
@@ -1159,6 +1158,41 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Mehrauli: The First City of Dehli (Detailed Walk)",
+    "description": "One of the oldest inhabited places in the subcontinent, Mehrauli is rich in historical ruins, tombs, and other monuments from many eras of Delhi\u2019s past \u2014from the pre-Islamic to the late Mughal and colonial periods. This trail will take you through a thrilling journey accompanied by an exciting session of storytelling around the history and myths of one of Delhi\u2019s oldest cities. This walking tour, led by Shah Umair, explores parts of Mehrauli hidden from the crowds at Qutub Minar, walking through the history of almost a thousand years.The walk will be held inside the archeological park we will not venture into Mehrauli Village for Dargah and Zafar Mahal",
+    "startDate": "2026-11-01T16:00:00+05:30",
+    "endDate": "2026-11-01T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "ladha sarai, Jamali Kamali, Mehrauli Archeological Pk Trl, Christian Colony, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.51957120000000000000",
+        "longitude": "77.18714460000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "400.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sikkawala",
+      "url": "https://urbanaut.app/partner/sikkawala"
+    },
+    "url": "https://urbanaut.app/spot/mehrauliap",
+    "keywords": [
       "URBANAUT"
     ]
   },
