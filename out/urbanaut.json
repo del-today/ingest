@@ -43,7 +43,7 @@
     "name": "Slow Burn - A 4 Course Drinking Experience",
     "description": "Tucked into a corner of Lodhi Colony, The Love Hotel is Delhi's best-kept secret \u2014 a 20-seat cocktail room that takes its cues from the love hotels of Japan. It's intimate without being intense, flirtatious without trying too hard.Slow Burn is a four-course cocktail tasting built for this room \u2014 but where most tasting menus put food at the centre, here the cocktails play hero.It begins the second you walk in with a welcome shot. From there, four cocktails unfold in sequence \u2014 each its own chapter, drawn from the same five-taste philosophy that powers The Love Hotel's acclaimed program. Every pour lands with a course of tapas alongside it.An evening where the spirit leads, and the plate follows. And with only twenty seats, the room stays intimate & exclusive.",
     "startDate": "2026-10-29T19:00:00+05:30",
-    "endDate": "2026-10-29T23:00:00+05:30",
+    "endDate": "2026-11-26T22:00:00+05:30",
     "location": {
       "@type": "Place",
       "address": "Main Market, 28, Lodhi Rd, Block 13, Lodi Colony, New Delhi, Delhi, 110003, India",
@@ -750,7 +750,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Diwali Soir\u00e9e",
-    "description": "The SWAG DIWALI SOIR\u00c9E is back with its second edition!This is a women only diwali partyy. Wear what you like and party like there's no tomorrow.Where - Foxtrail Hotel, Golf Course Road, Gurgaon (we have rooms for anyone who wants to stay)When - 31st October - 6:30 PM onwardsWhat\u2019s in storeUnlimited food and unlimited alcoholStyling station to get party-readyBedazzling station, to add sparkle to your lookTarot reader, for a peek at what\u2019s comingPhoto booth for all the picturesCard tables and more Diwali gamesA banger DJ keeping the dance floor packedBrand goodies to take home...and a lot more!Grab your spot before everyone else (and save while you\u2019re at it!). Mark your calendars for this women-only celebration that is festive, fabulous and unapologetically desi-chique. It\u2019s an evening you won\u2019t want to miss.The Community: At Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "description": "The SWAG DIWALI SOIR\u00c9E is back with its second edition!This is a women only diwali partyy. Wear what you like and party like there's no tomorrow.Where - Foxtrail Hotel, Golf Course Road, Gurgaon (we have rooms for anyone who wants to stay)When - 31st October - 6:30 PM onwardsWhat\u2019s in store:Unlimited food and unlimited alcoholBedazzling station, to add sparkle to your lookTarot reader, for a peek at what\u2019s comingPhoto booth for all the picturesCard tables and more Diwali gamesA banger DJ keeping the dance floor packedBrand goodies to take home...and a lot more!Grab your spot before everyone else (and save while you\u2019re at it!). Mark your calendars for this women-only celebration that is festive, fabulous and unapologetically desi-chique. It\u2019s an evening you won\u2019t want to miss.\ufeffThe Community: At Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
     "startDate": "2026-10-31T18:30:00+05:30",
     "endDate": "2026-10-31T23:59:00+05:30",
     "location": {
@@ -767,7 +767,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "2300.00",
+      "price": "1900.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -1423,6 +1423,41 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "GFT: November Edition in Mehrauli",
+    "description": "Grounds for Thought: Mehrauli, November 2026A Blue Tokai \u00d7 unLecture Series, Three Tuesday evenings. Three very different conversations.Grounds for Thought brings researchers, scientists, and thinkers out of their institutions and into rooms full of curious people, where the conversation goes somewhere a classroom rarely does. This November in Delhi moves from the hidden mathematics behind everyday intuitions to modern love, from caste and labour to the pleasures of horror cinema, from AI at the margins to the air Delhi breathes.3rd November: Awanish Pandey Is a Second Medical Opinion Always Reliable? The Hidden Maths Behind Every Decision Why does food at an expensive restaurant sometimes taste worse than food at a roadside dhaba? Why are the most attractive celebrities rarely the most talented, and vice versa? Awanish Pandey, Assistant Professor at IIT Delhi's Optics and Photonics Centre and a former researcher at CERN, argues that questions like these are already mathematics in disguise \u2014 and that some of our strongest intuitions about the world are built on nothing sturdier than a convincing pattern. No equations, no background required: just curiosity, and a healthy suspicion of things that seem obvious.17th November: Moggallan BhartiHow Does Caste Haunt the Dreams of Modern India and Its Workers? Caste in India doesn't stay confined to its \"seemingly societal concerns\" \u2014 it shapes who gets to labour, how that labour is valued, and what social standing comes attached to it. Moggallan Bharti, Assistant Professor at Ambedkar University's School of Development Studies and a researcher of Dalit politics, argues that the labour theory of value cannot be understood in India apart from the caste structure it's embedded in. This session traces how the unfinished project of Indian modernity has left the country without a sustained, pan-India anti-caste movement \u2014 and asks what an inclusive public sphere would actually require.24th November: Keshav Kumar Chaudhary AI for Antyodaya Most conversations about AI centre on innovation, productivity, and economic growth. Keshav Kumar Chaudhary, a youth advocate for digital justice and first-generation learner, asks a different question: what does AI look like from the position of someone still at the margins of India's digital transformation? Drawing on Gandhi's idea of Antyodaya \u2014 upliftment of the last person \u2014 this session moves from digital access to digital justice, tracing literacy, agency, dignity, and participation as the real tests of whether a technology serves the people furthest from power.",
+    "startDate": "2026-11-03T18:30:00+05:30",
+    "endDate": "2026-11-24T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "LSC, The Crescent, Plot No 1 to 7, Chatri Wala Kuan, Lado Sarai, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52461720000000000000",
+        "longitude": "77.19055720000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/gft-november-edition-in-mehrauli",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Raat ke afsane: Saheliz Walk",
     "description": "Saheliz Walk: Discover the Timeless Beauty of Lodhi Garden \ud83c\udf3fStep into Delhi's rich history with the Saheliz Walk, a special heritage walk exclusively for women through the iconic Lodhi Garden.Explore magnificent tombs, beautiful Indo-Islamic architecture, and centuries of fascinating stories as we journey through the Lodhi dynasty's legacy. From grand domed structures to hidden architectural details, every stop reveals a new chapter of Delhi\u2019s medieval past.Surrounded by lush greenery and historic monuments, this leisurely walk offers the perfect opportunity to connect with history, enjoy the outdoors, and share meaningful conversations with fellow women.Whether you're a history enthusiast, a photography lover, or simply looking for a refreshing cultural experience, join us for a morning of heritage, discovery, and sisterhood.Places Covered1. Mohammed Shah's Tomb2. Bara Gumbad3. Bara Gumbad Mosque4. Sheesh Gumbad5. Sikandar Lodi's Tomb6. Athpula Bridge6. Historic Garden LandscapesImportant Information1. Details of the heritage walk will be shared via email after ticket booking confirmation.2. The walk will be conducted in Hindi and English.3. Please wear comfortable walking shoes and carry drinking water.4. The route is easy-paced and suitable for participants of all age groups.5. In case of unavoidable circumstances such as adverse weather, government restrictions, or 6. unforeseen events, the walk may be rescheduled. Participants may attend another walk organised by the company within 30 days of the registered walk date.7. No refund policy applies.",
     "startDate": "2026-11-04T16:30:00+05:30",
@@ -1455,6 +1490,43 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Downstairs x GL: Diwali Salon",
+    "description": "Gully Labs brings the room. The Downstairs brings the table.What is a Diwali party without some cards? Join us for an intimate Diwali supper where the food goes off like fireworks. It starts with a Pomelo Patakha Golgappa and ends with a Miso White Chocolate Phuljhadi, yours to take home.In between: five playful courses, a curated drinks selection, and a hand of cards dealt between plates. No stakes, just a table where strangers become people you text tomorrow.Strictly 20 seats. Coming solo is welcome.",
+    "startDate": "2026-11-04T19:00:00+05:30",
+    "endDate": "2026-11-04T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "4720.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
+    },
+    "url": "https://urbanaut.app/spot/the-downstairs-x-gl-diwali-salon",
+    "keywords": [
+      "Food & drink",
       "Art & culture",
       "URBANAUT"
     ]
@@ -1684,6 +1756,41 @@
       "Live GIG",
       "Music",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "GFT: November Edition in Vasant Vihar",
+    "description": "Grounds for Thought: Vasant Vihar, November 2026A Blue Tokai \u00d7 unLecture Series, Three Thursday evenings. Three very different conversations.12th November: Palak ChananaLove Actually? Attachment Styles, Situationships & the Patterns We Keep Repeating. Why do you keep finding the same kind of person? Why is it so hard to say what you need, or to leave when you meant to, or to stop repeating a pattern you thought you'd already moved past? Palak Chanana, a counselling psychologist and neuro-queer affirmative therapist who founded UnTangle Yourself, draws on anonymised, composite themes from individual and couples counselling to explore how fear, expectation, and past experience quietly shape the way we connect. This isn't a session about finding the right partner or following relationship rules \u2014 it's an invitation to get curious about how you love, what you actually need, and what you keep repeating without noticing.19th November: Deborishi GogoiVisceral Pleasures of Viewing Horror Cinema You're gripping your pillow, heart racing, yelling \"don't go in there\" \u2014 and loving every second of it. For decades, film theory explained this through Freud: repression, the unconscious, hidden anxiety. Deborishi Gogoi, a PhD scholar at Shiv Nadar Institution of Eminence working on folk horror and the critique of ideology, argues that account misses the most important part \u2014 what watching horror actually feels like, moment by moment, in the body. Through the framing, sound, and editing rhythm of three recent horror films \u2014 Suspiria, Midsommar, and The Ugly Stepsister \u2014 this session builds the case that horror's pleasure isn't saved for the ending. It's built into the dread itself.26th November: Vasundhara BhojvaidBreathing Delhi: Can a City Hold Air? What does it mean to live in a city where the atmosphere itself feels like confinement? Vasundhara Bhojvaid, Associate Professor of Sociology at Shiv Nadar University, works with a concept she calls \"Hawa-laat\" \u2014 a play on hawalaat, a police lockup, and the physical jolt of Delhi's toxic air. Moving past ecological data into what she calls our \"aerial imaginations,\" this session asks how an invisible hazard like air pollution quietly reconfigures relationships, redraws urban space, and reshapes what survival means in a city that can no longer take its air for granted.",
+    "startDate": "2026-11-12T18:30:00+05:30",
+    "endDate": "2026-11-26T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "No 59, PVR Priya Complex, Basant Lok, Vasant Vihar, New Delhi, Delhi 110057, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55737140000000000000",
+        "longitude": "77.16439730000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "300.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/gft-november-edition-in-vasant-vihar",
+    "keywords": [
       "URBANAUT"
     ]
   },
