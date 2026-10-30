@@ -717,7 +717,7 @@
     "@type": "FoodEvent",
     "name": "LET THERE BE GRUNGE DISTILL with BRIGHTENDASH",
     "description": "LET THERE BE GRUNGE is specific to Depot 48 because Grunge Rock is niche in India. Depot 48 as a live music venue has always been on the lookout of Independent Indie bands which are not doing commercial film music and giving them a platform to showcase their original work.This show is actively aimed at promoting new & Original Grunge Music to the Rock & Metal Community & listeners in Delhi-NCR. For listeners of niche genres this is a perfect musical night for them to discover some new music.Formed in Delhi in 2013, Distill began when guitarist Sriram and bassist Abhijit reunited with drummer Neeraj and, later, vocalist Varun. Early songs like This War and Heat set the tone for their sound. Over the years, the band\u2019s music has evolved from raw riffs into a more refined blend of heavy grooves, ambient textures, funky basslines, and emotive vocals \u2014 the true \u201cdistillation\u201d of their diverse influences into a unique and powerful identity.BRIGHTENDASH is a  4-piece Grunge Rock band based out of New Delhi with Classic Rock. Alternative Rock & Prog Rock sensibiities. Founded by Vocalist, Rhythm Guitarist, Songwriter & Composer, Abhishek Hazarika in 2025. What began as his studio project, now features Rishav Raj on Bass, Yugansh Pawah on Lead Guitars and Manhar Sharma on Drums.The band was brought together by their mutual love for Grunge Music inspired by 90's acts like Soundgarden, Pearl Jam, Nirvana, Alice in Chains, Stone Temple Pilots and The Melvins.The self-titled debut album which was released in November 2024 and reflects their musical inspirations. Just like their musical heroes of the 90's, they are taking influences from the bands that came before them and making a sound that is unqiue and authentic.Their music has been featured on prominent online music magazines like Rolling Stone India, Indian Music Diaries, Extravaganza, The New Indian Express & The Hindu. Songs from their debut album have been played on Radio on Super Hits 93.5 Red FM Northeast Edit which airs in Shillong, Gangtok & Aizawl.",
-    "startDate": "2026-10-31T20:00:00+05:30",
+    "startDate": "2026-10-31T19:45:00+05:30",
     "endDate": "2026-10-31T22:00:00+05:30",
     "location": {
       "@type": "Place",
@@ -1122,6 +1122,42 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Pickleball Social",
+    "description": "Pickleball Social at Cafe Casa Dunes\ud83d\udcc5 1st Nov, 4 PM onwardsPickleball is the easiest sport to fall in love with, and the best way to meet people while you\u2019re at it.Come play rotating doubles, where you swap partners every round and end up playing with half the crowd. Never held a paddle? We\u2019ll get you playing in five minutes. Between games, we\u2019re adding a few surprises: throwback school games on the court, cornhole on the side, a live leaderboard, and a DJ keeping the energy up.Come solo or bring your people. All skill levels welcome.",
+    "startDate": "2026-11-01T16:00:00+05:30",
+    "endDate": "2026-11-01T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Cafe Casa Dunes, Bypass Road, Aerocity, Mahipalpur Extension, Vasant Kunj, New Delhi, Delhi 110037, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54440530000000000000",
+        "longitude": "77.13304289999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "199.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Cafe Casa Dunes",
+      "url": "https://urbanaut.app/partner/cafe-casa-dunes"
+    },
+    "url": "https://urbanaut.app/spot/pickleball-social",
+    "keywords": [
+      "Active",
       "URBANAUT"
     ]
   },
@@ -1643,44 +1679,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Haunted Walk: Purana Quila",
-    "description": "Ruhani Raatein: Haunted Walk at Purana QilaAs the sun sets behind Delhis ancient ramparts, join us for a moonlit journey through one of the city s oldest forts-Purana Qila, where history whispers and shadows linger.From ghostly legends to chilling ruins, this walk blends myth, mystery, and Mughal-era memories. Are the tales true? Were voices heard in the dark? Come find out for yourself, if you dare.Not just a walk-this is an experience that tingles your spine and stirs your soul.",
-    "startDate": "2026-11-07T16:00:00+05:30",
-    "endDate": "2026-11-07T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Mathura Rd, Near Delhi Zoo, J65V+RFH, Pragati Maidan, New Delhi, Delhi 110001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.60957440000000000000",
-        "longitude": "77.24373709999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "700.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Enroute Indian History",
-      "url": "https://urbanaut.app/partner/enrouteindianhistory"
-    },
-    "url": "https://urbanaut.app/spot/haunted-walk-purana-quila",
-    "keywords": [
-      "Adventure",
-      "Walking Tour",
-      "History & heritage",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Diwali House Party: Dress like a celebrity",
     "description": "Iss Diwali, ghar ki party mein glamour ka tadka!Shoshabaazi is bringing you a night of full-on desi drama, and the kind of Diwali party your filmy heart has been waiting for. \ud83d\udc83\ud83e\udea9Think blingy sarees, iconic Bollywood looks, dramatic sunglasses, celebrity-inspired fits, and main-character energy. Come dressed as your favourite celebrity or recreate an iconic filmi look because tonight, everyone\u2019s a star.Expect festive vibes, music, dancing, games, good food, new faces, and strangers turning into party friends. Think shaadi-level enthusiasm with house-party intimacy.\u2728 THE DETAILS\ud83d\udcc5 7 November 2026\u23f0 6 PM onwards\ud83d\udccd Janakpuri, Delhi\ud83d\udc57 DRESS CODE: DRESS LIKE A CELEBRITY",
@@ -1831,6 +1829,41 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Clearing the Smoke and Mirrors",
+    "description": "In late October, Mumbai's AQI crossed 320 while Delhi sat at 176, its cleanest reading for that date in a decade. So what does it mean when the capital is breathing easier than the coast?Not much, if you ask the people who study this. A single day's AQI is a weather report as much as a pollution report, and one clean week in Delhi is not a solved problem any more than one bad week in Mumbai is a new one. But the comparison is useful, because it puts pressure on the assumption most of us carry around: that this is a Delhi problem, caused by Delhi things, fixable by Delhi alone.We've all done the winter ritual. Complaining about the AQI, feeling what the air does to our lungs, sleep, skin and routines. Every year we're handed the same list of culprits: stubble burning, construction dust, industrial emissions, cars, trucks, garbage fires, landfills, brick kilns, diesel generators and, of course, the wind. The panels shout, the season passes, and by next November we're no clearer on which of these actually matters, or by how much.Atmospheric scientist Dr Mohammad Rafiuddin starts with the hand Delhi has been dealt: a landlocked city on the Indo-Gangetic Plain, hemmed in by the Himalayas, with winter air that sits still. It's a bad hand, but not a unique one, and if cities elsewhere with the same conditions have got their air under control, so can this one. From there we go sector by sector through what is actually in the air we breathe, which sources genuinely move the needle, and why the answer never stops at Delhi's border.The session explores:Why a daily AQI number tells you as much about the weather as about pollutionHow Delhi's geography and winter stillness trap what we put into the air, and why that isn't an excuseWhat's actually in the air, sector by sector: transport, biomass and solid-fuel burning, waste, dust, construction, industry and stubbleWhich sources matter most, by how much, and which solutions would genuinely cut emissions from eachAbout the SpeakerDr Mohammad Rafiuddin is an atmospheric scientist who once built a fog-forecasting system for Bengaluru airport, which means pilots have landed on his maths. He is now Programme Lead \u2013 Clean Air at CEEW, where he researches what Delhi's air is made of, how well the city can predict it, and why the answer never stops at Delhi's border. He holds a PhD in atmospheric sciences from the Jawaharlal Nehru Centre for Advanced Scientific Research, Bengaluru, a Post Graduate Diploma in Urban Environmental Management and Law from National Law University, and a BTech in mechanical engineering from Jawaharlal Nehru Technological University, Hyderabad.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-11-13T18:30:00+05:30",
+    "endDate": "2026-11-13T20:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Vasant Kunj Mall Rd T-306, Third Floor, Ambience Mall, 2, Nelson Mandela Marg, Ambience Island, Vasant Kunj II, Vasant Kunj, New Delhi, Delhi 110070, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54095240000000000000",
+        "longitude": "77.15509150000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "550.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/clearing-the-smoke-and-mirrors-17894",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Who Does the City Belong To?",
     "description": "Who Does the City Belong To?A conversation on public space and the lawYou have probably stood in front of a barricade this year. A road closed with no notice. A park gate locked at night. A station shut, a lane that used to be a shortcut now ending in a guard and a boom. Most of us have learned to route around it without thinking.But there\u2019s a question underneath that almost none of us can answer: what are we actually entitled to in a public space and what happens when that space is closed, fenced or policed?In this edition of The Human City Conversations, we\u2019ll ask what the Constitution actually gives us by way of a right to assemble and to protest. Whether a government can simply take a Jantar Mantar away. Whether there is such a thing as a right to walk in an Indian city, and who in Delhi really has it. And how much of what we call planning is in truth a question of who is expected to justify their presence in public, and who is not.It isn\u2019t a lecture, and it isn\u2019t a complaint session. It\u2019s an hour of conversation, in plain words, followed by your questions put directly to someone who has spent two decades arguing these things in court.About the guestMihira Sood is a lawyer and scholar in the field of women\u2019s rights, and practices at the Supreme Court of India and the Delhi High Court. She has taught at Jindal Global Law School and National Law University Delhi, and holds degrees from NALSAR University of Law, Hyderabad, and Columbia Law School, New York. She was among the youngest members to assist the Justice Verma Committee, whose recommendations reshaped India\u2019s criminal law on sexual violence. She writes and speaks widely on women\u2019s rights, feminist jurisprudence, equality law and civil liberties, and is a regular commentator in the national press. She has recently written a book Courting Equality which focusses on the Landmark Cases in the Battle for Women\u2019s Rights (Juggernaut) traces fifty years of the law\u2019s encounter with women\u2019s lives \u2014 from the anti-dowry agitations of the 1970s, through Shah Bano and the Uniform Civil Code debate, to the Nirbhaya movement and its continuing reverberations, and on to the present backlash against the supposed misuse of these very laws.Copies will be on sale at Kunzum on the evening, at 20% off.About the seriesThe Human City Conversations is the live edition of The Human City Podcast, hosted by Ruchita Bansal, which for the past year has asked how Indian cities are planned, built and experienced \u2014 and who they are built for. The podcast\u2019s questions, taken off the feed and into a room, in public, in Delhi.The detailsSunday 14 November 2026, 1 PM onwardsKunzum Books, GK-2, New DelhiLimited seats \u00b7 Tickets on Urbanaut",
     "startDate": "2026-11-14T13:00:00+05:30",
@@ -1859,6 +1892,41 @@
       "url": "https://urbanaut.app/partner/human-city-conversations"
     },
     "url": "https://urbanaut.app/spot/who-does-the-city-belong-to-17796",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Stories We Carry: Early Christian Practice and Pluralism in India",
+    "description": "About the LectureLong before the arrivals that dominate the popular account, Christianity had already taken root in the subcontinent and begun to evolve in conversation with everything around it. This lecture introduces that early history through the Southist Syrian Christians \u2014 also known as the Knanaya \u2014 and the folklore the community still practises and passes on today.Those songs, customs and inherited stories turn out to be a kind of archive. Read closely, they point to the plural worlds in which early Indian Christianity grew: the cultural encounters, the borrowings, the many different ways of belonging that shaped it. Dr Ann Susan Aleyas uses them to move us past the singular narratives that dominate contemporary discourse, towards something considerably more tangled and more interesting.The session explores:The early history of Christianity in the Indian subcontinent, and how much of it predates the familiar accountWho the Southist Syrian (Knanaya) Christians are, and what their folklore preservesHow living traditions carry history that written records often leave outWhat gets lost when a plural history is told as a single storyAbout the SpeakerDr Ann Susan Aleyas is an Assistant Professor in the Department of English at Jesus and Mary College, University of Delhi. She earned her PhD in English from Jamia Millia Islamia, where her research explored the intersections of Christianity in India and print modernity, and her interests also include women's studies and performance studies. With over nine years of teaching experience, she has taught at St. Stephen's College and at Jesus and Mary College, where she now holds a permanent faculty position. She has presented at national and international forums including Soka University in Japan, the Ireland India Institute at Dublin City University, Jamia Millia Islamia and the University of W\u00fcrzburg, and her publications include contributions to the Encyclopedia of Indian Religions, Studies in Humanities and Social Sciences and The Book Review. An avid reader, she has recently taken to sharing book reviews on Instagram, where she also showcases her love for sarees, and she is a trained Bharatanatyam dancer who hopes to return to her practice soon.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-11-14T15:00:00+05:30",
+    "endDate": "2026-11-14T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "550.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/stories-we-carry",
     "keywords": [
       "URBANAUT"
     ]
@@ -2014,6 +2082,41 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Simple Thinking to Leapfrog in Your Life",
+    "description": "About the LectureDoes complex thinking actually lead to better outcomes?We live in a world that equates complexity with intelligence. Faced with a difficult problem, our instinct is to add more: more information, more analysis, more process, until we arrive at a sophisticated solution. But more is not always better, and sometimes it gets in the way.Prof. Mukesh Sud explores a different way of approaching the challenges we face in our personal and professional lives. Through stories and real-world examples, he shows how stepping back, asking the right questions and looking at a problem with fresh eyes can reveal surprisingly simple paths forward.Simple thinking isn't about simplistic answers or ignoring complexity. It's about finding clarity amid chaos: identifying what truly matters, questioning assumptions, and focusing your energy on the problem that actually needs solving.The session explores:Why we instinctively reach for complexity, and when it works against usHow stepping back and asking the right questions can reveal simpler paths forwardThe difference between simple thinking and simplistic answersPractical ways to find clarity, question assumptions and focus on the problem that mattersAbout the SpeakerMukesh Sud is a former faculty member at IIM Ahmedabad and was previously an entrepreneur. A visiting fellow at the Judge Business School, Cambridge, he continues to teach at IIM Ahmedabad and Ashoka University. His books, including Leapfrog and Simple Thinking, are national bestsellers and have been translated into many languages.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-11-15T16:00:00+05:30",
+    "endDate": "2026-11-15T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "32nd avenue, Sector 15 Part 2, Sector 15, Gurugram, Haryana 122001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.46145160000000000000",
+        "longitude": "77.04983410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "550.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/simple-thinking-to-leapfrog-in-your-life",
+    "keywords": [
       "URBANAUT"
     ]
   },
@@ -2423,6 +2526,41 @@
       "Leisure",
       "Festival",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Public Tuition #2",
+    "description": "What is Public Tuition?We\u2019re getting the unLecture community together for a slow, cosy morning in the sun this November.The idea is pretty simple: everyone brings one thing they know how to do and teaches it to whoever wants to learn. Maybe you crochet, solve Sudoku ridiculously fast, know a few good yoga poses, write poetry, dance, sing, fold very complicated things out of paper \u2014 whatever. It doesn\u2019t have to be a \"serious\" skill, and you definitely don\u2019t have to be an \"expert\", just some passion and interest goes a long way.Come teach us something. Come learn something. Or just come hang out and meet some new, really cool people.We\u2019ll have a picnic-y setup, a potluck (bring something to eat and share), lots of sitting around and chatting, and a bunch of little lessons happening throughout the morning.The location is going to be an open public space in Delhi, and we\u2019ll share the exact spot with everyone who registers.A few things to know:Bring one skill you\u2019d like to share, big or smallCome ready to pick up a completely random new skill from someone elseBring something for the potluck if you canWear something comfortable and come prepared to sit on the grass ( Bonus if you can bring some extra mats for the group )No expertise required. Seriously.Entry is open to everyone. Just bring yourself, something to share, and a little curiosity.",
+    "startDate": "2026-11-29T14:00:00+05:30",
+    "endDate": "2026-11-29T16:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Lodhi Rd, Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59309590000000000000",
+        "longitude": "77.21967939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/public-tuition-2",
+    "keywords": [
       "URBANAUT"
     ]
   },
