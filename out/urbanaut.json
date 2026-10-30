@@ -4,7 +4,7 @@
     "@type": "Event",
     "name": "Kathika Cultural Experience",
     "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
-    "startDate": "2026-10-29T11:30:00+05:30",
+    "startDate": "2026-10-30T11:30:00+05:30",
     "endDate": "2026-10-31T14:00:00+05:30",
     "location": {
       "@type": "Place",
@@ -34,42 +34,6 @@
       "Music",
       "History & heritage",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Slow Burn - A 4 Course Drinking Experience",
-    "description": "Tucked into a corner of Lodhi Colony, The Love Hotel is Delhi's best-kept secret \u2014 a 20-seat cocktail room that takes its cues from the love hotels of Japan. It's intimate without being intense, flirtatious without trying too hard.Slow Burn is a four-course cocktail tasting built for this room \u2014 but where most tasting menus put food at the centre, here the cocktails play hero.It begins the second you walk in with a welcome shot. From there, four cocktails unfold in sequence \u2014 each its own chapter, drawn from the same five-taste philosophy that powers The Love Hotel's acclaimed program. Every pour lands with a course of tapas alongside it.An evening where the spirit leads, and the plate follows. And with only twenty seats, the room stays intimate & exclusive.",
-    "startDate": "2026-10-29T19:00:00+05:30",
-    "endDate": "2026-11-26T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Main Market, 28, Lodhi Rd, Block 13, Lodi Colony, New Delhi, Delhi, 110003, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.58474620000000000000",
-        "longitude": "77.22387390000002000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3200.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Love Hotel",
-      "url": "https://urbanaut.app/partner/the-love-hotel"
-    },
-    "url": "https://urbanaut.app/spot/slow-burn-martini-cocktail-tasting-menu",
-    "keywords": [
-      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -1562,6 +1526,42 @@
     "keywords": [
       "Food & drink",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Slow Burn - A 4 Course Drinking Experience",
+    "description": "Tucked into a corner of Lodhi Colony, The Love Hotel is Delhi's best-kept secret \u2014 a 20-seat cocktail room that takes its cues from the love hotels of Japan. It's intimate without being intense, flirtatious without trying too hard.Slow Burn is a four-course cocktail tasting built for this room \u2014 but where most tasting menus put food at the centre, here the cocktails play hero.It begins the second you walk in with a welcome shot. From there, four cocktails unfold in sequence \u2014 each its own chapter, drawn from the same five-taste philosophy that powers The Love Hotel's acclaimed program. Every pour lands with a course of tapas alongside it.An evening where the spirit leads, and the plate follows. And with only twenty seats, the room stays intimate & exclusive.",
+    "startDate": "2026-11-05T19:00:00+05:30",
+    "endDate": "2026-11-26T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Main Market, 28, Lodhi Rd, Block 13, Lodi Colony, New Delhi, Delhi, 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.58474620000000000000",
+        "longitude": "77.22387390000002000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3200.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Love Hotel",
+      "url": "https://urbanaut.app/partner/the-love-hotel"
+    },
+    "url": "https://urbanaut.app/spot/slow-burn-martini-cocktail-tasting-menu",
+    "keywords": [
+      "Food & drink",
       "URBANAUT"
     ]
   },
