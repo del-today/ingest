@@ -65,7 +65,7 @@
     "url": "https://www.knma.org/whats-on/exhibitions/inheritors-of-earth",
     "startDate": "2026-09-09T10:00:00+05:30",
     "endDate": "2026-12-22T18:00:00+05:30",
-    "description": "Installation",
+    "description": "Experiential",
     "location": {
       "@type": "Place",
       "name": "KNMA, New Delhi",
@@ -100,32 +100,12 @@
     ]
   },
   {
-    "@type": "ExhibitionEvent",
-    "name": "Nilima Sheikh: Fractured Skies",
-    "url": "https://www.knma.org/whats-on/exhibitions/nilima-sheikh-fractured-skies",
-    "startDate": "2026-09-27T10:00:00+05:30",
-    "endDate": "2027-06-13T18:00:00+05:30",
+    "@type": "Event",
+    "name": "Skipping Time",
+    "url": "https://www.knma.org/whats-on/events/skipping-time",
+    "startDate": "2026-11-13T10:00:00+05:30",
+    "endDate": "2026-11-13T10:00:00+05:30",
     "description": "",
-    "location": {
-      "@type": "Place",
-      "name": "The Museum of Modern Art",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "EducationEvent",
-    "name": "Dots and Lines",
-    "url": "https://www.knma.org/whats-on/workshops/dots-and-lines",
-    "startDate": "2026-10-31T10:00:00+05:30",
-    "endDate": "2026-10-31T10:00:00+05:30",
-    "description": "Artist in Me",
     "location": {
       "@type": "Place",
       "name": "KNMA, New Delhi",
@@ -140,12 +120,72 @@
     ]
   },
   {
-    "@type": "Event",
-    "name": "Skipping Time",
-    "url": "https://www.knma.org/whats-on/events/skipping-time",
+    "@type": "EducationEvent",
+    "name": "Anthotype Printmaking Workshop",
+    "url": "https://www.knma.org/whats-on/workshops/anthotype-printmaking-workshop",
     "startDate": "2026-11-13T10:00:00+05:30",
-    "endDate": "2026-11-13T10:00:00+05:30",
+    "endDate": "2026-11-14T18:00:00+05:30",
+    "description": "Methods",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Arboreal Intensive",
+    "url": "https://www.knma.org/whats-on/talks/arboreal-intensive",
+    "startDate": "2026-11-14T10:00:00+05:30",
+    "endDate": "2027-01-30T18:00:00+05:30",
     "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "MusicEvent",
+    "name": "The Forest and the Self",
+    "url": "https://www.knma.org/whats-on/events/the-forest-and-the-self",
+    "startDate": "2026-11-14T10:00:00+05:30",
+    "endDate": "2026-11-14T10:00:00+05:30",
+    "description": "Music",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Singing Oneness, Singing Kabir",
+    "url": "https://www.knma.org/whats-on/workshops/singing-oneness-singing-kabir",
+    "startDate": "2026-11-15T10:00:00+05:30",
+    "endDate": "2026-11-15T10:00:00+05:30",
+    "description": "Artist in Me",
     "location": {
       "@type": "Place",
       "name": "KNMA, New Delhi",

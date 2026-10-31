@@ -117,5 +117,39 @@
       "@type": "Organization",
       "name": "SomeArt"
     }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Angoor(1982)",
+    "url": "https://fillum.in/screening/6413",
+    "startDate": "2026-11-01T13:00:00+05:30",
+    "endDate": "2026-11-01T13:00:00+05:30",
+    "description": "As part of IIC Experience 2026. Free entry on first come first served basis. Open to all.",
+    "location": {
+      "@type": "Place",
+      "name": "C. D. Deshmukh Auditorium, India International Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "India International Centre"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "La Commune (Paris, 1871)(2003)",
+    "url": "https://fillum.in/screening/6428",
+    "startDate": "2026-11-01T15:00:00+05:30",
+    "endDate": "2026-11-01T15:00:00+05:30",
+    "description": "Part 2. Free Entry.",
+    "location": {
+      "@type": "Place",
+      "name": "Mool, South Ex, Delhi",
+      "address": "South Ex II, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Camera Commune"
+    }
   }
 ]

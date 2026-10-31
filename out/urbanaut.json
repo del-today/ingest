@@ -2,119 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Kathika Cultural Experience",
-    "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
-    "startDate": "2026-10-30T11:30:00+05:30",
-    "endDate": "2026-10-31T14:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.64610280000000000000",
-        "longitude": "77.22736410000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kathika Cultural Centre and Museum",
-      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
-    },
-    "url": "https://urbanaut.app/spot/kathika-cultural-experience-15616",
-    "keywords": [
-      "Music",
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Halloween Carnival 2026",
-    "description": "Step into a world where chaos meets celebration. Shellbeacon x Mitra Mesh bring you a 3-night immersive carnival experience in Hauz Khas Village. Expect eerie vibes, theatrical energy, and unforgettable nights under the stars.Dark. Mysterious. Seductive.A celebration of gothic aesthetics, moody music, deep house, underground energy, costumes, chaos, and carnival vibes. Expect creepy characters, wild dance floors, themed cocktails, and a crowd dressed to impress (or scare).Decadence meets drama with cabaret performances, vintage glamour, artistic expression, and bold energy inspired by 1920s Berlin.What to Expect:Themed d\u00e9cor & immersive ambianceLive DJs & curated musicSpecial Halloween cocktails & event menuCostume-friendly crowd & photo momentsRooftop forest vibes in the heart of HKVDress Code Recommended:Goth | Halloween Costumes | Vintage/CabaretThis isn\u2019t just a party.It\u2019s a 3-night escape into a different world.",
-    "startDate": "2026-10-30T12:00:00+05:30",
-    "endDate": "2026-11-01T23:55:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "ShellBeacon Patio Cafe, 3rd Floor, 1A/1, Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55470520000000000000",
-        "longitude": "77.19515770000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "300.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Wavelength",
-      "url": "https://urbanaut.app/partner/wavelength"
-    },
-    "url": "https://urbanaut.app/spot/halloween-carnival-2026",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "The Diwali Edit | Supperclub | SROT x Rosei Ghara",
-    "description": "The Diwali Edit | SupperclubSROT \u00d7 Rosei GharaThis festive season, SROT returns to Rosei Ghara for The Diwali Edit : a supperclub celebrating good food, thoughtful cooking and the joy of coming together around a table.Bringing together SROT's contemporary culinary approach and Rosei Ghara's love for the food traditions of Odisha, this collaboration explores familiar flavours through fresh perspectives. Expect a specially curated menu, playful interpretations, interesting ingredients and a few surprises along the way.With just 10 guests per service, the supperclub offers an opportunity to experience the menu up close, discover the stories behind the dishes and enjoy an afternoon or evening of festive feasting.Dates & Timings- 30 October, Friday: Dinner at 7:30 PM- 31 October, Saturday: Lunch at 12:30 PM | Dinner at 7:30 PM- 1 November, Sunday: Lunch at 12:30 PM | Dinner at 7:30 PMVenue: Rosei Ghara, Shahpur Jat, New DelhiFive services. Three days. One special Diwali Edit.Seats are limited, and reservations are essential. We look forward to welcoming you to our table!",
-    "startDate": "2026-10-30T19:30:00+05:30",
-    "endDate": "2026-11-01T21:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Shahpur Jat, Siri Fort, New Delhi, Delhi 110049, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54878510000000000000",
-        "longitude": "77.21596509999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2800.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Rosei Ghara",
-      "url": "https://urbanaut.app/partner/roseighara"
-    },
-    "url": "https://urbanaut.app/spot/the-diwali-edit-supperclub-srot-x-rosei-ghara",
-    "keywords": [
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Red Fort: The Making of Shahjahanabad",
     "description": "More than a royal residence, the Red Fort was the heart of Shahjahanabad.This walk explores the Red Fort as a carefully designed imperial world where architecture, ceremony, water and power came together to express the grandeur of the Mughal Empire. Participants journey through its surviving palaces, audience halls and gardens to understand how the emperor's authority was physically staged and experienced within the fort. From the public spectacle of the Diwan-i-Aam to the private elegance of the imperial apartments, every space reveals a different aspect of Mughal courtly life.The experience also explores the transformation of the fort across centuries, from the glory of Shah Jahan's reign to the changing political fortunes of the Mughal Empire and the events that reshaped its identity in the colonial period. Through architecture and storytelling, the walk reveals the Red Fort not simply as a monument, but as the centre of an imperial vision that once shaped the life and identity of an entire city.Detailed Flow of WalkIntroduction to Shah Jahan's decision to establish Shahjahanabad and the role of the Red Fort as the political and ceremonial heart of the new Mughal capital.Enter the fort and examine its strategic location, monumental architecture and relationship with the wider city of Shahjahanabad.Explore the Diwan-i-Aam and understand the rituals of Mughal kingship, public audiences and the carefully designed relationship between the emperor and his subjects.Visit the Diwan-i-Khas and examine the world of imperial privilege, courtly culture and the political symbolism expressed through its extraordinary architecture.Trace the Nahr-i-Bihisht, or Stream of Paradise, and understand the importance of water in Mughal architecture, garden design and ideas of paradise.Explore the imperial residential spaces and discuss the daily life, privacy and ceremonial practices of the Mughal court.Examine the architectural language of the Red Fort and understand how materials, ornamentation, gardens and water were brought together to create an idealised imperial landscape.Discuss the changing fortunes of the Mughal Empire and the transformation of the fort as imperial power gradually declined.Conclude with the later history and legacy of the Red Fort, reflecting on how a seventeenth-century imperial palace became one of the most powerful symbols of Delhi and India's historical memory.Key Themes & Highlights Shah Jahan and the making of ShahjahanabadMughal imperial architectureArchitecture of powerRoyal court and ceremonyDiwan-i-Aam and Diwan-i-KhasImperial palaces and private lifeWater architecture and the Nahr-i-BihishtMughal gardens and aestheticsDecline of Mughal powerTransformation of the Red Fort through history",
     "startDate": "2026-10-31T10:00:00+05:30",
@@ -184,6 +71,119 @@
     "url": "https://urbanaut.app/spot/entrepreneurship-workshop-for-students",
     "keywords": [
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Kathika Cultural Experience",
+    "description": "Join us at Kathika, a beautifully restored 19th-century Haveli turned Cultural Centre and Museum, for a morning steeped in the timeless charm of Old Delhi\u2019s history, culture and cuisine. This meticulously curated cultural experience offers an immersive journey into the living heritage of the walled city.",
+    "startDate": "2026-10-31T11:30:00+05:30",
+    "endDate": "2026-10-31T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "1237, Gali Khatikan, Imli Mohalla, Mohalla IMLI, Kucha Pati Ram, Sitaram Bazar, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.64610280000000000000",
+        "longitude": "77.22736410000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kathika Cultural Centre and Museum",
+      "url": "https://urbanaut.app/partner/kathika-cultural-centre-and-museum"
+    },
+    "url": "https://urbanaut.app/spot/kathika-cultural-experience-15616",
+    "keywords": [
+      "Music",
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Halloween Carnival 2026",
+    "description": "Step into a world where chaos meets celebration. Shellbeacon x Mitra Mesh bring you a 3-night immersive carnival experience in Hauz Khas Village. Expect eerie vibes, theatrical energy, and unforgettable nights under the stars.Dark. Mysterious. Seductive.A celebration of gothic aesthetics, moody music, deep house, underground energy, costumes, chaos, and carnival vibes. Expect creepy characters, wild dance floors, themed cocktails, and a crowd dressed to impress (or scare).Decadence meets drama with cabaret performances, vintage glamour, artistic expression, and bold energy inspired by 1920s Berlin.What to Expect:Themed d\u00e9cor & immersive ambianceLive DJs & curated musicSpecial Halloween cocktails & event menuCostume-friendly crowd & photo momentsRooftop forest vibes in the heart of HKVDress Code Recommended:Goth | Halloween Costumes | Vintage/CabaretThis isn\u2019t just a party.It\u2019s a 3-night escape into a different world.",
+    "startDate": "2026-10-31T12:00:00+05:30",
+    "endDate": "2026-11-01T23:55:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "ShellBeacon Patio Cafe, 3rd Floor, 1A/1, Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55470520000000000000",
+        "longitude": "77.19515770000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "300.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Wavelength",
+      "url": "https://urbanaut.app/partner/wavelength"
+    },
+    "url": "https://urbanaut.app/spot/halloween-carnival-2026",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Diwali Edit | Supperclub | SROT x Rosei Ghara",
+    "description": "The Diwali Edit | SupperclubSROT \u00d7 Rosei GharaThis festive season, SROT returns to Rosei Ghara for The Diwali Edit : a supperclub celebrating good food, thoughtful cooking and the joy of coming together around a table.Bringing together SROT's contemporary culinary approach and Rosei Ghara's love for the food traditions of Odisha, this collaboration explores familiar flavours through fresh perspectives. Expect a specially curated menu, playful interpretations, interesting ingredients and a few surprises along the way.With just 10 guests per service, the supperclub offers an opportunity to experience the menu up close, discover the stories behind the dishes and enjoy an afternoon or evening of festive feasting.Dates & Timings- 30 October, Friday: Dinner at 7:30 PM- 31 October, Saturday: Lunch at 12:30 PM | Dinner at 7:30 PM- 1 November, Sunday: Lunch at 12:30 PM | Dinner at 7:30 PMVenue: Rosei Ghara, Shahpur Jat, New DelhiFive services. Three days. One special Diwali Edit.Seats are limited, and reservations are essential. We look forward to welcoming you to our table!",
+    "startDate": "2026-10-31T12:30:00+05:30",
+    "endDate": "2026-11-01T21:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shahpur Jat, Siri Fort, New Delhi, Delhi 110049, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54878510000000000000",
+        "longitude": "77.21596509999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Rosei Ghara",
+      "url": "https://urbanaut.app/partner/roseighara"
+    },
+    "url": "https://urbanaut.app/spot/the-diwali-edit-supperclub-srot-x-rosei-ghara",
+    "keywords": [
+      "Pop-up Event",
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -2120,6 +2120,43 @@
       "Leisure",
       "Music",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Art of Holding Still",
+    "description": "Why does balancing on one leg become harder when our mind wanders? What happens to our breath when we hold a challenging posture? And why can staying still sometimes feel harder than moving?The Art of Holding Still is a 90-minute interactive workshop exploring the connection between body, breath, and mind through mindful movement, yoga, balance exercises, and simple reflections.Through accessible yoga asanas, breathwork, and engaging discussions, we\u2019ll explore how physical stillness can help us cultivate greater awareness, patience, and focus. Together, we\u2019ll discover what happens when we slow down, tune into our bodies, and learn to find balance even when our minds are elsewhere.Designed to be fun, welcoming, and meaningful, this experience is open to everyone, regardless of their yoga experience. Come as you are, move at your own pace, and discover the art of being present.",
+    "startDate": "2026-11-22T09:00:00+05:30",
+    "endDate": "2026-11-22T11:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "N - 4, N, Block Market, N Block, Greater Kailash I, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55685060000000000000",
+        "longitude": "77.23310790000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "899.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Greenr",
+      "url": "https://urbanaut.app/partner/greenr"
+    },
+    "url": "https://urbanaut.app/spot/the-art-of-holding-still",
+    "keywords": [
+      "Wellness",
+      "Active",
       "URBANAUT"
     ]
   },
