@@ -77,344 +77,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Halloween's Special walk in Mehrauli",
-    "description": "On Halloween this year, we walk around to gather some interesting spooky tales from history and this trail in Mehrauli happens to house the most intriguing ones of them all. Come ready for Halloween on this special spooky walk through some of history\u2019s most haunted tales and monuments, from a disappearing marriage procession to the love story of a jinn. Wear comfortable shoes and brace up your heart for some horror and fun!",
-    "startDate": "2026-10-31T17:00:00+05:30",
-    "endDate": "2026-10-31T19:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Anuvrat Marg, opposite Qutab Minar Metro Station, Christian Colony, Mehrauli, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52020410000000000000",
-        "longitude": "77.18767900000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "800.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Unzip Delhi",
-      "url": "https://urbanaut.app/partner/unzipdelhi"
-    },
-    "url": "https://urbanaut.app/spot/horrorwalk",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Wasl Ki Shaam - An Ode to Coke Studio",
-    "description": "Wasl Ki Shaam - An Ode to Coke StudioStep into an intimate, curated live music experience celebrating the timeless melodies and soulful sounds of Coke Studio.From Mujhse Pehli Si Mohabbat to Paar Chana De, from Ronay Na Diya to Faasle by Kaavish \u2014 we\u2019ve got it all.Expect soulful live renditions, familiar melodies, and an evening filled with music, nostalgia, and memories.Thoughtfully curated for a niche community of music lovers, Wasl Ki Shaam is an experience designed to be felt, not just heard.Date: October 31, 2026 | 5\u20137 PMLocation: South DelhiVenue details: The exact location will be shared with registered guests on WhatsApp once their booking is confirmed, preserving the intimacy and exclusivity of the experience.Come for the music. Stay for the feeling.",
-    "startDate": "2026-10-31T17:00:00+05:30",
-    "endDate": "2026-10-31T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "New Delhi, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.61392980000000000000",
-        "longitude": "77.20882820000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Wasl Ki Shaam",
-      "url": "https://urbanaut.app/partner/wasl-ki-shaam"
-    },
-    "url": "https://urbanaut.app/spot/wasl-ki-shaam",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Halloween Special: Make your Own Monster Pizza",
-    "description": "This Halloween, swap the tricks for some cheesy treats! \ud83d\udc7b\ud83c\udf55Join us for a fun, hands-on Halloween pizza-making workshop where you get to create your very own pizza. Get creative with your toppings, make a monster or a pumpkin, or something else altogether!Whether you're planning a fun outing with friends, a family activity, or a unique Halloween experience, this is the perfect way to celebrate the spooky season.What's in store?\ud83c\udf55 Make your own pizza from scratch with our guidance\ud83c\udf83 Get creative and have fun with your pizza toppings\ud83d\udc69\u200d\ud83c\udf73 Enjoy a hands-on, beginner-friendly experience\ud83d\ude0b Relish the pizza you create!Come hungry, bring your creativity, and get ready for a spooktacular, cheesy time!Book your spot and make this Halloween deliciously memorable! \ud83d\udc7b",
-    "startDate": "2026-10-31T17:30:00+05:30",
-    "endDate": "2026-10-31T18:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Shop No. 18,19,28, Ascott Ireo City Central, behind Jagdish Store, Alahawas, Sector 59, Gurugram, Haryana 122098, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.40815030000000000000",
-        "longitude": "77.10266890000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "943.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Joaah",
-      "url": "https://urbanaut.app/partner/joaah"
-    },
-    "url": "https://urbanaut.app/spot/halloween-special-make-your-own-monster-pizza",
-    "keywords": [
-      "Leisure",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The FishMarket #2",
-    "description": "A FishMarket isn't a lecture. It's a room full of concerned citizens trying to solve a problem together.This one is about something we all experience every single day, and almost never stop to actually diagnose.Moving through a city should be simple. And yet an ordinary journey on foot, by bicycle, motorcycle or car routinely becomes an exercise in negotiation. The footpath disappears into parking. The pedestrian steps onto the road. The rider squeezes through a gap that probably shouldn't exist. The car stops wherever space appears. Each decision seems reasonable to the person making it. Together, they produce confusion, delay, and risk.But here's what we rarely ask: is this actually about bad civic sense? Or is it about a street that was designed without ever considering how people actually use it?This FishMarket will investigate how everyday disorder is created across the entire street. We'll will diagnose situations. We'll ask who or what shapes them. And then we'll move from diagnosis to solutions, examining which responsibilities belong to citizens, drivers, vendors, planners and authorities, and what changes in behaviour, rules, or design could actually help.Come ready to observe, challenge easy assumptions, and propose a better way for everyone to share the city.",
-    "startDate": "2026-10-31T18:00:00+05:30",
-    "endDate": "2026-10-31T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Gate No. 1, Bahadur Shah Zafar Marg, inside Shaheedi park, Balmiki Basti, Vikram Nagar, New Delhi, Delhi, 110002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.63445520000000000000",
-        "longitude": "77.24131700000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "250.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/the-fishmarket-2",
-    "keywords": [
-      "Local",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Dilli Ki Diwali",
-    "description": "Dilli Wali Diwali: An Exclusive Tash BashWe\u2019re throwing an exclusive, curated sundown affair in Gurugram.EVERYONE IS INVITED!!! IT'S GOING TO BE THE BEST PARTY EVERRRRRRR!We are curating an intimate gathering featuring: Live Acoustic Jamming Session, Lots & Lots of Games, Unlimited Food & Soft Drinks, Dhol & Non-stop music, Nostalgic corner, Lantern Wishes under the sky, Photo Corner & what-not!!!Fuel: This event is BYOB (Bring Your Own Bottle).Dress Code: Ethnic WearDIWALI HAI, READY HO KE AANA TOH BANTA HAI!The Fine Print-This is an Exclusive Invite-Only event with only 40 Slots Available.Passes will be allocated on a first-come, first-served basis. Secure your spot now to avoid FOMO.When: 31 st October | Sundown OnwardsWhere: GurugramRSVP: 9718021515No prior Diwali knowledge required. Good vibes mandatory.",
-    "startDate": "2026-10-31T18:00:00+05:30",
-    "endDate": "2026-10-31T23:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "93FF+XM4, Dhumaspur, Gurugram, Haryana 122102, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.37488940000000000000",
-        "longitude": "77.07419510000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1999.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Tera Mera Safar",
-      "url": "https://urbanaut.app/partner/tera-mera-safar"
-    },
-    "url": "https://urbanaut.app/spot/jumme-ki-raat-dilli-ki-diwali",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Festival",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Diwali Soir\u00e9e",
-    "description": "The SWAG DIWALI SOIR\u00c9E is back with its second edition!This is a women only diwali partyy. Wear what you like and party like there's no tomorrow.Where - Foxtrail Hotel, Golf Course Road, Gurgaon (we have rooms for anyone who wants to stay)When - 31st October - 6:30 PM onwardsWhat\u2019s in store:Unlimited food and unlimited alcoholBedazzling station, to add sparkle to your lookTarot reader, for a peek at what\u2019s comingPhoto booth for all the picturesCard tables and more Diwali gamesA banger DJ keeping the dance floor packedBrand goodies to take home...and a lot more!Grab your spot before everyone else (and save while you\u2019re at it!). Mark your calendars for this women-only celebration that is festive, fabulous and unapologetically desi-chique. It\u2019s an evening you won\u2019t want to miss.\ufeffThe Community: At Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
-    "startDate": "2026-10-31T18:30:00+05:30",
-    "endDate": "2026-10-31T23:59:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Plot no 683P, Sector 42, Gurugram, Haryana 122009, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.46323050000000000000",
-        "longitude": "77.10075859999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1900.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/diwali-soiree",
-    "keywords": [
-      "Music",
-      "Festival",
-      "Pop-up Event",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "LET THERE BE GRUNGE DISTILL with BRIGHTENDASH",
-    "description": "LET THERE BE GRUNGE is specific to Depot 48 because Grunge Rock is niche in India. Depot 48 as a live music venue has always been on the lookout of Independent Indie bands which are not doing commercial film music and giving them a platform to showcase their original work.This show is actively aimed at promoting new & Original Grunge Music to the Rock & Metal Community & listeners in Delhi-NCR. For listeners of niche genres this is a perfect musical night for them to discover some new music.Formed in Delhi in 2013, Distill began when guitarist Sriram and bassist Abhijit reunited with drummer Neeraj and, later, vocalist Varun. Early songs like This War and Heat set the tone for their sound. Over the years, the band\u2019s music has evolved from raw riffs into a more refined blend of heavy grooves, ambient textures, funky basslines, and emotive vocals \u2014 the true \u201cdistillation\u201d of their diverse influences into a unique and powerful identity.BRIGHTENDASH is a  4-piece Grunge Rock band based out of New Delhi with Classic Rock. Alternative Rock & Prog Rock sensibiities. Founded by Vocalist, Rhythm Guitarist, Songwriter & Composer, Abhishek Hazarika in 2025. What began as his studio project, now features Rishav Raj on Bass, Yugansh Pawah on Lead Guitars and Manhar Sharma on Drums.The band was brought together by their mutual love for Grunge Music inspired by 90's acts like Soundgarden, Pearl Jam, Nirvana, Alice in Chains, Stone Temple Pilots and The Melvins.The self-titled debut album which was released in November 2024 and reflects their musical inspirations. Just like their musical heroes of the 90's, they are taking influences from the bands that came before them and making a sound that is unqiue and authentic.Their music has been featured on prominent online music magazines like Rolling Stone India, Indian Music Diaries, Extravaganza, The New Indian Express & The Hindu. Songs from their debut album have been played on Radio on Super Hits 93.5 Red FM Northeast Edit which airs in Shillong, Gangtok & Aizawl.",
-    "startDate": "2026-10-31T19:45:00+05:30",
-    "endDate": "2026-10-31T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53415570000000000000",
-        "longitude": "77.24300939999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Depot48",
-      "url": "https://urbanaut.app/partner/depot48"
-    },
-    "url": "https://urbanaut.app/spot/let-there-be-grunge-distill-with-brightendash",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Disco Diwali",
-    "description": "Night of celebration\u00a0",
-    "startDate": "2026-10-31T20:30:00+05:30",
-    "endDate": "2026-10-31T23:45:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54778550000000000000",
-        "longitude": "77.21136729999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Chor Bazar",
-      "url": "https://urbanaut.app/partner/chor-bazar"
-    },
-    "url": "https://urbanaut.app/spot/disco-diwali",
-    "keywords": [
-      "Music",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "MIRAYA",
-    "description": "Our university tradition of playing at depot 48 has been through the batches for years , People like Ashwin Shaji , Olive regan from pain protocol , Parikshit from beshaq performed there , We Miraya , formed a band 1.5 years before by college students trying to make it into the industry. Depot 48 is going to be a milestone for the journey.",
-    "startDate": "2026-10-31T22:00:00+05:30",
-    "endDate": "2026-10-31T23:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53415570000000000000",
-        "longitude": "77.24300939999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "349.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Depot48",
-      "url": "https://urbanaut.app/partner/depot48"
-    },
-    "url": "https://urbanaut.app/spot/miraya",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Human Ludo by The MIXTable",
     "description": "Human Ludo: On the Mega MatSame game. Bigger fun. This time, you\u2019re the pieces!Remember the excitement of playing Ludo as a kid? Now imagine stepping inside a giant Ludo board and becoming a real-life game piece yourself.Human Ludo by The MIXTable brings this classic board game to life with a larger-than-life playing mat, team strategy, friendly competition, unexpected twists, and plenty of laughter. Roll the dice, plan your moves, work with your team, and make your way home while taking on fun side quests along the way.Whether you enjoy games, love trying new experiences, or simply want to meet new people, this event offers a refreshing way to spend your Sunday morning. Come with friends or join solo and be part of an experience built around play, connection, and shared memories.What Your Registration Includes- Human Ludo Experience: Participate in a life-sized Ludo game with team strategy, friendly competition, and plenty of fun.- Fun Side Quests and Activities: Take on additional mini challenges and activities beyond the main game.- Complimentary Refreshment:** Enjoy a refreshing drink on us during the event.- Socialising and New Connections: Meet new people, interact with fellow participants, and enjoy a welcoming group environment.No prior gaming experience is required. Just bring your energy, enthusiasm, and willingness to have fun.Come for the game. Stay for the people. Leave with stories.",
     "startDate": "2026-11-01T07:30:00+05:30",
@@ -1892,6 +1554,44 @@
     },
     "url": "https://urbanaut.app/spot/body-language-speaks-louder-than-wordsthepianoman",
     "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "THE QUTUB CODE: Decode stories hidden in stone",
+    "description": "What if the Qutub Minar could tell you the story of Delhi?Step into the Qutub Complex and explore the layers of history, architecture, power and cultural exchange that shaped medieval Delhi. From the soaring Qutub Minar and the intricate Alai Darwaza to the ancient Iron Pillar and the ruins of the Quwwatu\u2019l-Islam Mosque, every stone reveals a different chapter.This is not just a walk around a monument. It is a journey through the making of Delhi- its rulers, ambitions, architectural experiments, conflicts, craftsmanship and forgotten stories.Come for the Qutub Minar. Stay for the stories hidden around it.",
+    "startDate": "2026-11-22T16:30:00+05:30",
+    "endDate": "2026-11-22T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "G5GQ+443, Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52526250000000000000",
+        "longitude": "77.18779690000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "350.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Riwayat Walks",
+      "url": "https://urbanaut.app/partner/riwayatwalks"
+    },
+    "url": "https://urbanaut.app/spot/the-qutub-code-decode-stories-hidden-in-stone",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
       "URBANAUT"
     ]
   },

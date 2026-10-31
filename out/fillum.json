@@ -1,40 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "Her Story(2024)",
-    "url": "https://fillum.in/screening/6439",
-    "startDate": "2026-10-31T19:30:00+05:30",
-    "endDate": "2026-10-31T19:30:00+05:30",
-    "description": "As part of DIFF Chinese Film Festival (30 - 31 October). Free entry.",
-    "location": {
-      "@type": "Place",
-      "name": "Films Division Auditorium, Mahadev Road",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Fillum"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Jurassic Park(1993)",
-    "url": "https://fillum.in/screening/6412",
-    "startDate": "2026-10-31T20:30:00+05:30",
-    "endDate": "2026-10-31T20:30:00+05:30",
-    "description": "As part of IIC Experience 2026. Free entry on first come first served basis. Open to all.",
-    "location": {
-      "@type": "Place",
-      "name": "C. D. Deshmukh Auditorium, India International Centre",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "India International Centre"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "The Wages of Fear(1953)",
     "url": "https://fillum.in/screening/6446",
     "startDate": "2026-11-01T12:10:00+05:30",
