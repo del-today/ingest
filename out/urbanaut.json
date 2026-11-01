@@ -1,82 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Halloween Carnival 2026",
-    "description": "Step into a world where chaos meets celebration. Shellbeacon x Mitra Mesh bring you a 3-night immersive carnival experience in Hauz Khas Village. Expect eerie vibes, theatrical energy, and unforgettable nights under the stars.Dark. Mysterious. Seductive.A celebration of gothic aesthetics, moody music, deep house, underground energy, costumes, chaos, and carnival vibes. Expect creepy characters, wild dance floors, themed cocktails, and a crowd dressed to impress (or scare).Decadence meets drama with cabaret performances, vintage glamour, artistic expression, and bold energy inspired by 1920s Berlin.What to Expect:Themed d\u00e9cor & immersive ambianceLive DJs & curated musicSpecial Halloween cocktails & event menuCostume-friendly crowd & photo momentsRooftop forest vibes in the heart of HKVDress Code Recommended:Goth | Halloween Costumes | Vintage/CabaretThis isn\u2019t just a party.It\u2019s a 3-night escape into a different world.",
-    "startDate": "2026-11-01T12:00:00+05:30",
-    "endDate": "2026-11-01T23:55:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "ShellBeacon Patio Cafe, 3rd Floor, 1A/1, Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55470520000000000000",
-        "longitude": "77.19515770000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "300.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Wavelength",
-      "url": "https://urbanaut.app/partner/wavelength"
-    },
-    "url": "https://urbanaut.app/spot/halloween-carnival-2026",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Mehfil-e-Ghazal With Tanushree",
-    "description": "Dr. Tanushree Kashyap Sharma is a Hindustani Classical vocalist and Ghazal artist, known for her soulful voice and expressive interpretation of poetry. A B-High Graded Artist of All India Radio, Gold Medalist in Hindustani Classical Vocal from the University of Delhi, and Ph.D. in Music from Kurukshetra University, she has performed extensively across India and internationally.Her repertoire beautifully bridges the depth of Hindustani music with the emotional world of Ghazal, bringing together timeless poetry, melody and contemporary sensibility.Why Depot 48:This performance is envisioned especially for Depot 48 because its intimate, contemporary live-music setting offers the perfect space to experience Ghazal beyond a traditional concert format \u2014 up close, relaxed and immersive. The show aims to introduce a younger, urban audience to the romance, poetry and timeless emotion of Ghazal, while presenting it in a setting that feels natural and accessible to today\u2019s listeners.",
-    "startDate": "2026-11-01T21:00:00+05:30",
-    "endDate": "2026-11-01T23:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53415570000000000000",
-        "longitude": "77.24300939999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Depot48",
-      "url": "https://urbanaut.app/partner/depot48"
-    },
-    "url": "https://urbanaut.app/spot/mehfil-e-ghazal-with-tanushree",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "GFT: November Edition in Mehrauli",
     "description": "Grounds for Thought: Mehrauli, November 2026A Blue Tokai \u00d7 unLecture Series, Three Tuesday evenings. Three very different conversations.Grounds for Thought brings researchers, scientists, and thinkers out of their institutions and into rooms full of curious people, where the conversation goes somewhere a classroom rarely does. This November in Delhi moves from the hidden mathematics behind everyday intuitions to modern love, from caste and labour to the pleasures of horror cinema, from AI at the margins to the air Delhi breathes.3rd November: Awanish Pandey Is a Second Medical Opinion Always Reliable? The Hidden Maths Behind Every Decision Why does food at an expensive restaurant sometimes taste worse than food at a roadside dhaba? Why are the most attractive celebrities rarely the most talented, and vice versa? Awanish Pandey, Assistant Professor at IIT Delhi's Optics and Photonics Centre and a former researcher at CERN, argues that questions like these are already mathematics in disguise \u2014 and that some of our strongest intuitions about the world are built on nothing sturdier than a convincing pattern. No equations, no background required: just curiosity, and a healthy suspicion of things that seem obvious.17th November: Moggallan BhartiHow Does Caste Haunt the Dreams of Modern India and Its Workers? Caste in India doesn't stay confined to its \"seemingly societal concerns\" \u2014 it shapes who gets to labour, how that labour is valued, and what social standing comes attached to it. Moggallan Bharti, Assistant Professor at Ambedkar University's School of Development Studies and a researcher of Dalit politics, argues that the labour theory of value cannot be understood in India apart from the caste structure it's embedded in. This session traces how the unfinished project of Indian modernity has left the country without a sustained, pan-India anti-caste movement \u2014 and asks what an inclusive public sphere would actually require.24th November: Keshav Kumar Chaudhary AI for Antyodaya Most conversations about AI centre on innovation, productivity, and economic growth. Keshav Kumar Chaudhary, a youth advocate for digital justice and first-generation learner, asks a different question: what does AI look like from the position of someone still at the margins of India's digital transformation? Drawing on Gandhi's idea of Antyodaya \u2014 upliftment of the last person \u2014 this session moves from digital access to digital justice, tracing literacy, agency, dignity, and participation as the real tests of whether a technology serves the people furthest from power.",
@@ -1335,8 +1259,8 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Supper Club: Prasadam",
-    "description": "We are opening registration for Prasadam, the first edition of my supper club.About Prasadam: If the sound of iconic temple prasadam like Chidambaram Goshtu, Kanchipuram Kovil Idli, Kollur Gassi, Bhoge'r Labra, Alagar Kovil Dosai, Annakoot Bajra khichadi ring a bell for you, you are at a right place.Prasadam offers an 11-course-menu of quintessential prasadam across iconic Indian temples, where some dishes are served in conventional style while others with a contemporary twist.Invitees: It is a humble invite-only gathering of individuals interested in relishing temple cuisine developed over centuries in the Indian Subcontinent, served as bhog/ prasadam in the temples of India.Of course, there would be conversations about the divine food, recipes, temples, travels, spirituality, art, culture and whatever the day offers.PS #1: We encourage people from all diversities to join. Scroll to the bottom to know more.Dates: Stretching the festivities season, the Supper club will be hosted over 28th and 29th November, inviting 10 guests on each day.PS #2: Go to the next page to know more about the host, motivation and the venue.About the Host:After a very brief training stint at IHM PUSA, Akansh has pursued his career in Academia, while managing his family business alongside. After completing his PhD in Economics from Institute of Management Indore, Akansh is engaged as Assistant Professor of Economics at OP Jindal Global University. Nevertheless, he has never missed an occasion to enter the kitchen and cook. Apart from putting up multiple food stalls across Delhi, Akansh has been hosting intimate gatherings of close friends since 2015. For the first time, he is opening his kitchen for like-minded individuals, passionate about not just food, but also recipes. In the Supper Club, we discuss not just the stories around what is on the plate, but also the economics, politics, and philosophy of it.The menu for the upcoming Supper Club Prasadam has been developed as a result of his extensive travels to temple towns across India, as well as relishing feasts at numerous festivities. The menu is eclectic, esoteric and served with traditional as well as avant-garde elegance. Full menu (almost keeping the room for surprises) will be disclosed upon request.Location: Tucked in a quaint green neighborhood in the interiors of Shalimar Bagh, Akansh will host you in his almost half a century old Indian Modernist house with flairs Vernacular Brutalism. Address: 63, BM Shalimar Bagh, Delhi-110088.",
+    "name": "Supper Club Edition: Prasadam",
+    "description": "We are opening registration for Prasadam, the first edition of my supper club.About Prasadam: If the sound of iconic temple prasadam like Chidambaram Goshtu, Kanchipuram Kovil Idli, Kollur Gassi, Bhoge'r Labra, Alagar Kovil Dosai, Annakoot Bajra khichadi ring a bell for you, you are at a right place.Prasadam offers an 11-course-menu of quintessential prasadam across iconic Indian temples, where some dishes are served in conventional style while others are served with a contemporary twist.Invitees: It is a humble invite-only gathering of individuals interested in relishing temple cuisine developed over centuries in the Indian Subcontinent, served as bhog/ prasadam in the temples of India.Of course, there would be conversations about the divine food, recipes, temples, travels, spirituality, art, culture and whatever the day offers. We encourage people from all diversities to join. Scroll to the bottom to know more.Dates: Stretching the festive season, the Supper Club will be hosted on 28th and 29th November, inviting 10 guests on each day.About the Host:After a very brief training stint at IHM PUSA, Akansh has pursued his career in Academia, while managing his family business alongside. After completing his PhD in Economics from the Indian Institute of Management Indore, Akansh is engaged as Assistant Professor of Economics at OP Jindal Global University.Nevertheless, he has never missed an occasion to enter the kitchen and cook. Apart from putting up multiple food stalls across Delhi, Akansh has been hosting intimate gatherings of close friends since 2015.For the first time, he is opening his kitchen for like-minded individuals, passionate about not just food, but also recipes. In the Supper Club, we discuss not just the stories around what is on the plate, but also the economics, politics, and philosophy of it.The menu for the upcoming Supper Club Prasadam has been developed as a result of his extensive travels to temple towns across India, as well as relishing feasts at numerous festivities. The menu is eclectic, esoteric, and served with traditional as well as avant-garde elegance. Full menu (almost keeping room for surprises) will be disclosed upon request.Location: Tucked in a quaint green neighborhood in the interiors of Shalimar Bagh, Akansh will host you in his almost half-a-century-old Indian Modernist house with flairs of Vernacular Brutalism.Address: 63, BM Shalimar Bagh, Delhi-110088.",
     "startDate": "2026-11-28T14:00:00+05:30",
     "endDate": "2026-11-29T16:00:00+05:30",
     "location": {
