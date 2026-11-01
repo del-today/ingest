@@ -2,72 +2,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Brace yourselves, Bangalore! The BIGGEST INDOOR METAL FESTIVAL of 2026 is back this December, uniting emerging homegrown talent with massive headliners from the subcontinent.  Slaughterfe",
-      "endDate": "2026-12-05T12:30:00",
-      "identifier": "com.skillboxes.42924",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/c3N4V09TQy9TNWNzY2wvektOZXM5QT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1793445006XjeAtRCvhzsz3SXI.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "763, 100 Feet Rd, HAL 2nd Stage, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560008, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9711178",
-            "longitude": "77.6410673"
-         },
-         "name": "The Humming Tree"
-      },
-      "name": "SLAUGHTERFEST 2026",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 20,
-            "name": "Early Birds",
-            "url": "https://www.skillboxes.com/events/ticket/slaughterfest-2026-sbysvfxs"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GA Phase 1\n",
-            "inventoryLevel": 80,
-            "name": "GA Phase 1",
-            "url": "https://www.skillboxes.com/events/ticket/slaughterfest-2026-sbysvfxs"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GA Phase 2\n",
-            "inventoryLevel": 80,
-            "name": "GA Phase 2",
-            "url": "https://www.skillboxes.com/events/ticket/slaughterfest-2026-sbysvfxs"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Buddy pass - Phase 1\n",
-            "inventoryLevel": 25,
-            "name": "Buddy pass - Phase 1",
-            "url": "https://www.skillboxes.com/events/ticket/slaughterfest-2026-sbysvfxs"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Buddy pass - Phase 2\n",
-            "inventoryLevel": 25,
-            "name": "Buddy pass - Phase 2",
-            "url": "https://www.skillboxes.com/events/ticket/slaughterfest-2026-sbysvfxs"
-         }
-      ],
-      "startDate": "2026-12-05T05:00:00",
-      "url": "https://www.skillboxes.com/events/slaughterfest-2026-sbysvfxs"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "The Raghu Dixit Trio play 2 Pints on Saturday 7 November, from 8 pm.Raghu Dixit · Sanjay Kumar · Akshay Ganesh — three musicians, Indian folk, and a set built out of songs most of t",
       "endDate": "2026-11-07T23:59:00",
       "identifier": "com.skillboxes.42863",
@@ -232,8 +166,8 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Arsenal FC VS Liverpool FC | Watson’s Indiranagar, Bangalore.Date -   1st November  ",
-      "endDate": "2026-11-01T23:59:00",
+      "description": "Arsenal FC VS Liverpool FC | Watson’s Indiranagar, Bangalore.\r\n\r\n \r\n\r\nDate -   1st November  | Sunday.\r\n\r\nTimings - 10:30 PM \r\n\r\nVenue",
+      "endDate": "2026-11-02T12:00:00",
       "identifier": "com.skillboxes.42652",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/THJuaWlqbVNUQkVJNndwTFJzYWtxUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1792767859U37Bbma8ZdXnQDSG.jpg.webp",
       "isAccessibleForFree": false,
@@ -342,7 +276,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "An additional cover of INR 500 applicable at the door, fully redeemable against Food and Beverage.\n",
-            "inventoryLevel": 394,
+            "inventoryLevel": 391,
             "name": "General",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesday-rohan-raveesh-live-aamir-rizvi-sbunfpfz"
          }
@@ -377,14 +311,14 @@
             "@type": "Offer",
             "availability": "InStock",
             "inventoryLevel": 1000,
-            "name": "Phase 1 Single Pass",
+            "name": "Phase 2 Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/brew-re-ignited-bengaluru-sbkmuzfe"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
             "inventoryLevel": 1000,
-            "name": "Phase 1 Group of 3 Pass",
+            "name": "Phase 2 Group of 3 Pass",
             "url": "https://www.skillboxes.com/events/ticket/brew-re-ignited-bengaluru-sbkmuzfe"
          },
          {
@@ -398,7 +332,14 @@
             "@type": "Offer",
             "availability": "InStock",
             "inventoryLevel": 1000,
-            "name": "Early Bird Group of 3",
+            "name": "Phase 1 Single Pass",
+            "url": "https://www.skillboxes.com/events/ticket/brew-re-ignited-bengaluru-sbkmuzfe"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Phase 1 Group of 3 Pass",
             "url": "https://www.skillboxes.com/events/ticket/brew-re-ignited-bengaluru-sbkmuzfe"
          }
       ],
@@ -432,7 +373,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Early Bird - Donor Pass\n",
-            "inventoryLevel": 337,
+            "inventoryLevel": 335,
             "name": "Single Ticket",
             "url": "https://www.skillboxes.com/events/ticket/the-time-machine-a-musical-evening-sbhmaspq"
          },
@@ -440,7 +381,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Donor Pass\n",
-            "inventoryLevel": 147,
+            "inventoryLevel": 145,
             "name": "Single Ticket",
             "url": "https://www.skillboxes.com/events/ticket/the-time-machine-a-musical-evening-sbhmaspq"
          },
