@@ -1,193 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Halloween Carnival 2026",
-    "description": "Step into a world where chaos meets celebration. Shellbeacon x Mitra Mesh bring you a 3-night immersive carnival experience in Hauz Khas Village. Expect eerie vibes, theatrical energy, and unforgettable nights under the stars.Dark. Mysterious. Seductive.A celebration of gothic aesthetics, moody music, deep house, underground energy, costumes, chaos, and carnival vibes. Expect creepy characters, wild dance floors, themed cocktails, and a crowd dressed to impress (or scare).Decadence meets drama with cabaret performances, vintage glamour, artistic expression, and bold energy inspired by 1920s Berlin.What to Expect:Themed d\u00e9cor & immersive ambianceLive DJs & curated musicSpecial Halloween cocktails & event menuCostume-friendly crowd & photo momentsRooftop forest vibes in the heart of HKVDress Code Recommended:Goth | Halloween Costumes | Vintage/CabaretThis isn\u2019t just a party.It\u2019s a 3-night escape into a different world.",
-    "startDate": "2026-10-31T12:00:00+05:30",
-    "endDate": "2026-11-01T23:55:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "ShellBeacon Patio Cafe, 3rd Floor, 1A/1, Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55470520000000000000",
-        "longitude": "77.19515770000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "300.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Wavelength",
-      "url": "https://urbanaut.app/partner/wavelength"
-    },
-    "url": "https://urbanaut.app/spot/halloween-carnival-2026",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "The Diwali Edit | Supperclub | SROT x Rosei Ghara",
-    "description": "The Diwali Edit | SupperclubSROT \u00d7 Rosei GharaThis festive season, SROT returns to Rosei Ghara for The Diwali Edit : a supperclub celebrating good food, thoughtful cooking and the joy of coming together around a table.Bringing together SROT's contemporary culinary approach and Rosei Ghara's love for the food traditions of Odisha, this collaboration explores familiar flavours through fresh perspectives. Expect a specially curated menu, playful interpretations, interesting ingredients and a few surprises along the way.With just 10 guests per service, the supperclub offers an opportunity to experience the menu up close, discover the stories behind the dishes and enjoy an afternoon or evening of festive feasting.Dates & Timings- 30 October, Friday: Dinner at 7:30 PM- 31 October, Saturday: Lunch at 12:30 PM | Dinner at 7:30 PM- 1 November, Sunday: Lunch at 12:30 PM | Dinner at 7:30 PMVenue: Rosei Ghara, Shahpur Jat, New DelhiFive services. Three days. One special Diwali Edit.Seats are limited, and reservations are essential. We look forward to welcoming you to our table!",
-    "startDate": "2026-10-31T12:30:00+05:30",
-    "endDate": "2026-11-01T21:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Shahpur Jat, Siri Fort, New Delhi, Delhi 110049, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54878510000000000000",
-        "longitude": "77.21596509999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2800.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Rosei Ghara",
-      "url": "https://urbanaut.app/partner/roseighara"
-    },
-    "url": "https://urbanaut.app/spot/the-diwali-edit-supperclub-srot-x-rosei-ghara",
-    "keywords": [
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Human Ludo by The MIXTable",
-    "description": "Human Ludo: On the Mega MatSame game. Bigger fun. This time, you\u2019re the pieces!Remember the excitement of playing Ludo as a kid? Now imagine stepping inside a giant Ludo board and becoming a real-life game piece yourself.Human Ludo by The MIXTable brings this classic board game to life with a larger-than-life playing mat, team strategy, friendly competition, unexpected twists, and plenty of laughter. Roll the dice, plan your moves, work with your team, and make your way home while taking on fun side quests along the way.Whether you enjoy games, love trying new experiences, or simply want to meet new people, this event offers a refreshing way to spend your Sunday morning. Come with friends or join solo and be part of an experience built around play, connection, and shared memories.What Your Registration Includes- Human Ludo Experience: Participate in a life-sized Ludo game with team strategy, friendly competition, and plenty of fun.- Fun Side Quests and Activities: Take on additional mini challenges and activities beyond the main game.- Complimentary Refreshment:** Enjoy a refreshing drink on us during the event.- Socialising and New Connections: Meet new people, interact with fellow participants, and enjoy a welcoming group environment.No prior gaming experience is required. Just bring your energy, enthusiasm, and willingness to have fun.Come for the game. Stay for the people. Leave with stories.",
-    "startDate": "2026-11-01T07:30:00+05:30",
-    "endDate": "2026-11-01T09:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "H6R8+WM2, Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59225260000000000000",
-        "longitude": "77.21664779999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "300.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The MIXTable",
-      "url": "https://urbanaut.app/partner/the-mixtable"
-    },
-    "url": "https://urbanaut.app/spot/human-ludo",
-    "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Lodhi Garden Heritage Walk",
-    "description": "Beneath Lodhi Garden's green landscape lies the memory of a turbulent period in the history of the Delhi Sultanate. Scattered across the gardens are magnificent tombs and monuments belonging to the Sayyid and Lodi periods, preserving a fascinating chapter of political transition, architectural experimentation and changing ideas of power.This walk explores Lodhi Gardens as more than a collection of beautiful monuments. Participants trace the evolution of tomb architecture from the Sayyid dynasty to the Lodi period, examining how changing political ambitions were expressed through domes, arches, ornamentation and carefully planned spaces. From the tomb of Muhammad Shah, with its distinctive octagonal form, to the enclosed garden tomb of Sikandar Lodi, the landscape reveals important developments in the history of Indo-Islamic architecture.The walk also explores monuments such as Bara Gumbad, Shish Gumbad and Athpula, uncovering their architectural significance and the stories surrounding them. Through tombs, gardens and forgotten structures, the experience reveals how Lodhi Gardens preserves the transition between the Delhi Sultanate and the world that would eventually give rise to Mughal Delhi.Detailed Flow of WalkIntroduction to Lodhi Gardens and the political landscape of fifteenth-century Delhi, when the Sayyid and Lodi dynasties ruled during the final centuries of the Delhi Sultanate.Visit Muhammad Shah's Tomb and examine its distinctive octagonal plan, architectural features and place within the evolution of Indo-Islamic funerary architecture.Explore the tomb of Sikandar Lodi and understand the changing relationship between tomb architecture, gardens and ideas of paradise. Discuss the reign of Sikandar Lodhi.Visit Bara Gumbad and examine its monumental architecture, discussing the purpose and architectural significance of the structure and its relationship with the adjoining mosque.Explore the mosque and surrounding structures, observing the development of arches, domes, decorative elements and spatial design during the Lodi period.Visit Shish Gumbad and discuss its distinctive ornamentation, architectural form and the continuing mystery surrounding the identities of those buried within.Walk through the wider landscape of Lodhi Gardens, understanding how these scattered monuments once existed within a historical landscape very different from the modern public garden seen today.Visit Athpula and explore its history and architectural significance, while discussing the importance of bridges, water and movement within Delhi's historic landscapes.Conclude with a discussion on the legacy of Sayyid and Lodi architecture and how the experiments of the Delhi Sultanate helped create architectural traditions that would later be transformed under the Mughals.",
-    "startDate": "2026-11-01T08:00:00+05:30",
-    "endDate": "2026-11-01T11:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Lodhi Rd, Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.59309590000000000000",
-        "longitude": "77.21967939999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "800.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Trip Warden",
-      "url": "https://urbanaut.app/partner/trip-warden"
-    },
-    "url": "https://urbanaut.app/spot/lodhi-garden-heritage-walk",
-    "keywords": [
-      "Local",
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Mehrauli Heritage Walk- Ruins and Breakfast",
-    "description": "Join \"A City Within a City,\" a 2-hour Mehrauli heritage walk on Nov 1, 2026 (8:00-10:00 AM), tracing Delhi's oldest neighborhood from Bhool Bhulaiyya's Mughal maze through bazaar lanes, Sita Ram Sweets' history, 7 city tales, to Mehrauli Park's tombs and stepwells.Expect architect-led insights into 1,000 years of architecture, Sufi lore, and living culture over 2 km \u2013 immersive stories, photo stops, no crowds. Easy stroll for 20-30 culture enthusiasts; ends with a complimentary breakfast.Perfect for urban explorers seeking Delhi's layered roots.\u00a0",
-    "startDate": "2026-11-01T08:00:00+05:30",
-    "endDate": "2026-11-01T10:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Anuvrat Marg, opposite Qutab Minar Metro Station, Christian Colony, Mehrauli, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52020410000000000000",
-        "longitude": "77.18767900000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Riwayat Walks",
-      "url": "https://urbanaut.app/partner/riwayatwalks"
-    },
-    "url": "https://urbanaut.app/spot/mehraulibreakfast",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Diwali PopUp",
     "description": "FAB2VOGUE POP-UP | Fabrics \u2022 Jewellery \u2022 Festive FindsStep into a world of beautiful fabrics and statement jewellery at the Fab2Vogue Pop-Up at Greenr!Explore a thoughtfully curated collection of premium fabrics, from vibrant cotton prints and elegant rayon to flowy viscose, linen, cambric, embroidery and more. Whether you\u2019re dreaming up a bespoke outfit, refreshing your wardrobe or looking for inspiration for your next creation, discover fabrics for every style and occasion.Complete your look with a beautiful edit of semi-precious, contemporary fashion and festive jewellery from everyday elegance to statement pieces that add just the right sparkle to your celebrations.Whether you\u2019re a fashion enthusiast, a designer, a fabric lover or simply looking for something special, come browse, discover and find pieces that speak to your personal style.Date: 1 November 2026Time: 10 AM \u2013 7 PMVenue: GreenrCome for the fabrics, stay for the sparkle.\u00a0Discover your next favourite find at Fab2Vogue!",
@@ -296,6 +109,81 @@
     "keywords": [
       "Workshop",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Halloween Carnival 2026",
+    "description": "Step into a world where chaos meets celebration. Shellbeacon x Mitra Mesh bring you a 3-night immersive carnival experience in Hauz Khas Village. Expect eerie vibes, theatrical energy, and unforgettable nights under the stars.Dark. Mysterious. Seductive.A celebration of gothic aesthetics, moody music, deep house, underground energy, costumes, chaos, and carnival vibes. Expect creepy characters, wild dance floors, themed cocktails, and a crowd dressed to impress (or scare).Decadence meets drama with cabaret performances, vintage glamour, artistic expression, and bold energy inspired by 1920s Berlin.What to Expect:Themed d\u00e9cor & immersive ambianceLive DJs & curated musicSpecial Halloween cocktails & event menuCostume-friendly crowd & photo momentsRooftop forest vibes in the heart of HKVDress Code Recommended:Goth | Halloween Costumes | Vintage/CabaretThis isn\u2019t just a party.It\u2019s a 3-night escape into a different world.",
+    "startDate": "2026-11-01T12:00:00+05:30",
+    "endDate": "2026-11-01T23:55:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "ShellBeacon Patio Cafe, 3rd Floor, 1A/1, Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55470520000000000000",
+        "longitude": "77.19515770000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "300.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Wavelength",
+      "url": "https://urbanaut.app/partner/wavelength"
+    },
+    "url": "https://urbanaut.app/spot/halloween-carnival-2026",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Diwali Edit | Supperclub | SROT x Rosei Ghara",
+    "description": "The Diwali Edit | SupperclubSROT \u00d7 Rosei GharaThis festive season, SROT returns to Rosei Ghara for The Diwali Edit : a supperclub celebrating good food, thoughtful cooking and the joy of coming together around a table.Bringing together SROT's contemporary culinary approach and Rosei Ghara's love for the food traditions of Odisha, this collaboration explores familiar flavours through fresh perspectives. Expect a specially curated menu, playful interpretations, interesting ingredients and a few surprises along the way.With just 10 guests per service, the supperclub offers an opportunity to experience the menu up close, discover the stories behind the dishes and enjoy an afternoon or evening of festive feasting.Dates & Timings- 30 October, Friday: Dinner at 7:30 PM- 31 October, Saturday: Lunch at 12:30 PM | Dinner at 7:30 PM- 1 November, Sunday: Lunch at 12:30 PM | Dinner at 7:30 PMVenue: Rosei Ghara, Shahpur Jat, New DelhiFive services. Three days. One special Diwali Edit.Seats are limited, and reservations are essential. We look forward to welcoming you to our table!",
+    "startDate": "2026-11-01T12:30:00+05:30",
+    "endDate": "2026-11-01T21:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shahpur Jat, Siri Fort, New Delhi, Delhi 110049, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54878510000000000000",
+        "longitude": "77.21596509999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Rosei Ghara",
+      "url": "https://urbanaut.app/partner/roseighara"
+    },
+    "url": "https://urbanaut.app/spot/the-diwali-edit-supperclub-srot-x-rosei-ghara",
+    "keywords": [
+      "Pop-up Event",
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -775,6 +663,43 @@
     "keywords": [
       "Food & drink",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Afterdark ki Diwali",
+    "description": "This Diwali, swap the usual plans for a night full of Bollywood beats, festive fun, and new connections! Get ready for AfterDark Ki Diwali by The MIXTable, where the spirit of Diwali meets the excitement of an unforgettable evening out.From dancing to your favourite Bollywood tracks to trying your luck at the poker corner, joining in on fun games and Tambola, there's plenty to keep the night exciting. Dress up in your festive best, enjoy some Diwali sweets, and get ready for an evening filled with laughter, friendly competition, and festive surprises.What's waiting for you?- Bollywood DJ and music- Poker corner- Fun games and Tambola- Best-dressed prizes- One complimentary drink- Diwali sweets- 15% off on foodComing solo or bringing your gang?Either way, there's a place for you! Come celebrate, unwind, meet new people, and experience Diwali with a fun twist at AfterDark Ki Diwali.Dress up, show up, and let the festive madness begin with The MIXTable!",
+    "startDate": "2026-11-05T18:00:00+05:30",
+    "endDate": "2026-11-05T23:58:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "ShellBeacon Patio Cafe, 3rd Floor, 1A/1, Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55470520000000000000",
+        "longitude": "77.19515770000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "899.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The MIXTable",
+      "url": "https://urbanaut.app/partner/the-mixtable"
+    },
+    "url": "https://urbanaut.app/spot/afterdark-ki-diwali",
+    "keywords": [
+      "Music",
+      "Festival",
       "URBANAUT"
     ]
   },
