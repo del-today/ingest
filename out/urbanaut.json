@@ -783,6 +783,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "THE CORE - A Movement & Wellness Event",
+    "description": "Come for the movement. Stay for the experience.A women's only event, the Core Live takes The Core's signature 3-2-1 Method off the screen and into the room: Strength, Pilates and Breathwork, led by Issa, The Core's Head of Movement, flying in from London for these sessions. A rare chance to train with her, followed by experiences that stay with you long after class ends.MOVE: 45 minutes of Strength \u00d7 Pilates with Issa. A full-body session built on the 3-2-1 Method, with every movement adapted to where you are today.RECOVER: Red light therapy and a sauna experience to help your body recover after training. Bring a change of clothes if you would like to try it.GLOW: An interactive beauty experience with Gunam. Hands-on skin rituals and expert tips you can take straight into your own routine.NOURISH:  A gut-friendly food experience built around The Core Nourish philosophy, made to refuel you after the session.WHAT TO BRING: Just be there, and take back something truly special. Mat, water and equipment is provided.Spots are limited.",
+    "startDate": "2026-11-19T09:00:00+05:30",
+    "endDate": "2026-11-19T12:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Farm 5A, Osho Dr, Westend DLF Chattarpur Farms, DLF Farms, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.48187500000000000000",
+        "longitude": "77.15321999999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Core",
+      "url": "https://urbanaut.app/partner/the-core"
+    },
+    "url": "https://urbanaut.app/spot/the-core-a-movement-wellness-event-17933",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "The Plane Story: The Aerodynamics of Flight",
     "description": "About the LectureHow Does a Plane Fly? Join us for a lecture by someone who does it for a living:Most of us have spent a flight staring out of the window with a vague memory of something about air moving faster over the top of the wing. Capt. Soham has spent eleven years on the other side of the flight deck door, and he's here to do the explanation properly \u2014 the real physics of how an aircraft flies, in terms that don't require a degree to follow.From there we go into the part passengers never see: what is actually happening in the flight deck during approach and landing, the busiest and most choreographed minutes of any flight. And then the questions he gets asked every time someone visits the cockpit \u2014 the trivia, the myths, the things people are nervous about \u2014 with plenty of room for yours.Stay back afterwards if you'd like to try your hand at a flight simulator.The session explores:The physics of flight, explained by someone who uses it rather than teaches itWhat actually happens in the flight deck during approach and landingThe questions pilots get asked most, and the honest answersAn open Q&A, and a flight simulator to try after the sessionAbout the SpeakerCapt. Soham was born and raised in Delhi and schooled at Modern School, Barakhamba Road, before training as a pilot at IGRUA. He has been flying commercially for an Indian airline for over eleven years and is currently a Senior Captain on the Airbus A320 family.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
@@ -1298,7 +1336,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Supper Club Edition: Prasadam",
-    "description": "We are opening registration for Prasadam, the first edition of my supper club.About Prasadam: If the sound of iconic temple prasadam like Chidambaram Goshtu, Kanchipuram Kovil Idli, Kollur Gassi, Bhoge'r Labra, Alagar Kovil Dosai, Annakoot Bajra khichadi ring a bell for you, you are at a right place.Prasadam offers an 11-course-menu of quintessential prasadam across iconic Indian temples, where some dishes are served in conventional style while others are served with a contemporary twist.Invitees: It is a humble invite-only gathering of individuals interested in relishing temple cuisine developed over centuries in the Indian Subcontinent, served as bhog/ prasadam in the temples of India.Of course, there would be conversations about the divine food, recipes, temples, travels, spirituality, art, culture and whatever the day offers. We encourage people from all diversities to join. Scroll to the bottom to know more.Dates: Stretching the festive season, the Supper Club will be hosted on 28th and 29th November, inviting 10 guests on each day.About the Host:After a very brief training stint at IHM PUSA, Akansh has pursued his career in Academia, while managing his family business alongside. After completing his PhD in Economics from the Indian Institute of Management Indore, Akansh is engaged as Assistant Professor of Economics at OP Jindal Global University.Nevertheless, he has never missed an occasion to enter the kitchen and cook. Apart from putting up multiple food stalls across Delhi, Akansh has been hosting intimate gatherings of close friends since 2015.For the first time, he is opening his kitchen for like-minded individuals, passionate about not just food, but also recipes. In the Supper Club, we discuss not just the stories around what is on the plate, but also the economics, politics, and philosophy of it.The menu for the upcoming Supper Club Prasadam has been developed as a result of his extensive travels to temple towns across India, as well as relishing feasts at numerous festivities. The menu is eclectic, esoteric, and served with traditional as well as avant-garde elegance. Full menu (almost keeping room for surprises) will be disclosed upon request.Location: Tucked in a quaint green neighborhood in the interiors of Shalimar Bagh, Akansh will host you in his almost half-a-century-old Indian Modernist house with flairs of Vernacular Brutalism.Address: 63, BM Shalimar Bagh, Delhi-110088.",
+    "description": "We are opening registration for Prasadam, the first edition of my supper club.About Prasadam: If the sound of iconic temple prasadam like Chidambaram Goshtu, Kanchipuram Kovil Idli, Kollur Gassi, Bhoge'r Labra, Alagar Kovil Dosai, Annakoot Bajra khichadi rings a bell for you, you are in the right place.Prasadam offers an 11-course menu of quintessential prasadam from iconic Indian temples, with some dishes served in the traditional style and others with a contemporary twist.Invitees: It is a humble invite-only gathering of individuals interested in relishing temple cuisine developed over centuries in the Indian Subcontinent, served as bhog/ prasadam in the temples of India.Of course, there would be conversations about the divine food, recipes, temples, travels, spirituality, art, culture, and whatever the day offers. We encourage people from all diversities to join. Scroll to the bottom to learn more.Dates: Stretching the festive season, the Supper Club will be hosted on 28th and 29th November, inviting 10 guests on each day.About the Host:After a very brief training stint at IHM PUSA, Akansh has pursued his career in Academia, while managing his family business alongside. After completing his PhD in Economics from the Indian Institute of Management Indore, Akansh is engaged as Assistant Professor of Economics at OP Jindal Global University.Nevertheless, he has never missed an occasion to enter the kitchen and cook. Apart from putting up multiple food stalls across Delhi, Akansh has been hosting intimate gatherings of close friends since 2015.For the first time, he is opening his kitchen for like-minded individuals, passionate about not just food, but also recipes. In the Supper Club, we discuss not just the stories around what is on the plate, but also the economics, politics, and philosophy of it.The menu for the upcoming Supper Club Prasadam has been developed as a result of his extensive travels to temple towns across India, as well as relishing feasts at numerous festivities. The menu is eclectic, esoteric, and served with traditional as well as avant-garde elegance. Full menu (almost keeping room for surprises) will be disclosed upon request.Location: Tucked in a quaint green neighborhood in the interiors of Shalimar Bagh, Akansh will host you in his almost half-a-century-old Indian Modernist house with flairs of Vernacular Brutalism.Address: 63, BM Shalimar Bagh, Delhi-110088.",
     "startDate": "2026-11-28T14:00:00+05:30",
     "endDate": "2026-11-29T16:00:00+05:30",
     "location": {
@@ -1331,6 +1369,42 @@
       "Food & drink",
       "Guided tour",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "K se Karuna: India\u2019s Intellectual Inheritance",
+    "description": "About the LectureJoin us for a lecture that asks where our political vocabulary, that we use almost every day - actually came from:Liberty, equality, fraternity. Three words that built the modern nation, and all three arrived here from somewhere else. What if the organising idea had come from within South Asia instead?The nation-making of the nineteenth and twentieth centuries settled on that trio, and we have lived inside it ever since: in constitutional safeguards, in the language of rights, in what we understand democratic life to guarantee. Ideas that germinated in the continental world and travelled into the Global South as imports, carrying both a formal-legal meaning and a substantive promise for how people might live together.Pia David turns to a different inheritance. Karu\u1e47\u0101, compassion, is an idea that emerges from within this geography, and it has its own long history of thinking about difference, diversity and ethical living. Not only in the ancient past, but through the reformist and political thought of modern India, where it kept resurfacing in arguments about what a shared life demands.The question the lecture leaves us with is a live one. What would it mean to treat karu\u1e47\u0101 not as sentiment but as political method?A way of addressing global conflict, human despair, and the particular poverty that enters political discourse when compassion goes missing from it?The session explores:How liberty, equality and fraternity became the default grammar of modern political lifeKaru\u1e47\u0101 as an idea with its own intellectual lineage in South Asia, ancient and modernHow questions of diversity, difference and ethical living were imagined from within this regionWhat compassion offers as a mode of praxis, not just a normative horizon for theory, but something politics could actually doAbout the SpeakerPia David is from Lucknow, Uttar Pradesh, and is trained as a political scientist. As a Foundation for Universal Responsibility Dalai Lama Studies Fellow in 2023, she worked on Dharma and Dhamma: A Modern Reading of Gandhi and Ambedkar in the Context of Deep Diversity. Her interests span liberal political philosophy and social and political thought from South Asia in the context of the world. She can be found on long walks through forested gardens, tombs and ruins, usually with friends, sometimes in solitude, never without music. Her current favourite is Libertango. She lives in Delhi, wondering about Mir's lament on his exile.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "startDate": "2026-11-28T16:00:00+05:30",
+    "endDate": "2026-11-28T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ground & First Floor, The Exchange Building, 13, Sham Nath Marg, Civil Lines, New Delhi, Delhi, 110054, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.67649720000000000000",
+        "longitude": "77.22523319999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "550.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/k-se-karuna-indias-intellectual-inheritance",
+    "keywords": [
+      "History & heritage",
       "URBANAUT"
     ]
   },
