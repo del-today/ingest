@@ -853,6 +853,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Raat Ke Afsane : Qutub Minar",
+    "description": "Experience the magic of Qutub Minar like never before\u2014under the stars and glowing lights. This is a guided heritage walk led by a historian, who will take you through the stunning Qutub complex after dark. As the entire site is beautifully illuminated at night, the minaret shines like Delhi\u2019s very own Eiffel Tower\u2014majestic, mysterious, and unforgettable.Walk through centuries of history, discover forgotten stories, and explore Delhi\u2019s medieval past through engaging storytelling. The play of light, shadow, and silence transforms this heritage site into something truly cinematicPlaces we will cover : 1. Mughal Serai2. Alai Minar3. Iltutmish Tomb4. Qutub Minar5. Iron Pilar6. 27 Jain and hindu temples7. Alai Darwaza8. Alauddin Khilji grave and madarsa .Important Points:  1. Details of the heritage walk will be mailed to you when you book the tickets2. No guided fees for kids below 5.3. Medium of communication : Hindi and English4. Please note that in case of unavoidable external reasons such as (weather conditions, political rallies, VIP movement, powercut) the walk may be canceled. The participant has the liberty to take another walk by the company against the payment they have made within 30 days since the date of the registered walk.5. The company does not have refund policy.",
+    "startDate": "2026-11-21T17:00:00+05:30",
+    "endDate": "2026-11-28T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Qutub Minar Complex Rd, Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52371860000000000000",
+        "longitude": "77.18469040000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/raat-ke-afsane-qutub-minar",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "A Visit to Mexico",
     "description": "This table travels to Mexico: charred bhutta, bright salsas, slow cooked beans and a squeeze of lime over everything. Four courses, two margaritas and an evening that moves at the pace of good conversation, made in my Noida home for six strangers who may leave as friends.The menuFour vegetarian courses with two paired pours. Tell me what you need in your enquiry.First courseBhutta elote cups: charred sweet corn, lime and hung curd crema, crumbled paneer, red chilli, chaat masala and corianderPaired pourClassic Lime MargaritaTequila, fresh nimbu, orange liqueur, honey syrup, salted rimSecond courseCrisp makki tostadas, smoky rajma, avocado, pickled pyaaz and roasted tomato salsaThird courseMushroom and roasted capsicum enchiladas in smoky Kashmiri chilli sauce with Mexican rice and refried rajma (veg), or chicken tinga tacos on soft makki tortillas with lime and cabbage slaw (non-veg)Paired pourSpicy Guava MargaritaTequila, fresh guava, lime and a little green chilli, chilli salt rimFourth courseChurros with a warm cinnamon hot chocolate dipA private home in Noida. The exact address is shared on acceptance.",
