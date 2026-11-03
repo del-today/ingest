@@ -1,23 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "The Pianist(2002)",
-    "url": "https://fillum.in/screening/6420",
-    "startDate": "2026-11-03T11:00:00+05:30",
-    "endDate": "2026-11-03T11:00:00+05:30",
-    "description": "As part of IIC Experience 2026. Free entry on first come first served basis. Open to all.",
-    "location": {
-      "@type": "Place",
-      "name": "C. D. Deshmukh Auditorium, India International Centre",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "India International Centre"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "Jaane Bhi Do Yaaro(1983)",
     "url": "https://fillum.in/screening/6421",
     "startDate": "2026-11-03T14:00:00+05:30",
@@ -90,6 +73,74 @@
     "url": "https://fillum.in/screening/6449",
     "startDate": "2026-11-04T15:00:00+05:30",
     "endDate": "2026-11-04T15:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "Anant Art Gallery, B-5/3, Safdarjung Enclave, New Delhi",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Anant Foundation for the Arts"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Gazawyat(2026)",
+    "url": "https://fillum.in/screening/6452",
+    "startDate": "2026-11-04T17:30:00+05:30",
+    "endDate": "2026-11-04T17:30:00+05:30",
+    "description": "Gazawyat: FidaaDirected by Khaled Tuaima. Documentary, 2026, 11 min.The film follows Fidaa Abu Maryam on her journey to wield storytelling as a psychological shield. By gathering the testimonies..more",
+    "location": {
+      "@type": "Place",
+      "name": "Anant Art Gallery, B-5/3, Safdarjung Enclave, New Delhi",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Anant Foundation for the Arts"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Dream of Another Summer(2026)",
+    "url": "https://fillum.in/screening/6457",
+    "startDate": "2026-11-04T18:30:00+05:30",
+    "endDate": "2026-11-04T18:30:00+05:30",
+    "description": "Free entry. Post-screening discussion with the filmmaker.",
+    "location": {
+      "@type": "Place",
+      "name": "Instituto Cervantes",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Instituto Cervantes Nueva Delhi"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Foragers(2022)",
+    "url": "https://fillum.in/screening/6450",
+    "startDate": "2026-11-04T19:20:00+05:30",
+    "endDate": "2026-11-04T19:20:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "Anant Art Gallery, B-5/3, Safdarjung Enclave, New Delhi",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Anant Foundation for the Arts"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "The Flowers Stand Silently, Witnessing(2024)",
+    "url": "https://fillum.in/screening/6451",
+    "startDate": "2026-11-04T20:30:00+05:30",
+    "endDate": "2026-11-04T20:30:00+05:30",
     "description": "",
     "location": {
       "@type": "Place",
