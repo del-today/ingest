@@ -1,43 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Afterdark ki Diwali",
-    "description": "This Diwali, swap the usual plans for a night full of Bollywood beats, festive fun, and new connections! Get ready for AfterDark Ki Diwali by The MIXTable, where the spirit of Diwali meets the excitement of an unforgettable evening out.From dancing to your favourite Bollywood tracks to trying your luck at the poker corner, joining in on fun games and Tambola, there's plenty to keep the night exciting. Dress up in your festive best, enjoy some Diwali sweets, and get ready for an evening filled with laughter, friendly competition, and festive surprises.What's waiting for you?- Bollywood DJ and music- Poker corner- Fun games and Tambola- Best-dressed prizes- One complimentary drink- Diwali sweets- 15% off on foodComing solo or bringing your gang?Either way, there's a place for you! Come celebrate, unwind, meet new people, and experience Diwali with a fun twist at AfterDark Ki Diwali.Dress up, show up, and let the festive madness begin with The MIXTable!",
-    "startDate": "2026-11-05T18:00:00+05:30",
-    "endDate": "2026-11-05T23:58:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "ShellBeacon Patio Cafe, 3rd Floor, 1A/1, Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55470520000000000000",
-        "longitude": "77.19515770000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "899.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The MIXTable",
-      "url": "https://urbanaut.app/partner/the-mixtable"
-    },
-    "url": "https://urbanaut.app/spot/afterdark-ki-diwali",
-    "keywords": [
-      "Music",
-      "Festival",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Slow Burn - A 4 Course Drinking Experience",
     "description": "Tucked into a corner of Lodhi Colony, The Love Hotel is Delhi's best-kept secret \u2014 a 20-seat cocktail room that takes its cues from the love hotels of Japan. It's intimate without being intense, flirtatious without trying too hard.Slow Burn is a four-course cocktail tasting built for this room \u2014 but where most tasting menus put food at the centre, here the cocktails play hero.It begins the second you walk in with a welcome shot. From there, four cocktails unfold in sequence \u2014 each its own chapter, drawn from the same five-taste philosophy that powers The Love Hotel's acclaimed program. Every pour lands with a course of tapas alongside it.An evening where the spirit leads, and the plate follows. And with only twenty seats, the room stays intimate & exclusive.",
