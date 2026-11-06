@@ -2,42 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Slow Burn - A 4 Course Drinking Experience",
-    "description": "Tucked into a corner of Lodhi Colony, The Love Hotel is Delhi's best-kept secret \u2014 a 20-seat cocktail room that takes its cues from the love hotels of Japan. It's intimate without being intense, flirtatious without trying too hard.Slow Burn is a four-course cocktail tasting built for this room \u2014 but where most tasting menus put food at the centre, here the cocktails play hero.It begins the second you walk in with a welcome shot. From there, four cocktails unfold in sequence \u2014 each its own chapter, drawn from the same five-taste philosophy that powers The Love Hotel's acclaimed program. Every pour lands with a course of tapas alongside it.An evening where the spirit leads, and the plate follows. And with only twenty seats, the room stays intimate & exclusive.",
-    "startDate": "2026-11-05T19:00:00+05:30",
-    "endDate": "2026-11-26T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Main Market, 28, Lodhi Rd, Block 13, Lodi Colony, New Delhi, Delhi, 110003, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.58474620000000000000",
-        "longitude": "77.22387390000002000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3200.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Love Hotel",
-      "url": "https://urbanaut.app/partner/the-love-hotel"
-    },
-    "url": "https://urbanaut.app/spot/slow-burn-martini-cocktail-tasting-menu",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
     "name": "Slow Burn",
     "description": "Slow Burn is a rock and metal band, we perform mainly covers (we can perform original songs as well). We're a group of students who are always looking for platforms to be able to show our work and become better performers.We love playing pieces that challenge us while making every person in the audience feels like they\u2019re part of the show and lost in the music ranging from bands like Bullet for my Valentine and Avenge Sevenfold to more mainstream artists like Micheal Jackson and Prince.",
     "startDate": "2026-11-06T20:00:00+05:30",
@@ -257,6 +221,42 @@
     },
     "url": "https://urbanaut.app/spot/gft-november-edition-in-vasant-vihar",
     "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Slow Burn - A 4 Course Drinking Experience",
+    "description": "Tucked into a corner of Lodhi Colony, The Love Hotel is Delhi's best-kept secret \u2014 a 20-seat cocktail room that takes its cues from the love hotels of Japan. It's intimate without being intense, flirtatious without trying too hard.Slow Burn is a four-course cocktail tasting built for this room \u2014 but where most tasting menus put food at the centre, here the cocktails play hero.It begins the second you walk in with a welcome shot. From there, four cocktails unfold in sequence \u2014 each its own chapter, drawn from the same five-taste philosophy that powers The Love Hotel's acclaimed program. Every pour lands with a course of tapas alongside it.An evening where the spirit leads, and the plate follows. And with only twenty seats, the room stays intimate & exclusive.",
+    "startDate": "2026-11-12T19:00:00+05:30",
+    "endDate": "2026-11-26T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Main Market, 28, Lodhi Rd, Block 13, Lodi Colony, New Delhi, Delhi, 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.58474620000000000000",
+        "longitude": "77.22387390000002000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3200.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Love Hotel",
+      "url": "https://urbanaut.app/partner/the-love-hotel"
+    },
+    "url": "https://urbanaut.app/spot/slow-burn-martini-cocktail-tasting-menu",
+    "keywords": [
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -1155,6 +1155,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Bazm-i-Havelis :Exploring Havelis of Chandni Chowk",
+    "description": "Havelis of Chandni Chowk: Stories Behind the DoorsA guided heritage walk through Chandni Chowk's historic lanes, exploring the grand havelis of Shahjahanabad. The walk introduces participants to the architectural and cultural heritage of old Delhi, once home to merchants, poets and noble families.Through storytelling, the experience highlights the history of these havelis, their architectural features such as courtyards, jharokhas, and wooden doors, and their transformation from the Mughal era to the present day.The walk offers insights into the social, cultural and economic life of historic Delhi as participants explore selected haveli sites in the area.Communication is in Hindi and English.Important InformationDetails of the walk will be shared after booking confirmationChildren below 5 years are not charged for guided participationThe walk will be conducted in Hindi and EnglishIn unavoidable circumstances such as weather conditions, restrictions, VIP movement, or power failure, the event may be cancelled or rescheduled. Participants may be offered an alternate date within 30 days, subject to availabilityThe organiser does not offer refunds once tickets are booked",
+    "startDate": "2026-11-22T09:30:00+05:30",
+    "endDate": "2026-11-22T11:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Chandni Chowk, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.65053310000000000000",
+        "longitude": "77.23033699999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "700.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/bazm-i-havelis-chandni-chowk",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Ghalib Aur Dilli : Poetry ,People & Lost Worlds",
     "description": "What happens when a poet's beloved city begins to disappear before his eyes?This is not a conventional Chandni Chowk heritage walk. Instead, we explore Old Delhi through the eyes, words and wonderfully complicated life of Mirza Ghalib\u2014one of the greatest poets of the Urdu language.Ghalib loved Delhi, its culture, its people and its refined social world. But he also witnessed the city undergo extraordinary upheaval, particularly during and after the Revolt of 1857. As Delhi was devastated and its familiar world transformed, the poet found himself grappling with loss, uncertainty and the disappearance of a way of life he had known.Through his letters, poetry and anecdotes, we will explore how Ghalib saw his city, how he responded to its changing fortunes, and what his writings reveal about Delhi during one of the most turbulent periods in its history.As we walk through selected corners of Old Delhi, the city becomes the backdrop to his extraordinary story. The experience concludes at Ghalib ki Haveli in Ballimaran, bringing us closer to the poet, his world and the city that inspired him.Come for Ghalib's poetry, stay for his stories\u2014and discover a very different way of looking at Old Delhi.",
     "startDate": "2026-11-22T10:00:00+05:30",
@@ -1291,44 +1329,6 @@
       "url": "https://urbanaut.app/partner/riwayatwalks"
     },
     "url": "https://urbanaut.app/spot/the-qutub-code-decode-stories-hidden-in-stone",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Bazm-i-Havelis :Exploring Havelis of Chandni Chowk",
-    "description": "Havelis of Chandni Chowk: Stories Behind the DoorsA guided heritage walk through Chandni Chowk's historic lanes, exploring the grand havelis of Shahjahanabad. The walk introduces participants to the architectural and cultural heritage of old Delhi, once home to merchants, poets and noble families.Through storytelling, the experience highlights the history of these havelis, their architectural features such as courtyards, jharokhas, and wooden doors, and their transformation from the Mughal era to the present day.The walk offers insights into the social, cultural and economic life of historic Delhi as participants explore selected haveli sites in the area.Communication is in Hindi and English.Important InformationDetails of the walk will be shared after booking confirmationChildren below 5 years are not charged for guided participationThe walk will be conducted in Hindi and EnglishIn unavoidable circumstances such as weather conditions, restrictions, VIP movement, or power failure, the event may be cancelled or rescheduled. Participants may be offered an alternate date within 30 days, subject to availabilityThe organiser does not offer refunds once tickets are booked",
-    "startDate": "2026-11-22T17:00:00+05:30",
-    "endDate": "2026-11-22T11:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Chandni Chowk, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.65053310000000000000",
-        "longitude": "77.23033699999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "700.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Enroute Indian History",
-      "url": "https://urbanaut.app/partner/enrouteindianhistory"
-    },
-    "url": "https://urbanaut.app/spot/bazm-i-havelis-chandni-chowk",
     "keywords": [
       "Walking Tour",
       "History & heritage",
