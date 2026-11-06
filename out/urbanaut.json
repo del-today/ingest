@@ -2,82 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Slow Burn",
-    "description": "Slow Burn is a rock and metal band, we perform mainly covers (we can perform original songs as well). We're a group of students who are always looking for platforms to be able to show our work and become better performers.We love playing pieces that challenge us while making every person in the audience feels like they\u2019re part of the show and lost in the music ranging from bands like Bullet for my Valentine and Avenge Sevenfold to more mainstream artists like Micheal Jackson and Prince.",
-    "startDate": "2026-11-06T20:00:00+05:30",
-    "endDate": "2026-11-06T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53415570000000000000",
-        "longitude": "77.24300939999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "299.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Depot48",
-      "url": "https://urbanaut.app/partner/depot48"
-    },
-    "url": "https://urbanaut.app/spot/slow-burn",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Moonraker",
-    "description": "We've done pop, blues and indie music. Moonraker now brings to you a night of rock classics at Depot 48.",
-    "startDate": "2026-11-06T22:00:00+05:30",
-    "endDate": "2026-11-06T23:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53415570000000000000",
-        "longitude": "77.24300939999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Depot48",
-      "url": "https://urbanaut.app/partner/depot48"
-    },
-    "url": "https://urbanaut.app/spot/moonraker",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
     "name": "Diwali House Party: Dress like a celebrity",
     "description": "Iss Diwali, ghar ki party mein glamour ka tadka!Shoshabaazi is bringing you a night of full-on desi drama, and the kind of Diwali party your filmy heart has been waiting for. \ud83d\udc83\ud83e\udea9Think blingy sarees, iconic Bollywood looks, dramatic sunglasses, celebrity-inspired fits, and main-character energy. Come dressed as your favourite celebrity or recreate an iconic filmi look because tonight, everyone\u2019s a star.Expect festive vibes, music, dancing, games, good food, new faces, and strangers turning into party friends. Think shaadi-level enthusiasm with house-party intimacy.\u2728 THE DETAILS\ud83d\udcc5 7 November 2026\u23f0 6 PM onwards\ud83d\udccd Janakpuri, Delhi\ud83d\udc57 DRESS CODE: DRESS LIKE A CELEBRITY",
     "startDate": "2026-11-07T18:00:00+05:30",
@@ -969,6 +893,119 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Varun Vasisht - Listening Party",
+    "description": "Varun Vasisht is a Delhi-based singer-songwriter, producer and multi-instrumentalist crafting contemporary pop with indie sensibilities. His music is built around memorable melodies, thoughtful lyricism and polished production, while his live performances bring together rich vocals, intricate guitar work and an effortless connection with audiences.Performing in both English and Hindi, Varun's repertoire blends original compositions with carefully reimagined contemporary pop songs, reflecting his versatility as both a songwriter and performer.His original releases include *Clouds of Rain, Jaane Tu, JBD* and his latest single, *MIRA*. His work has been recognised by **Rolling Stone India** and featured on editorial playlists across **Apple Music and Spotify**, marking his growing presence in India's independent music landscape.On **20th November at Depot 48**, Varun presents a special 90 minute live experience featuring a performance of his original catalogue alongside a listening party for his upcoming, unreleased four-track EP. The evening offers audiences an opportunity to revisit his musical journey, discover new material before its release, and experience the stories and sounds behind his music in an intimate live setting.",
+    "startDate": "2026-11-20T20:00:00+05:30",
+    "endDate": "2026-11-20T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/varun-vasisht-listening-party",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Tin Hats: The Alt in Our Stars",
+    "description": "The Tin Hats are a five-piece band  of seasoned musicians based in Delhi NCR. They bonded over a shared obsession \u2014 the grunge, alternative, and Brit rock of the '90s and 2000s: Audioslave, STP, Radiohead, Nine Inch Nails, Incubus, Velvet Revolver. Along the way they've pushed music's boundaries \u2014 winning national talent hunts, cutting records for Universal, jamming with Grammy nominees, playing in some of the country's sharpest rock acts. They love to have fun on stage, vibing and celebrating the alternative rock that made them. They look forward to introducing their own songs to audiences soon!",
+    "startDate": "2026-11-20T22:00:00+05:30",
+    "endDate": "2026-11-20T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "399.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/the-tin-hats-the-alt-in-our-stars",
+    "keywords": [
+      "Live GIG",
+      "Local",
+      "Music",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Criminal Profiling Masterclass",
+    "description": "Inside a Profiler's Mind: Four Sessions on Criminal ProfilingThink like a profiler. Reason like a scientist.You've probably watched the shows. The detective looks at a crime scene for a few seconds, pauses, and describes the killer right down to his childhood. It's great TV, but is it how profiling actually works?Across four sessions, criminologist and forensic psychologist Rithin Joseph separates movie myth from method. We go from 19th-century attempts to spot criminals by the shape of their skulls, to the FBI's Behavioral Science Unit, to the maths of where offenders live, to how profiling is actually done in 2026. Every session digs into real true crime cases, runs its own hands-on simulation, and has much more along the way, so you won't just be listening. You'll be profiling.Each session stands on its own, so come to one or come to all four. Book all four and get a discount, for anyone who wants the full case file.21st November, 12\u20132 PM: Can You Tell If I'm a Serial Killer?Profiling's real history is messier than the legend, and much more interesting. We start with Lombroso and phrenology, who believed you could read criminality in someone's face, and look at why those ideas caught on and why they fell apart. Then we follow Hans Gross's turn toward evidence, James Brussel's famous (and contested) Mad Bomber profile, and the rise of the FBI's behavioural analysts. Along the way we ask what profiling can actually tell an investigator, and what it never can.22nd November, 12\u20132 PM: Same Crime, Different Profiles: Who Gets It Right?Two profilers look at the same crime scene and come back with two different suspects. How does that happen? This session gets into the reasoning behind profiling: patterns drawn from many offenders versus clues taken from one case, and the FBI's famous split between \"organised\" and \"disorganised\" offenders, with cases like BTK and Jeffrey Dahmer as reference points. We'll look at where that split helps and where it falls apart, and at the biases that slip in without anyone noticing. Then we'll test ourselves on a fictional scene that has two competing profiles.28th November, 3\u20135 PM: Where Do Killers Live? The Geography of CrimeA series of crimes leaves more than physical evidence. It leaves a map. Using David Canter's investigative psychology and Kim Rossmo's geographic profiling, we'll look at how offenders move through a city: comfort zones, anchor points, and why distance matters. The DC Sniper case runs through the session. Then we'll take a fictional cluster of crime locations and try to narrow the search ourselves. A warning in advance: these maps deal in probabilities, not GPS coordinates.29th November, 3\u20135 PM: What Criminal Profiling Looks Like in 2026Instead of asking \"what kind of person would do this?\", modern profiling asks \"what does the evidence actually show?\" This session introduces Behavioral Evidence Analysis, which reads the crime scene, the victim's circumstances and the sequence of events before it reaches for any stereotype. We'll work out the difference between how a crime was committed and what it might reveal about the person behind it. Then we'll read a fictional case file twice and watch our conclusions change as new evidence comes in.All sessions at the Gully Labs store, Panchsheel Park.About the speakerRithin Joseph is an Assistant Professor at the School of Behavioural Forensics, National Forensic Sciences University, Delhi, where he teaches criminology and forensic psychology. He is certified in investigative tools including the polygraph, BEOS brain profiling, Layered Voice Analysis and EyeDetect. He is Co-Investigator on an ICSSR-funded study predicting recidivism among first-time offenders, co-author of Crime as the Cause of Criminality and BRICS: Unravelling the Abyss, and a gold medallist in his Master's in Criminology.Four sessions, four case files, and you'll never watch a crime show the same way again.",
+    "startDate": "2026-11-21T12:00:00+05:30",
+    "endDate": "2026-11-29T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "600.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/inside-a-profilers-mind",
+    "keywords": [
+      "Live GIG",
+      "Local",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Be Delusional: Bend Reality To Your Beliefs",
     "description": "About the Lecture Join us for a lecture about believing something about yourself long before anyone else does:Kanye West recorded an album with his jaw wired shut. Stallone turned down serious money rather than give up the lead role. What were they running on, years before the proof arrived?The question is whether a certain amount of delusion is rational. Harinder Singh Pelia takes the obvious objection, survivorship bias, we only hear about the ones it worked out for, head-on, and makes the case that belief ahead of evidence is a reasonable bet when your downside is capped and your upside isn't.From there the session moves into what the research actually says: the Pygmalion effect and the Israeli military studies behind it, Bandura on self-efficacy, Vroom's motivation equation. Then into the mechanics, how the confidence-competence loop turns a belief into a skill, and how streaks and the No Zero Days framework keep it running on ordinary days. Expect an interactive turn partway through, built around Maslow's \"if not you, then who?\", and one concrete assignment to take home.The session explores:Why belief tends to run years ahead of proof, and what that looks like up closeThe survivorship-bias objection, and why capped-downside bets are worth making anywayWhat the research says: the Pygmalion effect, self-efficacy, and Vroom's motivation equationThe confidence-competence loop, and the No Zero Days framework for daily executionBezos's regret-minimisation framework, and the \"when-then\" trap that keeps people waitingAbout the SpeakerHarinder Singh Pelia is an author and entrepreneur who has led marketing teams at Amazon, Ajio Luxe and Diesel, among others. A LinkedIn Top Voice, TEDx speaker and PhD scholar at XLRI Jamshedpur, he is the founder of 10Xer Club and Talent Labs.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
     "startDate": "2026-11-21T14:00:00+05:30",
@@ -1479,6 +1516,44 @@
     "url": "https://urbanaut.app/spot/rethinkingworkinmidlife-delhi",
     "keywords": [
       "Virtual",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "THE ONLY SHOW THAT MATTERS with JAHNVI",
+    "description": "JAHNVI is the sound of the silent scream. This Delhi-based artist doesn\u2019t just play music; she exposes the emotional chaos we keep locked inside. Her searing confessional writing, venomous melodies, gut-wrenching riffs and hauntingly powerful vocals fluidly smash together rock, metal, and hip-hop into crushing anthems. Known for her powerful performances she has shared stage with country's most respected and popular bands. From opening for Bloodywood at Outrage to sharing stages with Indian Ocean and Bhayanak Maut, JAHNVI is making a significant impact on the Indian Music Scene, crafting a world for the emotionally damaged through her music.She is also making significant cultural Impact as she started her own Mental Health Initiative, called 'Fight To The Phantom: Mental Health Music Sessions'NOTE! ADD THIS SHOW DESCRIPTION AS WELL:Hey it's J! Welcome to THE ONLY SHOW THAT MATTERS!I curated this 2-hour All Original Songs Show,just for you. Because you matter the most. NO. MATTER. WHAT.So hold tight and get ready for a 2 hour public exorcism! The most exclusive headline set of the season! This is the kind of chaos you usually have to wait for a festival to see.I'm here with my incredible band to let the chaos flood with hauntingly powerful vocals, venomous melodies, gut-wrenching riffs and deeply personal storytelling.If there's a show that's actually gonna make you feel something real and that you're alive, it's this show!",
+    "startDate": "2026-11-27T22:00:00+05:30",
+    "endDate": "2026-11-27T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/the-only-show-that-matters-with-jahnvi",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
       "URBANAUT"
     ]
   },
