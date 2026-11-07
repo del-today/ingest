@@ -332,6 +332,43 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "The Kids Are Alright",
+    "description": "This childrens day let your inner child loose! We are having a junior school annual day for adults! With races like sack race, lemon and spoon race, 3 legged race as well as more college level games like flip cup!\u00a0Come by yourself or come in teams! May the best kid win!\u00a0",
+    "startDate": "2026-11-14T15:00:00+05:30",
+    "endDate": "2026-11-14T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1003.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
+    },
+    "url": "https://urbanaut.app/spot/the-kids-are-alright",
+    "keywords": [
+      "Local",
+      "Music",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Stories We Carry: Early Christian Practice and Pluralism in India",
     "description": "About the LectureLong before the arrivals that dominate the popular account, Christianity had already taken root in the subcontinent and begun to evolve in conversation with everything around it. This lecture introduces that early history through the Southist Syrian Christians \u2014 also known as the Knanaya \u2014 and the folklore the community still practises and passes on today.Those songs, customs and inherited stories turn out to be a kind of archive. Read closely, they point to the plural worlds in which early Indian Christianity grew: the cultural encounters, the borrowings, the many different ways of belonging that shaped it. Dr Ann Susan Aleyas uses them to move us past the singular narratives that dominate contemporary discourse, towards something considerably more tangled and more interesting.The session explores:The early history of Christianity in the Indian subcontinent, and how much of it predates the familiar accountWho the Southist Syrian (Knanaya) Christians are, and what their folklore preservesHow living traditions carry history that written records often leave outWhat gets lost when a plural history is told as a single storyAbout the SpeakerDr Ann Susan Aleyas is an Assistant Professor in the Department of English at Jesus and Mary College, University of Delhi. She earned her PhD in English from Jamia Millia Islamia, where her research explored the intersections of Christianity in India and print modernity, and her interests also include women's studies and performance studies. With over nine years of teaching experience, she has taught at St. Stephen's College and at Jesus and Mary College, where she now holds a permanent faculty position. She has presented at national and international forums including Soka University in Japan, the Ireland India Institute at Dublin City University, Jamia Millia Islamia and the University of W\u00fcrzburg, and her publications include contributions to the Encyclopedia of Indian Religions, Studies in Humanities and Social Sciences and The Book Review. An avid reader, she has recently taken to sharing book reviews on Instagram, where she also showcases her love for sarees, and she is a trained Bharatanatyam dancer who hopes to return to her practice soon.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
     "startDate": "2026-11-14T15:00:00+05:30",
@@ -1590,6 +1627,43 @@
     "url": "https://urbanaut.app/spot/film-and-analog",
     "keywords": [
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Threads to Taste | Delhi",
+    "description": "Step into a world where craftsmanship meets culture, and every thread and every flavour tells a story.Threads to Taste is an immersive experience bringing together the art of weaving, the joy of coffee, and the richness of food and farming. It's an invitation to slow down, explore traditions, meet the people behind what we create and consume, and discover the stories woven into everyday experiences.What's in store for you?\ud83e\uddf5 Get Hands-on with Weaving \u2013 Explore the art of weaving through an interactive activity and experience the beauty of creating something by hand.\u2615 Coffee Tasting \u2013 Discover different flavours, aromas and notes as you explore the world of coffee, one sip at a time.\ud83c\udf3eMeet the Farmers \u2013 Connect with the people behind your food, hear their stories and learn more about the journey from farm to table.\ud83c\udf74 Learn, Taste & Explore Food \u2013 Go beyond the plate with a food experience that brings learning, discovery and delicious flavours together.It's more than just an event; it's a space to connect with people, appreciate craftsmanship, discover where things come from and experience culture through all your senses.Come curious. Leave with stories, new discoveries and memories worth taking home.",
+    "startDate": "2026-11-28T13:00:00+05:30",
+    "endDate": "2026-11-29T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Gate No. 1, Bahadur Shah Zafar Marg, inside Shaheedi park, Balmiki Basti, Vikram Nagar, New Delhi, Delhi, 110002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.63445520000000000000",
+        "longitude": "77.24131700000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Project Otenga",
+      "url": "https://urbanaut.app/partner/project-otenga"
+    },
+    "url": "https://urbanaut.app/spot/threads-to-taste-delhi",
+    "keywords": [
+      "Food & drink",
+      "Art & culture",
       "URBANAUT"
     ]
   },
