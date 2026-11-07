@@ -83,22 +83,5 @@
       "@type": "Organization",
       "name": "Habitat World"
     }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "Where Is My Friend's House?(1987)",
-    "url": "https://fillum.in/screening/6471",
-    "startDate": "2026-11-21T14:30:00+05:30",
-    "endDate": "2026-11-21T14:30:00+05:30",
-    "description": "Free entry.",
-    "location": {
-      "@type": "Place",
-      "name": "M. L. Bhartia Auditorium, Alliance Fran\u00e7aise",
-      "address": "Lodhi Road, New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Navrasa Duende Movie Club"
-    }
   }
 ]
