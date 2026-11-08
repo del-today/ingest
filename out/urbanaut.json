@@ -780,6 +780,43 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Roohaniyat with Nilavra",
+    "description": "Nilavra Roy is a Delhi-based singer and live performer with a deep-rooted foundation in Hindustani classical music and a passion for exploring diverse musical expressions. His repertoire spans soulful Ghazals, Sufi, semi-classical and timeless Bollywood melodies, brought together through his distinctive vocal style and contemporary musical sensibilities.A storyteller at heart, Nilavra believes in creating musical experiences that go beyond genres, connecting with audiences through melodies, poetry and emotions.For his upcoming performance at Depot 48, Nilavra presents \"\"Roohaniyat\"\", an immersive musical journey through the different shades of love, expressed through some of the most cherished compositions in Indian music.",
+    "startDate": "2026-11-18T20:00:00+05:30",
+    "endDate": "2026-11-18T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "350.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/roohaniyat-with-nilavra",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "THE CORE - A Movement & Wellness Event",
     "description": "Come for the movement. Stay for the experience.A women's only event, the Core Live takes The Core's signature 3-2-1 Method off the screen and into the room: Strength, Pilates and Breathwork, led by Issa, The Core's Head of Movement, flying in from London for these sessions. A rare chance to train with her, followed by experiences that stay with you long after class ends.MOVE: 45 minutes of Strength \u00d7 Pilates with Issa. A full-body session built on the 3-2-1 Method, with every movement adapted to where you are today.RECOVER: Red light therapy and a sauna experience to help your body recover after training. Bring a change of clothes if you would like to try it.GLOW: An interactive beauty experience with Gunam. Hands-on skin rituals and expert tips you can take straight into your own routine.NOURISH:  A gut-friendly food experience built around The Core Nourish philosophy, made to refuel you after the session.WHAT TO BRING: Just be there, and take back something truly special. Mat, water and equipment is provided.Spots are limited.",
