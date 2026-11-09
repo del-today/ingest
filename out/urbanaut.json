@@ -890,6 +890,43 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Exploration into the flavors of Odisha",
+    "description": "Exploration into the Flavours of OdishaA 7-Course Tasting Menu | Supperclub at Rosei GharaOdisha is a land of extraordinary flavours, age-old culinary traditions, and ingredients that tell stories of its people and places. Yet, so much of its rich food heritage remains unexplored.This November, Rosei Ghara invites you on an intimate culinary journey through Odisha, one thoughtfully curated course at a time.Exploration into the Flavours of Odisha is a seven-course tasting experience that celebrates the diversity of Odia cuisine. From familiar comforts to lesser-known regional delicacies, expect a menu rooted in tradition, inspired by seasonal ingredients, and presented with a fresh perspective.More than just a meal, this is an invitation to discover the stories, memories, and culinary traditions behind every dish.What makes this experience special?- Seven thoughtfully curated courses showcasing the depth and diversity of Odisha's culinary heritage.- An intimate supperclub setting where food, storytelling, and conversations come together around one table.- A celebration of regional flavours, bringing lesser-known ingredients, traditional techniques, and cherished recipes into the spotlight.Dates & Timings20 November, FridayDinner | 7:30 PM21 November, SaturdayLunch | 1:00 PM  Dinner | 7:30 PM22 November, SundayLunch | 1:00 PM  Dinner | 7:30 PMVenue: Rosei Ghara, Shahpur Jat, New DelhiCome curious, come hungry, and leave with a little more of Odisha in your heart.Limited seats per service. Reserve your place at our table.",
+    "startDate": "2026-11-20T19:30:00+05:30",
+    "endDate": "2026-11-22T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shahpur Jat, Siri Fort, New Delhi, Delhi 110049, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54878510000000000000",
+        "longitude": "77.21596509999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Rosei Ghara",
+      "url": "https://urbanaut.app/partner/roseighara"
+    },
+    "url": "https://urbanaut.app/spot/exploration-into-the-flavors-of-odisha",
+    "keywords": [
+      "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Varun Vasisht - Listening Party",
     "description": "Varun Vasisht is a Delhi-based singer-songwriter, producer and multi-instrumentalist crafting contemporary pop with indie sensibilities. His music is built around memorable melodies, thoughtful lyricism and polished production, while his live performances bring together rich vocals, intricate guitar work and an effortless connection with audiences.Performing in both English and Hindi, Varun's repertoire blends original compositions with carefully reimagined contemporary pop songs, reflecting his versatility as both a songwriter and performer.His original releases include *Clouds of Rain, Jaane Tu, JBD* and his latest single, *MIRA*. His work has been recognised by **Rolling Stone India** and featured on editorial playlists across **Apple Music and Spotify**, marking his growing presence in India's independent music landscape.On **20th November at Depot 48**, Varun presents a special 90 minute live experience featuring a performance of his original catalogue alongside a listening party for his upcoming, unreleased four-track EP. The evening offers audiences an opportunity to revisit his musical journey, discover new material before its release, and experience the stories and sounds behind his music in an intimate live setting.",
