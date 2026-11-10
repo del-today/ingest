@@ -1,23 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "Sangate Aika(1959)",
-    "url": "https://fillum.in/screening/6475",
-    "startDate": "2026-11-10T19:00:00+05:30",
-    "endDate": "2026-11-10T19:00:00+05:30",
-    "description": "Free entry.",
-    "location": {
-      "@type": "Place",
-      "name": "Stein Auditorium, India Habitat Centre",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Habitat World"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "Ustad Bantoo(2026)",
     "url": "https://fillum.in/screening/6484",
     "startDate": "2026-11-14T19:00:00+05:30",

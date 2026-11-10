@@ -368,6 +368,82 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Children's Day workshop",
+    "description": "Gentle reminder to Yourself for the joy of being a child playing with colours. Come as you are. All materials shall be provided.\u00a0",
+    "startDate": "2026-11-14T18:00:00+05:30",
+    "endDate": "2026-11-14T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "WZ-1390/6, Pankha Rd, D1B Block, Janakpuri, New Delhi, Delhi, 110046, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.60821770000000000000",
+        "longitude": "77.10370630000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "799.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "YUJ Studio",
+      "url": "https://urbanaut.app/partner/yuj-studio"
+    },
+    "url": "https://urbanaut.app/spot/childrens-day-workshop",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Raat ke Afsane : Red Fort Moonlit walk",
+    "description": "A Heritage Walk Through the Red FortStep into the world of Qila e Mubarak, popularly known as the Red Fort, through a specially arranged private heritage walk exploring its history, architecture and cultural traditions.Discover the world of Shah Jahan and the Mughal court, while uncovering stories behind the fort's lesser-known features, including the Nahr e Bihisht, Stream of Paradise, silken qanats and the original artistic traditions of Chatta Chowk.Through engaging storytelling, explore the Red Fort as more than a monument, a royal space shaped by emperors, nobles, artists and forgotten traditions.The language of communication is Hindi and English.Specially Arranged Private Heritage Walk",
+    "startDate": "2026-11-14T19:00:00+05:30",
+    "endDate": "2026-11-14T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Netaji Subhash Marg, Old Delhi, Lal Qila, Chandni Chowk, New Delhi, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.65615920000000000000",
+        "longitude": "77.24102030000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "700.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/heritage-walk-red-fort",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Small Plates & Sounds",
     "description": "For \u201cSmall Plates & Sounds\u201d in collaboration with Looney\u2019s kitchen, we\u2019re bringing you a contemporary take on Naga flavours reimagined through small plates with a little help from Looney\u2019s musician friends! It\u2019s going to be a little familiar, a little unexpected and best enjoyed together!Come over, Come soon!",
@@ -859,7 +935,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "The Plane Story: The Aerodynamics of Flight",
-    "description": "About the LectureHow Does a Plane Fly? Join us for a lecture by someone who does it for a living:Most of us have spent a flight staring out of the window with a vague memory of something about air moving faster over the top of the wing. Capt. Soham has spent eleven years on the other side of the flight deck door, and he's here to do the explanation properly \u2014 the real physics of how an aircraft flies, in terms that don't require a degree to follow.From there we go into the part passengers never see: what is actually happening in the flight deck during approach and landing, the busiest and most choreographed minutes of any flight. And then the questions he gets asked every time someone visits the cockpit \u2014 the trivia, the myths, the things people are nervous about \u2014 with plenty of room for yours.Stay back afterwards if you'd like to try your hand at a flight simulator.The session explores:The physics of flight, explained by someone who uses it rather than teaches itWhat actually happens in the flight deck during approach and landingThe questions pilots get asked most, and the honest answersAn open Q&A, and a flight simulator to try after the sessionAbout the SpeakerCapt. Soham was born and raised in Delhi and schooled at Modern School, Barakhamba Road, before training as a pilot at IGRUA. He has been flying commercially for an Indian airline for over eleven years and is currently a Senior Captain on the Airbus A320 family.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
+    "description": "About the LectureHow Does a Plane Fly? Join us for a lecture by someone who does it for a living:Most of us have spent a flight staring out of the window with a vague memory of something about air moving faster over the top of the wing. Capt. Soham has spent eleven years on the other side of the flight deck door, and he's here to do the explanation properly \u2014 the real physics of how an aircraft flies, in terms that don't require a degree to follow.From there we go into the part passengers never see: what is actually happening in the flight deck during approach and landing, the busiest and most choreographed minutes of any flight. And then the questions he gets asked every time someone visits the cockpit \u2014 the trivia, the myths, the things people are nervous about \u2014 with plenty of room for yours.Stay back afterwards if you'd like to try your hand at a flight simulator game.The session explores:The physics of flight, explained by someone who uses it rather than teaches itWhat actually happens in the flight deck during approach and landingThe questions pilots get asked most, and the honest answersAn open Q&A, and a flight simulator game to try after the sessionAbout the SpeakerCapt. Soham was born and raised in Delhi and schooled at Modern School, Barakhamba Road, before training as a pilot at IGRUA. He has been flying commercially for an Indian airline for over eleven years and is currently a Senior Captain on the Airbus A320 family.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
     "startDate": "2026-11-20T19:00:00+05:30",
     "endDate": "2026-11-20T21:00:00+05:30",
     "location": {
@@ -1559,6 +1635,43 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
+    "name": "Thanksgiving: The Supper Club edition",
+    "description": "The Supper Club edition: ThanksgivingThis Thanksgiving, pull up a chair at our table. The Supper Club is hosting an intimate evening for just six guests: one long table, seven courses, and the kind of slow, generous meal the season is made for.Thanksgiving is about gathering, sharing and giving thanks over good food, and that\u2019s exactly what this evening is. Come on your own or bring a friend. Either way, you\u2019ll sit down with strangers and leave with new friends.The MenuTurnip Sizzle with Raisin SaucePumpkin ChowderMashed Potatoes & Gravy with Glazed CarrotsConfit Byaldi with Herbaceous RiceBunny Chow with a Seasonal Salad on the sideLemon PossetSkillet Cookie topped with Ice CreamDetails\ud83d\udcc5 Thursday, 26 November 2026\ud83d\udd62 7:30 pm onwards\ud83d\udccd 63 BM, Shalimar Bagh, Delhi-88\ud83c\udf7d\ufe0f 7-course dinner\ud83d\udcba Only 6 seats\ud83d\udcb8 \u20b91,200 per personWith only six seats at the table, spots will go quickly, so book early to reserve yours",
+    "startDate": "2026-11-26T19:30:00+05:30",
+    "endDate": "2026-11-26T21:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "BM-63, Block BM, Ram Bagh, Shalimar Baugh, New Delhi, Delhi, 110088, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.70908780000000000000",
+        "longitude": "77.15941400000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1200.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Supper Club Editon",
+      "url": "https://urbanaut.app/partner/the-supper-club-editon-prasadam"
+    },
+    "url": "https://urbanaut.app/spot/thanksgiving-the-supper-club-edition",
+    "keywords": [
+      "Food & drink",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
     "name": "THE ONLY SHOW THAT MATTERS with JAHNVI",
     "description": "JAHNVI is the sound of the silent scream. This Delhi-based artist doesn\u2019t just play music; she exposes the emotional chaos we keep locked inside. Her searing confessional writing, venomous melodies, gut-wrenching riffs and hauntingly powerful vocals fluidly smash together rock, metal, and hip-hop into crushing anthems. Known for her powerful performances she has shared stage with country's most respected and popular bands. From opening for Bloodywood at Outrage to sharing stages with Indian Ocean and Bhayanak Maut, JAHNVI is making a significant impact on the Indian Music Scene, crafting a world for the emotionally damaged through her music.She is also making significant cultural Impact as she started her own Mental Health Initiative, called 'Fight To The Phantom: Mental Health Music Sessions'NOTE! ADD THIS SHOW DESCRIPTION AS WELL:Hey it's J! Welcome to THE ONLY SHOW THAT MATTERS!I curated this 2-hour All Original Songs Show,just for you. Because you matter the most. NO. MATTER. WHAT.So hold tight and get ready for a 2 hour public exorcism! The most exclusive headline set of the season! This is the kind of chaos you usually have to wait for a festival to see.I'm here with my incredible band to let the chaos flood with hauntingly powerful vocals, venomous melodies, gut-wrenching riffs and deeply personal storytelling.If there's a show that's actually gonna make you feel something real and that you're alive, it's this show!",
     "startDate": "2026-11-27T22:00:00+05:30",
@@ -1694,7 +1807,7 @@
     },
     "organizer": {
       "@type": "Organization",
-      "name": "The Supper Club Editon Prasadam",
+      "name": "The Supper Club Editon",
       "url": "https://urbanaut.app/partner/the-supper-club-editon-prasadam"
     },
     "url": "https://urbanaut.app/spot/supper-club-prasadam",
