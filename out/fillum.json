@@ -1,6 +1,23 @@
 [
   {
     "@type": "ScreeningEvent",
+    "name": "Knit's Island(2024)",
+    "url": "https://fillum.in/screening/6497",
+    "startDate": "2026-11-12T18:30:00+05:30",
+    "endDate": "2026-11-12T18:30:00+05:30",
+    "description": "Free entry.",
+    "location": {
+      "@type": "Place",
+      "name": "M. L. Bhartia Auditorium, Alliance Fran\u00e7aise",
+      "address": "Lodhi Road, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Alliance Fran\u00e7aise de Delhi"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
     "name": "Ustad Bantoo(2026)",
     "url": "https://fillum.in/screening/6484",
     "startDate": "2026-11-14T19:00:00+05:30",

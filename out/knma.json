@@ -120,6 +120,26 @@
     ]
   },
   {
+    "@type": "ExhibitionEvent",
+    "name": "Voices from the Earth: Women, Nature, Power",
+    "url": "https://www.knma.org/whats-on/exhibitions/voices-from-the-earth-women-nature-power/",
+    "startDate": "2026-11-12T10:00:00+05:30",
+    "endDate": "2026-11-15T18:00:00+05:30",
+    "description": "Painting",
+    "location": {
+      "@type": "Place",
+      "name": "ART MUMBAI",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
     "@type": "Event",
     "name": "Skipping Time",
     "url": "https://www.knma.org/whats-on/events/skipping-time/",

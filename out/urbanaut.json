@@ -1,44 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Dhruvi & Pranay",
-    "description": "The project brings forth a harmonically colourful, daring and soulful soundscape from the world of Brazil. Interpreting, some of the most classic brazilian tunes through a fresh and more contemporary lens, with Dhruvi on Voice and Pranay on Guitar. ",
-    "startDate": "2026-11-11T21:00:00+05:30",
-    "endDate": "2026-11-11T23:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53415570000000000000",
-        "longitude": "77.24300939999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "399.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Depot48",
-      "url": "https://urbanaut.app/partner/depot48"
-    },
-    "url": "https://urbanaut.app/spot/dhruvi-pranay",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "GFT: November Edition in Vasant Vihar",
     "description": "Grounds for Thought: Vasant Vihar, November 2026A Blue Tokai \u00d7 unLecture Series, Three Thursday evenings. Three very different conversations.12th November: Palak ChananaLove Actually? Attachment Styles, Situationships & the Patterns We Keep Repeating. Why do you keep finding the same kind of person? Why is it so hard to say what you need, or to leave when you meant to, or to stop repeating a pattern you thought you'd already moved past? Palak Chanana, a counselling psychologist and neuro-queer affirmative therapist who founded UnTangle Yourself, draws on anonymised, composite themes from individual and couples counselling to explore how fear, expectation, and past experience quietly shape the way we connect. This isn't a session about finding the right partner or following relationship rules \u2014 it's an invitation to get curious about how you love, what you actually need, and what you keep repeating without noticing.19th November: Deborishi GogoiVisceral Pleasures of Viewing Horror Cinema You're gripping your pillow, heart racing, yelling \"don't go in there\" \u2014 and loving every second of it. For decades, film theory explained this through Freud: repression, the unconscious, hidden anxiety. Deborishi Gogoi, a PhD scholar at Shiv Nadar Institution of Eminence working on folk horror and the critique of ideology, argues that account misses the most important part \u2014 what watching horror actually feels like, moment by moment, in the body. Through the framing, sound, and editing rhythm of three recent horror films \u2014 Suspiria, Midsommar, and The Ugly Stepsister \u2014 this session builds the case that horror's pleasure isn't saved for the ending. It's built into the dread itself.26th November: Vasundhara BhojvaidBreathing Delhi: Can a City Hold Air? What does it mean to live in a city where the atmosphere itself feels like confinement? Vasundhara Bhojvaid, Associate Professor of Sociology at Shiv Nadar University, works with a concept she calls \"Hawa-laat\" \u2014 a play on hawalaat, a police lockup, and the physical jolt of Delhi's toxic air. Moving past ecological data into what she calls our \"aerial imaginations,\" this session asks how an invisible hazard like air pollution quietly reconfigures relationships, redraws urban space, and reshapes what survival means in a city that can no longer take its air for granted.",
@@ -200,7 +162,7 @@
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
-      "price": "499.00",
+      "price": "299.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -363,6 +325,44 @@
     "keywords": [
       "Local",
       "Music",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Smash Like a Girl (Tennis | Delhi)",
+    "description": "Smash Like A Girl is  a women-only, beginner-friendly, guided tennis session by Sweat Like A Girl.You can expect warm-up, skill drills with a trained coach to learn the sport and some friendly-rallies to end the session.It is the perfect weekend plan, if you are looking to learn a new sport, find like-minded women to play with and do something active without entering the gym! You can make this a catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "startDate": "2026-11-14T17:00:00+05:30",
+    "endDate": "2026-11-14T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "J6HH+MMC, Barakhamba Rd, Todermal Road Area, Mandi House, New Delhi, Delhi 110001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.62917610000000000000",
+        "longitude": "77.22913750000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "495.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag79",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
       "URBANAUT"
     ]
   },
@@ -669,6 +669,44 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Baddy with Baddies | Saket",
+    "description": "SWAG Baddy with Baddies is a women-only, badminton meet-up.It is the perfect weekend plan, with some badminton rallies, quick sets of both doubles and singles followed by a coffee and chit chat with the group! This can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "startDate": "2026-11-15T16:00:00+05:30",
+    "endDate": "2026-11-15T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "inside NEW GREEN FIELD SCHOOL, behind PVR Anupam Saket, Ashok Vihar, Saket, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52371090000000000000",
+        "longitude": "77.20874630000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "295.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag81",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
       "URBANAUT"
     ]
   },
@@ -1148,6 +1186,42 @@
     },
     "url": "https://urbanaut.app/spot/be-delusional",
     "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Lindy Hop Dance Class & Social",
+    "description": "Join Swing Out Delhi, a fun and inclusive Lindy Hop dance community, for an evening of swing jazz and social dancing at Depot 48.Lindy Hop is a joyful and rhythmic partner dance that originated in 1930s Harlem, New York \u2014 and is now danced in cities around the world.Start with a 30-minute Lindy Hop introduction class, followed by a lively social dance set to vintage swing jazz music.No prior dance experience or partner required \u2014 just come as you are and enjoy the music, movement, and energy of the swing dance community.Enjoy an exclusive 25% discount on your total bill during the event.Limited spots available.",
+    "startDate": "2026-11-21T17:00:00+05:30",
+    "endDate": "2026-11-21T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/lindy-hop-dance-class-social",
+    "keywords": [
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -2036,6 +2110,43 @@
     "keywords": [
       "History & heritage",
       "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Shikha Thakur Belly Dancing",
+    "description": "hafla (\u062d\u0641\u0644\u0629) \u2014 arabic for gathering, or party.before it belonged to belly dance, it belonged to families , weddings, celebrations, people dancing because that's what joy looked like.Belly dancers everywhere made it their own a night that's part showcase, part community, ending with everyone on the floor, performer or not.that's what we're gathering for on the 29th November. To all the people showcasing Belly Dance to Fusion styles to Drag all in one space. Come Be a part of Our Delhi Belly Dance Community and feel the magic of Femininity.",
+    "startDate": "2026-11-29T16:30:00+05:30",
+    "endDate": "2026-11-29T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1155.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/shikha-thakur-belly-dancing",
+    "keywords": [
+      "Local",
       "Art & culture",
       "URBANAUT"
     ]
