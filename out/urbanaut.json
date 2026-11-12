@@ -936,7 +936,7 @@
     "@type": "EducationEvent",
     "name": "THE CORE - A Movement & Wellness Event",
     "description": "Come for the movement. Stay for the experience.A women's only event, the Core Live takes The Core's signature 3-2-1 Method off the screen and into the room: Strength, Pilates and Breathwork, led by Issa, The Core's Head of Movement, flying in from London for these sessions. A rare chance to train with her, followed by experiences that stay with you long after class ends.MOVE: 45 minutes of Strength \u00d7 Pilates with Issa. A full-body session built on the 3-2-1 Method, with every movement adapted to where you are today.RECOVER: Red light therapy and a sauna experience to help your body recover after training. Bring a change of clothes if you would like to try it.GLOW: An interactive beauty experience with Gunam. Hands-on skin rituals and expert tips you can take straight into your own routine.NOURISH:  A gut-friendly food experience built around The Core Nourish philosophy, made to refuel you after the session.WHAT TO BRING: Just be there, and take back something truly special. Mat, water and equipment is provided.Spots are limited.",
-    "startDate": "2026-11-19T09:00:00+05:30",
+    "startDate": "2026-11-19T11:00:00+05:30",
     "endDate": "2026-11-19T12:30:00+05:30",
     "location": {
       "@type": "Place",
@@ -1296,6 +1296,45 @@
     "url": "https://urbanaut.app/spot/a-visit-to-mexico",
     "keywords": [
       "Leisure",
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Spitty - Hello World Tour",
+    "description": "Spitty is an Indian-Canadian rapper and community leader from Brampton (just outside Toronto). His music carries an energetic yet thoughtful nature as he strives to inspire listeners through his songs. South Asian samples and instruments blend with North American influence to birth his cultured approach to hip hop. Spitty draws inspiration from artists like Eminem, Kendrick Lamar, & J. Cole.In 2026, Spitty has been on his Hello World tour, spanning Canada, USA, and India. With shows already completed in Toronto, Hamilton, New York City, and Montreal, Spitty now heads to India for 3 more shows in Delhi (Depot48), Bangalore (The Raft), and Mumbai (Khar Social).In 2025, Spitty flew out to Singapore to perform at Music Matters, his first Asian festival show. His hit song \"\"Blue Lays\"\" was in regular rotation on SiriusXM Canada Mixtape: North & Dhamaka, and was played at a Toronto Blue Jays game. Spitty saw his highest streaming numbers yet, peaking at around 100,000 Spotify monthly listeners, while his song \"\"Kush\"\" went viral in the anime community with hundreds of creates behind it. He performed for DesiFest in Toronto at Sankofa Square, as well as headlined Root'd Fest in Brampton. Spitty also performed at Oshawa Music Week, FOLD Spoken Word Festival, Masala Mixtape in Brooklyn, NY, and headlined a Brampton Honey Badgers halftime show at CAA Centre.Opening Acts: Alpha's World https://www.instagram.com/alphasxworld?cplk=bTQxOTZtd2F2MDFkArK https://www.instagram.com/theofficialark?rpxt=MTJoZ3F2cXN3cXI1aA==Shimmmhttps://www.instagram.com/shimmmwadhwa?cplk=cW9qcnBibGluMGo4",
+    "startDate": "2026-11-21T20:30:00+05:30",
+    "endDate": "2026-11-21T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "706.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/spitty-hello-world-tour",
+    "keywords": [
+      "Live GIG",
+      "Local",
       "Music",
       "Food & drink",
       "URBANAUT"
@@ -1746,6 +1785,82 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
+    "name": "Drag Dinners: A Delhi Debut",
+    "description": "Some dinners are remembered for the food. This one will be remembered for the journey it took you on.You\u2019ll arrive at a table, and over the next few hours the room becomes something you haven\u2019t been in before. A new world, built for the night, with a three-course menu, drinks poured alongside it, and a drag performance that carries you through.Welcome to Drag Dinners, where a drag performance and a sit-down dinner become one evening. After three sold-out editions in Bangalore, it\u2019s now Delhi\u2019s turn. Inducting you into this evening isn Dragalactiq, a New Delhi queer collective known for fantastical, futuristic live work. Its visual and performing artists use drag to tell stories and as a starting point for installations and performances, and they like to question what \u201cqueer art\u201d is expected to look like.The eveningA themed drag performance by DragalactiqA three-course curated dinnerThe Artists: I. Osheen, a multifarious movement and visual artist. Osheen's practice explores gender fluidity, transmutation and queer identities, reimaged through a theatrical lens, plugged into fantastical environments.II. Dame Imfala is a multidisciplinary performance artist working through drag, fashion and embodied performance. Their practice draws from the visual language of fashion and the movement vocabulary of Manipuri classical and folk dance, reimagining tradition through contemporary queer expression.Our partners:Greater Than GinAn Indian craft gin and our spirit partner for the evening. Expect a cocktail menu made for this night and a bar that knows its gin.Grover WinesOne of India\u2019s oldest wine houses, with vineyards near Bangalore. Grover is our wine partner and will be on the table alongside dinner",
+    "startDate": "2026-11-26T19:30:00+05:30",
+    "endDate": "2026-11-26T21:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Musical Fountain Park, Ground Floor, Block 7A and Block 7B, Within Block 3, One Golden Mile, Shaheed Sudhir Tyagi Marg, Block A, Netaji Nagar, New Delhi, Delhi 110066, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.57073010000000000000",
+        "longitude": "77.18547450000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2950.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Urbanaut Productions",
+      "url": "https://urbanaut.app/partner/urbanaut-productions"
+    },
+    "url": "https://urbanaut.app/spot/dragdinners",
+    "keywords": [
+      "Live GIG",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Bazaar by the Aahvaan Project",
+    "description": "The Aahvaan Project was founded in 2016, inspired by the nirgun philosophy of love and the works of sufi saints such as Kabir, Lal Ded and Lalon Fakir. Through a unique combination of storytelling and music, Aahvaan aims to create a space for conversations around the relevance of love in today\u2019s times.Vocals - VediGuitar - Sumant BalakrishnanPercussion - Makrand SanonFor years, Depot 48 has been a safe, nurturing and non-discriminatory space for artists to express themselves and connect with their audiences. Furthermore, this is the only Aahvaan date in Delhi in their upcoming winter tour. ",
+    "startDate": "2026-11-27T20:00:00+05:30",
+    "endDate": "2026-11-27T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/bazaar-by-the-aahvaan-project",
+    "keywords": [
+      "Live GIG",
+      "Local",
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
     "name": "THE ONLY SHOW THAT MATTERS with JAHNVI",
     "description": "JAHNVI is the sound of the silent scream. This Delhi-based artist doesn\u2019t just play music; she exposes the emotional chaos we keep locked inside. Her searing confessional writing, venomous melodies, gut-wrenching riffs and hauntingly powerful vocals fluidly smash together rock, metal, and hip-hop into crushing anthems. Known for her powerful performances she has shared stage with country's most respected and popular bands. From opening for Bloodywood at Outrage to sharing stages with Indian Ocean and Bhayanak Maut, JAHNVI is making a significant impact on the Indian Music Scene, crafting a world for the emotionally damaged through her music.She is also making significant cultural Impact as she started her own Mental Health Initiative, called 'Fight To The Phantom: Mental Health Music Sessions'NOTE! ADD THIS SHOW DESCRIPTION AS WELL:Hey it's J! Welcome to THE ONLY SHOW THAT MATTERS!I curated this 2-hour All Original Songs Show,just for you. Because you matter the most. NO. MATTER. WHAT.So hold tight and get ready for a 2 hour public exorcism! The most exclusive headline set of the season! This is the kind of chaos you usually have to wait for a festival to see.I'm here with my incredible band to let the chaos flood with hauntingly powerful vocals, venomous melodies, gut-wrenching riffs and deeply personal storytelling.If there's a show that's actually gonna make you feel something real and that you're alive, it's this show!",
     "startDate": "2026-11-27T22:00:00+05:30",
@@ -2043,6 +2158,83 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "RNZX",
+    "description": "RNZX is the indie sibling duo act, Rina and Zeli Khawlhring. Started out in Mizoram, currently based in New Delhi. Rnzx have released two albums and have been featured in Tunecore Next artist. Their third album \u201cResuming\u201d released on 30th October and they will start their New Album Tour starting in November 2026. Rina and Zeli have performed as a duo at Depot48 before, this time they are bringing their incredible band for an exciting live music like no other.",
+    "startDate": "2026-11-28T20:00:00+05:30",
+    "endDate": "2026-11-28T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/rnzx",
+    "keywords": [
+      "Live GIG",
+      "Local",
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Jack of Spade'Z",
+    "description": "Jack of spade'z is a rock and roll / modern rock band based in Delhi. We have played at depot 48 for many multiple occasions. Venues like depot 48 are perfect for an experimental band like ours, we love the environment, the sound, the hospitality and the stage set-up at Depot.",
+    "startDate": "2026-11-28T22:00:00+05:30",
+    "endDate": "2026-11-28T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/jack-of-spadez",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Public Tuition #2",
     "description": "What is Public Tuition?We\u2019re getting the unLecture community together for a slow, cosy morning in the sun this November.The idea is pretty simple: everyone brings one thing they know how to do and teaches it to whoever wants to learn. Maybe you crochet, solve Sudoku ridiculously fast, know a few good yoga poses, write poetry, dance, sing, fold very complicated things out of paper \u2014 whatever. It doesn\u2019t have to be a \"serious\" skill, and you definitely don\u2019t have to be an \"expert\", just some passion and interest goes a long way.Come teach us something. Come learn something. Or just come hang out and meet some new, really cool people.We\u2019ll have a picnic-y setup, a potluck (bring something to eat and share), lots of sitting around and chatting, and a bunch of little lessons happening throughout the morning.The location is going to be an open public space in Delhi, and we\u2019ll share the exact spot with everyone who registers.A few things to know:Bring one skill you\u2019d like to share, big or smallCome ready to pick up a completely random new skill from someone elseBring something for the potluck if you canWear something comfortable and come prepared to sit on the grass ( Bonus if you can bring some extra mats for the group )No expertise required. Seriously.Entry is open to everyone. Just bring yourself, something to share, and a little curiosity.",
@@ -2304,7 +2496,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "ALT EFF 2026 <> CEEW Delhi",
-    "description": "There are times in history that ask something different of us. This is one of them.The 7th edition of the All Living Things Environmental Film Festival returns with stories that don't look away. Films that find beauty in unlikely places, humour in dark times, and communities imagining futures worth fighting for.For one day, we'll gather around cinema that challenges, delights and surprises in equal measure. Expect award winning films from around the world, filmmaker Q&As, unforgettable conversations, great food, drinks, and a room full of people who aren't afraid to ask difficult questions.Pull up a chair.Let's meet the times together.This event is part of ALT EFF's decentralised screenings, proudly presented in partnership with Council on Energy, Environment and Water (CEEW)This is art as witness, joy as resistance, and cinema as a way back to each other. Program10th December 2026, Thursday6:30 - 6:35 PM: Introduction6:35 - 6:50 PM: Choora (Anand Rama Krishnan / India / 17 mins / Malayalam / 2024)6:50 - 7:05 PM: It\u2019s Only 47\u00b0C (Tej Sisodia / India / 16 mins / Hindi / 2026)7:05 - 7:15 PM: Through The Dappled Light (Puneet Raj Singh, Nikita Sharma, Apoorva Sharma / India / 8 mins / Hindi / 2025)7:15 - 7:45 PM: Q&A with the Filmmaker of Through The Dappled Light7:45 - 8:00 PM: Where the Water Hides (Marhaba Hilali / India / 13 mins / Sindhi, Kutchi, Gujarati, Hindi / 2026)8:00 - 8:20 PM: Uppuveedukal (Arathi MR / India / 22 mins / Malayalam / 2025)8:20 - 8:30 PM: Before the Fire (Swara Garge and Prakhar Dobhal / India / 11 mins / Hindi / 2026)8:30 - 9:00 PM: Q&A with the filmmaker of Before the Fire",
+    "description": "There are times in history that ask something different of us. This is one of them.The 7th edition of the All Living Things Environmental Film Festival returns with stories that don't look away. Films that find beauty in unlikely places, humour in dark times, and communities imagining futures worth fighting for.For one day, we'll gather around cinema that challenges, delights and surprises in equal measure. Expect award winning films from around the world, filmmaker Q&As, unforgettable conversations, great food, drinks, and a room full of people who aren't afraid to ask difficult questions.Pull up a chair.Let's meet the times together.This event is part of ALT EFF's decentralised screenings, proudly presented in partnership with Council on Energy, Environment and Water (CEEW)This is art as witness, joy as resistance, and cinema as a way back to each other. Programme10th December 2026, Thursday6:45 - 6:50 PM: Introduction6:50 - 6:58 PM: Through The Dappled Light (Puneet Raj Singh, Nikita Sharma, Apoorva Sharma / India / 8 mins / Hindi / 2025)6:58 - 7:15 PM: It\u2019s Only 47\u00b0C (Tej Sisodia / India / 16 mins / Hindi / 2026)7:15 - 7:26 PM: Before the Fire (Swara Garge and Prakhar Dobhal / India / 11 mins / Hindi / 2026)7:26 - 7:30 PM: Audience QR Poll7:30 - 8:00 PM: Discussion with the filmmakers of  Through The Dappled Light and Before the Fire8:00 - 8:15 PM: Snack Break8:15 - 8:32 PM: Choora (Anand Rama Krishnan / India / 17 mins / Malayalam / 2024)8:32 - 8:45 PM: Where the Water Hides (Marhaba Hilali / India / 13 mins / Sindhi, Kutchi, Gujarati, Hindi / 2026)8:45 - 9:05 PM: Uppuveedukal (Arathi MR / India / 22 mins / Malayalam / 2025)",
     "startDate": "2026-12-11T18:00:00+05:30",
     "endDate": "2026-12-11T21:00:00+05:30",
     "location": {
