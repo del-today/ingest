@@ -331,6 +331,118 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Eight Again",
+    "description": "8 AGAIN! \ud83c\udf88 A birthday party for grown-ups finding their kickRemember when the biggest decision of your day was who got the last chair?Come back to that version of you for an evening. We\u2019re throwing the birthday party you had when you were 8: potato sack races, the newspaper dance, musical chairs, lemon & spoon and more. Party hats are encouraged and overthinking is not.Come with a partner or a friend. Come because you\u2019re bored. Come alone because you want to feel young and alive again for a few hours.And if you\u2019ve been feeling a little stuck lately, in your career or in life, this might help more than you\u2019d expect. Reconnecting with your inner child, and with the things that made you lose track of time, can be a surprisingly good way to figure out what you want next. We\u2019ll end the evening chatting about exactly that, with no pressure and no pitches.Saturday, 14 NovemberVasant Vihar, New DelhiFree entryDress code: come dressed like you\u2019re 8Only 15 slots, so RSVP early!Co-sponsored by the KICK initiative (@findingyourkick), a 23-year-old\u2019s journey to finding her kick in life, and an invitation to find yours.See you there \ud83c\udf82",
+    "startDate": "2026-11-14T16:00:00+05:30",
+    "endDate": "2026-11-14T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Vasant Vihar, New Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.56028390000000000000",
+        "longitude": "77.16178810000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "KICK",
+      "url": "https://urbanaut.app/partner/kick"
+    },
+    "url": "https://urbanaut.app/spot/eight-again-bykick",
+    "keywords": [
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Baddy with Baddies | Saket",
+    "description": "SWAG Baddy with Baddies is a women-only, badminton meet-up.It is the perfect weekend plan, with some badminton rallies, quick sets of both doubles and singles followed by a coffee and chit chat with the group! This can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "startDate": "2026-11-14T16:00:00+05:30",
+    "endDate": "2026-11-14T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "inside NEW GREEN FIELD SCHOOL, behind PVR Anupam Saket, Ashok Vihar, Saket, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52371090000000000000",
+        "longitude": "77.20874630000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "295.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag81",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Second First: A Private Mixology Evening",
+    "description": "You've ordered a hundred cocktails. Time to make one.The Second First is a club for people over 40 who want to try new things, with good company. This private mixology evening is our very first experience.An expert mixologist takes you behind the bar. You'll learn the basics, shake and stir your own cocktails, and spend the evening with a small group of people who, like you, said yes to something new.Come solo or bring a friend. Everyone's a first-timer here, and we'll make sure you meet everyone properly.Only 25 seats.The Second First. Make \"someday\" today.",
+    "startDate": "2026-11-14T17:00:00+05:30",
+    "endDate": "2026-11-14T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shop No. 103,104 Two Horizon Center, Horizon Colony, DLF Phase 5, Sector 43, Gurugram, Haryana 122009, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.45138810000000000000",
+        "longitude": "77.09685950000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "thesecondfirst.club",
+      "url": "https://urbanaut.app/partner/thesecondfirstclub"
+    },
+    "url": "https://urbanaut.app/spot/thesecondfirst-mixology-gurugram",
+    "keywords": [
+      "Workshop",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Smash Like a Girl (Tennis | Delhi)",
     "description": "Smash Like A Girl is  a women-only, beginner-friendly, guided tennis session by Sweat Like A Girl.You can expect warm-up, skill drills with a trained coach to learn the sport and some friendly-rallies to end the session.It is the perfect weekend plan, if you are looking to learn a new sport, find like-minded women to play with and do something active without entering the gym! You can make this a catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
     "startDate": "2026-11-14T17:00:00+05:30",
@@ -637,6 +749,82 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Pickleball with SWAG | Gurugram",
+    "description": "The SWAG Pickleball Party is your perfect morning plan!This is a women-only, beginner-friendly meet-up.It is the perfect weekend plan, followed by a coffee and chit chat with the group! This can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "startDate": "2026-11-15T09:00:00+05:30",
+    "endDate": "2026-11-15T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Plot no.- 2, Sector 31, Gurugram, Haryana 122001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.45691050000000000000",
+        "longitude": "77.05006540000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "360.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag84",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Baddy with Baddies | Gurugram",
+    "description": "SWAG Baddy with Baddies is a women-only, badminton meet-up.It is the perfect weekend plan, with some badminton rallies, quick sets of both doubles and singles followed by a coffee and chit chat with the group! This can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "startDate": "2026-11-15T09:00:00+05:30",
+    "endDate": "2026-11-15T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Plot no.- 2, Sector 31, Gurugram, Haryana 122001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.45691050000000000000",
+        "longitude": "77.05006540000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "279.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag83",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Kaboortarbazi in Turkman gate : A heritage walk",
     "description": "Once a passion of emperors, nobles, and city elites, Kabootarbaazi was more than a sport \u2014 it was skill, strategy, pride, and poetry in flight.From the rooftops of medieval Delhi to the lanes of Turkman Gate, pigeons carried messages, status, and stories. This heritage walk explores the ancient and medieval world of Kabootarbaazi, alongside the layered history of Turkman Gate \u2014 a gateway that has witnessed sultans, sieges, resistance, and everyday life for centuries.Join us as we trace a living tradition, still fluttering above the old city, and uncover how sport, culture, and urban history come together in the skies of Purani Dilli.",
     "startDate": "2026-11-15T10:00:00+05:30",
@@ -669,44 +857,6 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Baddy with Baddies | Saket",
-    "description": "SWAG Baddy with Baddies is a women-only, badminton meet-up.It is the perfect weekend plan, with some badminton rallies, quick sets of both doubles and singles followed by a coffee and chit chat with the group! This can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
-    "startDate": "2026-11-15T16:00:00+05:30",
-    "endDate": "2026-11-15T17:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "inside NEW GREEN FIELD SCHOOL, behind PVR Anupam Saket, Ashok Vihar, Saket, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52371090000000000000",
-        "longitude": "77.20874630000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "295.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag81",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
       "URBANAUT"
     ]
   },
@@ -1025,7 +1175,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "2800.00",
+      "price": "2940.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -2121,6 +2271,43 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
+    "name": "Dice and Dine",
+    "description": "Good food. Great games. Better company! \ud83c\udfb2\ud83c\udf55Join Shoshabaazi for Dice & Dine \u2013 an evening of board games, shared food, laughter, and conversations that turn strangers into friends.\ud83c\udf72 Bring a dish to share, your game face, and good vibes!\u2764\ufe0f Come for the games, stay for the people!",
+    "startDate": "2026-11-28T18:00:00+05:30",
+    "endDate": "2026-11-28T20:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "106, Block C4F, Janakpuri, Delhi, 110058, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.62138100000000000000",
+        "longitude": "77.09184460000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "299.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Shoshabaazi",
+      "url": "https://urbanaut.app/partner/shoshabaazi"
+    },
+    "url": "https://urbanaut.app/spot/dice-and-dine",
+    "keywords": [
+      "Local",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
     "name": "Viva La Vino Wine Festival: Delhi Edition",
     "description": "Viva La Vino \u2013 Delhi Edition 2026 \ud83c\udf77\ud83c\udfb6The wine festival you know and love is back for Season 3! Co-curated by Sommeliers Devati Mallick and Gargi Kothari, VLV is the first-of-its-kind, super-fun wine festival building a wine culture that\u2019s playful, welcoming, and totally unforgettable. Expect (unlimited!) fun wines, good food, groovy music and a fab evening out with your wine-loving tribe!We're taking over The Grand New Delhi's expansive lawn space with a full festival-style setting, elevated food, cooler spaces and all the VLV vibes you came for. \u2728What's in store at VLV Season 3:100+ wines to discover: Taste your way through 100+ International and Indian wines! Discover new producers, find your next favourite bottle, or revisit an old love, because there will be plenty of wine to keep things interesting. All wine tastings are included in your festival ticket.Introducing The Grand Cru Lounge: This season we're introducing the Grand Cru Lounge, a limited-access premium lounge for those who want to stay longer, eat better and drink some seriously good wine.The steal deal: Your Grand Cru Lounge ticket includes everything from the main festival PLUS access to the exclusive lounge, an elevated dinner buffet (included), premium wines by the glass at special festival prices, extended after-hours access, and a bunch of other cool perks, like an opportunity to win a Coravin gift set worth INR 30,000 for 1 lucky winner (a revolutionary wine preservation system that every wine lover MUST have!) after a competitive quiz.The lounge will be open from 8 PM until midnight. 50 tickets only!Vinyl DJ set + all-evening grooves: We're turning up the soundtrack this year with DJ Sindhi Curry, who has a groovy vinyl set ready that will keep the festival energy going all evening. Wine & Vinyl - can't go wrong with that stellar pairing!VLV merch: Yes, you can finally take the VLV vibe home with you. Look out for our brand-new wine-themed pins, totes, stickers, fridge magnets and more available to purchase at the festival.Artisan cheese: Your ticket includes a dreamy artisan cheese cup for one, so you can sip and snack at the same time. Want more? Shop extra platters and also take home your cheesy favourites.Craft chocolate: Meet India\u2019s finest craft chocolate producers and shop their gourmet range to sweeten your evening. Wine, cheese, and chocolate are always a good idea!Bigger, better food: We're making the food experience a much bigger part of VLV this season, with live food stations, delicious bites and a whole lot more to eat while you make your way through the wines.Sip in style with Lucaris: our glassware partner is back with a stunning collection, so you'll be tasting all your wines in glasses designed to elevate the experience. Pick up your glass on entry, sip your way through, and return it before you leave. \ud83c\udf77Last year was a hot sell-out, and this year promises to be even bigger. Bring a friend, your partner, a whole gang of wine buddies, or come solo and find your tribe here. Just don\u2019t miss it. See you there?",
     "startDate": "2026-11-28T18:00:00+05:30",
@@ -2419,6 +2606,83 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Sourdough Bread Workshop",
+    "description": "As the days turn crisp, let's turn towards our kitchens, get our hands into some flour and discover the magic of sourdough!Join me for four days of hands-on Winter Sourdough Workshops, exploring the basics of sourdough, different grains, different dough hydrations, and delicious breads. Whether you're a complete beginner or looking to expand your sourdough repertoire, there's something for you.Our four-day line-up:Thu, Dec 3 \u2013 Introduction to Sourdough + Wholegrain Snacks with SDFri, Dec 4 \u2013 SD Ciabatta + SD Ragi FocacciaSat, Dec 5 \u2013 SD Artisanal Bread Loaf + FocacciaSun, Dec 6 \u2013 Soft White SD Sandwich LoafCome learn, knead, fold, shape and bake. A little winter warmth, lots of good bread and plenty of sourdough love! real bread made the old-fashioned way, with just flour, water, and salt! Sessions 1 & 3 require no prior baking or cooking experience. Session 4, familiarity with maintaining a SD starter is desiarable. Session 2 is for those who have been baking a basic SD loaf for some time. These are hands-on classes aimed at those seriously interested in the sourdough baking process. Participants work independently on their loaves from start to finish.\ud83c\udf31 New to sourdough? Not ready to bake a loaf just yet? Check Intro to Sourdough where you'll learn to nurture and maintain your very own starter, and make wholegrain snacks with it.",
+    "startDate": "2026-12-03T15:00:00+05:30",
+    "endDate": "2026-12-06T16:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "A99, Block A, Swasthya Vihar, New Delhi, Delhi, 110092, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.63999000000000000000",
+        "longitude": "77.29142000000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "A Mad Tea Party",
+      "url": "https://urbanaut.app/partner/a-mad-tea-party"
+    },
+    "url": "https://urbanaut.app/spot/sourdough",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Workshop",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Azad opened by Chahat and Samay",
+    "description": "The Azadsome things take a while to become realthis started in 2025 under names that never quite felt like home every rehearsal every demo every show was another version of a story still figuring itself out then somewhere in january 2026 the noise settled and the azad happenedsince then we have been chasing the songs that somehow slipped through the cracks the ones that deserved bigger stages louder crowds and another chance to be heard indie with a little funk rock with a little soul and just enough chaos to keep things interestingwe like music that feels lived in the kind that sticks to your clothes after a gig follows you home and somehow finds its way back into your head three days laterthis is less about fitting into a genre and more about finding moments that feel honest loud quiet messy beautiful whatever they need to bethe azad is not where the story began, but depot 48 will be OPENING ACTwe are two friends who met through one of the bands members, we share a love for the same kind of music and believed in the fact that this would be a good opportunity to put ourselves out there, and azad shows us the way\"",
+    "startDate": "2026-12-04T20:00:00+05:30",
+    "endDate": "2026-12-04T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/azad-opened-by-chahat-and-samay",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Abhidaan presents - 'Kya mere ho?'",
     "description": "We are an indie-pop duo from Jodhpur, formed by childhood friends Abhimanyu and Vardaan, who have been making music together since 2019. Our debut independent show at Depot 48 is a project very close to our hearts, a thoughtfully curated, intimate musical experience designed to complement the venue. We want to create a space where people can connect with our music up close, share a few stories, and experience our songs in a way that feels personal, immersive, and memorable. Depot 48 feels like the perfect home for this experience.Yojit Ahuja is a Jodhpur-born, Delhi-based singer-songwriter, who serves the rat race as a software engineer. Yojit explores lyrics that go beyond conventional love stories to explore ambition, disillusionment, hope, betrayal and the realities of everyday life.",
@@ -2527,6 +2791,45 @@
       "Festival",
       "Eco Friendly",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Revelation of Ruins",
+    "description": "Revelation of Ruins ft. Rattlesnakes / Opening Act \u00b7 Yanshi | Afterparty \u00b7 KAALKIRattlesnakes is a Delhi-based alternative metal band turning inner chaos into sound. Blending modern metal, dissonance and haunting melodies, their music is a mirror of lost stories \u2014 unfiltered, unpolished, unforgettable. With a four-track EP, a single and seven shows behind them, Rattlesnakes chases fragments of peace beneath the noise, even if it means bleeding to find them.Revelation of Ruins is a multi-artist live music event featuring three distinct acts, bringing together different sounds and experiences for one memorable night.anshi (Opening act) - yanshi writes songs that feel like memories you\u2019ve lived in, even if you haven\u2019t owing to the intimacy and honesty they offer. In between the transition from singer-songwriter to indie-pop, in the faded duality the soundscape of the album finds it\u2019s place. Bleeding through tissues. written on walls, her diary, bits of leftover paper and in her phone as she goes, the words to her songs are feelings manifested in the capacity that language offers. With her debut studio EP \u2018art imitates life\u2019 yanshi walks onto new terrain, one which demands you step on it bare footed, come to terms with all the mistakes that were made when she mistook love for devotion. This six track EP is the truth of learning what love really means when the daydream fades.KAALKI \u2014 KAALKI is a melodic house project built around emotion, energy, and storytelling through sound. Blending hypnotic grooves, cinematic melodies, and deep atmospheric textures, the project aims to create journeys that go beyond the dancefloor.Inspired by the idea of transformation and new beginnings, KALKI is about evolving through music and creating a sound that feels both familiar and otherworldly.A new era begins with sound",
+    "startDate": "2026-12-12T20:30:00+05:30",
+    "endDate": "2026-12-12T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/revelation-of-ruins",
+    "keywords": [
+      "Live GIG",
+      "Local",
+      "Music",
+      "Food & drink",
       "URBANAUT"
     ]
   },
