@@ -37,307 +37,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Western Music Annual Concert",
-    "description": "All the students of Saraswati Music College come together to participate in a band jam session. ",
-    "startDate": "2026-11-14T13:00:00+05:30",
-    "endDate": "2026-11-14T16:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53415570000000000000",
-        "longitude": "77.24300939999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1050.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Depot48",
-      "url": "https://urbanaut.app/partner/depot48"
-    },
-    "url": "https://urbanaut.app/spot/western-music-annual-concert",
-    "keywords": [
-      "Live GIG",
-      "Festival",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Show & Tell - A share, learn & exchange circle",
-    "description": "As Children's Day approaches on 14th Nov, we are curating a space for all of us to revisit our childhood where we brought curiosity to every conversion, excitement to share our latest new hobby/skill/ experience and an openess to learn from others and widen our worldview.This is Show & Tell time, a fun activity we all would have experienced in our childhood but new take on it as adults. This is a chance to bring your excitement and joy for anything you are passionate about and share it with a table full of enthusiasts who are open to learn and exchange new ideas & experiences. You never know you may just initiate someone into your world or find more like-minded people who love the same things as you.So whatever is your latest fancy or something you are really passionate about or just something you want to share with more people - a book that deserves to be talked about more, a short video/ film that should be seen, a craft that you would like to teach - art, origami, crochet, the list is endless, poetry that everyone should hear or the art of writing poetry - whatever is your expertise, a sub-stack that deserves attention or the art of writing, an AI agent you created and would be useful for others, a travel story and trip to plan, best food recommendations or recipe you made and want everyone to try, a game you love and want to teach everyone. The scope of this is as wide and as creative you want it to be. Everyone gets 10 minutes for the demonstration and 5 mins for Q&A. Or you can use the full 15 mins as an open engagement.Join us for an afternoon of sharing, learning and exchanging new experiences, ideas and passion points and finding common ground. Come as you are, the table will share and listen as one as we experience the wonders of our collective passions.All F&B consumed will be charged as per actuals. The exact venue will be shared 24 hours prior. ",
-    "startDate": "2026-11-14T15:00:00+05:30",
-    "endDate": "2026-11-14T17:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Vasant Kunj, New Delhi, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52474180000000000000",
-        "longitude": "77.15545390000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "199.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Wander & Wonder",
-      "url": "https://urbanaut.app/partner/wander-wonder"
-    },
-    "url": "https://urbanaut.app/spot/show-tell-a-share-learn-exchange-circle",
-    "keywords": [
-      "Leisure",
-      "Workshop",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Kids Are Alright",
-    "description": "This childrens day let your inner child loose! We are having a junior school annual day for adults! With races like sack race, lemon and spoon race, 3 legged race as well as more college level games like flip cup!\u00a0Come by yourself or come in teams! May the best kid win!\u00a0",
-    "startDate": "2026-11-14T15:00:00+05:30",
-    "endDate": "2026-11-14T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54778550000000000000",
-        "longitude": "77.21136729999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1003.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Gully Labs",
-      "url": "https://urbanaut.app/partner/baithak"
-    },
-    "url": "https://urbanaut.app/spot/the-kids-are-alright",
-    "keywords": [
-      "Local",
-      "Music",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Eight Again",
-    "description": "8 AGAIN! \ud83c\udf88 A birthday party for grown-ups finding their kickRemember when the biggest decision of your day was who got the last chair?Come back to that version of you for an evening. We\u2019re throwing the birthday party you had when you were 8: potato sack races, the newspaper dance, musical chairs, lemon & spoon and more. Party hats are encouraged and overthinking is not.Come with a partner or a friend. Come because you\u2019re bored. Come alone because you want to feel young and alive again for a few hours.And if you\u2019ve been feeling a little stuck lately, in your career or in life, this might help more than you\u2019d expect. Reconnecting with your inner child, and with the things that made you lose track of time, can be a surprisingly good way to figure out what you want next. We\u2019ll end the evening chatting about exactly that, with no pressure and no pitches.Saturday, 14 NovemberVasant Vihar, New DelhiFree entryDress code: come dressed like you\u2019re 8Only 15 slots, so RSVP early!Co-sponsored by the KICK initiative (@findingyourkick), a 23-year-old\u2019s journey to finding her kick in life, and an invitation to find yours.See you there \ud83c\udf82",
-    "startDate": "2026-11-14T16:00:00+05:30",
-    "endDate": "2026-11-14T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Vasant Vihar, New Delhi, Delhi, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.56028390000000000000",
-        "longitude": "77.16178810000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "KICK",
-      "url": "https://urbanaut.app/partner/kick"
-    },
-    "url": "https://urbanaut.app/spot/eight-again-bykick",
-    "keywords": [
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "The Second First: A Private Mixology Evening",
-    "description": "You've ordered a hundred cocktails. Time to make one.The Second First is a club for people over 40 who want to try new things, with good company. This private mixology evening is our very first experience.An expert mixologist takes you behind the bar. You'll learn the basics, shake and stir your own cocktails, and spend the evening with a small group of people who, like you, said yes to something new.Come solo or bring a friend. Everyone's a first-timer here, and we'll make sure you meet everyone properly.Only 25 seats.The Second First. Make \"someday\" today.",
-    "startDate": "2026-11-14T17:00:00+05:30",
-    "endDate": "2026-11-14T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Shop No. 103,104 Two Horizon Center, Horizon Colony, DLF Phase 5, Sector 43, Gurugram, Haryana 122009, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.45138810000000000000",
-        "longitude": "77.09685950000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3000.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "thesecondfirst.club",
-      "url": "https://urbanaut.app/partner/thesecondfirstclub"
-    },
-    "url": "https://urbanaut.app/spot/thesecondfirst-mixology-gurugram",
-    "keywords": [
-      "Workshop",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Smash Like a Girl (Tennis | Delhi)",
-    "description": "Smash Like A Girl is  a women-only, beginner-friendly, guided tennis session by Sweat Like A Girl.You can expect warm-up, skill drills with a trained coach to learn the sport and some friendly-rallies to end the session.It is the perfect weekend plan, if you are looking to learn a new sport, find like-minded women to play with and do something active without entering the gym! You can make this a catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
-    "startDate": "2026-11-14T17:00:00+05:30",
-    "endDate": "2026-11-14T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "J6HH+MMC, Barakhamba Rd, Todermal Road Area, Mandi House, New Delhi, Delhi 110001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.62917610000000000000",
-        "longitude": "77.22913750000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "495.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag79",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Baddy with Baddies | Saket",
-    "description": "SWAG Baddy with Baddies is a women-only, badminton meet-up.It is the perfect weekend plan, with some badminton rallies, quick sets of both doubles and singles followed by a coffee and chit chat with the group! This can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
-    "startDate": "2026-11-14T18:00:00+05:30",
-    "endDate": "2026-11-14T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "inside NEW GREEN FIELD SCHOOL, behind PVR Anupam Saket, Ashok Vihar, Saket, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52371090000000000000",
-        "longitude": "77.20874630000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "295.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag81",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Children's Day workshop",
-    "description": "Gentle reminder to Yourself for the joy of being a child playing with colours. Come as you are. All materials shall be provided.\u00a0",
-    "startDate": "2026-11-14T18:00:00+05:30",
-    "endDate": "2026-11-14T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "WZ-1390/6, Pankha Rd, D1B Block, Janakpuri, New Delhi, Delhi, 110046, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.60821770000000000000",
-        "longitude": "77.10370630000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "799.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "YUJ Studio",
-      "url": "https://urbanaut.app/partner/yuj-studio"
-    },
-    "url": "https://urbanaut.app/spot/childrens-day-workshop",
-    "keywords": [
-      "Leisure",
-      "Workshop",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "South Asia Union Summit 2026",
     "description": "What if you could go beyond the headlines and be part of conversations shaping our world?From democracy and women's rights to AI, climate change, identity, and culture, some conversations are too important to scroll past.This November, eShe brings together 50 speakers from 15 countries for the South Asia Union Summit 2026 \u2014 three days of powerful conversations, fresh perspectives, and ideas that challenge the way we see the world.Meet activists, journalists, filmmakers, political leaders, and changemakers from across the globe as they explore one central theme: Gender, Power, Resistance.What to Expect9 thought-provoking panel discussions3 keynote sessions and a special talkConversations on democracy, AI, women's rights, climate justice, media, and culturePerspectives from South Asia and around the worldWhy You Should AttendGo beyond the headlines: Explore the issues shaping our future through diverse perspectives.Hear from global changemakers: Listen to voices challenging the status quo.Join from anywhere: No travel, no ticket cost. Just meaningful conversations, live online.Event DetailsDates: November 13\u201315, 2026Venue: Online | Live on ZoomEntry: Completely FREERegistration: One registration covers all three days.Keynote sessions will be broadcast on Facebook.Be Part of the ConversationIt's completely free, and registration takes just one minute.Register now: https://eshe.in/summit-2026/Don't just watch the world change. Be part of the conversation.",
@@ -369,121 +68,6 @@
     "url": "https://urbanaut.app/spot/south-asia-union-summit-2026",
     "keywords": [
       "Virtual",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Raat ke Afsane : Red Fort Moonlit walk",
-    "description": "A Heritage Walk Through the Red FortStep into the world of Qila e Mubarak, popularly known as the Red Fort, through a specially arranged private heritage walk exploring its history, architecture and cultural traditions.Discover the world of Shah Jahan and the Mughal court, while uncovering stories behind the fort's lesser-known features, including the Nahr e Bihisht, Stream of Paradise, silken qanats and the original artistic traditions of Chatta Chowk.Through engaging storytelling, explore the Red Fort as more than a monument, a royal space shaped by emperors, nobles, artists and forgotten traditions.The language of communication is Hindi and English.Specially Arranged Private Heritage Walk",
-    "startDate": "2026-11-14T19:00:00+05:30",
-    "endDate": "2026-11-14T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Netaji Subhash Marg, Old Delhi, Lal Qila, Chandni Chowk, New Delhi, Delhi, 110006, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.65615920000000000000",
-        "longitude": "77.24102030000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "700.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Enroute Indian History",
-      "url": "https://urbanaut.app/partner/enrouteindianhistory"
-    },
-    "url": "https://urbanaut.app/spot/heritage-walk-red-fort",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Tribute to Indian Rock Legends with PUNCH",
-    "description": "Punch is a five-piece progressive rock band from Calcutta, known for its brand of originals and a unique cover set that pays tribute to Indian bands and rock legends such as Indus Creed, Parikrama, Zero, Motherjane, Pentagram and other legendary acts. It is the only band in India to play this set.",
-    "startDate": "2026-11-14T20:00:00+05:30",
-    "endDate": "2026-11-14T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53415570000000000000",
-        "longitude": "77.24300939999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Depot48",
-      "url": "https://urbanaut.app/partner/depot48"
-    },
-    "url": "https://urbanaut.app/spot/tribute-to-indian-rock-legends-with-punch",
-    "keywords": [
-      "Live GIG",
-      "Local",
-      "Music",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Prerna Sarin",
-    "description": "Prerna Sarin ft. Shomudro Ghosh, Saniya Dhawan, Sohum Basu, Neil VichitraPrerna Sarin is a dynamic professional with a diverse background in finance, languages, cultural diplomacy, and music. After earning a Bachelor of Business Administration in Finance and studying French, she gained experience in cultural and educational diplomacy at the French Embassy in India, focusing on initiatives that foster international collaboration and intercultural exchange. She also completed the GPODS Fellowship, which emphasises global policy and sustainability.Prerna holds an Artist Diploma in Western Contemporary Music Performance (Voice) from the Global Music Institute, a Berklee partner institution. She has also participated in Ethno India, an international music exchange programme that brings together young musicians from diverse cultural and musical traditions to collaborate, learn, and share their music.Among her artistic highlights, Prerna had the privilege of performing as a backing vocalist alongside acclaimed jazz icon Dianne Reeves through an opportunity facilitated by the Global Music Institute. As a multilingual, multi-genre singer and music educator, she is passionate about exploring diverse musical traditions and fostering creative expression.She enjoys bringing French and English together through music, exploring the beauty of two languages and cultures.",
-    "startDate": "2026-11-14T22:00:00+05:30",
-    "endDate": "2026-11-14T23:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53415570000000000000",
-        "longitude": "77.24300939999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Depot48",
-      "url": "https://urbanaut.app/partner/depot48"
-    },
-    "url": "https://urbanaut.app/spot/prerna-sarin",
-    "keywords": [
-      "Live GIG",
-      "Local",
-      "Music",
-      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -1012,6 +596,41 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Gully Gyaan- The Ultimate Quiz",
+    "description": "Multi-Quizzine and Gully Labs are proud to introduce Gully Gyaan, a bi-monthly quiz series at Gully Labs in Panchsheel Park.Think you've got what it takes to battle it out over 4-5 rounds of Jeopardy, University Challenge, Only Connect and more, and take home some kick-ass prizes (shoes, jerseys and more). Assemble your team and join us!For Vol. 01, we're keeping it simple. It's going to be General Gyaan.They'll be food, beers, soda/juices and a whole lot of fun.See you all at Gully Gyaan!",
+    "startDate": "2026-11-19T20:00:00+05:30",
+    "endDate": "2026-11-19T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "590.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
+    },
+    "url": "https://urbanaut.app/spot/gullygyaan",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "The Plane Story: The Aerodynamics of Flight",
     "description": "About the LectureHow Does a Plane Fly? Join us for a lecture by someone who does it for a living:Most of us have spent a flight staring out of the window with a vague memory of something about air moving faster over the top of the wing. Capt. Soham has spent eleven years on the other side of the flight deck door, and he's here to do the explanation properly \u2014 the real physics of how an aircraft flies, in terms that don't require a degree to follow.From there we go into the part passengers never see: what is actually happening in the flight deck during approach and landing, the busiest and most choreographed minutes of any flight. And then the questions he gets asked every time someone visits the cockpit \u2014 the trivia, the myths, the things people are nervous about \u2014 with plenty of room for yours.Stay back afterwards if you'd like to try your hand at a flight simulator game.The session explores:The physics of flight, explained by someone who uses it rather than teaches itWhat actually happens in the flight deck during approach and landingThe questions pilots get asked most, and the honest answersAn open Q&A, and a flight simulator game to try after the sessionAbout the SpeakerCapt. Soham was born and raised in Delhi and schooled at Modern School, Barakhamba Road, before training as a pilot at IGRUA. He has been flying commercially for an Indian airline for over eleven years and is currently a Senior Captain on the Airbus A320 family.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
     "startDate": "2026-11-20T19:00:00+05:30",
@@ -1065,7 +684,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "2940.00",
+      "price": "2800.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -1677,6 +1296,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Raat ke afsane: Saheliz Walk Returns",
+    "description": "Saheliz Walk: Discover the Timeless Beauty of Lodhi Garden \ud83c\udf3fStep into Delhi's rich history with the Saheliz Walk, a special heritage walk exclusively for women through the iconic Lodhi Garden.Explore magnificent tombs, beautiful Indo-Islamic architecture, and centuries of fascinating stories as we journey through the Lodhi dynasty's legacy. From grand domed structures to hidden architectural details, every stop reveals a new chapter of Delhi\u2019s medieval past.Surrounded by lush greenery and historic monuments, this leisurely walk offers the perfect opportunity to connect with history, enjoy the outdoors, and share meaningful conversations with fellow women.Whether you're a history enthusiast, a photography lover, or simply looking for a refreshing cultural experience, join us for a morning of heritage, discovery, and sisterhood.Places Covered1. Mohammed Shah's Tomb2. Bara Gumbad3. Bara Gumbad Mosque4. Sheesh Gumbad5. Sikandar Lodi's Tomb6. Athpula Bridge6. Historic Garden LandscapesImportant Information1. Details of the heritage walk will be shared via email after ticket booking confirmation.2. The walk will be conducted in Hindi and English.3. Please wear comfortable walking shoes and carry drinking water.4. The route is easy-paced and suitable for participants of all age groups.5. In case of unavoidable circumstances such as adverse weather, government restrictions, or 6. unforeseen events, the walk may be rescheduled. Participants may attend another walk organised by the company within 30 days of the registered walk date.7. No refund policy applies.",
+    "startDate": "2026-11-22T17:00:00+05:30",
+    "endDate": "2026-11-22T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "H6WW+8V, Nizamuddin, National Zoological Park, Sundar Nagar, New Delhi, Delhi 110013, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59582470000000000000",
+        "longitude": "77.24716599999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/raat-ke-afsane-saheliz-walk",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "That One Funny Girl At 3 AM | Megha Re Sa",
     "description": "That One Funny Girl At 3 AM | Megha Re Sa ft. Rawnaq & Rahul ChaurasiaMegha is a singer and content creator with a deep love for the timeless melodies of retro Bollywood and the poetic charm of ghazals. Drawn to music that evokes nostalgia and emotion, she brings her own expression to beloved classics while also sharing original compositions that reflect her journey as an artist. Her musical style brings together the familiarity of old favourites, the intimacy of ghazals, and the freshness of her own sound, creating an experience that feels both nostalgic and personal.",
     "startDate": "2026-11-22T20:00:00+05:30",
@@ -1928,6 +1586,42 @@
     "url": "https://urbanaut.app/spot/dragdinners",
     "keywords": [
       "Live GIG",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Bali Jatra Table: A Culinary Voyage",
+    "description": "The Bali Jatra Table: A Culinary VoyageTwo shores. Shared histories. Seven courses. One culinary voyage.Centuries ago, the maritime traders of ancient Kalinga (present-day Odisha) set sail across the Bay of Bengal, carrying with them not just goods and spices, but stories, traditions, and cultural influences. Their voyages forged connections with Southeast Asia, including Bali, leaving behind a legacy that continues to be celebrated through Odisha's annual Bali Jatra festival.This November, Rosei Ghara invites you to embark on a culinary voyage inspired by this fascinating chapter of history.In collaboration with Chef Rachit Keertiman and Chef Kartikeya Sinha, we present a specially curated seven-course tasting menu that explores the culinary parallels between Odisha and Bali.Through shared ingredients, familiar cooking techniques, complementary flavours, and contemporary interpretations, each course tells a story of two distinct food cultures connected by history and the sea.What Makes This Table Special?A Celebration of Shared HeritageInspired by Bali Jatra, the experience explores the historic maritime and cultural connections between Odisha and Bali, bringing their culinary similarities to life on a single table.Seven Courses, Two Culinary CulturesCome aboard. Let's discover what happens when two shores meet at one table.",
+    "startDate": "2026-11-27T20:00:00+05:30",
+    "endDate": "2026-11-29T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shahpur Jat, Siri Fort, New Delhi, Delhi 110049, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54878510000000000000",
+        "longitude": "77.21596509999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2940.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Rosei Ghara",
+      "url": "https://urbanaut.app/partner/roseighara"
+    },
+    "url": "https://urbanaut.app/spot/the-bali-jatra-table-a-culinary-voyage",
+    "keywords": [
       "Food & drink",
       "URBANAUT"
     ]
@@ -2611,7 +2305,7 @@
     "@type": "FoodEvent",
     "name": "Azad opened by Chahat and Samay",
     "description": "The Azadsome things take a while to become realthis started in 2025 under names that never quite felt like home every rehearsal every demo every show was another version of a story still figuring itself out then somewhere in january 2026 the noise settled and the azad happenedsince then we have been chasing the songs that somehow slipped through the cracks the ones that deserved bigger stages louder crowds and another chance to be heard indie with a little funk rock with a little soul and just enough chaos to keep things interestingwe like music that feels lived in the kind that sticks to your clothes after a gig follows you home and somehow finds its way back into your head three days laterthis is less about fitting into a genre and more about finding moments that feel honest loud quiet messy beautiful whatever they need to bethe azad is not where the story began, but depot 48 will be OPENING ACTwe are two friends who met through one of the bands members, we share a love for the same kind of music and believed in the fact that this would be a good opportunity to put ourselves out there, and azad shows us the way\"",
-    "startDate": "2026-12-04T20:00:00+05:30",
+    "startDate": "2026-12-04T19:30:00+05:30",
     "endDate": "2026-12-04T22:00:00+05:30",
     "location": {
       "@type": "Place",
