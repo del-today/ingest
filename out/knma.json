@@ -141,51 +141,11 @@
   },
   {
     "@type": "EducationEvent",
-    "name": "Anthotype Printmaking Workshop",
-    "url": "https://www.knma.org/whats-on/workshops/anthotype-printmaking-workshop/",
-    "startDate": "2026-11-13T10:00:00+05:30",
-    "endDate": "2026-11-14T18:00:00+05:30",
-    "description": "Methods",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "EducationEvent",
     "name": "Arboreal Intensive",
     "url": "https://www.knma.org/whats-on/talks/arboreal-intensive/",
     "startDate": "2026-11-14T10:00:00+05:30",
     "endDate": "2027-01-30T18:00:00+05:30",
     "description": "",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "MusicEvent",
-    "name": "The Forest and the Self",
-    "url": "https://www.knma.org/whats-on/events/the-forest-and-the-self/",
-    "startDate": "2026-11-14T10:00:00+05:30",
-    "endDate": "2026-11-14T10:00:00+05:30",
-    "description": "Music",
     "location": {
       "@type": "Place",
       "name": "KNMA, New Delhi",
@@ -246,6 +206,26 @@
     "startDate": "2026-11-21T10:00:00+05:30",
     "endDate": "2026-11-21T10:00:00+05:30",
     "description": "Artist in Me",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Felting Impressions",
+    "url": "https://www.knma.org/whats-on/workshops/felting-impressions/",
+    "startDate": "2026-11-27T10:00:00+05:30",
+    "endDate": "2026-11-28T18:00:00+05:30",
+    "description": "Methods",
     "location": {
       "@type": "Place",
       "name": "KNMA, New Delhi",
