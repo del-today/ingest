@@ -1,56 +1,6 @@
 [
   {
     "@type": "SportsEvent",
-    "name": "HRX HALF MARATHON 4 - Bengaluru",
-    "url": "https://indiarunning.com/events/hrx_4_half_marathon_bengaluru_37807",
-    "startDate": "2026-11-15T05:45:00+05:30",
-    "endDate": "2026-11-15T11:00:00+05:30",
-    "description": "HRX welcomes you to the HRX Half Marathon Bengaluru!\nBengaluru, it\u2019s time to run harder, push further, and test what you\u2019re capable of.\nThis November, thousands of runners from across the HRX community will come together on the iconic NICE Road for a morning fuelled by energy, endurance and the relentless drive to keep going.\nWhether you\u2019re taking your first step into running with the HRX RAVE5 - a 5K run to kickstart your journey, or pushing your pace with the HRX FAST10. And ofcourse taking on the ultimate challenge of the 21K Half Marathon, there\u2019s a distance waiting to challenge you.\nLast date of registration: \nNovember 5th, 2026\nEvent Date: Sunday, 15th November 2026\nEvent Venue: NICE Road, Bengaluru\n\ufeffNote:\n Your race kit will be delivered to the address provided during registration. Please ensure that your address and contact details are accurate and complete to avoid any delivery issues.\nLace up. Find your pace. Push past your limits. And when it gets tough, Keep Going.\nRun with the community. Run for the challenge. Run to become unstoppable.\n#RunWithHRX",
-    "image": "https://race-registration-cdn.indiarunning.com/events/2026/11/15/10201/banner1793031992645",
-    "location": {
-      "@type": "Place",
-      "name": "Dwaraka Nagar",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "WGPJ+JFW, Dwaraka Nagar, Hosakerehalli, Bengaluru, Karnataka 560026, India",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "Karnataka",
-        "postalCode": "560026",
-        "addressCountry": "India"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9366173,
-        "longitude": 77.53119319999999
-      }
-    },
-    "sport": "Running",
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "5k",
-        "price": "1250",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      },
-      {
-        "@type": "Offer",
-        "name": "10k",
-        "price": "1250",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      },
-      {
-        "@type": "Offer",
-        "name": "21.1K",
-        "price": "1250",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@type": "SportsEvent",
     "name": "Cubbon Run and Coffee Rave with PaceX",
     "url": "https://indiarunning.com/events/cubbon_run_and_coffee_rave_with_pacex_26282",
     "startDate": "2026-11-21T07:00:00+05:30",
@@ -446,6 +396,56 @@
         "@type": "Offer",
         "name": "10k",
         "price": "499",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@type": "SportsEvent",
+    "name": "AGI 10K RUN",
+    "url": "https://indiarunning.com/events/asdnasd_40311",
+    "startDate": "2027-01-31T05:30:00+05:30",
+    "endDate": "2027-01-31T05:00:00+05:30",
+    "description": "The AGI 10K Run returns for its 3rd edition on Sunday, 31 January 2027, and this year we run for our hearts. Powered by Akash Cardiac Centre, the race takes you through the streets of Devanahalli, starting and finishing at the Akash Campus in North Bangalore.\nChoose your challenge: a timed 10K or 5K with cash prizes and age-group honours, or a non-timed 3K for families and first-timers. Every runner earns a premium finisher\u2019s medal, a T-shirt and refreshments, plus 50% off select cardiac services.\nEvery step counts, so lace up and Run For Your Heart.\n1. Registration\nRegistration is confirmed only after full payment.\nThere are no cancellations or refunds.\nBIBs cannot be transferred, and you cannot change category.\nT-shirt sizes follow the details given at registration and cannot be swapped later.\n\u00a0\n2. Eligibility\nMinimum age is 12 years for Heart 10K and Pulse 5K, and 8 years for Happy Heart 3K.\nParticipants confirm they are medically fit to run.\n3. BIB collection\nBIBs are given out only at the pick-up venue you selected.\nThere is no BIB distribution on race day.\n4. Race day\nReporting time is 5:30 AM for all categories, and the race starts at 6:00 AM.\nWear your BIB on the front, clearly visible. Anyone running with someone else\u2019s BIB will be disqualified.\nFollow the instructions of marshals, volunteers and medical staff.\n5.Finisher benefits\nEvery finisher gets a premium medal and refreshments.\n6.Health & safety\nParticipants run at their own risk. The organisers, sponsors and partners are not responsible for injury, illness or loss of belongings.\n7.Conduct & media\nCutting the course or unsportsmanlike behaviour will lead to disqualification. Please keep Devanahalli and the AGI Campus clean.\nPhotos and videos taken at the event may be used for promotion.\nBy registering, participants accept these terms.",
+    "image": "https://race-registration-cdn.indiarunning.com/events/2027/01/31/10636/banner1794663732397",
+    "location": {
+      "@type": "Place",
+      "name": "Devanahalli",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "3rd Floor, KMRP Ward, 27th Block, No 205, Surya Arcade, 446/2/447/448/120/3, Devanahalli, Bengaluru, Devanahalli Town, Karnataka 562110, India",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "562110",
+        "addressCountry": "India"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.2445697,
+        "longitude": 77.70591189999999
+      }
+    },
+    "sport": "Running",
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "3K",
+        "price": "299",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "name": "5k",
+        "price": "299",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "name": "10k",
+        "price": "299",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock"
       }
