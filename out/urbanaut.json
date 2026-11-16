@@ -475,7 +475,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Playdate picnic",
-    "description": "\u200bTrade your spreadsheets and doom-scrolling for a lazy Saturday under a tree. This is a screen-light Playdate Picnic designed to give your burnt-out brain a hard reset. Think clay, journals, card games, good music, and zero \"what do you do for a living?\" small talk. Just colours galore and great company.\u200b\ud83c\udfa8 How It Works (Spoiler: There Are No Rules)\u200b- Come solo or bring a friend: Most people show up alone, and everyone leaves with new favourites.\u200b- No artistic talent required: If the last thing you drew was a stick figure in 2014, you are overqualified.\u200b- Meet your curator, Ritika: You\u2019ll usually find her on the mat elbow-deep in clay or scribbling in her journal. Stuck staring at a blank page? She\u2019s your go-to for creative prompts, art supply recommendations, and helping bring whatever weird little project is in your head to life.",
+    "description": "What\u2019s Waiting on the Mat\u200bClay Lighter Case Station: Sculpt, texture, and paint your own custom clay lighter case to take home\u2014functional art you\u2019ll actually use.\u200bArt Supplies & Journaling: Paints, papers, pens, and prompts for when you want to doodle, print, or collage.\u200bCard Games & Icebreakers: For when your hands need a break from clay and your competitive side wants to come out.\u200bGood Vibes & Better Conversations: Music in the air, shade from the trees, and a bunch of like-minded humans just happy to be offline.\u200b\ud83c\udfa8 How It Works (Spoiler: There Are No real Rules)\u200b- Come solo or bring a friend: Most people show up alone, and everyone leaves with new favourites.\u200b- No artistic talent required: If the last thing you drew was a stick figure in 2014, you are overqualified.\u200b- Meet your curator, Ritika: You\u2019ll usually find her on the mat elbow-deep in clay or scribbling in her journal. Stuck staring at a blank page? She\u2019s your go-to for creative prompts, art supply recommendations, and helping bring whatever weird little project is in your head to life.Flow - Arrive, settle onto the mats, and start with a quick, lighthearted feeling check-in. From there, the afternoon is yours\u2014dive into getting your hands messy with clay or jump into card games.",
     "startDate": "2026-11-21T15:00:00+05:30",
     "endDate": "2026-11-21T18:00:00+05:30",
     "location": {
@@ -1700,6 +1700,41 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Bapu's Table 9th Edition",
+    "description": "Bapu's Curries is the story of a man who spent a lifetime collecting memories through food. Umesh Khaitan, affectionately known as Bapu, is a lawyer by profession but a cook, traveller and storyteller at heart. For decades, he has explored India's regional cuisines, travelled in search of ingredients, documented family traditions, and created recipes that celebrate both heritage and experimentation. Every dish in the book carries a memory\u2014of his parents, his travels, his family, or a simple moment in the kitchen. Co-authored by his daughter Shreeparna Khaitan and culinary collaborator Surbhi Anand, Bapu's Curries became a way of preserving these stories for generations to come. But we soon realised that some stories are best experienced around a table rather than read on a page. That thought gave birth to Bapu's Table\u2014an intimate dining experience where guests come together to savour thoughtfully curated menus inspired by the book, while sharing conversations, memories and the joy of slowing down over a meal. Over the last EIGHT editions, Bapu's Table has grown into a community of people who arrive as strangers and leave having shared stories over food.\u00a0The 9th edition of Bapu\u2019s Table, Tyohaar, celebrates India\u2019s festive food traditions through a thoughtfully reimagined thali. Bringing together regional recipes, nostalgic flavours and contemporary interpretations, it is an invitation to rediscover the stories and traditions behind India\u2019s festive tables.",
+    "startDate": "2026-11-28T19:00:00+05:30",
+    "endDate": "2026-11-29T16:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Safdarjung Development Area, Hauz Khas, New Delhi, Delhi 110016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55068470000000000000",
+        "longitude": "77.20052120000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "4000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bapu's Table by Bapu's Curries",
+      "url": "https://urbanaut.app/partner/bapus-table-by-bapus-curries"
+    },
+    "url": "https://urbanaut.app/spot/bapus-table-9th-edition",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "RNZX",
     "description": "RNZX is the indie sibling duo act, Rina and Zeli Khawlhring. Started out in Mizoram, currently based in New Delhi. Rnzx have released two albums and have been featured in Tunecore Next artist. Their third album \u201cResuming\u201d released on 30th October and they will start their New Album Tour starting in November 2026. Rina and Zeli have performed as a duo at Depot48 before, this time they are bringing their incredible band for an exciting live music like no other.",
@@ -1888,6 +1923,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Haunted Walk: Mehrauli Archaeological Park",
+    "description": "Join us for a hauntingly beautiful night walk through the Mehrauli Archaeological Park, a place where centuries of Delhi\u2019s history come alive\u2014alongside tales of the unseen. In this special segment, Ruhaani Raatein, we delve into the world of djinns, the mystical beings believed to reside in this ancient land.Guided by a historian and storyteller, we\u2019ll explore how djinns are viewed and worshipped in Islamic traditions, and how folklore continues to shape the spiritual character of Mehrauli even today.Our walk will take you through: The tomb of Jamali Kamali, often called the Gay Taj Mahal for its poetic mystique and timeless love story A haunting 500-year-old baoli (stepwell)The remnants of a British-era swimming pool, hidden in plain sight A peaceful lakeside caf\u00e9, perfect for ending the evening with a quiet reflection or a warm chaiAs night falls and shadows grow, let the stories guide you through one of Delhi\u2019s oldest, most magical spaces\u2014where the past is never truly past.",
+    "startDate": "2026-11-29T17:00:00+05:30",
+    "endDate": "2026-11-29T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Anuvrat Marg, opposite Qutab Minar Metro Station, Christian Colony, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52020410000000000000",
+        "longitude": "77.18767900000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "700.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/haunted-walk-mehrauli-archaeological-park",
+    "keywords": [
+      "Adventure",
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Who Does the City Belong To?",
     "description": "Who Does the City Belong To?A conversation on public space and the lawYou have probably stood in front of a barricade this year. A road closed with no notice. A park gate locked at night. A station shut, a lane that used to be a shortcut now ending in a guard and a boom. Most of us have learned to route around it without thinking.But there\u2019s a question underneath that almost none of us can answer: what are we actually entitled to in a public space and what happens when that space is closed, fenced or policed?In this edition of The Human City Conversations, we\u2019ll ask what the Constitution actually gives us by way of a right to assemble and to protest. Whether a government can simply take a Jantar Mantar away. Whether there is such a thing as a right to walk in an Indian city, and who in Delhi really has it. And how much of what we call planning is in truth a question of who is expected to justify their presence in public, and who is not.It isn\u2019t a lecture, and it isn\u2019t a complaint session. It\u2019s an hour of conversation, in plain words, followed by your questions put directly to someone who has spent two decades arguing these things in court.About the guestMihira Sood is a lawyer and scholar in the field of women\u2019s rights, and practices at the Supreme Court of India and the Delhi High Court. She has taught at Jindal Global Law School and National Law University Delhi, and holds degrees from NALSAR University of Law, Hyderabad, and Columbia Law School, New York. She was among the youngest members to assist the Justice Verma Committee, whose recommendations reshaped India\u2019s criminal law on sexual violence. She writes and speaks widely on women\u2019s rights, feminist jurisprudence, equality law and civil liberties, and is a regular commentator in the national press. She has recently written a book Courting Equality which focusses on the Landmark Cases in the Battle for Women\u2019s Rights (Juggernaut) traces fifty years of the law\u2019s encounter with women\u2019s lives \u2014 from the anti-dowry agitations of the 1970s, through Shah Bano and the Uniform Civil Code debate, to the Nirbhaya movement and its continuing reverberations, and on to the present backlash against the supposed misuse of these very laws.Copies will be on sale at Kunzum on the evening, at 20% off.About the seriesThe Human City Conversations is the live edition of The Human City Podcast, hosted by Ruchita Bansal, which for the past year has asked how Indian cities are planned, built and experienced \u2014 and who they are built for. The podcast\u2019s questions, taken off the feed and into a room, in public, in Delhi.The detailsSunday 29 November 2026, 5 PM onwardsKunzum Books, GK-2, New DelhiLimited seats \u00b7 Tickets on Urbanaut",
     "startDate": "2026-11-29T17:00:00+05:30",
@@ -1956,6 +2030,44 @@
       "History & heritage",
       "Guided tour",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "TARISH COLLECTIVE: NOSTALGIA AMPLIFIED",
+    "description": "TARISH COLLECTIVE: NOSTALGIA AMPLIFIED  (An Indie Rock Trip Through the 90s & 2000s)Tarish Collective is a genre-fluid indie band blending heartfelt originals with nostalgic \u201990s and 2000s indie favourites. Rooted in honest storytelling, their music explores love, longing, and connection, creating a sound that feels both fresh and familiar.",
+    "startDate": "2026-11-29T21:00:00+05:30",
+    "endDate": "2026-11-29T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/tarish-collective-nostalgia-amplified",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
       "URBANAUT"
     ]
   },
