@@ -400,44 +400,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "The Criminal Profiling Masterclass",
-    "description": "Inside a Profiler's Mind: Four Sessions on Criminal ProfilingThink like a profiler. Reason like a scientist.You've probably watched the shows. The detective looks at a crime scene for a few seconds, pauses, and describes the killer right down to his childhood. It's great TV, but is it how profiling actually works?Across four sessions, criminologist and forensic psychologist Rithin Joseph separates movie myth from method. We go from 19th-century attempts to spot criminals by the shape of their skulls, to the FBI's Behavioral Science Unit, to the maths of where offenders live, to how profiling is actually done in 2026. Every session digs into real true crime cases, runs its own hands-on simulation, and has much more along the way, so you won't just be listening. You'll be profiling.Each session stands on its own, so come to one or come to all four. Book all four and get a discount, for anyone who wants the full case file.21st November, 12\u20132 PM: Can You Tell If I'm a Serial Killer?Profiling's real history is messier than the legend, and much more interesting. We start with Lombroso and phrenology, who believed you could read criminality in someone's face, and look at why those ideas caught on and why they fell apart. Then we follow Hans Gross's turn toward evidence, James Brussel's famous (and contested) Mad Bomber profile, and the rise of the FBI's behavioural analysts. Along the way we ask what profiling can actually tell an investigator, and what it never can.22nd November, 12\u20132 PM: Same Crime, Different Profiles: Who Gets It Right?Two profilers look at the same crime scene and come back with two different suspects. How does that happen? This session gets into the reasoning behind profiling: patterns drawn from many offenders versus clues taken from one case, and the FBI's famous split between \"organised\" and \"disorganised\" offenders, with cases like BTK and Jeffrey Dahmer as reference points. We'll look at where that split helps and where it falls apart, and at the biases that slip in without anyone noticing. Then we'll test ourselves on a fictional scene that has two competing profiles.28th November, 3\u20135 PM: Where Do Killers Live? The Geography of CrimeA series of crimes leaves more than physical evidence. It leaves a map. Using David Canter's investigative psychology and Kim Rossmo's geographic profiling, we'll look at how offenders move through a city: comfort zones, anchor points, and why distance matters. The DC Sniper case runs through the session. Then we'll take a fictional cluster of crime locations and try to narrow the search ourselves. A warning in advance: these maps deal in probabilities, not GPS coordinates.29th November, 3\u20135 PM: What Criminal Profiling Looks Like in 2026Instead of asking \"what kind of person would do this?\", modern profiling asks \"what does the evidence actually show?\" This session introduces Behavioral Evidence Analysis, which reads the crime scene, the victim's circumstances and the sequence of events before it reaches for any stereotype. We'll work out the difference between how a crime was committed and what it might reveal about the person behind it. Then we'll read a fictional case file twice and watch our conclusions change as new evidence comes in.All sessions at the Gully Labs store, Panchsheel Park.About the speakerRithin Joseph is an Assistant Professor at the School of Behavioural Forensics, National Forensic Sciences University, Delhi, where he teaches criminology and forensic psychology. He is certified in investigative tools including the polygraph, BEOS brain profiling, Layered Voice Analysis and EyeDetect. He is Co-Investigator on an ICSSR-funded study predicting recidivism among first-time offenders, co-author of Crime as the Cause of Criminality and BRICS: Unravelling the Abyss, and a gold medallist in his Master's in Criminology.Four sessions, four case files, and you'll never watch a crime show the same way again.",
-    "startDate": "2026-11-21T12:00:00+05:30",
-    "endDate": "2026-11-29T17:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54778550000000000000",
-        "longitude": "77.21136729999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "600.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/inside-a-profilers-mind",
-    "keywords": [
-      "Live GIG",
-      "Local",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Be Delusional: Bend Reality To Your Beliefs",
     "description": "About the Lecture Join us for a lecture about believing something about yourself long before anyone else does:Kanye West recorded an album with his jaw wired shut. Stallone turned down serious money rather than give up the lead role. What were they running on, years before the proof arrived?The question is whether a certain amount of delusion is rational. Harinder Singh Pelia takes the obvious objection, survivorship bias, we only hear about the ones it worked out for, head-on, and makes the case that belief ahead of evidence is a reasonable bet when your downside is capped and your upside isn't.From there the session moves into what the research actually says: the Pygmalion effect and the Israeli military studies behind it, Bandura on self-efficacy, Vroom's motivation equation. Then into the mechanics, how the confidence-competence loop turns a belief into a skill, and how streaks and the No Zero Days framework keep it running on ordinary days. Expect an interactive turn partway through, built around Maslow's \"if not you, then who?\", and one concrete assignment to take home.The session explores:Why belief tends to run years ahead of proof, and what that looks like up closeThe survivorship-bias objection, and why capped-downside bets are worth making anywayWhat the research says: the Pygmalion effect, self-efficacy, and Vroom's motivation equationThe confidence-competence loop, and the No Zero Days framework for daily executionBezos's regret-minimisation framework, and the \"when-then\" trap that keeps people waitingAbout the SpeakerHarinder Singh Pelia is an author and entrepreneur who has led marketing teams at Amazon, Ajio Luxe and Diesel, among others. A LinkedIn Top Voice, TEDx speaker and PhD scholar at XLRI Jamshedpur, he is the founder of 10Xer Club and Talent Labs.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
@@ -540,6 +502,44 @@
     },
     "url": "https://urbanaut.app/spot/will-ai-murder-us-all",
     "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Criminal Profiling Masterclass",
+    "description": "Inside a Profiler's Mind: Four Sessions on Criminal ProfilingThink like a profiler. Reason like a scientist.You've probably watched the shows. The detective looks at a crime scene for a few seconds, pauses, and describes the killer right down to his childhood. It's great TV, but is it how profiling actually works?Across four sessions, criminologist and forensic psychologist Rithin Joseph separates movie myth from method. We go from 19th-century attempts to spot criminals by the shape of their skulls, to the FBI's Behavioral Science Unit, to the maths of where offenders live, to how profiling is actually done in 2026. Every session digs into real true crime cases, runs its own hands-on simulation, and has much more along the way, so you won't just be listening. You'll be profiling.Each session stands on its own, so come to one or come to all four. Book all four and get a discount, for anyone who wants the full case file.21st November, 4-6 PM: Can You Tell If I'm a Serial Killer?Profiling's real history is messier than the legend, and much more interesting. We start with Lombroso and phrenology, who believed you could read criminality in someone's face, and look at why those ideas caught on and why they fell apart. Then we follow Hans Gross's turn toward evidence, James Brussel's famous (and contested) Mad Bomber profile, and the rise of the FBI's behavioural analysts. Along the way we ask what profiling can actually tell an investigator, and what it never can.22nd November, 4-6 PM: Same Crime, Different Profiles: Who Gets It Right?Two profilers look at the same crime scene and come back with two different suspects. How does that happen? This session gets into the reasoning behind profiling: patterns drawn from many offenders versus clues taken from one case, and the FBI's famous split between \"organised\" and \"disorganised\" offenders, with cases like BTK and Jeffrey Dahmer as reference points. We'll look at where that split helps and where it falls apart, and at the biases that slip in without anyone noticing. Then we'll test ourselves on a fictional scene that has two competing profiles.28th November, 3\u20135 PM: Where Do Killers Live? The Geography of CrimeA series of crimes leaves more than physical evidence. It leaves a map. Using David Canter's investigative psychology and Kim Rossmo's geographic profiling, we'll look at how offenders move through a city: comfort zones, anchor points, and why distance matters. The DC Sniper case runs through the session. Then we'll take a fictional cluster of crime locations and try to narrow the search ourselves. A warning in advance: these maps deal in probabilities, not GPS coordinates.29th November, 3\u20135 PM: What Criminal Profiling Looks Like in 2026Instead of asking \"what kind of person would do this?\", modern profiling asks \"what does the evidence actually show?\" This session introduces Behavioral Evidence Analysis, which reads the crime scene, the victim's circumstances and the sequence of events before it reaches for any stereotype. We'll work out the difference between how a crime was committed and what it might reveal about the person behind it. Then we'll read a fictional case file twice and watch our conclusions change as new evidence comes in.All sessions at the Gully Labs store, Panchsheel Park.About the speakerRithin Joseph is an Assistant Professor at the School of Behavioural Forensics, National Forensic Sciences University, Delhi, where he teaches criminology and forensic psychology. He is certified in investigative tools including the polygraph, BEOS brain profiling, Layered Voice Analysis and EyeDetect. He is Co-Investigator on an ICSSR-funded study predicting recidivism among first-time offenders, co-author of Crime as the Cause of Criminality and BRICS: Unravelling the Abyss, and a gold medallist in his Master's in Criminology.Four sessions, four case files, and you'll never watch a crime show the same way again.",
+    "startDate": "2026-11-21T16:00:00+05:30",
+    "endDate": "2026-11-29T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "600.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/inside-a-profilers-mind",
+    "keywords": [
+      "Live GIG",
+      "Local",
+      "Food & drink",
       "URBANAUT"
     ]
   },
