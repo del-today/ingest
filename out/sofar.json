@@ -4,11 +4,11 @@
     "startDate": "2026-11-21T16:00:00+05:30",
     "doorTime": "2026-11-21T15:30:00+05:30",
     "endDate": "2026-11-21T18:00:00+05:30",
-    "name": "Sofar concert in Bangalore",
+    "name": "Sofar concert in Indiranagar",
     "description": "An intimate concert by Sofar Sounds, at an offbeat venue. Venue details will be disclosed 36 hours before the event.",
     "location": {
       "@type": "Place",
-      "address": "Bangalore"
+      "address": "Indiranagar"
     },
     "image": "https://sofar-sounds-live.imgix.net/images/default-images/event-image-pool/outdoor/outdoor-event-image-4.jpg?ixlib=rails-4.3.1&fit=crop&crop=entropy&ar=1:1&auto=format&q=50",
     "remainingAttendeeCapacity": 50,

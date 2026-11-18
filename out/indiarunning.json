@@ -453,6 +453,56 @@
   },
   {
     "@type": "SportsEvent",
+    "name": "Bagmane Run 2.0",
+    "url": "https://indiarunning.com/events/bagmane_run_20_22923",
+    "startDate": "2027-02-14T06:30:00+05:30",
+    "endDate": "2027-02-14T05:30:00+05:30",
+    "description": "Bagmane Run 2.0 \u2013 Move for Wellness, Unity & Impact!\nPresented by Manipal Hospitals | Powered by Trana Sports & Fitness\nA morning run for Bengaluru's running enthusiasts, working professionals and fitness communities, right inside Bagmane Tech Park.\nDate: Sunday, 14 February 2027\nRace start: 6:30 AM onwards\nVenue: WTC, Bagmane Tech Park, Bengaluru\nCategories & entry fee (excl. GST) \u2013 Early Bird price (20% off) / Regular price:\n10K Run \u2013 Rs 1,119.20 (regular Rs 1,399) | Age 12 to 70\n5K Run \u2013 Rs 879.20 (regular Rs 1,099) | Age 12 to 70\n3K Run \u2013 Rs 719.20 (regular Rs 899) | Age 5 to 60\nEarly Bird Offer: 20% off on registration, valid till 31 December 2026. Regular prices apply from 1 January 2027.\nRace-day inclusions: Official event jersey, Participant BIB, Finisher medal, Breakfast.\nFor queries: events@trana.co.in | 8217345157",
+    "image": "https://race-registration-cdn.indiarunning.com/events/2027/02/14/10648/banner1794896602711",
+    "location": {
+      "@type": "Place",
+      "name": "Doddanakhundi Village",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Survey No 34, 2, Marathalli, 1 to 37, Outer Ring Rd, Doddanakhundi Village, Mahadevapura, Bengaluru, Karnataka 560048, India",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560048",
+        "addressCountry": "India"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9836347,
+        "longitude": 77.6933169
+      }
+    },
+    "sport": "Running",
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "3K",
+        "price": "719.20",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "name": "5k",
+        "price": "719.20",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "name": "10k",
+        "price": "719.20",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@type": "SportsEvent",
     "name": "Chalo Bharat Walkathon Bengaluru Edition 2027",
     "url": "https://indiarunning.com/events/chalo_bharat_walkathon_bengaluru_edition_2026_43370",
     "startDate": "2027-03-14T05:30:00+05:30",
