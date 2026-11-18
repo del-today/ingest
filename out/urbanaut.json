@@ -1,43 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Roohaniyat with Nilavra",
-    "description": "Nilavra Roy is a Delhi-based singer and live performer with a deep-rooted foundation in Hindustani classical music and a passion for exploring diverse musical expressions. His repertoire spans soulful Ghazals, Sufi, semi-classical and timeless Bollywood melodies, brought together through his distinctive vocal style and contemporary musical sensibilities.A storyteller at heart, Nilavra believes in creating musical experiences that go beyond genres, connecting with audiences through melodies, poetry and emotions.For his upcoming performance at Depot 48, Nilavra presents \"\"Roohaniyat\"\", an immersive musical journey through the different shades of love, expressed through some of the most cherished compositions in Indian music.",
-    "startDate": "2026-11-18T20:00:00+05:30",
-    "endDate": "2026-11-18T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53415570000000000000",
-        "longitude": "77.24300939999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "350.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Depot48",
-      "url": "https://urbanaut.app/partner/depot48"
-    },
-    "url": "https://urbanaut.app/spot/roohaniyat-with-nilavra",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "THE CORE - A Movement & Wellness Event",
     "description": "Come for the movement. Stay for the experience.A women's only event, the Core Live takes The Core's signature 3-2-1 Method off the screen and into the room: Strength, Pilates and Breathwork, led by Issa, The Core's Head of Movement, flying in from London for these sessions. A rare chance to train with her, followed by experiences that stay with you long after class ends.MOVE: 45 minutes of Strength \u00d7 Pilates with Issa. A full-body session built on the 3-2-1 Method, with every movement adapted to where you are today.RECOVER: Red light therapy and a sauna experience to help your body recover after training. Bring a change of clothes if you would like to try it.GLOW: An interactive beauty experience with Gunam. Hands-on skin rituals and expert tips you can take straight into your own routine.NOURISH:  A gut-friendly food experience built around The Core Nourish philosophy, made to refuel you after the session.WHAT TO BRING: Just be there, and take back something truly special. Mat, water and equipment is provided.Spots are limited.",
@@ -221,6 +184,42 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Where Music Meets the Mountains",
+    "description": "Have you ever loved a song in a language you don\u2019t speak?About the LectureYawar Abdal grew up in Srinagar listening to Kashmir\u2019s poets: Mahjoor, Lal Ded\u2019s heirs, the Sufis who sang of longing long before anyone recorded it. Then he picked up a guitar and set their words to music. His song Tamanna, which mixes Kashmiri, Persian and Urdu verse from Mahjoor, Ghalib and Khusrow, has been played over 11 million times.This is an intimate, unplugged evening of songs, and of conversation between them. Yawar sings two short sets. In between, he sits down with Prof. Nishat Zaidi to talk about the poems behind the music and what a song carries with it when it leaves the valley.*\u00b7\u02da Two unplugged sets by Yawar Abdal*\u00b7\u02da Verses read aloud, then sung*\u00b7\u02da A conversation on poetry, language, and singing in a tongue the room may not speak*\u00b7\u02da Your questions, then a word from Royal Enfield on Journeying Across the HimalayasAbout the SpeakersYawar Abdal is a Kashmiri singer-songwriter and composer from Srinagar, often called \u201cthe Kashmiri Sufi rocker\u201d. Since Tamanna in 2017, he has brought classical Kashmiri, Urdu and Persian poetry to a new generation of listeners. His latest single, Dil Se, came out with Universal Music India this year.Prof. Nishat Zaidi is Professor of English at Jamia Millia Islamia, New Delhi. A scholar, critic and translator, she has written on Agha Shahid Ali, the great poet of Kashmir and of exile, and works on translation and Indian literatures.",
+    "startDate": "2026-11-20T19:00:00+05:30",
+    "endDate": "2026-11-20T20:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "No 59, PVR Priya Complex, Basant Lok, Vasant Vihar, New Delhi, Delhi 110057, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55737140000000000000",
+        "longitude": "77.16439730000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/where-music-meets-the-mountains",
+    "keywords": [
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "The Plane Story: The Aerodynamics of Flight",
     "description": "About the LectureHow Does a Plane Fly? Join us for a lecture by someone who does it for a living:Most of us have spent a flight staring out of the window with a vague memory of something about air moving faster over the top of the wing. Capt. Soham has spent eleven years on the other side of the flight deck door, and he's here to do the explanation properly \u2014 the real physics of how an aircraft flies, in terms that don't require a degree to follow.From there we go into the part passengers never see: what is actually happening in the flight deck during approach and landing, the busiest and most choreographed minutes of any flight. And then the questions he gets asked every time someone visits the cockpit \u2014 the trivia, the myths, the things people are nervous about \u2014 with plenty of room for yours.Stay back afterwards if you'd like to try your hand at a flight simulator game.The session explores:The physics of flight, explained by someone who uses it rather than teaches itWhat actually happens in the flight deck during approach and landingThe questions pilots get asked most, and the honest answersAn open Q&A, and a flight simulator game to try after the sessionAbout the SpeakerCapt. Soham was born and raised in Delhi and schooled at Modern School, Barakhamba Road, before training as a pilot at IGRUA. He has been flying commercially for an Indian airline for over eleven years and is currently a Senior Captain on the Airbus A320 family.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
     "startDate": "2026-11-20T19:00:00+05:30",
@@ -369,7 +368,7 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Hot Girls Do Pilates",
-    "description": "Let\u2019s make your morning extra feel-good with Hot Girls Do Pilates at Life Pilates, a guided mat pilates experience by SWAG.Come and feel fitter in the company of like-minded women, and stay back for post workout community social.Here's the plan,We start with a Mat Pilates session.Slow down with some breath-work and meditation.Post workout community social.Can't wait to see you this Saturday!Note: Please carry your own mat for the session.The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable..",
+    "description": "Let\u2019s make your morning extra feel-good with Hot Girls Do Pilates at Life Pilates, a guided mat pilates experience by SWAG.Come and feel fitter in the company of like-minded women, and stay back for post workout community social.Here's the plan,We start with a Mat Pilates session.Slow down with some breath-work and meditation.Post workout community socialGoodie by French Essence with your fav fragrances.Can't wait to see you this Saturday!Note: Please carry your own mat for the session.The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable..",
     "startDate": "2026-11-21T10:00:00+05:30",
     "endDate": "2026-11-21T12:00:00+05:30",
     "location": {
@@ -738,7 +737,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Spitty - Hello World Tour",
-    "description": "Spitty is an Indian-Canadian rapper and community leader from Brampton (just outside Toronto). His music carries an energetic yet thoughtful nature as he strives to inspire listeners through his songs. South Asian samples and instruments blend with North American influence to birth his cultured approach to hip hop. Spitty draws inspiration from artists like Eminem, Kendrick Lamar, & J. Cole.In 2026, Spitty has been on his Hello World tour, spanning Canada, USA, and India. With shows already completed in Toronto, Hamilton, New York City, and Montreal, Spitty now heads to India for 3 more shows in Delhi (Depot48), Bangalore (The Raft), and Mumbai (Khar Social).In 2025, Spitty flew out to Singapore to perform at Music Matters, his first Asian festival show. His hit song \"\"Blue Lays\"\" was in regular rotation on SiriusXM Canada Mixtape: North & Dhamaka, and was played at a Toronto Blue Jays game. Spitty saw his highest streaming numbers yet, peaking at around 100,000 Spotify monthly listeners, while his song \"\"Kush\"\" went viral in the anime community with hundreds of creates behind it. He performed for DesiFest in Toronto at Sankofa Square, as well as headlined Root'd Fest in Brampton. Spitty also performed at Oshawa Music Week, FOLD Spoken Word Festival, Masala Mixtape in Brooklyn, NY, and headlined a Brampton Honey Badgers halftime show at CAA Centre.Opening Acts: Alpha's World https://www.instagram.com/alphasxworld?cplk=bTQxOTZtd2F2MDFkArK https://www.instagram.com/theofficialark?rpxt=MTJoZ3F2cXN3cXI1aA==Shimmmhttps://www.instagram.com/shimmmwadhwa?cplk=cW9qcnBibGluMGo4",
+    "description": "Spitty is an Indian-Canadian rapper and community leader from Brampton (just outside Toronto). His music carries an energetic yet thoughtful nature as he strives to inspire listeners through his songs. South Asian samples and instruments blend with North American influence to birth his cultured approach to hip hop. Spitty draws inspiration from artists like Eminem, Kendrick Lamar, & J. Cole.In 2026, Spitty has been on his Hello World tour, spanning Canada, USA, and India. With shows already completed in Toronto, Hamilton, New York City, and Montreal, Spitty now heads to India for 3 more shows in Delhi (Depot48), Bangalore (The Raft), and Mumbai (Khar Social).In 2025, Spitty flew out to Singapore to perform at Music Matters, his first Asian festival show. His hit song \"\"Blue Lays\"\" was in regular rotation on SiriusXM Canada Mixtape: North & Dhamaka, and was played at a Toronto Blue Jays game. Spitty saw his highest streaming numbers yet, peaking at around 100,000 Spotify monthly listeners, while his song \"\"Kush\"\" went viral in the anime community with hundreds of creates behind it. He performed for DesiFest in Toronto at Sankofa Square, as well as headlined Root'd Fest in Brampton. Spitty also performed at Oshawa Music Week, FOLD Spoken Word Festival, Masala Mixtape in Brooklyn, NY, and headlined a Brampton Honey Badgers halftime show at CAA Centre.Opening Acts: \u20aclite - https://www.instagram.com/elite_official99?avpt=cW51bWQxOWVzZnRwArK - https://www.instagram.com/theofficialark?rpxt=MTJoZ3F2cXN3cXI1aA==Shimmm - https://www.instagram.com/shimmmwadhwa?cplk=cW9qcnBibGluMGo4",
     "startDate": "2026-11-21T20:30:00+05:30",
     "endDate": "2026-11-21T23:30:00+05:30",
     "location": {
@@ -812,8 +811,47 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "name": "Hot Girls Do Pilates",
-    "description": "Let\u2019s make your sunday morning extra feel-good with Hot Girls Do Pilates at Ginger Chanakyapuri, a guided mat pilates experience by SWAG.Come and feel fitter in the company of like-minded women, and stay back for a Breakfast at Ginger Hotel.Here's the plan,We start with a Mat Pilates session.Slow down with some breath-work and meditation.Curated Breakfast at Ginger Hotel.Can't wait to see you this Sunday!Note: Please carry your own mat for the session.The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "name": "A Morning in Motion with AVANTI GOYAL",
+    "description": "Slow down, stretch out, and start your Sunday the feel-good way. Mat Pilates with Avanti Goyal, followed by the best kind of caf\u00e9 morning, at Cafe Casa Dunes.\ud83d\udcc5 22nd November, 8 AM onwards",
+    "startDate": "2026-11-22T08:00:00+05:30",
+    "endDate": "2026-11-22T09:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Cafe Casa Dunes, Bypass Road, Aerocity, Mahipalpur Extension, Vasant Kunj, New Delhi, Delhi 110037, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54440530000000000000",
+        "longitude": "77.13304289999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "999.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Cafe Casa Dunes",
+      "url": "https://urbanaut.app/partner/cafe-casa-dunes"
+    },
+    "url": "https://urbanaut.app/spot/a-morning-in-motion",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Pop-up Event",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Hot Girls Do Pilates : Breakfast Club",
+    "description": "Let\u2019s make your sunday morning extra feel-good with Hot Girls Do Pilates at Ginger Chanakyapuri, a guided mat pilates experience by SWAG.Come and feel fitter in the company of like-minded women, and stay back for a Breakfast at Ginger Hotel.Here's the plan,We start with a Mat Pilates session.Slow down with some breath-work and meditation.Curated Breakfast at Ginger Hotel.Goodies from Pee Safe\u00a0No need to carry your mats we have mats by The Ritual Co.Can't wait to see you this Sunday!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
     "startDate": "2026-11-22T08:30:00+05:30",
     "endDate": "2026-11-22T10:30:00+05:30",
     "location": {
@@ -1039,7 +1077,7 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Pickleball with SWAG | Gurugram",
+    "name": "Guided Pickleball | Gurugram",
     "description": "The SWAG Pickleball Party is your perfect morning plan!This is a women-only, beginner-friendly meet-up.It is the perfect weekend plan, followed by a coffee and chit chat with the group! This can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
     "startDate": "2026-11-22T16:00:00+05:30",
     "endDate": "2026-11-22T17:00:00+05:30",
@@ -1965,6 +2003,41 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Behind the Shot: Finding and Telling a Story",
+    "description": "What does it take to film an animal that doesn\u2019t want to be found?About the LectureThere are only a few thousand snow leopards left in the wild, and most of us will never see one. Gautam Pandey has spent years trying to. He has tracked them across the Himalayas with camera traps, long months at altitude, and the help of the herders and local trackers whose knowledge makes it all possible.In this illustrated talk, Gautam takes us behind the footage: how a wildlife story is found, how it\u2019s told, and what a film can do for an animal that a news report can\u2019t.*\u00b7\u02da The making of his snow leopard work, with clips and stills*\u00b7\u02da Life at altitude, and the people who make the shot possible*\u00b7\u02da How you turn months of waiting into a story*\u00b7\u02da Your questions, then a word from Royal Enfield on Journeying Across the HimalayasAbout the SpeakerGautam Pandey is an award-winning Indian wildlife filmmaker and visual artist, and a director at Riverbank Studios, New Delhi. His work on the snow leopard features at Journeying Across the Himalayas this December.",
+    "startDate": "2026-11-28T17:00:00+05:30",
+    "endDate": "2026-11-28T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "No 59, PVR Priya Complex, Basant Lok, Vasant Vihar, New Delhi, Delhi 110057, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55737140000000000000",
+        "longitude": "77.16439730000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/behind-the-shot-finding-and-telling-a-story",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Dice and Dine",
     "description": "Good food. Great games. Better company! \ud83c\udfb2\ud83c\udf55Join Shoshabaazi for Dice & Dine \u2013 an evening of board games, shared food, laughter, and conversations that turn strangers into friends.\ud83c\udf72 Bring a dish to share, your game face, and good vibes!\u2764\ufe0f Come for the games, stay for the people!",
@@ -2485,6 +2558,43 @@
       "Live GIG",
       "Music",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Fireflies",
+    "description": "Fireflies ft. Aadya Jaswal, Saniya Dhawan, Anchal Sethi, Avik Roy & Shresh SharmaWith her lingering melodies and evocative lyrics, Aadya Jaswal brings the comfort of the familiar and the darkness of the unexplored into conversation with each other. Since her debut release, \u201cAisha\u201d in 2023, Aadya has established herself indelibly in the music scene. Her debut album, \u201cSanctuary\u201d, which came out in March 2025 has earned acclaim for its honesty and vivid imagery, and gotten full features in The Indian Music Diaries, The Morning Standard and more.  She brings the honesty and soul of her music to life in her live performances \u2013 with two country tours under her belt and opening acts for seasoned indie artists like Ankur Tewari and Dot. In this show, she and her band turn into Fireflies to play unreleased originals and give new life to released ones.",
+    "startDate": "2026-12-04T22:00:00+05:30",
+    "endDate": "2026-12-04T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "706.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/fireflies",
+    "keywords": [
+      "Live GIG",
+      "Music",
       "URBANAUT"
     ]
   },
