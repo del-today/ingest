@@ -1,44 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "THE CORE - A Movement & Wellness Event",
-    "description": "Come for the movement. Stay for the experience.A women's only event, the Core Live takes The Core's signature 3-2-1 Method off the screen and into the room: Strength, Pilates and Breathwork, led by Issa, The Core's Head of Movement, flying in from London for these sessions. A rare chance to train with her, followed by experiences that stay with you long after class ends.MOVE: 45 minutes of Strength \u00d7 Pilates with Issa. A full-body session built on the 3-2-1 Method, with every movement adapted to where you are today.RECOVER: Red light therapy and a sauna experience to help your body recover after training. Bring a change of clothes if you would like to try it.GLOW: An interactive beauty experience with Gunam. Hands-on skin rituals and expert tips you can take straight into your own routine.NOURISH:  A gut-friendly food experience built around The Core Nourish philosophy, made to refuel you after the session.WHAT TO BRING: Just be there, and take back something truly special. Mat, water and equipment is provided.Spots are limited.",
-    "startDate": "2026-11-19T11:00:00+05:30",
-    "endDate": "2026-11-19T12:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "The Dhan Mill Compound, 100 Feet Rd, Pocket D, Dr Ambedkar Colony, Chhatarpur, New Delhi, Delhi 110074, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.50391000000000000000",
-        "longitude": "77.18481040000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2800.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Core",
-      "url": "https://urbanaut.app/partner/the-core"
-    },
-    "url": "https://urbanaut.app/spot/the-core-a-movement-wellness-event-17933",
-    "keywords": [
-      "Wellness",
-      "Workshop",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "GFT: November Edition in Vasant Vihar",
     "description": "Grounds for Thought: Vasant Vihar, November 2026A Blue Tokai \u00d7 unLecture Series, Three Thursday evenings. Three very different conversations.12th November: Palak ChananaLove Actually? Attachment Styles, Situationships & the Patterns We Keep Repeating. Why do you keep finding the same kind of person? Why is it so hard to say what you need, or to leave when you meant to, or to stop repeating a pattern you thought you'd already moved past? Palak Chanana, a counselling psychologist and neuro-queer affirmative therapist who founded UnTangle Yourself, draws on anonymised, composite themes from individual and couples counselling to explore how fear, expectation, and past experience quietly shape the way we connect. This isn't a session about finding the right partner or following relationship rules \u2014 it's an invitation to get curious about how you love, what you actually need, and what you keep repeating without noticing.19th November: Deborishi GogoiVisceral Pleasures of Viewing Horror Cinema You're gripping your pillow, heart racing, yelling \"don't go in there\" \u2014 and loving every second of it. For decades, film theory explained this through Freud: repression, the unconscious, hidden anxiety. Deborishi Gogoi, a PhD scholar at Shiv Nadar Institution of Eminence working on folk horror and the critique of ideology, argues that account misses the most important part \u2014 what watching horror actually feels like, moment by moment, in the body. Through the framing, sound, and editing rhythm of three recent horror films \u2014 Suspiria, Midsommar, and The Ugly Stepsister \u2014 this session builds the case that horror's pleasure isn't saved for the ending. It's built into the dread itself.26th November: Vasundhara BhojvaidBreathing Delhi: Can a City Hold Air? What does it mean to live in a city where the atmosphere itself feels like confinement? Vasundhara Bhojvaid, Associate Professor of Sociology at Shiv Nadar University, works with a concept she calls \"Hawa-laat\" \u2014 a play on hawalaat, a police lockup, and the physical jolt of Delhi's toxic air. Moving past ecological data into what she calls our \"aerial imaginations,\" this session asks how an invisible hazard like air pollution quietly reconfigures relationships, redraws urban space, and reshapes what survival means in a city that can no longer take its air for granted.",
@@ -222,7 +184,7 @@
     "@type": "Event",
     "name": "The Plane Story: The Aerodynamics of Flight",
     "description": "About the LectureHow Does a Plane Fly? Join us for a lecture by someone who does it for a living:Most of us have spent a flight staring out of the window with a vague memory of something about air moving faster over the top of the wing. Capt. Soham has spent eleven years on the other side of the flight deck door, and he's here to do the explanation properly \u2014 the real physics of how an aircraft flies, in terms that don't require a degree to follow.From there we go into the part passengers never see: what is actually happening in the flight deck during approach and landing, the busiest and most choreographed minutes of any flight. And then the questions he gets asked every time someone visits the cockpit \u2014 the trivia, the myths, the things people are nervous about \u2014 with plenty of room for yours.Stay back afterwards if you'd like to try your hand at a flight simulator game.The session explores:The physics of flight, explained by someone who uses it rather than teaches itWhat actually happens in the flight deck during approach and landingThe questions pilots get asked most, and the honest answersAn open Q&A, and a flight simulator game to try after the sessionAbout the SpeakerCapt. Soham was born and raised in Delhi and schooled at Modern School, Barakhamba Road, before training as a pilot at IGRUA. He has been flying commercially for an Indian airline for over eleven years and is currently a Senior Captain on the Airbus A320 family.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
-    "startDate": "2026-11-20T19:00:00+05:30",
+    "startDate": "2026-11-20T19:30:00+05:30",
     "endDate": "2026-11-20T21:00:00+05:30",
     "location": {
       "@type": "Place",
@@ -1076,6 +1038,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Anandi x The Whole Truth Foods: FBI Workshop",
+    "description": "FBI: Food & Beverage Investigator: For the Next Gen \ud83d\udd0dWhat if your child could decode the truth behind everyday food?In this hands-on workshop with The Whole Truth Foods, children become food detectives, decoding labels and uncovering hidden ingredients to understand what really goes into everyday products. Through four exciting levels and two hands-on missions, they learn to spot misleading claims and tell marketing from reality.\ud83d\udd75\ufe0f What They'll Explore\ud83c\udff7\ufe0f Reading and understanding ingredient lists\ud83c\udf6c Spotting hidden sugars and additives\ud83d\udce2 Decoding common food marketing claims\ud83e\udd57 Making informed, thoughtful food choices\ud83c\udf81 Take home a FREE The Whole Truth Foods Goodie Bag, subject to parental approval.\ud83d\udccc Event Details\ud83d\udcc5 Sunday, November 22, 2026\u23f0 11 AM \u2013 1 PM\ud83d\udccd Anandi School, Gurgaon\ud83d\udc65 Ages 7+Please note that this is not an event to study or promote any brand or product. This is an independent learning event for students to learn more about nutrition, ingredients and reading labels.",
+    "startDate": "2026-11-22T11:00:00+05:30",
+    "endDate": "2026-11-22T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M-14/47, Mushedpur, DLF Phase 2, Sector 25, Gurugram, Haryana 122002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.48862520000000000000",
+        "longitude": "77.08666319999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "699.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Anandi School",
+      "url": "https://urbanaut.app/partner/anandischool"
+    },
+    "url": "https://urbanaut.app/spot/anandi-x-the-whole-truth-foods-fbi-workshop",
+    "keywords": [
+      "Local",
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Guided Pickleball | Gurugram",
     "description": "The SWAG Pickleball Party is your perfect morning plan!This is a women-only, beginner-friendly meet-up.It is the perfect weekend plan, followed by a coffee and chit chat with the group! This can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
@@ -1299,8 +1299,8 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "THE QUTUB CODE: Decode stories hidden in stone",
-    "description": "What if the Qutub Minar could tell you the story of Delhi?Step into the Qutub Complex and explore the layers of history, architecture, power and cultural exchange that shaped medieval Delhi. From the soaring Qutub Minar and the intricate Alai Darwaza to the ancient Iron Pillar and the ruins of the Quwwatu\u2019l-Islam Mosque, every stone reveals a different chapter.This is not just a walk around a monument. It is a journey through the making of Delhi- its rulers, ambitions, architectural experiments, conflicts, craftsmanship and forgotten stories.Come for the Qutub Minar. Stay for the stories hidden around it.",
+    "name": "THE QUTUB CODE: A night walk",
+    "description": "Have you ever seen Qutub minar during night in the darkness? This is your sign to visit it during evening hours with striking lighting and cool breeze.Step into the Qutub Complex and explore the layers of history, architecture, power and cultural exchange that shaped medieval Delhi. From the soaring Qutub Minar and the intricate Alai Darwaza to the ancient Iron Pillar and the ruins of the Quwwatu\u2019l-Islam Mosque, every stone reveals a different chapter.This is not just a walk around a monument. It is a journey through the making of Delhi- its rulers, ambitions, architectural experiments, conflicts, craftsmanship and forgotten stories.Come for the Qutub Minar. Stay for the stories hidden around it.",
     "startDate": "2026-11-22T16:30:00+05:30",
     "endDate": "2026-11-22T18:00:00+05:30",
     "location": {
@@ -1650,7 +1650,7 @@
     "typicalAgeRange": "25+",
     "offers": {
       "@type": "Offer",
-      "price": "2950.00",
+      "price": "2360.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
