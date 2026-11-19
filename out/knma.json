@@ -200,11 +200,111 @@
     ]
   },
   {
+    "@type": "TheaterEvent",
+    "name": "CentreStage Weekend 2026",
+    "url": "https://www.knma.org/whats-on/performing-arts/centrestage-weekend-2026/",
+    "startDate": "2026-11-28T10:00:00+05:30",
+    "endDate": "2026-11-29T18:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "Triveni Kala Sangam",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
     "@type": "Event",
     "name": "Behind the Ears",
     "url": "https://www.knma.org/whats-on/events/behind-the-ears/",
     "startDate": "2026-11-29T10:00:00+05:30",
     "endDate": "2026-11-29T10:00:00+05:30",
+    "description": "WeekendsatKNMA",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Framing the Future",
+    "url": "https://www.knma.org/whats-on/talks/framing-the-future/",
+    "startDate": "2026-12-03T10:00:00+05:30",
+    "endDate": "2026-12-03T10:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "ExhibitionEvent",
+    "name": "Unsettled Matter/s",
+    "url": "https://www.knma.org/whats-on/exhibitions/unsettled-matter-s/",
+    "startDate": "2026-12-04T10:00:00+05:30",
+    "endDate": "2027-03-21T18:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "Purana Qila",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Date Nights at KNMA",
+    "url": "https://www.knma.org/whats-on/events/date-nights-at-knma/",
+    "startDate": "2026-12-04T10:00:00+05:30",
+    "endDate": "2026-12-04T10:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Passaggio",
+    "url": "https://www.knma.org/whats-on/events/passaggio/",
+    "startDate": "2026-12-05T10:00:00+05:30",
+    "endDate": "2026-12-05T10:00:00+05:30",
     "description": "WeekendsatKNMA",
     "location": {
       "@type": "Place",

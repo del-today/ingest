@@ -250,7 +250,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entry valid only before 5pm. Additional mandatory cover charges applicable at gates.\n",
-            "inventoryLevel": 49,
+            "inventoryLevel": 46,
             "name": "Early Entry Community Pass",
             "url": "https://www.skillboxes.com/events/ticket/olympe-india-x-sidejou-invites-bangalore-sbuyntqi"
          },
@@ -258,7 +258,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charges applicable at gates.\n",
-            "inventoryLevel": 50,
+            "inventoryLevel": 48,
             "name": "GA Pass",
             "url": "https://www.skillboxes.com/events/ticket/olympe-india-x-sidejou-invites-bangalore-sbuyntqi"
          },
@@ -687,7 +687,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Early Bird - Donor Pass - 899\n",
-            "inventoryLevel": 56,
+            "inventoryLevel": 53,
             "name": "Single Ticket",
             "url": "https://www.skillboxes.com/events/ticket/the-time-machine-a-musical-evening-sbhmaspq"
          }
@@ -698,13 +698,13 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "KURUKSHETRA By Aditya & Prerna \r\nDebut Album Launch Concert \r\n\r\nAn album launch that unfolds like a film.\r\n\r\n\"You are a manifestation of the universe experiencing itself.\" \r\n\r\n ",
-      "endDate": "2026-11-19T23:55:00",
-      "identifier": "com.skillboxes.42272",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1793103890jzbjMWYxuMVkRgLs.jpeg.webp",
-      "isAccessibleForFree": false,
+      "description": "Grassroots Wednesdays : Eccentric Pendulum + Kasck + Kill the King + Against Evil",
+      "endDate": "2026-12-16T23:59:00",
+      "identifier": "com.skillboxes.42199",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YkM5YUkzb1JFbnltd25oanVpNnR6UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1791369002uRjhT5o1koQWLO4c.jpg.webp",
+      "isAccessibleForFree": true,
       "keywords": [
-         "Album launch Events"
+         "Music Concerts"
       ],
       "location": {
          "@type": "Place",
@@ -716,27 +716,19 @@
          },
          "name": "THE HUMMING TREE"
       },
-      "name": "KURUKSHETRA By Aditya & Prerna",
+      "name": "Grassroots Wednesdays : Eccentric Pendulum + Kasck + Kill the King + Against Evil",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "n additional, fully redeemable cover charge of INR 500 per individual is applicable at the gates.\n",
-            "inventoryLevel": 969,
-            "name": "Phase 1 Pass",
-            "url": "https://www.skillboxes.com/events/ticket/kurukshetra-by-aditya-prerna-sbvwbbzk"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "n additional, fully redeemable cover charge of INR 500 per individual is applicable at the gates.\n",
-            "inventoryLevel": 17,
-            "name": "Phase 1 Group of 2 Pass",
-            "url": "https://www.skillboxes.com/events/ticket/kurukshetra-by-aditya-prerna-sbvwbbzk"
+            "description": "An additional cover of INR 500 applicable at the door, fully redeemable against Food and Beverage.\n",
+            "inventoryLevel": 433,
+            "name": "GA",
+            "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-eccentric-pendulum-kasck-kill-the-king-against-evil-sbpshrmr"
          }
       ],
-      "startDate": "2026-11-19T20:00:00",
-      "url": "https://www.skillboxes.com/events/kurukshetra-by-aditya-prerna-sbvwbbzk"
+      "startDate": "2026-12-16T21:00:00",
+      "url": "https://www.skillboxes.com/events/grassroots-wednesdays-eccentric-pendulum-kasck-kill-the-king-against-evil-sbpshrmr"
    },
    {
       "@context": "https://schema.org",

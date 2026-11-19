@@ -1,6 +1,42 @@
 [
   {
     "@type": "SportsEvent",
+    "name": "5K Neon Run",
+    "url": "https://indiarunning.com/events/5k_neon_run_22216",
+    "startDate": "2026-11-21T05:00:00+05:30",
+    "endDate": "2026-11-21T11:00:00+05:30",
+    "description": ". 5:00 AM - The 5K run with neon lights\n. The run finishes at J P Nagar SOCIAL\n. 7:00 AM - The coffee rave at JP Nagar SOCIAL, with a DJ on the decks\n. 9:30 AM - Wrap\n \nThings to know:\nEntry allowed for ages 14 and above.\nTickets required for ages 14 and above.\nPets are not allowed.\nID (Aadhar/ PAN/ DL/ Passport) is required for entry.\nThe run starts in JP Nagar. The exact start point will be sent to you on WhatsApp before the event.\nCheck in opens at 5:00 AM at the grounds.\nThe 5K neon run is led by our community partner JRC and ends at JP Nagar SOCIAL.\nThe coffee rave starts at 7:00 AM\nAges 14 & up. Under 18s must come with a parent or guardian.\nCarry a photo ID and your ticket on your phone.\nWear sportswear and running shoes.\nAll paces are welcome. Volunteers will be with you along the route.\nPhotos and videos will be taken during the event.\nArrive 15 minutes early so the run can start on time.\nThis is a run on open roads. Stay with the group and follow the volunteers.\nIf you have a health condition, check with your doctor before you take part.\nThe route or timings may change for safety or weather.\nTickets cannot be refunded or transferred.\nGlass containers, laptop, metal container, helmets, laser pointer/flash light, alcohol, outside food, flammable, toxic, sharp items: knife/ syringe, bottles, bags, tins, cans and musical instruments are prohibited.\nIndoor venue with AC with both seated and standing areas.\nNot recommended for people having heart conditions, uncontrolled high blood pressure, recent injury or surgery, pregnancy, epilepsy or sensitivity to flash lights.\nGates open 15 mins before the show time.",
+    "image": "https://race-registration-cdn.indiarunning.com/events/2026/11/21/10660/banner1795070259010",
+    "location": {
+      "@type": "Place",
+      "name": "Phase 2",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "24th Ma, 9th Cross Rd, Phase 2, R K Colony, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560078",
+        "addressCountry": "India"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9110106,
+        "longitude": 77.5863924
+      }
+    },
+    "sport": "Running",
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "5k",
+        "price": "499",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@type": "SportsEvent",
     "name": "Cubbon Run and Coffee Rave with PaceX",
     "url": "https://indiarunning.com/events/cubbon_run_and_coffee_rave_with_pacex_26282",
     "startDate": "2026-11-21T07:00:00+05:30",
@@ -58,56 +94,6 @@
   },
   {
     "@type": "SportsEvent",
-    "name": "PaceX Run & Play, Lake Runs and Frisbee Edition",
-    "url": "https://indiarunning.com/events/pacex_run__play_lake_runs_and_frisbee_edition_25688",
-    "startDate": "2026-11-22T07:00:00+05:30",
-    "endDate": "2026-11-22T10:30:00+05:30",
-    "description": "Forget the usual weekend plans. We're bringing you a little bit of everything! \ud83c\udfc3\u200d\u2640\ufe0f\ud83e\udd4f\nWe're kicking things off with a refreshing run around \nPanathur Lake, Bellandur\n, soaking in the morning views, getting those steps in, and meeting some new faces.\nBut we're not calling it a day just yet!\nNext stop: \nActiv Arena\n, where we're swapping running shoes for some frisbee action. Expect friendly competition, fun games, unexpected skills, lots of laughs, and a whole lot of energy.\nWhether you're a runner, a frisbee pro, or someone who just loves being around good people, there's something for everyone.\nRun a little. Play a lot. Meet your kind of people.\nThat's a PaceX weekend!",
-    "image": "https://race-registration-cdn.indiarunning.com/events/2026/11/22/10611/banner1794208131820",
-    "location": {
-      "@type": "Place",
-      "name": "Kadubeesanahalli",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Panathur Lake, Panathur Main Rd, Kadubeesanahalli, Panathur, Bengaluru, Karnataka 560087, India",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "Karnataka",
-        "postalCode": "560087",
-        "addressCountry": "India"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9317687,
-        "longitude": 77.7069855
-      }
-    },
-    "sport": "Running",
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "2.5K",
-        "price": "799",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      },
-      {
-        "@type": "Offer",
-        "name": "5k",
-        "price": "799",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      },
-      {
-        "@type": "Offer",
-        "name": "7K",
-        "price": "799",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@type": "SportsEvent",
     "name": "BeAthlit Lake Run - December 2026 Edition",
     "url": "https://indiarunning.com/events/beathlitlakerundecember2026edition-33614",
     "startDate": "2026-12-06T06:00:00+05:30",
@@ -137,6 +123,42 @@
         "@type": "Offer",
         "name": "Stadium Run",
         "price": "100",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@type": "SportsEvent",
+    "name": "One Earth One Heart 5K Bengaluru",
+    "url": "https://indiarunning.com/events/one_earth_one_heart_5k_bengaluru_8890",
+    "startDate": "2026-12-13T05:30:00+05:30",
+    "endDate": "2026-12-13T05:00:00+05:30",
+    "description": "5K Run - One Earth, One Heart | For Peace, Unity & Health\nLace up your running shoes and be part of something bigger! Join us for an inspiring 5K Run at RR Nagar, Bengaluru, organized by Ticgetz, under the theme One Earth, One Heart. More than just a run, this event celebrates peace, unity, and good health, bringing together individuals, families, and running enthusiasts from all walks of life. Come together, embrace the spirit of community, and take a step towards a healthier and more united world. Whether you\u2019re an experienced runner or taking your first steps into fitness, this is your chance to run for a meaningful cause! \nEvent Details\n \nDate: 13th December 2026 (Sunday) \nTime: 6:00 AM \nVenue: Kempegowda play ground \nDistance: 5 Kilometers Registration:\nRegister Now \nWhat Participants Will Receive\nEvery registered participant will get: Race BIB with their participant number Finisher\u2019s Medal to celebrate their achievement Participation Certificate Event T-Shirt Post-Run Breakfast to refuel after the run Be a part of the movement. Run for peace, run for unity, run for health. One Earth. One Heart. One Run.\nFor more details visit \nhttps://ticgetz.com/e/one-earth-one-heart-5k-bengaluru",
+    "image": "https://race-registration-cdn.indiarunning.com/events/2026/12/13/10658/banner1795055743589",
+    "location": {
+      "@type": "Place",
+      "name": "BEML Layout",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "6th Main Road, Gokhale Rd, BEML Layout, BEML Layout 3rd Stage, Rajarajeshwari Nagar, Bengaluru, Karnataka 560098, India",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560098",
+        "addressCountry": "India"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9165997,
+        "longitude": 77.51724349999999
+      }
+    },
+    "sport": "Running",
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "5k",
+        "price": "299",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock"
       }
@@ -346,6 +368,42 @@
   },
   {
     "@type": "SportsEvent",
+    "name": "BeAthlit Lake Run - January 2027 Edition",
+    "url": "https://indiarunning.com/events/beathlitlakerunjanuary2027edition-29214",
+    "startDate": "2027-01-10T06:00:00+05:30",
+    "endDate": "2027-01-10T09:00:00+05:30",
+    "description": "BeAthlit Monthly Lake Runs\nWe are bringing Lake Runs in a new format to make it easy for everyone to participate and appreciate the lakes. As lake authorities don\u2019t allow any structure inside or near the lakes, this will resemble a community-run.\nWhat's the new format:\nChoose a lake at which you want to run\nRegister\nReport at Lake and collect t-shirt on the day of the run between 6am to 9am (as lakes close by 10am)\nRun on your own or family or friends. Record the run on any of the fitness apps like strava, garmin, google fit, Nike Run Club, RunKeeper etc\nShow the proof of your run to our team, collect the medals and celebrate.\nEvery Lake Run celebrates consistency, community, and Bengaluru\u2019s beautiful lakes! Runners who complete 5 runs at 5 different lakes by the December 2026 edition will be honoured with the Legend of Lakes Composite Medal at the felicitation ceremony on December 6, 2026. For those who joined later and are yet to complete 5 different lakes, the next felicitation ceremony will be held in March 2027. After March 2027, a new Lake Run cycle will begin and their felicitation ceremony will be held later. Keep running and become a Legend of Lakes!\nRun Locations (Choose Your Lake)\nDoddabommasandra Lake\nUlsoor Lake\nMadiwala Lake\nUllal Lake\nAmanikere, Tumkuru\nKukkarahalli Lake, Mysuru\nHow It Works\nRegister for the event\nChoose your preferred lake\nArrive at the lake entrance between 6 AM to 9 AM\nReport to our team and collect your T-shirt\nComplete your 1.6K / 3K / 5K /10K run\nTrack your run using Strava\nFor kids running with an accompanying adult, the adult\u2019s Strava activity will be considered valid\nShow your activity to our team at the lake\nCollect your Medal\nImportant Guidelines\nComplete your run at the lake you select during registration on January 10th 2027, from 6 AM- 9:00 AM.\nStrava activity is required for medal eligibility\nDistance must be clearly visible in your activity\nNo Bibs will be provided\nNo hydration or on-route support will be available\nOur team will be present at each lake entrance for verification and distribution",
+    "image": "https://race-registration-cdn.indiarunning.com/events/2026/08/16/beathlit-lake-run---august-2026-edition-2026/banner1785526008811",
+    "location": {
+      "@type": "Place",
+      "name": "Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bengaluru, Karnataka, India",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560043",
+        "addressCountry": "India"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9628957,
+        "longitude": 77.57754
+      }
+    },
+    "sport": "Running",
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Stadium Run",
+        "price": "200",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@type": "SportsEvent",
     "name": "REVOLUTION RUN 2027",
     "url": "https://indiarunning.com/events/revolution_run_2027_41108",
     "startDate": "2027-01-31T05:00:00+05:30",
@@ -496,56 +554,6 @@
         "@type": "Offer",
         "name": "10k",
         "price": "719.20",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@type": "SportsEvent",
-    "name": "Chalo Bharat Walkathon Bengaluru Edition 2027",
-    "url": "https://indiarunning.com/events/chalo_bharat_walkathon_bengaluru_edition_2026_43370",
-    "startDate": "2027-03-14T05:30:00+05:30",
-    "endDate": "2027-03-14T11:00:00+05:30",
-    "description": "Bengaluru Edition | Chalo Bharat Walkathon\nLace up your shoes, Bengaluru!\nThe \nChalo Bharat Walkathon\n arrives in the city to celebrate fitness, community, and an active lifestyle. Join us on \n14th March 2027\n for a high-energy morning filled with movement, music, and positivity.\nFrom casual walkers to fitness lovers\u2014everyone is invited to be part of this vibrant experience.\nRace Categories:-\n3K Walk - Untimed Walk\n5K Walk - Timed Walk\n10K Walk - Timed Walk\nEvent Highlights:-\nLively atmosphere with music & entertainment\nCommunity-driven fitness experience\nIconic city route (venue to be announced soo\nParticipant Benefits:-\nT-shirt\nFinisher Medal\nVouchers\nBreakfast\nEvent Details:-\nDate: 14th March 2027\nVenue: To be announced\nBIB Collection: 12 & 13 March 2027\nAge Group: \nOpen to all\nLet\u2019s make every step count, Bengaluru!",
-    "image": "https://race-registration-cdn.indiarunning.com/events/2026/12/20/chalo-bharat-walkathon-bengaluru-edition-2026-2026/banner1785499387076",
-    "location": {
-      "@type": "Place",
-      "name": "Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Bengaluru, Karnataka, India",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "Karnataka",
-        "postalCode": "560001",
-        "addressCountry": "India"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9628957,
-        "longitude": 77.57754
-      }
-    },
-    "sport": "Running",
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "3K",
-        "price": "850",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      },
-      {
-        "@type": "Offer",
-        "name": "5k",
-        "price": "850",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      },
-      {
-        "@type": "Offer",
-        "name": "10k",
-        "price": "850",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock"
       }

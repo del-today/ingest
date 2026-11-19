@@ -73,79 +73,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Baddy with Baddies | Mehrauli",
-    "description": "SWAG Baddy with Baddies is a women-only, badminton meet-up.It is the perfect mid-week reset, with some badminton rallies, quick sets of both doubles and singles followed by a coffee and chit chat at the Reppp Cafe! It can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.Note: Only non-marking sports shoes are allowed on court. Don't have non-marking shoes? No worries - you can rent a pair at the venue of play bare foot.",
-    "startDate": "2026-11-19T20:00:00+05:30",
-    "endDate": "2026-11-19T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "near Qutab Minar Metro Station, Aam Bagh, Ladha Sarai Village, Mehrauli, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.51514850000000000000",
-        "longitude": "77.18640390000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "299.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag85",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Gully Gyaan- The Ultimate Quiz",
-    "description": "Multi-Quizzine and Gully Labs are proud to introduce Gully Gyaan, a bi-monthly quiz series at Gully Labs in Panchsheel Park.Think you've got what it takes to battle it out over 4-5 rounds of Jeopardy, University Challenge, Only Connect and more, and take home some kick-ass prizes (shoes, jerseys and more). Assemble your team and join us!For Vol. 01, we're keeping it simple. It's going to be General Gyaan.They'll be food, beers, soda/juices and a whole lot of fun.See you all at Gully Gyaan!",
-    "startDate": "2026-11-19T20:00:00+05:30",
-    "endDate": "2026-11-19T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54778550000000000000",
-        "longitude": "77.21136729999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "590.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Gully Labs",
-      "url": "https://urbanaut.app/partner/baithak"
-    },
-    "url": "https://urbanaut.app/spot/gullygyaan",
-    "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Where Music Meets the Mountains",
     "description": "Have you ever loved a song in a language you don\u2019t speak?About the LectureYawar Abdal grew up in Srinagar listening to Kashmir\u2019s poets: Mahjoor, Lal Ded\u2019s heirs, the Sufis who sang of longing long before anyone recorded it. Then he picked up a guitar and set their words to music. His song Tamanna, which mixes Kashmiri, Persian and Urdu verse from Mahjoor, Ghalib and Khusrow, has been played over 11 million times.This is an intimate, unplugged evening of songs, and of conversation between them. Yawar sings two short sets. In between, he sits down with Prof. Nishat Zaidi to talk about the poems behind the music and what a song carries with it when it leaves the valley.*\u00b7\u02da Two unplugged sets by Yawar Abdal*\u00b7\u02da Verses read aloud, then sung*\u00b7\u02da A conversation on poetry, language, and singing in a tongue the room may not speak*\u00b7\u02da Your questions, then a word from Royal Enfield on Journeying Across the HimalayasAbout the SpeakersYawar Abdal is a Kashmiri singer-songwriter and composer from Srinagar, often called \u201cthe Kashmiri Sufi rocker\u201d. Since Tamanna in 2017, he has brought classical Kashmiri, Urdu and Persian poetry to a new generation of listeners. His latest single, Dil Se, came out with Universal Music India this year.Prof. Nishat Zaidi is Professor of English at Jamia Millia Islamia, New Delhi. A scholar, critic and translator, she has written on Agha Shahid Ali, the great poet of Kashmir and of exile, and works on translation and Indian literatures.",
     "startDate": "2026-11-20T19:00:00+05:30",
@@ -235,7 +162,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "2800.00",
+      "price": "2940.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -421,7 +348,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "399.00",
+      "price": "999.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -504,44 +431,6 @@
     },
     "url": "https://urbanaut.app/spot/will-ai-murder-us-all",
     "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "The Criminal Profiling Masterclass",
-    "description": "Inside a Profiler's Mind: Four Sessions on Criminal ProfilingThink like a profiler. Reason like a scientist.You've probably watched the shows. The detective looks at a crime scene for a few seconds, pauses, and describes the killer right down to his childhood. It's great TV, but is it how profiling actually works?Across four sessions, criminologist and forensic psychologist Rithin Joseph separates movie myth from method. We go from 19th-century attempts to spot criminals by the shape of their skulls, to the FBI's Behavioral Science Unit, to the maths of where offenders live, to how profiling is actually done in 2026. Every session digs into real true crime cases, runs its own hands-on simulation, and has much more along the way, so you won't just be listening. You'll be profiling.Each session stands on its own, so come to one or come to all four. Book all four and get a discount, for anyone who wants the full case file.21st November, 4-6 PM: Can You Tell If I'm a Serial Killer?Profiling's real history is messier than the legend, and much more interesting. We start with Lombroso and phrenology, who believed you could read criminality in someone's face, and look at why those ideas caught on and why they fell apart. Then we follow Hans Gross's turn toward evidence, James Brussel's famous (and contested) Mad Bomber profile, and the rise of the FBI's behavioural analysts. Along the way we ask what profiling can actually tell an investigator, and what it never can.22nd November, 4-6 PM: Same Crime, Different Profiles: Who Gets It Right?Two profilers look at the same crime scene and come back with two different suspects. How does that happen? This session gets into the reasoning behind profiling: patterns drawn from many offenders versus clues taken from one case, and the FBI's famous split between \"organised\" and \"disorganised\" offenders, with cases like BTK and Jeffrey Dahmer as reference points. We'll look at where that split helps and where it falls apart, and at the biases that slip in without anyone noticing. Then we'll test ourselves on a fictional scene that has two competing profiles.28th November, 3\u20135 PM: Where Do Killers Live? The Geography of CrimeA series of crimes leaves more than physical evidence. It leaves a map. Using David Canter's investigative psychology and Kim Rossmo's geographic profiling, we'll look at how offenders move through a city: comfort zones, anchor points, and why distance matters. The DC Sniper case runs through the session. Then we'll take a fictional cluster of crime locations and try to narrow the search ourselves. A warning in advance: these maps deal in probabilities, not GPS coordinates.29th November, 3\u20135 PM: What Criminal Profiling Looks Like in 2026Instead of asking \"what kind of person would do this?\", modern profiling asks \"what does the evidence actually show?\" This session introduces Behavioral Evidence Analysis, which reads the crime scene, the victim's circumstances and the sequence of events before it reaches for any stereotype. We'll work out the difference between how a crime was committed and what it might reveal about the person behind it. Then we'll read a fictional case file twice and watch our conclusions change as new evidence comes in.All sessions at the Gully Labs store, Panchsheel Park.About the speakerRithin Joseph is an Assistant Professor at the School of Behavioural Forensics, National Forensic Sciences University, Delhi, where he teaches criminology and forensic psychology. He is certified in investigative tools including the polygraph, BEOS brain profiling, Layered Voice Analysis and EyeDetect. He is Co-Investigator on an ICSSR-funded study predicting recidivism among first-time offenders, co-author of Crime as the Cause of Criminality and BRICS: Unravelling the Abyss, and a gold medallist in his Master's in Criminology.Four sessions, four case files, and you'll never watch a crime show the same way again.",
-    "startDate": "2026-11-21T16:00:00+05:30",
-    "endDate": "2026-11-29T17:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54778550000000000000",
-        "longitude": "77.21136729999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "600.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/inside-a-profilers-mind",
-    "keywords": [
-      "Live GIG",
-      "Local",
-      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -813,7 +702,7 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Hot Girls Do Pilates : Breakfast Club",
-    "description": "Let\u2019s make your sunday morning extra feel-good with Hot Girls Do Pilates at Ginger Chanakyapuri, a guided mat pilates experience by SWAG.Come and feel fitter in the company of like-minded women, and stay back for a Breakfast at Ginger Hotel.Here's the plan,We start with a Mat Pilates session.Slow down with some breath-work and meditation.Curated Breakfast at Ginger Hotel.Goodies from Pee Safe\u00a0No need to carry your mats we have mats by The Ritual Co.Can't wait to see you this Sunday!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "description": "Let\u2019s make your sunday morning extra feel-good with Hot Girls Do Pilates at Ginger Chanakyapuri, a guided mat pilates experience by SWAG.Come and feel fitter in the company of like-minded women, and stay back for a Breakfast at Ginger Hotel.Here's the plan,We start with a Mat Pilates session.Slow down with some breath-work and meditation.Curated Breakfast at Ginger Hotel.Goodies by Pee Safe\u00a0No need to carry your mats we have mats by The Ritual Co.Can't wait to see you this Sunday!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
     "startDate": "2026-11-22T08:30:00+05:30",
     "endDate": "2026-11-22T10:30:00+05:30",
     "location": {
@@ -1894,6 +1783,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Criminal Profiling Masterclass",
+    "description": "Inside a Profiler's Mind: Four Sessions on Criminal ProfilingThink like a profiler. Reason like a scientist.You've probably watched the shows. The detective looks at a crime scene for a few seconds, pauses, and describes the killer right down to his childhood. It's great TV, but is it how profiling actually works?Across four sessions, criminologist and forensic psychologist Rithin Joseph separates movie myth from method. We go from 19th-century attempts to spot criminals by the shape of their skulls, to the FBI's Behavioral Science Unit, to the maths of where offenders live, to how profiling is actually done in 2026. Every session digs into real true crime cases, runs its own hands-on simulation, and has much more along the way, so you won't just be listening. You'll be profiling.Each session stands on its own, so come to one or come to all four. Book all four and get a discount, for anyone who wants the full case file.21st November, 4-6 PM: Can You Tell If I'm a Serial Killer?Profiling's real history is messier than the legend, and much more interesting. We start with Lombroso and phrenology, who believed you could read criminality in someone's face, and look at why those ideas caught on and why they fell apart. Then we follow Hans Gross's turn toward evidence, James Brussel's famous (and contested) Mad Bomber profile, and the rise of the FBI's behavioural analysts. Along the way we ask what profiling can actually tell an investigator, and what it never can.22nd November, 4-6 PM: Same Crime, Different Profiles: Who Gets It Right?Two profilers look at the same crime scene and come back with two different suspects. How does that happen? This session gets into the reasoning behind profiling: patterns drawn from many offenders versus clues taken from one case, and the FBI's famous split between \"organised\" and \"disorganised\" offenders, with cases like BTK and Jeffrey Dahmer as reference points. We'll look at where that split helps and where it falls apart, and at the biases that slip in without anyone noticing. Then we'll test ourselves on a fictional scene that has two competing profiles.28th November, 3\u20135 PM: Where Do Killers Live? The Geography of CrimeA series of crimes leaves more than physical evidence. It leaves a map. Using David Canter's investigative psychology and Kim Rossmo's geographic profiling, we'll look at how offenders move through a city: comfort zones, anchor points, and why distance matters. The DC Sniper case runs through the session. Then we'll take a fictional cluster of crime locations and try to narrow the search ourselves. A warning in advance: these maps deal in probabilities, not GPS coordinates.29th November, 3\u20135 PM: What Criminal Profiling Looks Like in 2026Instead of asking \"what kind of person would do this?\", modern profiling asks \"what does the evidence actually show?\" This session introduces Behavioral Evidence Analysis, which reads the crime scene, the victim's circumstances and the sequence of events before it reaches for any stereotype. We'll work out the difference between how a crime was committed and what it might reveal about the person behind it. Then we'll read a fictional case file twice and watch our conclusions change as new evidence comes in.All sessions at the Gully Labs store, Panchsheel Park.About the speakerRithin Joseph is an Assistant Professor at the School of Behavioural Forensics, National Forensic Sciences University, Delhi, where he teaches criminology and forensic psychology. He is certified in investigative tools including the polygraph, BEOS brain profiling, Layered Voice Analysis and EyeDetect. He is Co-Investigator on an ICSSR-funded study predicting recidivism among first-time offenders, co-author of Crime as the Cause of Criminality and BRICS: Unravelling the Abyss, and a gold medallist in his Master's in Criminology.Four sessions, four case files, and you'll never watch a crime show the same way again.",
+    "startDate": "2026-11-28T15:00:00+05:30",
+    "endDate": "2027-01-17T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "699.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "url": "https://urbanaut.app/partner/unlecture"
+    },
+    "url": "https://urbanaut.app/spot/inside-a-profilers-mind",
+    "keywords": [
+      "Live GIG",
+      "Local",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "K se Karuna: India\u2019s Intellectual Inheritance",
     "description": "About the LectureJoin us for a lecture that asks where our political vocabulary, that we use almost every day - actually came from:Liberty, equality, fraternity. Three words that built the modern nation, and all three arrived here from somewhere else. What if the organising idea had come from within South Asia instead?The nation-making of the nineteenth and twentieth centuries settled on that trio, and we have lived inside it ever since: in constitutional safeguards, in the language of rights, in what we understand democratic life to guarantee. Ideas that germinated in the continental world and travelled into the Global South as imports, carrying both a formal-legal meaning and a substantive promise for how people might live together.Pia David turns to a different inheritance. Karu\u1e47\u0101, compassion, is an idea that emerges from within this geography, and it has its own long history of thinking about difference, diversity and ethical living. Not only in the ancient past, but through the reformist and political thought of modern India, where it kept resurfacing in arguments about what a shared life demands.The question the lecture leaves us with is a live one. What would it mean to treat karu\u1e47\u0101 not as sentiment but as political method?A way of addressing global conflict, human despair, and the particular poverty that enters political discourse when compassion goes missing from it?The session explores:How liberty, equality and fraternity became the default grammar of modern political lifeKaru\u1e47\u0101 as an idea with its own intellectual lineage in South Asia, ancient and modernHow questions of diversity, difference and ethical living were imagined from within this regionWhat compassion offers as a mode of praxis, not just a normative horizon for theory, but something politics could actually doAbout the SpeakerPia David is from Lucknow, Uttar Pradesh, and is trained as a political scientist. As a Foundation for Universal Responsibility Dalai Lama Studies Fellow in 2023, she worked on Dharma and Dhamma: A Modern Reading of Gandhi and Ambedkar in the Context of Deep Diversity. Her interests span liberal political philosophy and social and political thought from South Asia in the context of the world. She can be found on long walks through forested gardens, tombs and ruins, usually with friends, sometimes in solitude, never without music. Her current favourite is Libertango. She lives in Delhi, wondering about Mir's lament on his exile.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
@@ -2225,6 +2152,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Mehrauli Heritage Walk- Ruins and Breakfast",
+    "description": "Join \"A City Within a City,\" a 2-hour Mehrauli heritage walk on Nov 1, 2026 (8:00-10:00 AM), tracing Delhi's oldest neighborhood from Bhool Bhulaiyya's Mughal maze through bazaar lanes, Sita Ram Sweets' history, 7 city tales, to Mehrauli Park's tombs and stepwells.Expect architect-led insights into 1,000 years of architecture, Sufi lore, and living culture over 2 km \u2013 immersive stories, photo stops, no crowds. Easy stroll for 20-30 culture enthusiasts; ends with a complimentary breakfast.Perfect for urban explorers seeking Delhi's layered roots.\u00a0",
+    "startDate": "2026-11-29T08:30:00+05:30",
+    "endDate": "2026-11-29T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Anuvrat Marg, opposite Qutab Minar Metro Station, Christian Colony, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52020410000000000000",
+        "longitude": "77.18767900000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Riwayat Walks",
+      "url": "https://urbanaut.app/partner/riwayatwalks"
+    },
+    "url": "https://urbanaut.app/spot/mehraulibreakfast",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Public Tuition #2",
     "description": "What is Public Tuition?We\u2019re getting the unLecture community together for a slow, cosy morning in the sun this November.The idea is pretty simple: everyone brings one thing they know how to do and teaches it to whoever wants to learn. Maybe you crochet, solve Sudoku ridiculously fast, know a few good yoga poses, write poetry, dance, sing, fold very complicated things out of paper \u2014 whatever. It doesn\u2019t have to be a \"serious\" skill, and you definitely don\u2019t have to be an \"expert\", just some passion and interest goes a long way.Come teach us something. Come learn something. Or just come hang out and meet some new, really cool people.We\u2019ll have a picnic-y setup, a potluck (bring something to eat and share), lots of sitting around and chatting, and a bunch of little lessons happening throughout the morning.The location is going to be an open public space in Delhi, and we\u2019ll share the exact spot with everyone who registers.A few things to know:Bring one skill you\u2019d like to share, big or smallCome ready to pick up a completely random new skill from someone elseBring something for the potluck if you canWear something comfortable and come prepared to sit on the grass ( Bonus if you can bring some extra mats for the group )No expertise required. Seriously.Entry is open to everyone. Just bring yourself, something to share, and a little curiosity.",
@@ -2255,6 +2220,44 @@
     },
     "url": "https://urbanaut.app/spot/public-tuition-2",
     "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Art of Mapping: A hands-on workshop",
+    "description": "he Art of Mapping: A hands-on heritage map-making experienceWhat if you could experience a city not just by walking through it, but by drawing it your own way?Join us for a hands-on creative session where history, art, and mapping come together. You\u2019ll explore the visual language of heritage maps and create your own illustrated map using handmade techniques, textures, symbols, landmarks, and stories.Whether you love drawing, exploring cities, discovering heritage, or simply want to spend an evening making something with your hands - this workshop is designed for you.",
+    "startDate": "2026-11-29T15:00:00+05:30",
+    "endDate": "2026-11-29T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Hauz Khas, New Delhi, Delhi 110016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54788970000000000000",
+        "longitude": "77.20312470000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "549.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Riwayat Walks",
+      "url": "https://urbanaut.app/partner/riwayatwalks"
+    },
+    "url": "https://urbanaut.app/spot/mapmakingworkshopriwayatwalks",
+    "keywords": [
+      "Workshop",
+      "History & heritage",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -2601,6 +2604,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Dawn Trails & Lakeside Picnic in Delhi NCR",
+    "description": "This early morning hiking experience takes you across rocky paths, scenic ridgelines and a picturesque lakeside setting, offering a refreshing escape into nature.The experience brings together gentle adventure, outdoor exploration, group activities and a picnic breakfast, making it suitable for beginners, couples, friends and solo travellers.Participants will be accompanied by experienced hike leaders throughout the trail.The experience also includes a curated picnic breakfast, storytelling, engaging group activities and basic first aid support.Experience Schedule1. Arrival and Meet Up at 6:30 AMReach the starting point by 6:30 AM and meet the rest of the group before setting off.Briefing and Introduction: Get acquainted with the hike leaders as they give you a quick overview of the trail, the experience and what to expect during the morning.2. Sunrise Hike Begins at 6:30 AMBegin the hike at 6:30 AM and follow a guided route through scenic trails, rocky stretches and boulder sections.Enjoy the peaceful morning atmosphere and beautiful views as the landscape comes alive around you.3. Nature Pause and Group ActivitiesTake brief pauses during the hike to soak in the surroundings and discover interesting details about the natural landscape.Participate in fun outdoor activities designed to keep the group engaged and make the experience more interactive.4. Picnic BreakfastStop at a scenic location to unwind and enjoy a curated picnic breakfast.Take some time to relax, connect with the group and enjoy your meal surrounded by nature.5. Walk Back and Wrap Up at 9:30 AMBegin the return walk with the group after the picnic and make your way back to the starting point.",
+    "startDate": "2026-12-05T06:30:00+05:30",
+    "endDate": "2026-12-05T09:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "95VP+C6C, Mangar, Haryana 121004, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.39356250000000000000",
+        "longitude": "77.18551560000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1428.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Trail It Hiking and Outdoors",
+      "url": "https://urbanaut.app/partner/trail-it-hiking-and-outdoors"
+    },
+    "url": "https://urbanaut.app/spot/picnicatmangarlake",
+    "keywords": [
+      "Adventure",
+      "Premium",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Abhidaan presents - 'Kya mere ho?'",
     "description": "We are an indie-pop duo from Jodhpur, formed by childhood friends Abhimanyu and Vardaan, who have been making music together since 2019. Our debut independent show at Depot 48 is a project very close to our hearts, a thoughtfully curated, intimate musical experience designed to complement the venue. We want to create a space where people can connect with our music up close, share a few stories, and experience our songs in a way that feels personal, immersive, and memorable. Depot 48 feels like the perfect home for this experience.Yojit Ahuja is a Jodhpur-born, Delhi-based singer-songwriter, who serves the rat race as a software engineer. Yojit explores lyrics that go beyond conventional love stories to explore ambition, disillusionment, hope, betrayal and the realities of everyday life.",
     "startDate": "2026-12-05T20:00:00+05:30",
@@ -2678,7 +2719,7 @@
     "@type": "Event",
     "name": "ALT EFF 2026 <> CEEW Delhi",
     "description": "There are times in history that ask something different of us. This is one of them.The 7th edition of the All Living Things Environmental Film Festival returns with stories that don't look away. Films that find beauty in unlikely places, humour in dark times, and communities imagining futures worth fighting for.For one day, we'll gather around cinema that challenges, delights and surprises in equal measure. Expect award winning films from around the world, filmmaker Q&As, unforgettable conversations, great food, drinks, and a room full of people who aren't afraid to ask difficult questions.Pull up a chair.Let's meet the times together.This event is part of ALT EFF's decentralised screenings, proudly presented in partnership with Council on Energy, Environment and Water (CEEW)This is art as witness, joy as resistance, and cinema as a way back to each other. Programme10th December 2026, Thursday6:45 - 6:50 PM: Introduction6:50 - 6:58 PM: Through The Dappled Light (Puneet Raj Singh, Nikita Sharma, Apoorva Sharma / India / 8 mins / Hindi / 2025)6:58 - 7:15 PM: It\u2019s Only 47\u00b0C (Tej Sisodia / India / 16 mins / Hindi / 2026)7:15 - 7:26 PM: Before the Fire (Swara Garge and Prakhar Dobhal / India / 11 mins / Hindi / 2026)7:26 - 7:30 PM: Audience QR Poll7:30 - 8:00 PM: Discussion with the filmmakers of  Through The Dappled Light and Before the Fire8:00 - 8:15 PM: Snack Break8:15 - 8:32 PM: Choora (Anand Rama Krishnan / India / 17 mins / Malayalam / 2024)8:32 - 8:45 PM: Where the Water Hides (Marhaba Hilali / India / 13 mins / Sindhi, Kutchi, Gujarati, Hindi / 2026)8:45 - 9:05 PM: Uppuveedukal (Arathi MR / India / 22 mins / Malayalam / 2025)",
-    "startDate": "2026-12-11T18:00:00+05:30",
+    "startDate": "2026-12-10T18:30:00+05:30",
     "endDate": "2026-12-11T21:00:00+05:30",
     "location": {
       "@type": "Place",
@@ -2747,6 +2788,44 @@
       "Local",
       "Music",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Ru-ba-ru | An Evening of Songs and Shayari",
+    "description": "Ru-ba-ru | An Evening of Songs and Shayari with Pranita and KabeerPranita Nair Pandurangi is a singer-songwriter, composer, and musiceducator. Her voice has been featured on the track \u2018Chaap Tilak\u2019 inNetflix series Masaba Masaba Season 2. She is the first recipient of AHumming Heart's Artist Fund for upcoming independent artists. She hasindependently released one folk fusion album - \u2018Rang\u2019, one originalUrdu single and - \u2018Namee\u2019 and one electronic ghazal - \u2018BeiraadaNazar\u2019, since 2019. She has recently released 'Sirf Tum': an original song in collaboration with Barkha Swaroop Saxena in 2026.In 2024, she released 'Crossroads' - a Hindustani classical live jazzfusion EP in collaboration with Polish singer-songwriter MagdalenaEste and other international artists. She performed her Urdu shayariand original Urdu rock songs in an intimate show at the Nita MukeshAmbani Cultural Centre in September '24.Kabeer Singh is a Mumbai based session musician and music producer who hails from Delhi. He made his debut as a background score composer for the Shishir Sharma starrer independent psychological thriller 'Kazi' in 2022. He has also worked as a music producer and session musician for some of the most exciting artists in the Indian music scene such as Pranita Nair Pandurangi, Nirant Chilimbi, Sayantika Ghosh and bands including Alif and Faasley. The wide range of instruments he plays includes Drums, Piano, Guitars, Ukulele, Melodica, and Synthesizers.  He\u2019s also the associate composer on the second season of the Netflix Series Masaba Masaba, and Amazon Prime series Dupahiya. He has toured with the well-known stand-up comedian Kunal Kamra. Kabeer completed his BA and MA in English Honors from Kirorimal College and Arts Faculty, Delhi University. He was the lead singer in Muzok, Kirorimal's Music Society. He is also the associate composer on the Abhay Deol starrer \"\"Velle\"\".",
+    "startDate": "2026-12-20T19:00:00+05:30",
+    "endDate": "2026-12-20T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "480.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/ru-ba-ru-an-evening-of-songs-and-shayari",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Art & culture",
       "URBANAUT"
     ]
   },
