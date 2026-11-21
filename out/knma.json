@@ -1,30 +1,10 @@
 [
   {
-    "@type": "ExhibitionEvent",
-    "name": "Pata Dekhabo?",
-    "url": "https://www.knma.org/whats-on/exhibitions/pata-dekhabo/",
-    "startDate": "2026-05-22T10:00:00+05:30",
-    "endDate": "2026-11-22T18:00:00+05:30",
-    "description": "Pattachitra",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA Art Passage",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
     "@type": "EducationEvent",
     "name": "KNMA Art Hours",
     "url": "https://www.knma.org/whats-on/workshops/knma-art-hours/",
     "startDate": "2026-06-17T10:00:00+05:30",
-    "endDate": "2026-11-29T18:00:00+05:30",
+    "endDate": "2026-12-06T18:00:00+05:30",
     "description": "Art Hours",
     "location": {
       "@type": "Place",
@@ -121,54 +101,34 @@
   },
   {
     "@type": "EducationEvent",
-    "name": "Converging Visuals",
-    "url": "https://www.knma.org/whats-on/workshops/converging-visuals/",
-    "startDate": "2026-11-21T10:00:00+05:30",
-    "endDate": "2026-11-21T10:00:00+05:30",
-    "description": "Saturday Family Workshop",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "EducationEvent",
-    "name": "Line, Pattern, Memory and Place",
-    "url": "https://www.knma.org/whats-on/workshops/line-pattern-memory-and-place/",
-    "startDate": "2026-11-21T10:00:00+05:30",
-    "endDate": "2026-11-21T10:00:00+05:30",
-    "description": "Artist in Me",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "EducationEvent",
     "name": "Felting Impressions",
     "url": "https://www.knma.org/whats-on/workshops/felting-impressions/",
     "startDate": "2026-11-27T10:00:00+05:30",
     "endDate": "2026-11-28T18:00:00+05:30",
-    "description": "Methods",
+    "description": "Workshop",
     "location": {
       "@type": "Place",
       "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "ExhibitionEvent",
+    "name": "Joler Abaksh",
+    "url": "https://www.knma.org/whats-on/exhibitions/joler-abaksh/",
+    "startDate": "2026-11-28T10:00:00+05:30",
+    "endDate": "2027-01-02T18:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "Alipore Museum",
       "address": "New Delhi"
     },
     "organizer": {
@@ -209,6 +169,26 @@
     "location": {
       "@type": "Place",
       "name": "Triveni Kala Sangam",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "ExhibitionEvent",
+    "name": "Heaven Is Where You Keep Your Memories",
+    "url": "https://www.knma.org/whats-on/exhibitions/heaven-is-where-you-keep-your-memories/",
+    "startDate": "2026-11-29T10:00:00+05:30",
+    "endDate": "2027-01-02T18:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "Lalit Kala Akademi",
       "address": "New Delhi"
     },
     "organizer": {
@@ -306,6 +286,26 @@
     "startDate": "2026-12-05T10:00:00+05:30",
     "endDate": "2026-12-05T10:00:00+05:30",
     "description": "WeekendsatKNMA",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Positive or Negative?",
+    "url": "https://www.knma.org/whats-on/workshops/positive-or-negative/",
+    "startDate": "2026-12-05T10:00:00+05:30",
+    "endDate": "2026-12-05T10:00:00+05:30",
+    "description": "Saturday Family Workshop",
     "location": {
       "@type": "Place",
       "name": "KNMA, New Delhi",

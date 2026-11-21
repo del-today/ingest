@@ -1,63 +1,27 @@
 [
   {
     "@type": "SportsEvent",
-    "name": "5K Neon Run",
-    "url": "https://indiarunning.com/events/5k_neon_run_22216",
-    "startDate": "2026-11-21T05:00:00+05:30",
-    "endDate": "2026-11-21T11:00:00+05:30",
-    "description": ". 5:00 AM - The 5K run with neon lights\n. The run finishes at J P Nagar SOCIAL\n. 7:00 AM - The coffee rave at JP Nagar SOCIAL, with a DJ on the decks\n. 9:30 AM - Wrap\n \nThings to know:\nEntry allowed for ages 14 and above.\nTickets required for ages 14 and above.\nPets are not allowed.\nID (Aadhar/ PAN/ DL/ Passport) is required for entry.\nThe run starts in JP Nagar. The exact start point will be sent to you on WhatsApp before the event.\nCheck in opens at 5:00 AM at the grounds.\nThe 5K neon run is led by our community partner JRC and ends at JP Nagar SOCIAL.\nThe coffee rave starts at 7:00 AM\nAges 14 & up. Under 18s must come with a parent or guardian.\nCarry a photo ID and your ticket on your phone.\nWear sportswear and running shoes.\nAll paces are welcome. Volunteers will be with you along the route.\nPhotos and videos will be taken during the event.\nArrive 15 minutes early so the run can start on time.\nThis is a run on open roads. Stay with the group and follow the volunteers.\nIf you have a health condition, check with your doctor before you take part.\nThe route or timings may change for safety or weather.\nTickets cannot be refunded or transferred.\nGlass containers, laptop, metal container, helmets, laser pointer/flash light, alcohol, outside food, flammable, toxic, sharp items: knife/ syringe, bottles, bags, tins, cans and musical instruments are prohibited.\nIndoor venue with AC with both seated and standing areas.\nNot recommended for people having heart conditions, uncontrolled high blood pressure, recent injury or surgery, pregnancy, epilepsy or sensitivity to flash lights.\nGates open 15 mins before the show time.",
-    "image": "https://race-registration-cdn.indiarunning.com/events/2026/11/21/10660/banner1795070259010",
+    "name": "Run and Kickboxing at Indiranagar",
+    "url": "https://indiarunning.com/events/run_and_kickboxing_at_indiranagar_32579",
+    "startDate": "2026-11-28T07:00:00+05:30",
+    "endDate": "2026-11-28T09:00:00+05:30",
+    "description": "RUN + KICKBOX | 9ROUND EDITION \ud83c\udfc3\u200d\u2640\ufe0f\ud83e\udd4a\nWe're bringing you a workout that hits different! Get ready to kick off your morning with a community run followed by an adrenaline-packed kickboxing session with 9Round!\nRun, punch, kick, sweat and push your limits alongside an amazing community. Whether you're a beginner or a fitness enthusiast, this is your chance to try something new, get moving and have a whole lot of fun!\nExpect high energy, expert-guided kickboxing, exciting challenges, good vibes and new connections. \u2764\ufe0f\u200d\ud83d\udd25\nCome for the run, stay for the fight! \ud83e\udd4a",
+    "image": "https://race-registration-cdn.indiarunning.com/events/2026/11/28/10666/banner1795175566801",
     "location": {
       "@type": "Place",
-      "name": "Phase 2",
+      "name": "HAL 2nd Stage",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "24th Ma, 9th Cross Rd, Phase 2, R K Colony, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+        "streetAddress": "2nd Floor, 764, 100 Feet Rd, HAL 2nd Stage, Domlur, Indiranagar, Bengaluru, Karnataka 560008, India",
         "addressLocality": "Bengaluru",
         "addressRegion": "Karnataka",
-        "postalCode": "560078",
+        "postalCode": "560008",
         "addressCountry": "India"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": 12.9110106,
-        "longitude": 77.5863924
-      }
-    },
-    "sport": "Running",
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "5k",
-        "price": "499",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@type": "SportsEvent",
-    "name": "Cubbon Run and Coffee Rave with PaceX",
-    "url": "https://indiarunning.com/events/cubbon_run_and_coffee_rave_with_pacex_26282",
-    "startDate": "2026-11-21T07:00:00+05:30",
-    "endDate": "2026-11-21T23:59:00+05:30",
-    "description": "Get ready for a fun Saturday with PaceX! \ud83c\udf83\ud83d\udc7b We\u2019re kicking things off with a community run at Cubbon Park, followed by a Coffee Rave at Nothing Before Coffee (NBC), Residency Road.\nExpect more than just a run, we\u2019re talking coffee, music, dancing, fun games and challenges, socialising, meeting new people, and a whole lot of mad energy. Bring your friends, make new ones, and get ready for a morning filled with miles, caffeine, and unforgettable vibes! \u2615\ud83d\udd78\ufe0f\ud83c\udfc3\u200d\u2640\ufe0f",
-    "image": "https://race-registration-cdn.indiarunning.com/events/2026/11/21/10624/banner1794468993551",
-    "location": {
-      "@type": "Place",
-      "name": "Ambedkar Veedhi",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Raj Bhavan Rd, Ambedkar Veedhi, Bengaluru, Karnataka 560001, India",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "Karnataka",
-        "postalCode": "560001",
-        "addressCountry": "India"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9813208,
-        "longitude": 77.5951358
+        "latitude": 12.971641,
+        "longitude": 77.6409623
       }
     },
     "sport": "Running",
@@ -65,28 +29,64 @@
       {
         "@type": "Offer",
         "name": "2.5K",
-        "price": "499",
+        "price": "599",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock"
       },
       {
         "@type": "Offer",
         "name": "5k",
-        "price": "499",
+        "price": "599",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@type": "SportsEvent",
+    "name": "Lake Run and Coffee Rave - HSR",
+    "url": "https://indiarunning.com/events/lake_run_and_coffee_rave__hsr_28436",
+    "startDate": "2026-11-29T07:00:00+05:30",
+    "endDate": "2026-11-29T10:30:00+05:30",
+    "description": "Kickstart your Sunday with an energising loop around Agara Lake, HSR Layout, followed by a cooldown and our signature post-run coffee rave. Enjoy music, refreshments, and meaningful conversations with people who love to start their mornings strong.\nRun. Rave. Repaet. See you on the 29th Nov! \ud83e\udd0d\u2728",
+    "image": "https://race-registration-cdn.indiarunning.com/events/2026/11/29/10665/banner1795164037349",
+    "location": {
+      "@type": "Place",
+      "name": "Agara Village",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "3, Agara Lake Trail, near Cafe Coffee Day - Ramesh Plaza, HSR Layout, Agara Village, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102, India",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560102",
+        "addressCountry": "India"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9233945,
+        "longitude": 77.645995
+      }
+    },
+    "sport": "Running",
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "2.5K",
+        "price": "399",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock"
       },
       {
         "@type": "Offer",
-        "name": "7K",
-        "price": "499",
+        "name": "5k",
+        "price": "399",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock"
       },
       {
         "@type": "Offer",
         "name": "10k",
-        "price": "499",
+        "price": "399",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock"
       }
