@@ -1,1 +1,172 @@
-[]
+[
+  {
+    "@type": "ScreeningEvent",
+    "name": "Dedicated to my ex(2019)",
+    "url": "https://fillum.in/screening/6558",
+    "startDate": "2026-11-25T18:00:00+05:30",
+    "endDate": "2026-11-25T18:00:00+05:30",
+    "description": "Free entry.",
+    "location": {
+      "@type": "Place",
+      "name": "Instituto Cervantes",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Instituto Cervantes Nueva Delhi"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "The Last Viking(2025)",
+    "url": "https://fillum.in/screening/6606",
+    "startDate": "2026-11-25T19:00:00+05:30",
+    "endDate": "2026-11-25T19:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "Stein Auditorium, India Habitat Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "EUFF - European Union Film Festival"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Sand in Your Hair(2025)",
+    "url": "https://fillum.in/screening/6621",
+    "startDate": "2026-11-26T16:30:00+05:30",
+    "endDate": "2026-11-26T16:30:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "Liszt Institute, Hungarian Cultural Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "EUFF - European Union Film Festival"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Sirat(2025)",
+    "url": "https://fillum.in/screening/6614",
+    "startDate": "2026-11-26T18:30:00+05:30",
+    "endDate": "2026-11-26T18:30:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "Instituto Cervantes",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "EUFF - European Union Film Festival"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Drazen(2024)",
+    "url": "https://fillum.in/screening/6622",
+    "startDate": "2026-11-26T18:30:00+05:30",
+    "endDate": "2026-11-26T18:30:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "Liszt Institute, Hungarian Cultural Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "EUFF - European Union Film Festival"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Bring Me Home(2024)",
+    "url": "https://fillum.in/screening/6615",
+    "startDate": "2026-11-27T16:00:00+05:30",
+    "endDate": "2026-11-27T16:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "Instituto Cervantes",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "EUFF - European Union Film Festival"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Summer School, 2001(2025)",
+    "url": "https://fillum.in/screening/6616",
+    "startDate": "2026-11-27T18:30:00+05:30",
+    "endDate": "2026-11-27T18:30:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "Instituto Cervantes",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "EUFF - European Union Film Festival"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Maricel(1970)",
+    "url": "https://fillum.in/screening/6607",
+    "startDate": "2026-11-27T19:00:00+05:30",
+    "endDate": "2026-11-27T19:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "Gulmohar Hall, India Habitat Centre",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "EUFF - European Union Film Festival"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "22 Lengths(2025)",
+    "url": "https://fillum.in/screening/6630",
+    "startDate": "2026-11-28T16:00:00+05:30",
+    "endDate": "2026-11-28T16:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "Goethe-Institut",
+      "address": "Lodhi Road, New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "EUFF - European Union Film Festival"
+    }
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Man with a Movie Camera(1929)",
+    "url": "https://fillum.in/screening/6549",
+    "startDate": "2026-11-28T18:00:00+05:30",
+    "endDate": "2026-11-28T18:00:00+05:30",
+    "description": "As part of Days of Ukrainian Cinema. Free entry.",
+    "location": {
+      "@type": "Place",
+      "name": "IIC Annexe - Lecture Room 1",
+      "address": "Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "India International Centre"
+    }
+  }
+]
