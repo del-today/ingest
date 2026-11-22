@@ -37,194 +37,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Exploration into the flavors of Odisha",
-    "description": "Exploration into the Flavours of OdishaA 7-Course Tasting Menu | Supperclub at Rosei GharaOdisha is a land of extraordinary flavours, age-old culinary traditions, and ingredients that tell stories of its people and places. Yet, so much of its rich food heritage remains unexplored.This November, Rosei Ghara invites you on an intimate culinary journey through Odisha, one thoughtfully curated course at a time.Exploration into the Flavours of Odisha is a seven-course tasting experience that celebrates the diversity of Odia cuisine. From familiar comforts to lesser-known regional delicacies, expect a menu rooted in tradition, inspired by seasonal ingredients, and presented with a fresh perspective.More than just a meal, this is an invitation to discover the stories, memories, and culinary traditions behind every dish.What makes this experience special?- Seven thoughtfully curated courses showcasing the depth and diversity of Odisha's culinary heritage.- An intimate supperclub setting where food, storytelling, and conversations come together around one table.- A celebration of regional flavours, bringing lesser-known ingredients, traditional techniques, and cherished recipes into the spotlight.Dates & Timings20 November, FridayDinner | 7:30 PM21 November, SaturdayLunch | 1:00 PM  Dinner | 7:30 PM22 November, SundayLunch | 1:00 PM  Dinner | 7:30 PMVenue: Rosei Ghara, Shahpur Jat, New DelhiCome curious, come hungry, and leave with a little more of Odisha in your heart.Limited seats per service. Reserve your place at our table.",
-    "startDate": "2026-11-21T13:00:00+05:30",
-    "endDate": "2026-11-22T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Shahpur Jat, Siri Fort, New Delhi, Delhi 110049, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54878510000000000000",
-        "longitude": "77.21596509999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2940.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Rosei Ghara",
-      "url": "https://urbanaut.app/partner/roseighara"
-    },
-    "url": "https://urbanaut.app/spot/exploration-into-the-flavors-of-odisha",
-    "keywords": [
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Tilpath Valley Biodiversity Park Nature Walk",
-    "description": "Join New Delhi Nature Society for a morning nature walk at Tilpath Valley Biodiversity Park, a restored stretch of the Aravalli ridge next to Asola Bhatti Wildlife Sanctuary. Once a quarry, it is now home to native trees and shrubs and a wide variety of resident and winter birds. Led by Verhaen Khanna, the walk covers identifying native plants, birdsong and how the restored ecosystem works.What you'll experience:- identifying native trees, shrubs and plants- learning birdsong, behaviour and habitats- understanding how a restored quarry became a thriving ecosystem.Perfect for nature lovers, first-time walkers, photographers, families and anyone who wants to start their Sunday with wonder.What to wear: full-length clothes in earthy or muted colours. What to bring: comfortable walking shoes, water, a cap, a camera (no flash), and binoculars if you have them.",
-    "startDate": "2026-11-22T07:00:00+05:30",
-    "endDate": "2026-11-22T09:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "W-22, Sainik Farms, South Sainik Farm, Sainik Farm, New Delhi, Delhi 110068, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.49187680000000000000",
-        "longitude": "77.20961369999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "650.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "New Delhi Nature Society",
-      "url": "https://urbanaut.app/partner/new-delhi-nature-society-312"
-    },
-    "url": "https://urbanaut.app/spot/tilpath-valley-biodiversity-park-nature-walk",
-    "keywords": [
-      "Walking Tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "A Morning in Motion with AVANTI GOYAL",
-    "description": "Slow down, stretch out, and start your Sunday the feel-good way. Mat Pilates with Avanti Goyal, followed by the best kind of caf\u00e9 morning, at Cafe Casa Dunes.\ud83d\udcc5 22nd November, 8 AM onwards",
-    "startDate": "2026-11-22T08:00:00+05:30",
-    "endDate": "2026-11-22T09:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Cafe Casa Dunes, Bypass Road, Aerocity, Mahipalpur Extension, Vasant Kunj, New Delhi, Delhi 110037, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.54440530000000000000",
-        "longitude": "77.13304289999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "999.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Cafe Casa Dunes",
-      "url": "https://urbanaut.app/partner/cafe-casa-dunes"
-    },
-    "url": "https://urbanaut.app/spot/a-morning-in-motion",
-    "keywords": [
-      "Wellness",
-      "Workshop",
-      "Pop-up Event",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Hot Girls Do Pilates : Breakfast Club",
-    "description": "Let\u2019s make your sunday morning extra feel-good with Hot Girls Do Pilates at Ginger Chanakyapuri, a guided mat pilates experience by SWAG. Come and feel fitter in the company of like-minded women, and stay back for a Breakfast at Ginger Hotel.Here's the plan,Get ready at the Glam Station by iBeautyWe start with a 1 hour Mat Pilates session.Slow down with some breath-work and meditation.Curated Breakfast at Ginger Hotel.Goodies by Pee Safe\u00a0No need to carry your mats we have mats by The Ritual Co. Can't wait to see you this Sunday!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
-    "startDate": "2026-11-22T08:30:00+05:30",
-    "endDate": "2026-11-22T10:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "No. 13A-16D, Maharaja Surajmal Ln, South, near Lakhswadeep Guest House, Chanakyapuri, New Delhi, Delhi 110021, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.58400180000000000000",
-        "longitude": "77.18729909999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "399.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sweat Like a Girl",
-      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
-    },
-    "url": "https://urbanaut.app/spot/swag75",
-    "keywords": [
-      "Wellness",
-      "Workshop",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Havelis & Nashta: A Chandni Chowk Morning",
-    "description": "Step into the timeless lanes of Shahjahanabad on a heritage breakfast walk through the hidden havelis of Old Delhi. Discover the architectural beauty of traditional mansions, ornate doorways, carved balconies and quiet courtyards while uncovering stories of merchant families, age-old traditions and everyday life in the walled city.We\u2019ll wander through historic lanes, explore the fascinating world of haveli architecture, and visit a special viewpoint offering a 360-degree panoramic view of Old Delhi, where the city's rooftops, domes, bustling bazaars and historic skyline come together.And what better way to end the morning than with a delicious traditional Old Delhi breakfast? Join us for a walk that brings together heritage, architecture, local stories and the flavours of Chandni Chowk.Come curious, bring your appetite, and experience Old Delhi beyond its crowded streets!",
-    "startDate": "2026-11-22T08:30:00+05:30",
-    "endDate": "2026-11-22T10:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M64M+92V, Chandni Chowk Rd, Old Delhi, Maliwara, Chatta Pratap, Chandni Chowk, New Delhi, Delhi, 110006, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.65598780000000000000",
-        "longitude": "77.23256140000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Riwayat Walks",
-      "url": "https://urbanaut.app/partner/riwayatwalks"
-    },
-    "url": "https://urbanaut.app/spot/chandnichowk",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Haryana Heritage Trail - Farrukhnagar & Jhajjar",
     "description": "Haryana's historical landscape extends far beyond the better-known monuments of Delhi. Its towns preserve traces of regional kingdoms, princely states, changing political powers and architectural traditions that deserve closer attention.On this heritage excursion, we explore two historic towns of Haryana \u2014 Farrukhnagar and Jhajjar FARRUKHNAGAROur first destination is Farrukhnagar, a historic town in present-day Gurugram district. Founded in the eighteenth century by Faujdar Khan, a governor associated with the Mughal court, Farrukhnagar developed as an important centre under a local ruling family.Its surviving architectural heritage offers an opportunity to understand the political and cultural history of the region, particularly the period when several local principalities exercised authority as Mughal power declined.JHAJJAROur second destination is Jhajjar, a town with a significant place in the political history of nineteenth-century Haryana.The town is particularly associated with Nawab Abdur Rahman Khan, whose estate became part of the political upheaval surrounding the Revolt of 1857. After the uprising was suppressed, the British tried and executed the Nawab in 1858, and annexed his territory.ITINERARY8:15 AM \u2013 8:30 AM | Departure from IFFCO Chowk, Gurgaon.9:45 AM \u2013 12:30 PM | Heritage exploration of Farrukhnagar.12:30 PM \u2013 2:00 PM | Lunch break at Model Economic Township (self-sponsored).2:00 PM \u2013 2:30 PM | Drive to Jhajjar.2:30 PM \u2013 4:00 PM | Explore Jhajjar's  Group of Tombs.4:00 PM \u2013 5:30 PM | Return journey to IFFCO Chowk, Gurgaon.Vehicle : Force Traveller Mini Bus",
@@ -254,81 +66,6 @@
       "url": "https://urbanaut.app/partner/sikkawala"
     },
     "url": "https://urbanaut.app/spot/haryana-heritage-trail-farrukhnagar-jhajjar",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Art of Holding Still",
-    "description": "Why does balancing on one leg become harder when our mind wanders? What happens to our breath when we hold a challenging posture? And why can staying still sometimes feel harder than moving?The Art of Holding Still is a 90-minute interactive workshop exploring the connection between body, breath, and mind through mindful movement, yoga, balance exercises, and simple reflections.Through accessible yoga asanas, breathwork, and engaging discussions, we\u2019ll explore how physical stillness can help us cultivate greater awareness, patience, and focus. Together, we\u2019ll discover what happens when we slow down, tune into our bodies, and learn to find balance even when our minds are elsewhere.Designed to be fun, welcoming, and meaningful, this experience is open to everyone, regardless of their yoga experience. Come as you are, move at your own pace, and discover the art of being present.",
-    "startDate": "2026-11-22T09:00:00+05:30",
-    "endDate": "2026-11-22T11:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "N - 4, N, Block Market, N Block, Greater Kailash I, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.55685060000000000000",
-        "longitude": "77.23310790000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "899.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Greenr",
-      "url": "https://urbanaut.app/partner/greenr"
-    },
-    "url": "https://urbanaut.app/spot/the-art-of-holding-still",
-    "keywords": [
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Ghalib Aur Dilli : Poetry ,People & Lost Worlds",
-    "description": "What happens when a poet's beloved city begins to disappear before his eyes?This is not a conventional Chandni Chowk heritage walk. Instead, we explore Old Delhi through the eyes, words and wonderfully complicated life of Mirza Ghalib\u2014one of the greatest poets of the Urdu language.Ghalib loved Delhi, its culture, its people and its refined social world. But he also witnessed the city undergo extraordinary upheaval, particularly during and after the Revolt of 1857. As Delhi was devastated and its familiar world transformed, the poet found himself grappling with loss, uncertainty and the disappearance of a way of life he had known.Through his letters, poetry and anecdotes, we will explore how Ghalib saw his city, how he responded to its changing fortunes, and what his writings reveal about Delhi during one of the most turbulent periods in its history.As we walk through selected corners of Old Delhi, the city becomes the backdrop to his extraordinary story. The experience concludes at Ghalib ki Haveli in Ballimaran, bringing us closer to the poet, his world and the city that inspired him.Come for Ghalib's poetry, stay for his stories\u2014and discover a very different way of looking at Old Delhi.",
-    "startDate": "2026-11-22T10:00:00+05:30",
-    "endDate": "2026-11-22T12:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Netaji Subhash Marg, opposite Red Fort, Old Delhi, Chandni Chowk, Delhi, 110006, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.65581870000000000000",
-        "longitude": "77.23618300000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "800.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "DARWESH_TALEWEAVERS",
-      "url": "https://urbanaut.app/partner/darwesh_taleweavers"
-    },
-    "url": "https://urbanaut.app/spot/ghalib-aur-dilli-poetry-people-lost-worlds",
     "keywords": [
       "Walking Tour",
       "History & heritage",
@@ -371,6 +108,43 @@
       "Local",
       "Workshop",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Exploration into the flavors of Odisha",
+    "description": "Exploration into the Flavours of OdishaA 7-Course Tasting Menu | Supperclub at Rosei GharaOdisha is a land of extraordinary flavours, age-old culinary traditions, and ingredients that tell stories of its people and places. Yet, so much of its rich food heritage remains unexplored.This November, Rosei Ghara invites you on an intimate culinary journey through Odisha, one thoughtfully curated course at a time.Exploration into the Flavours of Odisha is a seven-course tasting experience that celebrates the diversity of Odia cuisine. From familiar comforts to lesser-known regional delicacies, expect a menu rooted in tradition, inspired by seasonal ingredients, and presented with a fresh perspective.More than just a meal, this is an invitation to discover the stories, memories, and culinary traditions behind every dish.What makes this experience special?- Seven thoughtfully curated courses showcasing the depth and diversity of Odisha's culinary heritage.- An intimate supperclub setting where food, storytelling, and conversations come together around one table.- A celebration of regional flavours, bringing lesser-known ingredients, traditional techniques, and cherished recipes into the spotlight.Dates & Timings20 November, FridayDinner | 7:30 PM21 November, SaturdayLunch | 1:00 PM  Dinner | 7:30 PM22 November, SundayLunch | 1:00 PM  Dinner | 7:30 PMVenue: Rosei Ghara, Shahpur Jat, New DelhiCome curious, come hungry, and leave with a little more of Odisha in your heart.Limited seats per service. Reserve your place at our table.",
+    "startDate": "2026-11-22T13:00:00+05:30",
+    "endDate": "2026-11-22T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Shahpur Jat, Siri Fort, New Delhi, Delhi 110049, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54878510000000000000",
+        "longitude": "77.21596509999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2940.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Rosei Ghara",
+      "url": "https://urbanaut.app/partner/roseighara"
+    },
+    "url": "https://urbanaut.app/spot/exploration-into-the-flavors-of-odisha",
+    "keywords": [
+      "Pop-up Event",
+      "Food & drink",
       "URBANAUT"
     ]
   },
