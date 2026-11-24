@@ -327,6 +327,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Baddy with Baddies | Mehrauli",
+    "description": "SWAG Baddy with Baddies is a women-only, badminton meet-up.It is the perfect mid-week reset, with some badminton rallies, quick sets of both doubles and singles followed by a coffee and chit chat at the Reppp Cafe! It can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.Note: Only non-marking sports shoes are allowed on court. Don't have non-marking shoes? No worries - you can rent a pair at the venue of play bare foot.",
+    "startDate": "2026-11-26T20:00:00+05:30",
+    "endDate": "2026-11-26T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "near Qutab Minar Metro Station, Aam Bagh, Ladha Sarai Village, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.51514850000000000000",
+        "longitude": "77.18640390000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "299.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag100",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Filming with Light: A Workshop by Luis Mac\u00edas",
     "description": "A hands-on workshop on making cinema without a camera, by creating, manipulating and altering moving images with light on the film emulsion.Facilitated by analog film practitioner Luis Mac\u00edas (Crater-Lab, Barcelona), the workshop introduces the fundamentals of camera-less 16mm filmmaking: how to create and manipulate moving images directly on celluloid.Working with black-and-white film, you will try three techniques:Rayographs: making abstract images by placing objects directly on film stock and exposing their shadows and textures with flashlights.Flat printing: copying and altering existing negative or positive film through direct emulsion-to-emulsion contact printing, a fast way to overprint, layer materials and build rhythmic fades.Darkroom processing: developing film under safelight to watch and adjust the image in real time through positive development, solarization and chemical manipulation.Suitable for beginners and experienced makers. Friday 27 November 2026, 2:00 PM to 6:00 PM, at W.I.P aDDa, Lado Sarai. Small group, limited seats.TicketsWorkshop only: the workshop, 2:00 PM to 6:00 PM.Workshop + Screening: the workshop, plus the talk and 16mm screening by Luis Mac\u00edas, Your Eyes Are Spectral Machines, at 7:30 PM the same evening at W.I.P aDDa.Student: Workshop + Screening at a student price, with a valid college or university ID shown at entry.Good to knowThe workshop is in the basement at W.I.P aDDa, down one flight of stairs. There is no lift. There is a large open-ground parking lot close to the venue. The nearest metro station is Saket.Tickets are non-refundable unless we cancel or significantly change the event. You can transfer your ticket to someone else.About Luis Mac\u00edas: artist, filmmaker and composer of moving images. His work deals with the formal and spectral properties of the moving image, through the cinematographic device itself and the photochemical nature of the medium. His films and expanded cinema pieces in Super 8, 16mm and 35mm have been shown at film, art and music festivals, art centres, museums and alternative spaces around the world. He is co-founder of Crater-Lab, an independent artist-run film lab for analog cinema.Presented by W.I.P Labs at W.I.P aDDa, Lado Sarai. Supported by Institut Ramon Llull.",
@@ -472,6 +510,44 @@
       "Live GIG",
       "Music",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Hot Girls Do Pilates | Defence Colony",
+    "description": "Hot Girls Do Pilates is a women-only, beginner-friendly, guided pilates session by Sweat Like A Girl.This is a reformer pilates session with limited spots!It is the perfect weekend plan, if you are looking to learn a new sport, find like-minded women to play with and do something active without entering the gym! You can make this a catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!\ufeffThe Community:At Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "startDate": "2026-11-28T10:00:00+05:30",
+    "endDate": "2026-11-28T11:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "A322, Block A, Defence Colony, New Delhi, Delhi 110024, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.57351930000000000000",
+        "longitude": "77.22945200000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1399.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag94",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Workshop",
       "URBANAUT"
     ]
   },
@@ -766,6 +842,44 @@
       "Walking Tour",
       "History & heritage",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Smash Like a Girl (Tennis) | Delhi",
+    "description": "Smash Like A Girl is  a women-only, beginner-friendly, guided tennis session by Sweat Like A Girl.You can expect warm-up, skill drills with a trained coach to learn the sport and some friendly-rallies to end the session.It is the perfect weekend plan, if you are looking to learn a new sport, find like-minded women to play with and do something active without entering the gym! You can make this a catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "startDate": "2026-11-28T17:00:00+05:30",
+    "endDate": "2026-11-28T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "J6HH+MMC, Barakhamba Rd, Todermal Road Area, Mandi House, New Delhi, Delhi 110001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.62917610000000000000",
+        "longitude": "77.22913750000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "495.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag95",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
       "URBANAUT"
     ]
   },
@@ -1068,6 +1182,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Sunday Run Pawty",
+    "description": "We're bringing you a women-only, pet-friendly 3 KM run, followed by a fun breakfast social at Aku's. Whether you want to run, walk or simply enjoy a relaxed morning with your pet, we've got something for everyone!Here's the plan:Starting with 3 km run/walkCoffee and breakfast at Aku'sPampering Station for pets.DIY breakfast menu for pets.Fun challengesGoodies by NootieBring your furry bestie or come solo and spend your morning doing something fun together! It's going to be a super fun Sunday. The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "startDate": "2026-11-29T07:30:00+05:30",
+    "endDate": "2026-11-29T09:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "61, Market, Basant Lok, Vasant Vihar, New Delhi, Delhi 110057, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55728010000000000000",
+        "longitude": "77.16442359999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "350.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/pet-run",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Mehrauli Heritage Walk- Ruins and Breakfast",
     "description": "Join Mehrauli: Ruins and Breakfast heritage walk, tracing Delhi's oldest neighborhood from Bhool Bhulaiyya's Mughal maze through bazaar lanes, Sita Ram Sweets' history, 7 city tales, to Mehrauli Park's tombs and stepwells.Expect architect-led insights into 1,000 years of architecture, Sufi lore, and living culture over 2 km \u2013 immersive stories, photo stops, no crowds. Easy stroll for 20-30 culture enthusiasts; ends with a complimentary breakfast.Perfect for urban explorers seeking Delhi's layered roots.\u00a0",
@@ -1291,6 +1443,158 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Guided Pickleball | Gurugram",
+    "description": "The SWAG Pickleball Party is your perfect morning plan!This is a women-only, beginner-friendly meet-up.It is the perfect weekend plan, followed by a coffee and chit chat with the group! This can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "startDate": "2026-11-29T16:00:00+05:30",
+    "endDate": "2026-11-29T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Sportyzo Sports Academy, Sector 65, Gurugram, Haryana 122101, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40450950000000000000",
+        "longitude": "77.07416250000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "360.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag99",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Baddy with Baddies | Gurugram",
+    "description": "SWAG Baddy with Baddies is a women-only, badminton meet-up.It is the perfect weekend plan, with some badminton rallies, quick sets of both doubles and singles followed by a coffee and chit chat with the group! This can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "startDate": "2026-11-29T16:00:00+05:30",
+    "endDate": "2026-11-29T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Sportyzo Badminton Academy, Emaar emerald hills, Golf Course Ext Rd, opposite Ivory Block, Sector 65, Gurugram, Haryana 122101, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.40465650000000000000",
+        "longitude": "77.07401440000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "279.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag98",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Baddy with Baddies | Saket",
+    "description": "SWAG Baddy with Baddies is a women-only, badminton meet-up.It is the perfect weekend plan, with some badminton rallies, quick sets of both doubles and singles followed by a coffee and chit chat with the group! This can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "startDate": "2026-11-29T16:00:00+05:30",
+    "endDate": "2026-11-29T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "inside NEW GREEN FIELD SCHOOL, behind PVR Anupam Saket, Ashok Vihar, Saket, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52371090000000000000",
+        "longitude": "77.20874630000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "295.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag102",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Cricket with SWAG | Saket",
+    "description": "SWAG Cricket is a women-only, beginner friendly meet-up.It is the perfect Sunday game, with 8 over matches, some brilliant catches, followed by a coffee and chit chat at the with the girls! It can be the perfect catch-up date for you and your best friend or just the place to meet new friends if you are coming solo!The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "startDate": "2026-11-29T16:00:00+05:30",
+    "endDate": "2026-11-29T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "inside NEW GREEN FIELD SCHOOL, behind PVR Anupam Saket, Ashok Vihar, Saket, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52371090000000000000",
+        "longitude": "77.20874630000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "359.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sweat Like a Girl",
+      "url": "https://urbanaut.app/partner/sweat-like-a-girl"
+    },
+    "url": "https://urbanaut.app/spot/swag103",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Shikha Thakur Belly Dancing",
     "description": "hafla (\u062d\u0641\u0644\u0629) \u2014 arabic for gathering, or party.before it belonged to belly dance, it belonged to families , weddings, celebrations, people dancing because that's what joy looked like.Belly dancers everywhere made it their own a night that's part showcase, part community, ending with everyone on the floor, performer or not.that's what we're gathering for on the 29th November. To all the people showcasing Belly Dance to Fusion styles to Drag all in one space. Come Be a part of Our Delhi Belly Dance Community and feel the magic of Femininity.",
     "startDate": "2026-11-29T16:30:00+05:30",
@@ -1473,6 +1777,42 @@
       "Live GIG",
       "Music",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "7th Beyond Borders Feminist Film Festival",
+    "description": "Kriti Film Club invites you for the 7th Beyond Borders Feminist Film Festival! Join us in New Delhi this November- December 2026 for a powerful lineup of films and conversations, celebrating intersectional feminist voices and stories from across the country and the world.Alliance Fran\u00e7aise de Delhi 30th November 2026 | 10:30 AM \u2013 9:00 PM1st December 2026 | 2:00 PM \u2013 9:00 PM2nd December 2026 | 6:00 PM \u2013 9:00 PMIndia Habitat Centre 5th - 7th December 2026 | 7:00 PM \u2013 9:30 PMFestival Director and Curator: Aanchal Kapur, Founder, Kriti Film ClubFestival Programmer: Ayushi AlvaNotes:\u00b7 Festival pass at Rs 650 (Rs 350 for students). Entitles you to attend and watch films on all days/ timings at both venues.\u00b7 Day passes at Rs 200 (Rs 100 for students). Entitles you to attend and watch films on any single day/ evening that you book for. Daily passes can be bought for more than one day/ evening.\u00b7 Student passes will require Student ID card.Queries: 9810666692 ",
+    "startDate": "2026-11-30T10:00:00+05:30",
+    "endDate": "2026-12-07T21:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Lodhi Estate, New Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59309750000000000000",
+        "longitude": "77.22352599999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "200.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kriti Film Club",
+      "url": "https://urbanaut.app/partner/kriti-film-club"
+    },
+    "url": "https://urbanaut.app/spot/7th-beyond-borders-feminist-film-festival-ihc",
+    "keywords": [
+      "Art & culture",
       "URBANAUT"
     ]
   },
