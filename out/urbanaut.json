@@ -1070,7 +1070,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Mehrauli Heritage Walk- Ruins and Breakfast",
-    "description": "Join \"A City Within a City,\" a 2-hour Mehrauli heritage walk on Nov 1, 2026 (8:00-10:00 AM), tracing Delhi's oldest neighborhood from Bhool Bhulaiyya's Mughal maze through bazaar lanes, Sita Ram Sweets' history, 7 city tales, to Mehrauli Park's tombs and stepwells.Expect architect-led insights into 1,000 years of architecture, Sufi lore, and living culture over 2 km \u2013 immersive stories, photo stops, no crowds. Easy stroll for 20-30 culture enthusiasts; ends with a complimentary breakfast.Perfect for urban explorers seeking Delhi's layered roots.\u00a0",
+    "description": "Join Mehrauli: Ruins and Breakfast heritage walk, tracing Delhi's oldest neighborhood from Bhool Bhulaiyya's Mughal maze through bazaar lanes, Sita Ram Sweets' history, 7 city tales, to Mehrauli Park's tombs and stepwells.Expect architect-led insights into 1,000 years of architecture, Sufi lore, and living culture over 2 km \u2013 immersive stories, photo stops, no crowds. Easy stroll for 20-30 culture enthusiasts; ends with a complimentary breakfast.Perfect for urban explorers seeking Delhi's layered roots.\u00a0",
     "startDate": "2026-11-29T08:30:00+05:30",
     "endDate": "2026-11-29T10:00:00+05:30",
     "location": {
@@ -1087,7 +1087,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "500.00",
+      "price": "360.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -1221,11 +1221,11 @@
     "endDate": "2026-11-29T17:00:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "Hauz Khas, New Delhi, Delhi 110016, India",
+      "address": "Airforce Golf Course, Delhi Race Club, New Delhi, Delhi 110003, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.54788970000000000000",
-        "longitude": "77.20312470000000000000"
+        "latitude": "28.58941560000000000000",
+        "longitude": "77.21062190000000000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -1518,6 +1518,81 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
+    "name": "HOLLYWOOD ROM-COM TRIVIA NIGHT \ud83c\udfac",
+    "description": "Love is in the air. Competition is on the table.Think you're a Hollywood rom-com expert? Know your meet-cutes from your messy breakups, your enemies-to-lovers from your friends-to-lovers, and your iconic movie moments from the ones you have watched a hundred times?It's time to prove it.Join us for an evening dedicated to the rom-coms we love, the characters we remember, the dialogues we quote, and the movies that never get old. Expect fun trivia, nostalgic throwbacks, unexpected questions, and plenty of friendly competition.From How to Lose a Guy in 10 Days, 10 Things I Hate About You and Notting Hill to The Proposal, Crazy Rich Asians, 13 Going on 30, When Harry Met Sally and Pretty Woman \u2014 your rom-com knowledge is about to be put to the test.Whether you're the person who predicts the ending in the first 10 minutes, remembers every iconic dialogue, or simply loves a good rom-com, this night is for you.Come solo or bring your squad. No plus-one needed. If you come solo, we'll help you find a team. If you come with friends, get ready to compete together.",
+    "startDate": "2026-12-03T18:00:00+05:30",
+    "endDate": "2026-12-03T20:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Ground Floor, M3M Route 65, Sector 65, Gurugram, Haryana 122101, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.39837690000000000000",
+        "longitude": "77.07467910000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The MIXTable",
+      "url": "https://urbanaut.app/partner/the-mixtable"
+    },
+    "url": "https://urbanaut.app/spot/hollywood-rom-com-trivia-night",
+    "keywords": [
+      "History & heritage",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Wild Wild Women @ Gully Labs Baithak",
+    "description": "Born in the cyphers of Mumbai in 2020, Wild Wild Women (WWW) is the sound of a new era of music, one where Indian hip-hop is loud, multilingual, and unapologetically female.Five artists. Five voices. One mission: to amplify the women who've been waiting too long to be heard.\u200bWe rap in the languages we grew up in, move like our roots taught us, and build like a movement, because hip-hop was never just music, it's culture, resistance, and community. The crew brings together bgirls, a mural artist, and an internationally recognised skater, proof that this movement lives far beyond the mic. Through hard-hitting bars, movement, visual art, and grassroots cultural interventions, WWW is rewriting who gets to hold the mic in Indian hip-hop.",
+    "startDate": "2026-12-03T19:00:00+05:30",
+    "endDate": "2026-12-03T22:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "944.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
+    },
+    "url": "https://urbanaut.app/spot/wild-wild-women-gully-labs-baithak",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
     "name": "Azad opened by Chahat and Samay",
     "description": "The Azadsome things take a while to become realthis started in 2025 under names that never quite felt like home every rehearsal every demo every show was another version of a story still figuring itself out then somewhere in january 2026 the noise settled and the azad happenedsince then we have been chasing the songs that somehow slipped through the cracks the ones that deserved bigger stages louder crowds and another chance to be heard indie with a little funk rock with a little soul and just enough chaos to keep things interestingwe like music that feels lived in the kind that sticks to your clothes after a gig follows you home and somehow finds its way back into your head three days laterthis is less about fitting into a genre and more about finding moments that feel honest loud quiet messy beautiful whatever they need to bethe azad is not where the story began, but depot 48 will be OPENING ACTwe are two friends who met through one of the bands members, we share a love for the same kind of music and believed in the fact that this would be a good opportunity to put ourselves out there, and azad shows us the way\"",
     "startDate": "2026-12-04T19:30:00+05:30",
@@ -1704,6 +1779,78 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Bottle Rockets India",
+    "description": "Bottle Rockets India is a six-piece fluid rock band from Guwahati, Assam, known for blending genres ranging from folk and psychedelic to synthpop. Their music is deeply inspired by nature, memories, and love, creating immersive sonic experiences that resonate with diverse audiences.\u200bAs a collective, we have always believed in creating an intimate, deeply human experience for our audience. We\u2019re all about that shared energy between the artist and the crowd\u2014and we genuinely feel Depot48 offers the exact kind of space where that connection can blossom.",
+    "startDate": "2026-12-05T22:00:00+05:30",
+    "endDate": "2026-12-05T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/bottle-rockets-india",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Two Lectures - One Afternoon",
+    "description": "Two Lectures. One Afternoon. A Whole Lot to Take Away.This December, we\u2019re bringing you two special lectures in collaboration with Spotify Unlock - one afternoon, two speakers, and two very different ways to think about the world around you.Whether you're looking to make smarter financial decisions or learn what it takes to build a business against the odds, there's something here for you. About our SpeakersA Lecture by Gauri DevidayalGauri Devidayal is a Mumbai-based lawyer-turned-restaurateur and the Director and Co-founder of Food Matters Group. With no prior experience in hospitality or entrepreneurship, she helped build The Table, one of India's most celebrated restaurants. Since then, she has co-founded several ventures, including Magazine St. Kitchen, Mag St., Kaspers, Mag St. Bread Co., Iktara and Loud Mouth.Her lecture, 'Going Against the Grain: Lessons in Risk, Reinvention and Resilience from 16 Years in Hospitality', draws on her journey of building businesses in an industry where no two days are quite the same. Expect candid stories and lessons on taking risks, navigating uncertainty, reinventing yourself and building something from the ground up.\u2028A Lecture by Monika HalanMonika Halan is a trusted personal finance writer, speaker and bestselling author who has spent over 30 years working across media, public policy and financial education. She is the founder of Dhan Chakra Financial Education and the author of three bestselling books: Let's Talk Money, Let's Talk Mutual Funds and Let's Talk Legacy. She is also a member of IRDAI's Insurance Advisory Committee and an adjunct professor at Banasthali University.Her lecture, 'Investing in Turbulent Times: How to Navigate Uncertainty and Make Smarter Financial Choices', connects the dots between geopolitical conflict and personal finance. She will explore how markets respond to global uncertainty, why different parts of the market react differently to stress, and how asset allocation and diversification can help investors navigate volatility. Expect practical portfolio examples and a framework to make more informed investment decisions without panicking every time the markets turn.About our Brand PartnerSpotify Unlock by @spotifyindia is a podcast-led learning initiative where experts curate conversations around ideas, building world-class businesses, financial literacy and growth while also bringing those conversations into real-world spaces.WhenSaturday, 6 December12 PM\u20135 PMOdella, Green Park, New DelhiWho it's forAnyone looking to get smarter about their money, curious about entrepreneurship and the realities of building a business, or simply keen to spend an afternoon learning something new over a drink.",
+    "startDate": "2026-12-06T12:00:00+05:30",
+    "endDate": "2026-12-06T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "2nd floor, A, 3, Sri Aurobindo Marg, Block A, Green Park Extension, Green Park, New Delhi, Delhi 110016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55612230000000000000",
+        "longitude": "77.20604340000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "899.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Pint of View Delhi NCR",
+      "url": "https://urbanaut.app/partner/pint-of-view-delhi-ncr"
+    },
+    "url": "https://urbanaut.app/spot/two-lectures-one-afternoon",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Year Recap Journal 2026",
     "description": "Before the year rushes past, take a moment to pause, reflect, and celebrate everything it held.Join us for a cozy Year Recap Journal experience where you\u2019ll creatively look back at your year - the big moments, little wins, lessons, people, places, feelings, and everything in between.This isn\u2019t about writing the \u201cperfect\u201d journal. It\u2019s about creating a personal snapshot of your year, your way.What to Bring:Bring along your favourite printed photos from the year -moments, people, places, memories, silly pictures, screenshots-turned-prints\u2026 anything you\u2019d love to include in your journal!Want us to print your photos for you?No worries! You can simply fill out the photo printing form shared with your booking, and we\u2019ll take care of the printing for you.Photo printing is an optional add-on and is not included in the ticket price.",
@@ -1736,6 +1883,44 @@
     "keywords": [
       "Workshop",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Mehar Midha: Solo Piano",
+    "description": "Mehar Midha is a self-taught pianist and arranger with experience in solo piano performance and a cappella arrangements. His repertoire spans Western classical, rock, pop, jazz, blues, film and television themes, and contemporary music.He has won National 1st Place in Western Group Song and National 2nd Place in Western Instrumental Solo at the AIU Youth Festival. He has performed at The Piano Man and opened for When Chai Met Toast at The Piano Man, Eldeco Centre.",
+    "startDate": "2026-12-09T21:00:00+05:30",
+    "endDate": "2026-12-09T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/mehar-midha-solo-piano",
+    "keywords": [
+      "Live GIG",
+      "Local",
+      "Music",
       "URBANAUT"
     ]
   },
@@ -1851,6 +2036,44 @@
       "Local",
       "Music",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "ASHANIS LIVE",
+    "description": "ASHANIS LIVE FT. ADITYA DUTTA, AHAM SAXENA & HRITIK SANGHMITRAASHANIS LIVE is an evening of original songs, reimagined favourites and the stories behind them. Fresh off a successful EP release tour, Ashanis returns to the stage after releasing his debut EP, 'Tere Aane Se', which he launched at Depot 48 in July this year.Every song has a story, and this is an invitation into the world behind Ashanis's music. Blending influences from pop, soul and R&B, he moves between intimate moments, sing-along choruses and soaring arrangements. Backed by a dynamic band, the show is a reflection of the experiences, emotions and musical influences that have shaped him as an artist.",
+    "startDate": "2026-12-19T20:00:00+05:30",
+    "endDate": "2026-12-19T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/ashanis-live",
+    "keywords": [
+      "Live GIG",
+      "Local",
+      "Music",
       "URBANAUT"
     ]
   },
