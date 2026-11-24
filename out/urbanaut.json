@@ -1,41 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "GFT: November Edition in Mehrauli",
-    "description": "Grounds for Thought: Mehrauli, November 2026A Blue Tokai \u00d7 unLecture Series, Three Tuesday evenings. Three very different conversations.Grounds for Thought brings researchers, scientists, and thinkers out of their institutions and into rooms full of curious people, where the conversation goes somewhere a classroom rarely does. This November in Delhi moves from the hidden mathematics behind everyday intuitions to modern love, from caste and labour to the pleasures of horror cinema, from AI at the margins to the air Delhi breathes.24th November: Keshav Kumar Chaudhary AI for Antyodaya Most conversations about AI centre on innovation, productivity, and economic growth. Keshav Kumar Chaudhary, a youth advocate for digital justice and first-generation learner, asks a different question: what does AI look like from the position of someone still at the margins of India's digital transformation? Drawing on Gandhi's idea of Antyodaya \u2014 upliftment of the last person \u2014 this session moves from digital access to digital justice, tracing literacy, agency, dignity, and participation as the real tests of whether a technology serves the people furthest from power.",
-    "startDate": "2026-11-24T18:30:00+05:30",
-    "endDate": "2026-11-24T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "LSC, The Crescent, Plot No 1 to 7, Chatri Wala Kuan, Lado Sarai, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52461720000000000000",
-        "longitude": "77.19055720000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "650.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/gft-november-edition-in-mehrauli",
-    "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Oju & Shomu",
     "description": "A voice & piano duo set by Oju & Shomu.Some songs feel like memories, some like confessions, and some like the things we never quite found the words to say.Somewhere Between Love & Longing is an intimate, piano-led set exploring the many shades of love, heartbreak, nostalgia and self-discovery. Moving between jazz standards, soulful pop, indie folk and contemporary music, the performance brings together songs by Ella Fitzgerald, Billie Marten, Lana Del Rey, Yebba, Tamino, Adrianne Lenker and more. Biography of the Artist: Ojaswini Amrita, mostly known as OJU, is a Delhi-based queer singer-songwriter and contemporary vocalist with a background in music performance and production from the Global Music Institute. Trained in Jazz, Pop, R&B/Soul and Hindustani, her musical approach blends expressive vocals, intimate storytelling, improvisation and a love for exploring different sounds. Drawn to music that feels honest, emotionally layered and deeply personal. Her performances move between jazz, contemporary soul, indie folk and pop, bringing her own interpretation to songs that explore love, longing, vulnerability and the complexities of being human. As a queer independent artist, performing at Depot48 also feels particularly meaningful. The venue's long-standing commitment to queer-inclusive programming and its support for emerging artists makes this show feel like more than just another live set. It is an opportunity to bring a personal musical perspective into a space where artists are encouraged to be themselves. Shomudro Ghosh is a wonderfully talented pianist who studied alongside Oju at the Global Music Institute and has already made his name known in Delhi's live music scene. Having been batchmates and close friends throughout their time at GMI, the two share a musical understanding that comes from years of learning and growing together. His playing brings warmth, sensitivity and a natural sense of musicality to the duo, complementing Oju's vocals and allowing the songs to unfold in an intimate, expressive way.",
@@ -739,6 +704,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Sunset at the Cursed Fort of Tughlaqabad",
+    "description": "We'll be hiking into the interiors of the Tughlagabad Fort.Ghiyasuddin Tughlaq, the founder of the Tughlaq dynasty, on becoming the Sultan, went on to build the 3rd city of Delhi, Tughlagabad, within unassailable bastions and fortifications. The Tughlaqabad Fort, when seen from outside, looks very similar to the impregnable Rajput Forts. The city within was equally well engineered.But the Fort which still lies unconquered by any enemy, was vanquished by the curse of a Sufi, which left the city deserted and caused the Sultan his life.So join us as we head on to explore this grand ambitious settlement, which was so perfectly commissioned yet lies barren and ruined, ravaged by the forces of time and nature. We also explore the only part of the Fort which lies in perfect condition which is the tomb of the Sultan himself!The walk ends with the most perfect sunset at one of Delhi's highest points overlooking the ruins of the Fort and the city of Delhi.",
+    "startDate": "2026-11-28T15:00:00+05:30",
+    "endDate": "2026-11-28T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "G766+9W9, Tughlaqabad Fort, Tughlakabad, New Delhi, Delhi 110044, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.51091700000000000000",
+        "longitude": "77.26235369999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "600.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Unzip Delhi",
+      "url": "https://urbanaut.app/partner/unzipdelhi"
+    },
+    "url": "https://urbanaut.app/spot/tughlaqabad",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "K se Karuna: India\u2019s Intellectual Inheritance",
     "description": "About the LectureJoin us for a lecture that asks where our political vocabulary, that we use almost every day - actually came from:Liberty, equality, fraternity. Three words that built the modern nation, and all three arrived here from somewhere else. What if the organising idea had come from within South Asia instead?The nation-making of the nineteenth and twentieth centuries settled on that trio, and we have lived inside it ever since: in constitutional safeguards, in the language of rights, in what we understand democratic life to guarantee. Ideas that germinated in the continental world and travelled into the Global South as imports, carrying both a formal-legal meaning and a substantive promise for how people might live together.Pia David turns to a different inheritance. Karu\u1e47\u0101, compassion, is an idea that emerges from within this geography, and it has its own long history of thinking about difference, diversity and ethical living. Not only in the ancient past, but through the reformist and political thought of modern India, where it kept resurfacing in arguments about what a shared life demands.The question the lecture leaves us with is a live one. What would it mean to treat karu\u1e47\u0101 not as sentiment but as political method?A way of addressing global conflict, human despair, and the particular poverty that enters political discourse when compassion goes missing from it?The session explores:How liberty, equality and fraternity became the default grammar of modern political lifeKaru\u1e47\u0101 as an idea with its own intellectual lineage in South Asia, ancient and modernHow questions of diversity, difference and ethical living were imagined from within this regionWhat compassion offers as a mode of praxis, not just a normative horizon for theory, but something politics could actually doAbout the SpeakerPia David is from Lucknow, Uttar Pradesh, and is trained as a political scientist. As a Foundation for Universal Responsibility Dalai Lama Studies Fellow in 2023, she worked on Dharma and Dhamma: A Modern Reading of Gandhi and Ambedkar in the Context of Deep Diversity. Her interests span liberal political philosophy and social and political thought from South Asia in the context of the world. She can be found on long walks through forested gardens, tombs and ruins, usually with friends, sometimes in solitude, never without music. Her current favourite is Libertango. She lives in Delhi, wondering about Mir's lament on his exile.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
     "startDate": "2026-11-28T16:00:00+05:30",
@@ -1184,7 +1187,7 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Sunday Run Pawty",
-    "description": "We're bringing you a women-only, pet-friendly 3 KM run, followed by a fun breakfast social at Aku's. Whether you want to run, walk or simply enjoy a relaxed morning with your pet, we've got something for everyone!Here's the plan:Starting with 3 km run/walkCoffee and breakfast at Aku'sPampering Station for pets.DIY breakfast menu for pets.Fun challengesGoodies by NootieBring your furry bestie or come solo and spend your morning doing something fun together! It's going to be a super fun Sunday. The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
+    "description": "We're bringing you a women-only\u00a03 KM run with your pets\u00a0\u00a0followed by a fun breakfast social at Aku's. Whether you want to run, walk or simply enjoy a relaxed morning with your pet, we've got something for everyone!Here's the plan:Starting with 3 km run/walkCoffee and breakfast at Aku'sPampering Station for pets.DIY breakfast menu for pets.Fun challengesGoodies by NootieBring your furry bestie or come solo and spend your morning doing something fun together! It's going to be a super fun Sunday. The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
     "startDate": "2026-11-29T07:30:00+05:30",
     "endDate": "2026-11-29T09:30:00+05:30",
     "location": {
@@ -1739,6 +1742,43 @@
       "History & heritage",
       "Guided tour",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Nizamuddin Necropolis Walk",
+    "description": "It was believed that being buried in the vicinity of the grave of a Sufi, provides a direct pathway to heaven. This is why the area near the shrines of great Sufi saints are studded with most of the royal mausoleums and tombs. In Delhi, the Nizamuddin Basti is one such area which holds the graves of not one but two great Sufi saints, the famous Hazrat Nizamuddin Auliya and his much lesser known contemporary, Hazrat Shamsuddin. It is said that Hazrat Nizamuddin Auliya used to refer people to him if they wanted speedy results to their prayers.So join me as we embark on a journey to discover the multicultural necropolis of Nizamuddin Basti, from the shrine of Hazrat Shamsuddin, to the nearby khanqah of Hazrat Nizamuddin Auliya, where he used to reside and pray. Also, bordering these is the Gurudwara Dam Dama Sahib, from where we head on to the exquisite blue dome of the Sabz Burj. Moving on, we head ahead to explore a necropolis of royal Mughal tombs in the vicinity of Hazrat Nizamuddin Auliya's dargah, finally paying homage to Delhi's most famous poet, Mirza Ghalib, at his resting place",
+    "startDate": "2026-11-29T20:00:00+05:30",
+    "endDate": "2026-11-29T22:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "H6VW+PC6, Bharat Scouts and Guides Marg, Nizamuddin, National Zoological Park, Sundar Nagar, New Delhi, Delhi 110013, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.59428540000000000000",
+        "longitude": "77.24600699999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "600.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Unzip Delhi",
+      "url": "https://urbanaut.app/partner/unzipdelhi"
+    },
+    "url": "https://urbanaut.app/spot/sufi",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
       "URBANAUT"
     ]
   },
