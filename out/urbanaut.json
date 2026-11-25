@@ -1,44 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Oju & Shomu",
-    "description": "A voice & piano duo set by Oju & Shomu.Some songs feel like memories, some like confessions, and some like the things we never quite found the words to say.Somewhere Between Love & Longing is an intimate, piano-led set exploring the many shades of love, heartbreak, nostalgia and self-discovery. Moving between jazz standards, soulful pop, indie folk and contemporary music, the performance brings together songs by Ella Fitzgerald, Billie Marten, Lana Del Rey, Yebba, Tamino, Adrianne Lenker and more. Biography of the Artist: Ojaswini Amrita, mostly known as OJU, is a Delhi-based queer singer-songwriter and contemporary vocalist with a background in music performance and production from the Global Music Institute. Trained in Jazz, Pop, R&B/Soul and Hindustani, her musical approach blends expressive vocals, intimate storytelling, improvisation and a love for exploring different sounds. Drawn to music that feels honest, emotionally layered and deeply personal. Her performances move between jazz, contemporary soul, indie folk and pop, bringing her own interpretation to songs that explore love, longing, vulnerability and the complexities of being human. As a queer independent artist, performing at Depot48 also feels particularly meaningful. The venue's long-standing commitment to queer-inclusive programming and its support for emerging artists makes this show feel like more than just another live set. It is an opportunity to bring a personal musical perspective into a space where artists are encouraged to be themselves. Shomudro Ghosh is a wonderfully talented pianist who studied alongside Oju at the Global Music Institute and has already made his name known in Delhi's live music scene. Having been batchmates and close friends throughout their time at GMI, the two share a musical understanding that comes from years of learning and growing together. His playing brings warmth, sensitivity and a natural sense of musicality to the duo, complementing Oju's vocals and allowing the songs to unfold in an intimate, expressive way.",
-    "startDate": "2026-11-25T21:00:00+05:30",
-    "endDate": "2026-11-25T23:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53415570000000000000",
-        "longitude": "77.24300939999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "444.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Depot48",
-      "url": "https://urbanaut.app/partner/depot48"
-    },
-    "url": "https://urbanaut.app/spot/oju-shomu",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "GFT: November Edition in Vasant Vihar",
     "description": "Grounds for Thought: Vasant Vihar, November 2026A Blue Tokai \u00d7 unLecture Series, Three Thursday evenings. Three very different conversations.12th November: Palak ChananaLove Actually? Attachment Styles, Situationships & the Patterns We Keep Repeating. Why do you keep finding the same kind of person? Why is it so hard to say what you need, or to leave when you meant to, or to stop repeating a pattern you thought you'd already moved past? Palak Chanana, a counselling psychologist and neuro-queer affirmative therapist who founded UnTangle Yourself, draws on anonymised, composite themes from individual and couples counselling to explore how fear, expectation, and past experience quietly shape the way we connect. This isn't a session about finding the right partner or following relationship rules \u2014 it's an invitation to get curious about how you love, what you actually need, and what you keep repeating without noticing.19th November: Deborishi GogoiVisceral Pleasures of Viewing Horror Cinema You're gripping your pillow, heart racing, yelling \"don't go in there\" \u2014 and loving every second of it. For decades, film theory explained this through Freud: repression, the unconscious, hidden anxiety. Deborishi Gogoi, a PhD scholar at Shiv Nadar Institution of Eminence working on folk horror and the critique of ideology, argues that account misses the most important part \u2014 what watching horror actually feels like, moment by moment, in the body. Through the framing, sound, and editing rhythm of three recent horror films \u2014 Suspiria, Midsommar, and The Ugly Stepsister \u2014 this session builds the case that horror's pleasure isn't saved for the ending. It's built into the dread itself.26th November: Vasundhara BhojvaidBreathing Delhi: Can a City Hold Air? What does it mean to live in a city where the atmosphere itself feels like confinement? Vasundhara Bhojvaid, Associate Professor of Sociology at Shiv Nadar University, works with a concept she calls \"Hawa-laat\" \u2014 a play on hawalaat, a police lockup, and the physical jolt of Delhi's toxic air. Moving past ecological data into what she calls our \"aerial imaginations,\" this session asks how an invisible hazard like air pollution quietly reconfigures relationships, redraws urban space, and reshapes what survival means in a city that can no longer take its air for granted.",
@@ -561,11 +523,11 @@
     "endDate": "2026-11-28T18:00:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "Gurugram, Haryana, India",
+      "address": "Sector 52A, Gurugram, Haryana 122011, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.45949650000000000000",
-        "longitude": "77.02663830000000000000"
+        "latitude": "28.43262240000000000000",
+        "longitude": "77.09237040000000000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -2085,6 +2047,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "St+art Strolling! : Lodhi Art District Guided Walk",
+    "description": "You may have walked past these walls countless times. But how much of their stories have you really seen?Join St+art for a walk through Lodhi Art District, India's first open-air public art district. Explore the murals, the stories behind them, and the many details that often go unnoticed in the everyday rhythm of the neighbourhood. The walk offers a closer look at the artworks, artists, ideas and histories that shape these familiar arches.With new routes, behind the scenes stories and a deeper look at the district, this is an invitation to rediscover Lodhi, one wall at a time.It is time to St+art Strolling!This is a 2 hour experience with one break.Language: English",
+    "startDate": "2026-12-05T10:00:00+05:30",
+    "endDate": "2026-12-20T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "18, Lodhi Rd, Gokalpuri, Institutional Area, Lodi Colony, New Delhi, Delhi 110003, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.58536280000000000000",
+        "longitude": "77.22333490000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "750.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "St+art India",
+      "url": "https://urbanaut.app/partner/startindia"
+    },
+    "url": "https://urbanaut.app/spot/start-strolling-lodhi-art-district-guided-walk-18444",
+    "keywords": [
+      "Walking Tour",
+      "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Cyanotype Workshop",
     "description": "The workshop on the Cyanotype Process is an immersive one-day workshop where the participants learn the historic 19th century printmaking process and get to create their own unique handmade prints on both paper & fabric and take them home.Structure of the workshop:History of Cyanotype - Learn about the origin of Cyanotype, an alternative printing technique through a brief presentation.Science of Cyanotype - Mix chemicals and coat your own surfaces in a hands-on darkroom setting.Creation & Patience - Compose with natural elements and watch your images develop through light and time.Your Final Prints - Wash and finish the prints you've created to take home.Frequently asked questions:Is there any prior knowledge needed to attend this workshop?No, there is no prior knowledge needed for this workshop.Is there an age restriction for this workshop?Yes, the workshop is meant for 15 years and older.If there is no sun how would the workshop be conducted?On the days where the sun is not there we have an artificial source of UV light that can be used.Does cyanotype only work with leaves and other natural materials?No, cyanotype can be done with any flat object, we at Museo, also have some stock negatives that can be used during the workshop.Do we as participants need to bring anything?No, all equipment and materials will be provided by Museo.What is the recommended attire for the workshop?Comfortable clothing and shoes are recommended for the workshop.Will lunch be provided?Each participant will receive a 15% discount at the museum cafe.How many prints will I be able to make in the workshop?Each participant will make 10 paper prints and a fabric print, which they can take home.Once the workshop is over, how can I continue to practice the process?You can book the darkroom or you can buy the chemicals from us to create the solution and make prints at home. For both of them you would have to write to us at workshops@museocamera.orgIs Cyanotype safe?Yes, cyanotype is one of the safest photographic processes out there.Meet your trainers Aditya AryaLead facilitator 45+ years of experience Photographer, historian and Founder-Director of Museo Camera with years of experience across advertising and fine art, he champions the slowness of analog processes. He practices and teaches historic techniques like cyanotype and wet plate collodion, keeping them alive through hands-on learning.https://www.adityaarya.com/Khushi Upadhyay Assistant 2+ years of experience She is a photographer working with analog and alternative processes, embracing slowness while guiding others to do the same. Rooted in light and material, she leads cyanotype and historic process workshops through hands-on, immersive image-making.",
@@ -2235,6 +2235,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "1857 Ki Dastaan : Kashmere Gate Walk",
+    "description": "Join us for a historian-led heritage walk through Kashmere Gate, a neighbourhood that witnessed the fire and fury of the First War of Independence in 1857. Walk through the sites where battles were fought, resistance rose, and history changed forever.We will visit key landmarks associated with the revolt, from gates breached by British forces to forgotten churches, tombs, and military outposts that still echo defiance.The walk also includes a visit to the Partition Museum, housed in the beautifully restored Dara Shukoh Library. This stunning space offers a powerful glimpse into the lives and legacies torn apart by India's Partition.Along the way, enjoy food as part of the experience, adding another dimension to your exploration of Kashmere Gate and its history.",
+    "startDate": "2026-12-06T09:30:00+05:30",
+    "endDate": "2026-12-06T11:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Near, Yudhister Setu, Inter State Bus Terminal, Kashmere Gate, New Delhi, Delhi, 110006, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.66876600000000000000",
+        "longitude": "77.23086800000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Enroute Indian History",
+      "url": "https://urbanaut.app/partner/enrouteindianhistory"
+    },
+    "url": "https://urbanaut.app/spot/1857-ki-dastaan-kashmere-gate-walk",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Two Lectures - One Afternoon",
     "description": "Two Lectures. One Afternoon. A Whole Lot to Take Away.This December, we\u2019re bringing you two special lectures in collaboration with Spotify Unlock - one afternoon, two speakers, and two very different ways to think about the world around you.Whether you're looking to make smarter financial decisions or learn what it takes to build a business against the odds, there's something here for you. About our SpeakersA Lecture by Gauri DevidayalGauri Devidayal is a Mumbai-based lawyer-turned-restaurateur and the Director and Co-founder of Food Matters Group. With no prior experience in hospitality or entrepreneurship, she helped build The Table, one of India's most celebrated restaurants. Since then, she has co-founded several ventures, including Magazine St. Kitchen, Mag St., Kaspers, Mag St. Bread Co., Iktara and Loud Mouth.Her lecture, 'Going Against the Grain: Lessons in Risk, Reinvention and Resilience from 16 Years in Hospitality', draws on her journey of building businesses in an industry where no two days are quite the same. Expect candid stories and lessons on taking risks, navigating uncertainty, reinventing yourself and building something from the ground up.\u2028A Lecture by Monika HalanMonika Halan is a trusted personal finance writer, speaker and bestselling author who has spent over 30 years working across media, public policy and financial education. She is the founder of Dhan Chakra Financial Education and the author of three bestselling books: Let's Talk Money, Let's Talk Mutual Funds and Let's Talk Legacy. She is also a member of IRDAI's Insurance Advisory Committee and an adjunct professor at Banasthali University.Her lecture, 'Investing in Turbulent Times: How to Navigate Uncertainty and Make Smarter Financial Choices', connects the dots between geopolitical conflict and personal finance. She will explore how markets respond to global uncertainty, why different parts of the market react differently to stress, and how asset allocation and diversification can help investors navigate volatility. Expect practical portfolio examples and a framework to make more informed investment decisions without panicking every time the markets turn.About our Brand PartnerSpotify Unlock by @spotifyindia is a podcast-led learning initiative where experts curate conversations around ideas, building world-class businesses, financial literacy and growth while also bringing those conversations into real-world spaces.WhenSaturday, 6 December12 PM\u20135 PMOdella, Green Park, New DelhiWho it's forAnyone looking to get smarter about their money, curious about entrepreneurship and the realities of building a business, or simply keen to spend an afternoon learning something new over a drink.",
     "startDate": "2026-12-06T12:00:00+05:30",
@@ -2276,11 +2314,11 @@
     "endDate": "2026-12-20T18:00:00+05:30",
     "location": {
       "@type": "Place",
-      "address": "Sri Aurobindo Society Campus, Shaheed Jeet Singh Marg, Adchini, Adhchini Village, Qutab Enclave, New Delhi, Delhi 110016, India",
+      "address": "Lodhi Rd, Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.53707100000000000000",
-        "longitude": "77.19661479999999000000"
+        "latitude": "28.59309590000000000000",
+        "longitude": "77.21967939999999000000"
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -2459,44 +2497,6 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "The Other Seat- Shaam ki Baithak",
-    "description": "SHAAM KI BAITHAKThis December, we are hosting Shaam Ki Baithak \ud83c\udf19Think gaddas on the floor, warm lights, live sufi vocals , cocktails and a 5-course Indian-inspired menu made especially for the evening.The food takes familiar Indian flavours and gives them a little twist \u2014 the menu is attached for you to have a look.There'll be a live vocalist & musician and only 10\u201315 seats around the room.\ud83e\udde112 December | 7:30 PM onwards | GurgaonCome with your friends, come as a couple, or come by yourself.\u2028Baithak mein milte hain \u2728",
-    "startDate": "2026-12-12T19:30:00+05:30",
-    "endDate": "2026-12-12T23:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Gurugram, Haryana, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.45949650000000000000",
-        "longitude": "77.02663830000000000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "25+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3850.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "THE OTHER SEAT",
-      "url": "https://urbanaut.app/partner/the-other-seat"
-    },
-    "url": "https://urbanaut.app/spot/uncorked",
-    "keywords": [
-      "Leisure",
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
     "name": "Revelation of Ruins",
     "description": "Revelation of Ruins ft. Rattlesnakes / Opening Act \u00b7 Yanshi | Afterparty \u00b7 KAALKIRattlesnakes is a Delhi-based alternative metal band turning inner chaos into sound. Blending modern metal, dissonance and haunting melodies, their music is a mirror of lost stories \u2014 unfiltered, unpolished, unforgettable. With a four-track EP, a single and seven shows behind them, Rattlesnakes chases fragments of peace beneath the noise, even if it means bleeding to find them.Revelation of Ruins is a multi-artist live music event featuring three distinct acts, bringing together different sounds and experiences for one memorable night.anshi (Opening act) - yanshi writes songs that feel like memories you\u2019ve lived in, even if you haven\u2019t owing to the intimacy and honesty they offer. In between the transition from singer-songwriter to indie-pop, in the faded duality the soundscape of the album finds it\u2019s place. Bleeding through tissues. written on walls, her diary, bits of leftover paper and in her phone as she goes, the words to her songs are feelings manifested in the capacity that language offers. With her debut studio EP \u2018art imitates life\u2019 yanshi walks onto new terrain, one which demands you step on it bare footed, come to terms with all the mistakes that were made when she mistook love for devotion. This six track EP is the truth of learning what love really means when the daydream fades.KAALKI \u2014 KAALKI is a melodic house project built around emotion, energy, and storytelling through sound. Blending hypnotic grooves, cinematic melodies, and deep atmospheric textures, the project aims to create journeys that go beyond the dancefloor.Inspired by the idea of transformation and new beginnings, KALKI is about evolving through music and creating a sound that feels both familiar and otherworldly.A new era begins with sound",
     "startDate": "2026-12-12T20:30:00+05:30",
@@ -2606,6 +2606,42 @@
       "History & heritage",
       "Guided tour",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Serenity Surrender Basic Healing Workshop",
+    "description": "The Serenity Surrender Basic Healing Workshop is a 3 day Course which empowers individuals to unlock their potential and reclaim the Joy and Love of life through different levels of Energy Healing. This Workshop includes many activities, discussions and healings on:Tapping into the Higher Consciousness through the Clair SensesKarmic Patterns and RelationshipsAlignment of Energy CentresWhite Light MeditationHealing Through EmotionsDissolving unwanted Radiations and Negative EnergiesHealing Stress & Mental AgonyFinances and its role in LifeResolving Bodily AilmentsManifestation of DesiresMany more activities & DiscussionsThe Workshop enables the participants to live through a higher awareness and ability to resolve any situations in life.",
+    "startDate": "2026-12-18T09:00:00+05:30",
+    "endDate": "2026-12-20T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "NSIC Estate, Okhla Phase III, Okhla Industrial Estate, New Delhi, Delhi, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54836930000000000000",
+        "longitude": "77.26565880000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "25+",
+    "offers": {
+      "@type": "Offer",
+      "price": "20000.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "HealThroughNature-HTN",
+      "url": "https://urbanaut.app/partner/healthroughnature-htn"
+    },
+    "url": "https://urbanaut.app/spot/serenity-surrender-basic-healing-workshop",
+    "keywords": [
+      "Workshop",
       "URBANAUT"
     ]
   },

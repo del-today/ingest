@@ -1,40 +1,6 @@
 [
   {
     "@type": "ScreeningEvent",
-    "name": "Dedicated to my ex(2019)",
-    "url": "https://fillum.in/screening/6558",
-    "startDate": "2026-11-25T18:00:00+05:30",
-    "endDate": "2026-11-25T18:00:00+05:30",
-    "description": "Free entry.",
-    "location": {
-      "@type": "Place",
-      "name": "Instituto Cervantes",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Instituto Cervantes Nueva Delhi"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
-    "name": "The Last Viking(2025)",
-    "url": "https://fillum.in/screening/6606",
-    "startDate": "2026-11-25T19:00:00+05:30",
-    "endDate": "2026-11-25T19:00:00+05:30",
-    "description": "",
-    "location": {
-      "@type": "Place",
-      "name": "Stein Auditorium, India Habitat Centre",
-      "address": "Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "EUFF - European Union Film Festival"
-    }
-  },
-  {
-    "@type": "ScreeningEvent",
     "name": "Sand in Your Hair(2025)",
     "url": "https://fillum.in/screening/6621",
     "startDate": "2026-11-26T16:30:00+05:30",

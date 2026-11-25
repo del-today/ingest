@@ -20,13 +20,20 @@
          },
          "name": "The Beer Café"
       },
-      "name": "Tribal Sacrament-4",
+      "name": "Tribal Sacrament- IV",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
             "inventoryLevel": 200,
             "name": "Single Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/tribal-sacrament-4-sbinavzq"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 50,
+            "name": "Group Ticket",
             "url": "https://www.skillboxes.com/events/ticket/tribal-sacrament-4-sbinavzq"
          }
       ],
