@@ -1,43 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Filming with Light: A Workshop by Luis Mac\u00edas",
-    "description": "A hands-on workshop on making cinema without a camera, by creating, manipulating and altering moving images with light on the film emulsion.Facilitated by analog film practitioner Luis Mac\u00edas (Crater-Lab, Barcelona), the workshop introduces the fundamentals of camera-less 16mm filmmaking: how to create and manipulate moving images directly on celluloid.Working with black-and-white film, you will try three techniques:Rayographs: making abstract images by placing objects directly on film stock and exposing their shadows and textures with flashlights.Flat printing: copying and altering existing negative or positive film through direct emulsion-to-emulsion contact printing, a fast way to overprint, layer materials and build rhythmic fades.Darkroom processing: developing film under safelight to watch and adjust the image in real time through positive development, solarization and chemical manipulation.Suitable for beginners and experienced makers. Friday 27 November 2026, 2:00 PM to 6:00 PM, at W.I.P aDDa, Lado Sarai. Small group, limited seats.TicketsWorkshop only: the workshop, 2:00 PM to 6:00 PM.Workshop + Screening: the workshop, plus the talk and 16mm screening by Luis Mac\u00edas, Your Eyes Are Spectral Machines, at 7:30 PM the same evening at W.I.P aDDa.Student: Workshop + Screening at a student price, with a valid college or university ID shown at entry.Good to knowThe workshop is in the basement at W.I.P aDDa, down one flight of stairs. There is no lift. There is a large open-ground parking lot close to the venue. The nearest metro station is Saket.Tickets are non-refundable unless we cancel or significantly change the event. You can transfer your ticket to someone else.About Luis Mac\u00edas: artist, filmmaker and composer of moving images. His work deals with the formal and spectral properties of the moving image, through the cinematographic device itself and the photochemical nature of the medium. His films and expanded cinema pieces in Super 8, 16mm and 35mm have been shown at film, art and music festivals, art centres, museums and alternative spaces around the world. He is co-founder of Crater-Lab, an independent artist-run film lab for analog cinema.Presented by W.I.P Labs at W.I.P aDDa, Lado Sarai. Supported by Institut Ramon Llull.",
-    "startDate": "2026-11-27T14:00:00+05:30",
-    "endDate": "2026-11-27T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "A, Basement, F 301, Nai Basti, Lado Sarai, New Delhi, Delhi 110030, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.52467800000000000000",
-        "longitude": "77.19484849999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1500.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "W.I.P Labs",
-      "url": "https://urbanaut.app/partner/wip-labs"
-    },
-    "url": "https://urbanaut.app/spot/filming-with-light-a-workshop-by-luis-macias",
-    "keywords": [
-      "Workshop",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "The Bali Jatra Table: A Culinary Voyage",
     "description": "The Bali Jatra Table: A Culinary VoyageTwo shores. Shared histories. Seven courses. One culinary voyage.Centuries ago, the maritime traders of ancient Kalinga (present-day Odisha) set sail across the Bay of Bengal, carrying with them not just goods and spices, but stories, traditions, and cultural influences. Their voyages forged connections with Southeast Asia, including Bali, leaving behind a legacy that continues to be celebrated through Odisha's annual Bali Jatra festival.This November, Rosei Ghara invites you to embark on a culinary voyage inspired by this fascinating chapter of history.In collaboration with Chef Rachit Keertiman and Chef Kartikeya Sinha, we present a specially curated seven-course tasting menu that explores the culinary parallels between Odisha and Bali.Through shared ingredients, familiar cooking techniques, complementary flavours, and contemporary interpretations, each course tells a story of two distinct food cultures connected by history and the sea.What Makes This Table Special?A Celebration of Shared HeritageInspired by Bali Jatra, the experience explores the historic maritime and cultural connections between Odisha and Bali, bringing their culinary similarities to life on a single table.Seven Courses, Two Culinary CulturesCome aboard. Let's discover what happens when two shores meet at one table.",
@@ -68,83 +31,6 @@
     },
     "url": "https://urbanaut.app/spot/the-bali-jatra-table-a-culinary-voyage",
     "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Bazaar by the Aahvaan Project",
-    "description": "The Aahvaan Project was founded in 2016, inspired by the nirgun philosophy of love and the works of sufi saints such as Kabir, Lal Ded and Lalon Fakir. Through a unique combination of storytelling and music, Aahvaan aims to create a space for conversations around the relevance of love in today\u2019s times.Vocals - VediGuitar - Sumant BalakrishnanPercussion - Makrand SanonFor years, Depot 48 has been a safe, nurturing and non-discriminatory space for artists to express themselves and connect with their audiences. Furthermore, this is the only Aahvaan date in Delhi in their upcoming winter tour. ",
-    "startDate": "2026-11-27T20:00:00+05:30",
-    "endDate": "2026-11-27T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53415570000000000000",
-        "longitude": "77.24300939999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Depot48",
-      "url": "https://urbanaut.app/partner/depot48"
-    },
-    "url": "https://urbanaut.app/spot/bazaar-by-the-aahvaan-project",
-    "keywords": [
-      "Live GIG",
-      "Local",
-      "Music",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "THE ONLY SHOW THAT MATTERS with JAHNVI",
-    "description": "JAHNVI is the sound of the silent scream. This Delhi-based artist doesn\u2019t just play music; she exposes the emotional chaos we keep locked inside. Her searing confessional writing, venomous melodies, gut-wrenching riffs and hauntingly powerful vocals fluidly smash together rock, metal, and hip-hop into crushing anthems. Known for her powerful performances she has shared stage with country's most respected and popular bands. From opening for Bloodywood at Outrage to sharing stages with Indian Ocean and Bhayanak Maut, JAHNVI is making a significant impact on the Indian Music Scene, crafting a world for the emotionally damaged through her music.She is also making significant cultural Impact as she started her own Mental Health Initiative, called 'Fight To The Phantom: Mental Health Music Sessions'NOTE! ADD THIS SHOW DESCRIPTION AS WELL:Hey it's J! Welcome to THE ONLY SHOW THAT MATTERS!I curated this 2-hour All Original Songs Show,just for you. Because you matter the most. NO. MATTER. WHAT.So hold tight and get ready for a 2 hour public exorcism! The most exclusive headline set of the season! This is the kind of chaos you usually have to wait for a festival to see.I'm here with my incredible band to let the chaos flood with hauntingly powerful vocals, venomous melodies, gut-wrenching riffs and deeply personal storytelling.If there's a show that's actually gonna make you feel something real and that you're alive, it's this show!",
-    "startDate": "2026-11-27T22:00:00+05:30",
-    "endDate": "2026-11-27T23:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53415570000000000000",
-        "longitude": "77.24300939999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Depot48",
-      "url": "https://urbanaut.app/partner/depot48"
-    },
-    "url": "https://urbanaut.app/spot/the-only-show-that-matters-with-jahnvi",
-    "keywords": [
-      "Live GIG",
-      "Music",
       "Food & drink",
       "URBANAUT"
     ]
@@ -443,42 +329,6 @@
     "url": "https://urbanaut.app/spot/almost-walked-with-blue-toka-najaf-khan-tomb",
     "keywords": [
       "Walking Tour",
-      "History & heritage",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "K se Karuna: India\u2019s Intellectual Inheritance",
-    "description": "About the LectureJoin us for a lecture that asks where our political vocabulary, that we use almost every day - actually came from:Liberty, equality, fraternity. Three words that built the modern nation, and all three arrived here from somewhere else. What if the organising idea had come from within South Asia instead?The nation-making of the nineteenth and twentieth centuries settled on that trio, and we have lived inside it ever since: in constitutional safeguards, in the language of rights, in what we understand democratic life to guarantee. Ideas that germinated in the continental world and travelled into the Global South as imports, carrying both a formal-legal meaning and a substantive promise for how people might live together.Pia David turns to a different inheritance. Karu\u1e47\u0101, compassion, is an idea that emerges from within this geography, and it has its own long history of thinking about difference, diversity and ethical living. Not only in the ancient past, but through the reformist and political thought of modern India, where it kept resurfacing in arguments about what a shared life demands.The question the lecture leaves us with is a live one. What would it mean to treat karu\u1e47\u0101 not as sentiment but as political method?A way of addressing global conflict, human despair, and the particular poverty that enters political discourse when compassion goes missing from it?The session explores:How liberty, equality and fraternity became the default grammar of modern political lifeKaru\u1e47\u0101 as an idea with its own intellectual lineage in South Asia, ancient and modernHow questions of diversity, difference and ethical living were imagined from within this regionWhat compassion offers as a mode of praxis, not just a normative horizon for theory, but something politics could actually doAbout the SpeakerPia David is from Lucknow, Uttar Pradesh, and is trained as a political scientist. As a Foundation for Universal Responsibility Dalai Lama Studies Fellow in 2023, she worked on Dharma and Dhamma: A Modern Reading of Gandhi and Ambedkar in the Context of Deep Diversity. Her interests span liberal political philosophy and social and political thought from South Asia in the context of the world. She can be found on long walks through forested gardens, tombs and ruins, usually with friends, sometimes in solitude, never without music. Her current favourite is Libertango. She lives in Delhi, wondering about Mir's lament on his exile.About unLectureunLecture brings experts out of classrooms and into caf\u00e9s, bars and neighbourhood spaces across Delhi. Created by three friends from college who wanted learning to feel warm, social and alive \u2014 unLecture turns an otherwise ordinary evening into a conversation you may think about long after it ends.",
-    "startDate": "2026-11-28T16:00:00+05:30",
-    "endDate": "2026-11-28T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "Ground & First Floor, The Exchange Building, 13, Sham Nath Marg, Civil Lines, New Delhi, Delhi, 110054, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.67649720000000000000",
-        "longitude": "77.22523319999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "550.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "url": "https://urbanaut.app/partner/unlecture"
-    },
-    "url": "https://urbanaut.app/spot/k-se-karuna-indias-intellectual-inheritance",
-    "keywords": [
       "History & heritage",
       "URBANAUT"
     ]
@@ -855,44 +705,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Jack of Spade'Z",
-    "description": "Jack of spade'z is a rock and roll / modern rock band based in Delhi. We have played at depot 48 for many multiple occasions. Venues like depot 48 are perfect for an experimental band like ours, we love the environment, the sound, the hospitality and the stage set-up at Depot.",
-    "startDate": "2026-11-28T22:00:00+05:30",
-    "endDate": "2026-11-28T23:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "28.53415570000000000000",
-        "longitude": "77.24300939999999000000"
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "priceCurrency": "INR",
-      "availability": "LimitedAvailability"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Depot48",
-      "url": "https://urbanaut.app/partner/depot48"
-    },
-    "url": "https://urbanaut.app/spot/jack-of-spadez",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Sunday Run Pawty",
     "description": "Nootie & SWAG are bringing you a women-only,\u00a03 KM run/walk with your pets\u00a0followed by a fun breakfast social at Aku's. Whether you want to run, walk or simply enjoy a relaxed morning with your pet, we've got something for everyone!Here's the plan:We start with 3 km run/walkTake hydration and paw wipe breaks after every lapCoffee and breakfast at Aku'sBreakfast for pets by Nootie.Fun challengesGoodies by NootieBring your furry bestie or come solo and spend your morning doing something fun together! It's going to be a super fun Sunday.The CommunityAt Sweat Like A Girl, we curate women-only sports and fitness experiences and community meet-ups. These are beginner-friendly, supportive, judgment-free spaces. No pressure. Just you, your body, and a whole lot of fun. You'll leave feeling stronger, braver, and a little bit unstoppable.",
@@ -1002,6 +814,42 @@
       "Local",
       "Premium",
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Khula Manch - Open Mic for Poetry, Stories & Music",
+    "description": "About the EventKhula Manch is your platform \u2014 a space where voices rise, stories breathe, and emotions speak. An open mic by The Social House which invites poets, storytellers, musicians, singers, and thinkers to come together and express without boundaries. No filters, no auditions- just you and your art.About The Social House (TSH)The Social House is India\u2019s leading community-driven platform for poetry, storytelling, music, and performance arts.With over 2.6 million subscribers on YouTube, TSH has become a cultural movement, giving voice to thousands across stages, screens, and cities. From curated shows to college festivals, from digital content to grassroots movements, TSH builds spaces that feel like home for every performer.Benefits of being a part of the TSH CommunityCredibility & Experience: 7+ years, 1500+ events, and trusted by artists nationwideMassive Audience: Performances reach millions via YouTube, Instagram & FacebookSafe & Supportive Environment: Respectful, warm, and artist-firstProfessional Setup: Great sound, stage, and aesthetic documentationGrowth Opportunities: Potential to get featured and grow your creative journey.Creative Mentorship: Learn directly from the industrySpecial Segment: Learning & Experience with Ravie SolankyThe event will be hosted by Ravie Solanky, performer, creative mentor, and the founder of The Social House.He brings his signature energy, insightful stories, and years of experience to the stage, helping performers not only express but grow.Bonus: Q&A with Ravie SolankyGet a chance to ask your questions, discuss your creative journey, and gain practical insights during a special interactive session with him.What to Expect at Khula ManchA mic, a moment, and an open-hearted audienceUnfiltered poetry, music, stories, and comedyNo competition, JUST connectionHost-guided learning & inspirationQ&A and knowledge-sharing with RavieWelcoming vibes + creative environmentChance to get featured on TSH\u2019s social platformsNote for Performers: If you wish to get your performance video professionally recorded by our team, it will be available at an additional cost. Please connect with the venue team on the day of the performance for details.\u201cIf a performer is more than 10 minutes late from the mentioned time, we reserve the right to cancel the performance slot.\u201d\ud83c\udfa4 Come. Speak. Connect.Whether it\u2019s your first time or fiftieth, the Khula Manch is always open for you.",
+    "startDate": "2026-11-29T14:00:00+05:30",
+    "endDate": "2026-12-05T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Building no. 18, 2nd Floor, Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.55467540000000000000",
+        "longitude": "77.19423619999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "249.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Social House",
+      "url": "https://urbanaut.app/partner/thesocialhouse"
+    },
+    "url": "https://urbanaut.app/spot/khulamanchbytsh",
+    "keywords": [
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -2018,6 +1866,46 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "HerStory at the National Museum",
+    "description": "She Was Always ThereSilsila Presents A Gender-Lens Heritage WalkHalf of humanity is women. So why do they take up so little space in the history we're taught?They were always there. They were just rarely shown.On this Heritage walk through the National Museum, Delhi, we read the collection differently. Moving from the Stone Age to the Medieval period, we trace the stories of gender hidden in plain sight:\ud83c\udf3e The Ancient Mother Goddess. Discover why early societies revered her, and what that reveals about the power women held.\ud83d\udc83 The Harappan Dancing Girl. Look beyond the famous bronze figure to what she says about women in the Indus Valley.\ud83d\udd25 The Mysterious Yoginis. Meet the fierce, powerful figures that history rarely spotlights.\ud83d\udc40 Hidden in Plain Sight. Women were always there; you'll learn to spot the stories most visitors walk right past.and\u2615 Afterwards: we settle in over coffee to share ideas, questions and perspectives.",
+    "startDate": "2026-12-06T10:00:00+05:30",
+    "endDate": "2026-12-06T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Janpath Rd, Central Secretariat, Kartavya Path, New Delhi, Delhi 110011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.61190780000000000000",
+        "longitude": "77.21929089999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "599.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Silsila Heritage",
+      "url": "https://urbanaut.app/partner/silsilaheritage"
+    },
+    "url": "https://urbanaut.app/spot/silsilaherstory",
+    "keywords": [
+      "Workshop",
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Two Lectures - One Afternoon",
     "description": "Two Lectures. One Afternoon. A Whole Lot to Take Away.This December, we\u2019re bringing you two special lectures in collaboration with Spotify Unlock - one afternoon, two speakers, and two very different ways to think about the world around you.Whether you're looking to make smarter financial decisions or learn what it takes to build a business against the odds, there's something here for you. About our SpeakersA Lecture by Gauri DevidayalGauri Devidayal is a Mumbai-based lawyer-turned-restaurateur and the Director and Co-founder of Food Matters Group. With no prior experience in hospitality or entrepreneurship, she helped build The Table, one of India's most celebrated restaurants. Since then, she has co-founded several ventures, including Magazine St. Kitchen, Mag St., Kaspers, Mag St. Bread Co., Iktara and Loud Mouth.Her lecture, 'Going Against the Grain: Lessons in Risk, Reinvention and Resilience from 16 Years in Hospitality', draws on her journey of building businesses in an industry where no two days are quite the same. Expect candid stories and lessons on taking risks, navigating uncertainty, reinventing yourself and building something from the ground up.\u2028A Lecture by Monika HalanMonika Halan is a trusted personal finance writer, speaker and bestselling author who has spent over 30 years working across media, public policy and financial education. She is the founder of Dhan Chakra Financial Education and the author of three bestselling books: Let's Talk Money, Let's Talk Mutual Funds and Let's Talk Legacy. She is also a member of IRDAI's Insurance Advisory Committee and an adjunct professor at Banasthali University.Her lecture, 'Investing in Turbulent Times: How to Navigate Uncertainty and Make Smarter Financial Choices', connects the dots between geopolitical conflict and personal finance. She will explore how markets respond to global uncertainty, why different parts of the market react differently to stress, and how asset allocation and diversification can help investors navigate volatility. Expect practical portfolio examples and a framework to make more informed investment decisions without panicking every time the markets turn.About our Brand PartnerSpotify Unlock by @spotifyindia is a podcast-led learning initiative where experts curate conversations around ideas, building world-class businesses, financial literacy and growth while also bringing those conversations into real-world spaces.WhenSaturday, 6 December12 PM\u20135 PMOdella, Green Park, New DelhiWho it's forAnyone looking to get smarter about their money, curious about entrepreneurship and the realities of building a business, or simply keen to spend an afternoon learning something new over a drink.",
@@ -2273,6 +2161,44 @@
     "keywords": [
       "Live GIG",
       "Music",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Art Therapy & Book Reading Workshop",
+    "description": "\ud83c\udfa8 **Pause. Read. Create. Reflect.**Have you ever picked up a book and found a little piece of yourself hidden between its pages?Or picked up a crayon, paintbrush or pencil and created something without worrying whether it was good enough?And..somewhere along the way, we got too busy. What if, just for an afternoon, we let all of that go?What if we simply paused, listened to a story, played with colours, let our imagination wander and gave ourselves the freedom to create?That's the thought behind our upcoming **Art Therapy & Book Reading Workshop**, inspired by *Tiny Habits Massive Results*.Because sometimes, the best thing you can create is a little time for yourself. \u2764\ufe0f",
+    "startDate": "2026-12-12T14:00:00+05:30",
+    "endDate": "2026-12-12T16:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "WZ-1390/6, Pankha Rd, D1B Block, Janakpuri, New Delhi, Delhi, 110046, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.60821770000000000000",
+        "longitude": "77.10370630000000000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "599.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "YUJ Studio",
+      "url": "https://urbanaut.app/partner/yuj-studio"
+    },
+    "url": "https://urbanaut.app/spot/arttherapy-book-reading-workshopyuj",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -2618,6 +2544,44 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Sad Boy Hours: An Urdu Ambient Mixtape",
+    "description": "Sad Boy Hours : An Urdu Ambient Mixtape | Sajid Rizvi Trio ft. Marcus Kamei & Ashish MasihSajid Rizvi is a Delhi based singer, guitarist and songwriter with over eleven years on stage across India and abroad. Trained at KM Music Conservatory, Chennai and True School of Music, Mumbai, he has presented a multilingual solo show at London's Nehru Centre, busked in Paris, and performs regularly at The Piano Man, Quorum and Le M\u00e9ridien. His debut original \"\"Deep Jale\"\" received nationwide radio airplay and has been featured by Rolling Stone India.For Sad Boy Hours he is joined by Marcus Kamei on electric guitar and Ashish Masih on drums. Together they revisit the songs a generation grew up with on cassettes and late night radio: Kaavish, Strings, Jal, Fuzon, Bayaan, Atif Aslam, Coke Studio favourites and Nusrat Fateh Ali Khan, rearranged as a trio with textured drums, tambourine and electric guitar.Why Depot48: these are songs people know by heart but rarely hear live. Depot48's intimate listening room lets the audience hear every lyric, share the stories behind the songs, and sing along together.",
+    "startDate": "2026-12-23T21:00:00+05:30",
+    "endDate": "2026-12-23T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, M Block Market, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/sad-boy-hours-an-urdu-ambient-mixtape",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "ARUSHI BHARGAVA",
     "description": "Arushi Bhargava writes about things the heart can feel before the mind can explain. The Singapore-based singer-songwriter blends Hindi lyricism with R&B & folk. Trained in Hindustani classical music, she brings her roots to create music shaped by ambient guitars, textured rhythms and intimate storytelling. Silsila, her original live set, connects seven songs through music, costume and visual detail. Love unfolds in chapters, each sewing a thread into an exhilarating journey.",
@@ -2651,6 +2615,43 @@
       "Live GIG",
       "Music",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Zabaan-e-Hindustan",
+    "description": "Zabaan-e-Hindustan is a 90-minute storytelling experience that imagines India finding a voice of its own.What would a country say if it could speak? What stories would it remember? What would it tell us about the people, traditions, languages and experiences that have shaped it?Conceptualised, written and performed by Ravie Solanky, the production unfolds through a narrative in which the performer gradually reveals himself as Hindustan. Through original monologues, stories and poetry, the audience is taken through different chapters of the country's cultural and collective memory.The performance brings attention to traditions and art forms that are slowly disappearing, the shared cultural experiences that have shaped generations, and the human stories associated with India's past, including the Partition and its lasting impact on people and their sense of belonging.The show features two to three original stories, each introduced and connected through specially written monologues. These stories are presented as expressive live readings, brought to life through voice modulation, characterisation, narration and performance. The performance concludes with a reflective monologue and a nazm, leaving the audience with one final thought: if India could speak, perhaps it would have a story for each one of us.Written & Performed by: Ravie Solanky",
+    "startDate": "2026-12-26T18:00:00+05:30",
+    "endDate": "2026-12-26T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.52447540000000000000",
+        "longitude": "77.18552059999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "299.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Social House",
+      "url": "https://urbanaut.app/partner/thesocialhouse"
+    },
+    "url": "https://urbanaut.app/spot/zabaan-e-hindustan",
+    "keywords": [
+      "History & heritage",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -2690,6 +2691,44 @@
       "Local",
       "Music",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Stoplights",
+    "description": "The Stoplights is a 5-member multigenre student band from New Delhi.",
+    "startDate": "2026-12-30T21:00:00+05:30",
+    "endDate": "2026-12-30T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, M Block Market, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/the-stoplights",
+    "keywords": [
+      "Live GIG",
+      "Local",
+      "Music",
       "URBANAUT"
     ]
   },
