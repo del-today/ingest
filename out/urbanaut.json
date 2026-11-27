@@ -950,7 +950,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "360.00",
+      "price": "300.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -1096,7 +1096,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "549.00",
+      "price": "349.00",
       "priceCurrency": "INR",
       "availability": "LimitedAvailability"
     },
@@ -2128,6 +2128,43 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "WRITE DRUNK EDIT SOBER : A two day workshop",
+    "description": "Join us for a two-day writing workshop led by Alina Gufran, author of No Place to Call My Own, inspired by the art of writing freely and editing with intention. Let your thoughts flow on the 9th, refine your words on the 10th, and explore the art of storytelling through writing, reflection and feedback. Featuring a conversation with Samit Basu on his new book The Pictures of Darpan Ray, his writing process and thoughts on life, the universe and everything.",
+    "startDate": "2026-12-09T17:00:00+05:30",
+    "endDate": "2026-12-09T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "Local Shopping Center, 14, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.54778550000000000000",
+        "longitude": "77.21136729999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "5900.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gully Labs",
+      "url": "https://urbanaut.app/partner/baithak"
+    },
+    "url": "https://urbanaut.app/spot/write-drunk-edit-sober-a-two-day-workshop",
+    "keywords": [
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Mehar Midha: Solo Piano",
     "description": "Mehar Midha is a self-taught pianist and arranger with experience in solo piano performance and a cappella arrangements. His repertoire spans Western classical, rock, pop, jazz, blues, film and television themes, and contemporary music.He has won National 1st Place in Western Group Song and National 2nd Place in Western Instrumental Solo at the AIU Youth Festival. He has performed at The Piano Man and opened for When Chai Met Toast at The Piano Man, Eldeco Centre.",
@@ -2199,6 +2236,43 @@
       "Festival",
       "Eco Friendly",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Ummeed Express x Warehouse Mix",
+    "description": "We are back to bring alive some folky and groovy times with Ummeed Express and Warehouse Mix this December! Ummeed Express returns to Delhi with new friends for a live music performance bringing stories and sounds from Rajasthan, Assam, Bengal, Punjab, Himachal Pradesh and Kerala, followed by our very first \u2018Dil Duniya Dance\u2019 session in collaboration with Tartaruga, Warehouse Mix and friends to celebrate folk as it travels across borders with electrifying rhythms and dhol jams! Talb (Talab) Khan, Suvati Kalbeliya, Kalyan Kalet, Romit Ranjan Gupta, Sunayana Wadhawan, Riaz Ahmed, Nilotpal (Niku) Nath, Devanga Bidrum Kalita, Preeti, Sachin Bhatt, Sanjay Bhatt, Patanath Kalbeliya, Ayana, Geetanjali Kalta, Tartaruga, Warehouse Mix, Indian Sign Langauage team and the entire Depot 48 team are ready to welcome you onboard!Book your tickets now and follow us on Instagram for more updates @ummeed_express and @warehousemixofficial !Aajao!! Discover folk-inspired music and dance all night with us. The live performance will be ISL accessible. \u0932\u094b\u0915 \u0917\u0940\u0924\u094b\u0902, \u0928\u0908 \u0927\u0941\u0928\u094b\u0902 \u0914\u0930 \u0914\u0930 \u0928\u091a\u093e \u0926\u0947\u0928\u0947 \u0935\u093e\u0932\u0940 \u0924\u093e\u0932\u094b\u0902 \u0915\u094b \u091c\u0940\u0935\u0902\u0924 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0909\u092e\u094d\u092e\u0940\u0926 \u090f\u0915\u094d\u0938\u092a\u094d\u0930\u0947\u0938 \u0914\u0930 \u0935\u0947\u092f\u0930\u0939\u093e\u0909\u0938 \u092e\u093f\u0915\u094d\u0938 \u092a\u0939\u0932\u0940 \u092c\u093e\u0930 \u0938\u093e\u0925 \u0906 \u0930\u0939\u0947 \u0939\u0948\u0902! \u0921\u093f\u092a\u094b 48 \u092a\u0930 \u092e\u093f\u0932\u0947\u0902\u0917\u0947!\u0907\u0938 \u0926\u093f\u0938\u092e\u094d\u092c\u0930, \u0909\u092e\u094d\u092e\u0940\u0926 \u090f\u0915\u094d\u0938\u092a\u094d\u0930\u0947\u0938 \u0928\u090f \u0926\u094b\u0938\u094d\u0924\u094b\u0902 \u0915\u0947 \u0938\u093e\u0925 \u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u090f\u0915 \u092c\u093e\u0930 \u092b\u093f\u0930 \u0906\u092a\u0915\u0947 \u092c\u0940\u091a \u090f\u0915 \u0932\u093e\u0907\u0935 \u0938\u0902\u0917\u0940\u0924 \u092a\u094d\u0930\u0938\u094d\u0924\u0941\u0924\u093f \u0932\u093e \u0930\u0939\u0940 \u0939\u0948, \u091c\u094b \u0930\u093e\u091c\u0938\u094d\u0925\u093e\u0928, \u0905\u0938\u092e, \u092c\u0902\u0917\u093e\u0932, \u092a\u0902\u091c\u093e\u092c, \u0939\u093f\u092e\u093e\u091a\u0932 \u092a\u094d\u0930\u0926\u0947\u0936 \u0914\u0930 \u0915\u0947\u0930\u0932 \u0915\u0940 \u0915\u0939\u093e\u0928\u093f\u092f\u093e\u0901 \u0914\u0930 \u0917\u0940\u0924 \u0932\u0947\u0915\u0930 \u0906\u090f\u0917\u0940, \u0914\u0930 \u0909\u0938\u0915\u0947 \u0920\u0940\u0915 \u092c\u093e\u0926 \u0924\u093e\u0930\u0924\u093e\u0930\u0942\u0917\u093e \u0914\u0930 \u0935\u0947\u092f\u0930\u0939\u093e\u0909\u0938 \u092e\u093f\u0915\u094d\u0938 \u0915\u0947 \u0926\u094b\u0938\u094d\u0924\u094b\u0902 \u0915\u0947 \u0938\u093e\u0925 \u0939\u092e\u093e\u0930\u093e \u092a\u0939\u0932\u093e '\u0926\u093f\u0932 \u0926\u0941\u0928\u093f\u092f\u093e \u0921\u093e\u0902\u0938' \u0938\u0947\u0936\u0928 \u0939\u094b\u0917\u093e, \u091c\u093f\u0938\u092e\u0947\u0902 \u0926\u0941\u0928\u093f\u092f\u093e \u092d\u0930 \u092e\u0947\u0902 \u0932\u094b\u0915 \u0938\u0902\u0917\u0940\u0924 \u0915\u0940 \u092a\u0941\u0915\u093e\u0930 \u0914\u0930 \u0924\u093e\u0932\u094b\u0902 \u092a\u0930 \u092e\u093f\u0932\u0915\u0930 \u0928\u093e\u091a\u0947\u0902\u0917\u0947 \u0914\u0930 \u0932\u093e\u0907\u0935 \u0922\u094b\u0932 \u092d\u0940 \u0939\u092e\u093e\u0930\u093e \u0938\u093e\u0925 \u0926\u0947\u0902\u0917\u0947! \u0924\u0932\u092c (\u0924\u093e\u0932\u092c) \u0916\u093e\u0928, \u0938\u0941\u0935\u0924\u0940 \u0915\u093e\u0932\u092c\u0947\u0932\u093f\u092f\u093e, \u0915\u0932\u094d\u092f\u093e\u0923 \u0915\u093e\u0932\u0947\u0924, \u0930\u094b\u092e\u093f\u0924 \u0930\u0902\u091c\u0928 \u0917\u0941\u092a\u094d\u0924\u093e, \u0938\u0941\u0928\u092f\u0928\u093e \u0935\u0927\u093e\u0935\u093e\u0928, \u0930\u093f\u092f\u093e\u091c \u0905\u0939\u092e\u0926, \u0928\u0940\u0932\u094b\u0924\u094d\u092a\u0932 (\u0928\u093f\u0915\u0941) \u0928\u093e\u0925, \u092a\u094d\u0930\u0940\u0924\u093f, \u0938\u091a\u093f\u0928 \u092d\u091f\u094d\u091f, \u0938\u0902\u091c\u092f \u092d\u091f\u094d\u091f, \u092a\u093e\u0924\u093e\u0928\u093e\u0925 \u0915\u093e\u0932\u092c\u0947\u0932\u093f\u092f\u093e, \u0906\u092f\u093e\u0928\u093e, \u0917\u0940\u0924\u0902\u091c\u0932\u093f \u0915\u093e\u0932\u091f\u093e, \u0924\u093e\u0930\u0924\u093e\u0930\u0942\u0917\u093e, \u0935\u0947\u092f\u0930\u0939\u093e\u0909\u0938 \u092e\u093f\u0915\u094d\u0938, \u092d\u093e\u0930\u0924\u0940\u092f \u0938\u093e\u0902\u0915\u0947\u0924\u093f\u0915 \u092d\u093e\u0937\u093e \u091f\u0940\u092e \u0914\u0930 \u092a\u0942\u0930\u0940 \u0921\u093f\u092a\u094b 48 \u091f\u0940\u092e \u0906\u092a\u0915\u093e \u0938\u094d\u0935\u093e\u0917\u0924 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0924\u0948\u092f\u093e\u0930 \u0939\u0948\u0902!\u091c\u0932\u094d\u0926 \u0939\u0940 \u0905\u092a\u0928\u0940 \u091f\u093f\u0915\u091f \u092c\u0941\u0915 \u0915\u0930\u0947\u0902 \u0914\u0930 \u091c\u093e\u0928\u0915\u093e\u0930\u0940 \u0915\u0947 \u0932\u093f\u090f \u0939\u092e\u0947\u0902 \u0907\u0902\u0938\u094d\u091f\u093e\u0917\u094d\u0930\u093e\u092e @ummeed_express \u0914\u0930 @warehousemixofficial \u092a\u0930 \u092b\u0949\u0932\u094b \u0915\u0930\u0947\u0902!\u0906\u0913 !! \u0939\u092e\u093e\u0930\u0947 \u0938\u093e\u0925 \u092a\u0942\u0930\u0940 \u0930\u093e\u0924 \u0932\u094b\u0915-\u092a\u094d\u0930\u0947\u0930\u093f\u0924 \u0938\u0902\u0917\u0940\u0924 \u0914\u0930 \u0928\u093e\u091a\u0928\u0947 -\u0917\u093e\u0928\u0947 \u092e\u0947\u0902 \u0916\u094b \u091c\u093e\u0913\u0964 \u0932\u093e\u0907\u0935 \u092a\u094d\u0930\u0926\u0930\u094d\u0936\u0928 \u0915\u0947 \u0926\u094c\u0930\u093e\u0928 \u092d\u093e\u0930\u0924\u0940\u092f \u0938\u093e\u0902\u0915\u0948\u0924\u093f\u0915 \u092d\u093e\u0937\u093e \u0909\u092a\u0932\u092c\u094d\u0927 \u0939\u094b\u0917\u0940\u0964",
+    "startDate": "2026-12-11T22:00:00+05:30",
+    "endDate": "2026-12-11T23:59:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, M Block Market, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/ummeed-express-x-warehouse-mix",
+    "keywords": [
+      "Live GIG",
+      "Music",
       "URBANAUT"
     ]
   },
@@ -2539,6 +2613,44 @@
       "Live GIG",
       "Local",
       "Music",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "ARUSHI BHARGAVA",
+    "description": "Arushi Bhargava writes about things the heart can feel before the mind can explain. The Singapore-based singer-songwriter blends Hindi lyricism with R&B & folk. Trained in Hindustani classical music, she brings her roots to create music shaped by ambient guitars, textured rhythms and intimate storytelling. Silsila, her original live set, connects seven songs through music, costume and visual detail. Love unfolds in chapters, each sewing a thread into an exhilarating journey.",
+    "startDate": "2026-12-25T20:00:00+05:30",
+    "endDate": "2026-12-25T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "address": "M9, Level, block market, 2, M, M Block Market, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.53415570000000000000",
+        "longitude": "77.24300939999999000000"
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "599.00",
+      "priceCurrency": "INR",
+      "availability": "LimitedAvailability"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Depot48",
+      "url": "https://urbanaut.app/partner/depot48"
+    },
+    "url": "https://urbanaut.app/spot/arushi-bhargava",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
       "URBANAUT"
     ]
   },
