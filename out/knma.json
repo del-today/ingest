@@ -45,7 +45,7 @@
     "url": "https://www.knma.org/whats-on/exhibitions/inheritors-of-earth/",
     "startDate": "2026-09-09T10:00:00+05:30",
     "endDate": "2026-12-22T18:00:00+05:30",
-    "description": "Installation",
+    "description": "Experiential",
     "location": {
       "@type": "Place",
       "name": "KNMA, New Delhi",
@@ -100,26 +100,6 @@
     ]
   },
   {
-    "@type": "EducationEvent",
-    "name": "Felting Impressions",
-    "url": "https://www.knma.org/whats-on/workshops/felting-impressions/",
-    "startDate": "2026-11-27T10:00:00+05:30",
-    "endDate": "2026-11-28T18:00:00+05:30",
-    "description": "Workshop",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA, New Delhi",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
     "@type": "ExhibitionEvent",
     "name": "Joler Abakash",
     "url": "https://www.knma.org/whats-on/exhibitions/joler-abaksh/",
@@ -129,26 +109,6 @@
     "location": {
       "@type": "Place",
       "name": "Alipore Museum",
-      "address": "New Delhi"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kiran Nadar Museum of Art"
-    },
-    "keywords": [
-      "KNMA"
-    ]
-  },
-  {
-    "@type": "EducationEvent",
-    "name": "Exploring Principles of Art",
-    "url": "https://www.knma.org/whats-on/workshops/exploring-principles-of-art/",
-    "startDate": "2026-11-28T10:00:00+05:30",
-    "endDate": "2026-11-28T10:00:00+05:30",
-    "description": "Saturday Family Workshop",
-    "location": {
-      "@type": "Place",
-      "name": "KNMA, New Delhi",
       "address": "New Delhi"
     },
     "organizer": {
@@ -245,7 +205,7 @@
     "url": "https://www.knma.org/whats-on/exhibitions/unsettled-matter-s/",
     "startDate": "2026-12-04T10:00:00+05:30",
     "endDate": "2027-03-21T18:00:00+05:30",
-    "description": "Sculpture",
+    "description": "Installation",
     "location": {
       "@type": "Place",
       "name": "Purana Qila",
@@ -306,6 +266,86 @@
     "startDate": "2026-12-05T10:00:00+05:30",
     "endDate": "2026-12-05T10:00:00+05:30",
     "description": "Saturday Family Workshop",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Enigmas of Representation",
+    "url": "https://www.knma.org/whats-on/talks/enigmas-of-representation/",
+    "startDate": "2026-12-08T10:00:00+05:30",
+    "endDate": "2026-12-08T10:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Critical Material",
+    "url": "https://www.knma.org/whats-on/workshops/critical-material-2/",
+    "startDate": "2026-12-12T10:00:00+05:30",
+    "endDate": "2026-12-13T18:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "KNMA, New Delhi",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "KNMA Art Hours at India Biennale",
+    "url": "https://www.knma.org/whats-on/workshops/knma-art-hours-at-india-biennale/",
+    "startDate": "2026-12-12T10:00:00+05:30",
+    "endDate": "2026-12-12T10:00:00+05:30",
+    "description": "",
+    "location": {
+      "@type": "Place",
+      "name": "Purana Qila",
+      "address": "New Delhi"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Kiran Nadar Museum of Art"
+    },
+    "keywords": [
+      "KNMA"
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Material-landscapes",
+    "url": "https://www.knma.org/whats-on/workshops/material-landscapes/",
+    "startDate": "2026-12-12T10:00:00+05:30",
+    "endDate": "2026-12-12T10:00:00+05:30",
+    "description": "Artist in Me",
     "location": {
       "@type": "Place",
       "name": "KNMA, New Delhi",
